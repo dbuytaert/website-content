@@ -1,0 +1,26 @@
+---
+title: 'Mollom status update and planned improvements'
+date: '2009-08-21T04:44:51-04:00'
+author: Dries
+tags:
+  - Drupal
+  - Mollom
+published: true
+type: blog
+url: /mollom-status-update-and-planned-improvements
+id: 951
+---
+
+We recently wrote about the fact that [the number of messages we've filtered have doubled in three months](https://dri.es/hundred-million-spam-attempts-blocked). All things considered, we're handling well over 200 million HTTP requests each month, making Mollom the largest web service I've ever helped build. Further, since each of these requests is dynamic, they're fairly expensive because we can't apply even simple caching techniques. Each request to Mollom retrieves data, invokes a parser, uses statistical classifiers, and updates reputation models, among other things.
+
+While the response time of the service has always remained good, we've had some recent scalability issues that have affected our ability to react to the constantly changing behavior of spammers. To react well, we must constantly analyze our data and continually retrain our classifiers. We do this asynchronously, using background processes that are not part of the HTTP requests. When we started Mollom, it took ten minutes to analyze our dataset and to train a new classifier. With our current volume of data and frequency of requests, that same operation now takes at least 14 hours. Needless to say, that has affected our ability to effectively deal with spammers, and as a result, the quality of our classifiers have regressed. While that regression is only a fraction of a percentage, it is more than we would like, and if you get hammered badly like many of our users, it is noticeable. Not good.
+
+To deal with the pains of, frankly, our unexpected success and growth, we did (or are in the process of doing) the following three things.
+
+First, with the help of hosting company [OpenMinds](http://openminds.be) (these guys rock!), we upgraded one of our existing servers in Europe (for horizontal scaling), and launched our first server in the United States (for vertical scaling). Because of our large volume of data, and since our analysis is very data intensive, much of the work we do is I/O-bound. So, we've added more RAM to our servers, configured the disks in RAID-1 to mirror their contents for better read and write performance, and purchased 64GB solid state disk drives (SSD) that are providing random access times at least 150 times faster than our regular hard disks. With the extra RAM, the RAID-1 configuration, and the solid state disks, it now much faster to train a new classifier; a significant improvement making us much more agile in fighting spammers. The hardware upgrades are almost complete. Solid state disks, by the way, are seriously hot stuff.
+
+Second, when you're processing more than 200 million HTTP requests a month, it becomes really hard to figure out what is going on, and doubly hard to determine where and why classification mistakes are being made. Simply put, Ben and myself started to feel like the characters in [the story of the blind men and the elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) as we tried to figure out why some spam was slipping through. To cope, we've made important architectural changes to our backend software allowing it to learn faster and increasing our ability to debug it on the fly. We've worked on these changes for more than two months, and last weekend, we made an important breakthrough that allowed us to visualize all our data in a completely new way. We're now able to generate [heat maps](https://en.wikipedia.org/wiki/Heat_map) of our algorithms to identify the weaker areas or the areas that are currently under attack. Already, we've identified a number of areas where we will improve our algorithms to be more effective. In other words, expect Mollom's accuracy to improve over the next couple of weeks as we translate our new insights into algorithmic improvements.
+
+Third, with the help of [Damien Tournoud](https://www.drupal.org/user/22211), we fixed an important bug in the Drupal Mollom module, while also improving its logging abilities. The bugfix should prevent incorrect CAPTCHA results from being accepted when (or if) a Mollom server is unavailable, and the improved logging makes it easier to understand specific attempts to circumvent Mollom CAPTCHAs on your site. With the new output, for example, we've already seen that some spammers have adjusted their scripts to specifically target Mollom-protected sites, and we've also learned that some caching modules cause conflicts with Mollom in some configurations. In addition, [Dave Reid](http://davereid.net), our new co-maintainer for the Drupal Mollom module, has committed many smaller but no less important improvements, bugfixes and clean-ups to the Mollom module. Last night, we packaged all these changes into [a new release of the Mollom module for Drupal 6](https://www.drupal.org/project/mollom). Upgrading is certainly recommended.
+
+We believe that the combination of all these elements will significantly improve our ability to combat spam, and that they will form the platform that will carry Mollom to the next level. Stay tuned as we complete the roll-out of all our changes.

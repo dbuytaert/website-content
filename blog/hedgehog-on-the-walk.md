@@ -1,0 +1,17 @@
+---
+title: 'Hedgehog on the walk'
+date: '2006-07-29T15:02:22-04:00'
+author: Dries
+tags:
+  - Drupal
+  - Photography
+  - 'PhD research'
+published: true
+type: blog
+url: /hedgehog-on-the-walk
+id: 116
+---
+
+[image miscellaneous-2006/hedgehog-on-the-walk]
+
+I was in Italy last week to attend the [International Summer School on Advanced Computer Architecture and Compilation for Embedded Systems](https://www.hipeac.net/acaces2006/) when I bumped into this Italian hedgehog on my way to breakfast. (HiPEAC, the organization behind the summer school is using [Drupal](https://www.drupal.org/) for [their website](https://www.hipeac.net/).)

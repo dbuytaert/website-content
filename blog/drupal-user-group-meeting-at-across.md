@@ -1,0 +1,17 @@
+---
+title: 'Drupal User Group Meeting at Across'
+date: '2007-06-02T04:28:11-04:00'
+author: Dries
+tags:
+  - Drupal
+published: true
+type: blog
+url: /drupal-user-group-meeting-at-across
+id: 276
+---
+
+[image bdug-2007/across-attendees]
+[image bdug-2007/across-pieter-and-dries]
+[image bdug-2007/across-luc-van-braekel]
+
+Glad to see that there is more and more Drupal talent arising in the [Low Countries](https://en.wikipedia.org/wiki/Low_Countries). *Good!*

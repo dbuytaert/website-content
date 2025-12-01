@@ -1,0 +1,19 @@
+---
+title: 'Gamezebo using Drupal'
+date: '2009-04-27T04:41:58-04:00'
+author: Dries
+tags:
+  - Drupal
+  - 'Drupal sites'
+  - Mollom
+  - 'Mollom sites'
+  - Entertainment
+published: true
+type: blog
+url: /gamezebo-using-drupal
+id: 637
+---
+
+[Gamezebo](http://gamezebo.com) is using [Drupal](https://www.drupal.org) and [Mollom](https://mollom.com) to power [its game community](http://gamezebo.com). For those who don't know, Gamezebo is a Webby Award-nominated website that focuses on editorial coverage of the "casual games industry". The site is founded by industry veteran Joel Brodie, former head of business development at Yahoo! Games, and has an editorial staff that has written for publications like USA Today, CNN, and the New York Times. [Tree House Agency](http://treehouseagency.com/) completed all of the development and theming of the site.
+
+[image drupal/gamezebo]
