@@ -1,0 +1,18 @@
+---
+title: 'Puerto Rico'
+date: '2011-05-03T07:04:21-04:00'
+author: Dries
+tags:
+  - Photography
+  - Acquia
+published: true
+type: blog
+url: /puerto-rico-2011
+id: 2326
+---
+
+Last week, we flew everyone at [Acquia](https://www.acquia.com) that joined before 2011, as well as their significant others (or someone of their choice) to the Caribbean to celebrate an incredible year. I wrote about the trip in my blog post titled ["Acquia goes to the Caribbean"](https://dri.es/acquia-goes-to-the-caribbean). Now we're back from this amazing trip, I've uploaded my pictures to [my Puerto Rico 2011 album](https://dri.es/album/puerto-rico-2011/) and included some below. *Work hard, live hard!*
+
+[image puerto-rico-2011/beach-on-private-island]
+[image puerto-rico-2011/acquia-catamaran-1]
+[image puerto-rico-2011/el-conquistador-pools-by-night]
