@@ -2,6 +2,7 @@
 title: 'Scaling Open Source communities'
 date: '2014-09-30T05:47:47-04:00'
 author: Dries
+summary: 'Successful Open Source projects must transition from pure volunteerism to paid contributions, mirroring how public goods like roads evolved historically.'
 tags:
   - Drupal
   - 'Open Source'

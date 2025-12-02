@@ -2,6 +2,7 @@
 title: 'A method for giving credit to organizations that contribute code to Open Source'
 date: '2014-06-04T07:46:44-04:00'
 author: Dries
+summary: 'By tracking organizational contributions in Git commits, we can give organizations more tangible reasons to fund open source and help sustain it over time.'
 tags:
   - Drupal
   - 'Open Source'

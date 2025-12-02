@@ -2,6 +2,7 @@
 title: 'Drupal CMS 1.0 released'
 date: '2025-01-15T09:29:52-05:00'
 author: Dries
+summary: 'Drupal CMS 1.0 launches with AI agents, privacy tools, and pre-built recipes to help marketers build ambitious websites faster.'
 image: blog/drupal-cms-1-released
 tags:
   - Drupal

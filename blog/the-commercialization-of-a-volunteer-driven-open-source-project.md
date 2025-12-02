@@ -2,6 +2,7 @@
 title: 'The commercialization of a volunteer-driven Open Source project'
 date: '2010-10-25T16:23:07-04:00'
 author: Dries
+summary: 'Open source projects naturally evolve from volunteer efforts to include paid contributors, enabling them to compete with commercial software.'
 tags:
   - Drupal
   - Joomla

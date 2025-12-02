@@ -2,6 +2,7 @@
 title: 'Drupal is for ambitious digital experiences'
 date: '2016-06-29T05:34:56-04:00'
 author: Dries
+summary: "Defining Drupal as 'for ambitious digital experiences' captures its true capabilities better than limiting it to enterprise use."
 tags:
   - Drupal
 featured: true
