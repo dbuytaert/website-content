@@ -2,6 +2,7 @@
 title: "The Ockham's Razor Principle of Content Management Systems"
 date: '2006-01-11T11:31:46-05:00'
 author: Dries
+summary: 'Content management systems win through simplicity. When features match, users choose the easiest tool, making usability critical for growth.'
 tags:
   - Drupal
   - Usability

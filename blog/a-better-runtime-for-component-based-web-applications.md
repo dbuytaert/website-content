@@ -2,6 +2,7 @@
 title: 'A better runtime for component-based web applications'
 date: '2014-08-27T15:53:44-04:00'
 author: Dries
+summary: 'Future web platforms need a runtime that isolates plugins in separate processes, enabling SaaS providers to safely run untrusted user code.'
 tags:
   - Drupal
   - WordPress

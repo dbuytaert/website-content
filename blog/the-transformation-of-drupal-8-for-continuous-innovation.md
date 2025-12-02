@@ -2,6 +2,7 @@
 title: 'The transformation of Drupal 8 for continuous innovation'
 date: '2016-09-28T04:46:09-04:00'
 author: Dries
+summary: 'Drupal 8 shifted from breaking changes between major releases to semantic versioning, scheduled updates, and experimental modules for faster innovation.'
 tags:
   - Drupal
 featured: true
