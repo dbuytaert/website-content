@@ -6,6 +6,7 @@ summary: 'We received the ACM SIGPLAN award for the most influential paper of OO
 tags:
   - Java
   - 'PhD research'
+  - Awards
 featured: true
 published: true
 type: blog

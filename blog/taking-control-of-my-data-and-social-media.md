@@ -8,6 +8,7 @@ tags:
   - 'Open Web'
   - POSSE
   - Personal
+  - 'Social media'
 published: true
 type: blog
 url: /taking-control-of-my-data-and-social-media

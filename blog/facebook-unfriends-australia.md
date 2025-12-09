@@ -5,6 +5,7 @@ author: Dries
 image: blog/facebook-social-decay
 tags:
   - 'Open Web'
+  - 'Social media'
 published: true
 type: blog
 url: /facebook-unfriends-australia

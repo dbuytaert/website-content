@@ -5,6 +5,7 @@ author: Dries
 summary: 'If you are still using PHP 5, now is the time to upgrade to a newer version of PHP.'
 tags:
   - Drupal
+  - PHP
 published: true
 type: blog
 url: /the-end-of-php-5

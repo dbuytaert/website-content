@@ -5,6 +5,7 @@ author: Dries
 summary: "Entering 2018, I plan on setting a New Years' resolution of using social media less, and blogging more."
 tags:
   - 'Open Web'
+  - 'Social media'
 published: true
 type: blog
 url: /more-blogging-and-less-social-media

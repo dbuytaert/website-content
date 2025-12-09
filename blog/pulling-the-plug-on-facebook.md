@@ -9,6 +9,7 @@ tags:
   - POSSE
   - Personal
   - Privacy
+  - 'Social media'
 featured: true
 published: true
 type: blog

@@ -7,6 +7,8 @@ image: blog/my-blog-as-my-thought-space
 tags:
   - POSSE
   - Personal
+  - Writing
+featured: false
 published: true
 type: blog
 url: /reclaiming-my-blog-as-my-thought-space

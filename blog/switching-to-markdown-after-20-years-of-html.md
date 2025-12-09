@@ -5,6 +5,8 @@ author: Dries
 tags:
   - Drupal
   - 'My site'
+  - Writing
+featured: false
 published: true
 type: blog
 url: /switching-to-markdown-after-20-years-of-html
