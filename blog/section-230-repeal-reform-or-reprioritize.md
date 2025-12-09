@@ -6,6 +6,7 @@ tags:
   - 'Open Source'
   - 'Open Web'
   - Policy
+  - 'Social media'
 published: true
 type: blog
 url: /section-230-repeal-reform-or-reprioritize

@@ -8,6 +8,7 @@ tags:
   - 'Open Web'
   - POSSE
   - 'My site'
+  - 'Social media'
 featured: true
 published: true
 type: blog

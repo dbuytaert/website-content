@@ -8,6 +8,7 @@ tags:
   - Drupal
   - Photography
   - 'Photo stream'
+  - 'Social media'
 featured: false
 published: true
 type: blog

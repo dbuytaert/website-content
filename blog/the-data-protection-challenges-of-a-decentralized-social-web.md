@@ -7,6 +7,7 @@ tags:
   - 'Open Web'
   - POSSE
   - Privacy
+  - 'Social media'
 published: true
 type: blog
 url: /the-data-protection-challenges-of-a-decentralized-social-web

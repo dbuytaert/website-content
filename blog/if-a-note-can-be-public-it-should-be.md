@@ -5,6 +5,8 @@ author: Dries
 tags:
   - Drupal
   - 'My site'
+  - Writing
+featured: false
 published: true
 type: blog
 url: /if-a-note-can-be-public-it-should-be

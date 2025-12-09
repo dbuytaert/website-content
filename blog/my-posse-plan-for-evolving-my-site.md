@@ -9,6 +9,7 @@ tags:
   - 'Open Web'
   - Personal
   - 'My site'
+  - 'Social media'
 published: true
 type: blog
 url: /my-posse-plan-for-evolving-my-site
