@@ -6,6 +6,7 @@ image: drupal/starshot-leadership
 tags:
   - Drupal
   - 'Drupal Starshot'
+  - 'Leadership updates'
 published: true
 type: blog
 url: /announcing-the-drupal-starshot-leadership-team

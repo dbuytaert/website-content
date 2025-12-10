@@ -4,7 +4,6 @@ date: '2021-01-06T04:39:12-05:00'
 author: Dries
 image: blog/wikipedia-timbl-markup
 tags:
-  - Drupal
   - 'Semantic web'
 featured: true
 published: true

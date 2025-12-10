@@ -5,6 +5,7 @@ author: Dries
 image: miscellaneous-2022/orange-cookies
 tags:
   - Humor
+  - 'Artificial Intelligence'
 published: true
 type: blog
 url: /the-power-of-ai-and-orange-cookies

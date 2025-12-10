@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Drupal
   - Press
-  - Acquia
 published: true
 type: blog
 url: /cmswire-interview

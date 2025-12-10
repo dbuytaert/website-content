@@ -6,7 +6,6 @@ summary: 'A plan how we can make Composer easier to use with Drupal'
 image: drupal/drupal-composer-initiative
 tags:
   - Drupal
-  - Composer
 published: true
 type: blog
 url: /a-plan-for-drupal-and-composer

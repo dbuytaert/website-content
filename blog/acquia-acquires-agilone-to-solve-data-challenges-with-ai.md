@@ -6,6 +6,7 @@ summary: 'Acquia to acquire AgilOne, a Customer Data Platform (CDP) with advance
 image: acquia/dxp-shared-user-data
 tags:
   - Acquia
+  - 'Artificial Intelligence'
 published: true
 type: blog
 url: /acquia-acquires-agilone-to-solve-data-challenges-with-ai

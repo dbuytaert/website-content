@@ -10,6 +10,7 @@ tags:
   - Predictions
   - 'The future'
   - Policy
+  - 'Artificial Intelligence'
 featured: true
 published: true
 type: blog

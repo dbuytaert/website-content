@@ -5,7 +5,6 @@ author: Dries
 summary: 'How Jay and I came up with the name Acquia, and how it is (not) pronounced.'
 image: acquia/ah-kwe-eh
 tags:
-  - Drupal
   - Acquia
   - 'Startup lessons'
 featured: false

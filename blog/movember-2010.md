@@ -3,7 +3,6 @@ title: 'Movember 2010'
 date: '2010-11-11T21:44:20-05:00'
 author: Dries
 tags:
-  - Drupal
   - Self-portrait
   - Acquia
   - Personal

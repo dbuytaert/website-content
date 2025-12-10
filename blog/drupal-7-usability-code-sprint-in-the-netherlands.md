@@ -4,7 +4,6 @@ date: '2009-06-23T14:31:32-04:00'
 author: Dries
 tags:
   - Drupal
-  - Acquia
   - Usability
   - 'The Netherlands'
 published: true

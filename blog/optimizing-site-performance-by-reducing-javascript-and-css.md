@@ -7,6 +7,7 @@ tags:
   - Accessibility
   - Drupal
   - 'My site'
+  - JavaScript
 published: true
 type: blog
 url: /optimizing-site-performance-by-reducing-javascript-and-css
