@@ -8,7 +8,6 @@ tags:
   - Drupal
   - 'State of Drupal'
   - 'Drupal Association'
-  - 'Automatic Updates'
   - 'Experience Builder'
   - Marketing
   - France

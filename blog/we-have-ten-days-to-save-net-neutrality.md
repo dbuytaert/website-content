@@ -6,7 +6,6 @@ summary: "Now is the time to stand up for net neutrality: we have 10 days and ne
 image: blog/cable-squeeze
 tags:
   - 'Open Web'
-  - Drupal
   - Policy
   - 'Net neutrality'
   - Government

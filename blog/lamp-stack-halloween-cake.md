@@ -3,7 +3,6 @@ title: 'LAMP stack Halloween cake'
 date: '2010-10-31T12:03:34-04:00'
 author: Dries
 tags:
-  - Drupal
   - MySQL
   - Acquia
 published: true

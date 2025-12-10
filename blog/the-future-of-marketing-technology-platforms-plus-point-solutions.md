@@ -6,6 +6,7 @@ summary: "Is the future of marketing technology best-of-breed or an all-in-one-p
 image: acquia/user-profile-puzzle
 tags:
   - Acquia
+  - Marketing
 published: true
 type: blog
 url: /the-future-of-marketing-technology-platforms-plus-point-solutions

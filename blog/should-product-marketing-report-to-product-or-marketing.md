@@ -7,6 +7,7 @@ tags:
   - Acquia
   - 'Startup lessons'
   - Business
+  - Marketing
 published: true
 type: blog
 url: /should-product-marketing-report-to-product-or-marketing

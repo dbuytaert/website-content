@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Drupal
   - 'Drupal Association'
-  - Acquia
   - Boston
 published: true
 type: blog

@@ -6,6 +6,7 @@ summary: 'Living our values'
 tags:
   - Drupal
   - Diversity
+  - 'Drupal Association'
 published: true
 type: blog
 url: /living-our-values

@@ -8,6 +8,7 @@ tags:
   - Drupal
   - 'Photo stream'
   - Photography
+  - JavaScript
 featured: false
 published: true
 type: blog

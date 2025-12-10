@@ -4,6 +4,7 @@ date: '2017-04-10T06:42:40-04:00'
 author: Dries
 tags:
   - Drupal
+  - 'Drupal Association'
 published: true
 type: blog
 url: /next-steps-for-evolving-drupal-governance

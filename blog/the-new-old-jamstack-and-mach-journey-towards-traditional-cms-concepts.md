@@ -6,7 +6,6 @@ summary: 'How Jamstack, MACH, and traditional CMSes like Drupal are evolving by 
 image: drupal/jamstack-mach-traditional-cms
 tags:
   - Drupal
-  - Acquia
   - 'Headless Drupal'
 featured: true
 published: true

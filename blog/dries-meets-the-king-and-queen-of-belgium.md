@@ -3,7 +3,6 @@ title: 'Dries meets the King and Queen of Belgium'
 date: '2016-02-02T07:31:42-05:00'
 author: Dries
 tags:
-  - Networking
   - Travel
   - Belgium
 featured: true

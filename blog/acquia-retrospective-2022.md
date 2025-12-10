@@ -8,6 +8,7 @@ tags:
   - Acquia
   - Retrospective
   - Business
+  - Drupal
 published: true
 type: blog
 url: /acquia-retrospective-2022

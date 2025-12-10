@@ -4,7 +4,6 @@ date: '2015-08-25T08:25:05-04:00'
 author: Dries
 tags:
   - 'The future'
-  - Drupal
   - Innovation
   - Publishing
 published: true
