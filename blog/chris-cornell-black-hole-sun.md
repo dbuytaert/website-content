@@ -3,7 +3,6 @@ title: 'Chris Cornell - Black hole sun'
 date: '2013-07-25T20:04:25-04:00'
 author: Dries
 tags:
-  - Personal
   - 'Favorite music'
 published: true
 type: blog

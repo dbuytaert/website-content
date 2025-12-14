@@ -3,7 +3,9 @@ title: 'Open Source skiing'
 date: '2009-04-02T22:47:44-04:00'
 author: Dries
 tags:
-  - Drupal
+  - 'Open Source'
+  - Skiing
+featured: false
 published: true
 type: blog
 url: /open-source-skiing

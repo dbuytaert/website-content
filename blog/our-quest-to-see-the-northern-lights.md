@@ -5,7 +5,6 @@ author: Dries
 summary: 'An arctic adventure in beautiful Lapland: dog sledding, reindeer sledding, aurora hunts, snowmobiling, log cabins and campfires.'
 image: finland-2017/dog-sledding-7
 tags:
-  - Personal
   - Travel
   - Birthday
   - Photography

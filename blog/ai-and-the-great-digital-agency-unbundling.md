@@ -6,9 +6,8 @@ summary: 'AI is transforming digital agencies and web development at an accelera
 image: blog/great-digital-agency-unbundling
 tags:
   - 'Artificial Intelligence'
-  - Business
   - Drupal
-  - Orchestration
+  - 'Workflow orchestration'
 featured: true
 published: true
 type: blog

@@ -4,7 +4,7 @@ date: '2007-07-25T07:09:56-04:00'
 author: Dries
 tags:
   - Drupal
-  - Performance
+  - 'Web performance'
   - Joomla
   - Typo3
   - WordPress

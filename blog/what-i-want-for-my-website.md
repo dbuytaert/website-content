@@ -6,7 +6,6 @@ summary: 'I really only want two things for my website!'
 tags:
   - Drupal
   - Gardening
-  - 'The future'
   - Mollom
   - 'My site'
 published: true

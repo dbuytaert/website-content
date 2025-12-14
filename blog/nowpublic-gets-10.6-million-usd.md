@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Drupal
   - NowPublic
-  - Business
 published: true
 type: blog
 url: /nowpublic-gets-10.6-million-usd

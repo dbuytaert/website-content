@@ -7,7 +7,6 @@ tags:
   - Acquia
   - Drupal
   - Retrospective
-  - Business
 published: true
 type: blog
 url: /acquia-retrospective-2016

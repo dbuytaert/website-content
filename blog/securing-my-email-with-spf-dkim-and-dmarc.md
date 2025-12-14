@@ -5,7 +5,6 @@ author: Dries
 image: blog/email-headers-2021
 tags:
   - 'My site'
-  - Personal
 published: true
 type: blog
 url: /securing-my-email-with-spf-dkim-and-dmarc

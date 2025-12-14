@@ -5,6 +5,8 @@ author: Dries
 tags:
   - Activepieces
   - Drupal
+  - Automation
+featured: false
 published: true
 type: note
 url: /running-activepieces-locally-with-docker

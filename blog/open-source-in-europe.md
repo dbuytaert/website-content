@@ -4,7 +4,6 @@ date: '2007-01-17T10:25:12-05:00'
 author: Dries
 tags:
   - Drupal
-  - Business
 published: true
 type: blog
 url: /open-source-in-europe

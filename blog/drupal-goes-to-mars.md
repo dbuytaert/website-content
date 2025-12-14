@@ -5,8 +5,10 @@ author: Dries
 tags:
   - Drupal
   - 'Drupal sites'
+  - Space
   - Education
   - Government
+featured: false
 published: true
 type: blog
 url: /drupal-goes-to-mars

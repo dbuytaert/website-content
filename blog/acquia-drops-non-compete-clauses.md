@@ -3,7 +3,6 @@ title: 'Acquia drops non-compete clauses'
 date: '2014-05-02T11:22:24-04:00'
 author: Dries
 tags:
-  - Business
   - Acquia
 published: true
 type: blog

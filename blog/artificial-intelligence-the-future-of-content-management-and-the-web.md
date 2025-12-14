@@ -7,10 +7,9 @@ image: blog/endless-server-power
 tags:
   - Drupal
   - 'My site'
-  - Predictions
-  - 'The future'
   - Policy
   - 'Artificial Intelligence'
+  - Trends
 featured: true
 published: true
 type: blog

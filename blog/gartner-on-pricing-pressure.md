@@ -4,7 +4,8 @@ date: '2007-11-20T15:04:51-05:00'
 author: Dries
 tags:
   - Drupal
-  - Business
+  - 'Business model'
+featured: false
 published: true
 type: blog
 url: /gartner-on-pricing-pressure

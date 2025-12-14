@@ -4,7 +4,6 @@ date: '2012-02-16T14:34:38-05:00'
 author: Dries
 tags:
   - Drupal
-  - 'The future'
   - 'Web services'
   - 'Headless Drupal'
 published: true

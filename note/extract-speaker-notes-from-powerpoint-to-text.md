@@ -2,6 +2,10 @@
 title: 'Extract speaker notes from PowerPoint to text'
 date: '2025-10-09T11:41:43-04:00'
 author: Dries
+tags:
+  - Python
+  - Automation
+featured: false
 published: true
 type: note
 url: /extract-speaker-notes-from-powerpoint-to-text

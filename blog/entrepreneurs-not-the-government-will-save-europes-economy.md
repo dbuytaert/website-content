@@ -3,9 +3,8 @@ title: "Entrepreneurs, not the government, will save Europe's economy"
 date: '2014-01-02T04:52:41-05:00'
 author: Dries
 tags:
-  - Business
-  - 'The future'
   - Policy
+  - 'Startup lessons'
   - Government
 published: true
 type: blog

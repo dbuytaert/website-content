@@ -5,7 +5,7 @@ author: Dries
 summary: 'How Wikipedia serves 10,000 link previews per second'
 image: blog/wikipedia-link-previews
 tags:
-  - Performance
+  - 'Web performance'
 published: true
 type: blog
 url: /how-wikipedia-implemented-link-previews

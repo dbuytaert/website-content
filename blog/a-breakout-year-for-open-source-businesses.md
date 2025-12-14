@@ -5,7 +5,6 @@ author: Dries
 summary: 'The FUD around Open Source companies is officially over.'
 tags:
   - 'Open Source'
-  - Business
 published: true
 type: blog
 url: /a-breakout-year-for-open-source-businesses

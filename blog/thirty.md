@@ -3,7 +3,6 @@ title: Thirty
 date: '2008-11-19T02:11:42-05:00'
 author: Dries
 tags:
-  - Personal
   - Birthday
 featured: true
 published: true

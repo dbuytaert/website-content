@@ -4,7 +4,6 @@ date: '2009-12-14T17:19:58-05:00'
 author: Dries
 tags:
   - Drupal
-  - Business
   - Acquia
   - 'White House'
   - Government

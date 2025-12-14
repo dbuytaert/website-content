@@ -6,7 +6,6 @@ summary: 'I fundamentally believe that good businesses have the power to improve
 tags:
   - Drupal
   - Acquia
-  - Business
   - Leadership
 featured: true
 published: true

@@ -6,7 +6,6 @@ summary: 'At the Acquia hackathon, a team showed how augmented reality can chang
 tags:
   - Drupal
   - 'Acquia Lift'
-  - 'The future'
   - Acquia
   - 'Augmented reality'
 published: true

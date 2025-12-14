@@ -4,6 +4,8 @@ date: '2023-12-07T09:28:35-05:00'
 author: Dries
 tags:
   - Drupal
+  - Automation
+featured: false
 published: true
 type: note
 url: /automating-code-checks-in-drupal-using-git-hooks

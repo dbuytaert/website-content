@@ -7,7 +7,6 @@ image: acquia/product-portfolio-2020
 tags:
   - Retrospective
   - Acquia
-  - Business
   - Drupal
 published: true
 type: blog

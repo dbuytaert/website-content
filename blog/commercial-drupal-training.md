@@ -4,7 +4,6 @@ date: '2006-05-09T04:49:35-04:00'
 author: Dries
 tags:
   - Drupal
-  - Business
 published: true
 type: blog
 url: /commercial-drupal-training

@@ -5,8 +5,8 @@ author: Dries
 summary: 'We are at the beginning of a massive re-architecture of the web where we go from "pull" to "push". Eventually, content will find us.'
 image: blog/push-pull
 tags:
-  - 'The future'
-  - Business
+  - 'Open Web'
+  - Trends
 featured: true
 published: true
 type: blog

@@ -8,6 +8,8 @@ tags:
   - 'Artificial Intelligence'
   - Alt-text
   - Accessibility
+  - Python
+featured: false
 published: true
 type: blog
 url: /comparing-local-llms-for-alt-text-generation-round-2
@@ -34,7 +36,7 @@ I decided to evaluate these models to see whether they've caught up to GPT-4 and
   <tbody>
   <tr>
   <td>
-   <a href="https://huggingface.co/google/gemma-3-27b-it">Gemma 3 (27B)</a>
+  <a href="https://huggingface.co/google/gemma-3-27b-it">Gemma 3 (27B)</a>
 </td>
   <td>Google DeepMind</td>
   <td>March 2025</td>
@@ -42,7 +44,7 @@ I decided to evaluate these models to see whether they've caught up to GPT-4 and
 </tr>
   <tr>
   <td>
-   <a href="https://huggingface.co/Qwen/Qwen2.5-VL-32B-Instruct">Qwen 2.5 VL (32B)</a>
+  <a href="https://huggingface.co/Qwen/Qwen2.5-VL-32B-Instruct">Qwen 2.5 VL (32B)</a>
 </td>
   <td>Alibaba</td>
   <td>March 2025</td>
@@ -50,7 +52,7 @@ I decided to evaluate these models to see whether they've caught up to GPT-4 and
 </tr>
   <tr>
   <td>
-   <a href="https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503">Mistral 3.1 (24B)</a>
+  <a href="https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503">Mistral 3.1 (24B)</a>
 </td>
   <td>Mistral AI</td>
   <td>March 2025</td>

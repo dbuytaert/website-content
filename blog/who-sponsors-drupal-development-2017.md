@@ -7,7 +7,6 @@ image: drupal/contributions-top-30-organizations-2017
 tags:
   - Drupal
   - 'Open Source'
-  - Business
   - Diversity
   - 'Drupal sponsors'
 published: true

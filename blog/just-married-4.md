@@ -4,7 +4,6 @@ date: '2008-08-10T14:57:20-04:00'
 author: Dries
 image: wedding-gabor-and-zsuzsi-2008/wedding-5
 tags:
-  - Personal
   - Photography
 published: true
 type: blog

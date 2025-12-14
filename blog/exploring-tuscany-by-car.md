@@ -5,7 +5,6 @@ author: Dries
 image: tuscany-2018/rolling-hills-with-vineyards
 tags:
   - Photography
-  - Personal
   - Travel
   - Italy
   - Tuscany

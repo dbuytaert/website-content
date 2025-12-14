@@ -4,6 +4,8 @@ date: '2008-05-09T03:04:10-04:00'
 author: Dries
 tags:
   - Mollom
+  - Python
+featured: false
 published: true
 type: blog
 url: /python-wrapper-for-mollom

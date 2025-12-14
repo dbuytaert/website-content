@@ -6,7 +6,6 @@ image: acquia/acquia-widen
 tags:
   - Acquia
   - Drupal
-  - Business
 published: true
 type: blog
 url: /acquia-to-acquire-widen

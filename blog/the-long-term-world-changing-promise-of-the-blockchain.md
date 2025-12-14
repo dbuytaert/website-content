@@ -6,6 +6,7 @@ tags:
   - Blockchain
   - 'Open Source'
   - 'Open Web'
+  - Trends
 published: true
 type: blog
 url: /the-long-term-world-changing-promise-of-the-blockchain

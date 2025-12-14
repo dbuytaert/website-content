@@ -6,7 +6,6 @@ summary: 'An opinion piece featuring my thoughts on what is wrong with the curre
 image: miscellaneous-2017/coder-dojo
 tags:
   - Privacy
-  - 'The future'
   - Policy
   - 'Open Web'
   - Drupal

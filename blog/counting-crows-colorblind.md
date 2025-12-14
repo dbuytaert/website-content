@@ -3,7 +3,6 @@ title: 'Counting Crows - Colorblind'
 date: '2011-05-30T17:44:59-04:00'
 author: Dries
 tags:
-  - Personal
   - 'Favorite music'
 published: true
 type: blog

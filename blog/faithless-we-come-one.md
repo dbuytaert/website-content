@@ -3,7 +3,6 @@ title: 'Faithless - We come one'
 date: '2009-11-29T06:16:29-05:00'
 author: Dries
 tags:
-  - Personal
   - 'Favorite music'
 published: true
 type: blog

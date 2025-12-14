@@ -3,7 +3,7 @@ title: 'Faster is better'
 date: '2009-01-06T10:05:10-05:00'
 author: Dries
 tags:
-  - Performance
+  - 'Web performance'
   - Statistics
 published: true
 type: blog

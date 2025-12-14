@@ -3,7 +3,9 @@ title: Photosynth
 date: '2007-06-11T04:20:33-04:00'
 author: Dries
 tags:
-  - 'The future'
+  - Microsoft
+  - Photography
+featured: false
 published: true
 type: blog
 url: /photosynth

@@ -7,7 +7,6 @@ image: blog/mysql
 tags:
   - MySQL
   - 'Open Source'
-  - Business
   - 'Startup lessons'
 published: true
 type: blog

@@ -7,7 +7,6 @@ image: blog/open-source-makers-and-takers-1
 tags:
   - Drupal
   - 'Open Source'
-  - Business
 featured: true
 published: true
 type: blog

@@ -3,8 +3,7 @@ title: 'Skiing in France'
 date: '2015-04-13T08:02:07-04:00'
 author: Dries
 tags:
-  - Video
-  - Personal
+  - Skiing
   - France
 published: true
 type: blog

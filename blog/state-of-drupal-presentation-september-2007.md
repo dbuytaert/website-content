@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Drupal
   - DrupalCon
-  - 'The future'
   - 'State of Drupal'
 published: true
 type: blog

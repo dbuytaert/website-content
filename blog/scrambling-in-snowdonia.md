@@ -67,8 +67,6 @@ After three days of hiking we made it back to the base of Tryfan where it all st
 
 [image hiking-in-wales-2019/selfie-at-the-end-of-our-trip]
 
-[newsletter-photos]
-
 We hadn't taken a shower in four days, so we definitely started to become aware of each other's smell. As soon as we got to Klaas' [Volkswagen California](https://en.wikipedia.org/wiki/Volkswagen_California) (campervan), we showered in the parking lot, behind the car. I ended up washing my armpits four times, once for each day I didn't shower.
 
 [image hiking-in-wales-2019/first-shower-after-four-days]

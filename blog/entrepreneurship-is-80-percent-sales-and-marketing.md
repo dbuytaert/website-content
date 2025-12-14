@@ -4,7 +4,6 @@ date: '2014-03-28T13:29:26-04:00'
 author: Dries
 tags:
   - 'Startup lessons'
-  - Business
   - Acquia
 published: true
 type: blog

@@ -3,7 +3,6 @@ title: 'Pearl Jam - Black'
 date: '2008-09-17T03:49:11-04:00'
 author: Dries
 tags:
-  - Personal
   - 'Favorite music'
 published: true
 type: blog

@@ -3,7 +3,6 @@ title: 'I bought some Bitcoin and here is why'
 date: '2013-12-04T02:02:23-05:00'
 author: Dries
 tags:
-  - 'The future'
   - Bitcoin
   - Blockchain
 published: true

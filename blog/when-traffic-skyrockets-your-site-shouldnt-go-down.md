@@ -5,7 +5,7 @@ author: Dries
 tags:
   - Drupal
   - Acquia
-  - Performance
+  - 'Web performance'
   - 'Acquia Cloud'
 published: true
 type: blog

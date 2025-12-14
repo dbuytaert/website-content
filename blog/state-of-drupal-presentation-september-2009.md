@@ -6,7 +6,6 @@ tags:
   - Drupal
   - DrupalCon
   - Statistics
-  - 'The future'
   - 'State of Drupal'
   - France
 published: true

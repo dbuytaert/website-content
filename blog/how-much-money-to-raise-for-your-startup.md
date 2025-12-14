@@ -3,7 +3,6 @@ title: 'How much money to raise for your startup? [Flowchart]'
 date: '2015-03-02T08:52:05-05:00'
 author: Dries
 tags:
-  - Business
   - 'Startup lessons'
   - Investing
 published: true

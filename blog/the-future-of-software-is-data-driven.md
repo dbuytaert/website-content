@@ -3,7 +3,8 @@ title: 'The future of software is data-driven'
 date: '2015-01-08T00:37:19-05:00'
 author: Dries
 tags:
-  - 'The future'
+  - 'Artificial Intelligence'
+  - Trends
 published: true
 type: blog
 url: /the-future-of-software-is-data-driven

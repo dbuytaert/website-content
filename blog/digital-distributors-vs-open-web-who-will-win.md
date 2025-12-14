@@ -3,7 +3,6 @@ title: 'Digital Distributors vs Open Web: who will win?  '
 date: '2015-08-25T08:25:05-04:00'
 author: Dries
 tags:
-  - 'The future'
   - Innovation
   - Publishing
 published: true

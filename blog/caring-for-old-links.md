@@ -6,6 +6,8 @@ summary: 'It is important that we care for old links. Do we have best practices 
 tags:
   - 'Open Web'
   - 'My site'
+  - 'Digital preservation'
+featured: false
 published: true
 type: blog
 url: /caring-for-old-links

@@ -7,6 +7,7 @@ image: blog/low-code-no-code
 tags:
   - Drupal
   - Innovation
+  - Trends
 published: true
 type: blog
 url: /low-code-and-no-code-tools-continue-to-drive-the-web-forward

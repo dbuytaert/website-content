@@ -6,6 +6,7 @@ tags:
   - Drupal
   - Commerce
   - Acquia
+  - Trends
 published: true
 type: blog
 url: /the-rise-of-headless-commerce

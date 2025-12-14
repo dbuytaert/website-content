@@ -10,7 +10,7 @@ tags:
   - 'Artificial Intelligence'
   - 'Drupal Starshot'
   - DrupalCon
-  - Orchestration
+  - 'Workflow orchestration'
   - Vienna
 featured: true
 published: true

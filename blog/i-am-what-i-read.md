@@ -3,7 +3,6 @@ title: 'I am what I read'
 date: '2015-01-21T01:05:56-05:00'
 author: Dries
 tags:
-  - Personal
   - Reading
 published: true
 type: blog

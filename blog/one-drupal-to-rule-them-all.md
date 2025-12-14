@@ -4,7 +4,7 @@ date: '2010-12-10T10:05:14-05:00'
 author: Dries
 tags:
   - Drupal
-  - 'The future'
+  - 'Drupal distributions'
 featured: false
 published: true
 type: blog

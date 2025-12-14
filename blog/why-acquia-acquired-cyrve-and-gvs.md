@@ -5,7 +5,6 @@ author: Dries
 summary: 'Acquia acquired Drupal migration specialist Cyrve and Drupal security specialist Growing Venture Solutions'
 tags:
   - Drupal
-  - Business
   - Acquia
 published: true
 type: blog

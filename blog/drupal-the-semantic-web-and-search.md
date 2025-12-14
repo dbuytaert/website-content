@@ -5,7 +5,6 @@ author: Dries
 summary: 'I can has semweb in Drupal core?'
 tags:
   - Drupal
-  - 'The future'
   - 'Semantic web'
 published: true
 type: blog

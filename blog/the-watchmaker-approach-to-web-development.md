@@ -7,7 +7,7 @@ image: blog/watchmaker-web-development
 tags:
   - 'My site'
   - Accessibility
-  - Performance
+  - 'Web performance'
   - Drupal
 featured: true
 published: true

@@ -4,7 +4,6 @@ date: '2006-11-13T05:11:49-05:00'
 author: Dries
 tags:
   - Drupal
-  - Business
   - 'Drupal distributions'
 published: true
 type: blog

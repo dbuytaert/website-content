@@ -6,9 +6,9 @@ summary: 'Business model innovation is usually more powerful than technical inno
 image: blog/business-model-innovation
 tags:
   - Drupal
-  - Business
   - 'Startup lessons'
   - Innovation
+  - 'Business model'
 featured: true
 published: true
 type: blog

@@ -7,6 +7,7 @@ image: acquia/user-profile-puzzle
 tags:
   - Acquia
   - Marketing
+  - Trends
 published: true
 type: blog
 url: /the-future-of-marketing-technology-platforms-plus-point-solutions

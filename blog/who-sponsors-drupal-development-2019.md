@@ -7,7 +7,6 @@ image: drupal/contributions-top-30-organizations-2019
 tags:
   - Drupal
   - 'Drupal sponsors'
-  - Business
   - Diversity
 published: true
 type: blog

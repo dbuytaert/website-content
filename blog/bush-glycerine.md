@@ -3,7 +3,6 @@ title: 'Bush - Glycerine'
 date: '2008-05-29T05:02:29-04:00'
 author: Dries
 tags:
-  - Personal
   - 'Favorite music'
 published: true
 type: blog

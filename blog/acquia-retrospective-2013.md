@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Drupal
   - Acquia
-  - Business
   - Retrospective
 published: true
 type: blog

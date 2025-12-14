@@ -5,7 +5,7 @@ author: Dries
 summary: 'Learn how to implement lazy loading images to improve the performance of your website.'
 image: blog/webpagetest-images-february-2019-after
 tags:
-  - Performance
+  - 'Web performance'
   - Drupal
   - 'My site'
   - POSSE

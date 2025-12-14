@@ -7,8 +7,10 @@ tags:
   - Photography
   - DrupalCon
   - 'Cities by night'
+  - Skiing
   - Vancouver
   - Canada
+featured: false
 published: true
 type: blog
 url: /vancouver-night-skiing

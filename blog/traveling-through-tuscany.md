@@ -6,7 +6,6 @@ summary: 'A report of our family vacation to Tuscany.'
 image: tuscany-2016/ponte-vecchio-florence
 tags:
   - Family
-  - Personal
   - Travel
   - Axl
   - Stan

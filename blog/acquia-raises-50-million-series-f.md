@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Drupal
   - Acquia
-  - Business
 published: true
 type: blog
 url: /acquia-raises-50-million-series-f

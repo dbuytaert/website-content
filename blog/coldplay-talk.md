@@ -3,7 +3,6 @@ title: 'Coldplay - Talk'
 date: '2013-02-24T12:10:34-05:00'
 author: Dries
 tags:
-  - Personal
   - 'Favorite music'
 published: true
 type: blog

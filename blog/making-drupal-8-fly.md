@@ -6,7 +6,7 @@ summary: 'An overview of the biggest performance and scalability improvements in
 image: drupal/drupal-8-render-pipeline
 tags:
   - Drupal
-  - Performance
+  - 'Web performance'
 published: true
 type: blog
 url: /making-drupal-8-fly

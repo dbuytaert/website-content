@@ -9,7 +9,8 @@ tags:
   - Investing
   - 'Artificial Intelligence'
   - Activepieces
-  - Orchestration
+  - 'Workflow orchestration'
+  - Trends
 featured: true
 published: true
 type: blog

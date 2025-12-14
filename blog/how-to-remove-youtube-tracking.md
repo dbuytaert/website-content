@@ -5,7 +5,7 @@ author: Dries
 image: blog/webpagetest-youtube-embed-2019-before
 tags:
   - 'My site'
-  - Performance
+  - 'Web performance'
   - Privacy
 published: true
 type: blog

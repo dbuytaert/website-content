@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Drupal
   - Microsoft
-  - 'The future'
 published: true
 type: blog
 url: /continuous-services-and-connected-devices

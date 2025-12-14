@@ -7,7 +7,6 @@ image: blog/my-website-plan
 tags:
   - POSSE
   - 'Open Web'
-  - Personal
   - 'My site'
   - 'Social media'
 published: true

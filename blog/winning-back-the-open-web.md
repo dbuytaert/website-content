@@ -4,7 +4,6 @@ date: '2015-06-23T04:58:40-04:00'
 author: Dries
 summary: 'Walled gardens dominate because their massive data collection lets them deliver superior user experiences. To win back the open web, we need to build alternatives that respect users, embrace open standards, and still feel unmistakably better to use.'
 tags:
-  - 'The future'
   - 'Open Web'
   - Privacy
   - Publishing

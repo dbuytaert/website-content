@@ -4,7 +4,6 @@ date: '2007-01-23T10:40:00-05:00'
 author: Dries
 tags:
   - Drupal
-  - Business
   - SharePoint
 published: true
 type: blog

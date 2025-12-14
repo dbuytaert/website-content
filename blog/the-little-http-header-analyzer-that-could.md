@@ -5,7 +5,7 @@ author: Dries
 summary: 'My HTTP Header Analyzer quietly and surprisingly surpassed 5 million scans.'
 tags:
   - 'HTTP headers'
-  - Performance
+  - 'Web performance'
   - Security
   - Drupal
 featured: true

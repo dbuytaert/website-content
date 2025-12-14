@@ -3,7 +3,6 @@ title: '5 things a government can do to grow its startup ecosystem'
 date: '2015-02-24T14:15:19-05:00'
 author: Dries
 tags:
-  - Business
   - Policy
   - Government
 published: true

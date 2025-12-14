@@ -9,7 +9,7 @@ tags:
   - Acquia
   - 'Drupal sites'
   - 'Acquia Cloud'
-  - Performance
+  - 'Web performance'
   - Entertainment
 published: true
 type: blog

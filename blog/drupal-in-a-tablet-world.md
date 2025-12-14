@@ -4,7 +4,7 @@ date: '2010-10-07T17:08:17-04:00'
 author: Dries
 tags:
   - Drupal
-  - 'The future'
+  - Trends
 published: true
 type: blog
 url: /drupal-in-a-tablet-world

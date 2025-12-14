@@ -5,6 +5,7 @@ author: Dries
 tags:
   - Acquia
   - 'Open Source'
+  - Trends
 published: true
 type: blog
 url: /three-trends-driving-todays-flash-digital-transformation

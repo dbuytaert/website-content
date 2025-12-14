@@ -4,7 +4,7 @@ date: '2007-05-01T14:32:44-04:00'
 author: Dries
 tags:
   - Drupal
-  - Predictions
+  - Trends
 published: true
 type: blog
 url: /linux-on-the-desktop

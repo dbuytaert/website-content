@@ -4,7 +4,6 @@ date: '2018-03-20T08:57:43-04:00'
 author: Dries
 image: miscellaneous-2018/father-day-drawing-stan
 tags:
-  - Personal
   - Stan
 published: true
 type: blog

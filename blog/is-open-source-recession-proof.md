@@ -6,7 +6,6 @@ image: blog/blue-wave
 tags:
   - 'Open Source'
   - Drupal
-  - Business
 published: true
 type: blog
 url: /is-open-source-recession-proof

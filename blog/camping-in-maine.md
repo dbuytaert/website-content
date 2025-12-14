@@ -5,7 +5,6 @@ author: Dries
 image: hermit-island-2020/good-morning-2
 tags:
   - Travel
-  - Personal
   - Photography
   - Camping
 published: true

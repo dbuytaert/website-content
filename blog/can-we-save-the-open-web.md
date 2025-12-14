@@ -4,7 +4,6 @@ date: '2016-03-16T08:27:16-04:00'
 author: Dries
 summary: 'I worry that some of the large platform companies like Facebook will make us lose the original integrity and freedom of the open web.'
 tags:
-  - 'The future'
   - Policy
   - 'Open Source'
   - 'Open Web'

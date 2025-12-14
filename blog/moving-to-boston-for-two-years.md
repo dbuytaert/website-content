@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Family
   - Acquia
-  - Personal
   - Antwerp
   - Boston
 published: true

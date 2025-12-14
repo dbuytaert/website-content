@@ -3,7 +3,6 @@ title: Thirty-five
 date: '2013-11-19T07:51:48-05:00'
 author: Dries
 tags:
-  - Personal
   - Birthday
   - Drupal
 published: true

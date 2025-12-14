@@ -4,8 +4,7 @@ date: '2014-01-15T09:06:55-05:00'
 author: Dries
 tags:
   - Drupal
-  - 'The future'
-  - Business
+  - Trends
 published: true
 type: blog
 url: /from-content-management-to-digital-experience-management
@@ -41,50 +40,50 @@ Creating better interfaces to develop structured content, and delivering that co
 <table>
   <caption>Top features in CMSs over time</caption>
   <tr>
-   <th>2000</th>
-   <th>2005</th>
-   <th>2010</th>
-   <th>2015</th>
- </tr>
+  <th>2000</th>
+  <th>2005</th>
+  <th>2010</th>
+  <th>2015</th>
+</tr>
   <tr>
-   <td>
-    <ul style="margin-left:5px;">
-      <li>Static content</li>
-      <li>Separate content from design</li>
-      <li>Animated GIFs</li>
-   </ul>
-  </td>
-   <td>
-    <ul style="margin-left:5px;">
-      <li>WYSIWYG authoring</li>
-      <li>Dynamic content</li>
-      <li>Publishing workflows</li>
-      <li>User generated content</li>
-      <li>Modular architecture</li>
-      <li>Syndication</li>
-      <li>Search</li>
-   </ul>
-  </td>
-   <td>
-    <ul style="margin-left:5px;">
-      <li>Social media integration</li>
-      <li>WYSIWYG page design</li>
-      <li>Collaboration tools</li>
-      <li>Rich media integration</li>
-      <li>Lead generation tools</li>
-   </ul>
-  </td>
-   <td>
-    <ul style="margin-left:5px;">
-      <li>Customer intelligence</li>
-      <li>Context-aware</li>
-      <li>Multi-device</li>
-      <li>Service-enabled / APIs</li>
-      <li>Multi-site platform governance</li>
-      <li>PaaS/SaaS</li>
-   </ul>
-  </td>
- </tr>
+  <td>
+  <ul style="margin-left:5px;">
+  <li>Static content</li>
+  <li>Separate content from design</li>
+  <li>Animated GIFs</li>
+</ul>
+</td>
+  <td>
+  <ul style="margin-left:5px;">
+  <li>WYSIWYG authoring</li>
+  <li>Dynamic content</li>
+  <li>Publishing workflows</li>
+  <li>User generated content</li>
+  <li>Modular architecture</li>
+  <li>Syndication</li>
+  <li>Search</li>
+</ul>
+</td>
+  <td>
+  <ul style="margin-left:5px;">
+  <li>Social media integration</li>
+  <li>WYSIWYG page design</li>
+  <li>Collaboration tools</li>
+  <li>Rich media integration</li>
+  <li>Lead generation tools</li>
+</ul>
+</td>
+  <td>
+  <ul style="margin-left:5px;">
+  <li>Customer intelligence</li>
+  <li>Context-aware</li>
+  <li>Multi-device</li>
+  <li>Service-enabled / APIs</li>
+  <li>Multi-site platform governance</li>
+  <li>PaaS/SaaS</li>
+</ul>
+</td>
+</tr>
 </table>
 
 Few CMSs are actually growing in market share; our industry will continue to consolidate further in 2014. The fact most CMSs become less and less relevant isn't a surprise since CMSs are becoming more complicated. The CMSs that will survive are those that (1) are able to keep up with the speed of the Internet and (2) offer the least amount of friction to adopt. Open source CMSs that foster a healthy community are well positioned to win in the long run. Drupal's biggest challenge going forward is to create a user experience that gets out of a user's way and lets them do their business regardless of how simple or complex their task is. This is why I'm so passionate about in-place editing, and usability in general, but also creating a great developer experience. It's important that we continue to focus on those goals in 2014 and beyond.

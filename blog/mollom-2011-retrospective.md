@@ -3,7 +3,6 @@ title: 'Mollom 2011 retrospective'
 date: '2012-01-06T08:39:16-05:00'
 author: Dries
 tags:
-  - Predictions
   - Mollom
 published: true
 type: blog

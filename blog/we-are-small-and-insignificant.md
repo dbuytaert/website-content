@@ -2,9 +2,9 @@
 title: 'We are small and insignificant'
 date: '2009-05-01T04:47:49-04:00'
 author: Dries
-summary: 'We are small and insignificant'
 tags:
   - Space
+featured: false
 published: true
 type: blog
 url: /we-are-small-and-insignificant

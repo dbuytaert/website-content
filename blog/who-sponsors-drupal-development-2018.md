@@ -6,7 +6,6 @@ summary: "An in-depth analysis of how Drupal's development was sponsored between
 image: drupal/contributions-top-30-organizations-2018
 tags:
   - Drupal
-  - Business
   - 'Open Source'
   - Diversity
   - 'Drupal sponsors'

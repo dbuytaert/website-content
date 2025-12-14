@@ -5,7 +5,6 @@ author: Dries
 image: miscellaneous-2020/web-summit-panel-on-open-web-2020
 tags:
   - 'Open Web'
-  - 'The future'
   - 'Open Source'
   - Privacy
 featured: true

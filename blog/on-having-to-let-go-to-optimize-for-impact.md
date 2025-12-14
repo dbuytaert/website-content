@@ -5,7 +5,6 @@ author: Dries
 tags:
   - 'Bill Gates'
   - 'Startup lessons'
-  - Business
 published: true
 type: blog
 url: /on-having-to-let-go-to-optimize-for-impact

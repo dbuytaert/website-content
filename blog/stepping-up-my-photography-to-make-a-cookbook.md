@@ -4,7 +4,6 @@ date: '2018-06-30T18:52:41-04:00'
 author: Dries
 summary: "Vanessa and I want to create a cookbook so it's time to learn about food photography"
 tags:
-  - Personal
   - Photography
 published: true
 type: blog

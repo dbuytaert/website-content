@@ -4,7 +4,6 @@ date: '2009-05-06T09:44:21-04:00'
 author: Dries
 tags:
   - Drupal
-  - 'The future'
   - 'Semantic web'
 published: true
 type: blog

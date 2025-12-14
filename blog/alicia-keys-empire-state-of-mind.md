@@ -3,7 +3,6 @@ title: 'Alicia Keys - Empire State of Mind'
 date: '2011-03-20T09:03:45-04:00'
 author: Dries
 tags:
-  - Personal
   - 'Favorite music'
   - 'New York'
 published: true

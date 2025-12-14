@@ -4,7 +4,6 @@ date: '2015-01-26T14:41:38-05:00'
 author: Dries
 tags:
   - 'Startup lessons'
-  - Business
 published: true
 type: blog
 url: /on-the-hard-choices-we-make-every-day

@@ -5,7 +5,7 @@ author: Dries
 tags:
   - Drupal
   - 'Drupal sites'
-  - Performance
+  - 'Web performance'
   - 'Fortune 500'
 published: true
 type: blog

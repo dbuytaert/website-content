@@ -4,7 +4,6 @@ date: '2014-06-03T06:17:49-04:00'
 author: Dries
 tags:
   - Acquia
-  - Business
 published: true
 type: blog
 url: /acquia-acquired-trucentric

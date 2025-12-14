@@ -5,7 +5,6 @@ author: Dries
 summary: 'Video: Can we save the open web?'
 tags:
   - Drupal
-  - 'The future'
   - Policy
   - 'Open Web'
   - Government

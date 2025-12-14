@@ -8,7 +8,6 @@ tags:
   - Drupal
   - Acquia
   - Retrospective
-  - Business
 published: true
 type: blog
 url: /acquia-retrospective-2019

@@ -7,7 +7,6 @@ image: acquia/business-metrics-2018
 tags:
   - Drupal
   - Retrospective
-  - Business
   - Acquia
 published: true
 type: blog

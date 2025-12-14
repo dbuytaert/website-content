@@ -4,7 +4,6 @@ date: '2010-12-13T12:36:16-05:00'
 author: Dries
 tags:
   - Drupal
-  - Business
   - Acquia
   - Mollom
   - 'Startup lessons'

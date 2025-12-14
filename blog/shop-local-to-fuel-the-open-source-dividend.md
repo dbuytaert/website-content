@@ -6,7 +6,6 @@ image: blog/open-source-dividends
 tags:
   - 'Open Source'
   - Drupal
-  - Business
 published: true
 type: blog
 url: /shop-local-to-fuel-the-open-source-dividend

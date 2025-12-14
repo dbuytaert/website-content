@@ -33,8 +33,6 @@ While an RSS feed doesn't have the same convenience factor as Instagram, it *is*
 
 I encourage you to subscribe to my photo stream and to unfollow me on Instagram.
 
-[newsletter-photos]
-
 Step by step, I will continue to build my audience here, on my blog, on the edge of the [Open Web](https://dri.es/tag/open-web), on my own terms.
 
 From a technical point of view, my photo stream uses [responsive images](https://dri.es/responsive-images-for-dri-es) that are [lazy loaded](https://dri.es/optimizing-site-performance-by-lazy-loading-images) – it should be pretty fast. And it uses the [Open Graph Protocol](https://ogp.me/) for improved link sharing.

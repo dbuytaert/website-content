@@ -8,7 +8,6 @@ tags:
   - Drupal
   - Acquia
   - Commerce
-  - Business
 published: true
 type: blog
 url: /my-thoughts-on-adobe-buying-magento-for-1-68-billion
