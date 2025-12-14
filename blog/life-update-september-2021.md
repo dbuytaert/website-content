@@ -4,7 +4,6 @@ date: '2021-09-01T11:53:32-04:00'
 author: Dries
 image: summer-in-boston-2021/dinner
 tags:
-  - Personal
   - Travel
   - Photography
   - Boston

@@ -4,7 +4,7 @@ date: '2006-06-08T06:28:50-04:00'
 author: Dries
 tags:
   - Drupal
-  - Performance
+  - 'Web performance'
   - Statistics
 published: true
 type: blog

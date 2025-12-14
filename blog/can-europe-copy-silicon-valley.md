@@ -3,8 +3,8 @@ title: 'Can Europe copy Silicon Valley?'
 date: '2013-01-17T15:04:46-05:00'
 author: Dries
 tags:
-  - Business
-  - 'The future'
+  - 'Startup lessons'
+  - Policy
 published: true
 type: blog
 url: /can-europe-copy-silicon-valley

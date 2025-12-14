@@ -4,7 +4,6 @@ date: '2009-05-06T12:09:22-04:00'
 author: Dries
 tags:
   - Drupal
-  - 'The future'
   - 'Semantic web'
   - 'Open Source'
   - Government

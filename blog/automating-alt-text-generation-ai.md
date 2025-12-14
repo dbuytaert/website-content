@@ -10,6 +10,9 @@ tags:
   - 'Artificial Intelligence'
   - Drupal
   - Alt-text
+  - Python
+  - Automation
+featured: false
 published: true
 type: blog
 url: /automating-alt-text-generation-ai

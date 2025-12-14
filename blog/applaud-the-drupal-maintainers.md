@@ -4,7 +4,7 @@ date: '2016-04-20T05:38:16-04:00'
 author: Dries
 tags:
   - Drupal
-  - 'The future'
+  - 'Software development'
 published: true
 type: blog
 url: /applaud-the-drupal-maintainers

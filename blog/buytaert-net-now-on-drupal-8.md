@@ -5,7 +5,6 @@ author: Dries
 summary: 'How I finally upgraded my personal blog from Drupal 7 to Drupal 8.'
 tags:
   - Drupal
-  - Personal
   - 'My site'
 published: true
 type: blog

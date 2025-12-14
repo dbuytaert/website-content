@@ -4,9 +4,9 @@ date: '2010-02-23T14:24:29-05:00'
 author: Dries
 tags:
   - Drupal
-  - Business
-  - 'The future'
   - Acquia
+  - 'Open Source'
+  - Statistics
 published: true
 type: blog
 url: /future-of-open-source-survey-2010

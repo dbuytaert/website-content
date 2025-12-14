@@ -3,8 +3,9 @@ title: 'The end of ownership: the zero-marginal-cost economy'
 date: '2014-09-07T19:48:54-04:00'
 author: Dries
 tags:
-  - Business
-  - 'The future'
+  - 'Open Source'
+  - 'Business model'
+  - Trends
 published: true
 type: blog
 url: /the-end-of-ownership-the-zero-marginal-cost-economy

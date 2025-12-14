@@ -7,7 +7,6 @@ tags:
   - Drupal
   - Acquia
   - 'Startup lessons'
-  - Business
 published: true
 type: blog
 url: /optimizing-your-product-strategy-for-the-short-and-long-term

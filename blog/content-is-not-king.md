@@ -4,7 +4,7 @@ date: '2006-01-31T08:23:11-05:00'
 author: Dries
 tags:
   - Drupal
-  - Predictions
+  - Trends
 published: true
 type: blog
 url: /content-is-not-king

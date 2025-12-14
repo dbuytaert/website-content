@@ -4,7 +4,9 @@ date: '2016-11-25T10:58:05-05:00'
 author: Dries
 summary: 'Giving a presentation on Drupal and startups at the University of Antwerp, my alma mater.'
 tags:
-  - Business
+  - Invitations
+  - Awards
+featured: false
 published: true
 type: blog
 url: /back-to-school

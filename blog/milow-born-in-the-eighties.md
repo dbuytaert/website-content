@@ -3,7 +3,6 @@ title: 'Milow - Born in the eighties'
 date: '2010-03-24T05:36:52-04:00'
 author: Dries
 tags:
-  - Personal
   - 'Favorite music'
 published: true
 type: blog

@@ -6,7 +6,6 @@ image: miscellaneous-2019/plantin-moretus-museum-globe
 tags:
   - Drupal
   - WordPress
-  - Personal
 published: true
 type: blog
 url: /two-internet-entrepreneurs-walk-into-an-old-publishing-house

@@ -3,7 +3,6 @@ title: 'Giving back and making money'
 date: '2015-08-31T12:29:31-04:00'
 author: Dries
 tags:
-  - Business
   - Acquia
   - 'Open Source'
 published: true

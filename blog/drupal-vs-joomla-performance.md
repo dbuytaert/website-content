@@ -4,7 +4,7 @@ date: '2006-08-11T08:04:06-04:00'
 author: Dries
 tags:
   - Drupal
-  - Performance
+  - 'Web performance'
   - Joomla
   - Statistics
 published: true

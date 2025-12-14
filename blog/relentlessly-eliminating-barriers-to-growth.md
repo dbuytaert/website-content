@@ -6,7 +6,6 @@ summary: 'Every organization has limitations that stunt long-term growth. There 
 tags:
   - Drupal
   - Acquia
-  - Business
   - Amazon
 featured: true
 published: true

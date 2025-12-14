@@ -5,8 +5,7 @@ author: Dries
 summary: 'Why the cloud looks promising for Drupal hosting and scaling'
 tags:
   - Drupal
-  - Performance
-  - 'The future'
+  - 'Web performance'
   - MySQL
 published: true
 type: blog

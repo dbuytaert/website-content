@@ -5,7 +5,6 @@ author: Dries
 summary: 'Acquia expands its experience optimization capabilities by acquiring Monsido and forming new partnerships with VWO and Conductor.'
 image: acquia/acquia-acquires-monsido
 tags:
-  - Business
   - Drupal
   - Acquia
   - Accessibility

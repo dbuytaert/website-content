@@ -3,7 +3,6 @@ title: Anouk
 date: '2009-09-22T05:05:44-04:00'
 author: Dries
 tags:
-  - Personal
   - 'Favorite music'
 published: true
 type: blog

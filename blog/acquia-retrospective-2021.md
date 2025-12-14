@@ -7,7 +7,6 @@ image: acquia/2021-logos
 tags:
   - Retrospective
   - Acquia
-  - Business
   - Drupal
 published: true
 type: blog

@@ -5,7 +5,6 @@ author: Dries
 summary: 'IBM buying Red Hat should be great for Open Source, good for IBM and healthy for the cloud wars.'
 tags:
   - 'Open Source'
-  - Business
 featured: true
 published: true
 type: blog

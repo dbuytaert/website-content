@@ -9,6 +9,7 @@ tags:
   - 'Artificial Intelligence'
   - 'My site'
   - Alt-text
+  - Python
 featured: true
 published: true
 type: blog
@@ -39,178 +40,178 @@ The table below lists the models I tested, with details like links to research p
 <div class="large">
   <table>
   <thead>
-   <tr>
-    <th></th>
-    <th>Model</th>
-    <th>Launch date</th>
-    <th>Type</th>
-    <th>Vision encoder</th>
-    <th>Language encoder</th>
-    <th>Model size (billions of parameters)</th>
-    <th>RAM</th>
-    <th>Deployment</th>
- </tr>
- </thead>
+  <tr>
+   <th></th>
+   <th>Model</th>
+   <th>Launch date</th>
+   <th>Type</th>
+   <th>Vision encoder</th>
+   <th>Language encoder</th>
+   <th>Model size (billions of parameters)</th>
+   <th>RAM</th>
+   <th>Deployment</th>
+</tr>
+</thead>
   <tbody>
-   <tr>
-    <td>1</td>
-    <td>
-     <a href="https://huggingface.co/nlpconnect/vit-gpt2-image-captioning">VIT-GPT2</a>
-   </td>
-    <td>2021</td>
-    <td>Image-to-text</td>
-    <td>ViT (Vision Transformer)</td>
-    <td>GPT-2</td>
-    <td>0.4B</td>
-    <td>~8GB</td>
-    <td>Local, Dries</td>
- </tr>
-   <tr>
-    <td>2</td>
-    <td>
-     <a href="https://huggingface.co/microsoft/git-base">Microsoft GIT</a>
-   </td>
-    <td>2022</td>
-    <td>Image-to-text</td>
-    <td>Swin Transformer</td>
-    <td>Transformer Decoder</td>
-    <td>1.2B</td>
-    <td>~8GB</td>
-    <td>Local, Dries</td>
- </tr>
-   <tr>
-    <td>3</td>
-    <td>
-     <a href="https://huggingface.co/Salesforce/blip-image-captioning-large">BLIP Large</a>
-   </td>
-    <td>2022</td>
-    <td>Image-to-text</td>
-    <td>ViT</td>
-    <td>BERT</td>
-    <td>0.5B</td>
-    <td>~8GB</td>
-    <td>Local, Dries</td>
- </tr>
-   <tr>
-    <td>4</td>
-    <td>
-     <a href="https://huggingface.co/Salesforce/blip2-opt-2.7b">BLIP-2 OPT</a>
-   </td>
-    <td>2023</td>
-    <td>Image-to-text</td>
-    <td>CLIP ViT</td>
-    <td>OPT</td>
-    <td>2.7B</td>
-    <td>~8GB</td>
-    <td>Local, Dries</td>
- </tr>
-   <tr>
-    <td>5</td>
-    <td>
-     <a href="https://huggingface.co/Salesforce/blip2-flan-t5-xl">BLIP-2 FLAN-T5</a>
-   </td>
-    <td>2023</td>
-    <td>Image-to-text</td>
-    <td>CLIP ViT</td>
-    <td>FLAN-T5 XL</td>
-    <td>3B</td>
-    <td>~8GB</td>
-    <td>Local, Dries</td>
- </tr>
-   <tr>
-    <td>6</td>
-    <td>
-     <a href="https://ollama.com/library/minicpm-v">MiniCPM-V</a>
-   </td>
-    <td>2024</td>
-    <td>Multi-modal</td>
-    <td>SigLip-400M</td>
-    <td>Qwen2-7B</td>
-    <td>8B</td>
-    <td>~16GB</td>
-    <td>Local, Dries</td>
- </tr>
-   <tr>
-    <td>7</td>
-    <td>
-     <a href="https://ollama.com/library/llava">LLaVA 13B</a>
-   </td>
-    <td>2024</td>
-    <td>Multi-modal</td>
-    <td>CLIP ViT</td>
-    <td>Vicuna 13B</td>
-    <td>13B</td>
-    <td>~16GB</td>
-    <td>Local, Dries</td>
- </tr>
-   <tr>
-    <td>8</td>
-    <td>
-     <a href="https://ollama.com/library/llava">LLaVA 34B</a>
-   </td>
-    <td>2024</td>
-    <td>Multi-modal</td>
-    <td>CLIP ViT</td>
-    <td>Vicuna 34B</td>
-    <td>34B</td>
-    <td>~32GB</td>
-    <td>Local, Dries</td>
- </tr>
-   <tr>
-    <td>9</td>
-    <td>
-     <a href="https://ollama.com/library/llama3.2-vision">Llama 3.2 Vision 11B</a>
-   </td>
-    <td>2024</td>
-    <td>Multi-modal</td>
-    <td>Custom Vision Encoder</td>
-    <td>Llama 3.2</td>
-    <td>11B</td>
-    <td>~20GB</td>
-    <td>Local, Dries</td>
- </tr>
-   <tr>
-    <td>10</td>
-    <td>
-     <a href="https://ollama.com/library/llama3.2-vision">Llama 3.2 Vision 90B</a>
-   </td>
-    <td>2024</td>
-    <td>Multi-modal</td>
-    <td>Custom Vision Encoder</td>
-    <td>Llama 3.2</td>
-    <td>90B</td>
-    <td>~128GB</td>
-    <td>Local, Jeremy</td>
- </tr>
-   <tr>
-    <td>11</td>
-    <td>
-     <a href="https://chat.openai.com">OpenAI GPT-4o</a>
-   </td>
-    <td>2023</td>
-    <td>Multi-modal</td>
-    <td>Custom Vision Encoder</td>
-    <td>GPT-4</td>
-    <td>&gt;150B</td>
-    <td>
-   </td>
-    <td>Cloud</td>
- </tr>
-   <tr>
-    <td>12</td>
-    <td>
-     <a href="https://claude.ai">Anthropic Claude 3.5 Sonnet</a>
-   </td>
-    <td>2024</td>
-    <td>Multi-modal</td>
-    <td>Custom Vision Encoder</td>
-    <td>Claude 3.5</td>
-    <td>&gt;150B</td>
-    <td>
-   </td>
-    <td>Cloud</td>
- </tr>
- </tbody>
+  <tr>
+   <td>1</td>
+   <td>
+    <a href="https://huggingface.co/nlpconnect/vit-gpt2-image-captioning">VIT-GPT2</a>
+ </td>
+   <td>2021</td>
+   <td>Image-to-text</td>
+   <td>ViT (Vision Transformer)</td>
+   <td>GPT-2</td>
+   <td>0.4B</td>
+   <td>~8GB</td>
+   <td>Local, Dries</td>
+</tr>
+  <tr>
+   <td>2</td>
+   <td>
+    <a href="https://huggingface.co/microsoft/git-base">Microsoft GIT</a>
+ </td>
+   <td>2022</td>
+   <td>Image-to-text</td>
+   <td>Swin Transformer</td>
+   <td>Transformer Decoder</td>
+   <td>1.2B</td>
+   <td>~8GB</td>
+   <td>Local, Dries</td>
+</tr>
+  <tr>
+   <td>3</td>
+   <td>
+    <a href="https://huggingface.co/Salesforce/blip-image-captioning-large">BLIP Large</a>
+ </td>
+   <td>2022</td>
+   <td>Image-to-text</td>
+   <td>ViT</td>
+   <td>BERT</td>
+   <td>0.5B</td>
+   <td>~8GB</td>
+   <td>Local, Dries</td>
+</tr>
+  <tr>
+   <td>4</td>
+   <td>
+    <a href="https://huggingface.co/Salesforce/blip2-opt-2.7b">BLIP-2 OPT</a>
+ </td>
+   <td>2023</td>
+   <td>Image-to-text</td>
+   <td>CLIP ViT</td>
+   <td>OPT</td>
+   <td>2.7B</td>
+   <td>~8GB</td>
+   <td>Local, Dries</td>
+</tr>
+  <tr>
+   <td>5</td>
+   <td>
+    <a href="https://huggingface.co/Salesforce/blip2-flan-t5-xl">BLIP-2 FLAN-T5</a>
+ </td>
+   <td>2023</td>
+   <td>Image-to-text</td>
+   <td>CLIP ViT</td>
+   <td>FLAN-T5 XL</td>
+   <td>3B</td>
+   <td>~8GB</td>
+   <td>Local, Dries</td>
+</tr>
+  <tr>
+   <td>6</td>
+   <td>
+    <a href="https://ollama.com/library/minicpm-v">MiniCPM-V</a>
+ </td>
+   <td>2024</td>
+   <td>Multi-modal</td>
+   <td>SigLip-400M</td>
+   <td>Qwen2-7B</td>
+   <td>8B</td>
+   <td>~16GB</td>
+   <td>Local, Dries</td>
+</tr>
+  <tr>
+   <td>7</td>
+   <td>
+    <a href="https://ollama.com/library/llava">LLaVA 13B</a>
+ </td>
+   <td>2024</td>
+   <td>Multi-modal</td>
+   <td>CLIP ViT</td>
+   <td>Vicuna 13B</td>
+   <td>13B</td>
+   <td>~16GB</td>
+   <td>Local, Dries</td>
+</tr>
+  <tr>
+   <td>8</td>
+   <td>
+    <a href="https://ollama.com/library/llava">LLaVA 34B</a>
+ </td>
+   <td>2024</td>
+   <td>Multi-modal</td>
+   <td>CLIP ViT</td>
+   <td>Vicuna 34B</td>
+   <td>34B</td>
+   <td>~32GB</td>
+   <td>Local, Dries</td>
+</tr>
+  <tr>
+   <td>9</td>
+   <td>
+    <a href="https://ollama.com/library/llama3.2-vision">Llama 3.2 Vision 11B</a>
+ </td>
+   <td>2024</td>
+   <td>Multi-modal</td>
+   <td>Custom Vision Encoder</td>
+   <td>Llama 3.2</td>
+   <td>11B</td>
+   <td>~20GB</td>
+   <td>Local, Dries</td>
+</tr>
+  <tr>
+   <td>10</td>
+   <td>
+    <a href="https://ollama.com/library/llama3.2-vision">Llama 3.2 Vision 90B</a>
+ </td>
+   <td>2024</td>
+   <td>Multi-modal</td>
+   <td>Custom Vision Encoder</td>
+   <td>Llama 3.2</td>
+   <td>90B</td>
+   <td>~128GB</td>
+   <td>Local, Jeremy</td>
+</tr>
+  <tr>
+   <td>11</td>
+   <td>
+    <a href="https://chat.openai.com">OpenAI GPT-4o</a>
+ </td>
+   <td>2023</td>
+   <td>Multi-modal</td>
+   <td>Custom Vision Encoder</td>
+   <td>GPT-4</td>
+   <td>&gt;150B</td>
+   <td>
+ </td>
+   <td>Cloud</td>
+</tr>
+  <tr>
+   <td>12</td>
+   <td>
+    <a href="https://claude.ai">Anthropic Claude 3.5 Sonnet</a>
+ </td>
+   <td>2024</td>
+   <td>Multi-modal</td>
+   <td>Custom Vision Encoder</td>
+   <td>Claude 3.5</td>
+   <td>&gt;150B</td>
+   <td>
+ </td>
+   <td>Cloud</td>
+</tr>
+</tbody>
 </table>
 </div>
 
@@ -288,22 +289,22 @@ Benchmark LLMs:
 <table>
   <thead>
   <tr>
-   <th>Model</th>
-   <th>Description</th>
-   <th>Grade</th>
- </tr>
+  <th>Model</th>
+  <th>Description</th>
+  <th>Grade</th>
+</tr>
 </thead>
   <tbody>
   <tr>
-   <td>GPT-4o</td>
-   <td>A vibrant city intersection with crowds crossing, surrounded by illuminated billboards and towering buildings, likely Shibuya, Tokyo.</td>
-   <td>A</td>
- </tr>
+  <td>GPT-4o</td>
+  <td>A vibrant city intersection with crowds crossing, surrounded by illuminated billboards and towering buildings, likely Shibuya, Tokyo.</td>
+  <td>A</td>
+</tr>
   <tr>
-   <td>Claude</td>
-   <td>Hundreds of people cross Tokyo's famous Shibuya intersection as neon signs light up the surrounding skyscrapers.</td>
-   <td>A</td>
- </tr>
+  <td>Claude</td>
+  <td>Hundreds of people cross Tokyo's famous Shibuya intersection as neon signs light up the surrounding skyscrapers.</td>
+  <td>A</td>
+</tr>
 </tbody>
 </table>
 
@@ -312,62 +313,62 @@ Local LLMs:
 <table>
   <thead>
   <tr>
-   <th>Model</th>
-   <th>Description</th>
-   <th>Grade</th>
- </tr>
+  <th>Model</th>
+  <th>Description</th>
+  <th>Grade</th>
+</tr>
 </thead>
   <tbody>
   <tr>
-   <td>VIT-GPT2</td>
-   <td>A city at night with skyscrapers and a <mark>traffic light</mark> on the side of the street in front of a tall <mark>building</mark>.</td>
-   <td>F</td>
- </tr>
+  <td>VIT-GPT2</td>
+  <td>A city at night with skyscrapers and a <mark>traffic light</mark> on the side of the street in front of a tall <mark>building</mark>.</td>
+  <td>F</td>
+</tr>
   <tr>
-   <td>GIT</td>
-   <td>A busy city street is lit up at night, with the word <mark>qroi</mark> on the right side of the sign.</td>
-   <td>E</td>
- </tr>
+  <td>GIT</td>
+  <td>A busy city street is lit up at night, with the word <mark>qroi</mark> on the right side of the sign.</td>
+  <td>E</td>
+</tr>
   <tr>
-   <td>BLIP</td>
-   <td>This is an aerial view of a busy city street at night with lots of people walking and cars on the side of the road.</td>
-   <td>D</td>
- </tr>
+  <td>BLIP</td>
+  <td>This is an aerial view of a busy city street at night with lots of people walking and cars on the side of the road.</td>
+  <td>D</td>
+</tr>
   <tr>
-   <td>BLIP-2 with OPT</td>
-   <td>An aerial view of a busy city street at night.</td>
-   <td>E</td>
- </tr>
+  <td>BLIP-2 with OPT</td>
+  <td>An aerial view of a busy city street at night.</td>
+  <td>E</td>
+</tr>
   <tr>
-   <td>BLIP-2 with FLAN</td>
-   <td>An aerial view of a busy street in <mark>Tokyo, Japanese city</mark> at night with large billboards.</td>
-   <td>E</td>
- </tr>
+  <td>BLIP-2 with FLAN</td>
+  <td>An aerial view of a busy street in <mark>Tokyo, Japanese city</mark> at night with large billboards.</td>
+  <td>E</td>
+</tr>
   <tr>
-   <td>LLaVA (13B)</td>
-   <td>A bustling nighttime scene of Tokyo's Shibuya Crossing, with neon lights and people walking across the intersection.</td>
-   <td>A</td>
- </tr>
+  <td>LLaVA (13B)</td>
+  <td>A bustling nighttime scene of Tokyo's Shibuya Crossing, with neon lights and people walking across the intersection.</td>
+  <td>A</td>
+</tr>
   <tr>
-   <td>LLaVA (34B)</td>
-   <td>A bustling city street at night, with illuminated buildings and numerous pedestrians.</td>
-   <td>C</td>
- </tr>
+  <td>LLaVA (34B)</td>
+  <td>A bustling city street at night, with illuminated buildings and numerous pedestrians.</td>
+  <td>C</td>
+</tr>
   <tr>
-   <td>MiniCPM-V</td>
-   <td>A bustling cityscape at night with various advertisements, including one for Michael Kors and another for Yakult.</td>
-   <td>C</td>
- </tr>
+  <td>MiniCPM-V</td>
+  <td>A bustling cityscape at night with various advertisements, including one for Michael Kors and another for Yakult.</td>
+  <td>C</td>
+</tr>
   <tr>
-   <td>Llama 3.2 Vision (11B)</td>
-   <td>A bustling city street at night, with numerous billboards and advertisements lining the buildings.</td>
-   <td>C</td>
- </tr>
+  <td>Llama 3.2 Vision (11B)</td>
+  <td>A bustling city street at night, with numerous billboards and advertisements lining the buildings.</td>
+  <td>C</td>
+</tr>
   <tr>
-   <td>Llama 3.2 Vision (90B)</td>
-   <td>A bustling city street with many people and buildings.</td>
-   <td>D</td>
- </tr>
+  <td>Llama 3.2 Vision (90B)</td>
+  <td>A bustling city street with many people and buildings.</td>
+  <td>D</td>
+</tr>
 </tbody>
 </table>
 
@@ -382,24 +383,24 @@ Benchmark LLMs:
 <table>
   <thead>
   <tr>
-   <th>Model</th>
-   <th>Description</th>
-   <th>Grade</th>
- </tr>
+  <th>Model</th>
+  <th>Description</th>
+  <th>Grade</th>
+</tr>
 </thead>
   <tbody>
   <tr>
-   <td>GPT-4o</td>
-   <td>
-    <mark>Elegant</mark> wallpaper, an empty gold frame, candelabra, and framed painting in a classic room.</td>
-    <td>B</td>
- </tr>
-   <tr>
-    <td>Claude</td>
-    <td>Ornate Victorian room with damask wallpaper, candelabra, and gold frames on wall.</td>
-    <td>B</td>
- </tr>
- </tbody>
+  <td>GPT-4o</td>
+  <td>
+   <mark>Elegant</mark> wallpaper, an empty gold frame, candelabra, and framed painting in a classic room.</td>
+   <td>B</td>
+</tr>
+  <tr>
+   <td>Claude</td>
+   <td>Ornate Victorian room with damask wallpaper, candelabra, and gold frames on wall.</td>
+   <td>B</td>
+</tr>
+</tbody>
 </table>
 
 Local LLMs:
@@ -407,41 +408,41 @@ Local LLMs:
 <table>
   <thead>
   <tr>
-   <th>Model</th>
-   <th>Description</th>
-   <th>Grade</th>
- </tr>
+  <th>Model</th>
+  <th>Description</th>
+  <th>Grade</th>
+</tr>
 </thead>
   <tbody>
   <tr>
-   <td>VIT-GPT2</td>
-   <td>A living room with a <mark>mirror</mark>, candles, and a vase of <mark>flowers</mark> on a table in front of a <mark>mirror</mark>.</td>
-   <td>F</td>
- </tr>
+  <td>VIT-GPT2</td>
+  <td>A living room with a <mark>mirror</mark>, candles, and a vase of <mark>flowers</mark> on a table in front of a <mark>mirror</mark>.</td>
+  <td>F</td>
+</tr>
   <tr>
-   <td>GIT</td>
-   <td>A picture frame is hanging on a wall next to a vase <mark>and a vase</mark> with <mark>the word tulips on it</mark>.</td>
-   <td>E</td>
- </tr>
+  <td>GIT</td>
+  <td>A picture frame is hanging on a wall next to a vase <mark>and a vase</mark> with <mark>the word tulips on it</mark>.</td>
+  <td>E</td>
+</tr>
   <tr>
-   <td>BLIP</td>
-   <td>A room with a painting on the wall and <mark>two vases</mark> on the table in front of it.</td>
-   <td>E</td>
- </tr>
+  <td>BLIP</td>
+  <td>A room with a painting on the wall and <mark>two vases</mark> on the table in front of it.</td>
+  <td>E</td>
+</tr>
   <tr>
-   <td>BLIP-2 with OPT</td>
-   <td>A room with a painting on the wall, a picture frame, and a chandelier.</td>
-   <td>C</td>
- </tr>
+  <td>BLIP-2 with OPT</td>
+  <td>A room with a painting on the wall, a picture frame, and a chandelier.</td>
+  <td>C</td>
+</tr>
   <tr>
-   <td>BLIP-2 with FLAN</td>
-   <td>A room with a <mark>painting</mark> on the wall and a couple of framed pictures hanging on the wall next to it.</td>
-   <td>D</td>
- </tr>
+  <td>BLIP-2 with FLAN</td>
+  <td>A room with a <mark>painting</mark> on the wall and a couple of framed pictures hanging on the wall next to it.</td>
+  <td>D</td>
+</tr>
   <tr>
-   <td>LLaVA (13B)</td>
-   <td>An <mark>empty</mark> wall with ornate decorations, including candlesticks and framed artwork, suggesting a formal or historical setting.
- </td>
+  <td>LLaVA (13B)</td>
+  <td>An <mark>empty</mark> wall with ornate decorations, including candlesticks and framed artwork, suggesting a formal or historical setting.
+</td>
   <td>D</td>
 </tr>
   <tr>
@@ -453,7 +454,7 @@ Local LLMs:
   <td>MiniCPM-V</td>
   <td>A room with ornate wallpaper, candlesticks and framed portraits of historical figures is displayed.</td>
   <td>
- </td>
+</td>
 </tr>
   <tr>
   <td>Llama 3.2 Vision (11B)</td>
@@ -479,22 +480,22 @@ Benchmark LLMs:
 <table>
   <thead>
   <tr>
-   <th>Model</th>
-   <th>Description</th>
-   <th>Grade</th>
- </tr>
+  <th>Model</th>
+  <th>Description</th>
+  <th>Grade</th>
+</tr>
 </thead>
   <tbody>
   <tr>
-   <td>GPT-4o</td>
-   <td>Two shirtless boys on a boat watch a person wakeboarding in the distance on a cloudy day.</td>
-   <td>A</td>
- </tr>
+  <td>GPT-4o</td>
+  <td>Two shirtless boys on a boat watch a person wakeboarding in the distance on a cloudy day.</td>
+  <td>A</td>
+</tr>
   <tr>
-   <td>Claude</td>
-   <td>People watching from a boat as a person is wakeboarding on a lake with a wooded shoreline.</td>
-   <td>B</td>
- </tr>
+  <td>Claude</td>
+  <td>People watching from a boat as a person is wakeboarding on a lake with a wooded shoreline.</td>
+  <td>B</td>
+</tr>
 </tbody>
 </table>
 
@@ -503,66 +504,66 @@ Local LLMs:
 <table>
   <thead>
   <tr>
-   <th>Model</th>
-   <th>Description</th>
-   <th>Grade</th>
- </tr>
+  <th>Model</th>
+  <th>Description</th>
+  <th>Grade</th>
+</tr>
 </thead>
   <tbody>
   <tr>
-   <td>VIT-GPT2</td>
-   <td>A man standing on top of a boat next to another man <mark>holding a surfboard in one hand</mark> and <mark>a surfboard in the other</mark>.</td>
-   <td>E</td>
- </tr>
+  <td>VIT-GPT2</td>
+  <td>A man standing on top of a boat next to another man <mark>holding a surfboard in one hand</mark> and <mark>a surfboard in the other</mark>.</td>
+  <td>E</td>
+</tr>
   <tr>
-   <td>GIT</td>
-   <td>Two men are in a boat, one of them is wearing an orange hat <mark>and the other is wearing an orange hat</mark>.</td>
+  <td>GIT</td>
+  <td>Two men are in a boat, one of them is wearing an orange hat <mark>and the other is wearing an orange hat</mark>.</td>
+  <td>D</td>
+</tr>
+  <tr>
+  <td>BLIP</td>
+  <td>There are two men riding on the back of a boat in the water, <mark>one of them is on a surfboard and the other is on a board</mark>.</td>
+  <td>D</td>
+</tr>
+  <tr>
+  <td>BLIP-2 with OPT</td>
+  <td>
+   <mark>Three young men</mark> sitting on the back of a boat.</td>
    <td>D</td>
- </tr>
+</tr>
   <tr>
-   <td>BLIP</td>
-   <td>There are two men riding on the back of a boat in the water, <mark>one of them is on a surfboard and the other is on a board</mark>.</td>
-   <td>D</td>
- </tr>
-  <tr>
-   <td>BLIP-2 with OPT</td>
+   <td>BLIP-2 with FLAN</td>
    <td>
-    <mark>Three young men</mark> sitting on the back of a boat.</td>
-    <td>D</td>
+    <mark>A group of people</mark> sitting on a boat watching a man ride a <mark>surfboard</mark> in the middle of the water.</td>
+    <td>C</td>
  </tr>
    <tr>
-    <td>BLIP-2 with FLAN</td>
-    <td>
-     <mark>A group of people</mark> sitting on a boat watching a man ride a <mark>surfboard</mark> in the middle of the water.</td>
-     <td>C</td>
-   </tr>
-    <tr>
-     <td>LLaVA (13B)</td>
-     <td>Two shirtless men on a boat, watching another man <mark>surfing</mark> in the water.</td>
-     <td>B</td>
-   </tr>
-    <tr>
-     <td>LLaVA (34B)</td>
-     <td>Two shirtless men on a boat, watching another person <mark>water skiing</mark>.</td>
-     <td>B</td>
-   </tr>
-    <tr>
-     <td>MiniCPM-V</td>
-     <td>Two shirtless men on a boat watch as another person <mark>water skis away from them</mark>, with trees and sky visible across the lake behind him.</td>
-     <td>B</td>
-   </tr>
-    <tr>
-     <td>Llama 3.2 Vision (11B)</td>
-     <td>Two shirtless men on a boat watching <mark>people</mark> wakeboarding or <mark>surfing</mark> behind it.</td>
-     <td>B</td>
-   </tr>
-    <tr>
-     <td>Llama 3.2 Vision (90B)</td>
-     <td>Two men on a boat watching another man wakeboarding.</td>
-     <td>A</td>
-   </tr>
- </tbody>
- </table>
+    <td>LLaVA (13B)</td>
+    <td>Two shirtless men on a boat, watching another man <mark>surfing</mark> in the water.</td>
+    <td>B</td>
+ </tr>
+   <tr>
+    <td>LLaVA (34B)</td>
+    <td>Two shirtless men on a boat, watching another person <mark>water skiing</mark>.</td>
+    <td>B</td>
+ </tr>
+   <tr>
+    <td>MiniCPM-V</td>
+    <td>Two shirtless men on a boat watch as another person <mark>water skis away from them</mark>, with trees and sky visible across the lake behind him.</td>
+    <td>B</td>
+ </tr>
+   <tr>
+    <td>Llama 3.2 Vision (11B)</td>
+    <td>Two shirtless men on a boat watching <mark>people</mark> wakeboarding or <mark>surfing</mark> behind it.</td>
+    <td>B</td>
+ </tr>
+   <tr>
+    <td>Llama 3.2 Vision (90B)</td>
+    <td>Two men on a boat watching another man wakeboarding.</td>
+    <td>A</td>
+ </tr>
+</tbody>
+</table>
 
 #### Test image 4: hiking in the Dolomites, Italy
 
@@ -575,22 +576,22 @@ Benchmark LLMs:
 <table>
   <thead>
   <tr>
-   <th>Model</th>
-   <th>Description</th>
-   <th>Grade</th>
- </tr>
+  <th>Model</th>
+  <th>Description</th>
+  <th>Grade</th>
+</tr>
 </thead>
   <tbody>
   <tr>
-   <td>GPT-4o</td>
-   <td>A wooden shrine with a statue of Mary and directional signs, set against mountains and green hills.</td>
-   <td>A</td>
- </tr>
+  <td>GPT-4o</td>
+  <td>A wooden shrine with a statue of Mary and directional signs, set against mountains and green hills.</td>
+  <td>A</td>
+</tr>
   <tr>
-   <td>Claude</td>
-   <td>Wooden shrine of St. Magdalena with trail signs in the Dolomites mountains of Italy.</td>
-   <td>A</td>
- </tr>
+  <td>Claude</td>
+  <td>Wooden shrine of St. Magdalena with trail signs in the Dolomites mountains of Italy.</td>
+  <td>A</td>
+</tr>
 </tbody>
 </table>
 
@@ -599,62 +600,62 @@ Local LLMs:
 <table>
   <thead>
   <tr>
-   <th>Model</th>
-   <th>Description</th>
-   <th>Grade</th>
- </tr>
+  <th>Model</th>
+  <th>Description</th>
+  <th>Grade</th>
+</tr>
 </thead>
   <tbody>
   <tr>
-   <td>VIT-GPT2</td>
-   <td>A <mark>bird</mark> perched on top of a wooden post in front of a mountain range with a view of <mark>a mountain range and mountains</mark>.</td>
-   <td>F</td>
- </tr>
+  <td>VIT-GPT2</td>
+  <td>A <mark>bird</mark> perched on top of a wooden post in front of a mountain range with a view of <mark>a mountain range and mountains</mark>.</td>
+  <td>F</td>
+</tr>
   <tr>
-   <td>GIT</td>
-   <td>A <mark>wooden sign</mark> in front of a mountain with a statue on it that says <mark>"Meise museum"</mark> on the top.</td>
-   <td>D</td>
- </tr>
+  <td>GIT</td>
+  <td>A <mark>wooden sign</mark> in front of a mountain with a statue on it that says <mark>"Meise museum"</mark> on the top.</td>
+  <td>D</td>
+</tr>
   <tr>
-   <td>BLIP</td>
-   <td>There is <mark>a birdhouse with a statue</mark> on top of it in the middle of a field with trees and mountains in the background.</td>
-   <td>D</td>
- </tr>
+  <td>BLIP</td>
+  <td>There is <mark>a birdhouse with a statue</mark> on top of it in the middle of a field with trees and mountains in the background.</td>
+  <td>D</td>
+</tr>
   <tr>
-   <td>BLIP-2 with OPT</td>
-   <td>A statue of Mary on a wooden post in the middle of a field with mountains in the background.</td>
-   <td>B</td>
- </tr>
+  <td>BLIP-2 with OPT</td>
+  <td>A statue of Mary on a wooden post in the middle of a field with mountains in the background.</td>
+  <td>B</td>
+</tr>
   <tr>
-   <td>BLIP-2 with FLAN</td>
-   <td>A statue of the Virgin Mary sits on top of a wooden post <mark>in the middle of a mountain</mark>.</td>
-   <td>C</td>
- </tr>
+  <td>BLIP-2 with FLAN</td>
+  <td>A statue of the Virgin Mary sits on top of a wooden post <mark>in the middle of a mountain</mark>.</td>
+  <td>C</td>
+</tr>
   <tr>
-   <td>LLaVA (13B)</td>
-   <td>A picturesque scene of a small wooden chapel with a statue of <mark>Jesus</mark>, set against a backdrop of majestic mountains and lush greenery.</td>
-   <td>C</td>
- </tr>
+  <td>LLaVA (13B)</td>
+  <td>A picturesque scene of a small wooden chapel with a statue of <mark>Jesus</mark>, set against a backdrop of majestic mountains and lush greenery.</td>
+  <td>C</td>
+</tr>
   <tr>
-   <td>LLaVA (34B)</td>
-   <td>A wooden shrine with religious iconography, surrounded by alpine scenery and signposts.</td>
-   <td>B</td>
- </tr>
+  <td>LLaVA (34B)</td>
+  <td>A wooden shrine with religious iconography, surrounded by alpine scenery and signposts.</td>
+  <td>B</td>
+</tr>
   <tr>
-   <td>MiniCPM-V</td>
-   <td>A wooden shrine with a statue of Mary and several directional signs pointing to various locations such as Kirchsteig, Magdalena, St.</td>
-   <td>B</td>
- </tr>
+  <td>MiniCPM-V</td>
+  <td>A wooden shrine with a statue of Mary and several directional signs pointing to various locations such as Kirchsteig, Magdalena, St.</td>
+  <td>B</td>
+</tr>
   <tr>
-   <td>Llama 3.2 Vision (11B)</td>
-   <td>A wooden shrine with a statue of Mary and a signpost in front of mountains.</td>
-   <td>A</td>
- </tr>
+  <td>Llama 3.2 Vision (11B)</td>
+  <td>A wooden shrine with a statue of Mary and a signpost in front of mountains.</td>
+  <td>A</td>
+</tr>
   <tr>
-   <td>Llama 3.2 Vision (90B)</td>
-   <td>A statue of Mary in a wooden shrine with a signpost pointing to various locations, including Rundweg St.</td>
-   <td>B</td>
- </tr>
+  <td>Llama 3.2 Vision (90B)</td>
+  <td>A statue of Mary in a wooden shrine with a signpost pointing to various locations, including Rundweg St.</td>
+  <td>B</td>
+</tr>
 </tbody>
 </table>
 
@@ -669,16 +670,16 @@ Benchmark LLMs:
 <table>
   <thead>
   <tr>
-   <th>Model</th>
-   <th>Description</th>
-   <th>Grade</th>
- </tr>
+  <th>Model</th>
+  <th>Description</th>
+  <th>Grade</th>
+</tr>
 </thead>
   <tbody>
   <tr>
-   <td>GPT-4o</td>
-   <td>A cozy, dimly lit room with <mark>a candle</mark> on a wooden table, next to a backgammon board, creating a warm, rustic ambiance.
- </td>
+  <td>GPT-4o</td>
+  <td>A cozy, dimly lit room with <mark>a candle</mark> on a wooden table, next to a backgammon board, creating a warm, rustic ambiance.
+</td>
   <td>B</td>
 </tr>
   <tr>
@@ -694,21 +695,21 @@ Local LLMs:
 <table>
   <thead>
   <tr>
-   <th>Model</th>
-   <th>Description</th>
-   <th>Grade</th>
- </tr>
+  <th>Model</th>
+  <th>Description</th>
+  <th>Grade</th>
+</tr>
 </thead>
   <tbody>
   <tr>
-   <td>VIT-GPT2</td>
-   <td>A candle is lit on a wooden table in front of a <mark>fire place</mark> with candles and other items on top of it.</td>
-   <td>E</td>
- </tr>
+  <td>VIT-GPT2</td>
+  <td>A candle is lit on a wooden table in front of a <mark>fire place</mark> with candles and other items on top of it.</td>
+  <td>E</td>
+</tr>
   <tr>
-   <td>GIT</td>
-   <td>Two candles are lit next to each other on a table, <mark>one of them is lit up and the other is lit up</mark>.
- </td>
+  <td>GIT</td>
+  <td>Two candles are lit next to each other on a table, <mark>one of them is lit up and the other is lit up</mark>.
+</td>
   <td>D</td>
 </tr>
   <tr>
@@ -764,109 +765,109 @@ I evaluated each description using [a structured but subjective scoring system](
 <div class="large">
   <table>
   <tr>
-   <th>Model</th>
-   <th>Repetitions</th>
-   <th>Hallucinations</th>
-   <th>Moods</th>
-   <th>Average score</th>
-   <th>Grade</th>
- </tr>
+  <th>Model</th>
+  <th>Repetitions</th>
+  <th>Hallucinations</th>
+  <th>Moods</th>
+  <th>Average score</th>
+  <th>Grade</th>
+</tr>
   <tr>
-   <td>VIT-GPT2</td>
-   <td style="background-color: #ffcccc">Often</td>
-   <td style="background-color: #ffcccc">Often</td>
-   <td style="background-color: #ffcccc">Poor</td>
-   <td>0.4/5</td>
-   <td>F</td>
- </tr>
+  <td>VIT-GPT2</td>
+  <td style="background-color: #ffcccc">Often</td>
+  <td style="background-color: #ffcccc">Often</td>
+  <td style="background-color: #ffcccc">Poor</td>
+  <td>0.4/5</td>
+  <td>F</td>
+</tr>
   <tr>
-   <td>GIT</td>
-   <td style="background-color: #ffcccc">Often</td>
-   <td style="background-color: #ffcccc">Often</td>
-   <td style="background-color: #ffcccc">Poor</td>
-   <td>1.6/5</td>
-   <td>D</td>
- </tr>
+  <td>GIT</td>
+  <td style="background-color: #ffcccc">Often</td>
+  <td style="background-color: #ffcccc">Often</td>
+  <td style="background-color: #ffcccc">Poor</td>
+  <td>1.6/5</td>
+  <td>D</td>
+</tr>
   <tr>
-   <td>BLIP</td>
-   <td style="background-color: #ffcccc">Often</td>
-   <td style="background-color: #ffcccc">Often</td>
-   <td style="background-color: #ffcccc">Poor</td>
-   <td>1.8/5</td>
-   <td>D</td>
- </tr>
+  <td>BLIP</td>
+  <td style="background-color: #ffcccc">Often</td>
+  <td style="background-color: #ffcccc">Often</td>
+  <td style="background-color: #ffcccc">Poor</td>
+  <td>1.8/5</td>
+  <td>D</td>
+</tr>
   <tr>
-   <td>BLIP2 w/OPT</td>
-   <td style="background-color: #ccffcc">Rarely</td>
-   <td style="background-color: #ffeb99">Sometimes</td>
-   <td style="background-color: #ffeb99">Fair</td>
-   <td>2.6/5</td>
-   <td>C</td>
- </tr>
+  <td>BLIP2 w/OPT</td>
+  <td style="background-color: #ccffcc">Rarely</td>
+  <td style="background-color: #ffeb99">Sometimes</td>
+  <td style="background-color: #ffeb99">Fair</td>
+  <td>2.6/5</td>
+  <td>C</td>
+</tr>
   <tr>
-   <td>BLIP2 w/FLAN</td>
-   <td style="background-color: #ccffcc">Rarely</td>
-   <td style="background-color: #ffeb99">Sometimes</td>
-   <td style="background-color: #ffeb99">Fair</td>
-   <td>2.2/5</td>
-   <td>D</td>
- </tr>
+  <td>BLIP2 w/FLAN</td>
+  <td style="background-color: #ccffcc">Rarely</td>
+  <td style="background-color: #ffeb99">Sometimes</td>
+  <td style="background-color: #ffeb99">Fair</td>
+  <td>2.2/5</td>
+  <td>D</td>
+</tr>
   <tr>
-   <td>LLaVA 13B</td>
-   <td style="background-color: #ccffcc">Never</td>
-   <td style="background-color: #ffeb99">Sometimes</td>
-   <td style="background-color: #ccffcc">Good</td>
-   <td>3.2/5</td>
-   <td>C</td>
- </tr>
+  <td>LLaVA 13B</td>
+  <td style="background-color: #ccffcc">Never</td>
+  <td style="background-color: #ffeb99">Sometimes</td>
+  <td style="background-color: #ccffcc">Good</td>
+  <td>3.2/5</td>
+  <td>C</td>
+</tr>
   <tr>
-   <td>LLaVA 34B</td>
-   <td style="background-color: #ccffcc">Never</td>
-   <td style="background-color: #ffeb99">Sometimes</td>
-   <td style="background-color: #ccffcc">Good</td>
-   <td>3.2/5</td>
-   <td>C</td>
- </tr>
+  <td>LLaVA 34B</td>
+  <td style="background-color: #ccffcc">Never</td>
+  <td style="background-color: #ffeb99">Sometimes</td>
+  <td style="background-color: #ccffcc">Good</td>
+  <td>3.2/5</td>
+  <td>C</td>
+</tr>
   <tr>
-   <td>MiniCPM-V</td>
-   <td style="background-color: #ccffcc">Never</td>
-   <td style="background-color: #ccffcc">Never</td>
-   <td style="background-color: #ccffcc">Good</td>
-   <td>3.8/5</td>
-   <td>B</td>
- </tr>
+  <td>MiniCPM-V</td>
+  <td style="background-color: #ccffcc">Never</td>
+  <td style="background-color: #ccffcc">Never</td>
+  <td style="background-color: #ccffcc">Good</td>
+  <td>3.8/5</td>
+  <td>B</td>
+</tr>
   <tr>
-   <td>Llama 11B</td>
-   <td style="background-color: #ccffcc">Never</td>
-   <td style="background-color: #ccffcc">Rarely</td>
-   <td style="background-color: #ccffcc">Good</td>
-   <td>4.4/5</td>
-   <td>B</td>
- </tr>
+  <td>Llama 11B</td>
+  <td style="background-color: #ccffcc">Never</td>
+  <td style="background-color: #ccffcc">Rarely</td>
+  <td style="background-color: #ccffcc">Good</td>
+  <td>4.4/5</td>
+  <td>B</td>
+</tr>
   <tr>
-   <td>Llama 90B</td>
-   <td style="background-color: #ccffcc">Never</td>
-   <td style="background-color: #ccffcc">Rarely</td>
-   <td style="background-color: #ccffcc">Good</td>
-   <td>3.8/5</td>
-   <td>B</td>
- </tr>
+  <td>Llama 90B</td>
+  <td style="background-color: #ccffcc">Never</td>
+  <td style="background-color: #ccffcc">Rarely</td>
+  <td style="background-color: #ccffcc">Good</td>
+  <td>3.8/5</td>
+  <td>B</td>
+</tr>
   <tr>
-   <td>GPT-4o</td>
-   <td style="background-color: #ccffcc">Never</td>
-   <td style="background-color: #ccffcc">Never</td>
-   <td style="background-color: #ccffcc">Good</td>
-   <td>4.8/5</td>
-   <td>A</td>
- </tr>
+  <td>GPT-4o</td>
+  <td style="background-color: #ccffcc">Never</td>
+  <td style="background-color: #ccffcc">Never</td>
+  <td style="background-color: #ccffcc">Good</td>
+  <td>4.8/5</td>
+  <td>A</td>
+</tr>
   <tr>
-   <td>Claude 3.5 Sonnet</td>
-   <td style="background-color: #ccffcc">Never</td>
-   <td style="background-color: #ccffcc">Never</td>
-   <td style="background-color: #ccffcc">Good</td>
-   <td>5/5</td>
-   <td>A</td>
- </tr>
+  <td>Claude 3.5 Sonnet</td>
+  <td style="background-color: #ccffcc">Never</td>
+  <td style="background-color: #ccffcc">Never</td>
+  <td style="background-color: #ccffcc">Good</td>
+  <td>5/5</td>
+  <td>A</td>
+</tr>
 </table>
 </div>
 

@@ -5,7 +5,6 @@ author: Dries
 summary: 'Acquia adds 200 new customers in six months'
 tags:
   - Drupal
-  - Business
   - Acquia
 published: true
 type: blog

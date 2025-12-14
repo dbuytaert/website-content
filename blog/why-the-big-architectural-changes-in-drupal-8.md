@@ -6,7 +6,8 @@ summary: 'Change is difficult but necessary for Drupal to stay relevant'
 image: blog/why-the-big-architectural-changes-in-drupal-8
 tags:
   - Drupal
-  - 'The future'
+  - PHP
+  - 'Software development'
 published: true
 type: blog
 url: /why-the-big-architectural-changes-in-drupal-8

@@ -5,8 +5,6 @@ author: Dries
 summary: "How it's really rewarding to watch former colleagues accomplish greater things."
 tags:
   - Acquia
-  - Personal
-  - Business
 published: true
 type: blog
 url: /watching-former-colleagues-take-it-to-the-next-level

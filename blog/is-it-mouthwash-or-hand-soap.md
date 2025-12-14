@@ -4,7 +4,6 @@ date: '2010-11-15T09:36:13-05:00'
 author: Dries
 tags:
   - Drupal
-  - Business
   - Acquia
   - 'New York'
 published: true

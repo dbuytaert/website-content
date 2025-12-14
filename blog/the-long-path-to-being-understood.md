@@ -7,7 +7,6 @@ tags:
   - Acquia
   - 'Open Source'
   - 'Startup lessons'
-  - Business
 published: true
 type: blog
 url: /the-long-path-to-being-understood

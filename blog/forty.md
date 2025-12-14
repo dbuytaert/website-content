@@ -4,7 +4,6 @@ date: '2018-11-19T05:57:14-05:00'
 author: Dries
 image: miscellaneous-2018/fortieth-birthday-coffee-mug
 tags:
-  - Personal
   - Birthday
   - Coffee
 featured: true

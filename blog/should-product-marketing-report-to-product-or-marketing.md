@@ -6,7 +6,6 @@ image: blog/product-marketing
 tags:
   - Acquia
   - 'Startup lessons'
-  - Business
   - Marketing
 published: true
 type: blog

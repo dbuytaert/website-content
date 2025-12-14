@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Drupal
   - Acquia
-  - Business
 published: true
 type: blog
 url: /the-investment-case-for-employing-a-drupal-core-contributor

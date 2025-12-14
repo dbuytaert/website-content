@@ -4,7 +4,6 @@ date: '2014-12-22T11:23:58-05:00'
 author: Dries
 tags:
   - 'Startup lessons'
-  - Business
 published: true
 type: blog
 url: /attitude-beats-experience

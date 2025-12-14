@@ -4,8 +4,9 @@ date: '2010-03-02T15:59:24-05:00'
 author: Dries
 tags:
   - Drupal
-  - 'The future'
   - Acquia
+  - 'Open Source'
+  - 'Business model'
 published: true
 type: blog
 url: /open-source-in-the-enterprise-and-in-the-cloud

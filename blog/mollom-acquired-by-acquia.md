@@ -4,7 +4,6 @@ date: '2012-08-14T08:00:44-04:00'
 author: Dries
 tags:
   - Drupal
-  - Business
   - Acquia
   - Mollom
 published: true

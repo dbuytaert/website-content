@@ -8,7 +8,6 @@ tags:
   - Drupal
   - WordPress
   - 'Open Source'
-  - Business
   - 'Drupal Association'
 featured: true
 published: true

@@ -3,7 +3,6 @@ title: 'Everyone should be a millionaire'
 date: '2010-12-21T10:29:47-05:00'
 author: Dries
 tags:
-  - Personal
   - Finance
 published: true
 type: blog

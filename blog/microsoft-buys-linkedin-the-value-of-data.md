@@ -3,7 +3,6 @@ title: 'Microsoft buys LinkedIn: the value of data'
 date: '2016-06-14T01:39:33-04:00'
 author: Dries
 tags:
-  - Business
   - Microsoft
 published: true
 type: blog

@@ -5,7 +5,6 @@ author: Dries
 summary: 'There are only three cloud infrastructure companies that are really growing: Amazon, Google and Microsoft'
 image: blog/capex-cloud-vendors-absolute-growth-2018
 tags:
-  - Business
   - 'Stock market'
   - Microsoft
   - Amazon

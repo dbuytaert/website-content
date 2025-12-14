@@ -4,7 +4,6 @@ date: '2019-04-28T15:01:11-04:00'
 author: Dries
 tags:
   - 'Favorite music'
-  - Personal
 published: true
 type: blog
 url: /radiohead-creep

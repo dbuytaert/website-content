@@ -4,7 +4,6 @@ date: '2015-12-04T08:38:10-05:00'
 author: Dries
 tags:
   - 'Open Source'
-  - 'The future'
   - Policy
   - Government
 published: true

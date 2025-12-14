@@ -6,7 +6,6 @@ summary: 'An in-depth overview of the dilutive effects of multiple rounds of fun
 image: blog/founder-dilution
 tags:
   - 'Startup lessons'
-  - Business
   - Investing
 featured: true
 published: true

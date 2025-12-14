@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Drupal
   - OSCON
-  - Business
   - 'Bill Gates'
   - Microsoft
 published: true

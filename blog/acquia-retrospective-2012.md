@@ -4,8 +4,6 @@ date: '2013-01-14T15:30:56-05:00'
 author: Dries
 tags:
   - Drupal
-  - Business
-  - 'The future'
   - Acquia
   - Retrospective
 published: true

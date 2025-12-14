@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Drupal
   - DrupalCon
-  - 'The future'
   - 'Semantic web'
   - 'State of Drupal'
 published: true

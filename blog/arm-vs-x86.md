@@ -5,7 +5,6 @@ author: Dries
 tags:
   - 'Stock market'
   - Apple
-  - Performance
 published: true
 type: blog
 url: /arm-vs-x86

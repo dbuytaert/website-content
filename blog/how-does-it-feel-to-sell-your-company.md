@@ -3,7 +3,6 @@ title: 'How does it feel to sell your company?'
 date: '2012-09-20T10:28:29-04:00'
 author: Dries
 tags:
-  - Business
   - Acquia
   - Mollom
 published: true

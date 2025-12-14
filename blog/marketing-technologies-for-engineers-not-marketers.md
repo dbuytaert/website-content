@@ -3,7 +3,6 @@ title: 'Marketing technologies for engineers, not marketers'
 date: '2019-01-07T12:12:33-05:00'
 author: Dries
 tags:
-  - Business
   - Marketing
 published: true
 type: blog

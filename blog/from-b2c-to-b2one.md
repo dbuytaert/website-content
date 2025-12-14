@@ -4,8 +4,8 @@ date: '2015-11-12T03:49:35-05:00'
 author: Dries
 summary: 'The B2One paradigm will be a very dramatic shift that disrupts existing business models and every single industry.'
 tags:
-  - 'The future'
-  - Business
+  - 'Open Web'
+  - Trends
 published: true
 type: blog
 url: /from-b2c-to-b2one

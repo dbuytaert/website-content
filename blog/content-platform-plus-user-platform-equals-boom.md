@@ -3,8 +3,8 @@ title: 'Content platform + user platform = BOOM!'
 date: '2015-03-31T16:05:30-04:00'
 author: Dries
 tags:
-  - Business
-  - 'The future'
+  - 'Open Web'
+  - Trends
 published: true
 type: blog
 url: /content-platform-plus-user-platform-equals-boom

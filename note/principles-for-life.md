@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Axl
   - Stan
-  - Personal
 featured: true
 published: true
 type: note

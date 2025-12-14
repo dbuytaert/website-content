@@ -4,7 +4,6 @@ date: '2008-12-17T07:08:57-05:00'
 author: Dries
 tags:
   - Drupal
-  - Business
 published: true
 type: blog
 url: /contributing-back-to-drupal

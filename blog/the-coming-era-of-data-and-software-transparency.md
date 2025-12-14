@@ -3,7 +3,6 @@ title: 'The coming era of data and software transparency'
 date: '2015-10-06T13:04:06-04:00'
 author: Dries
 tags:
-  - 'The future'
   - 'Open Source'
   - Policy
   - 'Open Web'

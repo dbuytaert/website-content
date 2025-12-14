@@ -4,10 +4,10 @@ date: '2008-11-13T04:43:48-05:00'
 author: Dries
 tags:
   - Drupal
-  - Business
-  - 'The future'
   - Acquia
   - Mollom
+  - 'Open Source'
+  - 'Business model'
 published: true
 type: blog
 url: /the-freemium-business-model-giving-away-pays

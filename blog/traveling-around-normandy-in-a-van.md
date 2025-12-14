@@ -4,7 +4,6 @@ date: '2020-09-08T15:27:14-04:00'
 author: Dries
 image: normandy-2020/normandy-1
 tags:
-  - Personal
   - Travel
   - Photography
   - Vanessa

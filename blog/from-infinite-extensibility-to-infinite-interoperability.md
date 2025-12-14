@@ -4,9 +4,7 @@ date: '2008-02-08T08:43:09-05:00'
 author: Dries
 tags:
   - Drupal
-  - Business
   - SharePoint
-  - 'The future'
 published: true
 type: blog
 url: /from-infinite-extensibility-to-infinite-interoperability

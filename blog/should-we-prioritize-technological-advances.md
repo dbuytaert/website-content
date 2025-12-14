@@ -5,7 +5,7 @@ author: Dries
 summary: 'Should we prioritize technological advances?'
 tags:
   - Policy
-  - 'The future'
+  - Trends
 published: true
 type: blog
 url: /should-we-prioritize-technological-advances
@@ -22,26 +22,26 @@ These advances are not far into the future. A recent report on [Technology Tippi
 
 <div class="large">
   <table>
-   <caption>The average year that each tipping point is expected to occur. Source: <a href="https://dri.es/files/technological-tipping-points-2015.pdf">WEF report</a>.</caption>
-   <tr>
-    <th>2018</th>
-    <th>2021</th>
-    <th>2022</th>
-    <th>2023</th>
-    <th>2024</th>
-    <th>2025</th>
-    <th>2026</th>
-  </tr>
-   <tr>
-    <td style="vertical-align: top">- Storage for all</td>
-    <td style="vertical-align: top">- Robots and services</td>
-    <td style="vertical-align: top">- The Internet of Things- Wearable internet- 3D printing and manufacturing</td>
-    <td style="vertical-align: top">- Implantable technologies- Big Data for decisions- Vision as the new interface- Our digital presence- Governments and the block chain- A supercomputer in your pocket</td>
-    <td style="vertical-align: top">- Ubiquitous computing- 3D printing and human health- The connected home</td>
-    <td style="vertical-align: top">- 3D printing and consumer products- AI and white-collar jobs- The sharing economy</td>
-    <td style="vertical-align: top">- Driverless cars- AI and decision-making- Smart cities</td>
-  </tr>
- </table>
+  <caption>The average year that each tipping point is expected to occur. Source: <a href="https://dri.es/files/technological-tipping-points-2015.pdf">WEF report</a>.</caption>
+  <tr>
+  <th>2018</th>
+  <th>2021</th>
+  <th>2022</th>
+  <th>2023</th>
+  <th>2024</th>
+  <th>2025</th>
+  <th>2026</th>
+</tr>
+  <tr>
+  <td style="vertical-align: top">- Storage for all</td>
+  <td style="vertical-align: top">- Robots and services</td>
+  <td style="vertical-align: top">- The Internet of Things- Wearable internet- 3D printing and manufacturing</td>
+  <td style="vertical-align: top">- Implantable technologies- Big Data for decisions- Vision as the new interface- Our digital presence- Governments and the block chain- A supercomputer in your pocket</td>
+  <td style="vertical-align: top">- Ubiquitous computing- 3D printing and human health- The connected home</td>
+  <td style="vertical-align: top">- 3D printing and consumer products- AI and white-collar jobs- The sharing economy</td>
+  <td style="vertical-align: top">- Driverless cars- AI and decision-making- Smart cities</td>
+</tr>
+</table>
 </div>
 
 One consistent, fearful theme was the potential for job losses. As automation continues to replace manufacturing or blue collar jobs, artificial intelligence will subsequently do the same for skilled, white collar jobs in banking, law or medicine. Estimates as to the impact this will have on jobs vary, but many prognostications in Davos suggested a depressive impact on the global economy. While it's true that technological leaps have often eliminated older, human-powered methods of doing things, many in Davos also recognized that advances in technology create new jobs, most of which we can't even dream of today. For example, the invention of the airplane created hundreds of thousands of jobs, from pilots, to stewards, to airport personnel, to international agents and more prognostications not to mention the transformative economic impact of billions of people traveling vast distances in a short span of time.

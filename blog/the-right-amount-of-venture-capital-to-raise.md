@@ -3,7 +3,6 @@ title: 'The right amount of venture capital to raise'
 date: '2010-12-08T07:28:13-05:00'
 author: Dries
 tags:
-  - Business
   - Acquia
   - 'Startup lessons'
   - Investing

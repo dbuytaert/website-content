@@ -7,7 +7,6 @@ tags:
   - Drupal
   - Joomla
   - WordPress
-  - Business
   - 'Open Source'
 featured: true
 published: true

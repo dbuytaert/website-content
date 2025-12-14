@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Drupal
   - Press
-  - Business
   - Acquia
 published: true
 type: blog

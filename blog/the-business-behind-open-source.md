@@ -5,8 +5,6 @@ author: Dries
 tags:
   - Drupal
   - Acquia
-  - Business
-  - 'The future'
   - 'Open Source'
 published: true
 type: blog

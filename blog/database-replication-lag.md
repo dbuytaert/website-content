@@ -4,7 +4,7 @@ date: '2007-08-24T03:02:27-04:00'
 author: Dries
 tags:
   - Drupal
-  - Performance
+  - 'Web performance'
   - MySQL
 published: true
 type: blog

@@ -3,7 +3,6 @@ title: 'Coldplay - Fix you'
 date: '2013-02-24T12:31:01-05:00'
 author: Dries
 tags:
-  - Personal
   - 'Favorite music'
 published: true
 type: blog

@@ -7,6 +7,7 @@ image: drupal/jamstack-mach-traditional-cms
 tags:
   - Drupal
   - 'Headless Drupal'
+  - Trends
 featured: true
 published: true
 type: blog

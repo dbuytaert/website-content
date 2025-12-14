@@ -5,6 +5,8 @@ author: Dries
 tags:
   - Drupal
   - Activepieces
+  - Automation
+featured: false
 published: true
 type: note
 url: /setting-up-an-activepieces-development-environment

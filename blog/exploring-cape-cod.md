@@ -7,7 +7,6 @@ image: cape-cod-2018/stage-harbor-lighthouse-1
 tags:
   - Travel
   - Photography
-  - Personal
   - 'Cape Cod'
 published: true
 type: blog

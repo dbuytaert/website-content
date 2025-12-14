@@ -6,7 +6,6 @@ summary: "Why I'd like to find a way to combine longer blog posts with shorter u
 image: blog/my-blog-as-my-thought-space
 tags:
   - POSSE
-  - Personal
   - Writing
 featured: false
 published: true

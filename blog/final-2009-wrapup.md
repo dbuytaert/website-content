@@ -4,7 +4,6 @@ date: '2010-01-07T03:10:50-05:00'
 author: Dries
 summary: 'Final 2009 wrapup'
 tags:
-  - Personal
   - Retrospective
 published: true
 type: blog

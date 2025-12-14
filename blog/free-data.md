@@ -3,7 +3,7 @@ title: 'Free data (free as in open)'
 date: '2006-07-28T03:50:02-04:00'
 author: Dries
 tags:
-  - Predictions
+  - Trends
 published: true
 type: blog
 url: /free-data

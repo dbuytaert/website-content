@@ -6,7 +6,6 @@ summary: 'Why we should integrate Drupal with third-party commerce platforms lik
 tags:
   - Drupal
   - Commerce
-  - Business
   - Acquia
 published: true
 type: blog

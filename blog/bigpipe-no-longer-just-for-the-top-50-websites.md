@@ -4,7 +4,7 @@ date: '2015-11-27T10:27:07-05:00'
 author: Dries
 tags:
   - Drupal
-  - Performance
+  - 'Web performance'
 published: true
 type: blog
 url: /bigpipe-no-longer-just-for-the-top-50-websites

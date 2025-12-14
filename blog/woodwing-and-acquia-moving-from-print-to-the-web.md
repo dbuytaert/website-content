@@ -4,7 +4,6 @@ date: '2009-05-15T04:56:41-04:00'
 author: Dries
 tags:
   - Drupal
-  - 'The future'
   - Acquia
   - Publishing
 published: true

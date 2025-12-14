@@ -5,7 +5,6 @@ author: Dries
 summary: 'How startups use stock options to attract and retain high-quality people.'
 image: blog/shares
 tags:
-  - Business
   - Acquia
   - 'Startup lessons'
 featured: true

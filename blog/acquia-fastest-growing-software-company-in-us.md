@@ -3,7 +3,6 @@ title: 'Acquia fastest growing software company in US'
 date: '2012-08-21T12:19:00-04:00'
 author: Dries
 tags:
-  - Business
   - Acquia
 published: true
 type: blog

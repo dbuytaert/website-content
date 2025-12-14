@@ -6,7 +6,6 @@ summary: 'Take a virtual tour of the university campus from the comfort of your 
 tags:
   - Drupal
   - Acquia
-  - 'The future'
   - 'Acquia Engage'
 published: true
 type: blog

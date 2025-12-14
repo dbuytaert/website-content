@@ -4,8 +4,6 @@ date: '2006-12-14T04:56:39-05:00'
 author: Dries
 tags:
   - Drupal
-  - Business
-  - Predictions
 published: true
 type: blog
 url: /mass-drupal-hosting

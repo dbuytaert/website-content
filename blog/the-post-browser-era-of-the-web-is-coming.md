@@ -4,8 +4,8 @@ date: '2015-06-09T04:38:02-04:00'
 author: Dries
 tags:
   - Drupal
-  - 'The future'
-  - Business
+  - 'Open Web'
+  - Trends
   - Publishing
 published: true
 type: blog

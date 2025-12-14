@@ -5,7 +5,8 @@ author: Dries
 image: blog/dries-redesign-2018
 tags:
   - 'My site'
-  - Performance
+  - 'Web performance'
+featured: false
 published: true
 type: blog
 url: /a-fresh-look-for-dri-es
@@ -39,7 +40,7 @@ Both the line width and the spacing changes should improve the readability.
 
 ### Improve the discoverability of content
 
-I also wanted to improve the discoverability of my content. I cover a lot of different topics on my blog – from [Drupal](https://dri.es/tag/drupal) to [Open Source](https://dri.es/tag/open-source), [startups](https://dri.es/tag/startup-lessons), [business](https://dri.es/tag/business), [investing](https://dri.es/tag/investing), [travel](https://dri.es/tag/travel), [photography](https://dri.es/tag/photography) and the [Open Web](https://dri.es/tag/open-web). To help visitors understand what my site is about, I created a new navigation. The new [Topics](https://dri.es/topics)-page shows visitors a list of the main topics I write about. It's a small change, but it should help new visitors figure out what my site is about.
+I also wanted to improve the discoverability of my content. I cover a wide range of topics on my blog: from [Drupal](https://dri.es/tag/drupal) and [Open Source](https://dri.es/tag/open-source) to [startups](https://dri.es/tag/startup-lessons), [investing](https://dri.es/tag/investing), [travel](https://dri.es/tag/travel), [photography](https://dri.es/tag/photography), and the [Open Web](https://dri.es/tag/open-web).  To help visitors understand what my site is about, I created a new navigation. The new [Topics](https://dri.es/topics)-page shows visitors a list of the main topics I write about. It's a small change, but it should help new visitors figure out what my site is about.
 
 ### Optimize the performance of my site
 

@@ -6,7 +6,6 @@ summary: 'How we can use augmented reality with Drupal to superimpose useful inf
 image: blog/shopping-with-augmented-reality-example-2017
 tags:
   - Drupal
-  - 'The future'
   - 'Augmented reality'
   - Acquia
 published: true

@@ -3,7 +3,7 @@ title: 'Optimizing site performance by reducing JavaScript and CSS'
 date: '2019-02-13T21:04:05-05:00'
 author: Dries
 tags:
-  - Performance
+  - 'Web performance'
   - Accessibility
   - Drupal
   - 'My site'

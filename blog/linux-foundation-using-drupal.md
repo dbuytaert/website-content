@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Drupal
   - 'Drupal sites'
-  - Personal
   - Non-profit
 published: true
 type: blog

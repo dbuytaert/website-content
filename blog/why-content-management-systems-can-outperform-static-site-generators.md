@@ -7,7 +7,7 @@ image: blog/static-site-generators-are-fast-marketing
 tags:
   - Drupal
   - 'My site'
-  - Performance
+  - 'Web performance'
 featured: true
 published: true
 type: blog

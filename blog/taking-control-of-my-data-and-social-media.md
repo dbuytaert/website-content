@@ -7,7 +7,6 @@ image: blog/facebook-social-decay
 tags:
   - 'Open Web'
   - POSSE
-  - Personal
   - 'Social media'
 published: true
 type: blog

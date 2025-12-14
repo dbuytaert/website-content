@@ -3,7 +3,7 @@ title: 'Build and operate your own CDN'
 date: '2018-02-22T17:31:44-05:00'
 author: Dries
 tags:
-  - Performance
+  - 'Web performance'
   - 'Open Source'
 published: true
 type: blog

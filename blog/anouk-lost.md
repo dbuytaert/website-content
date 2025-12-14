@@ -3,7 +3,6 @@ title: 'Anouk - Lost'
 date: '2011-12-21T06:01:52-05:00'
 author: Dries
 tags:
-  - Personal
   - 'Favorite music'
 published: true
 type: blog

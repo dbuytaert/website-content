@@ -4,7 +4,6 @@ date: '2011-07-17T13:48:54-04:00'
 author: Dries
 tags:
   - Photography
-  - Personal
   - Belgium
   - Antwerp
 published: true

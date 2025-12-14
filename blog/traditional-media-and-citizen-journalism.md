@@ -4,7 +4,7 @@ date: '2006-04-24T03:56:44-04:00'
 author: Dries
 tags:
   - Drupal
-  - Predictions
+  - Trends
 published: true
 type: blog
 url: /traditional-media-and-citizen-journalism

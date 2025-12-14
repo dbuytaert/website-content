@@ -7,7 +7,6 @@ image: acquia/retrospective
 tags:
   - Acquia
   - Retrospective
-  - Business
   - Drupal
 published: true
 type: blog

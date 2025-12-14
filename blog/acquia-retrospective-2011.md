@@ -4,8 +4,6 @@ date: '2012-01-05T14:59:35-05:00'
 author: Dries
 tags:
   - Drupal
-  - Business
-  - Predictions
   - Acquia
   - Retrospective
 published: true

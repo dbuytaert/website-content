@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Drupal
   - OSCON
-  - Business
 published: true
 type: blog
 url: /spikesource-selling-drupal

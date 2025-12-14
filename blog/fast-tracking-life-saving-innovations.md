@@ -3,8 +3,8 @@ title: 'Fast tracking life-saving innovations'
 date: '2016-01-25T08:54:30-05:00'
 author: Dries
 tags:
-  - 'The future'
   - Policy
+  - Trends
 published: true
 type: blog
 url: /fast-tracking-life-saving-innovations

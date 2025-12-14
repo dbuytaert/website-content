@@ -6,7 +6,7 @@ summary: 'How new user experiences and distribution platforms will change the wa
 image: blog/javascript-powered-multichannel
 tags:
   - Drupal
-  - 'The future'
+  - 'Headless Drupal'
 published: true
 type: blog
 url: /cross-channel-user-experiences-with-drupal

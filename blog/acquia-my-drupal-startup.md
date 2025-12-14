@@ -6,9 +6,7 @@ summary: "I'm starting Acquia, a company with the goal to expand Drupal's capabi
 image: acquia/acquia-com-march-2008
 tags:
   - Drupal
-  - Business
   - 'Drupal Association'
-  - 'The future'
   - Acquia
 featured: true
 published: true

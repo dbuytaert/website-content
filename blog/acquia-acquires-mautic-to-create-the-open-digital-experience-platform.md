@@ -9,7 +9,6 @@ tags:
   - Acquia
   - Mautic
   - 'Open Source'
-  - Business
 published: true
 type: blog
 url: /acquia-acquires-mautic-to-create-the-open-digital-experience-platform

@@ -7,7 +7,6 @@ image: blog/delete-facebook
 tags:
   - 'Open Web'
   - POSSE
-  - Personal
   - Privacy
   - 'Social media'
 featured: true

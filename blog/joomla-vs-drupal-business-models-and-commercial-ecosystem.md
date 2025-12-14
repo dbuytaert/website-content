@@ -5,7 +5,8 @@ author: Dries
 tags:
   - Drupal
   - Joomla
-  - Business
+  - 'Business model'
+featured: false
 published: true
 type: blog
 url: /joomla-vs-drupal-business-models-and-commercial-ecosystem

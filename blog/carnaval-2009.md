@@ -7,7 +7,6 @@ tags:
   - Photography
   - Karlijn
   - Self-portrait
-  - Personal
 published: true
 type: blog
 url: /carnaval-2009

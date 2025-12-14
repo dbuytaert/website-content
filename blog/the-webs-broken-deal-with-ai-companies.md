@@ -7,7 +7,6 @@ image: blog/cloudflare-vs-crawlers
 tags:
   - 'Open Web'
   - 'Artificial Intelligence'
-  - Business
 featured: false
 published: true
 type: blog

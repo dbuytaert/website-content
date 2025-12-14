@@ -7,6 +7,7 @@ image: acquia/composable-dxp-principle-6
 tags:
   - Drupal
   - Acquia
+  - Trends
 featured: true
 published: true
 type: blog

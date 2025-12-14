@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Drupal
   - Acquia
-  - Personal
 published: true
 type: blog
 url: /movember-2011

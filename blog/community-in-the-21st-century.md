@@ -4,8 +4,7 @@ date: '2006-12-11T08:18:47-05:00'
 author: Dries
 tags:
   - Drupal
-  - Business
-  - Predictions
+  - Trends
 published: true
 type: blog
 url: /community-in-the-21st-century

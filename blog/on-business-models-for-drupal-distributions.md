@@ -4,7 +4,7 @@ date: '2010-05-19T10:07:03-04:00'
 author: Dries
 tags:
   - Drupal
-  - Business
+  - 'Business model'
   - Acquia
   - 'Drupal distributions'
 featured: true

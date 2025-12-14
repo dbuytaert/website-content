@@ -5,7 +5,6 @@ author: Dries
 summary: 'How organizations can keep a competitive edge by contributing back to Open Source'
 tags:
   - 'Open Source'
-  - Business
   - Drupal
   - Innovation
 published: true

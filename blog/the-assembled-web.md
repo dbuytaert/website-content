@@ -6,7 +6,7 @@ summary: 'The opportunity that is the Assembled Web where you can snap a digital
 image: blog/assembled-web
 tags:
   - Drupal
-  - 'The future'
+  - 'Open Source'
 featured: true
 published: true
 type: blog

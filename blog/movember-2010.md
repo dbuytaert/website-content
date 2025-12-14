@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Self-portrait
   - Acquia
-  - Personal
 published: true
 type: blog
 url: /movember-2010

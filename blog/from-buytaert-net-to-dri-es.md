@@ -5,7 +5,6 @@ author: Dries
 summary: 'I decided to make the switch from "buytaert.net" to "dri.es": my domain name is now 100% easier to remember, pronounce and type!'
 image: blog/dri-es.gif
 tags:
-  - Personal
   - 'My site'
 published: true
 type: blog

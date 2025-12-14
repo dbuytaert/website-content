@@ -4,8 +4,8 @@ date: '2006-05-03T11:19:22-04:00'
 author: Dries
 tags:
   - Drupal
-  - Predictions
   - Usability
+  - Trends
 featured: true
 published: true
 type: blog

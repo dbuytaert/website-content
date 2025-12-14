@@ -3,7 +3,7 @@ title: 'The future of the internet'
 date: '2006-11-30T11:10:37-05:00'
 author: Dries
 tags:
-  - Predictions
+  - Trends
 published: true
 type: blog
 url: /the-future-of-the-internet

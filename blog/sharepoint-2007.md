@@ -4,11 +4,10 @@ date: '2006-12-22T10:01:51-05:00'
 author: Dries
 tags:
   - Drupal
-  - Business
-  - Predictions
   - SharePoint
   - Alfresco
   - Microsoft
+  - Trends
 published: true
 type: blog
 url: /sharepoint-2007

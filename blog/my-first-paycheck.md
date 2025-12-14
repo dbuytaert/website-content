@@ -2,8 +2,7 @@
 title: 'My first paycheck'
 date: '2010-06-09T15:46:56-04:00'
 author: Dries
-tags:
-  - Business
+featured: false
 published: true
 type: blog
 url: /my-first-paycheck

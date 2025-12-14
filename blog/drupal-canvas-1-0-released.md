@@ -5,7 +5,7 @@ author: Dries
 image: blog/drupal-canvas-1-released
 tags:
   - Drupal
-  - 'Experience Builder'
+  - 'Drupal Canvas'
 featured: false
 published: true
 type: blog

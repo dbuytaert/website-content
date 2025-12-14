@@ -4,7 +4,6 @@ date: '2007-08-04T03:20:09-04:00'
 author: Dries
 tags:
   - Drupal
-  - Business
 published: true
 type: blog
 url: /on-hiring-drupal-talent-2

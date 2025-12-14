@@ -5,7 +5,9 @@ author: Dries
 tags:
   - Drupal
   - 'Drupal sites'
+  - Space
   - Government
+featured: false
 published: true
 type: blog
 url: /nasa-using-drupal

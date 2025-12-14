@@ -3,7 +3,6 @@ title: 'To bean or not to bean?'
 date: '2014-08-19T18:15:02-04:00'
 author: Dries
 tags:
-  - Personal
   - Coffee
 published: true
 type: blog

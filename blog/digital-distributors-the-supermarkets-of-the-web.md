@@ -3,8 +3,8 @@ title: 'Digital Distributors: The Supermarkets of the Web'
 date: '2015-09-04T09:30:49-04:00'
 author: Dries
 tags:
-  - 'The future'
   - 'Open Web'
+  - Trends
   - Publishing
 published: true
 type: blog

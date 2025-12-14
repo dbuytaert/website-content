@@ -5,7 +5,6 @@ author: Dries
 tags:
   - Drupal
   - 'Drupal sites'
-  - Business
   - Publishing
 published: true
 type: blog

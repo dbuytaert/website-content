@@ -4,7 +4,6 @@ date: '2018-06-04T11:16:38-04:00'
 author: Dries
 summary: "Microsoft's acquisition of Github will likely emerge as a key platform differentiator as the cloud market continues to mature"
 tags:
-  - Business
   - 'Open Source'
   - Microsoft
   - Amazon

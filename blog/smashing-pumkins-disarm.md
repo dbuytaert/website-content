@@ -3,7 +3,6 @@ title: 'Smashing Pumpkins - Disarm'
 date: '2009-12-24T07:53:03-05:00'
 author: Dries
 tags:
-  - Personal
   - 'Favorite music'
 published: true
 type: blog

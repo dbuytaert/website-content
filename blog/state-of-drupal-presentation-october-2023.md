@@ -8,7 +8,7 @@ tags:
   - Drupal
   - 'State of Drupal'
   - 'Drupal Association'
-  - 'Experience Builder'
+  - 'Drupal Canvas'
   - Marketing
   - France
 published: true

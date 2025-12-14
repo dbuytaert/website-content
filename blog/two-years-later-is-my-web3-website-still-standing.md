@@ -8,7 +8,7 @@ tags:
   - Web3
   - Blockchain
   - 'My site'
-  - Drupal
+  - 'Digital preservation'
 featured: true
 published: true
 type: blog
@@ -55,50 +55,50 @@ The two main technologies – ENS and IPFS – are both actively maintained and 
 </tr>
   <tr>
   <td>
-   <a href="https://ens.domains/">ENS</a>
- </td>
+  <a href="https://ens.domains/">ENS</a>
+</td>
   <td>A blockchain-based naming protocol offering DNS for Web3, mapping domain names to Ethereum addresses.</td>
   <td>Yes</td>
 </tr>
   <tr>
   <td>
-   <a href="https://ipfs.io/">IPFS</a>
- </td>
+  <a href="https://ipfs.io/">IPFS</a>
+</td>
   <td>A peer-to-peer protocol for storing and sharing data in a distributed file system.</td>
   <td>Yes</td>
 </tr>
   <tr>
   <td>
-   <a href="https://filecoin.io/">Filecoin</a>
- </td>
+  <a href="https://filecoin.io/">Filecoin</a>
+</td>
   <td>A blockchain-based storage network and cryptocurrency that incentivizes data storage and replication.</td>
   <td>Yes</td>
 </tr>
   <tr>
   <td>
-   <a href="https://infura.io/">Infura</a>
- </td>
+  <a href="https://infura.io/">Infura</a>
+</td>
   <td>Provides tools and infrastructure to manage content on IPFS and other tools for developers to connect their applications to blockchain networks and deploy smart contracts.</td>
   <td>Yes</td>
 </tr>
   <tr>
   <td>
-   <a href="https://fleek.co/">Fleek</a>
- </td>
+  <a href="https://fleek.co/">Fleek</a>
+</td>
   <td>A platform for building websites using IPFS and ENS.</td>
   <td>Yes</td>
 </tr>
   <tr>
   <td>
-   <a href="https://pinata.cloud/">Pinata</a>
- </td>
+  <a href="https://pinata.cloud/">Pinata</a>
+</td>
   <td>Provides tools and infrastructure to manage content on IPFS, and more recently <a href="https://www.farcaster.xyz/">Farcaster</a> applications.</td>
   <td>Yes</td>
 </tr>
   <tr>
   <td>
-   <a href="https://web3.storage/">web3.storage</a>
- </td>
+  <a href="https://web3.storage/">web3.storage</a>
+</td>
   <td>Provides tools and infrastructure to manage content on IPFS with support for Filecoin.</td>
   <td>Yes</td>
 </tr>

@@ -3,7 +3,6 @@ title: 'Bruce Springsteen - Dancing in the dark'
 date: '2010-06-04T04:16:08-04:00'
 author: Dries
 tags:
-  - Personal
   - 'Favorite music'
 published: true
 type: blog

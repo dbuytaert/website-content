@@ -5,7 +5,6 @@ author: Dries
 image: acquia/acquia-strategy-product-vision-2010-3
 tags:
   - Drupal
-  - Business
   - Acquia
   - 'Acquia Search'
   - 'Acquia Cloud'

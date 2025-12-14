@@ -4,7 +4,6 @@ date: '2008-03-31T09:21:20-04:00'
 author: Dries
 tags:
   - Drupal
-  - Business
   - Mollom
 published: true
 type: blog

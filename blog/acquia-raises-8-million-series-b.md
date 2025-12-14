@@ -4,7 +4,6 @@ date: '2009-07-21T10:55:30-04:00'
 author: Dries
 tags:
   - Drupal
-  - Business
   - Acquia
 published: true
 type: blog

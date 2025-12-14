@@ -5,7 +5,6 @@ author: Dries
 summary: 'Looking forward to attend FooCamp'
 tags:
   - Drupal
-  - 'The future'
   - 'Favorite music'
   - 'San Francisco'
 published: true

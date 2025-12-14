@@ -8,7 +8,6 @@ tags:
   - Drupal
   - 'Drupal sponsors'
   - Diversity
-  - Business
 published: true
 type: blog
 url: /who-sponsors-drupal-development-2020

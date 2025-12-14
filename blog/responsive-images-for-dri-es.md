@@ -6,7 +6,7 @@ summary: 'It''s Sunday afternoon, I''m on a plane to San Francisco, and I just r
 tags:
   - 'My site'
   - POSSE
-  - Performance
+  - 'Web performance'
 published: true
 type: blog
 url: /responsive-images-for-dri-es

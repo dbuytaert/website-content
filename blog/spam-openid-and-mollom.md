@@ -4,7 +4,6 @@ date: '2008-04-03T08:57:55-04:00'
 author: Dries
 tags:
   - Drupal
-  - 'The future'
   - Mollom
 published: true
 type: blog

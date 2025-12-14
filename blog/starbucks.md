@@ -4,7 +4,6 @@ date: '2006-10-24T01:57:05-04:00'
 author: Dries
 tags:
   - Photography
-  - Starbucks
   - Portland
 published: true
 type: blog
