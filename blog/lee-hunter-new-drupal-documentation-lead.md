@@ -4,6 +4,8 @@ date: '2013-02-14T21:47:27-05:00'
 author: Dries
 tags:
   - Drupal
+  - 'Leadership updates'
+featured: false
 published: true
 type: blog
 url: /lee-hunter-new-drupal-documentation-lead

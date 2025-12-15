@@ -5,6 +5,8 @@ author: Dries
 tags:
   - Drupal
   - Predictions
+  - Retrospective
+featured: false
 published: true
 type: blog
 url: /drupal-2010-retrospective-and-2011-predictions

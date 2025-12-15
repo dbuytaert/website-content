@@ -8,6 +8,7 @@ tags:
   - 'State of Drupal'
   - Drupal
   - 'Drupal Association'
+  - DrupalCon
   - Pittsburgh
 published: true
 type: blog

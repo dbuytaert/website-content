@@ -5,6 +5,7 @@ author: Dries
 tags:
   - Drupal
   - 'Branch maintainer'
+featured: false
 published: true
 type: blog
 url: /alex-pott

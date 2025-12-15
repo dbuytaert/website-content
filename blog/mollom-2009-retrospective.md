@@ -4,6 +4,8 @@ date: '2010-01-06T07:19:03-05:00'
 author: Dries
 tags:
   - Mollom
+  - Retrospective
+featured: false
 published: true
 type: blog
 url: /mollom-2009-retrospective

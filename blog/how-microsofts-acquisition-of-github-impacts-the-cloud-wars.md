@@ -7,6 +7,7 @@ tags:
   - 'Open Source'
   - Microsoft
   - Amazon
+  - Acquisitions
 published: true
 type: blog
 url: /how-microsofts-acquisition-of-github-impacts-the-cloud-wars
