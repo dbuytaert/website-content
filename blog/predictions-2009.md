@@ -8,6 +8,8 @@ tags:
   - Acquia
   - Usability
   - Mollom
+  - Retrospective
+featured: false
 published: true
 type: blog
 url: /predictions-2009

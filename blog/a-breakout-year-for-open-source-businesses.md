@@ -5,6 +5,7 @@ author: Dries
 summary: 'The FUD around Open Source companies is officially over.'
 tags:
   - 'Open Source'
+  - Acquisitions
 published: true
 type: blog
 url: /a-breakout-year-for-open-source-businesses
@@ -17,51 +18,51 @@ Between a series of acquisitions and IPOs, Open Source companies have shown incr
 
 <table>
   <thead>
-   <tr>
-    <th>Company</th>
-    <th>Acquirer</th>
-    <th>Date</th>
-    <th>Value</th>
-  </tr>
- </thead>
+  <tr>
+   <th>Company</th>
+   <th>Acquirer</th>
+   <th>Date</th>
+   <th>Value</th>
+ </tr>
+</thead>
   <tbody>
-   <tr>
-    <td>CoreOS</td>
-    <td>RedHat</td>
-    <td>January 2018</td>
-    <td>$250 million</td>
-  </tr>
-   <tr>
-    <td>Mulesoft</td>
-    <td>Saleforce</td>
-    <td>May 2018</td>
-    <td>$6,5 billion</td>
-  </tr>
-   <tr>
-    <td>Magento</td>
-    <td>Adobe</td>
-    <td>June 2018</td>
-    <td>$1,7 billion</td>
-  </tr>
-   <tr>
-    <td>GitHub</td>
-    <td>Microsoft</td>
-    <td>June 2018</td>
-    <td>$7,5 billion</td>
-  </tr>
-   <tr>
-    <td>Suse</td>
-    <td>EQT partners</td>
-    <td>July 2018</td>
-    <td>$2,5 billion</td>
-  </tr>
-   <tr>
-    <td>Elastic</td>
-    <td>IPO</td>
-    <td>September 2018</td>
-    <td>$4,9 billion</td>
-  </tr>
- </tbody>
+  <tr>
+   <td>CoreOS</td>
+   <td>RedHat</td>
+   <td>January 2018</td>
+   <td>$250 million</td>
+ </tr>
+  <tr>
+   <td>Mulesoft</td>
+   <td>Saleforce</td>
+   <td>May 2018</td>
+   <td>$6,5 billion</td>
+ </tr>
+  <tr>
+   <td>Magento</td>
+   <td>Adobe</td>
+   <td>June 2018</td>
+   <td>$1,7 billion</td>
+ </tr>
+  <tr>
+   <td>GitHub</td>
+   <td>Microsoft</td>
+   <td>June 2018</td>
+   <td>$7,5 billion</td>
+ </tr>
+  <tr>
+   <td>Suse</td>
+   <td>EQT partners</td>
+   <td>July 2018</td>
+   <td>$2,5 billion</td>
+ </tr>
+  <tr>
+   <td>Elastic</td>
+   <td>IPO</td>
+   <td>September 2018</td>
+   <td>$4,9 billion</td>
+ </tr>
+</tbody>
 </table>
 
 For me, the success of Open Source companies is not a surprise. In 2016, I explained how [open source crossed the chasm in 2016](https://dri.es/acquia-retrospective-2016), and predicted that proprietary software giants would soon need to incorporate Open Source into their own offerings to remain competitive:

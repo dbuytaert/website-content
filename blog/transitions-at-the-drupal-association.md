@@ -5,6 +5,8 @@ author: Dries
 tags:
   - Drupal
   - 'Drupal Association'
+  - 'Leadership updates'
+featured: false
 published: true
 type: blog
 url: /transitions-at-the-drupal-association

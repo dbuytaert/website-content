@@ -8,6 +8,7 @@ tags:
   - Drupal
   - Acquia
   - Accessibility
+  - Acquisitions
 published: true
 type: blog
 url: /acquia-to-acquire-monsido

@@ -8,6 +8,7 @@ tags:
   - Drupal
   - 'State of Drupal'
   - 'Drupal Starshot'
+  - DrupalCon
   - Portland
 published: true
 type: blog

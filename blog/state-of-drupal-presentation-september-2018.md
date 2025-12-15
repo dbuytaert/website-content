@@ -8,6 +8,7 @@ tags:
   - Drupal
   - 'State of Drupal'
   - 'Drupal Association'
+  - DrupalCon
 published: true
 type: blog
 url: /state-of-drupal-presentation-september-2018

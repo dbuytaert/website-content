@@ -4,6 +4,8 @@ date: '2025-01-09T02:38:32-05:00'
 author: Dries
 tags:
   - Acquia
+  - 'Leadership updates'
+featured: false
 published: true
 type: blog
 url: /a-new-chapter-in-my-role-at-acquia

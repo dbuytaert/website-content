@@ -7,6 +7,7 @@ image: acquia/dxp-shared-user-data
 tags:
   - Acquia
   - 'Artificial Intelligence'
+  - Acquisitions
 published: true
 type: blog
 url: /acquia-acquires-agilone-to-solve-data-challenges-with-ai

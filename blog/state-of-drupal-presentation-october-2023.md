@@ -10,6 +10,7 @@ tags:
   - 'Drupal Association'
   - 'Drupal Canvas'
   - Marketing
+  - DrupalCon
   - France
 published: true
 type: blog

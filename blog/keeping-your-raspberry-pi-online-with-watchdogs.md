@@ -7,6 +7,7 @@ image: blog/raspberry-pi-4-enclosure
 tags:
   - 'Solar power'
   - 'Raspberry Pi'
+  - Automation
 featured: false
 published: true
 type: blog

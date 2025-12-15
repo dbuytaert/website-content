@@ -5,6 +5,8 @@ author: Dries
 tags:
   - Drupal
   - 'Drupal sites'
+  - Government
+featured: false
 published: true
 type: blog
 url: /my-fcc-gov-and-web-services
