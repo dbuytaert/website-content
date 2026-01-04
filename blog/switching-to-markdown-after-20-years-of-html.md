@@ -62,7 +62,7 @@ For example, here is a snippet that combines standard Markdown with a token that
 ```markdown
 Nothing beats starting the day with [coffee](https://dri.es/tag/coffee) and this view:
 
-[image beach-sunrise.jpg lazy=true schema=true caption=false]
+［image beach-sunrise.jpg lazy=true schema=true caption=false］
 ```
 
 These tokens get processed by my custom Drupal module and transformed into full HTML.  That basic image token? It becomes a responsive picture element complete with lazy loading, `alt`-text from my database, [Schema.org](https://schema.org/) support, and optional caption. I use similar tokens for videos and other dynamic content.

@@ -13,6 +13,7 @@ id: 3
 
 - [Japan](/album/japan-2025/)
 - [Hiking La Tournette near Annecy, France](/album/la-tournette-2025/)
+- [New England](/album/new-england-2025/)
 - [Grand Canyon, Zion and Bryce](/album/grand-canyon-zion-bryce-2025/)
 - [Camping in Oregon](/album/oregon-2025/)
 - [Punta Cana, Dominican Republic](/album/punta-cana-2025/)
