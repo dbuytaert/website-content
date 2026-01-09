@@ -22,7 +22,7 @@ It also watches the plant through a camera. Just earlier, it looked at Sol and o
 This plant seems to be living its best life. And Claude clearly seems pleased with itself.
 
 <div class="large">
-[image blog/claude-tomato-plant priority=true resize=false schema=false]
+[image blog/claude-tomato-plant resize=false schema=false]
 </div>
 
 Most AI interactions are fast and fleeting. You prompt, it answers, and you close the session. Regular AI tools branching into the real world to control a slow, messy process feels like a glimpse of what is next. A tomato plant is innocent enough. But it's not hard to imagine what comes next.
