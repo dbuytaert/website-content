@@ -4,6 +4,8 @@ date: '2025-08-20T03:29:25-04:00'
 author: Dries
 tags:
   - Drupal
+  - Markdown
+featured: false
 published: true
 type: note
 url: /installing-and-configuring-markdown-easy-for-drupal

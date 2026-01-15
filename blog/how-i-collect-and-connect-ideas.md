@@ -6,6 +6,8 @@ summary: 'How I use Obsidian to build a knowledge base that helps me think bette
 image: miscellaneous-2023/champagne-tunnel
 tags:
   - Writing
+  - Markdown
+featured: false
 published: true
 type: blog
 url: /how-i-collect-and-connect-ideas

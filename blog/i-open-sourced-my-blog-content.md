@@ -6,6 +6,7 @@ tags:
   - 'Digital preservation'
   - 'Open Source'
   - Drupal
+  - Markdown
 featured: false
 published: true
 type: blog

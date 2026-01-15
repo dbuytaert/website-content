@@ -6,6 +6,7 @@ tags:
   - Drupal
   - 'My site'
   - Writing
+  - Markdown
 featured: false
 published: true
 type: blog

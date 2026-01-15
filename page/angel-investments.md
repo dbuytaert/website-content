@@ -18,6 +18,12 @@ id: 3486
 </tr>
   <tr>
   <td>2025</td>
+  <td><a href="https://www.aikido.dev/">Aikido</a></td>
+  <td>Developer-first application security (Series B)</td>
+  <td></td>
+</tr>
+  <tr>
+  <td></td>
   <td><a href="https://www.activepieces.com/">ActivePieces</a></td>
   <td>Open source workflow automation (Seed)</td>
   <td></td>
