@@ -6,6 +6,7 @@ image: drupalcon-paris-2009/drupalcon-4
 tags:
   - Drupal
   - Birthday
+  - Leadership
 featured: true
 published: true
 type: blog
@@ -107,7 +108,7 @@ Once enough people depend on your software, every observable behavior becomes a 
 
 **21. A good project is measured by what people build next**
 
-For a long time, it felt like a loss when top contributors moved on from Drupal. Over time, I started to notice what they built next and realized they were carrying what they learned here into everything they did. Many went on to lead teams, start companies, or build new Open Source projects. I have come to see that as one of Drupal's most meaningful outcomes.
+For a long time, it felt like a loss when top contributors moved on from Drupal. Over time, I started to notice what they built next and realized they were carrying what they learned here into everything they did. Many went on to lead teams, start companies, or [lead other Open Source projects](https://dri.es/how-drupal-influences-other-open-source-projects). I have come to see that as one of Drupal's most meaningful outcomes.
 
 **22. Longevity comes from not chasing trends**
 
