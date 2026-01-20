@@ -8,6 +8,13 @@ url: /albums
 id: 3
 ---
 
+<section id="2026">
+  <h3>2026</h3>
+
+- [Miscellaneous 2026](/album/miscellaneous-2026/)
+
+</section>
+
 <section id="2025">
   <h3>2025</h3>
 
