@@ -55,7 +55,7 @@ Most government institutions rely heavily on Open Source but contribute little i
 
 Procurement practices often make the problem worse. Contracts are typically awarded to the lowest bidder or to large, well-known IT vendors rather than those with deep Open Source expertise and a track record of contributing back. Companies that help maintain Open Source projects are often undercut by firms that give nothing in return. This creates a race to the bottom that ultimately weakens the Open Source projects governments rely on.
 
-As I discussed in [*Balancing makers and takers to scale and sustain Open Source*](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source), sustainable Open Source requires addressing the fundamental mismatch between use and contribution.
+As I discussed in [*Balancing makers and takers to scale and sustain Open Source*](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source) and in [Funding Open Source for Digital Sovereignty](https://dri.es/funding-open-source-for-digital-sovereignty), sustainable Open Source requires addressing the fundamental mismatch between use and contribution.
 
 Governments need to shift from Open Source consumption to Open Source contribution. The digital infrastructure that powers government services demands the same investment commitment as the roads and bridges that connect our communities.
 
