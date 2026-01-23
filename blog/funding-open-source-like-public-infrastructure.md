@@ -8,6 +8,7 @@ tags:
   - 'Open Source'
   - Drupal
   - Policy
+  - 'Digital sovereignty'
 featured: true
 published: true
 type: blog
