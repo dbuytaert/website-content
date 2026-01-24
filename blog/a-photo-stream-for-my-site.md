@@ -2,6 +2,7 @@
 title: 'A photo stream for my site'
 date: '2022-11-06T11:35:54-05:00'
 author: Dries
+summary: 'I built a privacy respecting photo stream with RSS and email so friends can follow my adventures without surveillance platforms.'
 image: miscellaneous-2022/train-1
 tags:
   - POSSE

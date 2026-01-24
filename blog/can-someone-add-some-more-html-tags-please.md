@@ -2,6 +2,7 @@
 title: 'Can someone add some more HTML tags, please?'
 date: '2021-01-06T04:39:12-05:00'
 author: Dries
+summary: 'The web could benefit from more semantic HTML elements so information is easier to author and reuse.'
 image: blog/wikipedia-timbl-markup
 tags:
   - 'Semantic web'

@@ -2,6 +2,7 @@
 title: 'How Nasdaq offers a Drupal distribution as-a-service'
 date: '2017-02-13T15:29:27-05:00'
 author: Dries
+summary: 'Nasdaq built a Drupal distribution delivered as-a-service via Acquia Site Factory for investor relations sites.'
 tags:
   - Drupal
   - Acquia

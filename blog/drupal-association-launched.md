@@ -2,6 +2,7 @@
 title: 'Drupal Association launched'
 date: '2007-02-26T12:40:27-05:00'
 author: Dries
+summary: 'The Drupal Association launched to give the Drupal community financial infrastructure support so contributors can focus on the project.'
 tags:
   - Drupal
   - 'Drupal Association'

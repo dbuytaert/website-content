@@ -26,7 +26,7 @@ This website aims to have [an extremely low carbon footprint](https://digitalbea
 
 <h3 id="license">License</h3>
 
-This website encourages you to copy, remix, redistribute and build upon its content. All content, including photos, is licensed under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+All content on this site, including photos, is licensed under [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/). You're free to copy, remix, share and build upon it, even commercially, as long as you credit the source.
 
 <h3 id="software">Software</h3>
 

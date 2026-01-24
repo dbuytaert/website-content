@@ -2,6 +2,7 @@
 title: 'Pledging $100,000 to support the Drupal Association'
 date: '2020-04-14T07:54:17-04:00'
 author: Dries
+summary: 'Vanessa and I pledge up to $100,000 to match individual Drupal Association donations during DrupalCares.'
 image: drupal/blue-hearts-2
 tags:
   - Drupal

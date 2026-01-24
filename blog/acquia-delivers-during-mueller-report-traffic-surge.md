@@ -2,6 +2,7 @@
 title: 'Acquia delivers during Mueller report traffic surge'
 date: '2019-05-23T13:41:07-04:00'
 author: Dries
+summary: 'Acquia and Drupal kept Justice.gov fast and available as Mueller report traffic spiked seven thousand percent.'
 tags:
   - Drupal
   - Acquia

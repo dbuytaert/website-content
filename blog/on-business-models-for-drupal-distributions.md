@@ -2,6 +2,7 @@
 title: 'On business models for Drupal distributions'
 date: '2010-05-19T10:07:03-04:00'
 author: Dries
+summary: 'Drupal distributions need sustainable business models and partnerships so maintaining them becomes commercially viable.'
 tags:
   - Drupal
   - 'Business model'

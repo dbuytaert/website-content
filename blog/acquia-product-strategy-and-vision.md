@@ -2,6 +2,7 @@
 title: 'Acquia product strategy and vision'
 date: '2011-01-24T07:17:35-05:00'
 author: Dries
+summary: "Acquia's vision is to help enterprises standardize on Drupal with distributions cloud services and network support."
 image: acquia/acquia-strategy-product-vision-2010-3
 tags:
   - Drupal

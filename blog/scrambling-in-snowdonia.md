@@ -2,6 +2,7 @@
 title: 'Scrambling in Snowdonia'
 date: '2019-06-25T03:59:51-04:00'
 author: Dries
+summary: 'A multi-day Tryfan trip mixed steep scrambling, a surprise steak dinner, sheep, and sweeping Ogwen Valley hikes.'
 image: hiking-in-wales-2019/camping-on-tryfan
 tags:
   - Photography
