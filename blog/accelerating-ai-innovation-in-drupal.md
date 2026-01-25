@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/accelerating-ai-innovation-in-drupal'
 title: 'Accelerating AI innovation in Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-06-09T09:42:00-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal launches its AI Initiative with more than $100,000 in funding and a dedicated team to build AI tools for website creation and content management.'
-image: drupal/drupal-ai-founding-members
 tags:
   - Drupal
   - 'Artificial Intelligence'
+image: drupal/drupal-ai-founding-members
 published: true
-type: blog
-url: /accelerating-ai-innovation-in-drupal
 id: 5821
 ---
+
+# Accelerating AI innovation in Drupal
 
 [video UFoUci-Gqp0]
 

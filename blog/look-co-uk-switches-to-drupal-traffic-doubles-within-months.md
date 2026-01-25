@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/look-co-uk-switches-to-drupal-traffic-doubles-within-months'
 title: 'Look.co.uk switches to Drupal; traffic doubles within months'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-04-07T04:37:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - 'United Kingdom'
   - Publishing
 published: true
-type: blog
-url: /look-co-uk-switches-to-drupal-traffic-doubles-within-months
 id: 1571
 ---
+
+# Look.co.uk switches to Drupal; traffic doubles within months
 
 Last week I met with [IPC Media](http://www.ipcmedia.com/) in London. With magazines like Nuts, NME, Marie Claire, Country Life and many more, IPC Media is one of the UK's leading publishers.
 

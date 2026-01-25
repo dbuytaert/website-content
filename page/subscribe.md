@@ -1,13 +1,18 @@
 ---
+url: 'https://dri.es/subscribe'
 title: Subscribe
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-05-15T20:32:43-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: page
 summary: 'Join 5,000+ readers. Two decades building Drupal and Acquia. Thoughts on Open Source, technology, and business.'
 published: true
-type: page
-url: /subscribe
 id: 3366
 ---
+
+# Subscribe
 
 - [Blog posts by email](https://buttondown.com/dries-buytaert-blog)
   - [Blog RSS feed](https://dri.es/rss.xml)

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/mollom-as-a-reputation-service'
 title: 'Mollom as a reputation service'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-05-23T04:00:20-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Mollom
 published: true
-type: blog
-url: /mollom-as-a-reputation-service
 id: 449
 ---
+
+# Mollom as a reputation service
 
 A while ago I wrote about [spam, OpenID and Mollom](https://dri.es/spam-openid-and-mollom). I mentioned that at [Mollom](https://mollom.com) we are maintaining an internal reputation for OpenID identifier that we encounter while assessing submitted content. In addition to that, we could also asses the reputation of the OpenID identify provider (IdP), which is useful in its own right.
 

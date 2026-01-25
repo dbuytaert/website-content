@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/drupal-is-api-first-not-api-only'
 title: 'Drupal is API-first, not API-only'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-04-25T12:59:36-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal is both a coupled CMS for editors who need control over the presentation as well as a headless CMS for developers who want to build a custom front-end.'
-image: drupal/drupal-is-api-first-drupal-site-and-content-service
 tags:
   - Drupal
   - 'Headless Drupal'
   - 'Web services'
-featured: true
+image: drupal/drupal-is-api-first-drupal-site-and-content-service
 published: true
-type: blog
-url: /drupal-is-api-first-not-api-only
+featured: true
 id: 3916
 ---
+
+# Drupal is API-first, not API-only
 
 More and more developers are choosing content-as-a-service solutions known as headless CMSes – content repositories which offer no-frills editorial interfaces and expose content APIs for consumption by an expanding array of applications. Headless CMSes share a few common traits: they lack end-user front ends, provide few to no editorial tools for display and layout, and as such leave presentational concerns almost entirely up to the front-end developer. Headless CMSes have gained popularity because:
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/taking-control-of-my-data-and-social-media'
 title: 'Taking control of my data and social media'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-02-05T04:34:56-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Why it's time for me to take back control of my data and social media."
-image: blog/facebook-social-decay
 tags:
   - 'Open Web'
   - POSSE
   - 'Social media'
+image: blog/facebook-social-decay
 published: true
-type: blog
-url: /taking-control-of-my-data-and-social-media
 id: 4141
 ---
+
+# Taking control of my data and social media
 
 [image blog/facebook-social-decay]
 

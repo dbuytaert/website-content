@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/edipresse-blowing-love-kisses-at-drupal'
 title: 'Edipresse blowing love kisses at Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-06-16T06:02:59-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Publishing
 published: true
-type: blog
-url: /edipresse-blowing-love-kisses-at-drupal
 id: 674
 ---
+
+# Edipresse blowing love kisses at Drupal
 
 Pierre-Jean Duvivier, Head of WebFactory at [Edipresse](http://www.edipresse.com), shared some remarkable data points with me. Edipresse is one of Europe's biggest media and communications companies. It is a traditional print company that publishes more than 200 titles, including some leading European newspapers (i.e. [Le Matin](https://www.lematin.ch/), [Le Temps](https://www.letemps.ch/), and [24 heures](https://www.24heures.ch/)).
 

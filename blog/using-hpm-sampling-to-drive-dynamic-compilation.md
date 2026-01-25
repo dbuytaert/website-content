@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/using-hpm-sampling-to-drive-dynamic-compilation'
 title: 'Using HPM-Sampling to Drive Dynamic Compilation'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-08-01T06:22:46-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'PhD research'
 published: true
-type: blog
-url: /using-hpm-sampling-to-drive-dynamic-compilation
 id: 309
 ---
+
+# Using HPM-Sampling to Drive Dynamic Compilation
 
 Our paper [Using HPM-Sampling to Drive Dynamic Compilation](https://dri.es/files/oopsla07-buytaert.pdf) (PDF, 0.6MB) has been accepted for publication at OOPSLA'07.
 

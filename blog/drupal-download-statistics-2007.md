@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-download-statistics-2007'
 title: 'Drupal download statistics'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-05-21T07:19:09-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Statistics
 published: true
-type: blog
-url: /drupal-download-statistics-2007
 id: 272
 ---
+
+# Drupal download statistics
 
 Last year around this time, I shared [the download statistics of Drupal core](https://dri.es/drupal-download-statistics-2006) so I figured that an update was in order. It looks like last year, from May 2006 to April 2007, Drupal core was downloaded more than 600,000 times.
 

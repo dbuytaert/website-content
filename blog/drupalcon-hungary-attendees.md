@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupalcon-hungary-attendees'
 title: 'DrupalCon Hungary attendees'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-10-01T06:57:28-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - Budapest
 published: true
-type: blog
-url: /drupalcon-hungary-attendees
 id: 154
 ---
+
+# DrupalCon Hungary attendees
 
 [image drupalcon-budapest-2006/group-picture]
 

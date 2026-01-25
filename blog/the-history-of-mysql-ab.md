@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/the-history-of-mysql-ab'
 title: 'The history of MySQL AB'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-03-08T07:00:54-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "A timeline with all of MySQL's most important milestones."
-image: blog/mysql
 tags:
   - MySQL
   - 'Open Source'
   - 'Startup lessons'
+image: blog/mysql
 published: true
-type: blog
-url: /the-history-of-mysql-ab
 id: 1516
 ---
+
+# The history of MySQL AB
 
 [MySQL](http://mysql.com), the open source database product that puts the "M" in LAMP, was created by MySQL AB, a company founded in 1995 in Sweden. In 2008, MySQL AB announced that it had agreed to be acquired by Sun Microsystems for $1 billion.
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/building-my-own-co2-monitor'
 title: 'Building my own CO2 monitor'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-04-07T05:21:37-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How I created a CO2 monitoring system for our bedroom and uncovered some surprising insights about air quality.'
-image: blog/esp32-s3-with-scd41
 tags:
   - Electronics
   - ESP32
-featured: true
+image: blog/esp32-s3-with-scd41
 published: true
-type: blog
-url: /building-my-own-co2-monitor
+featured: true
 id: 5596
 ---
+
+# Building my own CO2 monitor
 
 For years, I have worried about the [CO<sub>2</sub>](https://en.wikipedia.org/wiki/Carbon_dioxide) levels in our kids' bedroom. Until recently, our two sons shared a small bedroom in our apartment. Every night, they insisted on shutting the door to block out light and noise. Yet, once they fell asleep, I'd quietly open the door to make sure they had enough fresh air to fuel their dreams.
 

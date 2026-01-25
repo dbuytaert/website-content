@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-developer-days-brussels-2011-call-for-speakers'
 title: 'Drupal Developer Days Brussels 2011: call for speakers'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-12-21T11:32:58-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Invitations
   - FOSDEM
   - Belgium
 published: true
-type: blog
-url: /drupal-developer-days-brussels-2011-call-for-speakers
 id: 2056
 ---
+
+# Drupal Developer Days Brussels 2011: call for speakers
 
 We co-located the very first DrupalCon in 2005 with [FOSDEM](http://fosdem.org), now Europe's largest open source developers meeting. The first DrupalCon was [an instrumental moment in the history of Drupal](https://dri.es/album/drupalcon-antwerp-2005/) that has set the tone for all other DrupalCons and DrupalCamps. Ever since, co-locating a Drupal event with FOSDEM has been near and dear to my heart. In keeping with this good habit (e.g. [2008](https://dri.es/fosdem-2008-call-for-speakers), [2009](https://dri.es/fosdem-2009-call-for-speakers), [2010](https://dri.es/fosdem-2010-call-for-speakers)), I want to call upon the Drupal community to consider speaking at the [Drupal Developer Days in Brussels](http://bxl2011.drupaldays.org).
 

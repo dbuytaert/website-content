@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-association-board-election-results-for-2011'
 title: 'Drupal Association Board election results for 2011 '
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-10-31T11:02:36-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal Association Board election results for 2011'
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /drupal-association-board-election-results-for-2011
 id: 2556
 ---
+
+# Drupal Association Board election results for 2011 
 
 Earlier this year the [Drupal Association](https://association.drupal.org) began a process to elect and build a new board. In July a call for nominations was made and the community responded with over 50 submissions. The Nomination Committee spent many weeks reviewing the nominations, following up with potential candidates, until finally submitting a slate of nominees, which was confirmed by the board. I'm happy to announce the new Board of Directors:
 

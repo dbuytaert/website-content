@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/acquia-a-leader-in-2014-gartner-magic-quadrant-for-web-content-management'
 title: 'Acquia a leader in 2014 Gartner Magic Quadrant for Web Content Management'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-10-16T08:23:23-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Acquia has been recognized as a leader in the Gartner MQ for WCM, next to Adobe and Sitecore.'
 tags:
   - Drupal
   - Acquia
   - Gartner
 published: true
-type: blog
-url: /acquia-a-leader-in-2014-gartner-magic-quadrant-for-web-content-management
 id: 3261
 ---
+
+# Acquia a leader in 2014 Gartner Magic Quadrant for Web Content Management
 
 You might have read that [Acquia](https://www.acquia.com) was named a leader in the [Gartner Magic Quadrant for Web Content Management](https://www.gartner.com/en/documents/2870517).
 

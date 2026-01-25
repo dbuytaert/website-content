@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-april-2018'
 title: 'State of Drupal presentation (April 2018)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-04-16T21:26:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon Nashville Driesnote presentation'
-image: drupalcon-nashville-2018/lets-grow-drupal-together
 tags:
   - Drupal
   - DrupalCon
   - 'State of Drupal'
   - 'Drupal Association'
+image: drupalcon-nashville-2018/lets-grow-drupal-together
 published: true
-type: blog
-url: /state-of-drupal-presentation-april-2018
 id: 4296
 ---
+
+# State of Drupal presentation (April 2018)
 
 [image drupalcon-nashville-2018/cowboy-dries-at-drupalcon-nashville]
 

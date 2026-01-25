@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/updated-drupal-8-release-schedule'
 title: 'Updated Drupal 8 release schedule'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-09-07T11:30:28-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /updated-drupal-8-release-schedule
 id: 2776
 ---
+
+# Updated Drupal 8 release schedule
 
 *Note: some of the information on this page is out of date. For the latest information about how Drupal releases are managed, see <https://www.drupal.org/core/release-cycle>.*
 

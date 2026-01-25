@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/harvard-using-drupal-2'
 title: 'Harvard using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-05-25T11:35:35-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
@@ -10,10 +15,10 @@ tags:
   - Boston
   - Education
 published: true
-type: blog
-url: /harvard-using-drupal-2
 id: 656
 ---
+
+# Harvard using Drupal
 
 I recently learned about the fact that the [Berkman Center for Internet and Society](https://cyber.harvard.edu/) is using [Drupal](https://www.drupal.org). The *Berkman Center for Internet and Society* is a research center founded at Harvard Law School whose fellows included internet gurus like David Weinberger, John Perry Barlow, Dave Winer, Jimmy Wales, Doc Searls and many more.
 

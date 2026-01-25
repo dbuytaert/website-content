@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/acquia-retrospective-2017'
 title: 'Acquia retrospective 2017'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-01-08T05:45:29-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: '2017 year in review for Acquia'
-image: acquia/acquia-roadmap-2017
 tags:
   - Acquia
   - Drupal
   - Retrospective
+image: acquia/acquia-roadmap-2017
 published: true
-type: blog
-url: /acquia-retrospective-2017
 id: 4121
 ---
+
+# Acquia retrospective 2017
 
 [image acquia/acquia-hq-entrance-2017]
 

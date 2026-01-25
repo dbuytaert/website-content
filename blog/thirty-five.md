@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/thirty-five'
 title: Thirty-five
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-11-19T07:51:48-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Birthday
   - Drupal
 published: true
-type: blog
-url: /thirty-five
 id: 3066
 ---
+
+# Thirty-five
 
 I'm turning 35 today. 35 is a weird age. It feels like a milestone birthday; like I'm turning the corner into adulthood for good. Turning 35, it seems, is not without complications. I feel like I became part of the old folk whose cool is threatened by youngsters. Anxious, as I've so much left to achieve and experience.
 

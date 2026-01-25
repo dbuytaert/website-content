@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/code-freeze-module-maintainers-and-veggies'
 title: 'Code freeze, module maintainers and veggies'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-09-09T12:01:36-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Mollom
 published: true
-type: blog
-url: /code-freeze-module-maintainers-and-veggies
 id: 1796
 ---
+
+# Code freeze, module maintainers and veggies
 
 Besides working on [Drupal core](https://www.drupal.org/project/drupal), I help maintain one contributed module: the [Mollom module](https://www.drupal.org/project/mollom). It reminds me what it's like to maintain a contributed module and to depend on Drupal core, what it's like to develop a module with a constantly and sometimes rapidly changing core. It is healthy.
 

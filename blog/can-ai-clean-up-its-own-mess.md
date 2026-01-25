@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/can-ai-clean-up-its-own-mess'
 title: 'Can AI clean up its own mess?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-12-10T04:44:54-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Source'
   - 'Artificial Intelligence'
-featured: false
 published: true
-type: blog
-url: /can-ai-clean-up-its-own-mess
+featured: false
 id: 5981
 ---
+
+# Can AI clean up its own mess?
 
 In [The Big Blind](https://avc.xyz/the-big-blind), investor Fred Wilson highlights how AI is revolutionizing geothermal energy discovery. This sentence stood out for me:
 

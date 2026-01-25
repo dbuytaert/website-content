@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/building-digital-backpacks-for-syrian-refugees'
 title: 'Building digital backpacks for Syrian refugees'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-07-30T11:16:29-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The University of California Davis is using Drupal to build Article 26 Backpack, a platform that helps Syrian Refugees document and share their educational credentials.'
-image: blog/digital-backpack
 tags:
   - Drupal
   - 'Drupal sites'
+image: blog/digital-backpack
 published: true
-type: blog
-url: /building-digital-backpacks-for-syrian-refugees
 id: 4476
 ---
+
+# Building digital backpacks for Syrian refugees
 
 [image blog/digital-backpack resize=false]
 

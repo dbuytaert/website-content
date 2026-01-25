@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/sanyo-using-drupal'
 title: 'Sanyo using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-12-04T05:30:37-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Australia
   - 'Fortune 500'
 published: true
-type: blog
-url: /sanyo-using-drupal
 id: 548
 ---
+
+# Sanyo using Drupal
 
 Sanyo, the Fortune 500 electronics company, used [Drupal](https://www.drupal.org) to build a [nice product catalog website](http://www.sanyo.com.au/) at [http://www.sanyo.com.au](http://www.sanyo.com.au/). The site went live earlier this week and features 250 products in 30 categories with over one GB of PDF files. More functionality is being added iteratively.
 

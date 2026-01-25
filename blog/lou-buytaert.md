@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/lou-buytaert'
 title: 'Lou Buytaert'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-09-07T10:40:46-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Family
 published: true
-type: blog
-url: /lou-buytaert
 id: 981
 ---
+
+# Lou Buytaert
 
 [image miscellaneous-2009/lou-buytaert]
 

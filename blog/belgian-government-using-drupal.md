@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/belgian-government-using-drupal'
 title: 'Belgian government using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-03-14T07:02:52-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Belgium
   - Government
 published: true
-type: blog
-url: /belgian-government-using-drupal
 id: 414
 ---
+
+# Belgian government using Drupal
 
 [image drupal/invest-belgium]
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/spotlight-verlag-using-drupal'
 title: 'Spotlight Verlag using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-12-03T11:14:49-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Publishing
 published: true
-type: blog
-url: /spotlight-verlag-using-drupal
 id: 547
 ---
+
+# Spotlight Verlag using Drupal
 
 [Spotlight Verlag](https://www.spotlight-verlag.de/), a well-known German publisher, recently launched another Drupal site: <http://www.business-spotlight.de>.
 

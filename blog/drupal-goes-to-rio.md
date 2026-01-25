@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-goes-to-rio'
 title: 'Drupal goes to Rio'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-08-16T03:05:57-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Broadcasting
   - Entertainment
 published: true
-type: blog
-url: /drupal-goes-to-rio
 id: 3751
 ---
+
+# Drupal goes to Rio
 
 [image drupal/rio-olympic-stadium]
 

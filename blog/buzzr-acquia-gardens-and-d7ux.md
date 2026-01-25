@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/buzzr-acquia-gardens-and-d7ux'
 title: 'Buzzr, Acquia Gardens and D7UX'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-04-17T10:38:05-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Usability
 published: true
-type: blog
-url: /buzzr-acquia-gardens-and-d7ux
 id: 630
 ---
+
+# Buzzr, Acquia Gardens and D7UX
 
 Earlier this week, [Lullabot](https://lullabot.com) showed a preview of [Buzzr](http://buzzr.com) (previously [announced as "Codename"](https://www.lullabot.com/news/20081011/lullabots-new-venture)), a hosted version of Drupal 6 with a new user interface and user experience. Interestingly enough, the new user interface has remarkable similarities with the work that [Mark Boulton and Leisa Reichelt have been doing for Drupal 7](http://d7ux.org) (D7UX). It is my guess that the growing momentum around Mark's work encouraged Lullabot to give us a sneak preview behind the scenes of what was brewing since they first announced *Codename*. And from what I saw, Buzzr looks great!
 

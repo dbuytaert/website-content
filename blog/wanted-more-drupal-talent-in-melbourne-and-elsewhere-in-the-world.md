@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/wanted-more-drupal-talent-in-melbourne-and-elsewhere-in-the-world'
 title: 'Wanted: more Drupal talent in Melbourne -- and elsewhere in the world'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-01-26T17:16:02-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Australia
 published: true
-type: blog
-url: /wanted-more-drupal-talent-in-melbourne-and-elsewhere-in-the-world
 id: 2146
 ---
+
+# Wanted: more Drupal talent in Melbourne -- and elsewhere in the world
 
 As some of you may know from my recent tweets and blog posts, I'm currently on [a tour down under in Australia](https://dri.es/hanging-with-my-aussie-drupal-friends-lets-meet-up). After attending [Drupal Downunder in Brisbane](https://dri.es/drupal-downunder-2011-wrapup), I spent two days in Melbourne. Although my schedule was packed, I was able to meet with several [Acquia partners](https://www.acquia.com/partners) based in Melbourne. I also met with various Drupal users such as the Australian Conservation Foundation (AFC), Monash University, Lonely Planet, Australian Broadcast Corporation (ABC), Victoria University, Red Cross, State Library of Victoria and others. In the evenings, we organized a Drupal meet-up at the Belgian Beer Cafe in which I met about forty Drupal developers. Good times!
 

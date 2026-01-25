@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-goes-print-drupal-watchdog'
 title: 'Drupal goes print: Drupal Watchdog'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-02-03T15:56:25-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-goes-print-drupal-watchdog
 id: 2166
 ---
+
+# Drupal goes print: Drupal Watchdog
 
 I first met Jeremy Andrews through [KernelTrap](http://kerneltrap.com), a website that reports about everything that's happening in the Linux kernel world. It has been one of my favorite web sites. Back in 2001, KernelTrap ran on [PostNuke](https://en.wikipedia.org/wiki/Postnuke), but I managed to convince Jeremy to switch to [Drupal](https://www.drupal.org). He learned so much about Drupal in the process, the he quit his day job and started his own Drupal business, [Tag1 Consulting](http://tag1consulting.com).
 

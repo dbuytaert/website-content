@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/a-plan-for-drupal-and-composer'
 title: 'A plan for Drupal and Composer'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-06-15T10:08:45-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'A plan how we can make Composer easier to use with Drupal'
-image: drupal/drupal-composer-initiative
 tags:
   - Drupal
+image: drupal/drupal-composer-initiative
 published: true
-type: blog
-url: /a-plan-for-drupal-and-composer
 id: 4416
 ---
+
+# A plan for Drupal and Composer
 
 [image drupal/drupal-composer-initiative]
 

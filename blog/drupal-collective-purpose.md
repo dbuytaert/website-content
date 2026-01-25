@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-collective-purpose'
 title: "Drupal's collective purpose"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-10-03T10:46:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How Drupal is fueled by a collective sense of purpose that sets us apart from other open source software communities and organizations.'
-image: blog/purpose-sets-drupal-apart
 tags:
   - Drupal
-featured: true
+image: blog/purpose-sets-drupal-apart
 published: true
-type: blog
-url: /drupal-collective-purpose
+featured: true
 id: 3786
 ---
+
+# Drupal's collective purpose
 
 [image blog/purpose-reflecting-on-journey]
 

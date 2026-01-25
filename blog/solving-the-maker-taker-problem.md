@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/solving-the-maker-taker-problem'
 title: 'Solving the Maker-Taker problem'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-10-02T12:06:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "How open source projects can balance Makers and Takers: lessons from Drupal's contribution credit system and recommendations for WordPress and other open source communities."
-image: blog/open-source-makers-and-takers-6
 tags:
   - Drupal
   - WordPress
   - 'Open Source'
   - 'Drupal Association'
-featured: true
+image: blog/open-source-makers-and-takers-6
 published: true
-type: blog
-url: /solving-the-maker-taker-problem
+featured: true
 id: 5691
 ---
+
+# Solving the Maker-Taker problem
 
 [image blog/open-source-makers-and-takers-6]
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/satoshi-nakamoto-drupal-adventure'
 title: "Satoshi Nakamoto's Drupal adventure"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-02-25T15:02:18-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Martti Malmi's old email conversations with Bitcoin creator Satoshi Nakamoto unveil their joint efforts on launching Bitcoin's website using Drupal."
-image: drupal/satoshi-martti-drupal-1
 tags:
   - Drupal
   - Bitcoin
+image: drupal/satoshi-martti-drupal-1
 published: true
-type: blog
-url: /satoshi-nakamoto-drupal-adventure
 id: 5566
 ---
+
+# Satoshi Nakamoto's Drupal adventure
 
 Martti Malmi, an early contributor to the Bitcoin project, recently shared a fascinating piece of internet history: an [archive of private emails between himself and Satoshi Nakamoto](https://mmalmi.github.io/satoshi/), Bitcoin's mysterious founder.
 

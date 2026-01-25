@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/unlike-marketing-efforts-capex-does-not-lie'
 title: "Unlike marketing efforts, CAPEX doesn't lie"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-06-03T04:23:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'There are only three cloud infrastructure companies that are really growing: Amazon, Google and Microsoft'
-image: blog/capex-cloud-vendors-absolute-growth-2018
 tags:
   - 'Stock market'
   - Microsoft
   - Amazon
+image: blog/capex-cloud-vendors-absolute-growth-2018
 published: true
-type: blog
-url: /unlike-marketing-efforts-capex-does-not-lie
 id: 4401
 ---
+
+# Unlike marketing efforts, CAPEX doesn't lie
 
 The title of this blog post comes from a recent [Platformonomics](http://www.platformonomics.com) article that [analyzes how much Amazon, Google, Microsoft, IBM and Oracle are investing in their cloud infrastructure](http://www.platformonomics.com/2018/05/follow-the-capex-separating-the-clowns-from-the-clouds/). It does that analysis based on these companies' publicly reported CAPEX numbers.
 

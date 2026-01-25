@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-partners-with-bigcommerce'
 title: 'Acquia partners with BigCommerce'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-11-06T11:45:23-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Commerce
   - Acquia
 published: true
-type: blog
-url: /acquia-partners-with-bigcommerce
 id: 4596
 ---
+
+# Acquia partners with BigCommerce
 
 Today, Acquia [announced a partnership with BigCommerce](https://www.acquia.com/about-us/newsroom/press-releases/acquia-bigcommerce-partner-accelerate-content-commerce-initiatives), a leading cloud commerce platform. BigCommerce recently launched a headless commerce solution called [BigCommerce Commerce-as-a-Service](https://www.bigcommerce.com/commerce-as-a-service/) to complement its "traditional" commerce solutions. Acquia's partnership with BigCommerce will center around this Commerce-as-a-Service solution to enable customers to take advantage of [headless commerce architectures](https://dri.es/the-rise-of-headless-commerce), while leveraging Drupal and Acquia to power [content-rich shopping experiences](https://dri.es/content-and-commerce-a-big-opportunity-for-drupal).
 

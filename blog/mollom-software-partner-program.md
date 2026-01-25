@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/mollom-software-partner-program'
 title: 'Mollom software partner program'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-02-20T04:05:37-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
 published: true
-type: blog
-url: /mollom-software-partner-program
 id: 602
 ---
+
+# Mollom software partner program
 
 One of [Mollom](https://mollom.com)'s main goals is to give you time to focus on your site, rather than fighting spam. We also don't want you to spend time worrying about your Mollom plugin. One way we prevent that is by finding high-quality companies who focus on specific content management systems, and partnering with them to provide world-class products and services. We agree to vet the quality of the product, they agree to commit substantial resources for development, maintenance, and support, and together we deliver a seamless, trouble-free experience.
 

@@ -1,21 +1,26 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-march-2025'
 title: 'State of Drupal presentation (March 2025)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-03-31T10:44:49-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon North America 2025 DriesNote presentation'
-image: drupalcon-atlanta-2025/driesnote
 tags:
   - Drupal
   - 'Drupal Starshot'
   - 'State of Drupal'
   - 'Artificial Intelligence'
   - DrupalCon
-featured: true
+image: drupalcon-atlanta-2025/driesnote
 published: true
-type: blog
-url: /state-of-drupal-presentation-march-2025
+featured: true
 id: 5781
 ---
+
+# State of Drupal presentation (March 2025)
 
 Three months ago, [we launched Drupal CMS 1.0](https://dri.es/drupal-cms-1-released), our biggest step forward in years. Our goal is ambitious: to [reimagine Drupal](https://dri.es/introducing-drupal-starshot-product-strategy) as both radically easier to use and a platform for faster innovation.
 

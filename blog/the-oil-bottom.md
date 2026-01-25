@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/the-oil-bottom'
 title: 'The oil bottom'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-12-27T06:55:49-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Investing
   - 'Stock market'
 published: true
-type: blog
-url: /the-oil-bottom
 id: 3531
 ---
+
+# The oil bottom
 
 The rapid decline of oil prices have dominated the financial news the second half of 2015. Each time you turn on CNBC chances are a Wall Street analyst is discussing the latest movement in oil prices. Just the other day one proclaimed *"I believe we hit the bottom!"*.
 

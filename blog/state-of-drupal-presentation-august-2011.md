@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-august-2011'
 title: 'State of Drupal presentation (August 2011)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-09-13T11:15:47-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'State of Drupal'
   - DrupalCon
   - London
 published: true
-type: blog
-url: /state-of-drupal-presentation-august-2011
 id: 2482
 ---
+
+# State of Drupal presentation (August 2011)
 
 Three weeks ago, at DrupalCon London, I gave my traditional State of Drupal presentation. In good tradition, you can [download a copy of my slides](https://dri.es/files/state-of-drupal-august-2011.pdf) (PDF, 37 MB) or you can [watch a video recording of my keynote](https://youtu.be/6mK45xCxTI0).
 

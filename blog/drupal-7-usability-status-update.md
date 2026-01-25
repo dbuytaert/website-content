@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-7-usability-status-update'
 title: 'Drupal 7 usability: status update'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-05-26T11:36:29-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Usability
 published: true
-type: blog
-url: /drupal-7-usability-status-update
 id: 658
 ---
+
+# Drupal 7 usability: status update
 
 Based on a survey that I conducted last year, it was clear that one of the community's key goals is making Drupal easier to use. This is not really all that surprising. An easier to use Drupal means a Drupal that attracts more users, and therefore more potential contributors. It also means existing contributors spend less time doing custom work on their sites or developing training materials to help make Drupal palatable to their clients, and more time on making Drupal rock. And finally, it is strategically important for the future of the Drupal project to make our usability match the prowess of our flexible APIs; our competitors are working to build out their feature set to match Drupal's, and if we do not work to make Drupal's usability radically better, we risk falling victim to [The Ockham's Razor Principle of Content Management Systems](https://dri.es/ockhams-razor-principle-of-content-management-systems).
 

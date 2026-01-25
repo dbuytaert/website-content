@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-8-feature-freeze-december-1st-2012'
 title: 'Drupal 8 feature freeze: December 1st, 2012'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-02-15T13:57:02-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-8-feature-freeze-december-1st-2012
 id: 2641
 ---
+
+# Drupal 8 feature freeze: December 1st, 2012
 
 *Note: some of the information on this page is out of date. For the latest information about how Drupal releases are managed, see <https://www.drupal.org/core/release-cycle>.*
 

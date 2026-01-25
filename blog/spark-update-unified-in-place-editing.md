@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/spark-update-unified-in-place-editing'
 title: 'Spark update: unified in-place editing'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-01-07T15:48:30-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Usability
   - 'Spark distribution'
 published: true
-type: blog
-url: /spark-update-unified-in-place-editing
 id: 2861
 ---
+
+# Spark update: unified in-place editing
 
 A major focus of usability efforts in Drupal core has been around making it easier to edit things on your site. In Drupal 7, we introduced the *Contextual links* and *Overlay modules* to make it simpler for content authors and site builders to jump directly to the parts of the administration that relate to the things they see directly on the page, such as blocks or menus. Drupal 8 has now upped the ante with the new [in-place editing feature](https://www.drupal.org/node/1824500), which allows for direct modification of content on your site, within the context of the page it is displayed on.
 

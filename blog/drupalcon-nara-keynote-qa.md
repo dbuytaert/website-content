@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupalcon-nara-keynote-qa'
 title: 'DrupalCon Nara keynote Q&A'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-11-19T21:33:35-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - 'State of Drupal'
   - Japan
 published: true
-type: blog
-url: /drupalcon-nara-keynote-qa
 id: 5946
 ---
+
+# DrupalCon Nara keynote Q&A
 
 DrupalCon Nara just wrapped up, and it left me feeling energized.
 

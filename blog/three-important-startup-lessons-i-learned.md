@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/three-important-startup-lessons-i-learned'
 title: 'Three important start-up lessons I learned'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-09-11T11:47:10-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
   - 'Startup lessons'
 published: true
-type: blog
-url: /three-important-startup-lessons-i-learned
 id: 3031
 ---
+
+# Three important start-up lessons I learned
 
 When I started working on [Drupal](https://www.drupal.org/) in my college dormitory 12 years ago, I had no idea that one day it would be used by 2 percent of the world's websites. What is even more exciting is the open source community that has grown up around Drupal.
 

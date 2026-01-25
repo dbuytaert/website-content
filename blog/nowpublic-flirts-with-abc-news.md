@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/nowpublic-flirts-with-abc-news'
 title: 'NowPublic flirts with ABC News'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-12-12T08:51:56-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - NowPublic
 published: true
-type: blog
-url: /nowpublic-flirts-with-abc-news
 id: 188
 ---
+
+# NowPublic flirts with ABC News
 
 Last week, [NowPublic](http://nowpublic.com/) redesigned once more. They just keep getting better! If you don't know NowPublic, it is a Drupal website that is a combination of Slashdot, Digg and Flickr (albeit not as popular yet). Every user can help report the news, provide valuable information, footage, context and insight.
 

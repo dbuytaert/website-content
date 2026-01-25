@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/web-services-in-drupal-8'
 title: 'Web services in Drupal 8'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-04-11T16:53:06-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /web-services-in-drupal-8
 id: 2296
 ---
+
+# Web services in Drupal 8
 
 In [my DrupalCon keynote in Chicago](https://dri.es/state-of-drupal-presentation-march-2011), I talked about the key initiatives that I believe we should focus on for Drupal 8 core. One of those key initiatives that I talked about was *web services*.
 

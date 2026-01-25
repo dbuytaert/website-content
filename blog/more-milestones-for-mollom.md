@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/more-milestones-for-mollom'
 title: 'More milestones for Mollom'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-01-27T19:32:11-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
 published: true
-type: blog
-url: /more-milestones-for-mollom
 id: 586
 ---
+
+# More milestones for Mollom
 
 It's been several months since I last updated you on Mollom's success at blocking comment spam. At the time, [Mollom](https://mollom.com) had just [blocked its ten-millionth spam attempt](https://dri.es/ten-million-spam-attempts-blocked) and I mentioned in my post that we'd been growing fast. Indeed, in the last couple of days, we've marked a few important milestones.
 

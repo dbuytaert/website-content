@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/mollom-at-techcrunch-belgium-meetup'
 title: 'Mollom at TechCrunch Belgium Meeting'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-11-21T07:24:14-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
   - Belgium
 published: true
-type: blog
-url: /mollom-at-techcrunch-belgium-meetup
 id: 538
 ---
+
+# Mollom at TechCrunch Belgium Meeting
 
 A couple of weeks ago we pitched [Mollom](https://mollom.com) at the TechCrunch Belgium Meeting organized by [Robin Wauters](http://www.edentity.be/), our Belgian [Michael Arrington](https://en.wikipedia.org/wiki/Michael_Arrington) (i.e. Robin writes for [TechCrunch](http://techcrunch.com) and is the organizer of [the Plugg conference](http://plugg.eu/)).
 

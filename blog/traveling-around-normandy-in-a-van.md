@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/traveling-around-normandy-in-a-van'
 title: 'Traveling around Normandy in a van'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-09-08T15:27:14-04:00'
-author: Dries
-image: normandy-2020/normandy-1
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Travel
   - Photography
   - Vanessa
   - 'Van life'
   - France
+image: normandy-2020/normandy-1
 published: true
-type: blog
-url: /traveling-around-normandy-in-a-van
 id: 5066
 ---
+
+# Traveling around Normandy in a van
 
 Over Labor Day weekend, Vanessa and I drove around [Normandy](https://en.wikipedia.org/wiki/Normandy). We admired the natural beauty and visited a few historical [D-Day](https://en.wikipedia.org/wiki/Normandy_landings) sites.
 

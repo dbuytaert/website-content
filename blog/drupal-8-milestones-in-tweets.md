@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-8-milestones-in-tweets'
 title: 'Drupal 8 milestones in Tweets'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-11-20T10:24:43-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-8-milestones-in-tweets
 id: 3506
 ---
+
+# Drupal 8 milestones in Tweets
 
 Building Drupal 8 with all of you has been a wild ride. I thought it would be fun to take a little end-of-week look back at some of our community's biggest milestones through Twitter. If you can think of others important Tweets, please share them in the comments, and I'll update the post.
 

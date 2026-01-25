@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-to-receive-majority-investment-from-vista-equity-partners'
 title: 'Acquia to receive majority investment from Vista Equity Partners'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-09-24T08:21:58-04:00'
-author: Dries
-image: acquia/acquia-vista
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
+image: acquia/acquia-vista
 published: true
-type: blog
-url: /acquia-to-receive-majority-investment-from-vista-equity-partners
 id: 4936
 ---
+
+# Acquia to receive majority investment from Vista Equity Partners
 
 [image acquia/acquia-vista]
 

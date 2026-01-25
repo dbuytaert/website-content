@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-8-2-now-with-more-outside-in'
 title: 'Drupal 8.2, now with more outside-in'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-08-23T03:10:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Usability
   - Outside-in
 published: true
-type: blog
-url: /drupal-8-2-now-with-more-outside-in
 id: 3756
 ---
+
+# Drupal 8.2, now with more outside-in
 
 Over the weekend, [Drupal 8.2 beta was released](https://www.drupal.org/project/drupal/releases/8.2.0-beta2). One of the reasons why I'm so excited about this release is that it ships with "more outside-in". In an "outside-in experience", you can click anything on the page, edit its configuration in place without having to navigate to the administration back end, and watch it take effect immediately. This kind of on-the-fly editorial experience could be a game changer for Drupal's usability.
 

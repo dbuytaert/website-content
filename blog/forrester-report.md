@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/forrester-report'
 title: 'Forrester report in the mail'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-08-30T11:06:38-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Forrester
 published: true
-type: blog
-url: /forrester-report
 id: 132
 ---
+
+# Forrester report in the mail
 
 I received a free copy of the [Forrester report that compares blogging platforms](/forrester-reports-on-drupal) (including Drupal). *Thanks Forrester!*
 

@@ -1,9 +1,13 @@
 ---
+url: 'https://dri.es/the-orchestration-shift'
 title: 'The Orchestration Shift'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-10-29T05:43:25-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Your marketing stack is becoming a marketing network. Why the layer that connects your tools could be the next critical infrastructure.'
-image: blog/orchestration-shift
 tags:
   - Drupal
   - Investing
@@ -11,12 +15,13 @@ tags:
   - Activepieces
   - 'Workflow orchestration'
   - Trends
-featured: true
+image: blog/orchestration-shift
 published: true
-type: blog
-url: /the-orchestration-shift
+featured: true
 id: 5911
 ---
+
+# The Orchestration Shift
 
 [image blog/orchestration-shift lazy=false priority=true]
 

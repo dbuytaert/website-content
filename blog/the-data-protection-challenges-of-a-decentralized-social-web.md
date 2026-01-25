@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/the-data-protection-challenges-of-a-decentralized-social-web'
 title: 'The data protection challenges of a decentralized, social web'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-05-04T13:39:29-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'We have to make the decentralized, social web compliant with data protection regulation'
 tags:
   - 'Open Web'
@@ -9,10 +14,10 @@ tags:
   - Privacy
   - 'Social media'
 published: true
-type: blog
-url: /the-data-protection-challenges-of-a-decentralized-social-web
 id: 4331
 ---
+
+# The data protection challenges of a decentralized, social web
 
 Last night, I read a thoughtful blog post from [Sebastian Greger](https://sebastiangreger.net), which examines [the challenges of implementing privacy in a decentralized, social web](https://sebastiangreger.net/2018/05/indieweb-privacy-challenge-webmentions-backfeeds-gdpr/). As a part of [my own POSSE plan](https://dri.es/tag/posse), I had proposed implementing support for [Webmention](https://indieweb.org/Webmention) on [dri.es](https://dri.es). This would allow me to track comments, likes, reposts, and other rich interactions across the web on my own site.
 

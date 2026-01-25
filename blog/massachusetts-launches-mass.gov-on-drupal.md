@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/massachusetts-launches-mass.gov-on-drupal'
 title: 'Massachusetts launches Mass.gov on Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-12-01T03:06:51-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Mass.gov moved a 15-year-old site from a legacy CMS to Acquia and Drupal'
-image: drupal/boston-gov-before-and-after
 tags:
   - Drupal
   - Acquia
   - 'Drupal sites'
   - 'Acquia Cloud'
   - Government
+image: drupal/boston-gov-before-and-after
 published: true
-type: blog
-url: /massachusetts-launches-mass.gov-on-drupal
 id: 4086
 ---
+
+# Massachusetts launches Mass.gov on Drupal
 
 This year at Acquia Engage, [the Commonwealth of Massachusetts launched Mass.gov on Drupal 8](https://www.mass.gov/news/baker-polito-administration-launches-the-new-massgov). Holly St. Clair, the Chief Digital Officer of the Commonwealth of Massachusetts, joined me during [my keynote](https://dri.es/acquia-engage-2017-keynote) to share how [Mass.gov](https://www.mass.gov) is making constituents' interactions with the state fast, easy, meaningful, and "wicked awesome".
 

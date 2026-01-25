@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/does-acquia-suck-up-all-the-drupal-talent'
 title: 'Does Acquia suck up all the Drupal talent?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-09-09T15:42:11-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /does-acquia-suck-up-all-the-drupal-talent
 id: 2477
 ---
+
+# Does Acquia suck up all the Drupal talent?
 
 A number of concerns have been voiced from the community about the substantial growth Acquia has achieved since its inception, the number of key contributors who are now employed by Acquia, and the subsequent influence that this allows Acquia to have on the project.
 

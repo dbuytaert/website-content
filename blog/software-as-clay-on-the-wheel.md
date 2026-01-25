@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/software-as-clay-on-the-wheel'
 title: 'Software as clay on the wheel'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2026-01-20T14:39:26-05:00'
-author: Dries
-image: miscellaneous-2020/ceramics-2
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Artificial Intelligence'
   - Automation
   - Drupal
   - 'Software development'
-featured: false
+image: miscellaneous-2020/ceramics-2
 published: true
-type: blog
-url: /software-as-clay-on-the-wheel
+featured: false
 id: 6061
 ---
+
+# Software as clay on the wheel
 
 [image miscellaneous-2020/ceramics-2 priority=true]
 

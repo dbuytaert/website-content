@@ -1,9 +1,13 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-december-2024'
 title: 'State of Drupal presentation (December 2024)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-12-30T05:43:30-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon Singapore 2024 DriesNote presentation'
-image: drupalcon-singapore-2024/driesnote
 tags:
   - Drupal
   - 'Drupal Starshot'
@@ -11,12 +15,13 @@ tags:
   - DrupalCon
   - 'Artificial Intelligence'
   - Singapore
-featured: false
+image: drupalcon-singapore-2024/driesnote
 published: true
-type: blog
-url: /state-of-drupal-presentation-december-2024
+featured: false
 id: 5726
 ---
+
+# State of Drupal presentation (December 2024)
 
 At DrupalCon Asia in Singapore a few weeks ago, I delivered my traditional [State of Drupal keynote](https://dri.es/tag/state-of-drupal). This event marked DrupalCon's return to Asia after an eight-year hiatus, with the last one being [DrupalCon Mumbai in 2016](https://dri.es/state-of-drupal-presentation-february-2016).
 

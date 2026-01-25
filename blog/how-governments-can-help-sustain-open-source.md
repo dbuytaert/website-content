@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/how-governments-can-help-sustain-open-source'
 title: 'How governments can help sustain Open Source'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-09-18T07:34:34-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Source'
   - Drupal
 published: true
-type: blog
-url: /how-governments-can-help-sustain-open-source
 id: 5076
 ---
+
+# How governments can help sustain Open Source
 
 Yesterday I wrote about why [software funded with tax dollars should be Open Source](https://dri.es/public-money-public-code). Based on the feedback in email and social media, lots of people seem to agree.
 

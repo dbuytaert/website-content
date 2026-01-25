@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-org-redesign-launched-and-why-it-matters'
 title: 'Drupal.org redesign launched, and why it matters'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-10-21T17:17:01-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /drupal-org-redesign-launched-and-why-it-matters
 id: 1921
 ---
+
+# Drupal.org redesign launched, and why it matters
 
 A couple of days ago we launched the [new Drupal.org website](https://www.drupal.org/tour-redesigned-drupal-org). If you haven't looked at the site, you might not think much of this announcement. However, this is an important milestone in the history of Drupal. Here is why.
 

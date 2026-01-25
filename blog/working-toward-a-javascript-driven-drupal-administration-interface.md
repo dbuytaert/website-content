@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/working-toward-a-javascript-driven-drupal-administration-interface'
 title: 'Working toward a JavaScript-driven Drupal administration interface'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-05-17T13:42:52-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "The key next steps required to decouple Drupal's administration UI and modernize it using a JavaScript framework"
 tags:
   - Drupal
   - JavaScript
   - 'Web services'
 published: true
-type: blog
-url: /working-toward-a-javascript-driven-drupal-administration-interface
 id: 4356
 ---
+
+# Working toward a JavaScript-driven Drupal administration interface
 
 As web applications have evolved from static pages to application-like experiences, end-users' expectations of websites have become increasingly demanding. JavaScript, partnered with effective user-experience design, enable the [seamless, instantaneous interactions that users now expect](https://dri.es/can-drupal-outdo-native-applications).
 

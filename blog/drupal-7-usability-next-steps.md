@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-7-usability-next-steps'
 title: 'Drupal 7 usability: next steps'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-05-27T11:38:56-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Usability
 published: true
-type: blog
-url: /drupal-7-usability-next-steps
 id: 659
 ---
+
+# Drupal 7 usability: next steps
 
 Improving the usability of Drupal is very important. Yesterday, I wrote about [the progress that was made on Drupal 7 usability](https://dri.es/drupal-7-usability-status-update) – the community has made a ton of incremental improvements, while Mark and Leisa have been preparing mockups and wireframes that provide significant over-arching improvements to Drupal's ease of use. Combined, I believe these efforts could make Drupal 7 a great release. A release that the Drupal project needs since our competitors are catching up in terms of functionality and flexibility. Likewise we need to catch up in terms of design and usability. It is my belief that we can develop a user experience for our project that is game changing, and that completely resets people's expectations both for Drupal and our competitors.
 

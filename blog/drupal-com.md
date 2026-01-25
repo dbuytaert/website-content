@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-com'
 title: Drupal.com
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-10-02T12:59:21-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-com
 id: 157
 ---
+
+# Drupal.com
 
 Ric Johnson of [OpenDomain](https://opendomain.org/) bought the drupal.com domain from a cyber-squatter and donated it to me. For more information, [read the press release at Yahoo! Finance](https://biz.yahoo.com/prnews/060929/phf010.html). *Thanks for the generosity, Ric!*
 

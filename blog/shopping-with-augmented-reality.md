@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/shopping-with-augmented-reality'
 title: 'Shopping with augmented reality'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-10-26T13:34:25-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How we can use augmented reality with Drupal to superimpose useful information in a shopping experience'
-image: blog/shopping-with-augmented-reality-example-2017
 tags:
   - Drupal
   - 'Augmented reality'
   - Acquia
+image: blog/shopping-with-augmented-reality-example-2017
 published: true
-type: blog
-url: /shopping-with-augmented-reality
 id: 4056
 ---
+
+# Shopping with augmented reality
 
 [image blog/shopping-with-augmented-reality-example-2017 resize=false]
 

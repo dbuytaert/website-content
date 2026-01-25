@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/pulling-the-plug-on-facebook'
 title: 'Pulling the plug on Facebook'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-02-04T13:47:34-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "I'm pulling the plug on Facebook because of their recent privacy violations — which got me thinking about what is next for the Open Web."
-image: blog/delete-facebook
 tags:
   - 'Open Web'
   - POSSE
   - Privacy
   - 'Social media'
-featured: true
+image: blog/delete-facebook
 published: true
-type: blog
-url: /pulling-the-plug-on-facebook
+featured: true
 id: 4741
 ---
+
+# Pulling the plug on Facebook
 
 [image blog/facebook-social-decay]
 

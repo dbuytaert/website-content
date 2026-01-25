@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/money-versus-time-in-open-source'
 title: 'Money versus time in Open Source'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-05-06T06:08:56-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Open Source'
 published: true
-type: blog
-url: /money-versus-time-in-open-source
 id: 441
 ---
+
+# Money versus time in Open Source
 
 I think Sun/MySQL's [Marten Mickos](http://en.wikipedia.org/wiki/M%C3%A5rten_Mickos) nailed it when he said *"There's a difference between organizations that have more time than money and organizations that have more money than time"*. Read [Savio Rodrigues' post on InfoWorld](http://weblog.infoworld.com/openresource/archives/2008/04/categorizing_os.html) and [Matt Asay's post on CNET](https://www.cnet.com/8301-13505_1-9935805-16.html) for more background.
 

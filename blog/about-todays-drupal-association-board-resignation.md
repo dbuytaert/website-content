@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/about-todays-drupal-association-board-resignation'
 title: "About today's Drupal Association Board resignation"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-06-13T13:52:48-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /about-todays-drupal-association-board-resignation
 id: 3166
 ---
+
+# About today's Drupal Association Board resignation
 
 Today [Morten Birch Heide-Jørgensen stepped down from his role on the Drupal Association's Board of Directors](http://www.morten.dk/blog/language-twitter-misunderstanding-drupal-community). The Drupal Association's Board of Directors supports Morten's decision. The [Drupal Association](https://association.drupal.org) and the [Drupal community](https://www.drupal.org) value inclusivity and diversity, and our leadership must demonstrate those values as well.
 

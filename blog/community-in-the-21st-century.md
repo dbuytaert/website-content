@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/community-in-the-21st-century'
 title: 'Community in the 21st century'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-12-11T08:18:47-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Trends
 published: true
-type: blog
-url: /community-in-the-21st-century
 id: 187
 ---
+
+# Community in the 21st century
 
 [video NorfgQlEJv8]
 

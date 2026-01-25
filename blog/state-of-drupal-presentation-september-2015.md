@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-september-2015'
 title: 'State of Drupal presentation (September 2015)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-12-23T03:12:49-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'State of Drupal'
   - DrupalCon
   - Barcelona
 published: true
-type: blog
-url: /state-of-drupal-presentation-september-2015
 id: 3526
 ---
+
+# State of Drupal presentation (September 2015)
 
 File this under "better late than never". Before the year closes out, I wanted to post my 2015 DrupalCon Barcelona keynote video and slides. I archive all my DrupalCon keynotes on my site so anyone who is interested in taking a trip to memory lane or studying the evolution of Drupal, can check out [all my previous DrupalCon keynotes](https://dri.es/tag/state-of-drupal).
 

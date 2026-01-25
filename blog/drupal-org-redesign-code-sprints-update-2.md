@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-org-redesign-code-sprints-update-2'
 title: 'Drupal.org redesign code sprints: update 2'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-02-09T11:46:07-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
   - Acquia
 published: true
-type: blog
-url: /drupal-org-redesign-code-sprints-update-2
 id: 594
 ---
+
+# Drupal.org redesign code sprints: update 2
 
 This week, twelve of us have gathered in Paris to [continue our work on upgrading drupal.org](https://dri.es/drupal-org-redesign-code-sprints). Sprinters include: [Joeri Poesen](https://www.drupal.org/user/118637), [Damien Tournoud](https://www.drupal.org/user/22211), [Neil Drumm](https://www.drupal.org/user/3064), [Mike O'Conner](https://www.drupal.org/user/104525), [Gerhard Killesreiter](https://www.drupal.org/user/227), [Klaas Van Waesberghe](https://www.drupal.org/user/75397), [Todd Ross Nienkerk](https://www.drupal.org/user/92096), [Aaron Stanush](https://www.drupal.org/user/89718), [David Stosik](https://www.drupal.org/user/49385), [Morten Heide](https://www.drupal.org/user/65676), [Gábor Hojtsy](https://www.drupal.org/user/4166) and myself. Upgrading and redesigning drupal.org is a big project, and, when implemented, will be an important milestone for our community. We're hopeful that we can push the drupal.org redesign closer to completion this week.
 

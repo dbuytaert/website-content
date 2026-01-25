@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/we-raised-500000-usd'
 title: 'We raised $500,000!'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-05-11T15:00:16-04:00'
-author: Dries
-image: drupal/blue-hearts-4
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
   - DrupalCares
+image: drupal/blue-hearts-4
 published: true
-type: blog
-url: /we-raised-500000-usd
 id: 5011
 ---
+
+# We raised $500,000!
 
 [image drupal/blue-hearts-4]
 

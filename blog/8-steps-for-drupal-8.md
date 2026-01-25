@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/8-steps-for-drupal-8'
 title: '8 steps for Drupal 8'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-11-16T04:13:41-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /8-steps-for-drupal-8
 id: 1211
 ---
+
+# 8 steps for Drupal 8
 
 The Drupal 7 code freeze triggered a lot of retrospective about Drupal core, and the Drupal core development model. Some of these discussions are collectively referred to as "smallcore".
 

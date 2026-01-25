@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/acquia-engage-keynote-2021'
 title: 'Acquia Engage Keynote 2021'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-10-28T17:29:23-04:00'
-author: Dries
-image: acquia/innovation-showcase-engage-2021
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
   - 'Acquia Cloud'
-featured: false
+image: acquia/innovation-showcase-engage-2021
 published: true
-type: blog
-url: /acquia-engage-keynote-2021
+featured: false
 id: 5246
 ---
+
+# Acquia Engage Keynote 2021
 
 [Acquia Engage](https://engage.acquia.com/), now in its eighth year, was an all-virtual event this year. In my keynote, I talked about how the Acquia Digital Experience Platform (DXP) helps with many of the biggest challenges in the world of websites and digital experiences.
 

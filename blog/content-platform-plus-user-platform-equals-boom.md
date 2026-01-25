@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/content-platform-plus-user-platform-equals-boom'
 title: 'Content platform + user platform = BOOM!'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-03-31T16:05:30-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Web'
   - Trends
 published: true
-type: blog
-url: /content-platform-plus-user-platform-equals-boom
 id: 3356
 ---
+
+# Content platform + user platform = BOOM!
 
 Here is a very simple thesis on how to disrupt billion dollar industries:
 

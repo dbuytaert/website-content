@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-gardens-now-in-open-beta'
 title: 'Drupal Gardens now in open beta'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-07-22T14:09:16-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal Gardens now in open beta'
 tags:
   - Drupal
   - Acquia
   - 'Drupal Gardens'
 published: true
-type: blog
-url: /drupal-gardens-now-in-open-beta
 id: 1752
 ---
+
+# Drupal Gardens now in open beta
 
 Today we've reached another important milestone at [Acquia](https://www.acquia.com): [Drupal Gardens is now in open beta](https://www.boston.com/business/technology/articles/2010/07/22/acquia_aims_to_make_it_easier_to_design_websites/). No more beta codes. No more waiting to try the service. Now anyone can access [Drupal Gardens](http://drupalgardens.com) and create a free Drupal 7 site!
 

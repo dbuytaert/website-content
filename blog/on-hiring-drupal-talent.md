@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/on-hiring-drupal-talent'
 title: 'On hiring Drupal talent'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-07-06T10:11:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /on-hiring-drupal-talent
 id: 295
 ---
+
+# On hiring Drupal talent
 
 A lot of people have been looking to hire talented Drupal developers but can't seem to find any. I know because every single day, I get e-mails from people asking me if I know any good Drupal developers looking for a job. Alas, I don't, so please stop e-mailing me.
 

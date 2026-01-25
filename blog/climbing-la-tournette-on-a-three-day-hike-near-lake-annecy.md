@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/climbing-la-tournette-on-a-three-day-hike-near-lake-annecy'
 title: 'Climbing La Tournette on a three day hike near Lake Annecy'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-09-09T17:54:50-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'A three-day hike in the French Alps near Lake Annecy with my son.'
-image: la-tournette-2025/tent-in-the-meadows
 tags:
   - Travel
   - Axl
   - Photography
   - France
+image: la-tournette-2025/tent-in-the-meadows
 published: true
-type: blog
-url: /climbing-la-tournette-on-a-three-day-hike-near-lake-annecy
 id: 5876
 ---
+
+# Climbing La Tournette on a three day hike near Lake Annecy
 
 Last month, my son Axl turned eighteen. He also graduated high school and will leave for university in just a few weeks. It is a big milestone and we decided to mark it with a three-day backpacking trip in the French Alps near Lake Annecy.
 

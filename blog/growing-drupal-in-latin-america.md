@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/growing-drupal-in-latin-america'
 title: 'Growing Drupal in Latin America'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-02-06T14:45:22-05:00'
-author: Dries
-image: brazil-2011/open-source-rock-1
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - 'Drupal Association'
+image: brazil-2011/open-source-rock-1
 published: true
-type: blog
-url: /growing-drupal-in-latin-america
 id: 3331
 ---
+
+# Growing Drupal in Latin America
 
 [image brazil-2011/open-source-rock-1]
 

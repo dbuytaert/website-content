@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-org-country-demographics'
 title: 'Drupal.org country demographics'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-05-27T05:59:36-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Statistics
 published: true
-type: blog
-url: /drupal-org-country-demographics
 id: 451
 ---
+
+# Drupal.org country demographics
 
 Where is the Drupal community from? Every registered user on <https://www.drupal.org> can optionally specify what country he or she is from. I've used that information to render the table below. *How is your country doing?*
 

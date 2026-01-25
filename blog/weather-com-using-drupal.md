@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/weather-com-using-drupal'
 title: 'Weather.com using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-11-20T11:06:56-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Drupal sites'
 published: true
-type: blog
-url: /weather-com-using-drupal
 id: 3281
 ---
+
+# Weather.com using Drupal
 
 One of the world's most trafficked websites, with more than 100 million unique visitors every month and more than 20 million different pages of content, is now using [Drupal](https://www.drupal.org). [Weather.com](http://weather.com) is a [top 20 U.S. site](https://www.comscore.com/Insights/Press-Releases/2014/4/comScore-Media-Metrix-R-Ranks-Top-50-US-Desktop-Web-Properties-for-March-2014) according to [comScore](https://en.wikipedia.org/wiki/ComScore). As far as I know, this is currently the biggest Drupal site in the world.
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-5-themes-book-in-the-mail'
 title: 'Drupal 5 themes book in the mail'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-01-18T05:00:51-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal books'
 published: true
-type: blog
-url: /drupal-5-themes-book-in-the-mail
 id: 391
 ---
+
+# Drupal 5 themes book in the mail
 
 Remember how [I predicted that 10 Drupal books](https://dri.es/drupal-predictions-for-2008) would get published in 2008? Well, the first book showed up in the mail this morning.
 

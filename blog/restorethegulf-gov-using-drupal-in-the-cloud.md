@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/restorethegulf-gov-using-drupal-in-the-cloud'
 title: 'RestoreTheGulf.gov using Drupal in the cloud'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-10-12T09:40:02-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
@@ -9,10 +14,10 @@ tags:
   - 'Acquia Cloud'
   - Government
 published: true
-type: blog
-url: /restorethegulf-gov-using-drupal-in-the-cloud
 id: 1896
 ---
+
+# RestoreTheGulf.gov using Drupal in the cloud
 
 [image drupal/restore-the-gulf-gov]
 

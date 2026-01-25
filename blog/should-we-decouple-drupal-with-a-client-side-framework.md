@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/should-we-decouple-drupal-with-a-client-side-framework'
 title: 'Should we decouple Drupal with a client-side framework?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-12-07T08:19:22-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Should we decouple Drupal with a client-side framework?'
 tags:
   - Drupal
   - JavaScript
   - 'Headless Drupal'
 published: true
-type: blog
-url: /should-we-decouple-drupal-with-a-client-side-framework
 id: 3521
 ---
+
+# Should we decouple Drupal with a client-side framework?
 
 As user experiences evolve from static pages to application-like experiences, end users' expectations of websites have become increasingly demanding. The Facebook newsfeed, the Gmail inbox, and the Twitter live stream are all compelling examples that form a baseline for the application-like experiences users now take for granted.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/how-ai-could-reshape-cms-platforms'
 title: 'How AI could reshape CMS platforms'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-03-14T20:57:52-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "The future of content management isn't just about what AI can create. It's about how we govern that creation process."
 tags:
   - 'Artificial Intelligence'
   - Drupal
 published: true
-type: blog
-url: /how-ai-could-reshape-cms-platforms
 id: 5776
 ---
+
+# How AI could reshape CMS platforms
 
 Imagine waking up to discover that overnight, AI agents rewrote 500 product descriptions, reorganized 300 pages for SEO, and updated 9,000 `alt`-text descriptions on your website.
 

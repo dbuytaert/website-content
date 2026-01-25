@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/dabbledb-cck-views-twelve-duvels'
 title: 'DabbleDB = CCK + Views + 12 Duvels'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-06-18T08:59:26-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /dabbledb-cck-views-twelve-duvels
 id: 284
 ---
+
+# DabbleDB = CCK + Views + 12 Duvels
 
 [Peter Van Dijck](http://poorbuthappy.com/ease/) sent me a link to this [DabbleDB demo](https://www.youtube.com/watch?v=6wZmYMWKLkY), referring to it as <q>Drupal's [CCK](https://www.drupal.org/project/cck) and [Views](https://www.drupal.org/project/views) after twelve [Duvels](https://en.wikipedia.org/wiki/Duvel)</q>. :)
 

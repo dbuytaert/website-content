@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/cms-code-base-comparison'
 title: 'CMS code base comparison'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-07-20T02:40:04-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Joomla
@@ -9,10 +14,10 @@ tags:
   - WordPress
   - Plone
 published: true
-type: blog
-url: /cms-code-base-comparison
 id: 298
 ---
+
+# CMS code base comparison
 
 ### Drupal
 

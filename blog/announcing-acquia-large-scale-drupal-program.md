@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/announcing-acquia-large-scale-drupal-program'
 title: "Announcing Acquia's Large Scale Drupal program"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-03-29T14:12:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /announcing-acquia-large-scale-drupal-program
 id: 2676
 ---
+
+# Announcing Acquia's Large Scale Drupal program
 
 [Acquia](https://www.acquia.com) works with many large enterprises that bet on [Drupal](https://www.drupal.org). These organizations are doing amazing things with Drupal and innovating by breaking through prior limitations. However, in talking to our customers, we noticed that there is limited knowledge sharing and discussion happening among the heaviest Drupal users. Similar problems are often solved multiple times independently, and in incompatible ways. And since few of these large companies are vocal and active in the community, the expertise gained from solving these problems isn't making its way back into the software that all Drupal users rely on.
 

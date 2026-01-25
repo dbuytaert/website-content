@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/what-i-want-for-my-website'
 title: 'What I want for my website'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-07-06T09:03:43-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'I really only want two things for my website!'
 tags:
   - Drupal
@@ -9,10 +14,10 @@ tags:
   - Mollom
   - 'My site'
 published: true
-type: blog
-url: /what-i-want-for-my-website
 id: 1746
 ---
+
+# What I want for my website
 
 I really only want two things for my website: (1) I want the software that runs my website to be high-quality and (2) I want my website's content to be high-quality. It sounds easy and straight-forward but I assure you it isn't.
 

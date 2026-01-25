@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/nowpublic-drupal-scan'
 title: 'NowPublic Drupal Scan'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-09-27T21:40:10-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'NowPublic launched an interesting new feature called "Scan".'
-image: drupal/nowpublic-drupal-scan
 tags:
   - Drupal
   - NowPublic
+image: drupal/nowpublic-drupal-scan
 published: true
-type: blog
-url: /nowpublic-drupal-scan
 id: 513
 ---
+
+# NowPublic Drupal Scan
 
 [NowPublic](http://nowpublic.com) launched an interesting new feature called *Scan*. First, they aggregate data from sites like [Twitter](https://twitter.com), [identi.ca](https://identi.ca/) and [Pownce](https://pownce.com) in near real-time. Then they aggregate the information, filter it by keywords, geo-locate it, and conveniently present it on a dashboard. Like that, you can see what is happening in different places around the world.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/paypal-developer-community-using-drupal'
 title: 'PayPal developer community using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-10-12T16:53:38-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Acquia
 published: true
-type: blog
-url: /paypal-developer-community-using-drupal
 id: 2536
 ---
+
+# PayPal developer community using Drupal
 
 Drupal continues to rack up successes among large developer communities, with [x.commerce](http://x.com) joining [Twitter](https://dri.es/twitter-using-drupal), which made the move last month. X.commerce is a new division of PayPal that serves as an open, central meeting place for [over 700,000 developers](https://www.reuters.com/article/2011/09/16/ebay-apps-idUSS1E78E13N20110916) for eBay, PayPal, Magento, and other eBay properties.
 

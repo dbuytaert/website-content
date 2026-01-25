@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/just-married-3'
 title: 'Just married'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-03-09T16:36:55-04:00'
-author: Dries
-image: wedding-stefaan-and-anneleen-2008/marriage-11
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Friends
+image: wedding-stefaan-and-anneleen-2008/marriage-11
 published: true
-type: blog
-url: /just-married-3
 id: 409
 ---
+
+# Just married
 
 [image wedding-stefaan-and-anneleen-2008/marriage-11]
 

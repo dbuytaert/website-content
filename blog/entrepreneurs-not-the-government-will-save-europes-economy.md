@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/entrepreneurs-not-the-government-will-save-europes-economy'
 title: "Entrepreneurs, not the government, will save Europe's economy"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-01-02T04:52:41-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Policy
   - 'Startup lessons'
   - Government
 published: true
-type: blog
-url: /entrepreneurs-not-the-government-will-save-europes-economy
 id: 3091
 ---
+
+# Entrepreneurs, not the government, will save Europe's economy
 
 If Steve Jobs was adopted by a Belgian family rather than an American family, it's extremely possible he may have ended up working in a bank instead of co-founding Apple. Why? Because starting a company and growing it is hard no matter where you are, but the difficulty is magnified in Europe, where people are divided by geography, regulation, language and cultural prejudice.
 

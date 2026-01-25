@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/help-acquia-help-gartner-with-social-software-report'
 title: 'Help Acquia help Gartner with social software report'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-02-01T10:40:37-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /help-acquia-help-gartner-with-social-software-report
 id: 1407
 ---
+
+# Help Acquia help Gartner with social software report
 
 You might remember that a while ago, [Drupal was promoted to the 'Visionaries' category in Gartner's Magic Quadrant for Social Software in the Workplace](https://dri.es/gartner-puts-drupal-in-visionaries-quadrant). For someone unfamiliar with all the social software vendors and projects, the choice can be overwhelming and Gartner's reports can carry a lot of weight in the decision making process. Drupal's promotion to the 'Visionaries' category was a big win for all of us.
 

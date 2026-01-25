@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/final-2009-wrapup'
 title: 'Final 2009 wrapup'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-01-07T03:10:50-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Final 2009 wrapup'
 tags:
   - Retrospective
 published: true
-type: blog
-url: /final-2009-wrapup
 id: 1316
 ---
+
+# Final 2009 wrapup
 
 Over the last couple of days, I've written about how [Drupal](https://www.drupal.org), [Acquia](https://www.acquia.com) and [Mollom](https://mollom.com) performed in 2009, respectively:
 

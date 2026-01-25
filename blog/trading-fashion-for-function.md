@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/trading-fashion-for-function'
 title: 'Trading fashion for function'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-05-10T15:39:42-04:00'
-author: Dries
-image: blog/apple-watch-cargo-khaki-sport-loop-2018
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Apple
+image: blog/apple-watch-cargo-khaki-sport-loop-2018
 published: true
-type: blog
-url: /trading-fashion-for-function
 id: 4341
 ---
+
+# Trading fashion for function
 
 [image blog/apple-watch-cargo-khaki-sport-loop-2018]
 

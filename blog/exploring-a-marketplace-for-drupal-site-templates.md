@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/exploring-a-marketplace-for-drupal-site-templates'
 title: 'Exploring a marketplace for Drupal site templates'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-04-02T13:29:31-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'This post looks at the idea of a Drupal Site Template marketplace and whether it should support both open source and commercial templates.'
-image: drupal/marketplace
 tags:
   - Drupal
   - 'Drupal Association'
-featured: false
+image: drupal/marketplace
 published: true
-type: blog
-url: /exploring-a-marketplace-for-drupal-site-templates
+featured: false
 id: 5786
 ---
+
+# Exploring a marketplace for Drupal site templates
 
 [image drupal/marketplace lazy=false priority=true]
 

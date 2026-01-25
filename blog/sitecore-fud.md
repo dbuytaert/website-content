@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/sitecore-fud'
 title: 'Sitecore FUD'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-10-31T21:17:22-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - FUD
 published: true
-type: blog
-url: /sitecore-fud
 id: 2561
 ---
+
+# Sitecore FUD
 
 Recently [Sitecore](http://sitecore.net), a vendor of a proprietary CMS, published a white paper called *"The Siren Song of Open Source CMS"*. It has some good old Open Source FUD:
 

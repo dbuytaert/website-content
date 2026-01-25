@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/the-end-of-php-5'
 title: 'The end of PHP 5 '
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-11-08T18:19:13-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'If you are still using PHP 5, now is the time to upgrade to a newer version of PHP.'
 tags:
   - Drupal
   - PHP
 published: true
-type: blog
-url: /the-end-of-php-5
 id: 4601
 ---
+
+# The end of PHP 5 
 
 PHP, the Open Source scripting language, is used by [nearly 80 percent of the world's websites](https://w3techs.com/technologies/details/pl-php/all/all).
 

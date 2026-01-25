@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/the-pain-before-the-payoff'
 title: 'The pain before the pay-off'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-07-27T09:45:54-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The pain before the pay-off'
 tags:
   - Drupal
 published: true
-type: blog
-url: /the-pain-before-the-payoff
 id: 114
 ---
+
+# The pain before the pay-off
 
 Invariably, breaking programming interfaces creates a lot of pain, and [the habitual willingness to change Drupal's programming interfaces](https://dri.es/backward-compatibility) is routinely identified as one of the main issues with Drupal.
 

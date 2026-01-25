@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-pro-development-numbers'
 title: 'Drupal Pro Development numbers'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-10-12T02:37:52-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal Pro Development numbers'
 tags:
   - Drupal
   - 'Drupal books'
 published: true
-type: blog
-url: /drupal-pro-development-numbers
 id: 338
 ---
+
+# Drupal Pro Development numbers
 
 You might remember that a week after the [Pro Drupal Development book](https://dri.es/pro-drupal-development-book-drupal5) shipped, it [cracked the Amazon top-100](https://dri.es/drupal-pro-book-cracks-amazon-top-100). The book remains in the 4,000-5,000 rank at Amazon, where it has 28 reviews and an average of 5/5 stars.
 

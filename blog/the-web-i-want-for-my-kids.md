@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/the-web-i-want-for-my-kids'
 title: 'The web I want for my kids'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-07-22T09:23:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'An opinion piece featuring my thoughts on what is wrong with the current web and how we might fix it, ran on CNN last week.'
-image: miscellaneous-2017/coder-dojo
 tags:
   - Privacy
   - Policy
   - 'Open Web'
   - Drupal
+image: miscellaneous-2017/coder-dojo
 published: true
-type: blog
-url: /the-web-i-want-for-my-kids
 id: 4896
 ---
+
+# The web I want for my kids
 
 [image miscellaneous-2017/coder-dojo]
 

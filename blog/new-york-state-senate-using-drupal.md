@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/new-york-state-senate-using-drupal'
 title: 'New York State Senate using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-05-12T04:01:07-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - 'New York'
   - Government
 published: true
-type: blog
-url: /new-york-state-senate-using-drupal
 id: 647
 ---
+
+# New York State Senate using Drupal
 
 [image drupal/new-york-state-senate]
 

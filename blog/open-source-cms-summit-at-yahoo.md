@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/open-source-cms-summit-at-yahoo'
 title: 'Open Source CMS Summit at Yahoo!'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-02-10T03:13:15-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - Invitations
 published: true
-type: blog
-url: /open-source-cms-summit-at-yahoo
 id: 216
 ---
+
+# Open Source CMS Summit at Yahoo!
 
 At the [Drupal road trip to San Francisco](https://dri.es/drupal-road-trip-san-francisco) last summer, we met some great people at [Yahoo!](https://www.yahoo.com/). With their generous help, we're now throwing a party ...
 

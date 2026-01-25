@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/two-years-later-is-my-web3-website-still-standing'
 title: 'Two years later: is my Web3 website still standing?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-02-29T10:06:36-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "After two years of neglecting my Web3 site, does it still work? Plus, insights into Web3's progress for website hosting."
-image: blog/web3-exploration
 tags:
   - Web3
   - Blockchain
   - 'My site'
   - 'Digital preservation'
-featured: true
+image: blog/web3-exploration
 published: true
-type: blog
-url: /two-years-later-is-my-web3-website-still-standing
+featured: true
 id: 5576
 ---
+
+# Two years later: is my Web3 website still standing?
 
 [image blog/web3-exploration schema=false]
 

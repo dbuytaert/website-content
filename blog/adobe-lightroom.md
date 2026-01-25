@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/adobe-lightroom'
 title: 'Adobe Lightroom'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-04-13T07:09:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
 published: true
-type: blog
-url: /adobe-lightroom
 id: 426
 ---
+
+# Adobe Lightroom
 
 Nikon-buddy [Jeff Whatcott](http://jeffwhatcott.com) gave me a quick demonstration of [Adobe Photoshop Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) when I was in Boston last week. Lightroom was clearly a winner application, so I was pleasantly surprised when Jeff hooked me up with a copy of Lightroom before I returned to Belgium on Friday evening. Although [Jeff works for Acquia now](https://www.acquia.com/press-release-2), he continues to evangelize Adobe's products. ;-)
 

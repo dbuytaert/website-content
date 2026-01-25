@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/from-infinite-extensibility-to-infinite-interoperability'
 title: 'From infinite extensibility to infinite interoperability'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-02-08T08:43:09-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - SharePoint
 published: true
-type: blog
-url: /from-infinite-extensibility-to-infinite-interoperability
 id: 400
 ---
+
+# From infinite extensibility to infinite interoperability
 
 Jeff Whatcott, Acquia's VP of marketing, wrote [an interesting blog post](https://jeffwhatcott.com/drupal/content/dormant-drupal-opportunity) about the term *content management system*, Microsoft SharePoint 2007, and Drupal's opportunity to be the poster child for the social software market space.
 

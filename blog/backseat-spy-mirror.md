@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/backseat-spy-mirror'
 title: 'Backseat spy mirror'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-06-30T21:36:12-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Family
   - Axl
   - Stan
 published: true
-type: blog
-url: /backseat-spy-mirror
 id: 1726
 ---
+
+# Backseat spy mirror
 
 [image ipswich-2010/backseat-spy-mirror]
 

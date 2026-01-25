@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/angela-webchick-byron'
 title: 'Angela "webchick" Byron'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-08-30T02:54:29-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Branch maintainer'
 published: true
-type: blog
-url: /angela-webchick-byron
 id: 493
 ---
+
+# Angela "webchick" Byron
 
 During my keynote presentation at DrupalCon Szeged this week, I announced that [Angela "webchick" Byron](http://webchick.net) will be my Drupal 7 co-maintainer. For the duration of one release cycle, she will help me coordinate Drupal 7 development.
 

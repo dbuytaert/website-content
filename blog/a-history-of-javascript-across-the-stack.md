@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/a-history-of-javascript-across-the-stack'
 title: 'A history of JavaScript across the stack'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-02-22T12:10:16-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'It took JavaScript 20 years, but now it is a well-established programming language for the web.'
-image: blog/universal-javascript
 tags:
   - Drupal
   - JavaScript
-featured: true
+image: blog/universal-javascript
 published: true
-type: blog
-url: /a-history-of-javascript-across-the-stack
+featured: true
 id: 3581
 ---
+
+# A history of JavaScript across the stack
 
 [image blog/javascript-powered-multichannel]
 

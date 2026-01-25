@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/acquia-next-phase'
 title: "Acquia's next phase"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-05-23T12:08:53-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Tom Erickson to step down as CEO of Acquia after 8 years. Dries will search for a new business partner.'
-image: acquia/tom-and-dries-3
 tags:
   - Drupal
   - Acquia
+image: acquia/tom-and-dries-3
 published: true
-type: blog
-url: /acquia-next-phase
 id: 3941
 ---
+
+# Acquia's next phase
 
 In 2007, [Jay Batson and I wanted to build a software company](https://dri.es/acquia-my-drupal-startup) based on open source and Drupal. I was 29 years old then, and eager to learn how to build a business that could change the world of software, strengthen the Drupal project and help drive the future of the web.
 

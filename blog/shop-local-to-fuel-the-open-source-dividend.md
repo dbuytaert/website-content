@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/shop-local-to-fuel-the-open-source-dividend'
 title: 'Shop local to fuel the Open Source dividend'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-04-21T08:06:05-04:00'
-author: Dries
-image: blog/open-source-dividends
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Source'
   - Drupal
+image: blog/open-source-dividends
 published: true
-type: blog
-url: /shop-local-to-fuel-the-open-source-dividend
 id: 4996
 ---
+
+# Shop local to fuel the Open Source dividend
 
 [image blog/shop-local]
 

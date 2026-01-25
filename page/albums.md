@@ -1,12 +1,17 @@
 ---
+url: 'https://dri.es/albums'
 title: 'Photo albums'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2005-10-23T10:34:28-04:00'
-author: Dries
-published: true
+license: 'https://creativecommons.org/licenses/by/4.0/'
 type: page
-url: /albums
+published: true
 id: 3
 ---
+
+# Photo albums
 
 <section id="2026">
   <h3>2026</h3>

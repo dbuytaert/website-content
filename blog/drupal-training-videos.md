@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-training-videos'
 title: 'Drupal training videos'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-09-27T03:26:16-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Statistics
   - 'Drupal Association'
 published: true
-type: blog
-url: /drupal-training-videos
 id: 329
 ---
+
+# Drupal training videos
 
 [Hagen Graf](http://www.cocoate.com), author of a [German Drupal book](https://dri.es/german-addison-wesley-drupal-book), recently donated 700 EUR to the [Drupal Association](https://association.drupal.org). This money comes from a [German Drupal 5 training video](https://dri.es/drupal-5-training-video) that he made together with [Video2brain](https://www.video2brain.com/). For every copy they sold, 1.25 EUR was set aside for the Drupal Association, and over the course of six months, this added up to a 700 EUR donation.
 

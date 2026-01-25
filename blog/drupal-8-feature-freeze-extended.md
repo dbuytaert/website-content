@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-8-feature-freeze-extended'
 title: 'Drupal 8 feature freeze extended'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-11-27T22:18:25-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-8-feature-freeze-extended
 id: 2821
 ---
+
+# Drupal 8 feature freeze extended
 
 *Note: some of the information on this page is out of date. For the latest information about how Drupal releases are managed, see <https://www.drupal.org/core/release-cycle>.*
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/passive-income-and-open-source'
 title: 'Passive income and Open Source'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-06-14T03:52:05-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Open Source'
 published: true
-type: blog
-url: /passive-income-and-open-source
 id: 2981
 ---
+
+# Passive income and Open Source
 
 Everyone dreams of making money while asleep. The term "passive income" is often defined as income that is received on regular intervals without requiring a great deal of work to sustain it. Usually some effort has to be put in upfront, but the payoff from passive income can last for years. Passive income is particularly relevant when it comes time to retire. Two techniques often recommended by financial planners are (a) rental properties and (b) [dividend investing](https://en.wikipedia.org/wiki/Dividend). Both can work well, not only as a retirement plan, but as a way to build steady income. Certainly the idea of collecting checks for the rest of your life with minimal effort sounds appealing.
 

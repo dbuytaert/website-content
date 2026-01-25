@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/join-the-first-drupal-project-browser-initiative-meeting'
 title: 'Join the first Drupal Project Browser Initiative meeting'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-05-20T13:28:24-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /join-the-first-drupal-project-browser-initiative-meeting
 id: 5211
 ---
+
+# Join the first Drupal Project Browser Initiative meeting
 
 When I ask people why they fell in love with Drupal, most often they talk about feeling empowered to build [ambitious websites](https://dri.es/drupal-is-for-ambitious-digital-experiences) with little or no code. In fact, the journey of many Drupalists started with Drupal's low-code approach to site building.
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-7-status-update-and-release-plan'
 title: 'Drupal 7 status update and release plan'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-02-25T06:16:22-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-7-status-update-and-release-plan
 id: 1501
 ---
+
+# Drupal 7 status update and release plan
 
 Drupal 7 is moving along nicely, and is becoming increasingly stable. We just released [a second alpha release](https://www.drupal.org/drupal-7.0-alpha2), fixing a number of critical bugs, following our initial alpha release in January. Alpha releases are to give Drupalistas something to download and test, so they can report and help fix bugs.
 

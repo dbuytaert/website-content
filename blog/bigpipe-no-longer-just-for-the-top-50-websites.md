@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/bigpipe-no-longer-just-for-the-top-50-websites'
 title: 'BigPipe, no longer just for the top 50 websites'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-11-27T10:27:07-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Web performance'
 published: true
-type: blog
-url: /bigpipe-no-longer-just-for-the-top-50-websites
 id: 3511
 ---
+
+# BigPipe, no longer just for the top 50 websites
 
 One thing that is exciting to me, is how much we appear to have gotten right in Drupal 8. The other day, for example, I stumbled upon a recent article from the LinkedIn engineering team describing how [they completely changed how their homepage is built](https://engineering.linkedin.com/frontend/new-technologies-new-linkedin-home-page). Their primary engineering objective was to deliver the fastest page load time possible, and one of the crucial ingredients to achieve that was [Facebook's BigPipe](https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919).
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/sourceforge-using-drupal'
 title: 'SourceForge using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-10-25T07:31:34-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
 published: true
-type: blog
-url: /sourceforge-using-drupal
 id: 526
 ---
+
+# SourceForge using Drupal
 
 SourceForge, Inc (formerly VA Linux/Software, [NASDAQ: LNUX](http://finance.google.com/finance?q=NASDAQ:LNUX)) switched [their corporate website](http://sourceforge.com) to [Drupal](https://www.drupal.org). Another public company with a Drupal site!
 

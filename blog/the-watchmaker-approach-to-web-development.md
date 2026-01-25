@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/the-watchmaker-approach-to-web-development'
 title: "The Watchmaker's Approach to Web Development"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-01-03T04:03:55-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Finding peace and satisfaction in building and maintaining a personal website through many small, meticulous tweaks.'
-image: blog/watchmaker-web-development
 tags:
   - 'My site'
   - Accessibility
   - 'Web performance'
   - Drupal
-featured: true
+image: blog/watchmaker-web-development
 published: true
-type: blog
-url: /the-watchmaker-approach-to-web-development
+featured: true
 id: 5541
 ---
+
+# The Watchmaker's Approach to Web Development
 
 [image blog/watchmaker-web-development]
 

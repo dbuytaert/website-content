@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/success-and-failure-are-not-polar-opposites'
 title: 'Failure often paves the way for success'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-07-25T21:05:47-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Startup lessons'
 published: true
-type: blog
-url: /success-and-failure-are-not-polar-opposites
 id: 4466
 ---
+
+# Failure often paves the way for success
 
 Success and failure are not polar opposites: you often need to endure failure to enjoy success. In [Google's 2004 Founders' IPO Letter](https://abc.xyz/investor/founders-letters/2004-ipo-letter/), Larry Page wrote:
 

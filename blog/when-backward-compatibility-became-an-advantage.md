@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/when-backward-compatibility-became-an-advantage'
 title: 'When backward compatibility became an advantage'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2026-01-12T12:07:49-05:00'
-author: Dries
-image: drupal/test-coverage-2026
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Testing
-featured: false
+image: drupal/test-coverage-2026
 published: true
-type: blog
-url: /when-backward-compatibility-became-an-advantage
+featured: false
 id: 6046
 ---
+
+# When backward compatibility became an advantage
 
 Twenty years ago, I argued passionately that [breaking backward compatibility](https://dri.es/backward-compatibility) was one of Drupal's core values:
 

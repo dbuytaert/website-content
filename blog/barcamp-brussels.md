@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/barcamp-brussels'
 title: 'Barcamp Brussels'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-04-10T11:00:00-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Photography
   - Barcamp
 published: true
-type: blog
-url: /barcamp-brussels
 id: 45
 ---
+
+# Barcamp Brussels
 
 On May 20, [Peter Forret](https://blog.forret.com/) is hosting the first Belgian Barcamp: [Barcamp Brussels](http://barcamp.org/BarCampBrusselsForTheImpatient). A [Barcamp](http://barcamp.org/) is an *ad-hoc un-conference driven by its attendees*. It is free and open for everyone but it has no visitors, only participants. Attendees must give a demo, a presentation, or help with one. It has no fixed agenda either. Things just happen, and in happening, cause other things to happen.
 

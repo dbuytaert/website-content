@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/fast-tracking-drupal-7-bug-fixes'
 title: 'Fast-tracking Drupal 7 bug fixes'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-05-26T06:49:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /fast-tracking-drupal-7-bug-fixes
 id: 2361
 ---
+
+# Fast-tracking Drupal 7 bug fixes
 
 The Drupal project has a policy of fixing bugs in the development release (currently, Drupal 8) and then backporting to stable releases (currently, Drupal 7 and Drupal 6). This policy is important, because it helps to prevent regressions from being introduced in future versions of Drupal.
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/into-the-glacier'
 title: 'Into the glacier'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-11-26T12:36:01-05:00'
-author: Dries
-image: iceland-winter-2021/into-the-glacier-1
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Travel
   - Iceland
+image: iceland-winter-2021/into-the-glacier-1
 published: true
-type: blog
-url: /into-the-glacier
 id: 5276
 ---
+
+# Into the glacier
 
 We rode in a converted German missile launcher over Langjökull, Iceland's second-largest glacier.
 

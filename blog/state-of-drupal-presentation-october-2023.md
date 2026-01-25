@@ -1,9 +1,13 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-october-2023'
 title: 'State of Drupal presentation (October 2023)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-10-24T06:14:40-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "The DrupalCon Europe 2023 keynote highlights driving growth by improving Drupal's usability, advocating for an Open Web, and strengthening marketing efforts."
-image: drupalcon-lille-2023/driesnote
 tags:
   - Drupal
   - 'State of Drupal'
@@ -12,11 +16,12 @@ tags:
   - Marketing
   - DrupalCon
   - France
+image: drupalcon-lille-2023/driesnote
 published: true
-type: blog
-url: /state-of-drupal-presentation-october-2023
 id: 5511
 ---
+
+# State of Drupal presentation (October 2023)
 
 Last week, approximately 1,300 Drupal enthusiasts came together in Lille, France for DrupalCon. In good tradition, I delivered [my State of Drupal keynote](https://dri.es/tag/state-of-drupal), commonly referred to as the "Driesnote". You can watch the [video of my keynote](https://youtu.be/LvH-bwSaOjA) or [download my slides](https://dri.es/files/state-of-drupal-october-2023.pdf) (264 MB).
 

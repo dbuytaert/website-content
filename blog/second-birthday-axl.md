@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/second-birthday-axl'
 title: 'Second birthday Axl'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-08-16T13:12:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Family
   - Axl
   - Birthday
 published: true
-type: blog
-url: /second-birthday-axl
 id: 936
 ---
+
+# Second birthday Axl
 
 [image eifel-2009/axl-two-years]
 

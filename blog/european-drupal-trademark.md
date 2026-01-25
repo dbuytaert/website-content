@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/european-drupal-trademark'
 title: 'European Drupal trademark'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-12-03T10:23:45-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Trademark
 published: true
-type: blog
-url: /european-drupal-trademark
 id: 1236
 ---
+
+# European Drupal trademark
 
 This week, after almost a year of waiting, the [European Office for Harmonization in the Internal Market (Trade Marks and Designs)](http://oami.europa.eu/), or OHIM, has finally approved my application for a [community trademark](https://en.wikipedia.org/wiki/Community_trade_mark). This means the "Drupal" word mark is now protected in all [Member States of the European Union](https://en.wikipedia.org/wiki/Member_states_of_the_European_Union).
 

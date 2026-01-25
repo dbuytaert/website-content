@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/hundred-million-spam-attempts-blocked'
 title: 'Hundred million spam attempts blocked'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-07-09T03:21:16-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Mollom
 published: true
-type: blog
-url: /hundred-million-spam-attempts-blocked
 id: 801
 ---
+
+# Hundred million spam attempts blocked
 
 [image mollom/100-million-milestone resize=false]
 

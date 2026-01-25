@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/the-house-and-the-town-square'
 title: 'The house and the town square'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-12-08T03:16:31-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Writing
   - 'Social media'
-featured: false
 published: true
-type: blog
-url: /the-house-and-the-town-square
+featured: false
 id: 5971
 ---
+
+# The house and the town square
 
 Elizabeth Spiers recently wrote [a great retrospective on early blogging](https://www.elizabethspiers.com/requiem-for-early-blogging/). Spiers was the founding editor of [Gawker](https://en.wikipedia.org/wiki/Gawker), a provocative blog focused on celebrities and the media industry. She left in 2003, more than a decade before the site went bankrupt after a lawsuit by Hulk Hogan, funded by Peter Thiel.
 

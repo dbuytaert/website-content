@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/the-evolution-of-acquia-product-strategy'
 title: "The evolution of Acquia's product strategy"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-10-11T16:26:19-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "The evolution of Acquia's product strategy from content management to data-driven customer journey management"
-image: acquia/acquia-roadmap-2017
 tags:
   - Acquia
   - Drupal
+image: acquia/acquia-roadmap-2017
 published: true
-type: blog
-url: /the-evolution-of-acquia-product-strategy
 id: 4046
 ---
+
+# The evolution of Acquia's product strategy
 
 Four months ago, I shared that [Acquia was on the verge of a shift](https://dri.es/acquia-first-decade-the-founding-story) equivalent to the decision to [launch Acquia Fields and Drupal Gardens in 2008](https://dri.es/acquia-2009-roadmap). As we entered Acquia's second decade, we outlined a goal to move from website management to data-driven customer journeys. Today, [Acquia announced two new products](https://www.acquia.com/about-us/newsroom/press-releases/acquia-delivers-solutions-data-driven-journey-orchestration-and) that support this mission: Acquia Journey and Acquia Digital Asset Manager (DAM).
 

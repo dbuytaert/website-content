@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/playing-for-change-amazing'
 title: 'Playing for Change = amazing'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-05-03T16:15:41-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Song
 published: true
-type: blog
-url: /playing-for-change-amazing
 id: 642
 ---
+
+# Playing for Change = amazing
 
 [video Us-TVg40ExM]
 

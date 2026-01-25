@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/hiking-the-great-wall'
 title: 'Hiking the Great Wall'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-09-08T12:44:35-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Travel
   - China
 published: true
-type: blog
-url: /hiking-the-great-wall
 id: 3226
 ---
+
+# Hiking the Great Wall
 
 Last weekend I had the opportunity to visit the Great Wall of China, the world's longest wall at 8,850 kilometers (5,500 miles). The Great Wall runs mostly through the mountains to take advantage of natural obstacles. As a result, it was quite the hike to get there but once on the Great Wall, the scenery was beyond sensational. It runs like a relentless serpentine over the horizon, evoking the image of a giant dragon.
 

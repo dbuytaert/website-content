@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/visiting-china-and-japan'
 title: 'Visiting China and Japan'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-09-03T13:55:35-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /visiting-china-and-japan
 id: 3216
 ---
+
+# Visiting China and Japan
 
 After spending the summer in Boston, I'm ready to fly across the world ... literally, as I'm leaving on a two week trip to China and Japan later this week. I'm very excited about it as I've never had the opportunity to see either of these countries.
 

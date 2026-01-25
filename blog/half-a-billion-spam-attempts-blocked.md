@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/half-a-billion-spam-attempts-blocked'
 title: 'Half a billion spam attempts blocked'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-08-08T07:42:32-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Mollom
 published: true
-type: blog
-url: /half-a-billion-spam-attempts-blocked
 id: 2471
 ---
+
+# Half a billion spam attempts blocked
 
 We've just reached another huge milestones at [Mollom](https://mollom.com): we blocked our 500,000,000th spam message!
 

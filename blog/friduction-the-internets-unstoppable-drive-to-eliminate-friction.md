@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/friduction-the-internets-unstoppable-drive-to-eliminate-friction'
 title: "Friduction: the internet's unstoppable drive to eliminate friction"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-05-18T19:02:03-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "On the internet's continuous drive to mitigate friction in user experiences and business models."
 tags:
   - Drupal
   - Acquia
   - 'Acquia Lift'
 published: true
-type: blog
-url: /friduction-the-internets-unstoppable-drive-to-eliminate-friction
 id: 3936
 ---
+
+# Friduction: the internet's unstoppable drive to eliminate friction
 
 [image blog/friduction]
 

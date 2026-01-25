@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/the-long-term-world-changing-promise-of-the-blockchain'
 title: 'The long-term, world-changing promise of the blockchain'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-01-04T12:06:42-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Blockchain
   - 'Open Source'
   - 'Open Web'
   - Trends
 published: true
-type: blog
-url: /the-long-term-world-changing-promise-of-the-blockchain
 id: 5121
 ---
+
+# The long-term, world-changing promise of the blockchain
 
 I enjoyed reading [Vitalik's 2020 endnotes](https://vitalik.ca/general/2020/12/28/endnotes.html). [Vitalik](https://en.wikipedia.org/wiki/Vitalik_Buterin) is one of the founders of [Ethereum](https://ethereum.org/), and one of the most interesting people in the world to follow right now.
 

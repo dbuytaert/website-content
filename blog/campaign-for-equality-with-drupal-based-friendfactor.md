@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/campaign-for-equality-with-drupal-based-friendfactor'
 title: 'Campaign for equality with Drupal-based Friendfactor'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-06-08T20:26:47-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
 published: true
-type: blog
-url: /campaign-for-equality-with-drupal-based-friendfactor
 id: 2386
 ---
+
+# Campaign for equality with Drupal-based Friendfactor
 
 Did you know that in the United States, you can only get married in 5 states if you're gay? I think that's insane.
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/draft-for-drupal-community-working-group-charter'
 title: 'Draft for Drupal Community Working Group charter'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-10-24T16:58:02-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Governance
 published: true
-type: blog
-url: /draft-for-drupal-community-working-group-charter
 id: 2811
 ---
+
+# Draft for Drupal Community Working Group charter
 
 *(This blog post is cross-posted in [the governance issue queue](https://www.drupal.org/project/issues/governance); see <https://www.drupal.org/node/1822314>. I disabled the comments on this blog post so that we can centralize all feedback in one place.)*
 

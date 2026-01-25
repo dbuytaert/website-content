@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/mollom-com-website-redesign'
 title: 'Mollom.com website redesign (Woot!)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-01-30T17:13:41-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Drupal sites'
   - Mollom
 published: true
-type: blog
-url: /mollom-com-website-redesign
 id: 2636
 ---
+
+# Mollom.com website redesign (Woot!)
 
 We're proud to present a new design for the [Mollom.com website](https://mollom.com).
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/unexpectedly-playing-kasparov'
 title: 'Unexpectedly playing Kasparov'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-10-22T06:35:37-04:00'
-author: Dries
-image: miscellaneous-2025/dries-buytaert-vs-garry-kasparov-1
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Chess
-featured: true
+image: miscellaneous-2025/dries-buytaert-vs-garry-kasparov-1
 published: true
-type: blog
-url: /unexpectedly-playing-kasparov
+featured: true
 id: 5901
 ---
+
+# Unexpectedly playing Kasparov
 
 I had just published my post about [having dinner with Garry Kasparov](https://dri.es/meeting-one-chess-master-mourning-another) when I got a call. Belgium's Prime Minister Bart De Wever had dropped out of a [simultaneous exhibition](https://en.wikipedia.org/wiki/Simultaneous_exhibition) where Kasparov would play 20 people at once. Did I want to take his seat?
 

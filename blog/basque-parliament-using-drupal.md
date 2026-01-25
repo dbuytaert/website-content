@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/basque-parliament-using-drupal'
 title: 'Basque Parliament using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-01-26T05:10:58-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Government
 published: true
-type: blog
-url: /basque-parliament-using-drupal
 id: 2136
 ---
+
+# Basque Parliament using Drupal
 
 [image drupal/basque-parliament]
 

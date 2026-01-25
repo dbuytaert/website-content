@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/pro-drupal-development-book-drupal6'
 title: 'Pro Drupal Development book for Drupal 6'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-09-17T04:16:24-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal books'
 published: true
-type: blog
-url: /pro-drupal-development-book-drupal6
 id: 505
 ---
+
+# Pro Drupal Development book for Drupal 6
 
 Less than two years ago, I wrote the foreword for the first edition of [Pro Drupal Development book](https://dri.es/pro-drupal-development-book-drupal5). What was missing at that time was a developer book for Drupal. By writing the first version of this book, John and Matt made an incredible contribution to Drupal's steady growth. The [book cracked the Amazon Top 100](https://dri.es/drupal-pro-book-cracks-amazon-top-100) and was [one of my personal highlights of 2007](https://dri.es/drupal-predictions-for-2008). More than 10,000 copies were sold! It still blows my mind to think that one book has given the world more than 10,000 new or greatly improved Drupal developers.
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/source-available-is-not-open-source-and-that-is-okay'
 title: "'Source available' is not open source (and that's okay)"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-12-09T17:22:43-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Source'
   - WordPress
   - Drupal
-featured: false
 published: true
-type: blog
-url: /source-available-is-not-open-source-and-that-is-okay
+featured: false
 id: 5976
 ---
+
+# 'Source available' is not open source (and that's okay)
 
 This week, Ruby on Rails creator David Heinemeier Hansson and WordPress founding developer Matt Mullenweg started fighting about what "open source" means. I've spent twenty years working on open source sustainability, and I have some thoughts.
 

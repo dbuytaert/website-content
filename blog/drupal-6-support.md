@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-6-support'
 title: 'Drupal 6 support'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-06-18T13:08:14-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-6-support
 id: 3171
 ---
+
+# Drupal 6 support
 
 The policy of the Drupal community is to support only the current and previous stable versions of Drupal. If we maintain that policy, Drupal 6 support would be dropped the day that Drupal 8 is released. We'd only support Drupal 8 and Drupal 7.
 

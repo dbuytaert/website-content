@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-called-me'
 title: 'Drupal called me'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-04-17T08:57:35-04:00'
-author: Dries
-image: press-photos/drupal-dev-days-leuven
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Artificial Intelligence'
+image: press-photos/drupal-dev-days-leuven
 published: true
-type: blog
-url: /drupal-called-me
 id: 5801
 ---
+
+# Drupal called me
 
 One of the most surprising moments at Drupal Dev Days Leuven? Getting a phone call from [Drupal](https://www.drupal.org/). Yes, really.
 

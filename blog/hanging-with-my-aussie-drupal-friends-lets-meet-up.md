@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/hanging-with-my-aussie-drupal-friends-lets-meet-up'
 title: "Hanging with my Aussie Drupal friends: let's meet up"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-01-21T17:39:48-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Kicking off a world tour to celebrate Drupal tenth anniversary'
 tags:
   - Drupal
   - Acquia
   - Australia
 published: true
-type: blog
-url: /hanging-with-my-aussie-drupal-friends-lets-meet-up
 id: 2116
 ---
+
+# Hanging with my Aussie Drupal friends: let's meet up
 
 To celebrate [Drupal's tenth anniversary](https://dri.es/happy-tenth-birtday-drupal) and [the release of Drupal 7](https://dri.es/drupal-7-released), I have decided to go on a Drupal tour, to celebrate, educate and spread the word on all things [Drupal](https://www.drupal.org). I'm kicking-off my Drupal tour with a trip to Australia.
 

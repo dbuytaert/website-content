@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/acquia-hosting-update-after-8-months-of-drupal-hosting'
 title: 'Acquia Hosting: an update after 8 months of Drupal hosting'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-05-14T08:52:46-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Statistics
   - Acquia
   - 'Acquia Cloud'
 published: true
-type: blog
-url: /acquia-hosting-update-after-8-months-of-drupal-hosting
 id: 1622
 ---
+
+# Acquia Hosting: an update after 8 months of Drupal hosting
 
 Roughly 8 months ago at DrupalCon Paris, [we launched Acquia Hosting](https://dri.es/acquia-hosting-now-available). In this blog post, I wanted to give a quick update on where we are after 8 months.
 

@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/niagara-falls-by-night'
 title: 'Niagara Falls by night'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-07-31T10:12:03-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Niagara Falls illumination: how the majestic Niagara Falls glow at night.'
-image: niagara-on-the-lake-2017/niagara-falls-by-night-1
 tags:
   - 'Cities by night'
   - Photography
   - Travel
   - Canada
+image: niagara-on-the-lake-2017/niagara-falls-by-night-1
 published: true
-type: blog
-url: /niagara-falls-by-night
 id: 3996
 ---
+
+# Niagara Falls by night
 
 [image niagara-on-the-lake-2017/niagara-falls-by-night-1]
 

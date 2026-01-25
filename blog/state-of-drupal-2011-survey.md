@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/state-of-drupal-2011-survey'
 title: 'State of Drupal 2011 survey'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-08-02T15:41:17-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /state-of-drupal-2011-survey
 id: 2461
 ---
+
+# State of Drupal 2011 survey
 
 The last time I organized a State of Drupal survey was in 2008. The results of the 2008 survey were instrumental in shaping Drupal 7 as well as directing the work of the Drupal Association on drupal.org.
 

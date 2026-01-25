@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/offering-more-inclusive-user-demographic-forms'
 title: 'Offering more inclusive user demographic forms'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-05-09T14:15:10-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Why we should provide demographic surveys that are more inclusive towards minority or underrepresented groups'
-image: blog/open-demographics-gender-identification-2018
 tags:
   - Drupal
   - 'Drupal Association'
   - Diversity
+image: blog/open-demographics-gender-identification-2018
 published: true
-type: blog
-url: /offering-more-inclusive-user-demographic-forms
 id: 4336
 ---
+
+# Offering more inclusive user demographic forms
 
 [image blog/open-demographics-gender-identification-2018 resize=false]
 

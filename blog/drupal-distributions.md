@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-distributions'
 title: 'Drupal distributions'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-10-30T11:28:03-05:00'
-author: Dries
-image: drupal/distributions
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal distributions'
-featured: true
+image: drupal/distributions
 published: true
-type: blog
-url: /drupal-distributions
+featured: true
 id: 173
 ---
+
+# Drupal distributions
 
 Drupal 5.0, the upcoming Drupal release, will have better support for *Drupal distributions*. Each distribution takes some set of Drupal themes and modules and packages them together with the Drupal core, along with custom installation steps, documentation, and so on. For example, one could create a distribution called "Drupal for Education"; it could have pre-configured roles and permissions for both teachers and students, and ship with additional modules that allow one to offer online courses and testing.
 

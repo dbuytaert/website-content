@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/update-on-drupal-association-executive-director-search'
 title: 'Update on Drupal Association Executive Director search'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-10-17T15:51:00-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /update-on-drupal-association-executive-director-search
 id: 2806
 ---
+
+# Update on Drupal Association Executive Director search
 
 In June, Jacob Redding, our Executive Director at the [Drupal Association](https://www.drupal.org/association), decided that it was time for him to transition out of the Executive Director role to pursue new challenges. Hence, the [Drupal Association Board of Directors](https://www.drupal.org/association/board) started [a search for a new Executive Director](https://dri.es/transitions-at-the-drupal-association). We have had some very promising conversations, which we feel will lead to a strong placement that will strengthen and grow the Drupal Association and the community.
 

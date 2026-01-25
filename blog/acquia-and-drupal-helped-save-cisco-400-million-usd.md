@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-and-drupal-helped-save-cisco-400-million-usd'
 title: 'Acquia and Drupal helped save Cisco $400 million USD'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-10-26T15:03:45-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-and-drupal-helped-save-cisco-400-million-usd
 id: 3471
 ---
+
+# Acquia and Drupal helped save Cisco $400 million USD
 
 At Acquia Engage, our annual customer and partner conference held last week, Cisco's Jamal Haider spoke about the tremendous savings ($400 million USD!) that came from building its support community on the Acquia Platform and Drupal. The company transformed its support organization into a valuable self-service portal for customers, leading to a 77% deflection rate for customer service calls.
 

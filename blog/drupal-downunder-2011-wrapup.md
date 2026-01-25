@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-downunder-2011-wrapup'
 title: 'Drupal Downunder wrapup'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-01-23T21:55:31-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Australia
 published: true
-type: blog
-url: /drupal-downunder-2011-wrapup
 id: 2121
 ---
+
+# Drupal Downunder wrapup
 
 I am currently in Australia, and I'm rapidly falling in love with it. The country is beautiful, and the people are great. In a way, it feels like Australia combines the best of Europe and the best of the United States. And oh yeah ... Aussies know how to have fun. Within 24 hours of setting foot in Australia, they had me converted in [Crocodile "Dries" Dundee](https://dri.es/album/australia-2011/crocodile-dries-dundee), or "Drundee" for short. Crocodile teeth included.
 

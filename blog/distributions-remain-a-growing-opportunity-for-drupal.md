@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/distributions-remain-a-growing-opportunity-for-drupal'
 title: 'Distributions remain a growing opportunity for Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-02-14T14:40:01-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Drupal distributions'
 published: true
-type: blog
-url: /distributions-remain-a-growing-opportunity-for-drupal
 id: 3881
 ---
+
+# Distributions remain a growing opportunity for Drupal
 
 Yesterday, after publishing a blog post about [Nasdaq's Drupal 8 distribution for investor relations websites](https://dri.es/how-nasdaq-offers-a-drupal-distribution-as-a-service), I realized I don't talk enough about "Drupal distributions" on my blog. The ability for anyone to take Drupal and build their own distribution is not only a powerful model, but something that is relatively unique to Drupal. To the best of my knowledge, Drupal is still the only content management system that actively encourages its community to build and share distributions.
 

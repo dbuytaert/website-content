@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/facebook-unfriends-australia'
 title: 'Facebook unfriends Australia'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-02-18T04:14:57-05:00'
-author: Dries
-image: blog/facebook-social-decay
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Web'
   - 'Social media'
+image: blog/facebook-social-decay
 published: true
-type: blog
-url: /facebook-unfriends-australia
 id: 5151
 ---
+
+# Facebook unfriends Australia
 
 [image blog/facebook-social-decay]
 

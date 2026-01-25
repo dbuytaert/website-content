@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/giving-back-and-making-money'
 title: 'Giving back and making money'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-08-31T12:29:31-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
   - 'Open Source'
 published: true
-type: blog
-url: /giving-back-and-making-money
 id: 3406
 ---
+
+# Giving back and making money
 
 It's not easy to build an Open Source software company.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/mercy-corps-using-drupal'
 title: 'Mercy Corps using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-01-27T07:18:21-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Non-profit
 published: true
-type: blog
-url: /mercy-corps-using-drupal
 id: 1382
 ---
+
+# Mercy Corps using Drupal
 
 [Mercycorps.org](http://mercycorps.org), the public website for Mercy Corps, is using [Drupal](https://www.drupal.org). Mercy Corps is a humanitarian aid agency headquartered in Portland that works in over 40 countries worldwide.
 

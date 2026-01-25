@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/a-new-chapter-in-my-role-at-acquia'
 title: 'A new chapter in my role at Acquia'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-01-09T02:38:32-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
   - 'Leadership updates'
-featured: false
 published: true
-type: blog
-url: /a-new-chapter-in-my-role-at-acquia
+featured: false
 id: 5736
 ---
+
+# A new chapter in my role at Acquia
 
 To our valued customers, partners, and the Drupal community.
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-8-now-ships-with-beta-to-beta-updates'
 title: 'Drupal 8 now ships with beta-to-beta updates'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-09-08T04:39:31-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-8-now-ships-with-beta-to-beta-updates
 id: 3416
 ---
+
+# Drupal 8 now ships with beta-to-beta updates
 
 We've just achieved a big and exciting milestone in Drupal 8's development: starting with [Drupal 8 beta 15](https://www.drupal.org/node/2563023), we are providing beta-to-beta upgrade paths. This will make it much easier to update Drupal 8 development sites between the current beta and future betas and release candidates.
 

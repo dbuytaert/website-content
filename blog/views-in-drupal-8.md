@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/views-in-drupal-8'
 title: 'Views in Drupal 8'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-09-26T14:12:34-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /views-in-drupal-8
 id: 2801
 ---
+
+# Views in Drupal 8
 
 [Views](https://www.drupal.org/project/views) is the #1 most-used contributed module, installed on nearly 70% of all Drupal websites. The ability for non-developers to create listings for pages, blocks, calendars, photo galleries, and more through a web interface, complete with developer-friendly features such as caching, is one of the primary differentiating factors that makes Drupal shine.
 

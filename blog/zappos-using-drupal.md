@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/zappos-using-drupal'
 title: 'Zappos using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-05-29T10:36:25-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
 published: true
-type: blog
-url: /zappos-using-drupal
 id: 662
 ---
+
+# Zappos using Drupal
 
 Long term Drupal developer [Jeff Eaton](http://jeff.viapositiva.net/) continues to inspire and as a result, [Zappos](http://zappos.com) started using [Drupal](https://www.drupal.org) on <http://about.zappos.com>. Zappos.com is an e-commerce website with more than $1 billion in revenue, and well known for [their legendary customer service and culture](https://www.bloomberg.com/businessweek/smallbiz/content/sep2008/sb20080916_288698.htm).
 

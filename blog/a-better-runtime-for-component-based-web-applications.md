@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/a-better-runtime-for-component-based-web-applications'
 title: 'A better runtime for component-based web applications'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-08-27T15:53:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Future web platforms need a runtime that isolates plugins in separate processes, enabling SaaS providers to safely run untrusted user code.'
 tags:
   - Drupal
   - WordPress
   - 'Software development'
-featured: true
 published: true
-type: blog
-url: /a-better-runtime-for-component-based-web-applications
+featured: true
 id: 3211
 ---
+
+# A better runtime for component-based web applications
 
 I have an idea but currently don't have the time or resources to work on it. So I'm sharing the idea here, hoping we can at least discuss it, and maybe someone will even feel inspired to take it on.
 

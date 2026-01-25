@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/if-a-note-can-be-public-it-should-be'
 title: 'If a note can be public, it should be'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-06-18T03:01:38-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'My site'
   - Writing
-featured: false
 published: true
-type: blog
-url: /if-a-note-can-be-public-it-should-be
+featured: false
 id: 5826
 ---
+
+# If a note can be public, it should be
 
 A few years ago, I quietly adopted a small principle that has changed how I think about publishing on my website. It's a principle I've been practicing for a while now, though I don't think I've ever written about it publicly.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/extract-speaker-notes-from-powerpoint-to-text'
 title: 'Extract speaker notes from PowerPoint to text'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-10-09T11:41:43-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: note
 tags:
   - Python
   - Automation
-featured: false
 published: true
-type: note
-url: /extract-speaker-notes-from-powerpoint-to-text
+featured: false
 id: 5891
 ---
+
+# Extract speaker notes from PowerPoint to text
 
 When working on presentations, I like to extract my speaker notes to review the flow and turn them into blog posts. I'm doing this right now for my DrupalCon Vienna talk. 
 

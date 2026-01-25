@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/osbc-wrapup-2009'
 title: 'OSBC wrapup'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-03-26T02:19:49-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /osbc-wrapup-2009
 id: 622
 ---
+
+# OSBC wrapup
 
 [OSBC](https://www.infoworld.com/event/osbc/), the Open Source Business Conference that took place in San Francisco this week, just wrapped up. I'm sitting here in my hotel room, trying to digest all of the conversations that I've had over the past days and process the presentations that I attended (as well as trying to stay awake a bit longer). If you put a few hundred people from different Open Source projects together in one venue, there is a lot to consume, and even more to talk about in the hallways.
 

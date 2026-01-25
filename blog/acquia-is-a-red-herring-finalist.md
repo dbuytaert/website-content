@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-is-a-red-herring-finalist'
 title: 'Acquia is a Red Herring finalist'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-04-23T05:32:30-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-is-a-red-herring-finalist
 id: 435
 ---
+
+# Acquia is a Red Herring finalist
 
 [image acquia/red-herring-finalist-100 resize=false]
 

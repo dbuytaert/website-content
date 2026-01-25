@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/canonical-urls'
 title: 'Canonical URLs'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-03-14T21:30:02-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'My site'
 published: true
-type: blog
-url: /canonical-urls
 id: 4261
 ---
+
+# Canonical URLs
 
 [Google Search Console](https://www.google.com/webmasters/) showed me that I have some duplicate content issues on <https://dri.es>, so I went ahead and tweaked my use of the `rel="canonical"` link tag.
 

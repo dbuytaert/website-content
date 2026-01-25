@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-7-the-cocoon-and-the-butterfly'
 title: 'Drupal 7, the cocoon and the butterfly'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-07-08T06:29:09-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Usability
-featured: true
 published: true
-type: blog
-url: /drupal-7-the-cocoon-and-the-butterfly
+featured: true
 id: 1751
 ---
+
+# Drupal 7, the cocoon and the butterfly
 
 There exists an interesting story about a man and a butterfly cocoon. It is about a man that found a cocoon, and brought it home to watch it turn into a butterfly. As the butterfly inside matured, it struggled to get out of its cocoon, but couldn't quite get free of it. One day, the man became tired of waiting and decided to help the butterfly. He removed the remaining bit of the cocoon. The butterfly was pleased, but it had a swollen body and small, wrinkled wings. As a result, the butterfly never succeeded in flying and spent its entire life crawling around.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/statistically-rigorous-java-performance-evaluation'
 title: 'Statistically Rigorous Java Performance Evaluation'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-08-01T06:31:50-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'PhD research'
   - Java
-featured: true
 published: true
-type: blog
-url: /statistically-rigorous-java-performance-evaluation
+featured: true
 id: 310
 ---
+
+# Statistically Rigorous Java Performance Evaluation
 
 The following paper has [also been accepted](https://dri.es/using-hpm-sampling-to-drive-dynamic-compilation) for publication at [OOPSLA 2007](http://oopsla.org): [Statistically Rigorous Java Performance Evaluation](https://dri.es/files/oopsla07-georges.pdf) (PDF, 1.6MB).
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-india-opportunity'
 title: 'Drupal + India = opportunity'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-11-15T22:07:14-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - India
 published: true
-type: blog
-url: /drupal-india-opportunity
 id: 2581
 ---
+
+# Drupal + India = opportunity
 
 Given that there live one billion people in India, many of which great engineers, one can only imagine what would happen if Drupal gained serious traction there. To that extend, I decided to make a trip to India, and spent last week there with [Jacob Singh](https://www.linkedin.com/in/jacobsingh) and [Ron Pruett](https://www.linkedin.com/pub/ronald-c-pruett-jr/1/a79/98b) from Acquia. The purpose of the trip was to increase awareness of Drupal in India in 3 ways:
 

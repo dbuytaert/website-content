@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-september-2009'
 title: 'State of Drupal presentation (September 2009)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-09-21T07:46:18-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
@@ -9,10 +14,10 @@ tags:
   - 'State of Drupal'
   - France
 published: true
-type: blog
-url: /state-of-drupal-presentation-september-2009
 id: 1026
 ---
+
+# State of Drupal presentation (September 2009)
 
 Two weeks ago at DrupalCon Paris, I gave my traditional state of Drupal presentation. The [video of the presentation is available from archive.org](http://archive.org/details/TheStateofDrupal), and you can [download a copy of my slides](https://dri.es/files/state-of-drupal-september-2009.pdf) (PDF, 8 MB) as well.
 

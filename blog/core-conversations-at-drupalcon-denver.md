@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/core-conversations-at-drupalcon-denver'
 title: 'Core Conversations at DrupalCon Denver'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-01-25T16:03:19-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - Invitations
 published: true
-type: blog
-url: /core-conversations-at-drupalcon-denver
 id: 2631
 ---
+
+# Core Conversations at DrupalCon Denver
 
 Like at previous DrupalCon's, I'm co-organizing a [Core Conversations track at DrupalCon Denver](https://denver2012.drupal.org/core-conversations).
 

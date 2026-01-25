@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/motogp-using-drupal'
 title: 'MotoGP using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-04-24T06:51:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
 published: true
-type: blog
-url: /motogp-using-drupal
 id: 436
 ---
+
+# MotoGP using Drupal
 
 [image drupal/motogp]
 

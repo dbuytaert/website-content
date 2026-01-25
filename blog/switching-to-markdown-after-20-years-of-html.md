@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/switching-to-markdown-after-20-years-of-html'
 title: 'Switching to Markdown after 20 years of HTML'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-08-20T07:33:13-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'My site'
   - Writing
   - Markdown
-featured: false
 published: true
-type: blog
-url: /switching-to-markdown-after-20-years-of-html
+featured: false
 id: 5871
 ---
+
+# Switching to Markdown after 20 years of HTML
 
 After nearly two decades and over 1,600 blog posts written in raw HTML, I've made a change that feels long overdue: I've switched to [Markdown](https://en.wikipedia.org/wiki/Markdown).
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/25-years-of-drupal-what-i-have-learned'
 title: "25 years of Drupal: what I've learned"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2026-01-14T23:06:33-05:00'
-author: Dries
-image: drupalcon-paris-2009/drupalcon-4
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Birthday
   - Leadership
-featured: true
+image: drupalcon-paris-2009/drupalcon-4
 published: true
-type: blog
-url: /25-years-of-drupal-what-i-have-learned
+featured: true
 id: 6056
 ---
+
+# 25 years of Drupal: what I've learned
 
 Drupal turns 25 today. A quarter of a century.
 

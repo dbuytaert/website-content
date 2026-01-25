@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-may-2015'
 title: 'State of Drupal presentation (May 2015)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-06-01T10:27:59-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon Los Angeles Driesnote presentation'
 tags:
   - Drupal
@@ -9,10 +14,10 @@ tags:
   - DrupalCon
   - 'Los Angeles'
 published: true
-type: blog
-url: /state-of-drupal-presentation-may-2015
 id: 3376
 ---
+
+# State of Drupal presentation (May 2015)
 
 I gave my State of Drupal presentation at DrupalCon Los Angeles in front of 3,000+ attendees. In case you didn't attend DrupalCon Los Angeles, you can [watch the recording of my keynote](https://www.youtube.com/watch?v=uNRtZDAS0xI) or [download a copy of my slides](https://dri.es/files/state-of-drupal-may-2015.pdf) (PDF, 77 MB).
 

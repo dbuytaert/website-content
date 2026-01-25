@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/to-pesos-or-to-posse'
 title: 'To PESOS or to POSSE?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-02-06T04:43:38-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Comparing two different approaches that help you take control back over your own data on the web.'
-image: blog/pesos-vs-posse
 tags:
   - 'Open Web'
   - POSSE
   - 'My site'
   - 'Social media'
-featured: true
+image: blog/pesos-vs-posse
 published: true
-type: blog
-url: /to-pesos-or-to-posse
+featured: true
 id: 4146
 ---
+
+# To PESOS or to POSSE?
 
 Yesterday I shared that [I uninstalled the Facebook application from my phone](https://dri.es/taking-control-of-my-data-and-social-media). My friend Simon Surtees was quick to text me: <q>I for one am pleased you have left Facebook. Less Cayman Island pictures!</q>. Not too fast Simon. I never said that I left Facebook or that I'd stop posting on Facebook. Plus, I'll have more Cayman Islands pictures to share soon. :)
 

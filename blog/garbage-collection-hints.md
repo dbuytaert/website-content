@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/garbage-collection-hints'
 title: 'Garbage collection hints'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-08-03T05:35:38-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'PhD research'
 published: true
-type: blog
-url: /garbage-collection-hints
 id: 119
 ---
+
+# Garbage collection hints
 
 Our paper [GCH: Hints for Triggering Garbage Collections](/files/hipeac06-paper.pdf) (PDF, 905KB) has been published in [Transactions on High-Performance Embedded Architectures and Compilers](https://www.springer.com/west/home/computer/lncs?SGWID=4-164-6-168361-0).
 

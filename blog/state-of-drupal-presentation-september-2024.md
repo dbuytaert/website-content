@@ -1,9 +1,13 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-september-2024'
 title: 'State of Drupal presentation (September 2024)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-09-30T12:51:33-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon Barcelona 2024 DriesNote presentation'
-image: drupalcon-barcelona-2024/driesnote
 tags:
   - 'Drupal Starshot'
   - Drupal
@@ -11,11 +15,12 @@ tags:
   - DrupalCon
   - 'Artificial Intelligence'
   - Barcelona
+image: drupalcon-barcelona-2024/driesnote
 published: true
-type: blog
-url: /state-of-drupal-presentation-september-2024
 id: 5686
 ---
+
+# State of Drupal presentation (September 2024)
 
 Approximately 1,100 Drupal enthusiasts gathered in Barcelona, Spain, last week for DrupalCon Europe. As per tradition, I delivered my [State of Drupal](https://dri.es/tag/state-of-drupal) keynote, often referred to as the "DriesNote".
 

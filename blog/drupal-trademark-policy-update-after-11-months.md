@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-trademark-policy-update-after-11-months'
 title: 'Drupal trademark policy: update after 11 months'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-07-26T09:53:48-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Trademark
 published: true
-type: blog
-url: /drupal-trademark-policy-update-after-11-months
 id: 1757
 ---
+
+# Drupal trademark policy: update after 11 months
 
 The [Drupal trademark policy](http://www.drupal.com/trademark) was launched officially about 11 months ago. As explained in [my blog post on the Drupal trademark policy](https://dri.es/drupal-trademark-policy-officially-available), the purpose of the policy is to create a level playing field for all. It allows everyone to use the trademark without administrative hassle, while at the same time keeping some control and oversight to avoid dilution and misuse. For example, we all know the scarcity of cool domain names, and how frustrating it can be for a local Drupal user group to find that *their* domain name has already been taken by a commercial entity. The trademark policy seeks to resolve this problem.
 

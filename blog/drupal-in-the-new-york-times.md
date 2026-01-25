@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-in-the-new-york-times'
 title: 'Drupal in the New York Times'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-03-03T14:09:30-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /drupal-in-the-new-york-times
 id: 608
 ---
+
+# Drupal in the New York Times
 
 The Drupal NYC group just hosted its sixth annual DrupalCamp on Saturday, February 28th, at the Polytechnic Institute of New York University in downtown Brooklyn. Held the weekend before DCDC, the event was attended by some seventy people and can boast of something not many DrupalCamps have – a [writeup](https://www.nytimes.com/2009/03/02/nyregion/02open.html?_r=2&ref=nyregion) in *The New York Times* (subscription may be required).
 

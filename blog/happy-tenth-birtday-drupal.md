@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/happy-tenth-birtday-drupal'
 title: 'Happy tenth birthday Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-01-15T10:07:21-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Looking back at 10 years of Drupal'
-image: drupal/happy-tenth-birthday
 tags:
   - Drupal
   - Birthday
+image: drupal/happy-tenth-birthday
 published: true
-type: blog
-url: /happy-tenth-birtday-drupal
 id: 2111
 ---
+
+# Happy tenth birthday Drupal
 
 [image drupal/happy-tenth-birthday resize=false]
 

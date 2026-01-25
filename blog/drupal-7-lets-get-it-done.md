@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-7-lets-get-it-done'
 title: "Drupal 7: let's get it done"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-09-23T09:40:18-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /drupal-7-lets-get-it-done
 id: 1836
 ---
+
+# Drupal 7: let's get it done
 
 Despite a great effort from many people, getting Drupal 7 released has proven to be a slow and arduous process. What remains is not trivial. The release of Drupal 7 is important to all of us, our businesses, and growing both adoption and our community, so something more must be done.
 

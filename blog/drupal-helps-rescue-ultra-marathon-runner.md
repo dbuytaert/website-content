@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-helps-rescue-ultra-marathon-runner'
 title: 'Drupal helps rescue ultra marathon runner'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-02-06T20:34:01-05:00'
-author: Dries
-image: drupal/ultra-trail-snowdonia-2018-1
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
+image: drupal/ultra-trail-snowdonia-2018-1
 published: true
-type: blog
-url: /drupal-helps-rescue-ultra-marathon-runner
 id: 4746
 ---
+
+# Drupal helps rescue ultra marathon runner
 
 I'm frequently sent examples of how Drupal has changed the lives of developers, business owners and end users. Recently, I received a very different story of how Drupal had helped in a rescue operation that saved a man's life.
 

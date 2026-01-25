@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/on-being-able-to-be-the-best'
 title: 'On being able to be the best'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-06-11T12:49:22-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /on-being-able-to-be-the-best
 id: 281
 ---
+
+# On being able to be the best
 
 What are your chances of becoming the world's foremost expert on a proprietary content management system (CMS) or on proprietary software in general? Unless you're working for the company owning the software and you get access to proprietary documents or high-level meetings within corporate walls, your chances are slim -– you simply won't get access to all the internal information.
 

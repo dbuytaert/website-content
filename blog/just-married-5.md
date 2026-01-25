@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/just-married-5'
 title: 'Just married'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-05-03T12:25:10-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Friends
 published: true
-type: blog
-url: /just-married-5
 id: 641
 ---
+
+# Just married
 
 [image wedding-hans-and-evelien-2009/walking-to-the-altar]
 

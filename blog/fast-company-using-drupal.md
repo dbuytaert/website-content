@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/fast-company-using-drupal'
 title: 'Fast Company using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-02-11T13:52:58-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - 'Mollom sites'
   - Publishing
 published: true
-type: blog
-url: /fast-company-using-drupal
 id: 401
 ---
+
+# Fast Company using Drupal
 
 [Fast Company](http://www.fastcompany.com), a well-known business magazine about innovation, technology, leadership, management, design, social responsibility, careers and work/life balance, is now using [Drupal](https://www.drupal.org).
 

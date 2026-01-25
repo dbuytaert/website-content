@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/farewell-megan-but-not-goodbye'
 title: 'Farewell Megan, but not goodbye'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-08-31T16:07:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "It's sad to see Megan go, both professionally and personally, but I'm grateful for the impact she has had on the Drupal project."
 tags:
   - Drupal
   - 'Drupal Association'
   - 'Leadership updates'
 published: true
-type: blog
-url: /farewell-megan-but-not-goodbye
 id: 4492
 ---
+
+# Farewell Megan, but not goodbye
 
 As you might have read on the Drupal Association blog, [Megan Sanicki, the Executive Director of the Drupal Association, has decided to move on](https://www.drupal.org/association/blog/until-we-meet-again-farewell-from-megan-sanicki).
 

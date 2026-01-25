@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/design-for-drupal-8'
 title: 'Design for Drupal 8'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-04-21T16:24:31-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /design-for-drupal-8
 id: 2311
 ---
+
+# Design for Drupal 8
 
 Attracting more designers to [Drupal](https://www.drupal.org) is an important goal in our quest to create a well-rounded ecosystem and to attract more users to Drupal. While we made some great improvements in Drupal 7, we need to do more of the same with Drupal 8, and then some. After conversations with various Drupal designers and front-end developers, I decided that adding a new theme to Drupal 8 core is a great way to attract more designers, both as end-users of Drupal but hopefully also as contributors to the project.
 

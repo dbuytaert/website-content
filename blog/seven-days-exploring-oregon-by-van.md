@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/seven-days-exploring-oregon-by-van'
 title: 'Seven days exploring Oregon by van'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-05-18T21:16:34-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Van life: Pacific City beaches, Willamette Valley vineyards, Smith Rock hiking and Bend camping.'
-image: oregon-2025/smith-rock-state-park
 tags:
   - Travel
   - Photography
   - 'Van life'
   - Portland
+image: oregon-2025/smith-rock-state-park
 published: true
-type: blog
-url: /seven-days-exploring-oregon-by-van
 id: 5811
 ---
+
+# Seven days exploring Oregon by van
 
 We landed late in Portland, slept off the jet lag, and had breakfast at a small coffee shop. The owner of the coffee shop challenged me to a game of chess. Any other day, I would have accepted. But after a year of waiting, not even [Magnus Carlsen](https://www.youtube.com/watch?v=eC1BAcOzHyY) himself could delay us from meeting our van.
 

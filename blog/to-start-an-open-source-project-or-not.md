@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/to-start-an-open-source-project-or-not'
 title: 'To start an Open Source project or not?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-10-07T07:16:06-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Open Source'
   - Leadership
-featured: true
 published: true
-type: blog
-url: /to-start-an-open-source-project-or-not
+featured: true
 id: 3056
 ---
+
+# To start an Open Source project or not?
 
 People ask me what it is like to be the head of a big Open Source project, and whether they should Open Source their project or not. I wanted to talk about that a bit more in this blog post so more people can pick up my answer.
 

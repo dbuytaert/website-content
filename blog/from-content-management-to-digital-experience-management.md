@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/from-content-management-to-digital-experience-management'
 title: 'From content management to digital experience management'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-01-15T09:06:55-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Trends
 published: true
-type: blog
-url: /from-content-management-to-digital-experience-management
 id: 3101
 ---
+
+# From content management to digital experience management
 
 Happy 13th birthday [Drupal](https://www.drupal.org)! It's hard to believe so much has happened with Drupal when it really just started as a little hobby project. I'm super proud of what we accomplished. After all these years, it continues to be a passion and labor of love to grow, maintain and sustain the larger community.
 

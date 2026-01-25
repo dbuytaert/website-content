@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/a-raid-for-web-content'
 title: 'A RAID for web content'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-12-16T07:22:03-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Digital preservation'
-featured: false
 published: true
-type: blog
-url: /a-raid-for-web-content
+featured: false
 id: 5996
 ---
+
+# A RAID for web content
 
 If you've worked with storage systems, you know [RAID](https://en.wikipedia.org/wiki/RAID): redundant arrays of independent disks. RAID doesn't try to make individual disks more reliable. It accepts that disks fail and designs around it.
 

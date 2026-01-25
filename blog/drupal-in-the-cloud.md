@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-in-the-cloud'
 title: 'Drupal in the cloud'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-04-16T04:53:09-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Why the cloud looks promising for Drupal hosting and scaling'
 tags:
   - Drupal
   - 'Web performance'
   - MySQL
 published: true
-type: blog
-url: /drupal-in-the-cloud
 id: 428
 ---
+
+# Drupal in the cloud
 
 It is not always easy to scale [Drupal](https://www.drupal.org) – not because Drupal sucks, but simply because scaling the LAMP stack (including Drupal) takes no small amount of skill. You need to buy the right hardware, install [load balancers](http://www.linuxvirtualserver.org/), setup MySQL servers in [primary-secondary mode](https://dri.es/scaling-with-mysql-replication), setup static file servers, setup web servers, get PHP working with [an opcode cache](https://en.wikipedia.org/wiki/PHP_accelerator), tie in a distributed memory object caching system like [memcached](http://www.danga.com/memcached/), integrate with a [content delivery network](https://www.akamai.com/), watch security advisories for every component in your system and configure and tune the hell out of everything.
 

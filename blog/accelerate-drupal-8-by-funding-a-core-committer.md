@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/accelerate-drupal-8-by-funding-a-core-committer'
 title: 'Accelerate Drupal 8 by funding a Core Committer'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-12-11T16:15:24-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Funding a Core Committer is one of the most impactful ways in which you can help accelerate Drupal 8's development."
-image: blog/fingers-on-keyboard
 tags:
   - Drupal
+image: blog/fingers-on-keyboard
 published: true
-type: blog
-url: /accelerate-drupal-8-by-funding-a-core-committer
 id: 4096
 ---
+
+# Accelerate Drupal 8 by funding a Core Committer
 
 [image blog/fingers-on-keyboard]
 

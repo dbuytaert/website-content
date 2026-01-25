@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-is-for-ambitious-site-builders'
 title: 'Drupal is for ambitious site builders'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-05-04T14:29:09-04:00'
-author: Dries
-image: drupalcon-portland-2022/drupal-is-for-ambitious-site-builders
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
-featured: true
+image: drupalcon-portland-2022/drupal-is-for-ambitious-site-builders
 published: true
-type: blog
-url: /drupal-is-for-ambitious-site-builders
+featured: true
 id: 5326
 ---
+
+# Drupal is for ambitious site builders
 
 With [Drupal 10 around the corner](https://dri.es/state-of-drupal-presentation-april-2022), it's time to start laying out Drupal 11's development roadmap.
 

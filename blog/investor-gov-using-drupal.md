@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/investor-gov-using-drupal'
 title: 'Investor.gov using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-03-21T14:23:22-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - WordPress
   - Government
 published: true
-type: blog
-url: /investor-gov-using-drupal
 id: 2261
 ---
+
+# Investor.gov using Drupal
 
 [Investor.gov](http://investor.gov) recently switched to [Drupal](https://www.drupal.org) from [WordPress](http://wordpress.org). The site houses a lot of information for investors.
 

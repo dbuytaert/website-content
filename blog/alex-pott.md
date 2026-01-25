@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/alex-pott'
 title: 'Alex Pott'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-04-02T01:45:45-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Branch maintainer'
-featured: false
 published: true
-type: blog
-url: /alex-pott
+featured: false
 id: 2946
 ---
+
+# Alex Pott
 
 I'm pleased to share that [Alex Pott](http://alex.vit-al.com) ([alexpott](https://www.drupal.org/user/157725) on [drupal.org](https://www.drupal.org)) has accepted my invitation to become another Drupal 8 co-maintainer, to help move along important issues as we gear up to head into code freeze and then release.
 

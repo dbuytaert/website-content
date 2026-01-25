@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/writing-for-longevity-versus-reach'
 title: 'Writing for longevity versus reach'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-10-02T17:56:55-04:00'
-author: Dries
-image: foocamp-2007/jeff-robbins-larry-page-and-evan-williams
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Writing
+image: foocamp-2007/jeff-robbins-larry-page-and-evan-williams
 published: true
-type: blog
-url: /writing-for-longevity-versus-reach
 id: 5881
 ---
+
+# Writing for longevity versus reach
 
 I see so much social media content vanish into an algorithmic black hole.
 

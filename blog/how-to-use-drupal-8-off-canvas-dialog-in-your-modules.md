@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/how-to-use-drupal-8-off-canvas-dialog-in-your-modules'
 title: "How to use Drupal 8's off-canvas dialog in your modules"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-03-12T20:42:54-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Learn how to use Drupal 8's off-canvas dialog to improve the user experience of your modules."
-image: drupal/drupal-off-canvas-dialog-tutorial
 tags:
   - Drupal
   - 'My site'
+image: drupal/drupal-off-canvas-dialog-tutorial
 published: true
-type: blog
-url: /how-to-use-drupal-8-off-canvas-dialog-in-your-modules
 id: 4241
 ---
+
+# How to use Drupal 8's off-canvas dialog in your modules
 
 The goal of this tutorial is to show how to use [Drupal 8.5's new off-canvas dialog](https://dri.es/drupal-8-5-0-released) in your own Drupal modules.
 

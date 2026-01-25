@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/relentlessly-eliminating-barriers-to-growth'
 title: 'Relentlessly eliminating barriers to growth'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-12-17T22:11:59-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Every organization has limitations that stunt long-term growth. There are important lessons that can be learned from how Amazon approaches eliminating its blockers for growth.'
 tags:
   - Drupal
   - Acquia
   - Amazon
-featured: true
 published: true
-type: blog
-url: /relentlessly-eliminating-barriers-to-growth
+featured: true
 id: 4686
 ---
+
+# Relentlessly eliminating barriers to growth
 
 In [my last blog post](https://dri.es/optimizing-your-product-strategy-for-the-short-and-long-term), I shared that when [Acquia](https://www.acquia.com) was a small startup, we were simultaneously focused on [finding product-market fit and eliminating barriers to future growth](https://dri.es/optimizing-your-product-strategy-for-the-short-and-long-term).
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/help-me-write-my-drupalcon-amsterdam-keynote'
 title: 'Help me write my DrupalCon Amsterdam keynote'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-08-11T08:56:05-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
 published: true
-type: blog
-url: /help-me-write-my-drupalcon-amsterdam-keynote
 id: 3186
 ---
+
+# Help me write my DrupalCon Amsterdam keynote
 
 [video 4DdiL6YbX7g]
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/the-freedom-to-leave-is-what-makes-customers-stay'
 title: 'The freedom to leave is what makes customers stay'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-12-03T08:57:50-05:00'
-author: Dries
-image: acquia/acquia-source-door
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Source'
-featured: false
+image: acquia/acquia-source-door
 published: true
-type: blog
-url: /the-freedom-to-leave-is-what-makes-customers-stay
+featured: false
 id: 5961
 ---
+
+# The freedom to leave is what makes customers stay
 
 [image acquia/acquia-source-door lazy=false priority=true]
 

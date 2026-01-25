@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupalcon-barcelona-wrapup'
 title: 'DrupalCon Barcelona wrapup'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-09-24T06:27:33-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - NowPublic
   - DrupalCon
   - 'Drupal Association'
 published: true
-type: blog
-url: /drupalcon-barcelona-wrapup
 id: 327
 ---
+
+# DrupalCon Barcelona wrapup
 
 [image drupalcon-barcelona-2007/departure]
 

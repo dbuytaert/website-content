@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-trademark-policy-forthcoming'
 title: 'Drupal trademark policy forthcoming'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-11-22T08:39:53-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
   - Trademark
 published: true
-type: blog
-url: /drupal-trademark-policy-forthcoming
 id: 359
 ---
+
+# Drupal trademark policy forthcoming
 
 As the holder of the Drupal trademark, I've recently decided to modify the footer on [drupal.org](https://www.drupal.org) to state the fact clearly by including the wording *"Drupal is a Registered Trademark of Dries Buytaert"*; this is considered a common trademark practice and has been advised to me by my lawyers to clear any potential confusion.
 

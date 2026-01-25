@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/analyzing-my-photography-history'
 title: 'Analyzing my photography history'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-06-13T04:49:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How I programmatically parse EXIF data to analyze my photography behavior and history.'
-image: blog/camera-history-2000-to-2022
 tags:
   - Photography
   - 'My site'
+image: blog/camera-history-2000-to-2022
 published: true
-type: blog
-url: /analyzing-my-photography-history
 id: 5341
 ---
+
+# Analyzing my photography history
 
 [image miscellaneous-2022/hello]
 

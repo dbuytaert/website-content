@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/growing-pains'
 title: 'Growing pains'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-06-27T04:02:21-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /growing-pains
 id: 290
 ---
+
+# Growing pains
 
 Growing is learning to take on more and bigger problems. When you were a 4-year old kid, you basically had no problems, except maybe that you didn't feel like eating all those potatoes on your plate. Similarly, newborn open source projects have no problems either.
 

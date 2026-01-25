@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupalcon-san-francisco-wrapup'
 title: 'DrupalCon San Francisco wrapup'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-04-28T09:20:32-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
   - Acquia
 published: true
-type: blog
-url: /drupalcon-san-francisco-wrapup
 id: 1601
 ---
+
+# DrupalCon San Francisco wrapup
 
 DrupalCon San Francisco ended a few days ago, so once again I'm sitting here with post-DrupalCon blues, trying to wrap my head around what just happened, digging out my backlog of work, and rediscovering my usual rhythm. It happens to me every time, and it is a sign of having had a great time. In short, DrupalCon San Francisco was 'fantastic', a word I use sparingly. It is best expressed in numbers, like [Matt Cheney](https://rychosis.org/) of [Chapter Three](http://www.chapterthree.com) did in his closing session:
 

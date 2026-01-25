@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/layouts-for-drupal-8'
 title: 'Layouts for Drupal 8'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-03-02T11:41:13-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /layouts-for-drupal-8
 id: 2656
 ---
+
+# Layouts for Drupal 8
 
 At the [Web Services and Context Core initiative sprint](https://dri.es/the-future-is-a-restful-drupal) earlier this month, we attempted to re-scope the initiative so that it was more manageable and less daunting. We decided to spin off one of the major components of what it was trying to tackle into its own separate initiative, the Layout initiative.
 

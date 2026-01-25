@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-11-released'
 title: 'Drupal 11 released'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-08-02T10:06:22-04:00'
-author: Dries
-image: drupal/drupal-11-launch
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
+image: drupal/drupal-11-launch
 published: true
-type: blog
-url: /drupal-11-released
 id: 5661
 ---
+
+# Drupal 11 released
 
 [image drupal/drupal-11-launch schema=false]
 

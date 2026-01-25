@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-database-interaction'
 title: "Drupal's database interaction"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-06-23T07:41:46-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Web performance'
   - Statistics
   - MySQL
 published: true
-type: blog
-url: /drupal-database-interaction
 id: 96
 ---
+
+# Drupal's database interaction
 
 I used [XDebug](https://xdebug.org/) to profile the behavior of [Drupal](https://www.drupal.org/), and to study the interaction with the database server. I aggregated the profile information of 100 requests to the main page using the "Apache, mod\_php, PHP4, APC" configuration used for [previous benchmark experiments](/drupal-webserver-configurations-compared). More information about my experimental setup is available at [that page](/drupal-webserver-configurations-compared). XDebug generates a trace file with all the profile information which I visualized using [KCacheGrind](http://kcachegrind.sourceforge.net/cgi-bin/show.cgi/KcacheGrindIndex).
 

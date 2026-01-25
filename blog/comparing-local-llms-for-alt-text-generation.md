@@ -1,21 +1,26 @@
 ---
+url: 'https://dri.es/comparing-local-llms-for-alt-text-generation'
 title: 'Comparing local large language models for alt-text generation'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-02-03T11:45:10-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'I tested 12 LLMs – 10 running locally and 2 cloud-based – to assess their accuracy in generating alt-text for images.'
-image: italy-2022/santa-maddalena-church-in-funes-2
 tags:
   - Accessibility
   - 'Artificial Intelligence'
   - 'My site'
   - Alt-text
   - Python
-featured: true
+image: italy-2022/santa-maddalena-church-in-funes-2
 published: true
-type: blog
-url: /comparing-local-llms-for-alt-text-generation
+featured: true
 id: 5751
 ---
+
+# Comparing local large language models for alt-text generation
 
 I have [10,000 photos](https://dri.es/photos) on my website. About 9,000 have no `alt`-text. I'm not proud of that, and it has bothered me for a long time.
 

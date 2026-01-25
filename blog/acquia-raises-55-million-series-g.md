@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-raises-55-million-series-g'
 title: 'Acquia raises $55 million series G'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-09-28T08:59:02-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-raises-55-million-series-g
 id: 3441
 ---
+
+# Acquia raises $55 million series G
 
 Today, we're excited to announce that [Acquia](https://www.acquia.com) has closed a $55 million financing round, bringing total investment in the company to $188.6 million. Led by new investor [Centerview Capital Technology](https://www.centerviewcapital.com/technology/), the round includes existing investors [New Enterprise Associates (NEA)](http://www.nea.com) and [Split Rock Partners](http://splitrock.com).
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/announcing-acquia-cloud-site-factory'
 title: 'Announcing Acquia Cloud Site Factory'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-07-30T10:13:23-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Acquia Cloud'
   - Acquia
 published: true
-type: blog
-url: /announcing-acquia-cloud-site-factory
 id: 3006
 ---
+
+# Announcing Acquia Cloud Site Factory
 
 Many organizations have long had the need to maintain multiple websites as part of their digital marketing and enablement efforts. But when the number of sites tallied across different products and services, geographic regions, departments, and clients for just a single organization grows into the hundreds or thousands, it's easy to see why managing all of these sites with agility, velocity and freedom has long been elusive.
 

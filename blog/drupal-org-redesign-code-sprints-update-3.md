@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-org-redesign-code-sprints-update-3'
 title: 'Drupal.org redesign code sprints: update 3'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-05-12T07:17:43-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
   - Boston
 published: true
-type: blog
-url: /drupal-org-redesign-code-sprints-update-3
 id: 648
 ---
+
+# Drupal.org redesign code sprints: update 3
 
 Ever wanted to see the [Media Lab](https://www.media.mit.edu/) at [MIT](http://web.mit.edu)? An almost mythical place where *"...the future is lived, not imagined ... a world where radical technology advances are taken for granted, ..."* and technology is designed *"... for people to create a better future".*
 

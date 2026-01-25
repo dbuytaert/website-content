@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/starbucks'
 title: Starbucks
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-10-24T01:57:05-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Portland
 published: true
-type: blog
-url: /starbucks
 id: 169
 ---
+
+# Starbucks
 
 [image portland-2006/starbucks]
 

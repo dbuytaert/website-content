@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/belgian-prime-minister-using-drupal'
 title: 'Belgian Prime Minister using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-03-20T16:16:37-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Belgium
   - Government
 published: true
-type: blog
-url: /belgian-prime-minister-using-drupal
 id: 417
 ---
+
+# Belgian Prime Minister using Drupal
 
 [image drupal/prime-minister-belgium-2008]
 

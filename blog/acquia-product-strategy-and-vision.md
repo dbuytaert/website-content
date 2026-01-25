@@ -1,9 +1,13 @@
 ---
+url: 'https://dri.es/acquia-product-strategy-and-vision'
 title: 'Acquia product strategy and vision'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-01-24T07:17:35-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Acquia's vision is to help enterprises standardize on Drupal with distributions cloud services and network support."
-image: acquia/acquia-strategy-product-vision-2010-3
 tags:
   - Drupal
   - Acquia
@@ -11,12 +15,13 @@ tags:
   - 'Acquia Cloud'
   - 'Drupal Gardens'
   - 'Drupal Commons'
-featured: true
+image: acquia/acquia-strategy-product-vision-2010-3
 published: true
-type: blog
-url: /acquia-product-strategy-and-vision
+featured: true
 id: 2131
 ---
+
+# Acquia product strategy and vision
 
 In my [Acquia 2010 retrospective](https://dri.es/acquia-retrospective-2010), I promised to write a bit more about Acquia's product strategy. This blog post provides a high level view of the vision that we've been working towards for the last 3 years, and explains how [Acquia](https://www.acquia.com) can help simplify your web strategy.
 

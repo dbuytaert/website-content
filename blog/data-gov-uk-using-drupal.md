@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/data-gov-uk-using-drupal'
 title: 'Data.gov.uk using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-01-21T08:41:51-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
@@ -9,10 +14,10 @@ tags:
   - 'United Kingdom'
   - Government
 published: true
-type: blog
-url: /data-gov-uk-using-drupal
 id: 1361
 ---
+
+# Data.gov.uk using Drupal
 
 Web founder [Sir Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) and [Professor Nigel Shadbolt](https://en.wikipedia.org/wiki/Nigel_Shadbolt) unveiled [Data.gov.uk](https://data.gov.uk/) today. The new website offers public sector data, ranging from traffic statistics to crime figures, for private or commercial use. It is designed to be similar to the [Obama administration's data.gov project](http://data.gov), run by Vivek Kundra, Chief Information Officer in the US.
 

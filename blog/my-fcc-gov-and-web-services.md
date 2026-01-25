@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/my-fcc-gov-and-web-services'
 title: 'My.FCC.gov and web services'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-09-19T10:21:17-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Government
-featured: false
 published: true
-type: blog
-url: /my-fcc-gov-and-web-services
+featured: false
 id: 2491
 ---
+
+# My.FCC.gov and web services
 
 If you watch the stream of new modules going through drupal.org, it's easy to miss those with special meaning. So you might not have noticed the appearance of [Content API](https://www.drupal.org/project/contentapi), an add-on to the [Services module](https://www.drupal.org/project/services). The module was born of efforts by the [U.S. Federal Communications Commission](http://fcc.gov) (FCC) to make 350,000 of its documents more available to the public, as part of a site that will enter public beta in a few weeks, [My.FCC.gov](http://my.fcc.gov). Like many government agencies, the FCC has been enthusiastic about Drupal lately, attracting [a detailed write-up about its "reboot as an open government platform" on O'Reilly Radar](http://radar.oreilly.com/2011/04/fcc-website-reboot-open-source-cloud.html) last April. (FCC.gov also uses web services extensively, although without benefit of the Content API module.)
 

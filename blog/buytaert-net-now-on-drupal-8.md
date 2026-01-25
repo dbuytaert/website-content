@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/buytaert-net-now-on-drupal-8'
 title: 'Buytaert.net now on Drupal 8'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-12-16T09:39:20-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How I finally upgraded my personal blog from Drupal 7 to Drupal 8.'
 tags:
   - Drupal
   - 'My site'
 published: true
-type: blog
-url: /buytaert-net-now-on-drupal-8
 id: 3836
 ---
+
+# Buytaert.net now on Drupal 8
 
 Some of my readers may have noticed that I recently upgraded this blog from Drupal 7 to Drupal 8. You might be wondering why it took me so long, and the truth is that while I love working on my site, [it's hard to justify spending much time on it](https://dri.es/on-the-hard-choices-we-make-every-day).
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-upgrades-tools-and-workflow'
 title: 'Drupal upgrades: tools and workflow'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-06-10T03:19:07-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: note
 tags:
   - Drupal
 published: true
-type: note
-url: /drupal-upgrades-tools-and-workflow
 id: 5631
 ---
+
+# Drupal upgrades: tools and workflow
 
 When a new major version of Drupal is released, custom code often requires updates to align with API changes, including the removal of deprecated APIs.
 

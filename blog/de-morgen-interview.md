@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/de-morgen-interview'
 title: 'De Morgen interview'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-03-17T17:10:28-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Press
   - 'Bill Gates'
 published: true
-type: blog
-url: /de-morgen-interview
 id: 235
 ---
+
+# De Morgen interview
 
 On March 15, Flemish newspaper [De Morgen](https://www.demorgen.be/) published an article about the fact that [Drupal](https://www.drupal.org/) is being used by various candidates in the 2008 race for the US presidency.
 

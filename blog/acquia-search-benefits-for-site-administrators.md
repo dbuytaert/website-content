@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-search-benefits-for-site-administrators'
 title: 'Acquia Search: benefits for site administrators'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-07-01T06:33:13-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Search'
 published: true
-type: blog
-url: /acquia-search-benefits-for-site-administrators
 id: 731
 ---
+
+# Acquia Search: benefits for site administrators
 
 Yesterday [we took the beta-wraps off of Acquia Search](https://dri.es/acquia-search-available-commercially), and I followed up with a post about [why Acquia Search matters for site visitors](https://dri.es/acquia-search-benefits-for-visitors). We're still having some good discussions in the comments and the Twitter-sphere, but today I want to talk a bit more about the technical details. How does Acquia Search work, what does our infrastructure look like, and why is it a great deal for site owners?
 

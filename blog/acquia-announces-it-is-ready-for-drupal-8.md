@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-announces-it-is-ready-for-drupal-8'
 title: 'Acquia announces it is ready for Drupal 8'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-07-13T09:02:52-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-announces-it-is-ready-for-drupal-8
 id: 3396
 ---
+
+# Acquia announces it is ready for Drupal 8
 
 I'm excited to announce that starting today, [Acquia is announcing we're ready to fully support our customers with Drupal 8](https://www.acquia.com/about-us/newsroom/press-releases/acquia-launches-next-generation-digital-experience-platform-july-13). This means our professional services, our support, our product engineering, our cloud services ... the entire company is ready to help anyone with Drupal 8 starting today.
 

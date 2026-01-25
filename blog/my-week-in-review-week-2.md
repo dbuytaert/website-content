@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/my-week-in-review-week-2'
 title: 'My week in review: week #2'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-03-26T14:14:34-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
 published: true
-type: blog
-url: /my-week-in-review-week-2
 id: 2276
 ---
+
+# My week in review: week #2
 
 I'm tracking my work related activities because people often ask me what my days look like. For one month, I'm posting a weekly summary of my work week (e.g. Monday - Friday, not including weekend work). I'll post four summaries in total as that should give people a good sense. This is the summary of the second week. You can compare it with [the summary of the first week](https://dri.es/my-week-in-review-week-1), if you like.
 

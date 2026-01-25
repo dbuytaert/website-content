@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-2009-roadmap'
 title: 'Acquia 2009 roadmap'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-02-20T10:28:56-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Search'
 published: true
-type: blog
-url: /acquia-2009-roadmap
 id: 603
 ---
+
+# Acquia 2009 roadmap
 
 Now that the [Acquia Network](https://www.acquia.com/acquia-subscription-pricing-old) and [Acquia Drupal](https://dev.acquia.com/downloads) are available, it is a good time to provide more visibility into where [Acquia](https://www.acquia.com) is headed. Just like we did early on in Acquia's life when we announced "Carbon" (now called "Acquia Drupal") and "Spokes" (now called the "Acquia Network"), we'd like to provide some transparency and visibility in our product strategy for 2009. This post provides a window into those plans.
 

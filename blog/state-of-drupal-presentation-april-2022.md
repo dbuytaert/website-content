@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-april-2022'
 title: 'State of Drupal presentation (April 2022)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-05-03T11:15:07-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon North America 2022 Driesnote presentation'
-image: drupalcon-portland-2022/driesnote
 tags:
   - Drupal
   - DrupalCon
   - 'State of Drupal'
   - Portland
+image: drupalcon-portland-2022/driesnote
 published: true
-type: blog
-url: /state-of-drupal-presentation-april-2022
 id: 5321
 ---
+
+# State of Drupal presentation (April 2022)
 
 Last week, 1,300 Drupalists gathered in Portland, Oregon for DrupalCon North America. It was the first in-person DrupalCon in more than two years. I can't tell you how amazing it was to see everyone face-to-face.
 

@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/drupal-commitment-to-accessibility'
 title: "Drupal's commitment to accessibility"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-12-05T05:56:22-05:00'
-author: Dries
-image: blog/figure-opening-doors
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - WordPress
   - Accessibility
   - Diversity
-featured: true
+image: blog/figure-opening-doors
 published: true
-type: blog
-url: /drupal-commitment-to-accessibility
+featured: true
 id: 4656
 ---
+
+# Drupal's commitment to accessibility
 
 [image blog/figure-opening-doors]
 

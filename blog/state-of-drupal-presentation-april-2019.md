@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-april-2019'
 title: 'State of Drupal presentation (April 2019)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-04-15T10:38:25-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon Seattle Driesnote presentation'
-image: drupal/drupal-8-timeline-april-2019
 tags:
   - Drupal
   - 'State of Drupal'
   - DrupalCon
   - Seattle
+image: drupal/drupal-8-timeline-april-2019
 published: true
-type: blog
-url: /state-of-drupal-presentation-april-2019
 id: 4826
 ---
+
+# State of Drupal presentation (April 2019)
 
 Last week, many Drupalists gathered in Seattle for DrupalCon North America, for what was the largest DrupalCon in history.
 

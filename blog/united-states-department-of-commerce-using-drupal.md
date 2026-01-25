@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/united-states-department-of-commerce-using-drupal'
 title: 'U.S. Department of Commerce using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-05-17T14:42:39-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Government
 published: true
-type: blog
-url: /united-states-department-of-commerce-using-drupal
 id: 1642
 ---
+
+# U.S. Department of Commerce using Drupal
 
 The [United States Department of Commerce](http://commerce.gov) just relaunched their website on [Drupal](https://www.drupal.org). Check out their new website at <http://commerce.gov>.
 

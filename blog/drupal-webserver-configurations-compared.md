@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-webserver-configurations-compared'
 title: 'Drupal webserver configurations compared'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-06-08T06:28:50-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Web performance'
   - Statistics
 published: true
-type: blog
-url: /drupal-webserver-configurations-compared
 id: 89
 ---
+
+# Drupal webserver configurations compared
 
 Opinions on the best webserver configuration for [Drupal](https://www.drupal.org/) vary from one user to the next. Thus, I set out to compare and document the performance of difference combinations of webserver options.
 

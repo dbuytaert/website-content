@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/reducing-risk-in-the-drupal-8-release-schedule'
 title: 'Reducing risk in the Drupal 8 release schedule'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-05-08T21:22:40-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /reducing-risk-in-the-drupal-8-release-schedule
 id: 2951
 ---
+
+# Reducing risk in the Drupal 8 release schedule
 
 Post-Drupal 8's feature freeze, we find ourselves in a similar state as we did after Drupal 7's feature freeze:
 

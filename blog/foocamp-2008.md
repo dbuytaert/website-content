@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/foocamp-2008'
 title: FooCamp
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-07-16T07:43:28-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'San Francisco'
 published: true
-type: blog
-url: /foocamp-2008
 id: 476
 ---
+
+# FooCamp
 
 Last week was crazy. Six airplanes, three time zones, four different hotels, two rental cars, an Acquia Board meeting, two nights in a tent and ultimately, my mind blown at FooCamp.
 

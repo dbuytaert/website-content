@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/mollom-launch-coverage'
 title: 'Mollom launch coverage'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-09-27T15:05:18-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Joomla
   - WordPress
   - Mollom
 published: true
-type: blog
-url: /mollom-launch-coverage
 id: 512
 ---
+
+# Mollom launch coverage
 
 It is now five days after [Mollom came out of beta](https://dri.es/mollom-out-of-beta) and some of the dust has settled, so I figured I'd give you an update on what people wrote. Here is a selected subset of some of the coverage we got:
 

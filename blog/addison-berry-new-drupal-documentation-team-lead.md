@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/addison-berry-new-drupal-documentation-team-lead'
 title: 'Addison Berry new Drupal documentation team lead'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-10-10T14:02:07-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /addison-berry-new-drupal-documentation-team-lead
 id: 517
 ---
+
+# Addison Berry new Drupal documentation team lead
 
 For the past few years the Drupal Documentation Team has been led by [Steven Peck](https://www.drupal.org/user/5195) (sepeck). Steven was the first person to take on this role, and he has done a great job. Not only has he grown the [documentation team](https://www.drupal.org/contribute/documentation) to include a lot of talented and hard-working volunteer writers, he has overseen the restructuring and reorganization of [Drupal.org's documentation handbooks](https://www.drupal.org/handbooks), greatly improving their structure and accessibility. Thank you Steven for the great work!
 

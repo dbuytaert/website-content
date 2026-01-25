@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/rdfa-and-drupal'
 title: 'RDFa and Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-03-16T13:29:32-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Semantic web'
 published: true
-type: blog
-url: /rdfa-and-drupal
 id: 618
 ---
+
+# RDFa and Drupal
 
 Last year, I wrote a blog post title [Drupal, the semantic web and search](https://dri.es/drupal-the-semantic-web-and-search) that outlined how search engines like Google and Yahoo! are getting increasingly hungry for *structured data*. It is no surprise, because if they could built a global, vertical search engine that, say, searches all products online, or one that searches all job applications online, they could disintermediate many existing companies.
 

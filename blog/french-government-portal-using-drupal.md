@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/french-government-portal-using-drupal'
 title: 'French government portal using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-06-05T02:36:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - France
   - Government
 published: true
-type: blog
-url: /french-government-portal-using-drupal
 id: 669
 ---
+
+# French government portal using Drupal
 
 After the [French Ministry for Health, Youth and Sport using Drupal started using](https://dri.es/french-ministry-for-health-youth-and-sport-using-drupal), the French government switched [its official government portal](http://www.gouvernement.fr) to [Drupal](https://www.drupal.org)! Check it out at <http://www.gouvernement.fr>. *Impressionnant!*
 

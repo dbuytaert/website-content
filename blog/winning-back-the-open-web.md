@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/winning-back-the-open-web'
 title: 'Winning back the Open Web'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-06-23T04:58:40-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Walled gardens dominate because their massive data collection lets them deliver superior user experiences. To win back the open web, we need to build alternatives that respect users, embrace open standards, and still feel unmistakably better to use.'
 tags:
   - 'Open Web'
   - Privacy
   - Publishing
-featured: true
 published: true
-type: blog
-url: /winning-back-the-open-web
+featured: true
 id: 3386
 ---
+
+# Winning back the Open Web
 
 The web was born as an open, decentralized platform allowing different people in the world to access and share information. I got online in the mid-nineties when there were maybe 100,000 websites in the world. Google didn't exist yet and Steve Jobs had not yet returned to Apple. I remember the web as an "Open Web" where no one was really in control and everyone was able to participate in building it. Fast forward twenty years, and the web has taken the world by storm. We now have a hundreds of millions of websites. Look beyond the numbers and we see another shift: the rise of a handful of corporate "Walled Gardens" like Facebook, Google and Apple that are becoming both the entry point and the gatekeepers of the web. Their dominance has given rise to major concerns.
 

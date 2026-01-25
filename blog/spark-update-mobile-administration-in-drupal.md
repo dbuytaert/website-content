@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/spark-update-mobile-administration-in-drupal'
 title: 'Spark update: mobile administration in Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-08-13T21:37:35-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Spark distribution'
 published: true
-type: blog
-url: /spark-update-mobile-administration-in-drupal
 id: 2736
 ---
+
+# Spark update: mobile administration in Drupal
 
 Today, I'd like to share an HTML/JS prototype we've created for a mobile toolbar and dashboard for [Drupal](https://www.drupal.org/) that we hope to include as part of the [Spark distribution](https://www.drupal.org/project/spark) and then propose for Drupal 8 core as part of the [Drupal 8 Mobile Initiaitve](https://groups.drupal.org/mobile/drupal-8).
 

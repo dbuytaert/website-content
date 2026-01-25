@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/emmys-using-drupal'
 title: 'Emmys using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-07-15T06:17:59-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Entertainment
 published: true
-type: blog
-url: /emmys-using-drupal
 id: 841
 ---
+
+# Emmys using Drupal
 
 Glamour, glitter, and champagne all around because Drupal has gone Hollywood. The [Emmys website](http://emmys.com) has just switched to [Drupal](https://www.drupal.org) in preparation for the announcement of nominees tomorrow, and the subsequent annual Emmy award ceremony later this year. The Emmys are annual awards to outstanding television programs and performers.
 

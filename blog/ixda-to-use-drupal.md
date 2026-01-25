@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/ixda-to-use-drupal'
 title: 'IxDA to use Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-03-19T17:13:36-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Usability
 published: true
-type: blog
-url: /ixda-to-use-drupal
 id: 621
 ---
+
+# IxDA to use Drupal
 
 The [Interaction Design Association (IxDA)](http://www.ixda.org), representing an international community of interaction designers, has recently [announced plans](http://board.ixda.org/node/11) to re-launch the [ixda.org](http://www.ixda.org) website using [Drupal](https://www.drupal.org). For those that don't know, the IxDA is a 10,000-strong organization of design professionals. The IxDA supports almost 70 local groups, hosts conferences, and provides education and outreach in support of its mission to advance interaction design. It speaks well of our project that the IxDA selected it as the base for its new site, and it marks a tremendous opportunity to attract more design professionals to Drupal, to advance Drupal's usability, and to get many more themes developed. This could be big.
 

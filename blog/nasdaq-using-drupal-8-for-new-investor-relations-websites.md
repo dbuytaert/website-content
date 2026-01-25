@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/nasdaq-using-drupal-8-for-new-investor-relations-websites'
 title: 'Nasdaq using Drupal 8 for new Investor Relations websites'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-10-19T10:59:15-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Fortune 500'
   - 'Financial services'
 published: true
-type: blog
-url: /nasdaq-using-drupal-8-for-new-investor-relations-websites
 id: 3801
 ---
+
+# Nasdaq using Drupal 8 for new Investor Relations websites
 
 [image drupal/nasdaq-using-drupal]
 

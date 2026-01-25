@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/how-microsofts-acquisition-of-github-impacts-the-cloud-wars'
 title: "How Microsoft's acquisition of GitHub impacts the cloud wars"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-06-04T11:16:38-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Microsoft's acquisition of Github will likely emerge as a key platform differentiator as the cloud market continues to mature"
 tags:
   - 'Open Source'
@@ -9,10 +14,10 @@ tags:
   - Amazon
   - Acquisitions
 published: true
-type: blog
-url: /how-microsofts-acquisition-of-github-impacts-the-cloud-wars
 id: 4406
 ---
+
+# How Microsoft's acquisition of GitHub impacts the cloud wars
 
 [image blog/microsoft-acquires-github]
 

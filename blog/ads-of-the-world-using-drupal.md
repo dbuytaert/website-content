@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/ads-of-the-world-using-drupal'
 title: '"Ads of the World" using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-02-15T04:09:14-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Publishing
 published: true
-type: blog
-url: /ads-of-the-world-using-drupal
 id: 218
 ---
+
+# "Ads of the World" using Drupal
 
 [Ads of the World](http://adsoftheworld.com) is a great, fast growing Drupal website that I wanted to blog about for some time now. It's a community for advertising professionals, but it has lots of great stuff to like – especially if you're a wannabe photographer like me.
 

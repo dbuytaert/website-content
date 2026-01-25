@@ -1,21 +1,26 @@
 ---
+url: 'https://dri.es/artificial-intelligence-the-future-of-content-management-and-the-web'
 title: 'Artificial Intelligence, the future of Content Management and the Web'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-02-27T13:59:53-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How AI can speed up the "Big Reverse of the Web", how content management systems like Drupal can integrate with AI tools, how to optimize your website for AI crawlers, and the short and long term impact of AI bots on digital marketing.'
-image: blog/endless-server-power
 tags:
   - Drupal
   - 'My site'
   - Policy
   - 'Artificial Intelligence'
   - Trends
-featured: true
+image: blog/endless-server-power
 published: true
-type: blog
-url: /artificial-intelligence-the-future-of-content-management-and-the-web
+featured: true
 id: 5426
 ---
+
+# Artificial Intelligence, the future of Content Management and the Web
 
 [image blog/endless-server-power lazy=false priority=true]
 

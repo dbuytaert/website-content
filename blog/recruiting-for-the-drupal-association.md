@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/recruiting-for-the-drupal-association'
 title: 'Recruiting for the Drupal Association'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-09-28T10:03:55-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /recruiting-for-the-drupal-association
 id: 331
 ---
+
+# Recruiting for the Drupal Association
 
 The [Drupal Association](https://association.drupal.org) is a non-profit organization dedicated to help the Drupal community with fun­ding, infra­structure, events, promotion and distribution.
 

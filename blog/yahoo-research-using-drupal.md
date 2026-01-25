@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/yahoo-research-using-drupal'
 title: 'Yahoo! Research using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-11-27T16:54:10-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - 'Fortune 500'
 published: true
-type: blog
-url: /yahoo-research-using-drupal
 id: 362
 ---
+
+# Yahoo! Research using Drupal
 
 Truth be told, between [trips to Yahoo!](https://dri.es/drupal-road-trip-san-francisco) including [last year's Drupal conference](https://dri.es/open-source-cms-summit-at-yahoo), which they hosted, we already knew that Yahoo! is a major Drupal user. However, what is new is that they are starting to launch more and more external facing Drupal sites. Once such example is [Yahoo! Research](http://research.yahoo.com); check it out at <http://research.yahoo.com>.
 

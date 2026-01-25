@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/druplicon-human'
 title: 'Druplicon human'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-06-01T05:54:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Humor
 published: true
-type: blog
-url: /druplicon-human
 id: 663
 ---
+
+# Druplicon human
 
 [image drupal/druplicon-human-1]
 [image drupal/druplicon-human-2]

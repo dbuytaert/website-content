@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/the-power-of-open-source-in-the-fight-against-covid-19'
 title: 'The power of Open Source in the fight against COVID-19'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-05-15T12:52:49-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Source'
-featured: false
 published: true
-type: blog
-url: /the-power-of-open-source-in-the-fight-against-covid-19
+featured: false
 id: 5016
 ---
+
+# The power of Open Source in the fight against COVID-19
 
 As someone who has spent his entire career in Open Source, I've been closely following how Open Source is being used to fight the COVID-19 global pandemic.
 

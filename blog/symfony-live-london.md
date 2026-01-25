@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/symfony-live-london'
 title: 'Symfony Live London'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-09-10T21:30:32-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Invitations
 published: true
-type: blog
-url: /symfony-live-london
 id: 2781
 ---
+
+# Symfony Live London
 
 On Friday this week, I will be giving a keynote at [Symfony Live London](http://london2012.live.symfony.com). The event is being hosted by our friends at [Sensio Labs UK](https://sensiolabs.com/en). For those not familiar with that name, Sensio Labs are the original creators of the [Symfony framework](https://symfony.com/legacy). The event, which runs over the course of two days (13-14th September), promises to provide some fascinating insights in to the world of Symfony.
 

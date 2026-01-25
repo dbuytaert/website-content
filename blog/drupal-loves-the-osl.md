@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-loves-the-osl'
 title: 'Drupal loves the OSL'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-05-22T07:10:59-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Press
 published: true
-type: blog
-url: /drupal-loves-the-osl
 id: 80
 ---
+
+# Drupal loves the OSL
 
 Recently a reporter asked me to comment on the [Open Source Lab](https://osuosl.org/) (OSL). The OSL provides free hosting and support for the Mozilla Foundation, Debian, Gentoo Linux, [Drupal](https://www.drupal.org/), and many other FOSS projects. My comment made it into an [interview with Scott Kveton](http://www.newsforge.com/mobility/06/05/05/2018250.shtml?tid=49), associate director of OSL, published at [NewsForge](https://sourceforge.net/):
 

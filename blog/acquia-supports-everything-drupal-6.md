@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-supports-everything-drupal-6'
 title: 'Acquia supports everything Drupal 6'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-01-05T06:07:53-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-supports-everything-drupal-6
 id: 568
 ---
+
+# Acquia supports everything Drupal 6
 
 Last year, [Acquia](https://www.acquia.com) opened for business, offering commercial support for a defined software distribution called [Acquia Drupal](https://www.acquia.com/web-content-management-drupal). One could purchase commercial support for all the modules in Acquia Drupal. As I mentioned last week in my [2009 predictions for Drupal](https://dri.es/predictions-2009), one of the things we learned relatively fast is that people wanted more than just Acquia Drupal. They wanted support for all modules, themes and custom code.
 

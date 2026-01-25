@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/nominations-for-directors-of-the-drupal-association'
 title: 'Nominations for Directors of the Drupal Association'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-07-13T07:01:24-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /nominations-for-directors-of-the-drupal-association
 id: 2421
 ---
+
+# Nominations for Directors of the Drupal Association
 
 The [Drupal Association](https://association.drupal.org) is seeking nine candidates for its Board of Directors. The Board of Directors establishes policy, hires and manages an executive director, reviews and approves the budget and financial reports, and participates in fundraising. For more details on the organizational structure see [earlier posts](https://www.drupal.org/associationnode/1119).
 

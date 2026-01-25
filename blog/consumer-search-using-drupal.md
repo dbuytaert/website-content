@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/consumer-search-using-drupal'
 title: 'Consumer Search running Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-11-26T05:09:48-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - 'Web performance'
   - 'Fortune 500'
 published: true
-type: blog
-url: /consumer-search-using-drupal
 id: 541
 ---
+
+# Consumer Search running Drupal
 
 [ConsumerSearch.com](http://consumersearch.com) has been redesigned and is now running [Drupal](https://www.drupal.org). The site is a part of the [About.com Group](http://about.com), a subsidiary of [The New York Times Company](https://www.nytco.com/).
 

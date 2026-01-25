@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/the-assembled-web'
 title: 'The Assembled Web'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-12-09T12:54:57-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The opportunity that is the Assembled Web where you can snap a digital experience together with no or minimal coding.'
-image: blog/assembled-web
 tags:
   - Drupal
   - 'Open Source'
-featured: true
+image: blog/assembled-web
 published: true
-type: blog
-url: /the-assembled-web
+featured: true
 id: 3086
 ---
+
+# The Assembled Web
 
 [image blog/assembled-web]
 

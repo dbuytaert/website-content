@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/first-acquia-employees'
 title: 'First Acquia employees'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-12-20T16:05:04-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /first-acquia-employees
 id: 372
 ---
+
+# First Acquia employees
 
 Today, we announced that [Gábor Hojtsy](https://www.linkedin.com/in/ghojtsy/) and [Kieran Lal](https://www.linkedin.com/in/kieran/) have joined [Acquia](https://www.acquia.com) as employee one and two respectively.
 

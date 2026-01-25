@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-search-available-commercially'
 title: 'Acquia Search available commercially'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-06-30T11:23:52-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Search'
 published: true
-type: blog
-url: /acquia-search-available-commercially
 id: 711
 ---
+
+# Acquia Search available commercially
 
 It's a big day for us at [Acquia](https://www.acquia.com). We finally took the beta-wraps off of [Acquia Search](https://www.acquia.com/products-services/acquia-search), and made it available commercially as part of the [Acquia Network](https://www.acquia.com/products-services/acquia-network). Thanks to the 250+ beta testers who helped make our hosted search service fit for use in production environments, including [Brightcove](http://www.brightcove.com), [JackBe Developer Community](http://www.jackbe.com/enterprise-mashup/), [P-O-P Design](http://www.popdesign.com), [Wide Divots](http://widedivots.com) and others.
 

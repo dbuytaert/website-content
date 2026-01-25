@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/making-waves-in-gijon'
 title: 'Making waves in Gijón'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-10-27T10:45:16-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Photography
 published: true
-type: blog
-url: /making-waves-in-gijon
 id: 527
 ---
+
+# Making waves in Gijón
 
 [image miscellaneous-2008/waves-in-gijon]
 

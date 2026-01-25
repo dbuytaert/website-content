@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/the-future-of-software-is-data-driven'
 title: 'The future of software is data-driven'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-01-08T00:37:19-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Artificial Intelligence'
   - Trends
 published: true
-type: blog
-url: /the-future-of-software-is-data-driven
 id: 3306
 ---
+
+# The future of software is data-driven
 
 Marc Andreessen famously said that [software is eating the world](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460). While I certainly agree with Marc that software companies are redefining our economies, I believe that much of that technological shift is being driven by data. So is the value of a business in the data or is it in the software? I believe data is eating the world because the value is increasingly more in the data and not the software. Let's investigate why.
 

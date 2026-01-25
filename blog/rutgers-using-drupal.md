@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/rutgers-using-drupal'
 title: 'Rutgers using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-09-28T18:09:46-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Education
 published: true
-type: blog
-url: /rutgers-using-drupal
 id: 1056
 ---
+
+# Rutgers using Drupal
 
 [image drupal/rutgers]
 

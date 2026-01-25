@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/think-beyond-with-acquia-labs'
 title: 'Think beyond with Acquia Labs'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-05-15T14:18:10-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Acquia looks at how voice assistants and chat bots can move online customer experiences beyond the traditional web page.'
-image: acquia/acquia-labs-space-timelapse
 tags:
   - Drupal
   - Acquia
+image: acquia/acquia-labs-space-timelapse
 published: true
-type: blog
-url: /think-beyond-with-acquia-labs
 id: 3931
 ---
+
+# Think beyond with Acquia Labs
 
 [image acquia/acquia-labs-space resize=false]
 

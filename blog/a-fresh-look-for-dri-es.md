@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/a-fresh-look-for-dri-es'
 title: 'A fresh look for dri.es'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-10-13T15:07:24-04:00'
-author: Dries
-image: blog/dries-redesign-2018
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'My site'
   - 'Web performance'
-featured: false
+image: blog/dries-redesign-2018
 published: true
-type: blog
-url: /a-fresh-look-for-dri-es
+featured: false
 id: 4546
 ---
+
+# A fresh look for dri.es
 
 In [1999](https://www.youtube.com/watch?v=rblt2EtFfC4), I decided to start dri.es (formally buytaert.net) as a place to blog, write, and deepen my thinking. While I ran other websites before dri.es, my blog is one of my longest running projects.
 

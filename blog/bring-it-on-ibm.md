@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/bring-it-on-ibm'
 title: 'Bring it on, IBM!'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-01-23T10:40:00-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - SharePoint
 published: true
-type: blog
-url: /bring-it-on-ibm
 id: 209
 ---
+
+# Bring it on, IBM!
 
 IBM just announced [Lotus Connections](http://www-142.ibm.com/software/sw-lotus/products/product3.nsf/wdocs/connections). According to [this article in Business Week](https://www.bloomberg.com/businessweek/technology/content/jan2007/tc20070122_532199.htm), Lotus Connections wraps five social networking technologies up into one integrated package: profiles, where employees post information about their expertise and interests; communities, which are formed and managed by people with common interests; activities, which are used to manage group projects; bookmarks, where people share documents and websites with others; and blogs.
 

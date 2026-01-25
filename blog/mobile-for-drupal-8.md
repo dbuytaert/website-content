@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/mobile-for-drupal-8'
 title: 'Mobile for Drupal 8'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-10-24T15:29:12-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /mobile-for-drupal-8
 id: 2547
 ---
+
+# Mobile for Drupal 8
 
 In my State of Drupal keynote in Chicago I said: <q>If I were to start Drupal from scratch today, I'd build it for mobile experiences first, and desktop experience second.</q>. I believe in that more than ever.
 

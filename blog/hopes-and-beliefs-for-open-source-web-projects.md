@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/hopes-and-beliefs-for-open-source-web-projects'
 title: 'Hopes and beliefs for Open Source web projects'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-04-21T07:01:42-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Open Source'
-featured: false
 published: true
-type: blog
-url: /hopes-and-beliefs-for-open-source-web-projects
+featured: false
 id: 2306
 ---
+
+# Hopes and beliefs for Open Source web projects
 
 Open source is the best way to build and distribute software. There are few things about which I'm more convinced. In some, but not all cases, Open Source also offers a viable business model. When it does, it's great because it allows you to do well and do good at the same time. I'm convinced that Open Source is the future for all software needs, but niche applications. I believe in this so sincerely that I've spent over ten years of my life building Open Source software, and I haven't once faltered on my resolve. In fact, I've become more convinced over the years.
 

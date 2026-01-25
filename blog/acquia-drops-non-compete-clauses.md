@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/acquia-drops-non-compete-clauses'
 title: 'Acquia drops non-compete clauses'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-05-02T11:22:24-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
 published: true
-type: blog
-url: /acquia-drops-non-compete-clauses
 id: 3131
 ---
+
+# Acquia drops non-compete clauses
 
 In a world where innovation is only accelerating, shackling employees with non-competes doesn't make sense anymore. At [Acquia](https://www.acquia.com), we believe that innovation is about openness and collaboration, and that working together is based on trust and loyalty, something that was born out of our Open Source background. It's been a long time coming but we decided to kill our non-competes. It is the right thing to do. Here is what we just sent to all Acquia employees:
 

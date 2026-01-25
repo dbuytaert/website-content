@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/meeting-of-minds-2007-the-user-is-the-content'
 title: 'Meeting of minds 2007: the user is the content'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-04-16T05:11:04-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Invitations
   - Belgium
   - Antwerp
 published: true
-type: blog
-url: /meeting-of-minds-2007-the-user-is-the-content
 id: 253
 ---
+
+# Meeting of minds 2007: the user is the content
 
 On April 26th, [C.H.I.P.S.](http://www.chipsvzw.be/) organizes [a debate](http://www.chipsvzw.be/mom/) that focuses on the impact of user generated content on traditional media, publishers and cultural organizations.
 

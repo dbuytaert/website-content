@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/cios-are-starting-to-take-notice-of-drupal'
 title: 'CIOs are starting to take notice of Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-07-10T04:56:24-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /cios-are-starting-to-take-notice-of-drupal
 id: 831
 ---
+
+# CIOs are starting to take notice of Drupal
 
 Drupal.org recently featured a [detailed use case](https://www.drupal.org/node/497008) about [InterMedia Outdoors](http://www.imoutdoors.com//) switching to [Drupal](https://www.drupal.org). InterMedia Outdoors boasts a network of 16 websites, a portfolio of 15 magazines, 25 market-leading television productions, 2 syndicated radio shows, and more.
 

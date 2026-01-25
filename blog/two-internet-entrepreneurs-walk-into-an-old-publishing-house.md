@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/two-internet-entrepreneurs-walk-into-an-old-publishing-house'
 title: 'Two internet entrepreneurs walk into an old publishing house'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-02-20T03:55:07-05:00'
-author: Dries
-image: miscellaneous-2019/plantin-moretus-museum-globe
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - WordPress
+image: miscellaneous-2019/plantin-moretus-museum-globe
 published: true
-type: blog
-url: /two-internet-entrepreneurs-walk-into-an-old-publishing-house
 id: 4766
 ---
+
+# Two internet entrepreneurs walk into an old publishing house
 
 A month ago, [Matt Mullenweg](https://ma.tt), co-founder of [WordPress](https://wordpress.org) and founder of [Automattic](https://automattic.com/), visited me in [Antwerp](https://en.wikipedia.org/wiki/Antwerp), Belgium. While I currently live in Boston, I was born and raised in Antwerp, and also started [Drupal](https://www.drupal.org) there.
 

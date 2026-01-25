@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-raises-15-million-series-d'
 title: 'Acquia raises $15 million series D'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-07-20T06:22:27-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-raises-15-million-series-d
 id: 2446
 ---
+
+# Acquia raises $15 million series D
 
 I'm thrilled to announce that [Acquia](https://www.acquia.com) has received $15 million in its fourth round of funding – that is about twice as much as any of our earlier rounds ([series A](https://dri.es/acquia-raises-7-million-series-a), [series B](https://dri.es/acquia-raises-8-million-series-b), [series C](https://dri.es/acquia-raises-8-5-million-series-c)). Our previous investors affirmed their confidence by participating in this round; they were joined by [Tenaya Capital](http://www.tenayacapital.com), which has roots in both the San Francisco Bay Area and our home turf of Boston. Tenaya brings more than money: Tenaya's [Brian Paul](https://www.tenayacapital.com/team/brian-paul) will join our Board of Directors as well.
 

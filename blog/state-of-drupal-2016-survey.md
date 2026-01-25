@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/state-of-drupal-2016-survey'
 title: 'State of Drupal 2016 survey'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-04-06T04:11:13-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /state-of-drupal-2016-survey
 id: 3636
 ---
+
+# State of Drupal 2016 survey
 
 I've been writing a lot about what I believe is important for the future of Drupal, but now it is your turn. After every major release of Drupal I do a "product management survey" to get your ideas and data on what to focus on for future releases of Drupal (8.x/9).
 

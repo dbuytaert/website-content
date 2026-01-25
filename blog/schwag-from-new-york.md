@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/schwag-from-new-york'
 title: 'Schwag from New York'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-07-26T05:37:43-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Schwag
   - 'New York'
 published: true
-type: blog
-url: /schwag-from-new-york
 id: 304
 ---
+
+# Schwag from New York
 
 Earlier this month, about 130 Drupalistas descended upon the [Brooklyn Polytechnic](http://www.poly.edu/) to talk Drupal at [the third DrupalCamp in New York City](http://barcamp.org/DrupalCampNYC3). [Jacob Redding](http://wiredgeek.com), co-organizer of DrupalCamp NYC, was kind enough to send me some custom-made Drupal schwag.
 

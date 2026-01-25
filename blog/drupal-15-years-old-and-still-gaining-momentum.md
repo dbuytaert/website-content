@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-15-years-old-and-still-gaining-momentum'
 title: 'Drupal: 15 years old and still gaining momentum'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-01-15T06:32:51-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Birthday
-featured: true
 published: true
-type: blog
-url: /drupal-15-years-old-and-still-gaining-momentum
+featured: true
 id: 3546
 ---
+
+# Drupal: 15 years old and still gaining momentum
 
 On December 29, 2000, I made a [code commit](http://cgit.drupalcode.org/drupal/commit/?id=fd64164419060f4420ece6c7766c5693577f67ef) that would change my life; it is in this commit that I called my project "Drupal" and added the GPL license to it.
 

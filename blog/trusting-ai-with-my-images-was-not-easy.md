@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/trusting-ai-with-my-images-was-not-easy'
 title: "Trusting AI with my images wasn't easy"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-02-24T09:11:42-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Trusting AI to describe my photos wasn't easy. But after 9,000 images, I had to admit: it often did the job better than me, and at a fraction of the cost."
 tags:
   - 'My site'
@@ -9,10 +14,10 @@ tags:
   - 'Artificial Intelligence'
   - Alt-text
 published: true
-type: blog
-url: /trusting-ai-with-my-images-was-not-easy
 id: 5766
 ---
+
+# Trusting AI with my images wasn't easy
 
 I did it. I just finished generating `alt`-text for 9,000 images on my website.
 

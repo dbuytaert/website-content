@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/sydney-opera-house-using-drupal'
 title: 'Sydney Opera House using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-04-03T14:51:08-04:00'
-author: Dries
-image: australia-2024/sydney-opera-house
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
+image: australia-2024/sydney-opera-house
 published: true
-type: blog
-url: /sydney-opera-house-using-drupal
 id: 5591
 ---
+
+# Sydney Opera House using Drupal
 
 [image australia-2024/sydney-opera-house caption=false]
 

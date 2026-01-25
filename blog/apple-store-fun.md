@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/apple-store-fun'
 title: 'Apple store fun'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-10-24T17:34:21-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Humor
   - Portland
 published: true
-type: blog
-url: /apple-store-fun
 id: 170
 ---
+
+# Apple store fun
 
 [image portland-2006/disciple-dries]
 

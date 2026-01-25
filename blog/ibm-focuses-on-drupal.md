@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/ibm-focuses-on-drupal'
 title: 'IBM focuses on Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-07-11T11:31:08-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - IBM
 published: true
-type: blog
-url: /ibm-focuses-on-drupal
 id: 106
 ---
+
+# IBM focuses on Drupal
 
 [IBM developerWorks](https://www.ibm.com/developerworks/) has started a new series entitled [Using open source software to design, develop, and deploy a collaborative website](http://www-128.ibm.com/developerworks/ibm/osource/implement.html).
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-8-turns-one'
 title: 'Drupal 8 turns one!'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-11-18T00:49:20-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "An overview of some amazing Drupal 8 sites that have launched in Drupal 8's first year"
 tags:
   - Drupal
   - 'Drupal sites'
 published: true
-type: blog
-url: /drupal-8-turns-one
 id: 3821
 ---
+
+# Drupal 8 turns one!
 
 Tomorrow is the one year anniversary of Drupal 8. On this day last year we celebrated [the release of Drupal 8](https://dri.es/drupal-8-released) with over [200 parties around the world](https://groups.drupal.org/drupal-8-release-parties). It's a project we worked on for almost five years, bringing the work of more than [3,000 contributors together](https://youtu.be/yOggQwNFl3w) to make Drupal more flexible, innovative, scalable, and easier to use.
 

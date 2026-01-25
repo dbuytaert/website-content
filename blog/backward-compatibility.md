@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/backward-compatibility'
 title: 'Backward compatibility'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-05-17T04:52:18-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /backward-compatibility
 id: 75
 ---
+
+# Backward compatibility
 
 The issue of breaking backward compatibility comes up every once in a while – more and more in the form of a heated discussion.
 

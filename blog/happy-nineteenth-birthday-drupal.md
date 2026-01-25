@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/happy-nineteenth-birthday-drupal'
 title: 'Happy nineteenth birthday, Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-01-15T08:56:39-05:00'
-author: Dries
-image: drupal/happy-nineteenth-birthday
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Birthday
+image: drupal/happy-nineteenth-birthday
 published: true
-type: blog
-url: /happy-nineteenth-birthday-drupal
 id: 4966
 ---
+
+# Happy nineteenth birthday, Drupal
 
 [image drupal/happy-nineteenth-birthday]
 

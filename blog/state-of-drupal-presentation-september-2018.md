@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-september-2018'
 title: 'State of Drupal presentation (September 2018)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-09-17T04:08:36-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal Europe Darmstadt Driesnote presentation'
-image: drupal-europe-darmstadt-2018/drupal-mountain-strategic-initiatives
 tags:
   - Drupal
   - 'State of Drupal'
   - 'Drupal Association'
   - DrupalCon
+image: drupal-europe-darmstadt-2018/drupal-mountain-strategic-initiatives
 published: true
-type: blog
-url: /state-of-drupal-presentation-september-2018
 id: 4526
 ---
+
+# State of Drupal presentation (September 2018)
 
 Last week, nearly 1,000 Drupalists gathered in Darmstadt, Germany for Drupal Europe. In good tradition, I presented [my State of Drupal keynote](https://dri.es/tag/state-of-drupal). You can [watch a recording of my keynote](https://youtu.be/iXB0sNreSlM?t=4m38s) (starting at 4:38) or [download a copy of my slides](https://dri.es/files/state-of-drupal-september-2018.pdf) (37 MB).
 

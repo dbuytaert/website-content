@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/mollom-tshirts'
 title: 'Mollom t-shirts'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-08-08T05:58:06-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
 published: true
-type: blog
-url: /mollom-tshirts
 id: 485
 ---
+
+# Mollom t-shirts
 
 Ben and I printed some Mollom t-shirts and we're going to ship some to people that contributed a [Mollom plugin](https://www.mollom.com/download) or that took advantage of the Mollom API in new or clever ways.
 

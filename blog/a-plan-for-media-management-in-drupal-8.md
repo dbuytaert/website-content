@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/a-plan-for-media-management-in-drupal-8'
 title: 'A plan for media management in Drupal 8'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-11-08T04:23:35-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Entertainment
   - Publishing
 published: true
-type: blog
-url: /a-plan-for-media-management-in-drupal-8
 id: 3811
 ---
+
+# A plan for media management in Drupal 8
 
 Today, when you install Drupal 8.2, the out-of-the-box media handling is very basic. For example, you can upload and insert images in posts using a WYSIWYG editor, but there is no way to reuse files across posts, there is no built-in media manager, no support for "remote media" such as YouTube videos or tweets, etc. While all of these media features can be added using contributed modules, it is not ideal.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/loosen-control-the-open-source-way'
 title: 'Loosen control the Open Source way'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-11-18T08:17:17-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Open Source'
   - Innovation
 published: true
-type: blog
-url: /loosen-control-the-open-source-way
 id: 3496
 ---
+
+# Loosen control the Open Source way
 
 A couple of weeks ago a Chief Digital Officer (CDO) of one of the largest mobile telecommunications companies in the world asked me how a large organization such as hers should think about organizing itself to maintain control over costs and risks while still giving their global organization the freedom to innovate.
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/can-europe-copy-silicon-valley'
 title: 'Can Europe copy Silicon Valley?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-01-17T15:04:46-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Startup lessons'
   - Policy
 published: true
-type: blog
-url: /can-europe-copy-silicon-valley
 id: 2871
 ---
+
+# Can Europe copy Silicon Valley?
 
 Every week, I get asked the "Silicon Valley question". This week alone, it came up at least three times. I had a phone call with a Belgian start-up asking me for my thoughts on whether to start their company in Belgium or in Silicon Valley. This afternoon, [iMinds](https://www.iminds.be/en), a Belgian research institute that promotes entrepreneurship, visited me at [Acquia](https://www.acquia.com) to talk about similar topics.
 

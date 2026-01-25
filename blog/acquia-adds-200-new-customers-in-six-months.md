@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-adds-200-new-customers-in-six-months'
 title: 'Acquia adds 200 new customers in six months'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-08-10T17:40:06-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Acquia adds 200 new customers in six months'
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-adds-200-new-customers-in-six-months
 id: 911
 ---
+
+# Acquia adds 200 new customers in six months
 
 I've posted a good bit about [Acquia](https://www.acquia.com) lately, because we had a lot of exciting things happening, and because I'm proud of the body of work that the Acquia team is producing, often in close cooperation with the [Drupal community](https://www.drupal.org).
 

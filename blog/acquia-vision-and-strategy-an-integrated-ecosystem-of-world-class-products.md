@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/acquia-vision-and-strategy-an-integrated-ecosystem-of-world-class-products'
 title: "Acquia's vision and strategy: an integrated ecosystem of world-class products"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-08-07T08:20:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "How Acquia's Digital Experience Platform meets future marketing trends with a solution that is both integrated and integratable."
-image: acquia/product-portfolio-2023
 tags:
   - Acquia
-featured: true
+image: acquia/product-portfolio-2023
 published: true
-type: blog
-url: /acquia-vision-and-strategy-an-integrated-ecosystem-of-world-class-products
+featured: true
 id: 5496
 ---
+
+# Acquia's vision and strategy: an integrated ecosystem of world-class products
 
 In my previous blog post, I discussed [my vision for the future of marketing technology stacks](https://dri.es/the-future-of-marketing-technology-platforms-plus-point-solutions). I highlighted the growing importance of central content and data stores in delivering relevant customer experiences. Today, I'll delve a bit deeper into how [Acquia](https://www.acquia.com/)'s strategy aligns with these ideas.
 

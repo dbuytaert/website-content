@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/i-want-to-run-ai-locally-here-is-why-i-am-not-yet'
 title: "I want to run AI locally. Here is why I'm not (yet)."
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-02-11T07:47:55-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'An exploration of whether to run AI locally or in the cloud for generating alt-text: balancing accuracy, accessibility, and open-source values.'
 tags:
   - 'My site'
@@ -9,10 +14,10 @@ tags:
   - 'Artificial Intelligence'
   - Alt-text
 published: true
-type: blog
-url: /i-want-to-run-ai-locally-here-is-why-i-am-not-yet
 id: 5756
 ---
+
+# I want to run AI locally. Here is why I'm not (yet).
 
 Last week, I wrote about my plan to [use AI to generate 9,000 `alt`-texts](https://dri.es/comparing-local-llms-for-alt-text-generation) for images on my website. I tested 12 LLMs – 10 running locally and 2 cloud-based – to assess their accuracy in generating `alt`-text for images. I ended that post with two key questions:
 

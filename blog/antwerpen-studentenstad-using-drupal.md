@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/antwerpen-studentenstad-using-drupal'
 title: 'Antwerpen Studentenstad using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-05-19T05:42:33-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
@@ -9,10 +14,10 @@ tags:
   - Antwerp
   - Non-profit
 published: true
-type: blog
-url: /antwerpen-studentenstad-using-drupal
 id: 652
 ---
+
+# Antwerpen Studentenstad using Drupal
 
 [image drupal/antwerpen-studentenstad]
 

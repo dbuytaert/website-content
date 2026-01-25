@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/free-acquia-hosting'
 title: 'Free Acquia Hosting'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-09-15T15:52:57-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Cloud'
 published: true
-type: blog
-url: /free-acquia-hosting
 id: 1001
 ---
+
+# Free Acquia Hosting
 
 Last week at DrupalCon Paris, we announced [Acquia Hosting](https://www.acquia.com/products-services/acquia-managed-cloud), a highly available cloud-based hosting platform tuned for Drupal performance and scalability. Technical details can be found in my [announcement blog post](https://dri.es/acquia-hosting-now-available).
 

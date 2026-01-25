@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/infinite-scroll-with-htmx'
 title: 'Infinite scroll with htmx'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-11-26T17:55:48-05:00'
-author: Dries
-image: 'image miscellaneous-2022/train-2'
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'My site'
   - Drupal
   - 'Photo stream'
   - Photography
   - JavaScript
-featured: false
+image: 'image miscellaneous-2022/train-2'
 published: true
-type: blog
-url: /infinite-scroll-with-htmx
+featured: false
 id: 5951
 ---
+
+# Infinite scroll with htmx
 
 [image miscellaneous-2022/train-2 caption=false]
 

@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/building-my-own-temperature-and-humidity-monitor'
 title: 'Building my own temperature and humidity monitor'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-03-12T06:42:08-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How I created a Champagne and wine monitoring system using open hardware and Drupal as an Internet-of-Things (IoT) backend. Sometimes, more is more!'
-image: blog/esp32-s3-with-sht41
 tags:
   - Electronics
   - ESP32
   - Drupal
-featured: true
+image: blog/esp32-s3-with-sht41
 published: true
-type: blog
-url: /building-my-own-temperature-and-humidity-monitor
+featured: true
 id: 5586
 ---
+
+# Building my own temperature and humidity monitor
 
 Last fall, we toured the Champagne region in France, famous for its sparkling wines. We explored the ancient, underground cellars where Champagne undergoes its magical transformation from grape juice to sparkling wine. These cellars, often 30 meters deep and kilometers long, maintain a constant temperature of around 10-12°C, providing the perfect conditions for aging and storing Champagne.
 

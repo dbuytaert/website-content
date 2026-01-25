@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/proposal-from-first-drupal-governance-sprint'
 title: 'Proposal from first Drupal Governance Sprint'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-08-01T12:11:43-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
   - Governance
 published: true
-type: blog
-url: /proposal-from-first-drupal-governance-sprint
 id: 2726
 ---
+
+# Proposal from first Drupal Governance Sprint
 
 *(This blog post is jointly written by [Angela Byron](https://www.drupal.org/user/24967), [Randy Fay](https://www.drupal.org/user/30906/), [Greg Dunlap](https://www.drupal.org/user/128537), [David Strauss](https://www.drupal.org/user/93254) and [Dries Buytaert](https://www.drupal.org/user/1).)*
 

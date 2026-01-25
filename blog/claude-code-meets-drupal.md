@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/claude-code-meets-drupal'
 title: 'Claude Code meets Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-04-03T12:02:23-04:00'
-author: Dries
-image: blog/dries-using-claude-code
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Artificial Intelligence'
+image: blog/dries-using-claude-code
 published: true
-type: blog
-url: /claude-code-meets-drupal
 id: 5791
 ---
+
+# Claude Code meets Drupal
 
 Can AI actually help with real Drupal development? I wanted to find out.
 

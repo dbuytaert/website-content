@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/latest-mollom-module-ships-with-webform-support'
 title: 'Latest Mollom module ships with Webform support'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-04-05T02:49:26-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Mollom
   - 'Drupal Gardens'
 published: true
-type: blog
-url: /latest-mollom-module-ships-with-webform-support
 id: 1566
 ---
+
+# Latest Mollom module ships with Webform support
 
 We've just published the new 6.x-1.13 release for the [Mollom module for Drupal](https://www.drupal.org/project/mollom). Coming about a month and a half after [our last release](https://dri.es/new-features-for-drupal-mollom-module), this release tweaks, extends, and improves the module code, and makes some important bug fixes.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/php-foundation-launched'
 title: 'PHP Foundation launched'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-11-22T15:47:44-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - PHP
   - Drupal
   - 'Open Source'
 published: true
-type: blog
-url: /php-foundation-launched
 id: 5271
 ---
+
+# PHP Foundation launched
 
 There is a common misconception that large open source projects are well-funded. In practice, many rely on a small group of maintainers.
 

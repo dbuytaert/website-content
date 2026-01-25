@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/stan-buytaert'
 title: 'Stan Buytaert'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-06-07T15:55:29-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Karlijn
   - Family
   - Stan
 published: true
-type: blog
-url: /stan-buytaert
 id: 670
 ---
+
+# Stan Buytaert
 
 [image stan-2009/close-up]
 

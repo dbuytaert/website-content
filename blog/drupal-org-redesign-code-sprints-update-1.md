@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-org-redesign-code-sprints-update-1'
 title: 'Drupal.org redesign code sprints: update 1'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-01-23T08:57:07-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
   - Acquia
 published: true
-type: blog
-url: /drupal-org-redesign-code-sprints-update-1
 id: 584
 ---
+
+# Drupal.org redesign code sprints: update 1
 
 Last week, we met at [DrupalCamp Köln](https://dri.es/drupalcamp-koln-wrapup-2008) in Germany to start planning [the Drupal.org redesign work](https://dri.es/drupal-org-redesign-code-sprints). The intent of the meeting was to get a better handle on the work ahead of us, and to make preliminary design decisions. Further, we're starting to establish how we'll work together, and ultimately, how we scale out the work in the future.
 

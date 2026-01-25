@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/flagging-down-a-cab'
 title: 'Flagging down a cab'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-10-01T11:13:23-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Budapest
 published: true
-type: blog
-url: /flagging-down-a-cab
 id: 155
 ---
+
+# Flagging down a cab
 
 [image drupalcon-budapest-2006/flagging-down-a-cab]
 

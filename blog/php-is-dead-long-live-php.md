@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/php-is-dead-long-live-php'
 title: 'PHP is dead ... long live PHP!'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-05-08T06:46:38-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /php-is-dead-long-live-php
 id: 267
 ---
+
+# PHP is dead ... long live PHP!
 
 People are getting increasingly worried about PHP5's adoption rate. And rightly so. PHP5 has been released more than two years ago. If you look at the adoption rate in the graph below, you see that after more than two years, PHP5 commands for less than 20% of PHP's install base. With the current adoption rate (even if it is assumed to be exponential), PHP6 is dead before it is even born.
 

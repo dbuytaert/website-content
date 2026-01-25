@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/google-insights-on-drupal'
 title: 'Google insights on Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-08-07T04:47:03-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Joomla
   - Statistics
   - WordPress
 published: true
-type: blog
-url: /google-insights-on-drupal
 id: 484
 ---
+
+# Google insights on Drupal
 
 Recently, Google launched [Google Insights](https://trends.google.com/trends//). Like with [Google Trends](http://www.google.com/trends/), you can just type in a search term to see search volume patterns over time, as well as the top related and rising searches. You'll also have the ability to compare search volume trends across multiple search terms, categories (commonly referred to as verticals), geographic regions, or specific time ranges. Great for marketing people.
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/stepping-up-my-photography-to-make-a-cookbook'
 title: 'Stepping up my photography to make a cookbook'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-06-30T18:52:41-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Vanessa and I want to create a cookbook so it's time to learn about food photography"
 tags:
   - Photography
 published: true
-type: blog
-url: /stepping-up-my-photography-to-make-a-cookbook
 id: 4436
 ---
+
+# Stepping up my photography to make a cookbook
 
 We're going on a two-week vacation in August! Believe it or not, but I haven't taken a two week vacation in 11 years. I'm super excited.
 

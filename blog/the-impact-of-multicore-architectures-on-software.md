@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/the-impact-of-multicore-architectures-on-software'
 title: 'The impact of multicore architectures on software'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-12-06T00:54:31-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'PhD research'
   - Invitations
   - Java
 published: true
-type: blog
-url: /the-impact-of-multicore-architectures-on-software
 id: 366
 ---
+
+# The impact of multicore architectures on software
 
 After my internal PhD defense next Thursday, [Michael Hind](https://dri.es/the-impact-of-multicore-architectures-on-software#biography) (a member of my PhD dissertation committee) will give a presentation about the impact of multicore architectures on software. [Feel free to attend](https://dri.es/the-impact-of-multicore-architectures-on-software#logistics)!
 

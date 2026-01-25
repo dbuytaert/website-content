@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/the-next-step-for-drupal-8-is-a-beta'
 title: 'The next step for Drupal 8 is a beta'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-12-05T12:59:22-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /the-next-step-for-drupal-8-is-a-beta
 id: 3081
 ---
+
+# The next step for Drupal 8 is a beta
 
 Over the past two years, we've built [Drupal 8](https://www.drupal.org/8) into what will be the most flexible, future-proof Drupal version ever. Core developers have contributed thousands of hours of work to expanding Drupal 8's capabilities and modernizing our APIs.
 

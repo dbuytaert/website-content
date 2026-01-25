@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/the-people-of-new-orleans'
 title: 'The people of New Orleans'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-05-14T12:15:16-04:00'
-author: Dries
-image: new-orleans-2016/street-life-2
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Travel
   - 'New Orleans'
+image: new-orleans-2016/street-life-2
 published: true
-type: blog
-url: /the-people-of-new-orleans
 id: 3676
 ---
+
+# The people of New Orleans
 
 I love street photography. Walking and shooting. Walking, talking and shooting. Slightly pushing me out of my comfort zone looking for that one great photo.
 

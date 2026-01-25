@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-cms-the-official-name-for-drupal-starshot'
 title: 'Drupal CMS: the official name for Drupal Starshot'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-08-14T16:31:58-04:00'
-author: Dries
-image: drupal/drupal-cms-official-name
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Starshot'
+image: drupal/drupal-cms-official-name
 published: true
-type: blog
-url: /drupal-cms-the-official-name-for-drupal-starshot
 id: 5671
 ---
+
+# Drupal CMS: the official name for Drupal Starshot
 
 [image drupal/drupal-cms-official-name]
 

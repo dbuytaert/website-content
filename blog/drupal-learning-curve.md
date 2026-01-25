@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-learning-curve'
 title: 'Drupal learning curve'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-03-10T04:31:11-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
-featured: true
 published: true
-type: blog
-url: /drupal-learning-curve
+featured: true
 id: 227
 ---
+
+# Drupal learning curve
 
 [image drupal/learning-curve resize=false]

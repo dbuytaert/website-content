@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/training-more-drupalistas'
 title: 'Training more Drupalistas'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-01-13T07:24:02-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /training-more-drupalistas
 id: 1346
 ---
+
+# Training more Drupalistas
 
 We need to train more good Drupalistas. Almost every Drupal company I talked to is trying to hire talented Drupal developers, but can't find any. The demand for Drupal talent continues to exceed the supply. It is, in fact, holding back Drupal's adoption.
 

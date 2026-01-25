@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/the-luck-of-seven'
 title: 'The Luck of Seven'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-07-27T04:28:25-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /the-luck-of-seven
 id: 305
 ---
+
+# The Luck of Seven
 
 On 07/07/07, Drupal contributer [Noel Noneck](http://noneck.org) left New York City for a 7 month journey around the 7 continents of the world with a budget of $7,777 USD.
 

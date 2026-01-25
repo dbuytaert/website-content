@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/staking-our-future-on-php'
 title: 'Staking our future on PHP'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-04-11T11:22:32-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Joomla
   - WordPress
 published: true
-type: blog
-url: /staking-our-future-on-php
 id: 2291
 ---
+
+# Staking our future on PHP
 
 I believe that the growth of PHP depends increasingly on applications like [Drupal](https://www.drupal.org), [Joomla!](https://joomla.org), [WordPress](http://wordpress.org), [phpBB](http://phpbb.com), [Typo3](http://typo3.org), [ezPublish](http://ez.no) and similar systems. Specifically, I believe that most organizations adopt PHP primarily because they want to use one of these popular applications which have PHP at their core. Fewer organizations adopt PHP because they want to build from scratch their own PHP applications. Hence, more than ever, the future of PHP depends on popular PHP applications that have emerged over recent years.
 

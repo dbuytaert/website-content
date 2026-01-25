@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/where-open-source-open-data-and-government-meet'
 title: 'Where Open Source, Open Data and government meet'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-05-06T12:09:22-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Semantic web'
   - 'Open Source'
   - Government
 published: true
-type: blog
-url: /where-open-source-open-data-and-government-meet
 id: 645
 ---
+
+# Where Open Source, Open Data and government meet
 
 The Obama administration recently excited the world of open source software by choosing to [launch recovery.gov on Drupal](https://dri.es/obama-using-drupal). Their choice of a free, open source platform over any proprietary system is as hopeful and promising as the purpose of the website they built, which is to lend transparency to the spending of the $800 billion dollar economic stimulus money. We should be happy both that the U.S. government is embracing Open Source software, and that it is promoting Open Data.
 

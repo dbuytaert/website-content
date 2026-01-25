@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/attitude-beats-experience'
 title: 'Attitude beats experience'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-12-22T11:23:58-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Startup lessons'
 published: true
-type: blog
-url: /attitude-beats-experience
 id: 3301
 ---
+
+# Attitude beats experience
 
 The older I get, the quicker the years seem to fly by. As I begin to reflect on a great 2014, one thing is crystal clear again. People are the most important thing to any organization. Having a great team is more important than having a great idea. A good team will figure out how to make something great happen; they'll pivot, evolve and claw their way to success. I see it every day at [Acquia](https://www.acquia.com), the [Drupal Association](https://association.drupal.org) or the [Drupal community](https://www.drupal.org). I'm fortunate to be surrounded by so many great people.
 

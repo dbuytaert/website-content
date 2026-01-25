@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/evolving-drupal-layout-builder-to-an-experience-builder'
 title: "Evolving Drupal's Layout Builder to an Experience Builder"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-04-23T12:30:15-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The Drupal community will evolve the Layout Builder into the Experience Builder, enhancing its intuitiveness, expanding its out-of-the-box functionality, and introducing in-browser theming capabilities.'
-image: drupal/experience-builder-announcement
 tags:
   - Drupal
+image: drupal/experience-builder-announcement
 published: true
-type: blog
-url: /evolving-drupal-layout-builder-to-an-experience-builder
 id: 5601
 ---
+
+# Evolving Drupal's Layout Builder to an Experience Builder
 
 [image drupal/experience-builder-announcement]
 

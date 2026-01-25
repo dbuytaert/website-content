@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/php4-is-dead-or-maybe-not'
 title: 'PHP4 is dead ... or maybe not'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-08-08T17:56:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /php4-is-dead-or-maybe-not
 id: 486
 ---
+
+# PHP4 is dead ... or maybe not
 
 It is 08/08/08 today. The day they took PHP4 behind the barn and shot it through the head. The date of the official discontinuation of PHP4 – even for security issues.
 

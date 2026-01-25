@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/making-drupal-upgrades-easy-forever'
 title: 'Making Drupal upgrades easy forever'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-03-08T07:54:31-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'We found a way to innovate fast yet provide a smooth learning curve and upgrade path from Drupal 8 to Drupal 9'
-image: drupal/the-promise-of-making-drupal-upgrades-easy
 tags:
   - Drupal
+image: drupal/the-promise-of-making-drupal-upgrades-easy
 published: true
-type: blog
-url: /making-drupal-upgrades-easy-forever
 id: 3886
 ---
+
+# Making Drupal upgrades easy forever
 
 [image drupal/the-promise-of-making-drupal-upgrades-easy resize=false]
 

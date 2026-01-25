@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/spark-update-ready-for-alpha-testing'
 title: 'Spark update: ready for alpha testing'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-08-16T13:49:48-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Spark distribution'
 published: true
-type: blog
-url: /spark-update-ready-for-alpha-testing
 id: 2751
 ---
+
+# Spark update: ready for alpha testing
 
 The [Spark distribution](https://www.drupal.org/project/spark) is a Drupal 7 distribution which aims to prototype cutting-edge authoring experience improvements that we hope to propose for inclusion in Drupal 8 core. Since [we announced Spark](https://dri.es/announcing-spark-authoring-improvements-for-drupal-7-and-drupal-8) back in May, we've shown videos of prototypes of [inline editing](https://dri.es/spark-update-in-line-editing-in-drupal), [responsive layout building](https://dri.es/spark-update-responsive-layouts-in-drupal) and [mobile administration](https://dri.es/spark-update-mobile-administration-in-drupal). The rest of the Spark team (Angela Byron, Kevin O'Leary, Wim Leers, Gábor Hojtsy, Jesse Beach, Preston So and Dharmesh Mistry) has also been working hard to make these designs a reality.
 

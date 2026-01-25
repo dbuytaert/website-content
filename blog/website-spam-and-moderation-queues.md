@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/website-spam-and-moderation-queues'
 title: 'Website spam and moderation queues'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-04-18T03:07:54-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Mollom
 published: true
-type: blog
-url: /website-spam-and-moderation-queues
 id: 429
 ---
+
+# Website spam and moderation queues
 
 Mollom is a web service that blocks website spam. Websites using [Mollom](https://mollom.com) send data they want checked to mollom.com, and Mollom replies with either a *spam* or *ham classification*. If Mollom is not certain, it will return an *unsure classification*, typically prompting websites to ask Mollom's CAPTCHA server for an audio or visual CAPTCHA challenge to present to the user. In other words, Mollom uses a classifier with three states: ham, spam and unsure. We explained that in detail on the ["How Mollom works" page](https://www.mollom.com/how-mollom-works).
 

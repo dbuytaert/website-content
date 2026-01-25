@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/the-new-old-jamstack-and-mach-journey-towards-traditional-cms-concepts'
 title: "The new old: Jamstack and MACH's journey towards traditional CMS concepts"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-12-27T10:20:29-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How Jamstack, MACH, and traditional CMSes like Drupal are evolving by learning from one another. Also, debunking some myths in Jamstack and MACH marketing.'
-image: drupal/jamstack-mach-traditional-cms
 tags:
   - Drupal
   - 'Headless Drupal'
   - Trends
-featured: true
+image: drupal/jamstack-mach-traditional-cms
 published: true
-type: blog
-url: /the-new-old-jamstack-and-mach-journey-towards-traditional-cms-concepts
+featured: true
 id: 5531
 ---
+
+# The new old: Jamstack and MACH's journey towards traditional CMS concepts
 
 [image drupal/jamstack-mach-traditional-cms schema=false]
 

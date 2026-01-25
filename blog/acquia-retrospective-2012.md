@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-retrospective-2012'
 title: 'Acquia retrospective 2012'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-01-14T15:30:56-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Retrospective
 published: true
-type: blog
-url: /acquia-retrospective-2012
 id: 2866
 ---
+
+# Acquia retrospective 2012
 
 For [Acquia](https://www.acquia.com), 2012 was a great year. In many ways, it's been our best year.
 

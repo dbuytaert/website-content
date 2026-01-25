@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/capgemini-promoting-and-using-drupal'
 title: 'Capgemini promoting and using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-07-29T11:24:27-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Acquia
   - 'United Kingdom'
 published: true
-type: blog
-url: /capgemini-promoting-and-using-drupal
 id: 1762
 ---
+
+# Capgemini promoting and using Drupal
 
 This year in [my keynote at DrupalCon San Francisco](https://dri.es/state-of-drupal-presentation-april-2010), I mentioned that the elephants are coming. Well, earlier this week [Capgemini](http://capgemini.com), one of the world's foremost consulting providers with 95,000 employees, announced a new service, [Capgemini Immediate](http://immediate.capgemini.com). I'm pleased to say that they're using [Drupal](https://www.drupal.org) as a foundational technology for their new *Immediate* platform.
 

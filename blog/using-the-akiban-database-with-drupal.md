@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/using-the-akiban-database-with-drupal'
 title: 'Using the Akiban database with Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-12-06T09:32:04-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Cloud'
 published: true
-type: blog
-url: /using-the-akiban-database-with-drupal
 id: 2836
 ---
+
+# Using the Akiban database with Drupal
 
 For four years now I've been an advisor for Akiban, a Boston start-up building a new class of NewSQL/NoSQL database. I'm excited that after 4 years of hard work, [Akiban](http://akiban.com) launched their first Drupal customer solution in the [Acquia Cloud](https://www.acquia.com/products-services/acquia-cloud). A great opportunity to talk a bit more about what Akiban is doing, and why I'm excited to help their team.
 

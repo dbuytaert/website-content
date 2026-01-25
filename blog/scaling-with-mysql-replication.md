@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/scaling-with-mysql-replication'
 title: 'Scaling with MySQL replication'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-07-13T11:05:40-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Web performance'
   - MySQL
 published: true
-type: blog
-url: /scaling-with-mysql-replication
 id: 297
 ---
+
+# Scaling with MySQL replication
 
 To deal with Drupal's growth, we're adding a second database server to [drupal.org](https://www.drupal.org) which is useful for at least two reasons. First, we'll be able to handle more SQL queries as we can distribute them between multiple database servers *(load balancing)*. Secondly, this new server can act as a "hot spare" that can immediately take over if the other database server fails *(high availability / fail-over)*.
 

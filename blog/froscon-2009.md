@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/froscon-2009'
 title: FrOSCon
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-08-20T00:25:07-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Invitations
   - Germany
 published: true
-type: blog
-url: /froscon-2009
 id: 941
 ---
+
+# FrOSCon
 
 This weekend, I will be giving the keynote presentation at [FrOSCon](http://froscon.org) in Sankt Augustin Germany, near Bonn. There will be a dedicated Drupal developer room there on both Saturday and Sunday (August 22 and 23). FrOSCon is a relatively new, but rapidly growing conference covering open source technologies of all kinds. This is the fourth year that Drupal has been involved and it has become one of the most important Drupal events to attend every year in Germany.
 

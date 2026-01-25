@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/adaptable-drupal-modules-code-meant-to-be-adapted-not-installed'
 title: 'Adaptable Drupal modules: code meant to be adapted, not installed'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-12-18T04:31:31-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Artificial Intelligence'
-featured: false
 published: true
-type: blog
-url: /adaptable-drupal-modules-code-meant-to-be-adapted-not-installed
+featured: false
 id: 6001
 ---
+
+# Adaptable Drupal modules: code meant to be adapted, not installed
 
 Over the years, I've built dozens of small, site-specific Drupal modules. None of them live on Drupal.org.
 

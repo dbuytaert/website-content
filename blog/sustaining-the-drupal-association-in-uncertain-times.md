@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/sustaining-the-drupal-association-in-uncertain-times'
 title: 'Sustaining the Drupal Association in uncertain times'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-03-25T18:21:02-04:00'
-author: Dries
-image: drupal/blue-hearts-1
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
   - DrupalCares
+image: drupal/blue-hearts-1
 published: true
-type: blog
-url: /sustaining-the-drupal-association-in-uncertain-times
 id: 4981
 ---
+
+# Sustaining the Drupal Association in uncertain times
 
 [image drupal/blue-hearts-1]
 

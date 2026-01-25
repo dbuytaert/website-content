@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-pro-book-cracks-amazon-top-100'
 title: 'Drupal Pro book cracks Amazon Top 100'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-04-18T18:23:50-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Amazon
 published: true
-type: blog
-url: /drupal-pro-book-cracks-amazon-top-100
 id: 258
 ---
+
+# Drupal Pro book cracks Amazon Top 100
 
 About a week ago the new [Pro Drupal Development book](http://drupalbook.com/) started shipping, and today, the book cracked the Amazon Top 100. And we're not talking about the top 100 computer books here, we're talking about *the* top 100 bestsellers.
 

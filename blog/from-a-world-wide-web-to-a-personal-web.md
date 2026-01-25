@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/from-a-world-wide-web-to-a-personal-web'
 title: 'From a world wide web to a personal web'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-10-08T23:58:02-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Some thoughts on Inrupt, an Open Source and Open Web startup founded by Sir Tim Berners-Lee.'
-image: blog/solid-concept-inrupt
 tags:
   - 'Open Web'
   - 'Open Source'
   - 'Acquia Lift'
-featured: true
+image: blog/solid-concept-inrupt
 published: true
-type: blog
-url: /from-a-world-wide-web-to-a-personal-web
+featured: true
 id: 4536
 ---
+
+# From a world wide web to a personal web
 
 [image blog/solid-concept-inrupt]
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/wanted-a-new-blogging-routine'
 title: 'Wanted: a new blogging routine'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-08-23T11:45:55-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Writing
 published: true
-type: blog
-url: /wanted-a-new-blogging-routine
 id: 5221
 ---
+
+# Wanted: a new blogging routine
 
 In the 15 years that I've been blogging, it's never been this quiet on my blog.
 

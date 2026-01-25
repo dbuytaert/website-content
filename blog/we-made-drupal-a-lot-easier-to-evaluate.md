@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/we-made-drupal-a-lot-easier-to-evaluate'
 title: 'We made Drupal a lot easier to evaluate'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-09-14T02:44:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Install Drupal in less than two minutes and experience a beautifully designed demo application'
-image: drupal/improve-technical-evaluator-experience-2018
 tags:
   - Drupal
+image: drupal/improve-technical-evaluator-experience-2018
 published: true
-type: blog
-url: /we-made-drupal-a-lot-easier-to-evaluate
 id: 4521
 ---
+
+# We made Drupal a lot easier to evaluate
 
 Seven months ago, [Matthew Grasmick](https://www.drupal.org/u/grasmash) published an article describing [how hard it is to install Drupal](http://matthewgrasmick.com/compare-php-frameworks). His article included the following measurements for creating a new application on his local machine, across four different PHP frameworks:
 

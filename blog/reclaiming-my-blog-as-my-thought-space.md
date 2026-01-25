@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/reclaiming-my-blog-as-my-thought-space'
 title: 'Reclaiming my blog as my thought space'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-02-14T08:33:49-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Why I'd like to find a way to combine longer blog posts with shorter updates and cover a larger variety of topics."
-image: blog/my-blog-as-my-thought-space
 tags:
   - POSSE
   - Writing
-featured: false
+image: blog/my-blog-as-my-thought-space
 published: true
-type: blog
-url: /reclaiming-my-blog-as-my-thought-space
+featured: false
 id: 4151
 ---
+
+# Reclaiming my blog as my thought space
 
 [image blog/my-blog-as-my-thought-space]
 

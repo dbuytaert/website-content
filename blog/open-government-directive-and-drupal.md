@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/open-government-directive-and-drupal'
 title: 'Open Government Directive and Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-12-14T17:19:58-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'White House'
   - Government
 published: true
-type: blog
-url: /open-government-directive-and-drupal
 id: 1246
 ---
+
+# Open Government Directive and Drupal
 
 On his very first day in office, President Obama directed all federal agencies to break down barriers to transparency, participation, and collaboration between the federal government and the people it is to serve. Last week, the Obama administration published the [Open Government Directive](https://www.whitehouse.gov/open/documents/open-government-directive) (OGD). The directive, sent to the head of every US federal department and agency, instructs the agencies to take specific actions to open their operations to the public. The three principles of transparency, participation, and collaboration are at the heart of this directive. It could be big for [Drupal](https://www.drupal.org), and Open Source.
 

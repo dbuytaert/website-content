@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/acquia-a-leader-in-the-2023-forrester-wave-for-content-management-systems'
 title: 'Acquia a leader in the 2023 Forrester Wave for Content Management Systems'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-08-23T10:52:19-04:00'
-author: Dries
-image: acquia/forrester-wave-for-content-management-systems-2023
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Forrester
+image: acquia/forrester-wave-for-content-management-systems-2023
 published: true
-type: blog
-url: /acquia-a-leader-in-the-2023-forrester-wave-for-content-management-systems
 id: 5501
 ---
+
+# Acquia a leader in the 2023 Forrester Wave for Content Management Systems
 
 [Acquia](https://www.acquia.com/) was named a leader in [The Forrester Wave™: Content Management Systems, Q3 2023](https://www.acquia.com/newsroom/press-releases/acquia-named-leader-forrester-cms-wave).
 

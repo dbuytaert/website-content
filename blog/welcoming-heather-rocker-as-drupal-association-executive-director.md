@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/welcoming-heather-rocker-as-drupal-association-executive-director'
 title: 'Welcoming Heather Rocker as Drupal Association Executive Director'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-04-30T14:02:45-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The Drupal Association is announcing that Heather Rocker, former CEO of Girls, Inc. and Executive Director of Women in Technology, is joining as its next Executive Director.'
 tags:
   - Drupal
   - 'Drupal Association'
   - 'Leadership updates'
 published: true
-type: blog
-url: /welcoming-heather-rocker-as-drupal-association-executive-director
 id: 4841
 ---
+
+# Welcoming Heather Rocker as Drupal Association Executive Director
 
 The Drupal Association announced today that Heather Rocker has been [selected as its next Executive Director.](https://www.drupal.org/association/blog/drupal-association-appoints-executive-director-heather-rocker)
 

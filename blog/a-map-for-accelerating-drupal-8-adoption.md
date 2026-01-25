@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/a-map-for-accelerating-drupal-8-adoption'
 title: 'A "MAP" for accelerating Drupal 8 adoption'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-03-15T17:02:47-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /a-map-for-accelerating-drupal-8-adoption
 id: 3601
 ---
+
+# A "MAP" for accelerating Drupal 8 adoption
 
 Contributed modules in Drupal deliver the functionality and innovation proprietary content management solutions simply can't match. With every new version of Drupal comes the need to quickly move modules forward from the previous version. For users of Drupal, it's crucial to know they can depend on the availability of modules when considering a new Drupal 8 project or migrating from a previous version.
 

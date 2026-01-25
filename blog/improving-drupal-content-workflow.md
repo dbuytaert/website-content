@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/improving-drupal-content-workflow'
 title: "Improving Drupal's content workflow"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-04-04T14:38:37-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Why we should start a Drupal 8 initiative to improve Drupal's content workflow capabilities"
 tags:
   - Drupal
   - 'Workflow initiative'
 published: true
-type: blog
-url: /improving-drupal-content-workflow
 id: 3631
 ---
+
+# Improving Drupal's content workflow
 
 At [DrupalCon Mumbai](https://dri.es/state-of-drupal-presentation-february-2016) I sat down for several hours with the Drupal team at Pfizer to understand the work they have been doing on improving Drupal content management features. They built a set of foundational modules that help advance Drupal's content workflow capabilities; from content staging, to multi-site content staging, to better auditability, offline support, and several key user experience improvements like full-site preview, and more. In this post, I want to point a spotlight on some of Pfizer's modules, and kick-off an initial discussion around the usefulness of including some of these features in core.
 

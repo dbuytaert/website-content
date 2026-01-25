@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/structured-data-is-the-new-search-engine-optimization'
 title: 'Structured data is the new search engine optimization'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-05-14T16:58:37-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Semantic web'
 published: true
-type: blog
-url: /structured-data-is-the-new-search-engine-optimization
 id: 649
 ---
+
+# Structured data is the new search engine optimization
 
 Two days ago, [Google announced "Rich Snippets"](https://webmasters.googleblog.com/2009/05/introducing-rich-snippets.html), a move that is sure to shake up the SEO industry, and cause hundreds of thousands of people to reconsider their skepticism of the semantic web. Yes, that probably includes many of you.
 

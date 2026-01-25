@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-july-2020'
 title: 'State of Drupal presentation (July 2020)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-07-20T07:38:59-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon Global Driesnote presentation'
-image: drupalcon-global-2020/drupalcon-global-2020-driesnote
 tags:
   - Drupal
   - DrupalCon
   - 'State of Drupal'
+image: drupalcon-global-2020/drupalcon-global-2020-driesnote
 published: true
-type: blog
-url: /state-of-drupal-presentation-july-2020
 id: 5051
 ---
+
+# State of Drupal presentation (July 2020)
 
 [video RIeRpLgI1mM]
 

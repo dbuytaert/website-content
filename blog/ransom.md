@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/ransom'
 title: 'The Druplicon is Drupligone'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-04-01T07:26:14-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Non-profit
 published: true
-type: blog
-url: /ransom
 id: 3126
 ---
+
+# The Druplicon is Drupligone
 
 Once upon a time, in a far away land, there lived a happy little Druplicon named Sven.
 

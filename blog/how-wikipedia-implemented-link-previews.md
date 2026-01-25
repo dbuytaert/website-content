@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/how-wikipedia-implemented-link-previews'
 title: 'How Wikipedia implemented link previews'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-05-03T15:20:10-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How Wikipedia serves 10,000 link previews per second'
-image: blog/wikipedia-link-previews
 tags:
   - 'Web performance'
+image: blog/wikipedia-link-previews
 published: true
-type: blog
-url: /how-wikipedia-implemented-link-previews
 id: 4326
 ---
+
+# How Wikipedia implemented link previews
 
 You might have noticed that [Wikipedia recently started enabling link previews](https://medium.com/freely-sharing-the-sum-of-all-knowledge/wikipedia-page-previews-738cddac7a21); when you hover over a link, it displays a card with more information about the linked page.
 

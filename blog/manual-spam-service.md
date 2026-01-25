@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/manual-spam-service'
 title: 'Manual spam services'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-12-05T05:58:38-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
 published: true
-type: blog
-url: /manual-spam-service
 id: 550
 ---
+
+# Manual spam services
 
 We've all heard stories about people who are paid to solve CAPTCHAs. Well, through my [Mollom](https://mollom.com) work, I recently learned about [PixProfit](http://www.pixprofit.com/). Using that site, you can earn $1 for every 1,000 image CAPTCHAs that you solve on behalf of spammers. Indeed, according to the site, *"You are limited by your typing speed only - you can proceed up to ten pictures per minute. So, your payment can grow up to $3 per hour."*. Crazy!
 

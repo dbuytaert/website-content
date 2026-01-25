@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/code-freeze-and-thresholds'
 title: 'Code freeze and thresholds'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-02-25T08:42:05-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Software development'
 published: true
-type: blog
-url: /code-freeze-and-thresholds
 id: 2906
 ---
+
+# Code freeze and thresholds
 
 *Note: some of the information on this page is out of date. For the latest information about how Drupal releases are managed, see <https://www.drupal.org/core/release-cycle>.*
 

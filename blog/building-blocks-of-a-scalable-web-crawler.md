@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/building-blocks-of-a-scalable-web-crawler'
 title: 'Building blocks of a scalable web crawler'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-12-24T05:09:14-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /building-blocks-of-a-scalable-web-crawler
 id: 2066
 ---
+
+# Building blocks of a scalable web crawler
 
 I recently had the pleasure of serving as a thesis advisor on a work by [Marc Seeger](http://marc-seeger.de), who was completing a portion of his requirements for a Master of Science in Computer Science and Media at Stuttgart Media University. Marc's thesis was titled "Building blocks of a scalable web crawler".
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/how-paychex-replatformed-on-drupal-and-doubled-its-website-traffic'
 title: 'How Paychex replatformed on Drupal and doubled its website traffic'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-11-28T14:59:43-05:00'
-author: Dries
-image: acquia/acquia-engage-2018-interview-with-erica-bizzari
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Acquia
   - 'Acquia Engage'
+image: acquia/acquia-engage-2018-interview-with-erica-bizzari
 published: true
-type: blog
-url: /how-paychex-replatformed-on-drupal-and-doubled-its-website-traffic
 id: 4636
 ---
+
+# How Paychex replatformed on Drupal and doubled its website traffic
 
 [image acquia/acquia-engage-2018-interview-with-erica-bizzari]
 

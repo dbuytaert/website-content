@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-may-2016'
 title: 'State of Drupal presentation (May 2016)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-05-12T14:25:22-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'State of Drupal'
   - DrupalCon
   - 'New Orleans'
 published: true
-type: blog
-url: /state-of-drupal-presentation-may-2016
 id: 3671
 ---
+
+# State of Drupal presentation (May 2016)
 
 DrupalCon New Orleans comes at an important time in the history of Drupal. Now that [Drupal 8 has launched](https://dri.es/drupal-8-released), we have a lot of work to do to accelerate Drupal 8's adoption as well as plan what is next.
 

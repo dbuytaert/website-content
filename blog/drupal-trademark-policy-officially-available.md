@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-trademark-policy-officially-available'
 title: 'Drupal trademark policy officially available'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-08-28T04:45:21-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal trademark policy officially available'
 tags:
   - Drupal
   - 'Drupal Association'
   - Trademark
 published: true
-type: blog
-url: /drupal-trademark-policy-officially-available
 id: 956
 ---
+
+# Drupal trademark policy officially available
 
 Just a short time ago, [I announced the refresh](https://dri.es/drupal-com-refresh-launched-2014) of [Drupal.com](https://drupal.com). As I announced in my post, Drupal.com has a couple of purposes: one of its key purposes is serving as the current home of [the official Drupal trademark policy](http://www.drupal.com/trademark). As of today, version 1.0 is available and published at <http://www.drupal.com/trademark>.
 

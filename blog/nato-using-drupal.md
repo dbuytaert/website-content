@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/nato-using-drupal'
 title: 'NATO using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-05-05T08:15:43-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Government
 published: true
-type: blog
-url: /nato-using-drupal
 id: 68
 ---
+
+# NATO using Drupal
 
 Recently training was conducted for participants representing a number of NATO's [Partnership for Peace (PfP) Training Centers](https://www.nato.int/issues/pfp/index.html).
 

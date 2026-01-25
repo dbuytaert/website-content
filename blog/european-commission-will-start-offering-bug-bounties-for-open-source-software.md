@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/european-commission-will-start-offering-bug-bounties-for-open-source-software'
 title: 'European Commission will start offering bug bounties for Open Source software'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-01-28T16:08:44-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The European Commission worked with the Drupal Security Team to set aside 89,000€ (or roughly $100,000 USD) for a Drupal bug bounty.'
-image: drupal/european-commission-drupal-security-bug-bounty
 tags:
   - Drupal
   - Security
+image: drupal/european-commission-drupal-security-bug-bounty
 published: true
-type: blog
-url: /european-commission-will-start-offering-bug-bounties-for-open-source-software
 id: 4726
 ---
+
+# European Commission will start offering bug bounties for Open Source software
 
 [image drupal/european-commission-drupal-security-bug-bounty]
 

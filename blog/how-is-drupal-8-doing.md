@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/how-is-drupal-8-doing'
 title: 'How is Drupal 8 doing?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-04-28T14:31:29-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /how-is-drupal-8-doing
 id: 3656
 ---
+
+# How is Drupal 8 doing?
 
 The one big question I get asked over and over these days is: "How is Drupal 8 doing?". It's understandable. Drupal 8 is the first new version of Drupal in five years and represents a significant rethinking of Drupal.
 

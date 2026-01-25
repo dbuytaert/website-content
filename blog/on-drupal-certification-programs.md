@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/on-drupal-certification-programs'
 title: 'On Drupal certification programs'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-08-11T03:25:12-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
   - Acquia
 published: true
-type: blog
-url: /on-drupal-certification-programs
 id: 921
 ---
+
+# On Drupal certification programs
 
 Every once in a while, the discussion of Drupal cerification comes up. Is a Drupal certification program a good thing or a bad thing? Are certification programs overrated? Isn't one's track record as a contributor on drupal.org the best measure of someone's past (and possibly future) performance? Should the Drupal Association manage the program, and if not, then who? What do other Open Source projects do?
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/nostr-love-at-first-sight'
 title: 'Nostr, love at first sight'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-02-15T17:22:33-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'My initial impressions on Nostr, a head-to-head comparison of Nostr and Mastodon/ActivityPub, and how Zaps could revolutionize social media.'
-image: blog/nostr
 tags:
   - 'Social media'
   - 'Open Web'
   - Blockchain
+image: blog/nostr
 published: true
-type: blog
-url: /nostr-love-at-first-sight
 id: 5421
 ---
+
+# Nostr, love at first sight
 
 [image blog/nostr priority=true lazy=false]
 

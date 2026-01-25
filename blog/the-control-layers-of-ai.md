@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/the-control-layers-of-ai'
 title: 'The Control Layers of AI'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-12-30T17:05:37-05:00'
-author: Dries
-image: blog/orchestration-shift
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Artificial Intelligence'
   - Drupal
   - Activepieces
   - 'Workflow orchestration'
-featured: false
+image: blog/orchestration-shift
 published: true
-type: blog
-url: /the-control-layers-of-ai
+featured: false
 id: 6021
 ---
+
+# The Control Layers of AI
 
 [image blog/orchestration-shift lazy=false priority=true]
 

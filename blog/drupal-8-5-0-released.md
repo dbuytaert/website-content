@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-8-5-0-released'
 title: 'Drupal 8.5.0 released'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-03-07T20:45:37-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Learn what is new in Drupal 8.5.0, and how both content authors, site builders and developers can take advantage.'
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-8-5-0-released
 id: 4221
 ---
+
+# Drupal 8.5.0 released
 
 Earlier today, we released Drupal 8.5.0, which ships with improved features for content authors, site builders and developers.
 

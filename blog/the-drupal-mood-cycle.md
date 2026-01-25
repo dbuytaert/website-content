@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/the-drupal-mood-cycle'
 title: 'The Drupal mood cycle'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-06-09T09:25:34-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
-featured: true
 published: true
-type: blog
-url: /the-drupal-mood-cycle
+featured: true
 id: 2391
 ---
+
+# The Drupal mood cycle
 
 Yesterday, I talked about [the Gartner hype cycle](https://en.wikipedia.org/wiki/Hype_cycle) and [how the Drupal 7 release will evolve through it](https://dri.es/the-gartner-hype-cycle-and-drupal). Now I'd like to generalize it to show how the hype cycle affects the Drupal community – particularly core developers – during the development lifecycle of a major release.
 

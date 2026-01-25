@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-com-to-get-a-facelift'
 title: 'Drupal.com to get a facelift'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-03-17T08:08:28-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Trademark
 published: true
-type: blog
-url: /drupal-com-to-get-a-facelift
 id: 619
 ---
+
+# Drupal.com to get a facelift
 
 As explained in [my DrupalCon DC keynote presentation](https://dri.es/state-of-drupal-presentation-march-2009), drupal.com has been getting way too much organic traffic (1,000 unique visits on a good day) to not look great and show off all the cool things that have been happening within the [Drupal community](https://www.drupal.org). I have had a pretty embarrassing place holder on this personal site for years that is just the Druplicon (see screenshot below).
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/introducing-acquia-dev-cloud'
 title: 'Introducing Acquia Dev Cloud'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-03-01T14:45:01-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Cloud'
 published: true
-type: blog
-url: /introducing-acquia-dev-cloud
 id: 2211
 ---
+
+# Introducing Acquia Dev Cloud
 
 It has been only 18 months since we launched Acquia Hosting. Today, Acquia Hosting is serving 2.2 billion page views a month for several hundred customers and growing rapidly. In those 18 months, we also built a lot of tools to help organizations manage their entire Drupal workflow process from development to staging and production. The combined result is that we've built one of the world's best managed cloud environments for Drupal, and have proven that we can scale any Drupal site to meet the needs of the largest enterprises.
 

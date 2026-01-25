@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/commercial-drupal-training'
 title: 'Commercial Drupal training'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-05-09T04:49:35-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /commercial-drupal-training
 id: 70
 ---
+
+# Commercial Drupal training
 
 [Lullabot](https://www.lullabot.com/), one of the available [Drupal](https://www.drupal.org/) vendors, recently started to provide [commercial Drupal training](https://www.lullabot.com/training).
 

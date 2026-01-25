@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/mollom-status-update'
 title: 'Mollom status update'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-08-04T01:51:03-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Mollom
 published: true
-type: blog
-url: /mollom-status-update
 id: 481
 ---
+
+# Mollom status update
 
 As you might have read, [Wim Leers](https://wimleers.com/) (long term [Drupal](https://www.drupal.org) contributor) is a summer intern at [Mollom](https://mollom.com). After 6 months of public beta testing, and after having blocked [more than 5 million spam messages for more than 2,500 users](https://www.mollom.com/scorecard), we're getting ready to open our doors for business. While Ben and I continue to focus on the spam classifiers and the [various Mollom plugins](https://www.mollom.com/download), Wim is helping us to get ready for launch by implementing a payment system and more.
 

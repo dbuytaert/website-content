@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/from-imagination-to-augmented-reality-in-48-hours'
 title: 'From imagination to (augmented) reality in 48 hours'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-06-01T03:31:20-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'At the Acquia hackathon, a team showed how augmented reality can change how both online and physical storefronts interact with their consumers.'
 tags:
   - Drupal
@@ -9,10 +14,10 @@ tags:
   - Acquia
   - 'Augmented reality'
 published: true
-type: blog
-url: /from-imagination-to-augmented-reality-in-48-hours
 id: 3946
 ---
+
+# From imagination to (augmented) reality in 48 hours
 
 Every spring, members of Acquia's Product, Engineering and DevOps teams gather at our Boston headquarters for "Build Week". Build Week gives our global team the opportunity to meet face-to-face, to discuss our product strategy and roadmap, to make plans, and to collaborate on projects.
 

@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-october-2019'
 title: 'State of Drupal presentation (October 2019)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-11-05T10:45:04-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon Amsterdam Driesnote presentation'
-image: drupal/easy-update-to-drupal-9-sunrise-couple
 tags:
   - Drupal
   - 'State of Drupal'
   - DrupalCon
   - Amsterdam
+image: drupal/easy-update-to-drupal-9-sunrise-couple
 published: true
-type: blog
-url: /state-of-drupal-presentation-october-2019
 id: 4941
 ---
+
+# State of Drupal presentation (October 2019)
 
 Last week, many Drupalists came together for Drupalcon Amsterdam.
 

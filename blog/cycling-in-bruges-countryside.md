@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/cycling-in-bruges-countryside'
 title: "Cycling in Bruges' countryside"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-05-28T16:26:22-04:00'
-author: Dries
-image: miscellaneous-2018/riante-polder-route-2
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Travel
   - Belgium
+image: miscellaneous-2018/riante-polder-route-2
 published: true
-type: blog
-url: /cycling-in-bruges-countryside
 id: 4381
 ---
+
+# Cycling in Bruges' countryside
 
 It was such a beautiful day at the Belgian coast that we decided to go on a bike ride. We ended up doing a 44 km (27 miles) ride that took us from the North Sea beach, through the dunes into the beautiful countryside around Bruges.
 

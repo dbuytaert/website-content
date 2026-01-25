@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/cooking-with-alexa-and-drupal'
 title: 'Cooking with Alexa and Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-03-06T13:51:46-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'A demo of how you can integrate Drupal with Amazon Echo to build a voice-enabled cooking website.'
-image: acquia/cooking-with-alexa
 tags:
   - Drupal
   - Acquia
   - Amazon
+image: acquia/cooking-with-alexa
 published: true
-type: blog
-url: /cooking-with-alexa-and-drupal
 id: 4216
 ---
+
+# Cooking with Alexa and Drupal
 
 When I'm home, one of the devices I use most frequently is the Amazon Echo. I use it to play music, check the weather, set timers, check traffic, and more. It's a gadget that is beginning to inform many of my daily habits.
 

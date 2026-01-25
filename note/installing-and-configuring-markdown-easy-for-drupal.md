@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/installing-and-configuring-markdown-easy-for-drupal'
 title: 'Installing and configuring Markdown Easy for Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-08-20T03:29:25-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: note
 tags:
   - Drupal
   - Markdown
-featured: false
 published: true
-type: note
-url: /installing-and-configuring-markdown-easy-for-drupal
+featured: false
 id: 5866
 ---
+
+# Installing and configuring Markdown Easy for Drupal
 
 I recently installed [Markdown Easy](https://www.drupal.org/project/markdown_easy) for [Drupal](https://www.drupal.org/) and then upgraded from version 1.0 to 2.0. 
 

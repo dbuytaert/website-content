@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/roadmap'
 title: Roadmaps
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-05-03T10:10:19-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /roadmap
 id: 63
 ---
+
+# Roadmaps
 
 Now Drupal 4.7.0 is released, people start clamoring for some kind of roadmap. Drupal never had an official roadmap, and will never have one. People perceive a roadmap as a list of formal deliverables; they feel stranded when the roadmap is changed, and get upset when functionality is not completed in time. Volunteer-driven projects like Drupal can't make any guarantees. Things happen, or not. Code is ready, when it's ready. Volunteer-driven projects don't mix well with official roadmaps.
 

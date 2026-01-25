@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/content-and-commerce-a-big-opportunity-for-drupal'
 title: 'Content and Commerce: a big opportunity for Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-11-10T10:08:20-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Why we should integrate Drupal with third-party commerce platforms like Magento, DemandWare, Hybris and more'
 tags:
   - Drupal
   - Commerce
   - Acquia
 published: true
-type: blog
-url: /content-and-commerce-a-big-opportunity-for-drupal
 id: 3816
 ---
+
+# Content and Commerce: a big opportunity for Drupal
 
 Last week Acquia announced a partnership with Magento. I wanted to use this opportunity to explain why I am excited about this. I also want to take a step back and share what I see is a big opportunity for both Drupal, Acquia and commerce platforms.
 

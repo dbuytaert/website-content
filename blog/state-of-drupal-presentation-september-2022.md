@@ -1,9 +1,13 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-september-2022'
 title: 'State of Drupal presentation (September 2022)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-09-28T14:14:31-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon Europe 2022 DriesNote presentation'
-image: drupalcon-prague-2022/driesnote
 tags:
   - Drupal
   - DrupalCon
@@ -12,11 +16,12 @@ tags:
   - POSSE
   - 'State of Drupal'
   - Prague
+image: drupalcon-prague-2022/driesnote
 published: true
-type: blog
-url: /state-of-drupal-presentation-september-2022
 id: 5361
 ---
+
+# State of Drupal presentation (September 2022)
 
 Last week, over 1,200 Drupalists gathered in Prague for DrupalCon Europe. It was great to see everyone together in person.
 

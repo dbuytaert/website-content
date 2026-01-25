@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/acquia-engage-2017-keynote'
 title: 'Acquia Engage 2017 keynote'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-10-31T11:29:30-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The slides and video recording of my Acquia Engage presentation.'
-image: acquia/2017-market-trends
 tags:
   - Acquia
   - 'Acquia Engage'
+image: acquia/2017-market-trends
 published: true
-type: blog
-url: /acquia-engage-2017-keynote
 id: 4061
 ---
+
+# Acquia Engage 2017 keynote
 
 This October, Acquia welcomed over 650 people to the fourth annual [Acquia Engage conference](https://engage.acquia.com). In my opening keynote, I talked about [the evolution of Acquia's product strategy](https://dri.es/the-evolution-of-acquia-product-strategy) and the move from building websites to creating customer journeys. You can watch [a recording of my keynote](https://www.youtube.com/watch?v=EOr4jzKBCic) (30 minutes) or [download a copy of my slides](https://dri.es/files/acquia-engage-keynote-2017.pdf) (54 MB).
 

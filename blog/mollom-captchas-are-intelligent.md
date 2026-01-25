@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/mollom-captchas-are-intelligent'
 title: 'Mollom CAPTCHAs are "intelligent"'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-03-03T11:30:16-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
 published: true
-type: blog
-url: /mollom-captchas-are-intelligent
 id: 1511
 ---
+
+# Mollom CAPTCHAs are "intelligent"
 
 Every other week or so, someone asks me the following question: *How are Mollom CAPTCHAs better than those created by [CAPTCHA module](https://www.drupal.org/project/captcha)?*. This is an important question, and understanding it is central to understanding our philosophy with [Mollom](https://mollom.com).
 

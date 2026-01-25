@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/a-roadmap-for-making-drupal-more-api-first'
 title: 'A roadmap for making Drupal more API-first'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-07-07T10:06:50-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Web services'
 published: true
-type: blog
-url: /a-roadmap-for-making-drupal-more-api-first
 id: 3736
 ---
+
+# A roadmap for making Drupal more API-first
 
 In one of my recent blog posts, I articulated [a vision for the future of Drupal's web services](https://dri.es/advancing-drupal-web-services), and at DrupalCon New Orleans, I announced the [API-first initiative for Drupal 8](https://dri.es/state-of-drupal-presentation-may-2016). I believe that there is considerable momentum behind driving the web services initiative. As such, I want to provide a progress report, highlight some of the key people driving the work, and map the proposed vision from the previous blog post onto a rough timeline.
 

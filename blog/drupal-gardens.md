@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-gardens'
 title: 'Drupal Gardens'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-09-02T18:50:16-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Drupal Gardens'
 published: true
-type: blog
-url: /drupal-gardens
 id: 966
 ---
+
+# Drupal Gardens
 
 Acquia had two big product announcements at DrupalCon Paris. The first was the general availability of [Acquia Hosting](https://www.acquia.com/products-services/acquia-managed-cloud), which I'll blog about tomorrow. The second is a status update on "Acquia Gardens" which [we first announced in the beginning of 2009](https://dri.es/acquia-2009-roadmap).
 

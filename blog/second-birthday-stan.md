@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/second-birthday-stan'
 title: 'Second birthday Stan'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-06-07T07:50:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Family
   - Boston
 published: true
-type: blog
-url: /second-birthday-stan
 id: 2376
 ---
+
+# Second birthday Stan
 
 [image birthday-stan-2011/party-2]
 

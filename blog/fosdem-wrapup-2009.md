@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/fosdem-wrapup-2009'
 title: 'FOSDEM wrapup'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-02-09T07:27:17-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - FOSDEM
 published: true
-type: blog
-url: /fosdem-wrapup-2009
 id: 593
 ---
+
+# FOSDEM wrapup
 
 [FOSDEM](http://fosdem.org), the yearly Open Source gathering in Brussels, was good ol' fun. We had a crowd of 150 people in the Drupal Developer Room that must have collectively skipped their Sunday morning breakfast. *Respect!*
 

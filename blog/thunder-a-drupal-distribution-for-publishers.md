@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/thunder-a-drupal-distribution-for-publishers'
 title: 'Thunder, a Drupal distribution for publishers'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-04-08T09:29:03-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal distributions'
   - Publishing
 published: true
-type: blog
-url: /thunder-a-drupal-distribution-for-publishers
 id: 3641
 ---
+
+# Thunder, a Drupal distribution for publishers
 
 Earlier this month, the international media group [Hubert Burda Media](https://www.burda.com/) (about 2.5 billion annual revenue, more than 10,000 employees, and more than 300 titles) released its Drupal 8 distribution, [Thunder](http://www.thunder.org). Thunder includes custom modules specifically tailored to the needs of professional publishers.
 

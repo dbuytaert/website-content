@@ -1,12 +1,17 @@
 ---
+url: 'https://dri.es/projects'
 title: Projects
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-09-27T06:52:13-04:00'
-author: Dries
-published: true
+license: 'https://creativecommons.org/licenses/by/4.0/'
 type: page
-url: /projects
+published: true
 id: 152
 ---
+
+# Projects
 
 - [Drupal](https://www.drupal.org/) – I'm the Founder and Project Lead of Drupal. Drupal is Open Source software for building websites and digital experiences. I've been working on Drupal for more than 20 years.
 - [HTTP Headers Analyzer](/headers) – Learn how HTTP headers work, and use the analyzer to improve the performance and security of your websites. Used more than 2,500 times a day.

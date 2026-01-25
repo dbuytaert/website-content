@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/reservoir-a-simple-way-to-decouple-drupal'
 title: 'Reservoir, a simple way to decouple Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-08-22T16:52:54-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Reservoir is a Drupal-based content repository with all the necessary web service APIs needed to build decoupled front-end applications.'
-image: drupal/reservoir-api-documentation
 tags:
   - Drupal
   - 'Headless Drupal'
   - JavaScript
   - 'Web services'
   - 'Drupal distributions'
+image: drupal/reservoir-api-documentation
 published: true
-type: blog
-url: /reservoir-a-simple-way-to-decouple-drupal
 id: 4006
 ---
+
+# Reservoir, a simple way to decouple Drupal
 
 Headless Drupal seems to be taking the world by storm. I'm currently in Sydney, and everyone I talked to so far, including the attendees at the Sydney Drupal User Group, is looking into [headless Drupal](https://dri.es/tag/headless-drupal). Digital agencies are experimenting with it on more projects, and there is even [a new Decoupled Dev Days conference](https://decoupleddevdays.com/) dedicated to the topic.
 

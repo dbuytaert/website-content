@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/an-update-on-the-media-initiative-for-drupal-8-4-8-5'
 title: 'An update on the Media Initiative for Drupal 8.4/8.5'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-11-10T06:54:23-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Want to know what has been happening with the Media Initiative in Drupal? Read my update.'
-image: blog/2016-product-survey-top-content-author-improvements
 tags:
   - Drupal
+image: blog/2016-product-survey-top-content-author-improvements
 published: true
-type: blog
-url: /an-update-on-the-media-initiative-for-drupal-8-4-8-5
 id: 4066
 ---
+
+# An update on the Media Initiative for Drupal 8.4/8.5
 
 In my blog post, "[A plan for media management in Drupal 8](https://dri.es/a-plan-for-media-management-in-drupal-8)", I talked about some of the challenges with media in Drupal, the hopes of end users of Drupal, and the plan that the team working on the Media Initiative was targeting for future versions of Drupal 8. That blog post is one year old today. Since that time we released both Drupal 8.3 and Drupal 8.4, and Drupal 8.5 development is in full swing. In other words, it's time for an update on this initiative's progress and next steps.
 

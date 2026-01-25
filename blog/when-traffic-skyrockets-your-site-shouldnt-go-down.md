@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/when-traffic-skyrockets-your-site-shouldnt-go-down'
 title: "When traffic skyrockets your site shouldn't go down"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-02-16T23:06:20-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Web performance'
   - 'Acquia Cloud'
 published: true
-type: blog
-url: /when-traffic-skyrockets-your-site-shouldnt-go-down
 id: 3576
 ---
+
+# When traffic skyrockets your site shouldn't go down
 
 This week's [Grammy Awards](http://grammy.com) is one of the best examples of the high traffic events websites that [Acquia](https://www.acquia.com) is so well known for. This marks the fourth time we hosted the Grammys' website. We saw close to 5 million unique visitors requesting nearly 20 million pages on the day of the awards and the day after. From television's [Emmys](http://www.emmys.com) to Superbowl advertisers' sites, Acquia has earned its reputation for keeping their Drupal sites humming during the most crushing peaks of traffic.
 

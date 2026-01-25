@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/installing-drupal-cms-or-drupal-starshot-using-ddev'
 title: 'Installing Drupal CMS (or Drupal Starshot) using DDEV'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-11-15T05:21:38-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: note
 tags:
   - Drupal
   - 'Drupal Starshot'
 published: true
-type: note
-url: /installing-drupal-cms-or-drupal-starshot-using-ddev
 id: 5716
 ---
+
+# Installing Drupal CMS (or Drupal Starshot) using DDEV
 
 ### Installation instructions for end users and testers
 

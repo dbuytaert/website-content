@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/a-breakout-year-for-open-source-businesses'
 title: 'A breakout year for Open Source businesses'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-10-12T16:05:48-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The FUD around Open Source companies is officially over.'
 tags:
   - 'Open Source'
   - Acquisitions
 published: true
-type: blog
-url: /a-breakout-year-for-open-source-businesses
 id: 4541
 ---
+
+# A breakout year for Open Source businesses
 
 I was talking to [Chetan Puttagunta](https://www.linkedin.com/in/chetanputtagunta/) yesterday, and we both agreed that 2018 has been an incredible year for Open Source businesses so far. (Chetan helped lead [NEA's investment in Acquia](https://dri.es/acquia-raises-50-million-series-f), but is also an investor in Mulesoft, MongoDB and Elastic.)
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/the-post-browser-era-of-the-web-is-coming'
 title: 'The post-browser era of the web is coming'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-06-09T04:38:02-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Open Web'
   - Trends
   - Publishing
 published: true
-type: blog
-url: /the-post-browser-era-of-the-web-is-coming
 id: 3381
 ---
+
+# The post-browser era of the web is coming
 
 At yesterday's Worldwide Developer Conference keynote, Apple announced its annual updates to iOS, OS X, and the new watchOS. As usual, the Apple rumor blogs correctly predicted most of the important announcements weeks ago, but one important piece of news only leaked a few hours before the keynote: the launch of a new application called "News". [Apple's News app press release](https://www.apple.com/newsroom/2015/06/08Apple-Announces-News-App-for-iPhone-iPad/) noted: <q>News provides beautiful content from the world's greatest sources, personalized for you</q>.
 

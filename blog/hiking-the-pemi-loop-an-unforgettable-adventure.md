@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/hiking-the-pemi-loop-an-unforgettable-adventure'
 title: 'Hiking the Pemi Loop: an unforgettable adventure'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-09-28T10:48:50-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Lessons learned from hiking the Pemi Loop in New Hampshire's White Mountains."
-image: pemi-loop-2023/franconia-ridge
 tags:
   - Travel
   - Photography
-featured: true
+image: pemi-loop-2023/franconia-ridge
 published: true
-type: blog
-url: /hiking-the-pemi-loop-an-unforgettable-adventure
+featured: true
 id: 5506
 ---
+
+# Hiking the Pemi Loop: an unforgettable adventure
 
 The **Pemi Loop**, also known as the **Pemigewasset Loop**, in the White Mountains of New Hampshire, was more than just a hike. It became both a test of endurance and a celebration of a deep friendship.
 

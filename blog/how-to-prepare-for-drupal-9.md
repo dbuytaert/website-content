@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/how-to-prepare-for-drupal-9'
 title: 'How to prepare for Drupal 9'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-04-11T16:00:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Upgrading from Drupal 8 to Drupal 9 should be easy if you regularly check for and remove the use of deprecated code.'
-image: drupal/drupal-8-timeline-april-2019
 tags:
   - Drupal
+image: drupal/drupal-8-timeline-april-2019
 published: true
-type: blog
-url: /how-to-prepare-for-drupal-9
 id: 4816
 ---
+
+# How to prepare for Drupal 9
 
 With [Drupal 9 targeted to be released in June of 2020](https://dri.es/plan-for-drupal-9), many people are wondering what they need to do to prepare.
 

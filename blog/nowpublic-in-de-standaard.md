@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/nowpublic-in-de-standaard'
 title: 'NowPublic in De Standaard'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-08-06T05:42:59-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - NowPublic
 published: true
-type: blog
-url: /nowpublic-in-de-standaard
 id: 313
 ---
+
+# NowPublic in De Standaard
 
 Belgian newspaper [De Standaard](http://www.standaard.be/) (read daily by 80,000 people in [Flanders](https://en.wikipedia.org/wiki/Flanders)) picked up the [news about NowPublic's series A funding](https://dri.es/nowpublic-gets-10.6-million-usd) and published a one-page article on [NowPublic](http://nowpublic.com) and citizen journalism.
 

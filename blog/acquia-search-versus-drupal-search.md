@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-search-versus-drupal-search'
 title: 'Acquia Search versus Drupal search'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-07-06T14:07:52-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Search'
 published: true
-type: blog
-url: /acquia-search-versus-drupal-search
 id: 781
 ---
+
+# Acquia Search versus Drupal search
 
 It's been several days since [we launched Acquia Search commercially](https://dri.es/acquia-search-available-commercially). After reviewing the press, articles, comments, and tweets, I wanted to address the question of why we seem to care so much about search and why we can't simply improve Drupal's built-in search module. These questions came up during the beta test period as well, and have even [resonated with the WordPress community on Matt Mullenweg's blog](https://ma.tt/2009/07/acquia-searc/#comments). I feel they are important questions to address.
 

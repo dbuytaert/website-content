@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-download-statistics-2008'
 title: 'Drupal download statistics'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-07-14T10:14:01-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Statistics
 published: true
-type: blog
-url: /drupal-download-statistics-2008
 id: 475
 ---
+
+# Drupal download statistics
 
 Each year around this time, I share the download statistics for Drupal core (see also: [2006 statistics](https://dri.es/drupal-download-statistics-2006) and [2007 statistics](https://dri.es/drupal-download-statistics-2007)). In other words, time for this year's update.
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/google-to-invest-100000-usd-in-drupal'
 title: 'Google to invest 100,000 USD in Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-04-12T06:18:42-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /google-to-invest-100000-usd-in-drupal
 id: 249
 ---
+
+# Google to invest 100,000 USD in Drupal
 
 The summer is off to a great start as Google continues to blow loving kisses at Drupal.
 

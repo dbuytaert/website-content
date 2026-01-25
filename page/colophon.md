@@ -1,12 +1,17 @@
 ---
+url: 'https://dri.es/colophon'
 title: Colophon
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-11-01T04:55:26-04:00'
-author: Dries
-published: true
+license: 'https://creativecommons.org/licenses/by/4.0/'
 type: page
-url: /colophon
+published: true
 id: 5251
 ---
+
+# Colophon
 
 <h3 id="privacy">Privacy</h3>
 

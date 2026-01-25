@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-8-apis-are-freezing-but-not-frozen'
 title: 'Drupal 8 APIs are freezing but not frozen'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-08-28T11:02:55-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-8-apis-are-freezing-but-not-frozen
 id: 3011
 ---
+
+# Drupal 8 APIs are freezing but not frozen
 
 Since Drupal 8's [API freeze was announced](https://dri.es/drupal-8-api-freeze) on July 1, there has been some confusion about what API freeze means, from core developers as well as module and theme developers starting Drupal 8 upgrades of their projects. This post clarifies the API completion process, and documents what different audiences can expect from Drupal 8's development cycle and when.
 

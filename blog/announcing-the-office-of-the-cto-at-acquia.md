@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/announcing-the-office-of-the-cto-at-acquia'
 title: 'Announcing the Office of the CTO at Acquia'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-04-25T13:51:35-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /announcing-the-office-of-the-cto-at-acquia
 id: 2321
 ---
+
+# Announcing the Office of the CTO at Acquia
 
 There are two things that I need most; (a) a hair cut and (b) more time. A hair cut I just got last weekend so that leaves me with finding more time.
 

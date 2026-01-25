@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/how-should-you-decouple-drupal'
 title: 'How should you decouple Drupal?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-03-22T06:03:37-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Do I build my website with Drupal's built-in templating layer or do I use Drupal's decoupled or headless capabilities in combination with a JavaScript framework?"
-image: drupal/how-to-decouple-drupal-in-2017-flowchart-full
 tags:
   - Drupal
   - JavaScript
   - 'Headless Drupal'
+image: drupal/how-to-decouple-drupal-in-2017-flowchart-full
 published: true
-type: blog
-url: /how-should-you-decouple-drupal
 id: 3616
 ---
+
+# How should you decouple Drupal?
 
 **Update:** A more up-to-date version of this blog post is available at [How to decouple Drupal in 2019](https://dri.es/how-to-decouple-drupal-in-2019).
 

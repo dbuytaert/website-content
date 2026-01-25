@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/funding-open-source-like-public-infrastructure'
 title: 'Funding Open Source like public infrastructure'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-08-13T02:57:01-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'To protect the digital foundation of essential government services, governments should invest in Open Source as public infrastructure and shift from consumption to contribution.'
-image: blog/funding-open-source-like-public-infrastructure
 tags:
   - 'Open Source'
   - Drupal
   - Policy
   - 'Digital sovereignty'
-featured: true
+image: blog/funding-open-source-like-public-infrastructure
 published: true
-type: blog
-url: /funding-open-source-like-public-infrastructure
+featured: true
 id: 5856
 ---
+
+# Funding Open Source like public infrastructure
 
 [image blog/funding-open-source-like-public-infrastructure lazy=false priority=true]
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/acquia-is-hiring-in-europe'
 title: 'Acquia is hiring in Europe'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-02-27T14:51:39-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
 published: true
-type: blog
-url: /acquia-is-hiring-in-europe
 id: 2911
 ---
+
+# Acquia is hiring in Europe
 
 We just celebrated our two year anniversary of [Acquia](https://www.acquia.com)'s expansion into the European market. It has been a phenomenal two years and as a result, we have grown to over 50 employees in Europe. Our UK office is bursting at the seams so we're about to move into our new digs in Reading. We also have a growing presence in the Benelux, France and Germany.
 

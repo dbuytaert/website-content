@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/help-needed-what-is-drupal'
 title: 'Help needed: what is Drupal?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-02-25T06:53:46-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /help-needed-what-is-drupal
 id: 2206
 ---
+
+# Help needed: what is Drupal?
 
 In my upcoming DrupalCon keynote, I'd like to talk a bit about *"What is Drupal?"*. It means something different for all of us. As an experiment, I'd love for each of you to describe, in one short sentence, what Drupal is for you. It would be great if you did a short 10-15 second video, but you can also leave a comment on this post. Be honest, be smart, be funny or wicked creative ... all submissions welcome!
 

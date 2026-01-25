@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/open-source-code-by-the-people-for-the-people'
 title: 'Open Source code: by the people, for the people'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-09-03T17:44:03-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Open Source'
   - Government
 published: true
-type: blog
-url: /open-source-code-by-the-people-for-the-people
 id: 3021
 ---
+
+# Open Source code: by the people, for the people
 
 Many organizations adopt Open Source for reasons like flexibility and agility. Everyone needs to do more with less. But in government, Open Source drives both civic engagement and government participation like never before. Because of digital, the world feels much smaller and more connected. And Open Source gives people the opportunity to rally around a cause, no matter where they live.
 

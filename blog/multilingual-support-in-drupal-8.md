@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/multilingual-support-in-drupal-8'
 title: 'Multilingual support in Drupal 8'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-05-09T14:40:05-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /multilingual-support-in-drupal-8
 id: 2341
 ---
+
+# Multilingual support in Drupal 8
 
 While English is the *lingua franca* for business these days, only about five percent of the world's population speaks it as their first language, and [more than 70 percent doesn't speak it at all](https://www.ethnologue.com/show_language.asp?code=eng). Even in Europe, where English is widely known, people value tools in their own language. I saw this first hand a few weeks ago when I was there to [give some presentations about Drupal](https://dri.es/focusing-on-all-drupal-competitors). Most of the questions I got were about localization (l10n) and internationalization (i18n). Language is both an accessibility issue and a user experience issue; [strength in this area is crucial to Drupal's success](https://dri.es/reaching-out-with-drupal-6). That's why I decided to make multilingual access an official initiative for Drupal 8, with [Gábor Hojtsy](https://www.drupal.org/user/4166) as its Initiative Owner.
 

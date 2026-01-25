@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/one-year-later-the-acquia-certification-program'
 title: 'One year later: the Acquia Certification Program'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-07-01T09:31:34-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /one-year-later-the-acquia-certification-program
 id: 3391
 ---
+
+# One year later: the Acquia Certification Program
 
 A little over a year ago [we launched the Acquia Certification Program for Drupal](https://dri.es/acquia-certification-for-drupal). We ended up the first year with close to 1,000 exams taken, which exceeded our goal of 300-600. Today, I'm pleased to announce that the Acquia Certification Program passed another major milestone with over [1,000 exams passed](https://certification.acquia.com/) (not just taken).
 

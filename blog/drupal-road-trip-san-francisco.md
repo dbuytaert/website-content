@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-road-trip-san-francisco'
 title: 'Drupal road trip to San Francisco'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-06-17T15:45:33-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'San Francisco'
 published: true
-type: blog
-url: /drupal-road-trip-san-francisco
 id: 94
 ---
+
+# Drupal road trip to San Francisco
 
 About six years ago I started working on Drupal. Drupal, at that time, was an experimental platform that helped me explore new web technologies from my student dorm. Contrast this with the present. Today, there are hundreds of people contributing to the project, building and relying on that foundation, and hundreds of thousands of people downloading it. What started as a hobby project is now starting to get on the radar of some of the [bigger projects and players](/tag/drupal-sites) ... It is no longer the casual hobby project it used to be.
 

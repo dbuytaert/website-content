@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-8-api-freeze'
 title: 'Drupal 8 API freeze'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-07-01T10:51:48-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-8-api-freeze
 id: 2991
 ---
+
+# Drupal 8 API freeze
 
 July 1st has arrived. As announced earlier, this marks the start of the Drupal 8 API freeze (formerly known as the "code freeze"). I'm very excited about how Drupal 8 is shaping up; it will be a much more powerful and easier to use Drupal. While there is a lot of work ahead of us, I feel good about moving forward with the next phase of the Drupal 8 development cycle.
 

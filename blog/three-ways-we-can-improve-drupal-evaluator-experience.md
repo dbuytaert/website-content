@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/three-ways-we-can-improve-drupal-evaluator-experience'
 title: "Three ways we can improve Drupal's evaluator experience"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-02-27T10:41:13-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "It’s time to improve Drupal's download process and end-user documentation. I believe we can improve Drupal's evaluator experience with these three steps."
-image: drupal/evaluator-conversion-funnel
 tags:
   - Drupal
   - Usability
   - 'Drupal Association'
   - Governance
+image: drupal/evaluator-conversion-funnel
 published: true
-type: blog
-url: /three-ways-we-can-improve-drupal-evaluator-experience
 id: 4196
 ---
+
+# Three ways we can improve Drupal's evaluator experience
 
 Last week, [Matthew Grasmick](https://www.drupal.org/u/grasmash) stepped into the shoes of a developer who has no Drupal experience, and attempted to get a new "Hello world!" site up and running using four different PHP frameworks: [WordPress](https://wordpress.org), [Laravel](https://laravel.com), [Symfony](https://symfony.com) and [Drupal](https://www.drupal.org). He shared his experience in [a transparent blog post](http://matthewgrasmick.com/compare-php-frameworks). In addition to detailing the inefficiencies in Drupal's download process and end-user documentation, Matt also shows that out of the four frameworks, Drupal required the most steps to get installed.
 

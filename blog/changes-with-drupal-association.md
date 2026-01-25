@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/changes-with-drupal-association'
 title: 'Changes with the Drupal Association'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-05-27T20:17:00-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /changes-with-drupal-association
 id: 3691
 ---
+
+# Changes with the Drupal Association
 
 The [Drupal community](https://www.drupal.org) is very special because of [its culture of adapting to change](https://dri.es/the-pain-before-the-payoff), determination and passion, but also its fun and friendship. It is a combination that is hard to come by, even in the Open Source world. Our culture enabled us to work through really long, but ground-breaking release cycles, which also prompted us to celebrate the release of Drupal 8 with 240 parties around the world.
 

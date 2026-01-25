@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/movember-2010'
 title: 'Movember 2010'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-11-11T21:44:20-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Self-portrait
   - Acquia
 published: true
-type: blog
-url: /movember-2010
 id: 1971
 ---
+
+# Movember 2010
 
 Each year, the 'Mo' (slang for moustache) and November come together for [Mo-vember](http://movember.com).
 

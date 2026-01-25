@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/acquia-delivers-during-mueller-report-traffic-surge'
 title: 'Acquia delivers during Mueller report traffic surge'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-05-23T13:41:07-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Acquia and Drupal kept Justice.gov fast and available as Mueller report traffic spiked seven thousand percent.'
 tags:
   - Drupal
   - Acquia
   - Government
-featured: true
 published: true
-type: blog
-url: /acquia-delivers-during-mueller-report-traffic-surge
+featured: true
 id: 4851
 ---
+
+# Acquia delivers during Mueller report traffic surge
 
 Last month, [Special Counsel Robert Mueller's long-awaited report](https://en.wikipedia.org/wiki/Mueller_Report) on Russian interference in the U.S. election was released on the [Justice.gov](https://www.justice.gov) website.
 

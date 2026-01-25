@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/linux-journal-using-drupal-and-mollom'
 title: 'Linux Journal using Drupal and Mollom'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-11-23T04:13:33-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
@@ -9,10 +14,10 @@ tags:
   - 'Mollom sites'
   - Publishing
 published: true
-type: blog
-url: /linux-journal-using-drupal-and-mollom
 id: 1216
 ---
+
+# Linux Journal using Drupal and Mollom
 
 [Linux Journal](http://linuxjournal.com) is a monthly magazine focused specifically on Linux. Linux Journal [switched to Drupal in 2005](https://www.drupal.org/node/15223), and hasn't looked back since. Last year in October of 2008 [Linux Journal](http://linuxjournal.com) decided to turn to [Mollom](https://mollom.com) to protect their site against spammers.
 

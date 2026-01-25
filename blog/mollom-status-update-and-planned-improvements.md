@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/mollom-status-update-and-planned-improvements'
 title: 'Mollom status update and planned improvements'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-08-21T04:44:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Mollom
 published: true
-type: blog
-url: /mollom-status-update-and-planned-improvements
 id: 951
 ---
+
+# Mollom status update and planned improvements
 
 We recently wrote about the fact that [the number of messages we've filtered have doubled in three months](https://dri.es/hundred-million-spam-attempts-blocked). All things considered, we're handling well over 200 million HTTP requests each month, making Mollom the largest web service I've ever helped build. Further, since each of these requests is dynamic, they're fairly expensive because we can't apply even simple caching techniques. Each request to Mollom retrieves data, invokes a parser, uses statistical classifiers, and updates reputation models, among other things.
 

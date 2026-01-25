@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/acquia-a-leader-in-the-2020-gartner-magic-quadrant-for-digital-experience-platforms'
 title: 'Acquia a Leader in the 2020 Gartner Magic Quadrant for Digital Experience Platforms'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-01-31T09:54:42-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'For the first time, Acquia has been recognized as a leader in the Gartner MQ for Digital Experience Platforms.'
 tags:
   - Acquia
   - Drupal
   - Gartner
 published: true
-type: blog
-url: /acquia-a-leader-in-the-2020-gartner-magic-quadrant-for-digital-experience-platforms
 id: 4971
 ---
+
+# Acquia a Leader in the 2020 Gartner Magic Quadrant for Digital Experience Platforms
 
 Today, for the first time in our company's history, [Acquia](https://www.acquia.com) was named a Leader in [Gartner's Magic Quadrant for Digital Experience Platforms (DXPs)](https://www.acquia.com/resources/whitepaper/2020-gartner-magic-quadrant-digital-experience-platforms). This is an incredible milestone for us.
 

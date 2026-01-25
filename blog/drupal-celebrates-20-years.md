@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-celebrates-20-years'
 title: 'Drupal celebrates 20 years!'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-01-15T08:15:59-05:00'
-author: Dries
-image: drupal/happy-twentieth-birthday
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Birthday
-featured: true
+image: drupal/happy-twentieth-birthday
 published: true
-type: blog
-url: /drupal-celebrates-20-years
+featured: true
 id: 5136
 ---
+
+# Drupal celebrates 20 years!
 
 [image drupal/happy-twentieth-birthday]
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/spicing-up-my-blog-venturing-into-new-topics'
 title: 'Spicing up my blog: venturing into new topics'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-01-25T17:50:31-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "I'm planning to widen my blog's scope to include a wider array of interests and passions."
-image: blog/interests-cabinet
 tags:
   - 'My site'
   - Writing
+image: blog/interests-cabinet
 published: true
-type: blog
-url: /spicing-up-my-blog-venturing-into-new-topics
 id: 5551
 ---
+
+# Spicing up my blog: venturing into new topics
 
 I recently added a new page to my website, which displays the [top 10 topics of each year](https://dri.es/topics-by-year). This page serves a dual purpose: it visualizes the evolution of my interests, and provides visitors with an overview of the core content of my site.
 

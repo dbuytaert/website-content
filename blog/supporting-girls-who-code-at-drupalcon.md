@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/supporting-girls-who-code-at-drupalcon'
 title: 'Supporting Girls Who Code at DrupalCon'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-04-09T12:22:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Diversity
   - DrupalCon
   - Diversity
 published: true
-type: blog
-url: /supporting-girls-who-code-at-drupalcon
 id: 4806
 ---
+
+# Supporting Girls Who Code at DrupalCon
 
 For most people, today marks the first day of DrupalCon Seattle.
 

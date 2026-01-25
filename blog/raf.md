@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/raf'
 title: Raf
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-01-30T03:57:10-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Family
 published: true
-type: blog
-url: /raf
 id: 21
 ---
+
+# Raf
 
 [image raf-2006/raf-1]
 

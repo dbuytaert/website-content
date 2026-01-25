@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-launches-training-program-for-drupal'
 title: 'Acquia launches training program for Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-04-15T15:12:11-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-launches-training-program-for-drupal
 id: 1581
 ---
+
+# Acquia launches training program for Drupal
 
 For a long time now, [I've been saying that we need to train more Drupalistas](https://dri.es/training-more-drupalistas). Almost every Drupal company I talked to is trying to hire talented Drupal developers, but can't find any, to the point that it is holding back Drupal's adoption.
 

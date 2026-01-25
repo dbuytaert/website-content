@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/open-source-summit-2007-photos'
 title: 'Open Source CMS Summit 2007 photos'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-03-28T17:52:02-04:00'
-author: Dries
-image: drupalcon-sunnyvale-2007/attendees
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Photography
   - DrupalCon
+image: drupalcon-sunnyvale-2007/attendees
 published: true
-type: blog
-url: /open-source-summit-2007-photos
 id: 242
 ---
+
+# Open Source CMS Summit 2007 photos
 
 I just processed and uploaded a number of photos that I shot at the [Open Source CMS Summit at Yahoo!](https://dri.es/open-source-cms-summit-at-yahoo). With more than 250 Drupal developers attending, this year's OSCMS Summit was simply overwhelming.
 

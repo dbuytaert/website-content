@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-certification-for-drupal'
 title: 'Acquia certification for Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-03-20T16:16:23-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-certification-for-drupal
 id: 3111
 ---
+
+# Acquia certification for Drupal
 
 I'm proud to share that [Acquia announced its certification program](https://www.acquia.com/products-services/acquia-certification-program-overview) today. You can now get "Acquia certified in Drupal", something I'm pretty excited about.
 

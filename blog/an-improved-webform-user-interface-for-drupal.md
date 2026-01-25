@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/an-improved-webform-user-interface-for-drupal'
 title: 'An improved Webform user interface for Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-12-29T03:28:33-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Drupal Gardens'
 published: true
-type: blog
-url: /an-improved-webform-user-interface-for-drupal
 id: 2076
 ---
+
+# An improved Webform user interface for Drupal
 
 At [Acquia](https://www.acquia.com), we spent a lot of time improving the [Webform module](https://www.drupal.org/project/webform), one of the top 10 most popular Drupal modules, as well as the [Form Builder module](https://www.drupal.org/project/form_builder), a companion module that provides an improved user interface for the Webform module. The Webform module and the Form Builder module allow people to create custom forms such as contact forms, online surveys and more.
 

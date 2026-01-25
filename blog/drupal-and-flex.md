@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-and-flex'
 title: 'Drupal and Flex'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-08-30T05:12:40-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
 published: true
-type: blog
-url: /drupal-and-flex
 id: 321
 ---
+
+# Drupal and Flex
 
 The past year or so, I've been dabbling my toes in [Adobe Flex](http://flex.org), a software development kit that makes it easy for application developers to build Rich Internet Applications (RIAs). As an early beta tester I've kept in touch with [Adobe](http://adobe.com) and under the guidance of [Mike Potter](http://riapedia.com/) (Adobe Flex team), Adobe has since funded Scott Nelson to work on the [Drupal services project](https://www.drupal.org/project/services) and the [Drupal AMF PHP project](https://www.drupal.org/project/amfphp). In the process they have also written code that fixes bugs for loading and saving content in Drupal, and more. *Thanks Adobe!*
 

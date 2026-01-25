@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/posting-my-phone-battery-status-to-my-site'
 title: "Posting my phone's battery status to my site"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-02-25T20:56:19-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Working towards being able to publish notes and photos from my phone'
 tags:
   - Drupal
   - POSSE
   - 'Web services'
 published: true
-type: blog
-url: /posting-my-phone-battery-status-to-my-site
 id: 4191
 ---
+
+# Posting my phone's battery status to my site
 
 Earlier this month, [I uninstalled Facebook from my phone](https://dri.es/taking-control-of-my-data-and-social-media). I also made a commitment [to own my own content](https://dri.es/to-pesos-or-to-posse) and [to share shorter notes on my site](https://dri.es/reclaiming-my-blog-as-my-thought-space).
 

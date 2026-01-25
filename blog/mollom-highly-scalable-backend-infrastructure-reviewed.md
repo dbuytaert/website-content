@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/mollom-highly-scalable-backend-infrastructure-reviewed'
 title: "Mollom's highly-scalable backend infrastructure reviewed"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-02-10T09:58:39-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
 published: true
-type: blog
-url: /mollom-highly-scalable-backend-infrastructure-reviewed
 id: 2181
 ---
+
+# Mollom's highly-scalable backend infrastructure reviewed
 
 [High Scalability](http://highscalability.com), a site dedicated to describing and cataloging successful, highly-scalable, websites, has recently posted a [detailed review of Mollom's highly-scalable backend infrastructure](http://highscalability.com/blog/2011/2/8/mollom-architecture-killing-over-373-million-spams-at-100-re.html).
 

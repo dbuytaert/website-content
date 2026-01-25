@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/silverstripe-to-add-native-mollom-support'
 title: 'SilverStripe to add native Mollom support'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-03-13T03:54:57-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
 published: true
-type: blog
-url: /silverstripe-to-add-native-mollom-support
 id: 616
 ---
+
+# SilverStripe to add native Mollom support
 
 [SilverStripe](https://www.silverstripe.org/) has announced that the [upcoming release](https://www.silverstripe.org/blog/silverstripe-2-3-1rc1-released-testers-wanted/) of their open-source CMS includes native support for [Mollom](https://mollom.com). According to the [announcement](https://www.silverstripe.org/blog/silverstripe-2-3-1rc1-released-testers-wanted/), SilverStripe's Mollom implementation protects page and blog comments, user registrations, forum posts, and custom PHP forms.
 

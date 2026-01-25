@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/drupalcon-brussels'
 title: 'DrupalCon Brussels'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-08-07T04:47:37-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Barcamp
@@ -10,10 +15,10 @@ tags:
   - DrupalCon
   - Invitations
 published: true
-type: blog
-url: /drupalcon-brussels
 id: 120
 ---
+
+# DrupalCon Brussels
 
 Good news! The next Drupal conference (DrupalCon) will take place on September 22nd to 23rd in Brussels (Belgium), alongside [Euro OSCON 2006](http://conferences.oreillynet.com/euos2006/), [GovCamp 2006](http://www.govcamp.org/) and [BarCamp Brussels](http://barcamp.org/BarCampBrussels). We setup a conference website at <https://events.drupal.org/>.
 

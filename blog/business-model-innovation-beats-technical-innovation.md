@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/business-model-innovation-beats-technical-innovation'
 title: 'Business model innovation beats technical innovation'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-12-01T10:33:03-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Business model innovation is usually more powerful than technical innovation; it is more disruptive and harder to copy than technical innovation.'
-image: blog/business-model-innovation
 tags:
   - Drupal
   - 'Startup lessons'
   - Innovation
   - 'Business model'
-featured: true
+image: blog/business-model-innovation
 published: true
-type: blog
-url: /business-model-innovation-beats-technical-innovation
+featured: true
 id: 3291
 ---
+
+# Business model innovation beats technical innovation
 
 [image blog/business-model-innovation]
 

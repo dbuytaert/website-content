@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/the-road-back-to-the-office'
 title: 'The road back to the office'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-02-26T06:14:12-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
 published: true
-type: blog
-url: /the-road-back-to-the-office
 id: 5166
 ---
+
+# The road back to the office
 
 I've now been <strike>living at work</strike> working from home for almost one year.
 

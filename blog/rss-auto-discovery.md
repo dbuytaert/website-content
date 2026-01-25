@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/rss-auto-discovery'
 title: 'RSS auto-discovery'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-03-14T21:21:11-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'My site'
 published: true
-type: blog
-url: /rss-auto-discovery
 id: 4256
 ---
+
+# RSS auto-discovery
 
 While working on [my POSSE plan](https://dri.es/my-posse-plan-for-evolving-my-site), I realized that my site no longer supported "RSS auto-discovery". RSS auto-discovery is a technique that makes it possible for browsers and RSS readers to automatically find a site's RSS feed. For example, when you enter <https://dri.es> in an RSS reader or browser, it should automatically discover that the feed is <https://dri.es/rss.xml>. It's a small adjustment, but it helps improve the usability of the [open web](https://dri.es/tag/open-web).
 

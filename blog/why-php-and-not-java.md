@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/why-php-and-not-java'
 title: 'Why PHP (and not Java)?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-04-28T05:42:32-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Do you regret the fact that you wrote Drupal in PHP?'
-image: blog/php-vs-java
 tags:
   - Drupal
   - Java
+image: blog/php-vs-java
 published: true
-type: blog
-url: /why-php-and-not-java
 id: 60
 ---
+
+# Why PHP (and not Java)?
 
 [image blog/php-vs-java]
 

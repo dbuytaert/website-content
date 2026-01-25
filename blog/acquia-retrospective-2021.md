@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/acquia-retrospective-2021'
 title: 'Acquia retrospective 2021'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-01-11T01:47:11-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'In my 2021 Acquia retrospective, I reflect on our business momentum, the evolution of the Acquia Digital Experience Platform (DXP) and my personal growth.'
-image: acquia/2021-logos
 tags:
   - Retrospective
   - Acquia
   - Drupal
+image: acquia/2021-logos
 published: true
-type: blog
-url: /acquia-retrospective-2021
 id: 5291
 ---
+
+# Acquia retrospective 2021
 
 At the beginning of every year, I like to publish a retrospective that looks back at the last 12 months at [Acquia](https://www.acquia.com/). I write these retrospectives because I like to keep a record of the changes that happen at the company. It also helps me to reflect.
 

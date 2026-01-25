@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/upei-goes-drupal'
 title: 'UPEI goes Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-10-22T09:52:56-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Canada
   - Education
 published: true
-type: blog
-url: /upei-goes-drupal
 id: 344
 ---
+
+# UPEI goes Drupal
 
 While on the [subject of Canada](https://dri.es/bonjour-montreal), the [University of Prince Edward Island](http://upei.ca) (UPEI) is moving many of their public facing websites to [Drupal](https://www.drupal.org). So far, 85 UPEI sites use Drupal. [Ryan Palmer](http://ryanpalmer.ca), the driving force behind this work, told me that the many Faculty of Arts department sites should be online by the end of November, and that many other smaller sites are in various stages of completion. One year down the road, they expect to be in the 300-site range.
 

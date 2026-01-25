@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/excessive-dogfooding-and-zealotism'
 title: 'Excessive dogfooding and zealotism'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-09-05T10:47:14-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Software development'
 published: true
-type: blog
-url: /excessive-dogfooding-and-zealotism
 id: 137
 ---
+
+# Excessive dogfooding and zealotism
 
 In software development one is *eating his own dog food* when he is using its own product (i.e. the software he develops). I'm using [Drupal](https://www.drupal.org/) for my personal website, so I'm eating my own dogfood. Drupal.org is using Drupal, so the Drupal community is eating its own dogfood. Many developers in the Drupal community, or the Open Source community in general, eat their own dog food.
 

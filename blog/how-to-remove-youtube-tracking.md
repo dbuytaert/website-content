@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/how-to-remove-youtube-tracking'
 title: 'How to remove YouTube tracking'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-03-26T15:14:45-04:00'
-author: Dries
-image: blog/webpagetest-youtube-embed-2019-before
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'My site'
   - 'Web performance'
   - Privacy
+image: blog/webpagetest-youtube-embed-2019-before
 published: true
-type: blog
-url: /how-to-remove-youtube-tracking
 id: 4801
 ---
+
+# How to remove YouTube tracking
 
 I don't use Google Analytics or any other web analytics service on [dri.es](https://dri.es). Why not? Because I don't desire to know how many people visit my site, where they come from, or what operating system they use.
 

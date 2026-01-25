@@ -1,9 +1,13 @@
 ---
+url: 'https://dri.es/automating-alt-text-generation-ai'
 title: 'Automating alt-text generation with AI'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-02-20T06:22:29-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How I created an automated system that uses AI to generate alt-text for all the images on my website.'
-image: isle-of-skye-2024/journey-to-skye
 tags:
   - 'My site'
   - Accessibility
@@ -12,12 +16,13 @@ tags:
   - Alt-text
   - Python
   - Automation
-featured: false
+image: isle-of-skye-2024/journey-to-skye
 published: true
-type: blog
-url: /automating-alt-text-generation-ai
+featured: false
 id: 5761
 ---
+
+# Automating alt-text generation with AI
 
 Billions of images on the web lack proper `alt`-text, making them inaccessible to millions of users who rely on screen readers.
 

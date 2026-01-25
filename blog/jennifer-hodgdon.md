@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/jennifer-hodgdon'
 title: 'Jennifer Hodgdon'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-02-23T11:59:36-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Branch maintainer'
 published: true
-type: blog
-url: /jennifer-hodgdon
 id: 2651
 ---
+
+# Jennifer Hodgdon
 
 As the Documentation Team lead, [Jennifer "jhodgdon" Hodgdon](https://www.drupal.org/user/155601) has done a fantastic job of not only keeping Drupal core's API documentation high-quality and consistent, but also of on-boarding new Drupal core contributors through the ["Novice" issue queue](https://www.drupal.org/project/issues/search/drupal?issue_tags=Novice).
 

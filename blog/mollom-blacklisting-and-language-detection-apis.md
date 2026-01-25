@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/mollom-blacklisting-and-language-detection-apis'
 title: 'Mollom blacklisting and language detection APIs'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-02-07T16:43:35-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
 published: true
-type: blog
-url: /mollom-blacklisting-and-language-detection-apis
 id: 1427
 ---
+
+# Mollom blacklisting and language detection APIs
 
 If you're a regular reader of this blog, you know that [Mollom](https://mollom.com) is a continual work in progress. By studying how people use Mollom, by listening to feature requests, and by examining the [plugins](https://www.mollom.com/download) that our [software partners](https://www.mollom.com/partners) and others have made available, we've introduced new ways to interact with Mollom.
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/warner-bros-using-drupal'
 title: 'Warner Bros using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-07-25T02:34:50-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - 'Fortune 500'
   - Music
 published: true
-type: blog
-url: /warner-bros-using-drupal
 id: 302
 ---
+
+# Warner Bros using Drupal
 
 [Ethan](http://www.blackrimglasses.com/) just let me know that the main Warner Bros Records website, <http://www.warnerbrosrecords.com> (or <http://wbr.com>), is a Drupal site. Furthermore, rumor has it that the design was done by [Prod4ever](http://www.prod4ever.com) and that the Drupal integration was done by [AlianDesign](http://aliandesign.com/). *Well, it looks smashing!*
 

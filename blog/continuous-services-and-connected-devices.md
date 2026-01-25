@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/continuous-services-and-connected-devices'
 title: 'Continuous services and connected devices'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-10-26T09:48:11-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Microsoft
 published: true
-type: blog
-url: /continuous-services-and-connected-devices
 id: 1941
 ---
+
+# Continuous services and connected devices
 
 Ray Ozzie, who took over the role of Chief Software Architect at Microsoft when from Bill Gates retired about five years ago, announced recently that he will be retiring soon. When Ozzie first became Chief Software Architect, he wrote a famous 5000-word internal memorandum titled, [The Internet Services Disruption](http://ozzie.net/docs/the-internet-services-disruption/). The memo outlined the transformative and disruptive potential of web services.
 

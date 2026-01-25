@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/drupalcon-barcelona'
 title: 'DrupalCon Barcelona'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-07-02T05:04:55-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'An invitation to DrupalCon Barcelona 2007.'
 tags:
   - Drupal
@@ -9,10 +14,10 @@ tags:
   - 'Drupal Association'
   - Invitations
 published: true
-type: blog
-url: /drupalcon-barcelona
 id: 292
 ---
+
+# DrupalCon Barcelona
 
 ![DrupalCon Barcelona](https://dri.es/files/images/drupal/drupalcon-barcelona-2007.jpg)
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/how-acquia-is-addressing-the-explosion-of-sites'
 title: 'How Acquia is addressing the explosion of sites'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-09-15T05:50:27-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Cloud'
 published: true
-type: blog
-url: /how-acquia-is-addressing-the-explosion-of-sites
 id: 3426
 ---
+
+# How Acquia is addressing the explosion of sites
 
 I believe that the "digitalization" of the world is a "megatrend" that will continue for decades. On the one hand, organizations are shifting their businesses online, often inventing new ways to do business. On the other hand, customers are expecting a better and smarter user experience online.
 

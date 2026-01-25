@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-com-refresh-launched-2014'
 title: 'Drupal.com refresh launched'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-08-14T13:52:48-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-com-refresh-launched-2014
 id: 3196
 ---
+
+# Drupal.com refresh launched
 
 Back in the early days of Drupal, [Drupal.com](https://drupal.com) looked like this:
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/extended-security-coverage-for-drupal-8-minor-releases'
 title: 'Extended security coverage for Drupal 8 minor releases'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-09-13T02:50:45-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal 8 site owners now have six months to upgrade between minor releases instead of one month'
-image: drupal/new-drupal-8-security-policy-for-minor-releases
 tags:
   - Drupal
   - Security
+image: drupal/new-drupal-8-security-policy-for-minor-releases
 published: true
-type: blog
-url: /extended-security-coverage-for-drupal-8-minor-releases
 id: 4516
 ---
+
+# Extended security coverage for Drupal 8 minor releases
 
 Since the launch of Drupal 8.0, we have successfully launched a new minor release on schedule every six months. I'm very proud of the community for this achievement. Prior to Drupal 8, most significant new features were only added in *major releases* like Drupal 6 or Drupal 7. Thanks to our new release cadence we now consistently and predictably ship great new features twice a year in *minor releases* (e.g. [Drupal 8.6 comes with many new features](https://dri.es/drupal-8-6-0-released)).
 

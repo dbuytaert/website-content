@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/an-overview-of-web-service-solutions-in-drupal-8'
 title: 'An overview of web service solutions in Drupal 8'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-05-04T05:48:47-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Web services'
 published: true
-type: blog
-url: /an-overview-of-web-service-solutions-in-drupal-8
 id: 3666
 ---
+
+# An overview of web service solutions in Drupal 8
 
 Today's third-party applications increasingly depend on web services to retrieve and manipulate data, and Drupal offers a range of web services options for API-first content delivery. For example, a robust first-class web services layer is now available out-of-the-box with Drupal 8. But there are also new approaches to expose Drupal data, including Services and newer entrants like RELAXed Web Services and GraphQL.
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/founder-dilution'
 title: 'Founder dilution'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-03-04T07:26:28-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'An in-depth overview of the dilutive effects of multiple rounds of funding, reverse vesting, options pools, pro-rata rights and liquidation preferences.'
-image: blog/founder-dilution
 tags:
   - 'Startup lessons'
   - Investing
-featured: true
+image: blog/founder-dilution
 published: true
-type: blog
-url: /founder-dilution
+featured: true
 id: 3591
 ---
+
+# Founder dilution
 
 As founders of startups raise money from investors, their share of the company gets "diluted". This means the percentage of the company they own gets smaller and smaller. Last month a friend asked me the following question: *"What do you believe would be a good equity position as a startup founder after a Series A? I don't want to be diluted too much."*. This week, another friend who is in the process of raising money asked me if he should accept certain "preferences" from his potential investors in favor of a higher valuation and less dilution.
 

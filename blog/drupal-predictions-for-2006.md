@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-predictions-for-2006'
 title: 'My Drupal predictions for 2006'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2005-12-31T05:00:00-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Predictions
 published: true
-type: blog
-url: /drupal-predictions-for-2006
 id: 6
 ---
+
+# My Drupal predictions for 2006
 
 My personal highlights for 2005 include the Drupal 4.6 release, the three Drupal conferences I helped organize, the Drupal books that are being written, the fund raise, the new infrastructure (including the support from Sun Microsystems and the OSL), and the unexpected exponential growth of the community. 2005 was a blast. Not only for Drupal, but for many Free and Open Source content management systems.
 

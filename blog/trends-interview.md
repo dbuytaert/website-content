@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/trends-interview'
 title: 'Trends interview'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-06-15T08:49:19-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Press
   - 'Bill Gates'
 published: true
-type: blog
-url: /trends-interview
 id: 92
 ---
+
+# Trends interview
 
 André Gilain interviewed me about [Drupal](https://www.drupal.org/) for [Trends](http://www.trends.be/), a Belgian business magazine. You can find the article in the June 15 issue of Trends Tendances (French version), or you can read it in full by clicking the link below.
 

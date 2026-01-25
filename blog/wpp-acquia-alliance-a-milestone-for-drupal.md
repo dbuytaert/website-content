@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/wpp-acquia-alliance-a-milestone-for-drupal'
 title: 'WPP-Acquia Alliance: a milestone for Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-10-21T08:23:30-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /wpp-acquia-alliance-a-milestone-for-drupal
 id: 3461
 ---
+
+# WPP-Acquia Alliance: a milestone for Drupal
 
 Today Acquia announces the [WPP-Acquia Alliance](http://acquiaalliance.wpp.com), a global partnership with the world's largest communications services company. This isn't just a milestone for [Acquia](https://www.acquia.com) – I believe it to be significant for the [Drupal community](https://www.drupal.org) as well so let me tell you a bit more about it.
 

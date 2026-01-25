@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/it-is-the-most-wonderfund-time-of-year'
 title: "It's the most 'Wonderfund' time of year"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-12-14T11:34:03-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Acquia's holiday gift drive is one of my favorite traditions and most meaningful ways to give back."
 tags:
   - Acquia
 published: true
-type: blog
-url: /it-is-the-most-wonderfund-time-of-year
 id: 4676
 ---
+
+# It's the most 'Wonderfund' time of year
 
 [image acquia/gift-drive-2018]
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/exploring-cape-cod'
 title: 'Exploring Cape Cod'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-07-20T09:41:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'A report on our annual weekend trip to Cape Cod, where we set out to explore a new part of Cape Cod.'
-image: cape-cod-2018/stage-harbor-lighthouse-1
 tags:
   - Travel
   - Photography
   - 'Cape Cod'
+image: cape-cod-2018/stage-harbor-lighthouse-1
 published: true
-type: blog
-url: /exploring-cape-cod
 id: 4456
 ---
+
+# Exploring Cape Cod
 
 This past weekend Vanessa and I took our much-anticipated annual weekend trip to [Cape Cod](https://en.wikipedia.org/wiki/Cape_Cod). It's always a highlight for us. We set out to explore a new part of the Cape as we've extensively explored the [Upper Cape](https://en.wikipedia.org/wiki/Cape_Cod#Sections).
 

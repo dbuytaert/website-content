@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/spark-update-wysiwyg-editing-for-drupal'
 title: 'Spark update: WYSIWYG editing for Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-08-15T12:02:57-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Spark distribution'
 published: true
-type: blog
-url: /spark-update-wysiwyg-editing-for-drupal
 id: 2746
 ---
+
+# Spark update: WYSIWYG editing for Drupal
 
 After a lot of discussion and testing, we decided to adopt the [Aloha Editor](http://aloha-editor.org) as the WYSIWYG editor for [Spark](https://dri.es/tag/spark-distribution), and possibly for Drupal 8 core. Check out [Wim's blog for the details](https://wimleers.com/blog/spark-update-wysiwyg-choice). In short, it is the best HTML5 based WYSIWYG editor; fast, well-written and future-proof.
 

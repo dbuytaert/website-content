@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/virgin-using-drupal'
 title: 'Virgin using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-01-26T08:38:01-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - 'Fortune 500'
 published: true
-type: blog
-url: /virgin-using-drupal
 id: 585
 ---
+
+# Virgin using Drupal
 
 Virgin Radio is using Drupal for a number of websites. Example: <http://www.virginradio999.com>.
 

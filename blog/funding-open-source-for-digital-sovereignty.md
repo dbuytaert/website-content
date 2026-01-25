@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/funding-open-source-for-digital-sovereignty'
 title: 'Funding Open Source for Digital Sovereignty'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2026-01-21T10:59:38-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Open Source alone won't deliver digital sovereignty. Europe must fix procurement and fund those who actually build it."
-image: blog/open-source-makers-and-takers-7
 tags:
   - Drupal
   - 'Open Source'
   - Policy
   - 'Digital sovereignty'
-featured: true
+image: blog/open-source-makers-and-takers-7
 published: true
-type: blog
-url: /funding-open-source-for-digital-sovereignty
+featured: true
 id: 6066
 ---
+
+# Funding Open Source for Digital Sovereignty
 
 [image blog/open-source-makers-and-takers-7 priority=false schema=false]
 

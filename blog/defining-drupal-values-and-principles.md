@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/defining-drupal-values-and-principles'
 title: "Defining Drupal's values and principles"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-04-10T11:47:39-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "We need to better document Drupal's values and principles, as it is at the core of everything we do."
-image: drupal/values-and-principles-balloons
 tags:
   - Drupal
   - Governance
-featured: true
+image: drupal/values-and-principles-balloons
 published: true
-type: blog
-url: /defining-drupal-values-and-principles
+featured: true
 id: 4291
 ---
+
+# Defining Drupal's values and principles
 
 [image drupal/values-and-principles-balloons]
 

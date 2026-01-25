@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-7-8-and-9'
 title: 'Drupal 7, 8 and 9'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-09-12T00:07:15-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal 7 will be end-of-life in November 2021, Drupal 9 will be released in 2020, and Drupal 8 will be end-of-life in November 2021.'
-image: drupal/drupal-7-will-be-supported-until-november-2021
 tags:
   - Drupal
+image: drupal/drupal-7-will-be-supported-until-november-2021
 published: true
-type: blog
-url: /drupal-7-8-and-9
 id: 4511
 ---
+
+# Drupal 7, 8 and 9
 
 We [just released Drupal 8.6.0](https://dri.es/drupal-8-6-0-released). With six minor releases behind us, it is time to talk about the long-term future of Drupal 8 (and therefore Drupal 7 and Drupal 9). I've written about [when to release Drupal 9](https://dri.es/when-should-we-release-drupal-9) in the past, but this time, I'm ready to provide further details.
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/responsible-maintainers'
 title: 'Responsible maintainers'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-08-22T11:42:34-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Leadership
 published: true
-type: blog
-url: /responsible-maintainers
 id: 126
 ---
+
+# Responsible maintainers
 
 When a popular Drupal module is not maintained properly, it creates all kinds of problems: people can't upgrade their websites, they have to backport security fixes, etc. As a result, the Drupal community has a strong desire to make sure that important modules are always stable and up-to-date. In practice, however, this isn't always the case. Sometimes, important modules are slow to be upgraded, or have stopped being maintained altogether.
 

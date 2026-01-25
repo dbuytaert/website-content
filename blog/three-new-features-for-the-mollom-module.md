@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/three-new-features-for-the-mollom-module'
 title: 'Three new features for the Mollom module'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-11-04T17:15:26-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Mollom
 published: true
-type: blog
-url: /three-new-features-for-the-mollom-module
 id: 1961
 ---
+
+# Three new features for the Mollom module
 
 We've just released a new version of the [Mollom module for Drupal 6](https://www.drupal.org/project/mollom), which contains a number of important new features. We always try to listen to our users, and many of these new features are a direct result of your feedback. Read on for an overview of the most important changes.
 

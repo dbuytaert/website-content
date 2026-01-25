@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/happy-fifth-birthday-drupal'
 title: 'Happy fifth birthday Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-01-15T04:00:00-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Cooking
   - Birthday
 published: true
-type: blog
-url: /happy-fifth-birthday-drupal
 id: 14
 ---
+
+# Happy fifth birthday Drupal
 
 Today, five years ago, Drupal 1.0.0 was released! The following snippet is taken directly from the original announcement:
 

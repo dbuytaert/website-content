@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/the-privilege-of-free-time-in-open-source'
 title: 'The privilege of free time in Open Source'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-04-10T17:44:41-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Open Source communities often incorrectly believe that everyone can contribute.  Unfortunately, not everyone has equal amounts of free time to contribute.'
-image: blog/free-time-to-contribute-is-a-privilege
 tags:
   - Drupal
   - Diversity
-featured: true
+image: blog/free-time-to-contribute-is-a-privilege
 published: true
-type: blog
-url: /the-privilege-of-free-time-in-open-source
+featured: true
 id: 4811
 ---
+
+# The privilege of free time in Open Source
 
 In Open Source, there is a long-held belief in [meritocracy](https://en.wikipedia.org/wiki/Meritocracy), or the idea that the best work rises to the top, regardless of who contributes it. The problem is that a meritocracy assumes an equal distribution of time for everyone in a community.
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/acquia-to-acquire-widen'
 title: 'Acquia to acquire Widen'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-09-08T05:23:39-04:00'
-author: Dries
-image: acquia/acquia-widen
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
   - Drupal
   - Acquisitions
+image: acquia/acquia-widen
 published: true
-type: blog
-url: /acquia-to-acquire-widen
 id: 5231
 ---
+
+# Acquia to acquire Widen
 
 I'm excited to announce that [Acquia](https://www.acquia.com/) has signed a definitive agreement to acquire [Widen](https://www.widen.com/), a [digital asset management](https://www.widen.com/blog/digital-asset-management) (DAM) and [product information management](https://www.widen.com/blog/product-information-management) (PIM) company.
 

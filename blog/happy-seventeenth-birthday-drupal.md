@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/happy-seventeenth-birthday-drupal'
 title: 'Happy seventeenth birthday Drupal '
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-01-15T10:52:39-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal celebrates its seventeenth birthday today!'
 tags:
   - Drupal
   - Birthday
 published: true
-type: blog
-url: /happy-seventeenth-birthday-drupal
 id: 4131
 ---
+
+# Happy seventeenth birthday Drupal 
 
 Seventeen years ago today, I open-sourced the software behind Drop.org and released Drupal 1.0.0. When [Drupal](https://www.drupal.org) was first founded, Google was in its infancy, the mobile web didn't exist, and JavaScript was a very unpopular word among developers.
 

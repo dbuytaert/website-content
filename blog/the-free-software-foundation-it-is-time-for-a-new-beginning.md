@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/the-free-software-foundation-it-is-time-for-a-new-beginning'
 title: "The Free Software Foundation: it's time for a new beginning"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-03-24T20:59:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Source'
   - Leadership
 published: true
-type: blog
-url: /the-free-software-foundation-it-is-time-for-a-new-beginning
 id: 5181
 ---
+
+# The Free Software Foundation: it's time for a new beginning
 
 Thousands of Open Source and Free Software advocates are outraged at the [Free Software Foundation](https://www.fsf.org/) (FSF), myself included.
 

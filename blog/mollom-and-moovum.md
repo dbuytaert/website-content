@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/mollom-and-moovum'
 title: 'Mollom and Moovum'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-02-18T06:28:23-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
   - 'Mollom plugins'
 published: true
-type: blog
-url: /mollom-and-moovum
 id: 600
 ---
+
+# Mollom and Moovum
 
 Benjamin and I are excited to announce [Mollom](https://mollom.com)'s first formal software partnership with [Moovum](http://www.moovum.com/), a new company founded by a number of past and present [Joomla!](https://joomla.org) core developers.
 

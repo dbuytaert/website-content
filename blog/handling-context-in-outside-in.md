@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/handling-context-in-outside-in'
 title: 'Handling context in "outside-in"'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-05-02T05:28:16-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Usability
   - Outside-in
 published: true
-type: blog
-url: /handling-context-in-outside-in
 id: 3661
 ---
+
+# Handling context in "outside-in"
 
 In a recent post we talked about how introducing [outside-in experiences](https://dri.es/turning-drupal-outside-in) could improve the Drupal site-building experience by letting you immediately edit simple configuration without leaving the page. In a follow-up blog post, we provided [concrete examples](https://dri.es/examples-of-how-to-make-drupal-outside-in) of how we can apply outside-in to Drupal.
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/growing-by-fostering-the-right-culture'
 title: 'Growing by fostering the right culture'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-11-13T09:38:45-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /growing-by-fostering-the-right-culture
 id: 1206
 ---
+
+# Growing by fostering the right culture
 
 Today is a special day at [Acquia](https://www.acquia.com): *customer service day*. We grew so quickly that our support team often find themselves working until after midnight to meet customer demands. Everybody in the company, from sales to engineering, including myself, will be helping in support today. Talking to customers, helping them where we can to make sure they are successful with [Drupal](https://www.drupal.org).
 

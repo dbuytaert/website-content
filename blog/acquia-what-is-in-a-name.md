@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/acquia-what-is-in-a-name'
 title: 'Acquia, what is in a name?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-07-20T13:55:22-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How Jay and I came up with the name Acquia, and how it is (not) pronounced.'
-image: acquia/ah-kwe-eh
 tags:
   - Acquia
   - 'Startup lessons'
-featured: false
+image: acquia/ah-kwe-eh
 published: true
-type: blog
-url: /acquia-what-is-in-a-name
+featured: false
 id: 5351
 ---
+
+# Acquia, what is in a name?
 
 [Acquia](https://www.acquia.com/) recently turned 15. Over the past 15 years, I've heard [the name "Acquia" pronounced in all sorts of different ways](https://youtu.be/IXkgf_HYgqg).
 

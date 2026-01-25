@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/we-are-small-and-insignificant'
 title: 'We are small and insignificant'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-05-01T04:47:49-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Space
-featured: false
 published: true
-type: blog
-url: /we-are-small-and-insignificant
+featured: false
 id: 640
 ---
+
+# We are small and insignificant
 
 If you haven't seen this visualization of space yet, you should. Click [here](/files/images/blog/space.jpg) for the [large version](/files/images/blog/space.jpg) – don't look at the thumbnail. Even though stuff like this gets posted on the internet all the time, it continues to blow my mind. So if you've seen it already, let me remind you again of how insignificant you are. ;-)
 

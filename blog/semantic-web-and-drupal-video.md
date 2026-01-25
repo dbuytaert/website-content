@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/semantic-web-and-drupal-video'
 title: 'Semantic web and Drupal video'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-04-20T10:23:13-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Semantic web'
 published: true
-type: blog
-url: /semantic-web-and-drupal-video
 id: 1586
 ---
+
+# Semantic web and Drupal video
 
 Two years ago at [DrupalCon Boston](http://boston2008.drupalcon.org/), I declared that we should embrace the semantic web, and that, as a first step, we should add [RDFa](https://en.wikipedia.org/wiki/RDFa) support to [Drupal](https://www.drupal.org/) core. Since then, I've written extensively about the importance of [semantic technologies in Drupal](https://dri.es/tag/semantic-web), and how I believe Drupal can play an important role in helping to bootstrap the semantic web.
 

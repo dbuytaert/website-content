@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/spammers-set-up-shop-at-ibm-com'
 title: 'Spammers set up shop at IBM.com'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-02-17T05:29:25-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
 published: true
-type: blog
-url: /spammers-set-up-shop-at-ibm-com
 id: 1451
 ---
+
+# Spammers set up shop at IBM.com
 
 In this post we show one way spammers operate, using organizations like IBM to spam others. We show how spammers abuse an IBM wiki to create an online pharmacy via IBM.com. Once a page like this is in place, the spammers try to insert links to it in blog comments and community websites across the web to drive traffic to it, and to improve their search engine ranking.
 

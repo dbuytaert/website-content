@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/bootlegging-drupalcon-brussels'
 title: 'Bootlegging DrupalCon Brussels'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-09-07T06:38:24-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
 published: true
-type: blog
-url: /bootlegging-drupalcon-brussels
 id: 138
 ---
+
+# Bootlegging DrupalCon Brussels
 
 In 2004, the [Beastie Boys](http://www.beastieboys.com/) gave 50 video cameras to fans and [asked them to record the same concert](http://www.wired.com/2006/04/from-the-lips-to-your-ears/?pg=4). Then the 100-plus hours of footage was edited into [one film](https://www.imdb.com/title/tt0488953/). Brilliant.
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/blogcom-interview'
 title: 'BlogCom interview'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-04-26T03:54:02-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Press
 published: true
-type: blog
-url: /blogcom-interview
 id: 57
 ---
+
+# BlogCom interview
 
 At [BlogCom](http://www.standaard.be/cnt/gelr7fvs) I was unexpectedly interviewed by [Stefan Kolgen](http://www.kandl.be/about/stefan.html) from [Kolgen &amp; Laenen](http://www.kandl.be/). The interview is in Dutch and talks about [Drupal](https://www.drupal.org/).
 

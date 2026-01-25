@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/microsoft-and-drupal'
 title: 'Microsoft and Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-07-31T08:18:29-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - OSCON
   - 'Bill Gates'
   - Microsoft
 published: true
-type: blog
-url: /microsoft-and-drupal
 id: 308
 ---
+
+# Microsoft and Drupal
 
 Last week at the [O'Reilly Open Source Convention](http://conferences.oreillynet.com/os2007/) (OSCON), [Microsoft](http://microsoft.com) and [SpikeSource](http://spikesource.com) announced their intention to work together to certify a number of Open Source projects on the Microsoft Windows platform. According to the [press release](http://spikesource.com/newsevents/07262007-2.html), Drupal is the first application that has been [tested and certified for Microsoft Windows](http://open.microsoft.com/) ...
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/announcing-acquia-content-hub'
 title: 'Announcing Acquia Content Hub'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-10-21T13:11:14-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /announcing-acquia-content-hub
 id: 3466
 ---
+
+# Announcing Acquia Content Hub
 
 The explosion of content continues to grow. With more and more organizations [managing multiple sites](https://dri.es/how-acquia-is-addressing-the-explosion-of-sites) and digital channels, the distribution of content is increasingly difficult to manage. Content can easily become siloed in different sites or platforms. Different data models make it challenging to access, update, and replicate content changes across your sites.
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/frietjes-van-de-frituur'
 title: '"Frietjes van de frituur"'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-01-09T14:23:12-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Belgium
 published: true
-type: blog
-url: /frietjes-van-de-frituur
 id: 1326
 ---
+
+# "Frietjes van de frituur"
 
 [image miscellaneous-2010/frietjes-van-de-frituur]
 

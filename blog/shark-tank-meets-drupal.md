@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/shark-tank-meets-drupal'
 title: 'Shark Tank meets Drupal: pitch your best innovation ideas'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-04-19T11:46:35-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Announcing "Pitch-burgh", an innovation contest at DrupalCon Pittsburgh, where members of the Drupal community can pitch their ideas to receive funding.'
-image: drupal/pitch-burgh
 tags:
   - Drupal
   - DrupalCon
   - 'Drupal Association'
+image: drupal/pitch-burgh
 published: true
-type: blog
-url: /shark-tank-meets-drupal
 id: 5451
 ---
+
+# Shark Tank meets Drupal: pitch your best innovation ideas
 
 [image drupal/pitch-burgh resize=false]
 

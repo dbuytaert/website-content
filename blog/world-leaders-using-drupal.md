@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/world-leaders-using-drupal'
 title: 'World leaders using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-02-14T12:55:25-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Acquia
   - 'Drupal Commons'
 published: true
-type: blog
-url: /world-leaders-using-drupal
 id: 2191
 ---
+
+# World leaders using Drupal
 
 I'm happy to share another gigantic win for Drupal; the [World Economic Forum](https://www.weforum.org/) (the Forum) has launched their internal collaboration platform on [Drupal](https://www.drupal.org). The Forum is an independent international organization committed to improving the state of the world by engaging business, political, academic and other leaders. It is best known for its annual meeting in Davos. Their World Economic Leaders Community (WELCOM) is where they will engage online to address the most pressing business and global challenges.
 

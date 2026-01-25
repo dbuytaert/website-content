@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/us-house-of-representatives-using-drupal'
 title: 'U.S. House of Representatives using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-01-10T14:10:54-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Acquia
   - Government
-featured: false
 published: true
-type: blog
-url: /us-house-of-representatives-using-drupal
+featured: false
 id: 2106
 ---
+
+# U.S. House of Representatives using Drupal
 
 The [United States House of Representatives](http://house.gov) has become the latest large government organization to transition their web presence to [Drupal](https://www.drupal.org), and in a really big way. Currently the House hosts approximately 520 unique websites on a mix of over a dozen proprietary and open source content management platforms, and soon they'll all be powered by Drupal. When the House went looking for [a platform to standardize their web presence on](https://dri.es/one-drupal-to-rule-them-all), they chose Drupal because it met their requirements to:
 

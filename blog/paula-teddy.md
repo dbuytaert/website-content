@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/paula-teddy'
 title: "Paula's teddy bear"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-12-02T11:15:12-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
 published: true
-type: blog
-url: /paula-teddy
 id: 184
 ---
+
+# Paula's teddy bear
 
 [image miscellaneous-2006/paula-teddy]
 

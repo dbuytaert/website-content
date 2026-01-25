@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/holly-ross-to-join-drupal-association-as-executive-director'
 title: 'Holly Ross to join Drupal Association as Executive Director'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-12-05T12:09:18-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
   - 'Leadership updates'
 published: true
-type: blog
-url: /holly-ross-to-join-drupal-association-as-executive-director
 id: 2831
 ---
+
+# Holly Ross to join Drupal Association as Executive Director
 
 I'm pleased to announce that the Drupal Association's Board of Directors has appointed Holly Ross as its new Executive Director. Holly is a well-known visionary leader in the nonprofit technology community with a proven track record of developing and implementing organizational strategies that provide direct community benefit.
 

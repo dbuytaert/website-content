@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/i-got-into-the-paint-business'
 title: 'I got into the paint business'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-10-31T19:07:57-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Stock market'
   - Investing
 published: true
-type: blog
-url: /i-got-into-the-paint-business
 id: 3806
 ---
+
+# I got into the paint business
 
 I got into the paint business last week! [Sherwin-Williams](http://www.sherwin-williams.com) (SHW) is a 150 year old company selling paints and coatings. I first got interested in Sherwin-Williams 9 months ago, and have been watching the stock since.
 

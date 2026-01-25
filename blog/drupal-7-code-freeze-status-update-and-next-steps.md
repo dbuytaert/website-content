@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-7-code-freeze-status-update-and-next-steps'
 title: 'Drupal 7 code freeze: status update and next steps'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-10-30T15:34:47-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-7-code-freeze-status-update-and-next-steps
 id: 1156
 ---
+
+# Drupal 7 code freeze: status update and next steps
 
 It was a close race to the finish – or rather the beginning – of the [Drupal 7 code freeze](https://dri.es/drupal-7-code-freeze-almost-upon-us) process a couple of weeks ago. Now that we're in the middle of the code freeze, I wanted to update everyone on the current status of the freeze, and provide some guidance about where we go from here.
 

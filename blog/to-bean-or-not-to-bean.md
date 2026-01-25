@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/to-bean-or-not-to-bean'
 title: 'To bean or not to bean?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-08-19T18:15:02-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Coffee
 published: true
-type: blog
-url: /to-bean-or-not-to-bean
 id: 3201
 ---
+
+# To bean or not to bean?
 
 Last weekend our [Nespresso](http://nespresso.com) machine died in front of my eyes. Water started leaking from its base during use and it shorted the electricity. It was a painful death. I'm tempted to take it apart and try to repair it but it also brings up the question; what to buy next?
 

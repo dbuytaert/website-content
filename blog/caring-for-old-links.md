@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/caring-for-old-links'
 title: 'Caring for old links'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-01-06T05:17:40-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'It is important that we care for old links. Do we have best practices or good algorithms for how to?'
 tags:
   - 'Open Web'
   - 'My site'
   - 'Digital preservation'
-featured: false
 published: true
-type: blog
-url: /caring-for-old-links
+featured: false
 id: 4956
 ---
+
+# Caring for old links
 
 I decided to use the holiday break to do a link audit for [my personal blog](https://dri.es). I found hundreds of links that broke and hundreds of links that now redirect. This wasn't a surprise, as I haven't spent much time maintaining links in the 13 years I've been blogging.
 

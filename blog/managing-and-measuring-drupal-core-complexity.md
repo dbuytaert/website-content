@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/managing-and-measuring-drupal-core-complexity'
 title: 'Managing and measuring Drupal core complexity'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-09-19T13:52:33-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /managing-and-measuring-drupal-core-complexity
 id: 2496
 ---
+
+# Managing and measuring Drupal core complexity
 
 While we made Drupal 7 easier to use and more feature-rich for site builders, we also added complexity for the core developers. We shouldn't be surprised though. As a software application evolves, its complexity increases unless work is done to maintain or reduce it.
 

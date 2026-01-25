@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/free-data'
 title: 'Free data (free as in open)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-07-28T03:50:02-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Trends
 published: true
-type: blog
-url: /free-data
 id: 115
 ---
+
+# Free data (free as in open)
 
 Free as in "free speech", not as in "free beer".
 

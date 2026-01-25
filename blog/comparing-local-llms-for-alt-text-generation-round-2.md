@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/comparing-local-llms-for-alt-text-generation-round-2'
 title: 'Comparing local LLMs for alt-text generation, round 2'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-05-27T14:04:35-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Can local large language models (LLMs) generate accurate alt-text, or do cloud-based services still offer better results?'
-image: japan-2024/shibuya-crossing
 tags:
   - 'Artificial Intelligence'
   - Alt-text
   - Accessibility
   - Python
-featured: false
+image: japan-2024/shibuya-crossing
 published: true
-type: blog
-url: /comparing-local-llms-for-alt-text-generation-round-2
+featured: false
 id: 5816
 ---
+
+# Comparing local LLMs for alt-text generation, round 2
 
 Four months ago, I [tested 10 local vision LLMs](https://dri.es/comparing-local-llms-for-alt-text-generation) and compared them against the top cloud models. *Vision models* can analyze images and describe their content, making them useful for `alt`-text generation.
 

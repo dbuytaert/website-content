@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/i-open-sourced-my-blog-content'
 title: 'I open-sourced my blog content'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-12-15T05:15:17-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Digital preservation'
   - 'Open Source'
   - Drupal
   - Markdown
-featured: false
 published: true
-type: blog
-url: /i-open-sourced-my-blog-content
+featured: false
 id: 5991
 ---
+
+# I open-sourced my blog content
 
 Last week I wrote that [a blog is a biography](/a-blog-is-a-biography). But sometimes our most advanced technology is also our most fragile. With my blog turning twenty years old in fifteen days, I have been thinking a lot about digital preservation.
 

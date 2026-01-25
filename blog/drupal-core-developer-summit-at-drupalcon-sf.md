@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-core-developer-summit-at-drupalcon-sf'
 title: 'Drupal core developer summit at DrupalCon SF'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-02-17T00:27:51-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - 'San Francisco'
 published: true
-type: blog
-url: /drupal-core-developer-summit-at-drupalcon-sf
 id: 1446
 ---
+
+# Drupal core developer summit at DrupalCon SF
 
 On Saturday, April 17th, before [DrupalCon San Francisco](https://sf2010.drupal.org/), I'm helping to organize the very first [Drupal core developer summit](https://sf2010.drupal.org/conference/core-developer-summit). The goal of the *Drupal core developer summit* is to talk about ways we can improve Drupal core, and the core development processes, all while having a good time socializing with fellow core developers.
 

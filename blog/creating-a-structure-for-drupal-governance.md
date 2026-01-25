@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/creating-a-structure-for-drupal-governance'
 title: 'Creating a structure for Drupal governance'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-03-04T22:57:09-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
   - Governance
 published: true
-type: blog
-url: /creating-a-structure-for-drupal-governance
 id: 2916
 ---
+
+# Creating a structure for Drupal governance
 
 Last summer, a number of Drupal community members as well as key figures from other major open source projects met in Portland for the [first-ever Drupal governance sprint](https://dri.es/proposal-from-first-drupal-governance-sprint). The proposal from that sprint recommended the creation of a number of chartered "working groups" to better formalize the existing governance of various aspects of the Drupal project, now that our community is at its current scale. We have now chartered the first of these working groups: the [Community Working Group](https://cgit.drupalcode.org/project/governance.git/blob_plain/refs/heads/master:/charters/community-working-group-charter.html). Thanks very much to everyone who participated in the [vigorous community discussion](https://www.drupal.org/node/1822314) and drafting efforts around this.
 

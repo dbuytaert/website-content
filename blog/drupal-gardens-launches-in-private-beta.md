@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-gardens-launches-in-private-beta'
 title: 'Drupal Gardens launches in private beta'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-01-27T09:05:43-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Drupal Gardens'
 published: true
-type: blog
-url: /drupal-gardens-launches-in-private-beta
 id: 1387
 ---
+
+# Drupal Gardens launches in private beta
 
 I have a pretty big update for you: we just launched [Drupal Gardens](http://drupalgardens.com) into private beta. Since the [first public Drupal Gardens demo at DrupalCon Paris](https://dri.es/drupal-gardens), a lot of progress has been made. Today, we sent private beta invites to the first people that signed up to be beta testers, and if things go well, we'll send out a couple thousand more invitations over the next few weeks.
 

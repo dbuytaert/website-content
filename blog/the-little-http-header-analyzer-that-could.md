@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/the-little-http-header-analyzer-that-could'
 title: 'The little HTTP Header Analyzer that could'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-02-01T08:49:25-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'My HTTP Header Analyzer quietly and surprisingly surpassed 5 million scans.'
 tags:
   - 'HTTP headers'
   - 'Web performance'
   - Security
   - Drupal
-featured: true
 published: true
-type: blog
-url: /the-little-http-header-analyzer-that-could
+featured: true
 id: 5556
 ---
+
+# The little HTTP Header Analyzer that could
 
 HTTP headers play a crucial part in making your website fast and secure. For that reason, I often inspect HTTP headers to troubleshoot caching problems or review security settings.
 

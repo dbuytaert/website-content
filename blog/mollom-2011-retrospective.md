@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/mollom-2011-retrospective'
 title: 'Mollom 2011 retrospective'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-01-06T08:39:16-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
 published: true
-type: blog
-url: /mollom-2011-retrospective
 id: 2621
 ---
+
+# Mollom 2011 retrospective
 
 2011 was another excellent year for [Mollom](https://mollom.com). We ended the year having blocked 630 million spam messages, up from 352 million spam messages blocked in 2010 – and that doesn't even count some of our largest customers like Netlog and other large social networks. And, as in 2010, we ended 2011 with a spam classification efficiency of 99.95%, meaning that only 5 in 10,000 spam messages were not caught by Mollom.
 

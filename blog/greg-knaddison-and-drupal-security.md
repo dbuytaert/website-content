@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/greg-knaddison-and-drupal-security'
 title: 'Greg Knaddison and Drupal security'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-11-14T20:28:08-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /greg-knaddison-and-drupal-security
 id: 2576
 ---
+
+# Greg Knaddison and Drupal security
 
 The [Drupal Security Team](https://www.drupal.org/security-team) was originally created in 2005. Though we handled security issues before that, we didn't have a team with proper infrastructure until then. At that time, [Károly Négyesi](http://drupal4hu.com/) ([chx](https://www.drupal.org/user/9446)) was the team leader. In July 2006 chx changed his role in the team and I promoted [Heine Deelstra to be the security team lead](https://www.drupal.org/node/75852). Heine recently stepped down as the security team lead, and I'm pleased to announce that [Greg Knaddison](http://knaddison.com) ([greggles](https://www.drupal.org/user/36762)) will be filling this role.
 

@@ -1,9 +1,13 @@
 ---
+url: 'https://dri.es/how-wendys-sells-fresh-never-frozen-hamburgers-online'
 title: "How Wendy's sells fresh, never-frozen hamburgers online"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-11-26T03:27:55-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "A behind-the-scenes look at how Wendy's delivers personalized and intelligent experiences to more than 30 million online customers."
-image: acquia/acquia-engage-2018-interview-with-mike-mancuso
 tags:
   - Drupal
   - 'Drupal sites'
@@ -11,11 +15,12 @@ tags:
   - 'Acquia Cloud'
   - 'Acquia Lift'
   - 'Acquia Engage'
+image: acquia/acquia-engage-2018-interview-with-mike-mancuso
 published: true
-type: blog
-url: /how-wendys-sells-fresh-never-frozen-hamburgers-online
 id: 4631
 ---
+
+# How Wendy's sells fresh, never-frozen hamburgers online
 
 [image acquia/acquia-engage-2018-interview-with-mike-mancuso]
 

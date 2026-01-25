@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/twitter-drupal-and-jabber'
 title: 'Twitter, Drupal and Jabber'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-03-21T09:35:59-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /twitter-drupal-and-jabber
 id: 239
 ---
+
+# Twitter, Drupal and Jabber
 
 It would be great if Drupal could interface with [Twitter](https://twitter.com/). Twitter supports several methods of delivering messages; using instant messaging, using RSS, using SMS to your mobile phone, and more. For small sites like mine, it would be great to get notified about new comments through MSN or Jabber. Drupal event notifications to the desktop!
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/when-the-macintosh-was-apple-financial-lifeline'
 title: "When the Macintosh was Apple's financial lifeline"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-05-11T08:11:10-04:00'
-author: Dries
-image: blog/imac-financial-lifeline
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Apple
+image: blog/imac-financial-lifeline
 published: true
-type: blog
-url: /when-the-macintosh-was-apple-financial-lifeline
 id: 4346
 ---
+
+# When the Macintosh was Apple's financial lifeline
 
 [image blog/imac-financial-lifeline resize=false]
 

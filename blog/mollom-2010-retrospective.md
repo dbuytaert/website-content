@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/mollom-2010-retrospective'
 title: 'Mollom 2010 retrospective'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-01-04T18:40:54-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
   - Retrospective
 published: true
-type: blog
-url: /mollom-2010-retrospective
 id: 2091
 ---
+
+# Mollom 2010 retrospective
 
 After my [my 2010 retrospective on Drupal](https://dri.es/drupal-2010-retrospective-and-2011-predictions) and [my 2010 retrospective on Acquia](https://dri.es/acquia-retrospective-2010), it is time to reflect on [Mollom](https://mollom.com).
 

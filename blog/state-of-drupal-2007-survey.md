@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/state-of-drupal-2007-survey'
 title: 'State of Drupal 2007 survey'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-08-27T08:33:39-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - 'Drupal Association'
 published: true
-type: blog
-url: /state-of-drupal-2007-survey
 id: 318
 ---
+
+# State of Drupal 2007 survey
 
 Each [Drupalcon](http://drupalcon.org), I try to provide a *State of Drupal presentation* to communicate our current [Zeitgeist](https://en.wikipedia.org/wiki/Zeitgeist) and to share my ideas about what I think is important for Drupal. Next month's [DrupalCon Barcelona](http://barcelona2007.drupalcon.org/) is no exception.
 

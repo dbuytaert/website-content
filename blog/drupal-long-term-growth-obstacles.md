@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/drupal-long-term-growth-obstacles'
 title: "Drupal's long-term growth obstacles"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-12-21T10:53:39-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Drupal's long-term growth obstacles and our strategy and current initiatives to overcome them."
-image: drupal/product-strategy-mountain-december-2018
 tags:
   - Drupal
   - 'Drupal Association'
-featured: true
+image: drupal/product-strategy-mountain-december-2018
 published: true
-type: blog
-url: /drupal-long-term-growth-obstacles
+featured: true
 id: 4691
 ---
+
+# Drupal's long-term growth obstacles
 
 Drupal 8 has been growing 40 to 50 percent year over year. It's a healthy growth rate. Regardless, it is always worth exploring how we can continue to accelerate that growth.
 

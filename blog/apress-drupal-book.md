@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/apress-drupal-book'
 title: "Robert's Drupal book in the mail"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-01-10T05:00:00-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'A copy of the first ever Drupal book arrived in the mail'
-image: drupal/book-cover
 tags:
   - Drupal
   - 'Drupal books'
+image: drupal/book-cover
 published: true
-type: blog
-url: /apress-drupal-book
 id: 11
 ---
+
+# Robert's Drupal book in the mail
 
 Last year in February, I introduced Robert Douglass to Matt Wade, an editor at [Apress](http://www.apress.com). Yesterday, 11 months later, I received a copy of the book, [Building online communities with Drupal, phpBB and Wordpress](https://www.amazon.com/gp/product/1590595629/), as a result of that introduction.
 

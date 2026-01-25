@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/the-big-reverse-of-the-web'
 title: 'The Big Reverse of the Web'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-03-10T06:08:50-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'We are at the beginning of a massive re-architecture of the web where we go from "pull" to "push". Eventually, content will find us.'
-image: blog/push-pull
 tags:
   - 'Open Web'
   - Trends
-featured: true
+image: blog/push-pull
 published: true
-type: blog
-url: /the-big-reverse-of-the-web
+featured: true
 id: 3351
 ---
+
+# The Big Reverse of the Web
 
 [image blog/push-pull resize=false]
 

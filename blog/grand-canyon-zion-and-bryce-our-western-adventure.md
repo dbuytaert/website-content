@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/grand-canyon-zion-and-bryce-our-western-adventure'
 title: 'Grand Canyon, Zion and Bryce: our Western adventure'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-07-16T19:57:10-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'We explored Grand Canyon, Zion, and Bryce on a summer adventure full of hiking, rappelling, rafting, and experiencing some of the most stunning landscapes in the West.'
-image: grand-canyon-zion-bryce-2025/bryce-glamping-1
 tags:
   - Travel
   - Axl
   - Stan
   - Vanessa
   - Photography
+image: grand-canyon-zion-bryce-2025/bryce-glamping-1
 published: true
-type: blog
-url: /grand-canyon-zion-and-bryce-our-western-adventure
 id: 5841
 ---
+
+# Grand Canyon, Zion and Bryce: our Western adventure
 
 *We just got back from a family vacation exploring the Grand Canyon, Zion, and Bryce Canyon. As usual, I planned to write about [our travels](https://dri.es/tag/travel), but Vanessa, my wife, beat me to it.*
 

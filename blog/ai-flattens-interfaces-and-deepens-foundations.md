@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/ai-flattens-interfaces-and-deepens-foundations'
 title: 'AI flattens interfaces and deepens foundations'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-12-23T07:44:30-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Artificial Intelligence'
-featured: false
 published: true
-type: blog
-url: /ai-flattens-interfaces-and-deepens-foundations
+featured: false
 id: 6006
 ---
+
+# AI flattens interfaces and deepens foundations
 
 [Lee Robinson](https://leerob.com/), who works at Cursor, spent $260 in AI coding agent fees to [migrate Cursor's marketing site away from Sanity](https://leerob.com/agents), their headless CMS, to Markdown files. That number should unsettle anyone who sells or implements content management systems for a living. His reasoning: "With AI and coding agents, the cost of an abstraction has never been higher". He argued that a CMS gets in the way of AI coding agents.
 

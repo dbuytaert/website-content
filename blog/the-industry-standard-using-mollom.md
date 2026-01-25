@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/the-industry-standard-using-mollom'
 title: 'The Industry Standard using Drupal and Mollom'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-11-03T07:04:44-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
@@ -9,10 +14,10 @@ tags:
   - 'Mollom sites'
   - Publishing
 published: true
-type: blog
-url: /the-industry-standard-using-mollom
 id: 1171
 ---
+
+# The Industry Standard using Drupal and Mollom
 
 The online media industry continues to face readership and revenue challenges. They are burdened with the task of not only providing the content but gaining more user interaction in the form of reader comments. Comments by readers are beneficial to sites because they show created readership and mean more eyeballs to that particular page or article. For publishers, more eyeballs means more revenue.
 

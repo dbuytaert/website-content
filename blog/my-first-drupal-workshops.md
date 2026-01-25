@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/my-first-drupal-workshops'
 title: 'My first Drupal workshops'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-03-03T00:38:23-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /my-first-drupal-workshops
 id: 225
 ---
+
+# My first Drupal workshops
 
 For the first time in my Drupal career, I'll help teach two Drupal workshops.
 

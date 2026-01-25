@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/party-with-varnish'
 title: 'Party with Varnish'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-06-13T16:52:38-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Invitations
   - Acquia
 published: true
-type: blog
-url: /party-with-varnish
 id: 2396
 ---
+
+# Party with Varnish
 
 Anyone who runs a high-availability [Drupal](https://www.drupal.org) site knows about [Varnish](http://www.varnish-cache.org), the open-source HTTP reverse-proxy server. Varnish intercepts requests before they hit the web server and delivers relevant information that it finds in its cache, resulting in lower loads and radically faster pages.
 

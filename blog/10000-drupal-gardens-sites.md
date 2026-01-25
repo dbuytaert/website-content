@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/10000-drupal-gardens-sites'
 title: '10,000 Drupal Gardens sites'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-06-02T08:10:45-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Drupal Gardens'
 published: true
-type: blog
-url: /10000-drupal-gardens-sites
 id: 1666
 ---
+
+# 10,000 Drupal Gardens sites
 
 Earlier this year, [we launched Drupal Gardens in private beta](https://dri.es/drupal-gardens-launches-in-private-beta) here at [Acquia](https://www.acquia.com). A couple of days ago, we hit the 10,000 site mark! I want to thank all the people that that continue to help test [Drupal Gardens](http://drupalgardens.com), and whom created 10,000 new Drupal Gardens sites in such a record time. It is great to see more and more [people build real sites on Drupal Gardens](http://sampler.drupalgardens.com/), and to see [the platform that once was only envisioned](https://dri.es/acquia-2009-roadmap), come to life.
 

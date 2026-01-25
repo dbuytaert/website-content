@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/announcing-the-drupal-8-accelerate-fund'
 title: 'Announcing the Drupal 8 Accelerate Fund'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-12-08T12:01:43-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /announcing-the-drupal-8-accelerate-fund
 id: 3296
 ---
+
+# Announcing the Drupal 8 Accelerate Fund
 
 Today the [Drupal Association](http://assoc.drupal.org) announced a new program: the [Drupal 8 Accelerate Fund](https://assoc.drupal.org/blog/holly.ross.drupal/announcing-drupal-8-accelerate-program). Drupal 8 Accelerate Fund is a $125,000 USD fund to help solve critical issues and accelerate the release of Drupal 8.
 

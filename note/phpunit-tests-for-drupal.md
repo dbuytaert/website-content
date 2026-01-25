@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/phpunit-tests-for-drupal'
 title: 'PHPUnit tests for Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-10-31T09:15:23-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: note
 tags:
   - Drupal
   - Testing
 published: true
-type: note
-url: /phpunit-tests-for-drupal
 id: 5376
 ---
+
+# PHPUnit tests for Drupal
 
 Writing tests can be hard, but the key is to get started and take that first step. When I start a new Drupal module, I begin with a simple test and make sure it passes. Once I have one simple test passing, it becomes easy to add more.
 

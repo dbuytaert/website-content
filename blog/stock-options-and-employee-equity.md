@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/stock-options-and-employee-equity'
 title: 'Stock options and employee equity'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-11-16T09:56:54-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How startups use stock options to attract and retain high-quality people.'
-image: blog/shares
 tags:
   - Acquia
   - 'Startup lessons'
-featured: true
+image: blog/shares
 published: true
-type: blog
-url: /stock-options-and-employee-equity
+featured: true
 id: 1996
 ---
+
+# Stock options and employee equity
 
 [image blog/shares]
 

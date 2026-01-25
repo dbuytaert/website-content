@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/making-drupal-8-fly'
 title: 'Making Drupal 8 fly'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-02-19T14:57:32-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'An overview of the biggest performance and scalability improvements in Drupal 8.'
-image: drupal/drupal-8-render-pipeline
 tags:
   - Drupal
   - 'Web performance'
+image: drupal/drupal-8-render-pipeline
 published: true
-type: blog
-url: /making-drupal-8-fly
 id: 3336
 ---
+
+# Making Drupal 8 fly
 
 In my travels to talk about Drupal, everyone asks me about Drupal 8's performance and scalability. Modern websites are much [more dynamic and interactive than 10 years ago](https://dri.es/from-content-management-to-digital-experience-management), making it more difficult to build modern sites while also being fast. It made me realize that maybe I should write up a summary of some of the most exciting performance and scalability improvements in Drupal 8. After all, Drupal 8 will leapfrog many of its competitors in terms of how to architect and scale modern web applications. Many of these improvements benefit both small and large websites, but also allow us to build even bigger websites with Drupal.
 

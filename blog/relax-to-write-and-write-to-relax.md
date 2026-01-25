@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/relax-to-write-and-write-to-relax'
 title: 'Relaxing makes me write and writing makes me relax'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-03-03T13:07:01-05:00'
-author: Dries
-image: grand-cayman-2018/caribbean-sunset-1
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Travel
   - Photography
   - Writing
+image: grand-cayman-2018/caribbean-sunset-1
 published: true
-type: blog
-url: /relax-to-write-and-write-to-relax
 id: 4201
 ---
+
+# Relaxing makes me write and writing makes me relax
 
 [image grand-cayman-2018/caribbean-sunset-1]
 

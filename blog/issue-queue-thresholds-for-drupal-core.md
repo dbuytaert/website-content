@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/issue-queue-thresholds-for-drupal-core'
 title: 'Issue queue thresholds for Drupal core'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-08-04T05:31:37-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /issue-queue-thresholds-for-drupal-core
 id: 2466
 ---
+
+# Issue queue thresholds for Drupal core
 
 In the ongoing efforts to [build on lessons learned during the Drupal 7 cycle](https://dri.es/drupal-7-development-process-retrospective-summary) and [fast-track Drupal 7 bug fixes](https://dri.es/fast-tracking-drupal-7-bug-fixes), a new policy has been introduced to help ensure stability of the code base, based on recommendations by key members of the core contributor team, most notably [Nathaniel "catch" Catchpole](https://www.drupal.org/user/35733).
 

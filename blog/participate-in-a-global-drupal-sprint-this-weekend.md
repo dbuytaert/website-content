@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/participate-in-a-global-drupal-sprint-this-weekend'
 title: 'Participate in a Global Drupal Sprint this weekend'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-03-07T15:14:07-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /participate-in-a-global-drupal-sprint-this-weekend
 id: 2921
 ---
+
+# Participate in a Global Drupal Sprint this weekend
 
 This Saturday and Sunday, March 9-10, over 30 locations around the world will participate in [Global Drupal Sprint Weekend](https://groups.drupal.org/node/277768), coordinated by [Cathy Theys](http://comm-press.de/en/users/cathy-theys) [(YesCT)](https://www.drupal.org/user/258568). The sprint weekend is a grassroots initiative for people all over the world to get together and contribute to Drupal. You can join a local sprint, start your own, or participate remotely in [IRC](https://www.drupal.org/irc).
 

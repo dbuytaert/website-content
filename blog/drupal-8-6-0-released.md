@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-8-6-0-released'
 title: 'Drupal 8.6.0 released'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-09-06T03:23:35-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Learn what is new in Drupal 8.6.0, and how content authors, evaluators and developers can all take advantage.'
-image: drupal/drupal-8-6-layout-builder
 tags:
   - Drupal
+image: drupal/drupal-8-6-layout-builder
 published: true
-type: blog
-url: /drupal-8-6-0-released
 id: 4501
 ---
+
+# Drupal 8.6.0 released
 
 Last night, we shipped Drupal 8.6.0! I firmly believe this is the most significant Drupal 8 release to date. It is significant because we made a lot of progress on [all twelve of Drupal 8 core's strategic initiatives](https://www.drupal.org/about/strategic-initiatives). As a result, Drupal 8.6 delivers a large number of improvements for content authors, evaluators, site builders and developers.
 

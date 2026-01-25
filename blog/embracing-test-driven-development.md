@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/embracing-test-driven-development'
 title: 'Embracing test-driven development'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-02-15T02:37:31-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Testing
 published: true
-type: blog
-url: /embracing-test-driven-development
 id: 404
 ---
+
+# Embracing test-driven development
 
 At [DrupalCon Barcelona](https://dri.es/drupalcon-barcelona-wrapup) about 20 people gathered together for the Quality Assurance Birds of a Feather session. This led to the development of a [continuous testing infrastructure for Drupal](http://testing.drupal.org). People that want to write tests for Drupal can, but don't have to.
 

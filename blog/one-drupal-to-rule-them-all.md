@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/one-drupal-to-rule-them-all'
 title: 'One Drupal to rule them all'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-12-10T10:05:14-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal distributions'
-featured: false
 published: true
-type: blog
-url: /one-drupal-to-rule-them-all
+featured: false
 id: 2022
 ---
+
+# One Drupal to rule them all
 
 Ten years ago, the average organization had one website. Since then, the world has become a more complex place with a diverse set of needs. If you're like most organizations the number of sites you have continues to grow at a rapid clip. You've dipped your toe into the social media waters by setting up one or more blogs, you use microsites for the foundation of your marketing efforts to promote products and events, and community sites to engage with the people who use your products. And of course, you have your corporate website, as well as your intranet and a number of internal collaboration websites for different projects. This is today's reality.
 

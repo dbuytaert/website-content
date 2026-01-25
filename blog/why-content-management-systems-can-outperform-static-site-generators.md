@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/why-content-management-systems-can-outperform-static-site-generators'
 title: 'Why content management systems can outperform static site generators'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-03-20T14:24:38-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Why I choose Drupal over static site generators for my website.'
-image: blog/static-site-generators-are-fast-marketing
 tags:
   - Drupal
   - 'My site'
   - 'Web performance'
-featured: true
+image: blog/static-site-generators-are-fast-marketing
 published: true
-type: blog
-url: /why-content-management-systems-can-outperform-static-site-generators
+featured: true
 id: 5436
 ---
+
+# Why content management systems can outperform static site generators
 
 One or two times a month I get the following question: <q>Why don't you just use a Static Site Generator (SSG) for your blog?</q>
 

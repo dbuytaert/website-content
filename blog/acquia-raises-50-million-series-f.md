@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-raises-50-million-series-f'
 title: 'Acquia raises $50 million series F'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-05-27T09:48:00-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-raises-50-million-series-f
 id: 3146
 ---
+
+# Acquia raises $50 million series F
 
 We've got great news to share today; we are announcing that [Acquia](https://www.acquia.com/) raised $50 million, the largest round of financing we've ever completed.
 

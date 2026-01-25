@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-june-2023'
 title: 'State of Drupal presentation (June 2023)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-06-12T15:02:05-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon North America 2023 DriesNote presentation'
-image: drupalcon-pittsburgh-2023/driesnote
 tags:
   - 'State of Drupal'
   - Drupal
   - 'Drupal Association'
   - DrupalCon
   - Pittsburgh
+image: drupalcon-pittsburgh-2023/driesnote
 published: true
-type: blog
-url: /state-of-drupal-presentation-june-2023
 id: 5466
 ---
+
+# State of Drupal presentation (June 2023)
 
 Last week, approximately 1,500 Drupal enthusiasts came together in Pittsburgh for DrupalCon North America. In good tradition, I delivered [my State of Drupal keynote](https://dri.es/tag/state-of-drupal). You can watch the [video of my keynote](https://youtu.be/igkrPMlKuOA) or [download my slides](https://dri.es/files/state-of-drupal-june-2023.pdf) (240.6 MB).
 

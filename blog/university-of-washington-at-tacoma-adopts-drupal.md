@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/university-of-washington-at-tacoma-adopts-drupal'
 title: 'University of Washington at Tacoma adopts Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-10-06T10:44:14-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Education
 published: true
-type: blog
-url: /university-of-washington-at-tacoma-adopts-drupal
 id: 1866
 ---
+
+# University of Washington at Tacoma adopts Drupal
 
 [image drupal/university-of-washington]
 

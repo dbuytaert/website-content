@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-october-2021'
 title: 'State of Drupal presentation (October 2021)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-10-13T09:00:05-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon Europe 2021 Driesnote presentation'
-image: drupalcon-europe-2021/opening-slide
 tags:
   - Drupal
   - DrupalCon
   - 'State of Drupal'
   - 'Drupal Association'
+image: drupalcon-europe-2021/opening-slide
 published: true
-type: blog
-url: /state-of-drupal-presentation-october-2021
 id: 5236
 ---
+
+# State of Drupal presentation (October 2021)
 
 Last week, Drupalists around the world gathered virtually for DrupalCon Europe 2021.
 

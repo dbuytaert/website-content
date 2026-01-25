@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/acquia-blocks-500000-attack-attempts-for-sa-core-2018-002'
 title: 'Acquia blocks 500,000 attack attempts for SA-CORE-2018-002'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-04-17T15:51:20-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "A breakdown of how Drupal's SA-CORE-2018-002 security bug developed into a large-scale attack and how Acquia ensured its customers' safety."
-image: acquia/sa-core-2018-002-timeline
 tags:
   - Drupal
   - Acquia
   - Security
+image: acquia/sa-core-2018-002-timeline
 published: true
-type: blog
-url: /acquia-blocks-500000-attack-attempts-for-sa-core-2018-002
 id: 4301
 ---
+
+# Acquia blocks 500,000 attack attempts for SA-CORE-2018-002
 
 On March 28th, the Drupal Security Team released a bug fix for a critical security vulnerability, named [SA-CORE-2018-002](https://www.drupal.org/sa-core-2018-002). Over the past week, various exploits have been identified, as attackers have attempted to compromise unpatched Drupal sites. Hackers continue to try to exploit this vulnerability, and Acquia's own security team has observed more than 100,000 attacks a day.
 

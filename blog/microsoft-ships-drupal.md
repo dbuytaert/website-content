@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/microsoft-ships-drupal'
 title: 'Microsoft ships Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-10-15T16:00:38-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Microsoft ships Drupal'
 tags:
   - Drupal
   - Microsoft
 published: true
-type: blog
-url: /microsoft-ships-drupal
 id: 521
 ---
+
+# Microsoft ships Drupal
 
 Microsoft just announced the [Web Application Installer](https://www.microsoft.com/web/channel/products/WebApplicationInstaller.aspx). It is an installer designed to help get users of the Windows operating system up and running with some popular web applications. Guess what? It comes with support for [Drupal](https://www.drupal.org). I don't know enough about their roadmap but this could introduce Drupal to thousands of new users. Oh my!
 

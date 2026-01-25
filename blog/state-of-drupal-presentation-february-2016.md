@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-february-2016'
 title: 'State of Drupal presentation (February 2016)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-03-24T09:14:18-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon Mumbai Driesnote presentation'
-image: mumbai-2016/drupalcon-prenote-dancing
 tags:
   - Drupal
   - DrupalCon
   - 'State of Drupal'
   - India
+image: mumbai-2016/drupalcon-prenote-dancing
 published: true
-type: blog
-url: /state-of-drupal-presentation-february-2016
 id: 3621
 ---
+
+# State of Drupal presentation (February 2016)
 
 [image mumbai-2016/drupalcon-prenote-dancing]
 

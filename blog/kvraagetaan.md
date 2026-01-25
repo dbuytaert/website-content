@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/kvraagetaan'
 title: Kvraagetaan
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-02-04T14:12:26-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Favorite music'
   - Antwerp
 published: true
-type: blog
-url: /kvraagetaan
 id: 212
 ---
+
+# Kvraagetaan
 
 [video jyJ6BmkS694]
 

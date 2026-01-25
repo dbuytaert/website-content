@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/dries-for-president-2009'
 title: 'Dries for President'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-02-03T05:14:09-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /dries-for-president-2009
 id: 591
 ---
+
+# Dries for President
 
 I founded [Drupal](https://www.drupal.org) in 1999, and have been the project lead since Drupal was first released in 2001. I've been a long-time Open Source user and contributor, and have co-founded two companies in the Drupal ecosystem: [Acquia](https://www.acquia.com), in 2007, and [Mollom](https://mollom.com), in 2008. I also co-founded the [Drupal Association](https://association.drupal.org) in 2006.
 

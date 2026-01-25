@@ -1,18 +1,25 @@
 ---
+url: 'https://dri.es/acquia-cloud-next-a-journey-in-platform-modernization'
 title: 'Acquia Cloud Next, a journey in platform modernization'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-12-22T02:11:59-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Details on Acquia Cloud's transformation into a cloud-native, Kubernetes-based platform, enhancing performance, self-healing, and scaling capabilities."
-image: acquia/billboard-2018-1
 tags:
   - Acquia
   - Drupal
   - Amazon
+  - 'Acquia Cloud'
+image: acquia/billboard-2018-1
 published: true
-type: blog
-url: /acquia-cloud-next-a-journey-in-platform-modernization
+featured: false
 id: 5406
 ---
+
+# Acquia Cloud Next, a journey in platform modernization
 
 [image acquia/billboard-2018-1]
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/sydney-harbour-sailing'
 title: 'Sydney Harbour sailing'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-02-11T09:46:45-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Australia
 published: true
-type: blog
-url: /sydney-harbour-sailing
 id: 2886
 ---
+
+# Sydney Harbour sailing
 
 [image sydney-2013/sailing-sydney-harbour-12]
 [image sydney-2013/sailing-sydney-harbour-13]

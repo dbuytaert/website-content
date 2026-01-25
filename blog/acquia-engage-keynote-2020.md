@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/acquia-engage-keynote-2020'
 title: 'Acquia Engage Keynote 2020'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-10-27T04:06:53-04:00'
-author: Dries
-image: acquia/acquia-engage-2020-1
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
   - 'Acquia Cloud'
   - Drupal
+image: acquia/acquia-engage-2020-1
 published: true
-type: blog
-url: /acquia-engage-keynote-2020
 id: 5081
 ---
+
+# Acquia Engage Keynote 2020
 
 [Acquia Engage](https://engage.acquia.com/) took place last week. For the first time in seven years, it was an all-virtual event.
 

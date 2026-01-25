@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-out-of-beta'
 title: 'Acquia out of beta'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-09-30T01:24:25-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-out-of-beta
 id: 514
 ---
+
+# Acquia out of beta
 
 After months of hard work, [Acquia](https://www.acquia.com) is now open for business! Starting today, everyone can connect their Drupal 6 site to the Acquia Network to take advantage of our services. Oh my!
 

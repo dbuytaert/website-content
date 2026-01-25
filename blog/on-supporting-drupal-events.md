@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/on-supporting-drupal-events'
 title: 'On supporting Drupal events'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-10-09T04:22:25-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /on-supporting-drupal-events
 id: 335
 ---
+
+# On supporting Drupal events
 
 The [Drupal Association](https://association.drupal.org) sponsored 500 EUR (700 USD) to help the [Hungarian Drupal user group](http://drupal.hu) pay for the venue of [DrupalCon Hungary 2007](https://www.drupal.hu/konferencia/2007) ([pictures](https://www.flickr.com/photos/palocz-pal/sets/72157602317366985/)). They had a maximum capacity of 150 seats, and the conference sold out pretty quickly. In other words, the conference was a success, and it is great to see that the [Drupal Association](https://association.drupal.org) helped made this possible. Giving the Drupal community what it needs to flourish is exactly the goal of the Drupal Association.
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/linotype'
 title: Linotype
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-02-23T03:34:00-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Photography
 published: true
-type: blog
-url: /linotype
 id: 1476
 ---
+
+# Linotype
 
 When [I was at Le Figaro's headquarters last week](https://dri.es/le-figaro-using-drupal), I ran into an old [Linotype machine](https://en.wikipedia.org/wiki/Linotype_machine) that was showcased in their lobby.
 

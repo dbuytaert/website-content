@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/on-the-hard-choices-we-make-every-day'
 title: 'On the hard choices we make every day'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-01-26T14:41:38-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Startup lessons'
 published: true
-type: blog
-url: /on-the-hard-choices-we-make-every-day
 id: 3326
 ---
+
+# On the hard choices we make every day
 
 Every morning when I wake up, I have choices to make. While I want to turn Acquia into a billion dollar company, I also want to grow Drupal to be the leading [digital experience platform](https://dri.es/from-content-management-to-digital-experience-management). Both are connected and some of the work overlaps, but it still requires me to decide how much of my energy to focus on my duties as the CTO of Acquia as well as my duties as the project lead of Drupal.
 

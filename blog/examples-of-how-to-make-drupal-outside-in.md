@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/examples-of-how-to-make-drupal-outside-in'
 title: 'Examples of how to make Drupal "outside-in"'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-03-30T10:58:24-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Usability
   - Outside-in
 published: true
-type: blog
-url: /examples-of-how-to-make-drupal-outside-in
 id: 3626
 ---
+
+# Examples of how to make Drupal "outside-in"
 
 The authoring experience improvements we made in Drupal 8 appear to be well-received, but that doesn't mean we are done. With semantic versioning in Drupal 8, we can now make more UX changes in follow-up releases of Drupal 8. So now is a good time to start moving Drupal's user experience forward.
 

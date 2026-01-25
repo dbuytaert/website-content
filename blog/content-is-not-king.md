@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/content-is-not-king'
 title: 'Content is NOT king'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-01-31T08:23:11-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Trends
 published: true
-type: blog
-url: /content-is-not-king
 id: 22
 ---
+
+# Content is NOT king
 
 According to Andrew Odlyzko's research people are more interested in communication than they are in content. In [Content is NOT king](http://www.firstmonday.dk/issues/issue6_2/odlyzko/), Odlyzko writes:
 

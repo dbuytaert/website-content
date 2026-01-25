@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-9-released'
 title: 'Drupal 9 released'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-06-03T15:12:52-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-9-released
 id: 5021
 ---
+
+# Drupal 9 released
 
 [video JfEZeTH9c1I]
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/the-gartner-hype-cycle-and-drupal'
 title: 'The Gartner hype cycle and Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-06-08T07:31:46-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Gartner
 published: true
-type: blog
-url: /the-gartner-hype-cycle-and-drupal
 id: 2381
 ---
+
+# The Gartner hype cycle and Drupal
 
 I'd like to discuss some observations the technology analysis company [Gartner Group](http://www.gartner.com) has made about product lifecycles – and how their model affects Drupal release management.
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/nosql-and-sql'
 title: 'NoSQL and SQL'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-12-04T07:05:03-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - MySQL
 published: true
-type: blog
-url: /nosql-and-sql
 id: 1241
 ---
+
+# NoSQL and SQL
 
 Have a look at this video of [Brian Aker](https://en.wikipedia.org/wiki/Brian_Aker)'s great 10 minute lightning talk about [NoSQL](https://en.wikipedia.org/wiki/Nosql). NoSQL is a database movement which promotes non-relational data stores that do not need a fixed schema.
 

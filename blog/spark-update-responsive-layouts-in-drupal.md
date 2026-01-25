@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/spark-update-responsive-layouts-in-drupal'
 title: 'Spark update: responsive layouts in Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-06-22T11:05:17-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Spark distribution'
 published: true
-type: blog
-url: /spark-update-responsive-layouts-in-drupal
 id: 2711
 ---
+
+# Spark update: responsive layouts in Drupal
 
 Today, I'd like to share designs we've created for a "responsive layout builder" for [Drupal](https://www.drupal.org) that we hope to include as part of the [Spark distribution](https://www.drupal.org/project/spark). I'm very excited about this because it brings mobile and responsive web design to the masses.
 

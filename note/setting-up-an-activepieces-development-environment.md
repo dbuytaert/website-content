@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/setting-up-an-activepieces-development-environment'
 title: 'Setting up an Activepieces development environment'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-11-07T04:35:18-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: note
 tags:
   - Drupal
   - Activepieces
   - Automation
-featured: false
 published: true
-type: note
-url: /setting-up-an-activepieces-development-environment
+featured: false
 id: 5926
 ---
+
+# Setting up an Activepieces development environment
 
 If you just want to use [Activepieces](https://www.activepieces.com/) with [Drupal](https://www.drupal.org/) on your local development machine, the easiest option is to follow my guide on [running Activepieces locally with Docker](https://dri.es/running-activepieces-locally-with-docker). That approach allows you to use Activepieces, but you can't make code changes to it. 
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/mollom-my-content-monitoring-startup'
 title: 'Mollom, my content monitoring startup'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-03-31T09:21:20-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Mollom
 published: true
-type: blog
-url: /mollom-my-content-monitoring-startup
 id: 420
 ---
+
+# Mollom, my content monitoring startup
 
 After several months of private beta testing, Benjamin Schrauwen and I are happy to unveil [Mollom](https://mollom.com), your partner in automated content monitoring. Mollom's purpose is to dramatically reduce the effort of keeping your websites clean and the quality of their user-generated content high. Currently, Mollom is a spam-killing, one-two punch combination of a state-of-the-art spam filter and CAPTCHA server. We are experimenting with automated content quality assessments, but these are still in an early testing phase.
 

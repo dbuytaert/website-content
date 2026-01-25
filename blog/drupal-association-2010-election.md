@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-association-2010-election'
 title: 'Drupal Association 2010 election'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-02-01T09:30:27-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /drupal-association-2010-election
 id: 1402
 ---
+
+# Drupal Association 2010 election
 
 The [Drupal Association](https://association.drupal.org) is a non-profit organization dedicated to helping the [Drupal community](https://www.drupal.org) with fun­ding, infra­structure, events, promotion and distribution. The current Board of Directors was elected almost a year ago, so it's election time again!
 

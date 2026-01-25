@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/chrome-citizen-messenger-bag-review'
 title: 'Chrome Citizen Messenger Bag review'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-09-27T22:00:43-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Gear
 published: true
-type: blog
-url: /chrome-citizen-messenger-bag-review
 id: 1841
 ---
+
+# Chrome Citizen Messenger Bag review
 
 Like all the [hipster fixie kids](https://dri.es/my-drupal-bike) in the hilly San Francisco, I recently bought a [Citizen Messenger Bag](https://www.chromeindustries.com/) by [Chrome](http://www.chromebagsstore.com). I sport the black on black version. Over the last two months, as I've actively used it, I've come to conclude that this is quite possibly the best bag ever made.
 

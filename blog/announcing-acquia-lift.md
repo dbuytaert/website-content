@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/announcing-acquia-lift'
 title: 'Announcing Acquia Lift'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-02-20T12:23:29-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
   - 'Acquia Lift'
 published: true
-type: blog
-url: /announcing-acquia-lift
 id: 3106
 ---
+
+# Announcing Acquia Lift
 
 Today, the web is not just about publishing content anymore. As [the web evolves from content management to digital experience management](https://dri.es/from-content-management-to-digital-experience-management), it's about understanding visitors' interests and preferences, and figuring out how to deliver them an optimal personalized experience. Many organizations are exploring ways to more effectively create and deliver valuable content to site visitors to increase traffic, conversions and revenue. Great content is still gold, but delivering the right content to the right user at the right moment in the right format is platinum.
 

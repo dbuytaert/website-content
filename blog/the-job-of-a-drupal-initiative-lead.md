@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/the-job-of-a-drupal-initiative-lead'
 title: 'The job of a Drupal initiative lead'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-11-05T09:18:37-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Leadership
 published: true
-type: blog
-url: /the-job-of-a-drupal-initiative-lead
 id: 3276
 ---
+
+# The job of a Drupal initiative lead
 
 Drupal 8 is the first time [we introduced the concept of formal initiatives and initiative leads](https://dri.es/state-of-drupal-presentation-march-2011). Over the course of these Drupal 8 initiatives we learned a lot and people are floating several ideas to increase the initiatives' success and provide Drupal initiative leads with more support. As we grow, it is crucial that we evolve our tools, our processes, and our organizational design based on these learnings. We've done so in the past and we'll continue to do so going forward.
 

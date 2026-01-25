@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/open-source-and-social-capital'
 title: 'Open Source and social capital'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-08-26T04:27:15-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Open Source'
 published: true
-type: blog
-url: /open-source-and-social-capital
 id: 3206
 ---
+
+# Open Source and social capital
 
 The notion that people contributing to Open Source don't get paid is false. Contributors to Open Source are compensated for their labor; not always with *financial capital* (i.e. a paycheck) but certainly with *social capital*. Social capital is a rather vague and intangible concept so let me give some examples. If you know someone at a company where you are applying for a job and this connection helps you get that job, you have used social capital. Or if you got a lead or a business opportunity through your network, you have used social capital. Or when you fall on hard times and you rely on friends for emotional support, you're also using social capital.
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/the-evolution-of-drupal-composability-from-the-command-line-to-the-browser'
 title: "The evolution of Drupal's composability: from the command line to the browser"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-04-04T09:10:01-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Discover Drupal's future: how Automatic Updates and Project Browser will empower ambitious site builders with a no-code composable platform and modern development practices."
-image: drupal/evolution-drupal-composability
 tags:
   - Drupal
-featured: true
+image: drupal/evolution-drupal-composability
 published: true
-type: blog
-url: /the-evolution-of-drupal-composability-from-the-command-line-to-the-browser
+featured: true
 id: 5441
 ---
+
+# The evolution of Drupal's composability: from the command line to the browser
 
 [image drupal/evolution-drupal-composability resize=false]
 

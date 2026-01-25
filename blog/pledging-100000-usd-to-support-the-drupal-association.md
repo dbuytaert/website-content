@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/pledging-100000-usd-to-support-the-drupal-association'
 title: 'Pledging $100,000 to support the Drupal Association'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-04-14T07:54:17-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Vanessa and I pledge up to $100,000 to match individual Drupal Association donations during DrupalCares.'
-image: drupal/blue-hearts-2
 tags:
   - Drupal
   - 'Drupal Association'
   - DrupalCares
-featured: true
+image: drupal/blue-hearts-2
 published: true
-type: blog
-url: /pledging-100000-usd-to-support-the-drupal-association
+featured: true
 id: 4986
 ---
+
+# Pledging $100,000 to support the Drupal Association
 
 [image drupal/blue-hearts-2]
 

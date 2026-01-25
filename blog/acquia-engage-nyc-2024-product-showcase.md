@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/acquia-engage-nyc-2024-product-showcase'
 title: 'Acquia Engage NYC 2024 product showcase'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-10-25T14:58:36-04:00'
-author: Dries
-image: acquia/product-portfolio-2024
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Engage'
   - 'Acquia Cloud'
   - 'Acquia Search'
+image: acquia/product-portfolio-2024
 published: true
-type: blog
-url: /acquia-engage-nyc-2024-product-showcase
 id: 5706
 ---
+
+# Acquia Engage NYC 2024 product showcase
 
 At Acquia Engage NYC this week, our partner and customer conference, we shared how [Acquia's Digital Experience Platform](https://www.acquia.com/dxp) (DXP) helps organizations deliver digital experiences through three key capabilities:
 

@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/kitkat-gets-a-break-with-drupal-and-acquia'
 title: 'KitKat gets a break with Drupal and Acquia'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-07-20T14:55:57-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "How KitKat's websites, revamped with Drupal and Acquia DXP, resulted in a 1,000% increase in traffic."
-image: acquia/engage-london-2023-kitkat-1
 tags:
   - Drupal
   - 'Drupal sites'
   - Acquia
   - 'Acquia Cloud'
+image: acquia/engage-london-2023-kitkat-1
 published: true
-type: blog
-url: /kitkat-gets-a-break-with-drupal-and-acquia
 id: 5476
 ---
+
+# KitKat gets a break with Drupal and Acquia
 
 [image acquia/engage-london-2023-kitkat-1 resize=false]
 

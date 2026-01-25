@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/leica-lenses'
 title: 'Leica lenses'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-11-04T09:57:58-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: note
 tags:
   - Photography
 published: true
-type: note
-url: /leica-lenses
 id: 5916
 ---
+
+# Leica lenses
 
 I've been shooting with Leica M cameras for a few years. This page lists the lenses I use today and vintage lenses I would love to try.
 

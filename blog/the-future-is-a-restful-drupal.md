@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/the-future-is-a-restful-drupal'
 title: 'The future is a RESTful Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-02-16T14:34:38-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Web services'
   - 'Headless Drupal'
 published: true
-type: blog
-url: /the-future-is-a-restful-drupal
 id: 2646
 ---
+
+# The future is a RESTful Drupal
 
 Last weekend, we held a sprint at the Acquia offices for the [Web Services and Context Core (WSCCI) Initiative for Drupal 8](https://www.garfieldtech.com/blog/web-services-initiative). This was an important sprint for the future of Drupal. This blog post provides a high-level overview of what was discussed and agreed upon; the different sprint participants will be laying out more technical details in follow-up blog posts.
 

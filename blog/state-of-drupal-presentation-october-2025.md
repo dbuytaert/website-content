@@ -1,9 +1,13 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-october-2025'
 title: 'State of Drupal presentation (October 2025)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-10-23T03:20:34-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'In my DrupalCon Vienna keynote, I talk about how Drupal is adapting to an AI-driven web through AI-enabled visual editing, site templates, autonomous agents, and workflow orchestration.'
-image: drupalcon-vienna-2025/driesnote
 tags:
   - 'State of Drupal'
   - Drupal
@@ -12,12 +16,13 @@ tags:
   - DrupalCon
   - 'Workflow orchestration'
   - Vienna
-featured: true
+image: drupalcon-vienna-2025/driesnote
 published: true
-type: blog
-url: /state-of-drupal-presentation-october-2025
+featured: true
 id: 5906
 ---
+
+# State of Drupal presentation (October 2025)
 
 The web is changing fast. AI now writes content, builds web pages, and answers questions directly, often bypassing websites entirely. 
 

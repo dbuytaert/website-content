@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/cobblestone-the-kidney-stone'
 title: 'Cobblestone, the kidney stone'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-03-05T15:52:38-05:00'
-author: Dries
-image: miscellaneous-2021/in-emergency-room-with-kidney-stone-1
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Health
+image: miscellaneous-2021/in-emergency-room-with-kidney-stone-1
 published: true
-type: blog
-url: /cobblestone-the-kidney-stone
 id: 5171
 ---
+
+# Cobblestone, the kidney stone
 
 I feel like I was in a street fight and got punched in the stomach.
 

@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/drupal-commons-meet-jive-software'
 title: 'Drupal Commons, meet Jive Software'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-04-15T13:53:59-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal Commons, meet Jive Software'
 tags:
   - Drupal
@@ -10,10 +15,10 @@ tags:
   - 'Drupal Commons'
   - 'Drupal distributions'
 published: true
-type: blog
-url: /drupal-commons-meet-jive-software
 id: 1576
 ---
+
+# Drupal Commons, meet Jive Software
 
 DrupalCon San Francisco didn't even start, and already we have a first announcement to make! If you follow the [Acquia blog](https://www.acquia.com/blog), you might have read that we've begun building a free Drupal distribution, named "Drupal Commons", to go after *social business software* such as [Jive Software](http://www.jivesoftware.com). Drupal Commons will integrate groups, discussion forums, blogs, wikis, events into a single packaged solution. If you need a communication or collaboration website, or a corporate social network, [Drupal Commons](https://www.acquia.com/drupalcommons) might be for you.
 

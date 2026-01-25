@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-predictions-for-2008'
 title: 'My Drupal predictions for 2008'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-12-31T02:05:39-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Predictions
 published: true
-type: blog
-url: /drupal-predictions-for-2008
 id: 381
 ---
+
+# My Drupal predictions for 2008
 
 My personal Drupal highlights for 2007 include the [Drupal 5 release](https://dri.es/drupal-5-released), bootstrapping the [Drupal Association](https://association.drupal.org), the two Drupal conferences we organized, the [Pro Drupal development book](https://dri.es/pro-drupal-development-book-drupal5), and co-founding [Acquia](https://www.acquia.com).
 

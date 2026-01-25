@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-retrospective-2009'
 title: 'Acquia retrospective 2009'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-01-05T11:12:31-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Retrospective
 published: true
-type: blog
-url: /acquia-retrospective-2009
 id: 1306
 ---
+
+# Acquia retrospective 2009
 
 Yesterday I shared [my 2009 retrospective on Drupal along with some predictions for 2010](https://dri.es/drupal-2009-retrospective-and-2010-predictions). Today, I want to reflect on Acquia's 2009, as [for obvious reasons](https://dri.es/acquia-my-drupal-startup), Acquia has been a big part of my life in 2009.
 

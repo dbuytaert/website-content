@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-2020-product-survey'
 title: 'Drupal 2020 product survey'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-04-28T08:38:41-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Take the Drupal product survey to help drive the strategic direction of the Drupal project over the next 3–5 years.'
-image: drupal/product-survey-2016
 tags:
   - Drupal
   - DrupalCon
+image: drupal/product-survey-2016
 published: true
-type: blog
-url: /drupal-2020-product-survey
 id: 5006
 ---
+
+# Drupal 2020 product survey
 
 In my [DrupalCon Amsterdam keynote](https://dri.es/state-of-drupal-presentation-october-2019) last October, I shared my thoughts on what I believe is important for the future of [Drupal](https://www.drupal.org/).
 

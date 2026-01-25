@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/drupal-looking-to-adopt-react'
 title: 'Drupal looking to adopt React'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-10-02T13:32:10-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal looking to adopt React for its administrative UIs'
-image: blog/drupal-react
 tags:
   - Drupal
   - 'Headless Drupal'
   - 'Web services'
   - JavaScript
+image: blog/drupal-react
 published: true
-type: blog
-url: /drupal-looking-to-adopt-react
 id: 4036
 ---
+
+# Drupal looking to adopt React
 
 [image blog/drupal-react resize=false]
 

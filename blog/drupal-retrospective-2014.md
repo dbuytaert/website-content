@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-retrospective-2014'
 title: 'Drupal retrospective 2014'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-01-14T06:43:08-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-retrospective-2014
 id: 3316
 ---
+
+# Drupal retrospective 2014
 
 It's that time again. Time to look back at 2014, and to look forward to 2015. For Drupal in 2014, it was all about Drupal 8. As Drupal 8's development enters its fourth (and hopefully, final) year of development, it's a good time to reflect on all the work achieved by the Drupal 8 team so far, and to talk about Drupal 8's momentum heading into the final stretch to the release.
 

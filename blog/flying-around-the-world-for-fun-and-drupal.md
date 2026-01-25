@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/flying-around-the-world-for-fun-and-drupal'
 title: 'Flying around the world for fun and Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-10-08T09:29:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Australia
 published: true
-type: blog
-url: /flying-around-the-world-for-fun-and-drupal
 id: 1891
 ---
+
+# Flying around the world for fun and Drupal
 
 I have agreed to speak at [Drupal Downunder](http://drupal.org.au/), to be held in Australia on January 22 and 23, 2011. In addition to delivering a presentation, I hope to pick out a 'Crocodile Dundee hat' (minus the croc teeth). It could be a new, alternative look for me.
 

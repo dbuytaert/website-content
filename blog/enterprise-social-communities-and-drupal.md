@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/enterprise-social-communities-and-drupal'
 title: 'Enterprise social communities and Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-03-18T18:16:55-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Acquia
   - 'Social media'
 published: true
-type: blog
-url: /enterprise-social-communities-and-drupal
 id: 1536
 ---
+
+# Enterprise social communities and Drupal
 
 Jay just posted a blog post, called [Building enterprise social communities with Drupal](https://www.acquia.com/blog/building-enterprise-social-communities-drupal), sharing a white paper that we have written at Acquia. In [this white paper](https://www.acquia.com/resources/library/building-enterprise-social-communities-drupal), we answer questions like: what kind of social features Drupal supplies, why Drupal is the best choice for building a social site, what Drupal modules are useful when building a social site, and some examples of successful enterprise Drupal communities.
 

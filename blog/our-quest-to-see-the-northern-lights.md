@@ -1,21 +1,26 @@
 ---
+url: 'https://dri.es/our-quest-to-see-the-northern-lights'
 title: 'Our quest to see the Northern Lights'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-06-18T11:22:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'An arctic adventure in beautiful Lapland: dog sledding, reindeer sledding, aurora hunts, snowmobiling, log cabins and campfires.'
-image: finland-2017/dog-sledding-7
 tags:
   - Travel
   - Birthday
   - Photography
   - Vanessa
   - Finland
-featured: false
+image: finland-2017/dog-sledding-7
 published: true
-type: blog
-url: /our-quest-to-see-the-northern-lights
+featured: false
 id: 3951
 ---
+
+# Our quest to see the Northern Lights
 
 In February we spent a weekend in the Arctic Circle hoping to see the northern lights. I've been so busy, I only now got around to writing about it.
 

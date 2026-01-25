@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/bruce-springsteen-dancing-in-the-dark'
 title: 'Bruce Springsteen - Dancing in the dark'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-06-04T04:16:08-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Favorite music'
 published: true
-type: blog
-url: /bruce-springsteen-dancing-in-the-dark
 id: 1671
 ---
+
+# Bruce Springsteen - Dancing in the dark
 
 [video 129kuDCQtHs]
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/the-webs-broken-deal-with-ai-companies'
 title: "The web's broken deal with AI companies"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-07-01T10:40:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "AI companies are breaking the web's economic model by extracting content without compensating creators, but new enforcement tools and content licensing marketplaces could restore fair compensation."
-image: blog/cloudflare-vs-crawlers
 tags:
   - 'Open Web'
   - 'Artificial Intelligence'
-featured: false
+image: blog/cloudflare-vs-crawlers
 published: true
-type: blog
-url: /the-webs-broken-deal-with-ai-companies
+featured: false
 id: 5836
 ---
+
+# The web's broken deal with AI companies
 
 [image blog/cloudflare-vs-crawlers lazy=false priority=true]
 

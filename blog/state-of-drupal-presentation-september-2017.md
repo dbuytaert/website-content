@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-september-2017'
 title: 'State of Drupal presentation (September 2017)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-09-27T07:55:43-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon Vienna Driesnote presentation'
-image: drupalcon-vienna-2017/group-photo
 tags:
   - Drupal
   - 'State of Drupal'
   - DrupalCon
   - Vienna
+image: drupalcon-vienna-2017/group-photo
 published: true
-type: blog
-url: /state-of-drupal-presentation-september-2017
 id: 4031
 ---
+
+# State of Drupal presentation (September 2017)
 
 [image drupalcon-vienna-2017/group-photo]
 

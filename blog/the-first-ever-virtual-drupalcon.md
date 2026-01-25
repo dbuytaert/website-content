@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/the-first-ever-virtual-drupalcon'
 title: 'The first ever virtual DrupalCon'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-07-10T09:21:55-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
 published: true
-type: blog
-url: /the-first-ever-virtual-drupalcon
 id: 5036
 ---
+
+# The first ever virtual DrupalCon
 
 I remember the first gathering of Drupal contributors back in 2005. At the time, there were less than 50 people in attendance. In the 15 years since that first gathering, DrupalCon has become the heartbeat of the Drupal community. With each new DrupalCon, we introduce new people to our community, demonstrate the best that Drupal has to offer, and reconnect with our Drupal family.
 

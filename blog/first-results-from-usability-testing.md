@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/first-results-from-usability-testing'
 title: 'First results from usability testing'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-03-10T05:48:25-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Usability
   - Testing
 published: true
-type: blog
-url: /first-results-from-usability-testing
 id: 410
 ---
+
+# First results from usability testing
 
 <video width="640" controls>
   <source src="https://dri.es/files/usability-testing-minnesota-1.mov">

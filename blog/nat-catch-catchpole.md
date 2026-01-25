@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/nat-catch-catchpole'
 title: 'Nat "catch" Catchpole'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-09-27T05:22:10-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Branch maintainer'
 published: true
-type: blog
-url: /nat-catch-catchpole
 id: 2506
 ---
+
+# Nat "catch" Catchpole
 
 I'm pleased to share that [Nat "catch" Catchpole](https://www.drupal.org/user/35733) has accepted my invitation to become my Drupal 8 co-maintainer. For the duration of one release cycle, he will help me co-ordinate Drupal 8 development.
 

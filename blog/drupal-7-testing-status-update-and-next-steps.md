@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-7-testing-status-update-and-next-steps'
 title: 'Drupal 7 testing: status update and next steps'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-06-16T15:07:57-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Testing
 published: true
-type: blog
-url: /drupal-7-testing-status-update-and-next-steps
 id: 675
 ---
+
+# Drupal 7 testing: status update and next steps
 
 The [first version of Drupal's automated test framework](https://cvs.drupal.org/viewvc.py/drupal/contributions/modules/simpletest/simpletest.module?revision=1.1&view=markup) was developed in 2004 by [Moshe Weitzman](http://www.tejasa.com). It started as a simple wrapper around the [SimpleTest unit testing framework](http://www.simpletest.org/). Later, [Thomas Ilsche](https://www.drupal.org/user/26486) and [Rok Zlender](https://www.drupal.org/user/61873) extended it as part of the [Google Summer of Code projects](https://dri.es/google-to-invest-70000-usd-in-drupal) of 2005 and 2006. [NowPublic](http://www.nowpublic.com) and others continued to sponsor Rok's work into 2008. Today, [Jimmy Berry](http://www.boombatower.com/) is the principal contributor of the Drupal test framework, as well as the main developer and maintainer of Drupal.org's automated test infrastructure. Behind the scenes, [Kieran Lal](https://www.drupal.org/user/18703) was instrumental in helping to ensure our test framework received financial support, project management, hardware resources, and server administrators.
 

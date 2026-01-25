@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/fast-tracking-life-saving-innovations'
 title: 'Fast tracking life-saving innovations'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-01-25T08:54:30-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Policy
   - Trends
 published: true
-type: blog
-url: /fast-tracking-life-saving-innovations
 id: 3551
 ---
+
+# Fast tracking life-saving innovations
 
 Last week, a member of my family died in a car accident. Jasper was on his way home and was hit by a taxi. He fought for his life, but died the next day. Jasper was only 16 years old. I was at [Davos](https://en.wikipedia.org/wiki/World_Economic_Forum) and at one point I had to step out of the conference to cry. Five years ago, another family member died after she was hit by a truck when crossing the road.
 

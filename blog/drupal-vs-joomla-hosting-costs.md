@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-vs-joomla-hosting-costs'
 title: 'Drupal vs Joomla: hosting costs'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-08-25T08:19:35-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Humor
   - Joomla
   - Statistics
 published: true
-type: blog
-url: /drupal-vs-joomla-hosting-costs
 id: 129
 ---
+
+# Drupal vs Joomla: hosting costs
 
 Sun's new [Fire T1000 and T2000 servers](http://www.sun.com/servers/coolthreads/) are [much touted for their low power consumption](http://blogs.sun.com/jonathan/entry/answer_to_the_roof_riddle). According to the [Sun Fire T2000 power calculator](http://www.sun.com/servers/coolthreads/t2000/calc/), an idle Sun Fire T2000 with 4 cores and 8GB of memory consumes 203 watts, and a busy one consumes 251 watts, resulting in a difference of 48 watts.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/automating-code-checks-in-drupal-using-git-hooks'
 title: 'Automating code checks in Drupal using Git Hooks'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-12-07T09:28:35-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: note
 tags:
   - Drupal
   - Automation
-featured: false
 published: true
-type: note
-url: /automating-code-checks-in-drupal-using-git-hooks
+featured: false
 id: 5526
 ---
+
+# Automating code checks in Drupal using Git Hooks
 
 I finally set up some Github pre-commit hooks on my local [Drupal](http://www.drupal.org/) development environment.
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/a-book-for-decoupled-drupal-practitioners'
 title: 'A book for decoupled Drupal practitioners'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-10-24T00:40:17-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Why Preston So' new book on decoupled Drupal will give Drupal more reach and credibility among developers building decoupled architectures."
-image: drupal/decoupled-drupal-book-2018
 tags:
   - Drupal
   - 'Headless Drupal'
+image: drupal/decoupled-drupal-book-2018
 published: true
-type: blog
-url: /a-book-for-decoupled-drupal-practitioners
 id: 4566
 ---
+
+# A book for decoupled Drupal practitioners
 
 [image drupal/decoupled-drupal-book-2018]
 

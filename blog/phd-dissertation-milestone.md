@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/phd-dissertation-milestone'
 title: 'PhD dissertation milestone'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-11-08T11:33:27-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'PhD research'
   - Java
 published: true
-type: blog
-url: /phd-dissertation-milestone
 id: 351
 ---
+
+# PhD dissertation milestone
 
 I just sent the members of my PhD dissertation committee their copy of my dissertation. *Yay!*
 

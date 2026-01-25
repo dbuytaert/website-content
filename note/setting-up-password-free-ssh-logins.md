@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/setting-up-password-free-ssh-logins'
 title: 'Setting up password-free SSH logins'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-06-07T07:02:30-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: note
 tags:
   - Security
 published: true
-type: note
-url: /setting-up-password-free-ssh-logins
 id: 5621
 ---
+
+# Setting up password-free SSH logins
 
 Setting up a new computer or device for secure, password-free logins not only streamlines automation processes but also improves security. Password-free authentication methods, such as public key authentication, reduce the risk of brute force attacks and phishing, as they eliminate the need to enter a password that could potentially be intercepted or guessed.
 

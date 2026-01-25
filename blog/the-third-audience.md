@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/the-third-audience'
 title: 'The Third Audience'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2026-01-14T17:33:29-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'I made my website easier for AI agents and crawlers to read, and within an hour it was getting hundreds of requests.'
-image: blog/machines-reading-web-content
 tags:
   - Drupal
   - 'Artificial Intelligence'
   - 'My site'
   - Markdown
-featured: false
+image: blog/machines-reading-web-content
 published: true
-type: blog
-url: /the-third-audience
+featured: false
 id: 6051
 ---
+
+# The Third Audience
 
 [image blog/machines-reading-web-content priority=true schema=false]
 

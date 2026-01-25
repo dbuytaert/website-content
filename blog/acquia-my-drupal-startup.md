@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/acquia-my-drupal-startup'
 title: 'Acquia, my Drupal startup'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-11-30T15:37:02-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "I'm starting Acquia, a company with the goal to expand Drupal's capabilities and reach, while working closely with the Drupal community."
-image: acquia/acquia-com-march-2008
 tags:
   - Drupal
   - 'Drupal Association'
   - Acquia
-featured: true
+image: acquia/acquia-com-march-2008
 published: true
-type: blog
-url: /acquia-my-drupal-startup
+featured: true
 id: 365
 ---
+
+# Acquia, my Drupal startup
 
 [image acquia/acquia-com-march-2008]
 

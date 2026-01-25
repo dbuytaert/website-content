@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/an-update-on-the-workflow-initiative-for-drupal-8-4-8-5'
 title: 'An update on the Workflow Initiative for Drupal 8.4/8.5'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-11-22T09:57:47-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Want to know what has been happening with the Workflow Initiative in Drupal? Read my update.'
-image: drupal/drupal-8-workspaces-prototype-november-2017
 tags:
   - Drupal
   - 'Workflow initiative'
+image: drupal/drupal-8-workspaces-prototype-november-2017
 published: true
-type: blog
-url: /an-update-on-the-workflow-initiative-for-drupal-8-4-8-5
 id: 4081
 ---
+
+# An update on the Workflow Initiative for Drupal 8.4/8.5
 
 Over the past weeks I have shared [an update on the Media Initiative](https://dri.es/an-update-on-the-media-initiative-for-drupal-8-4-8-5) and [an update on the Layout Initiative](https://dri.es/an-update-on-the-layout-initiative-for-drupal-8-4-8-5). Today I wanted to give an update on the Workflow Initiative.
 

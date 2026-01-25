@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-site-crawler-project'
 title: 'Drupal site crawler project'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-05-11T09:05:37-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /drupal-site-crawler-project
 id: 646
 ---
+
+# Drupal site crawler project
 
 For years now, people have been asking me how many Drupal sites there are. This is, of course, something of a moving target and I figured that the only way to answer that question was to count all the Drupal sites out there one by one. Three years ago, I was finally motivated enough to write a *Drupal site crawler* that looks over the millions of websites online to find those powered by Drupal. The crawler initially ran for about 3 months, and it returned a lot of Drupal sites. For each one it found, I then did some data-mining to extract the location of their hosting servers. I made a heatmap visualization of all the Drupal sites on a map of the world, and was able to start tracking Drupal's geographical growth patterns over time. As a bonus, the crawler also counted Joomla!, Mambo, and WordPress sites, as well as a number of other open source content management systems - it is good data on Drupal and the competition.
 

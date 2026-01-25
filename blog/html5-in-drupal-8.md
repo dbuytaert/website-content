@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/html5-in-drupal-8'
 title: 'HTML5 in Drupal 8'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-05-18T16:44:11-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /html5-in-drupal-8
 id: 2346
 ---
+
+# HTML5 in Drupal 8
 
 HTML5 is about to rock our world. There are books written about why that is the case, but simply put, it can provide a much better user experience on both desktop and mobile devices, and could lead to a convergence between native applications and the mobile web.
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/20-years-of-blogging'
 title: '20 years of blogging'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-12-31T11:21:56-05:00'
-author: Dries
-image: miscellaneous-2023/afternoon-light-kitchen
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'My site'
   - Writing
   - Drupal
-featured: false
+image: miscellaneous-2023/afternoon-light-kitchen
 published: true
-type: blog
-url: /20-years-of-blogging
+featured: false
 id: 6026
 ---
+
+# 20 years of blogging
 
 [image miscellaneous-2023/afternoon-light-kitchen caption=false]
 

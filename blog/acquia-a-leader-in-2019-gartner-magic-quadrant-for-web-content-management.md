@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/acquia-a-leader-in-2019-gartner-magic-quadrant-for-web-content-management'
 title: 'Acquia a leader in 2019 Gartner Magic Quadrant for Web Content Management'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-08-01T13:36:11-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'For the sixth year in a row, Acquia has been recognized as a Leader in the Gartner Magic Quadrant for Web Content Management.'
-image: acquia/gartner-magic-quadrant-for-web-content-management-2019
 tags:
   - Gartner
   - Acquia
   - Drupal
+image: acquia/gartner-magic-quadrant-for-web-content-management-2019
 published: true
-type: blog
-url: /acquia-a-leader-in-2019-gartner-magic-quadrant-for-web-content-management
 id: 4901
 ---
+
+# Acquia a leader in 2019 Gartner Magic Quadrant for Web Content Management
 
 For the sixth year in a row, Acquia has been recognized as a Leader in the [Gartner Magic Quadrant for Web Content Management](https://www.acquia.com/resources/whitepaper/2019-gartner-magic-quadrant-web-content-management).
 

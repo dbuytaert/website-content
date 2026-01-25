@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/teaching-my-son-how-the-web-works'
 title: 'Teaching my son how the web works'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-12-01T14:52:24-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Family
   - CSS
   - 'Open Web'
 published: true
-type: blog
-url: /teaching-my-son-how-the-web-works
 id: 4946
 ---
+
+# Teaching my son how the web works
 
 For the first time, I taught my twelve year old son some HTML and CSS. This morning after breakfast we sat down and created a basic HTML page with some simple styling.
 

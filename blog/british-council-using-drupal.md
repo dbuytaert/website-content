@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/british-council-using-drupal'
 title: 'British Council using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-11-17T04:06:31-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Government
 published: true
-type: blog
-url: /british-council-using-drupal
 id: 532
 ---
+
+# British Council using Drupal
 
 [English Online](http://www.englishonline.org.cn) is an initiative created by the [British Council](https://en.wikipedia.org/wiki/British_Council) to encourage the learning of English in China.
 

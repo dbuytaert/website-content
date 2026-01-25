@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/nowpublic-partners-with-associated-press'
 title: 'NowPublic partners with AP'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-02-09T17:15:18-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - NowPublic
 published: true
-type: blog
-url: /nowpublic-partners-with-associated-press
 id: 215
 ---
+
+# NowPublic partners with AP
 
 The news just keeps getting better. Today the [Associated Press](http://www.ap.org) (AP) and [NowPublic](http://nowpublic.com) announced that they have agreed to a deal that will bring NowPublic's citizen content into AP's news gathering network. According to the press release, the two companies will work together to explore ways of involving NowPublic's on-the-ground network of news contributors with AP's breaking news coverage – increasing the worlds access to news as it happens.
 

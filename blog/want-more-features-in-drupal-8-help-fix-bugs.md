@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/want-more-features-in-drupal-8-help-fix-bugs'
 title: 'Want more features in Drupal 8? Help fix bugs!'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-05-16T12:30:33-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /want-more-features-in-drupal-8-help-fix-bugs
 id: 2956
 ---
+
+# Want more features in Drupal 8? Help fix bugs!
 
 In Drupal core, we use [issue thresholds](https://www.drupal.org/core/thresholds) to manage technical debt. Both critical (release-blocking) and major (non-release-blocking, high-impact issues) are considered. When we have more open issues than our thresholds, we do not commit new features.
 

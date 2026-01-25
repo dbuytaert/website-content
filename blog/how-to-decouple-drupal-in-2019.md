@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/how-to-decouple-drupal-in-2019'
 title: 'How to decouple Drupal in 2019'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-01-24T11:18:25-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Do I build my website with Drupal's built-in templating layer or do I use Drupal's decoupled or headless capabilities in combination with a JavaScript framework?"
-image: drupal/how-to-decouple-drupal-in-2019-flowchart-full
 tags:
   - Drupal
   - JavaScript
   - 'Headless Drupal'
-featured: true
+image: drupal/how-to-decouple-drupal-in-2019-flowchart-full
 published: true
-type: blog
-url: /how-to-decouple-drupal-in-2019
+featured: true
 id: 4721
 ---
+
+# How to decouple Drupal in 2019
 
 The pace of innovation in content management has been accelerating – driven by both the number of channels that content management systems need to support (web, mobile, social, chat) as well as the need to support JavaScript frameworks in the traditional web channel. As a result, we've seen headless or decoupled architectures emerge.
 

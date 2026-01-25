@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/jsonapi-lands-in-drupal-core'
 title: 'JSON:API lands in Drupal core'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-03-21T09:25:35-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal core now provides an out-of-the-box JSON:API implementation, marking another major milestone towards making Drupal API-first.'
-image: drupal/json-api-crane
 tags:
   - Drupal
   - 'Web services'
   - 'Headless Drupal'
+image: drupal/json-api-crane
 published: true
-type: blog
-url: /jsonapi-lands-in-drupal-core
 id: 4796
 ---
+
+# JSON:API lands in Drupal core
 
 [image drupal/json-api-crane]
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/i-am-what-i-read'
 title: 'I am what I read'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-01-21T01:05:56-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Reading
 published: true
-type: blog
-url: /i-am-what-i-read
 id: 3321
 ---
+
+# I am what I read
 
 Almost every night before bed, I spend time reading. I love the feeling of falling asleep a little wiser than when I woke up. And often I read in the morning too. I read about photography, technology, investing, business, and more.
 

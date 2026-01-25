@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/configuration-management-in-drupal-8'
 title: 'Configuration management in Drupal 8'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-03-28T08:18:25-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Configuration
 published: true
-type: blog
-url: /configuration-management-in-drupal-8
 id: 2281
 ---
+
+# Configuration management in Drupal 8
 
 In [my DrupalCon keynote in Chicago](https://dri.es/state-of-drupal-presentation-march-2011), I talked about the key initiatives that I believe we should focus on for Drupal 8 core. One of those key initiatives that I talked about was *configuration management*.
 

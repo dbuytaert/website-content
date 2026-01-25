@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/nike-using-drupal'
 title: 'Nike using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-05-23T02:41:02-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - 'Fortune 500'
 published: true
-type: blog
-url: /nike-using-drupal
 id: 448
 ---
+
+# Nike using Drupal
 
 [image drupal/nike-media-beijing]
 

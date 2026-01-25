@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/my-thoughts-on-adobe-buying-magento-for-1-68-billion'
 title: 'My thoughts on Adobe buying Magento for $1.68 billion'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-05-22T15:20:56-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'My thoughts on Adobe buying Magento for $1.68 billion'
-image: blog/adobe-acquires-magento
 tags:
   - Drupal
   - Acquia
   - Commerce
   - Acquisitions
+image: blog/adobe-acquires-magento
 published: true
-type: blog
-url: /my-thoughts-on-adobe-buying-magento-for-1-68-billion
 id: 4361
 ---
+
+# My thoughts on Adobe buying Magento for $1.68 billion
 
 [image blog/adobe-acquires-magento]
 

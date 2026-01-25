@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/5-things-a-government-can-do-to-grow-its-startup-ecosystem'
 title: '5 things a government can do to grow its startup ecosystem'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-02-24T14:15:19-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Policy
   - Government
 published: true
-type: blog
-url: /5-things-a-government-can-do-to-grow-its-startup-ecosystem
 id: 3341
 ---
+
+# 5 things a government can do to grow its startup ecosystem
 
 Building a successful company is really hard. It is hard no matter where you are in the world, but the difficulty is magnified in Europe, where people are divided by geography, regulation, language and cultural prejudice. If governments can provide European startups a competitive advantage, that could come a long way in helping to offset some of the disadvantages. In this post, I'm sharing some rough ideas for what governments could do to encourage a thriving startups ecosystem. It's my contribution to the [Belgian startup manifesto](https://startups.be/content/belgian-startup-manifesto-call-stories) ([\#bestartupmanifesto](https://twitter.com/hashtag/bestartupmanifesto)).
 

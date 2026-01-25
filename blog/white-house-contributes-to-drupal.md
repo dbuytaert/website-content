@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/white-house-contributes-to-drupal'
 title: 'White House contributes to Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-08-24T07:53:53-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
@@ -9,10 +14,10 @@ tags:
   - 'White House'
   - Government
 published: true
-type: blog
-url: /white-house-contributes-to-drupal
 id: 2766
 ---
+
+# White House contributes to Drupal
 
 Very exciting news from the White House today.
 

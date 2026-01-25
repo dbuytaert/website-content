@@ -1,21 +1,26 @@
 ---
+url: 'https://dri.es/my-solar-powered-and-self-hosted-website'
 title: 'My solar-powered and self-hosted website'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-10-15T15:43:10-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How I built a solar-powered, self-hosted website with a Raspberry Pi to explore sustainable, local-first web hosting.'
-image: miscellaneous-2024/solar-panel-on-roofdeck
 tags:
   - Electronics
   - 'My site'
   - Drupal
   - 'Solar power'
   - 'Raspberry Pi'
-featured: true
+image: miscellaneous-2024/solar-panel-on-roofdeck
 published: true
-type: blog
-url: /my-solar-powered-and-self-hosted-website
+featured: true
 id: 5701
 ---
+
+# My solar-powered and self-hosted website
 
 I'm excited to share an experiment I've been working on: a solar-powered, self-hosted website running on a Raspberry Pi. The website at <https://solar.dri.es> is powered entirely by a solar panel and battery on our roof deck in Boston.
 

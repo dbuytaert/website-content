@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/javana'
 title: Javana
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-08-17T06:26:39-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'PhD research'
 published: true
-type: blog
-url: /javana
 id: 125
 ---
+
+# Javana
 
 Our paper [Javana: a system for building customized Java program analysis tools](/files/oopsla06-paper.pdf) (PDF, 1.3MB) has been accepted for publication at OOPSLA'06 (17% acceptance rate).
 

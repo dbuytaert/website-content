@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/making-the-web-easier-and-safer-with-the-web-authentication-standard'
 title: 'Making the web easier and safer with the Web Authentication standard'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-05-30T09:05:07-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Browsers are starting to support the Web Authentication standard and it's great news for making the web easier and safer to use."
 tags:
   - Security
   - 'Open Web'
 published: true
-type: blog
-url: /making-the-web-easier-and-safer-with-the-web-authentication-standard
 id: 4391
 ---
+
+# Making the web easier and safer with the Web Authentication standard
 
 Firefox 60 was released a few weeks ago and now comes with support for the [upcoming Web Authentication (WebAuthn) standard](https://www.w3.org/TR/webauthn/).
 

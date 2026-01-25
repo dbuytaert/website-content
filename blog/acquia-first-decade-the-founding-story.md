@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/acquia-first-decade-the-founding-story'
 title: "Acquia's first decade: the founding story"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-06-29T15:49:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "A look back at Acquia's first ten years."
 tags:
   - Acquia
   - Drupal
   - 'Startup lessons'
-featured: true
 published: true
-type: blog
-url: /acquia-first-decade-the-founding-story
+featured: true
 id: 3956
 ---
+
+# Acquia's first decade: the founding story
 
 This week marked Acquia's 10th anniversary. In 2007, Jay Batson and I set out to build a software company based on open source and Drupal that we would come to call Acquia. In honor of our tenth anniversary, I wanted to share some of the milestones and lessons that have helped shape Acquia into the company it is today. I haven't shared these details before so I hope that my record of Acquia's founding not only pays homage to our incredible colleagues, customers and partners that have made this journey worthwhile, but that it offers honest insight into the challenges and rewards of building a company from the ground up. If you like this story, I also encourage you to read [Jay's side of story](http://www.startupdj.com/blog/acquias-10-year-anniversary).
 

@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/ai-and-the-great-digital-agency-unbundling'
 title: 'AI and the great digital agency unbundling'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-07-23T19:06:04-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'AI is transforming digital agencies and web development at an accelerating pace. To stay relevant, agencies must evolve beyond commoditized technical work and reposition themselves around strategy, orchestration, and measurable outcomes.'
-image: blog/great-digital-agency-unbundling
 tags:
   - 'Artificial Intelligence'
   - Drupal
   - 'Workflow orchestration'
-featured: true
+image: blog/great-digital-agency-unbundling
 published: true
-type: blog
-url: /ai-and-the-great-digital-agency-unbundling
+featured: true
 id: 5846
 ---
+
+# AI and the great digital agency unbundling
 
 [image blog/great-digital-agency-unbundling lazy=false priority=true]
 

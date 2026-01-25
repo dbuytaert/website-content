@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/acquia-acquired-trucentric'
 title: 'Acquia acquired TruCentric'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-06-03T06:17:49-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
 published: true
-type: blog
-url: /acquia-acquired-trucentric
 id: 3151
 ---
+
+# Acquia acquired TruCentric
 
 We're excited to announce that [Acquia](https://www.acquia.com) acquired [TruCentric](http://trucentric.com), a software-as-a-service company that is focused on providing personalization for websites. Earlier this year [we launched Acquia Lift](https://dri.es/announcing-acquia-lift), which brings testing and personalization capabilities to Drupal sites. With TruCentric, we acquired not only a great complementary product that we will integrate with Acquia Lift, we also gained a great team with a long history and strong leadership in marketing automation technologies.
 

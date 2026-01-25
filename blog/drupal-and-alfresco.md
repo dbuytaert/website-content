@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-and-alfresco'
 title: 'Drupal and Alfresco'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-02-23T09:23:01-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Alfresco
 published: true
-type: blog
-url: /drupal-and-alfresco
 id: 605
 ---
+
+# Drupal and Alfresco
 
 [Alfresco](http://alfresco.com) and [Optaros](http://optaros.com), in conjunction with [Acquia](https://www.acquia.com), have made available a set of Drupal modules that integrate Drupal with Alfresco using the [CMIS APIs](http://wiki.alfresco.com/wiki/CMIS). See the [CMIS module](https://www.drupal.org/project/cmis) and the [CMIS Alfresco module](https://www.drupal.org/project/cmis_alfresco) on [drupal.org](https://www.drupal.org).
 

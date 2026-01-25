@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/starting-to-work-on-drupal-8'
 title: 'Starting to work on Drupal 8'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-03-17T10:00:32-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /starting-to-work-on-drupal-8
 id: 2246
 ---
+
+# Starting to work on Drupal 8
 
 At DrupalCon Chicago I created the Drupal 8 development branch in front of a room full of core contributors. This means that we have officially started work on Drupal 8 and that I started to accept new features and improvements for Drupal 8, the next major version of Drupal.
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-september-2016'
 title: 'State of Drupal presentation (September 2016)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-10-07T08:33:55-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon Dublin Driesnote presentation'
-image: drupalcon-dublin-2016/keynote-4
 tags:
   - DrupalCon
   - 'State of Drupal'
   - Drupal
+image: drupalcon-dublin-2016/keynote-4
 published: true
-type: blog
-url: /state-of-drupal-presentation-september-2016
 id: 3791
 ---
+
+# State of Drupal presentation (September 2016)
 
 DrupalCon Dublin marked my 28th DrupalCon and #Driesnote presentation. You can [watch a recording of my keynote](https://youtu.be/eQLzrlMeySU) (starting at 23:55) or [download a copy of my slides here](https://dri.es/files/state-of-drupal-september-2016.pdf) (185.4 MB).
 

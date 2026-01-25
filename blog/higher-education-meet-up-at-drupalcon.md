@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/higher-education-meet-up-at-drupalcon'
 title: 'Higher education meet-up at DrupalCon'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-03-16T13:13:33-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - Education
 published: true
-type: blog
-url: /higher-education-meet-up-at-drupalcon
 id: 2661
 ---
+
+# Higher education meet-up at DrupalCon
 
 It's that time of year again where we are gearing up for another great [DrupalCon](http://drupalcon.org). Next week, 3000 Drupalists, including more than 70 Acquians, will be migrating out west to the Rocky Mountains for an action packed week filled with sessions, stickers, beer, and lots of face time with the best open source community on the planet.
 

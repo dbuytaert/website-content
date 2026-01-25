@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/linux-on-the-desktop'
 title: 'Linux on the desktop'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-05-01T14:32:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Trends
 published: true
-type: blog
-url: /linux-on-the-desktop
 id: 265
 ---
+
+# Linux on the desktop
 
 One day in the distinct future, the adoption of Linux on the desktop will not be driven by improvements in desktop applications, but by desktop applications moving to the web. The more conventional desktop applications we can eliminate, the faster end-users will be able to adopt Linux.
 

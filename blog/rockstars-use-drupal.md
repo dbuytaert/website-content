@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/rockstars-use-drupal'
 title: 'Rockstars use Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-09-12T04:42:52-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Music
 published: true
-type: blog
-url: /rockstars-use-drupal
 id: 141
 ---
+
+# Rockstars use Drupal
 
 [Moby](https://en.wikipedia.org/wiki/Moby) blogs with [Drupal](https://www.drupal.org/) at <https://moby.com/>.
 

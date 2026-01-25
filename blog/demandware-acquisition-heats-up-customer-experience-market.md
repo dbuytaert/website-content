@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/demandware-acquisition-heats-up-customer-experience-market'
 title: 'Demandware acquisition heats up the customer experience market'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-06-02T16:00:00-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Source'
   - Drupal
   - Commerce
 published: true
-type: blog
-url: /demandware-acquisition-heats-up-customer-experience-market
 id: 3696
 ---
+
+# Demandware acquisition heats up the customer experience market
 
 The battle for the marketing cloud just got way more interesting. This week, Salesforce announced its acquisition of Demandware for $2.8B in cash. It will enable Salesforce to offer a "Commerce Cloud" alongside its sales and marketing solutions.
 

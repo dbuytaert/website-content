@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/scrambling-in-snowdonia'
 title: 'Scrambling in Snowdonia'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-06-25T03:59:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'A multi-day Tryfan trip mixed steep scrambling, a surprise steak dinner, sheep, and sweeping Ogwen Valley hikes.'
-image: hiking-in-wales-2019/camping-on-tryfan
 tags:
   - Photography
   - Travel
   - 'United Kingdom'
-featured: true
+image: hiking-in-wales-2019/camping-on-tryfan
 published: true
-type: blog
-url: /scrambling-in-snowdonia
+featured: true
 id: 4881
 ---
+
+# Scrambling in Snowdonia
 
 At the end of last week, Klaas (one of my best friends) and I drove from Belgium to Wales dead-set on *scrambling* up [Tryfan](https://en.wikipedia.org/wiki/Tryfan)'s North Ridge and hiking the [Ogwen Valley](https://en.wikipedia.org/wiki/Dyffryn_Ogwen) in [Snowdonia](https://en.wikipedia.org/wiki/Snowdonia).
 

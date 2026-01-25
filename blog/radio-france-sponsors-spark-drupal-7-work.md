@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/radio-france-sponsors-spark-drupal-7-work'
 title: 'Radio France sponsors Spark Drupal 7 work'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-01-29T13:13:59-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Spark distribution'
 published: true
-type: blog
-url: /radio-france-sponsors-spark-drupal-7-work
 id: 2876
 ---
+
+# Radio France sponsors Spark Drupal 7 work
 
 When we first announced the [Spark authoring experience initiative for Drupal](https://dri.es/announcing-spark-authoring-improvements-for-drupal-7-and-drupal-8) in May of last year, we chose Drupal 7 as our target in order to develop the features and get them in front of testers as quickly as possible. After DrupalCon Munich in August, the team shifted efforts towards Drupal 8 core instead, in order to more directly improve the experience of Drupal itself. Since then, we have successfully worked with the community to drive home [a redesigned and mobile-friendly toolbar](https://www.drupal.org/node/1137920), [support for draft revisions](https://www.drupal.org/node/218755), [in-place editing](https://www.drupal.org/node/1824500), numerous mobile improvements, and have [WYSIWYG](https://www.drupal.org/node/1890502) and [unified in-place editing](https://www.drupal.org/node/1882482) on the way.
 

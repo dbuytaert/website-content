@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/sharepoint-2007'
 title: 'SharePoint 2007'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-12-22T10:01:51-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - SharePoint
@@ -9,10 +14,10 @@ tags:
   - Microsoft
   - Trends
 published: true
-type: blog
-url: /sharepoint-2007
 id: 193
 ---
+
+# SharePoint 2007
 
 Bert Boerland [predicts](http://willy.boerland.com/myblog/community_management_system): *Within 3 years the acronym "CMS" won't mean "Content Management System" anymore but will be redefined to "Community Management System".*
 

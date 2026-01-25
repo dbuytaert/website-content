@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/first-belgian-drupalcamp'
 title: 'First Belgian DrupalCamp'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-06-23T16:51:23-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Press
   - Belgium
 published: true
-type: blog
-url: /first-belgian-drupalcamp
 id: 691
 ---
+
+# First Belgian DrupalCamp
 
 Next weekend, on Saturday June 27, the French-speaking Drupal community in Belgium is organizing Belgium's very first DrupalCamp. The event takes place in Louvain-la-Neuve which makes it pretty accessible for both Dutch and French-speaking Belgians. Details are available on <http://drupalfr.be>. Due to the work of [Gilles Bailleux](https://bailleux.be/), the event got some great press in this weekend's edition of the Belgian newspaper, La Libre Belgique. Both a screenshot and a PDF are provided below.
 

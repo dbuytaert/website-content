@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/caring-for-old-software'
 title: 'Caring for old software'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-06-25T02:22:13-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /caring-for-old-software
 id: 5031
 ---
+
+# Caring for old software
 
 Given the impact of COVID-19 on organizations' budgets, we extended Drupal 7's end-of-life date by one year. Drupal 7 will receive security updates until November 2022, instead of November 2021. For more information, see the [official announcement](https://www.drupal.org/psa-2020-06-24).
 

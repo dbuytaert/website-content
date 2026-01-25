@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/australian-broadcasting-corporation-using-drupal'
 title: 'Australian Broadcasting Corporation using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-07-10T03:06:55-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Australia
   - Broadcasting
 published: true
-type: blog
-url: /australian-broadcasting-corporation-using-drupal
 id: 821
 ---
+
+# Australian Broadcasting Corporation using Drupal
 
 The [Australian Broadcasting Corporation](http://www.abc.net.au) (ABC) started using [Drupal](https://www.drupal.org) for a number of properties like [ABC Digital Music](http://abcdigmusic.net.au), [ABC Country](http://abccountry.net.au/) and [ABC Jazz](http://abcjazz.net.au/).
 

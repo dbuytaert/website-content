@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/climbing-a-mountain'
 title: 'Climbing a mountain'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-10-09T13:59:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
 published: true
-type: blog
-url: /climbing-a-mountain
 id: 1076
 ---
+
+# Climbing a mountain
 
 [image acquia/acquia-leadership-team-2009]
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/streamlining-drupal-core-decision-making'
 title: 'Streamlining Drupal core decision-making'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-03-27T13:52:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /streamlining-drupal-core-decision-making
 id: 2666
 ---
+
+# Streamlining Drupal core decision-making
 
 We've already made a [number](https://dri.es/jennifer-hodgdon) [of](https://dri.es/drupal-8-feature-freeze-december-1st-2012) [process](https://dri.es/issue-queue-thresholds-for-drupal-core) [improvements](https://dri.es/fast-tracking-drupal-7-bug-fixes) to help accelerate Drupal core's development velocity. Today, I'd like to talk about how we can better streamline the Drupal core decision-making process.
 

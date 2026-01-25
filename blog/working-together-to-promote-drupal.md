@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/working-together-to-promote-drupal'
 title: 'Working together to promote Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-06-26T18:28:59-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "The Promote Drupal Initiative aims to enable marketers to collaborate on the promotion of Drupal, much like we have enabled thousands of developers to collaborate on Drupal's code."
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /working-together-to-promote-drupal
 id: 4426
 ---
+
+# Working together to promote Drupal
 
 The Drupal community has done an amazing job organizing thousands of developers around the world. We've built collaboration tools and engineering processes to streamline how our community of developers work together to collectively build Drupal. This collaboration has led to amazing results. Today, more than 1 in 40 of the top one million websites use [Drupal](https://www.drupal.org/). It's inspiring to see how many organizations depend on Drupal to deliver their missions.
 

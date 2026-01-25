@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/predictions-2009'
 title: 'My predictions for 2009'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-01-01T09:00:19-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Predictions
@@ -9,12 +14,12 @@ tags:
   - Usability
   - Mollom
   - Retrospective
-featured: false
 published: true
-type: blog
-url: /predictions-2009
+featured: false
 id: 566
 ---
+
+# My predictions for 2009
 
 It is that time of year again. Time to reflect on 2008, and to put on my Drupal Nostradamus hat and look forward to 2009. But first of all, thanks for 2008! It's been a pretty crazy ride.
 

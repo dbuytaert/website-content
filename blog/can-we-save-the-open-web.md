@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/can-we-save-the-open-web'
 title: 'Can we save the Open Web?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-03-16T08:27:16-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'I worry that some of the large platform companies like Facebook will make us lose the original integrity and freedom of the open web.'
 tags:
   - Policy
@@ -9,12 +14,12 @@ tags:
   - 'Open Web'
   - 'Net neutrality'
   - Government
-featured: true
 published: true
-type: blog
-url: /can-we-save-the-open-web
+featured: true
 id: 3606
 ---
+
+# Can we save the Open Web?
 
 The web felt very different fifteen years ago, when I founded [Drupal](https://www.drupal.org). Just 7 percent of the population had internet access, there were only around 20 million websites, and Google was a small, private company. Facebook, Twitter, and other household tech names were years away from being founded. In these early days, the web felt like a free space that belonged to everyone. No one company dominated as an access point or controlled what users saw. This is what I call the "Open Web".
 

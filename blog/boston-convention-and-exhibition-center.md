@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/boston-convention-and-exhibition-center'
 title: 'Boston Convention and Exhibition Center'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-01-15T08:47:36-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
 published: true
-type: blog
-url: /boston-convention-and-exhibition-center
 id: 388
 ---
+
+# Boston Convention and Exhibition Center
 
 <p>
   <embed style="width:500px; height:400px;" src="https://dri.es/files/drupalcon-boston-2008-venue.mov" pluginspage="http://www.apple.com/quicktime/download/" autoplay="off">

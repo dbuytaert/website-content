@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/gartner-on-pricing-pressure'
 title: 'Gartner on pricing pressure'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-11-20T15:04:51-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Business model'
-featured: false
 published: true
-type: blog
-url: /gartner-on-pricing-pressure
+featured: false
 id: 357
 ---
+
+# Gartner on pricing pressure
 
 In a [research note](http://software.silicon.com/applications/0,39024653,39169187,00.htm), Gartner predicted what most people already knew: proprietary software is going to face serious pricing pressure from a range of different software trends.
 

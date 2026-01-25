@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/national-geographic-brilliant-cover'
 title: "National Geographic's brilliant cover"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-05-23T10:55:09-04:00'
-author: Dries
-image: blog/national-geographic-planet-or-plastic-cover
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
+image: blog/national-geographic-planet-or-plastic-cover
 published: true
-type: blog
-url: /national-geographic-brilliant-cover
 id: 4366
 ---
+
+# National Geographic's brilliant cover
 
 One of the best covers I've seen. *Iconic!*
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/the-power-of-self-managed-teams-in-drupal'
 title: 'The power of self-managed teams in Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-11-25T09:49:57-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Leadership
 published: true
-type: blog
-url: /the-power-of-self-managed-teams-in-drupal
 id: 3286
 ---
+
+# The power of self-managed teams in Drupal
 
 The concept of official initiatives came out of [lessons learned from the Drupal 7 development](https://dri.es/drupal-7-development-process-retrospective). We learned a lot from that and in a [recent blog post about Drupal initiative leads](https://dri.es/the-job-of-a-drupal-initiative-lead), I recognized that we need to evolve our tools, our processes, and our organizational design. Others like [Nathaniel Catchpole](https://dri.es/the-job-of-a-drupal-initiative-lead#comment-98266), [Larry Garfield](https://www.garfieldtech.com/blog/on-drupals-leadership) and [Gábor Hojtsy](http://hojtsy.hu/blog/2014-oct-17/authority-drupal-andor-open-source-general) have shared some of their thoughts already. One of the things I'm most proud of is that the Drupal community is always looking to improve and reinvent itself. Evolving is an important part of our culture. Each time it will get better, but still won't be perfect.
 

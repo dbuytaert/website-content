@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/the-end-of-ownership-the-zero-marginal-cost-economy'
 title: 'The end of ownership: the zero-marginal-cost economy'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-09-07T19:48:54-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Source'
   - 'Business model'
   - Trends
 published: true
-type: blog
-url: /the-end-of-ownership-the-zero-marginal-cost-economy
 id: 3221
 ---
+
+# The end of ownership: the zero-marginal-cost economy
 
 Society is undergoing tremendous change right now – those of us who enjoy services like [Uber](http://uber.com) and [Kickstarter](http://kickstarter.com) are experiencing it firsthand. The sharing and collaboration practices of the internet are extending to transportation ([Uber](http://uber.com)), hotels ([Airbnb](http://airbnb.com)), financing ([Kickstarter](http://kickstarter.com), [LendingClub](http://lendingclub.com)), music services ([Spotify](http://spotify.com)) and even software development ([Linux](http://linux.org), [Drupal](https://drupal.com)). While the consumer "sharing economy" gives us a taste of what it's like to live in a world where we own less, perhaps there is an equally powerful message for the business community. Using collaboration, companies are dramatically reducing the production cost of their goods or services.
 

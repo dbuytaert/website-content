@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/kevin-thull-unique-contribution-to-drupal'
 title: "Kevin Thull's unique contribution to Drupal "
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-07-12T12:00:52-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Kevin Thull has recorded and published more than 1,000 Drupal Camp presentations to spread knowledge, awareness and broader understanding of the Drupal project.'
-image: drupal/kevin-thull-recording-kit-2018
 tags:
   - Drupal
+image: drupal/kevin-thull-recording-kit-2018
 published: true
-type: blog
-url: /kevin-thull-unique-contribution-to-drupal
 id: 4446
 ---
+
+# Kevin Thull's unique contribution to Drupal 
 
 If you've ever watched a Drupal Camp video to learn a new Drupal skill, technique or hack, you most likely have [Kevin Thull](https://www.drupal.org/u/kthull) to thank. To date, Kevin has traveled to more than 30 Drupal Camps, recorded more than 1,000 presentations, and has shared them all on YouTube for thousands of people to watch. By recording and posting hundreds of Drupal Camp presentations online, Kevin has has spread knowledge, awareness and a broader understanding of the Drupal project.
 

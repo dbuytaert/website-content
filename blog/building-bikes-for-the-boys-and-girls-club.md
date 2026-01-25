@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/building-bikes-for-the-boys-and-girls-club'
 title: 'Building bikes for the Boys and Girls Club'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-02-02T13:53:56-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How Acquia built 60 bikes for the children of the Boys and Girls Club of Boston'
-image: acquia/bike-building-done
 tags:
   - Acquia
+image: acquia/bike-building-done
 published: true
-type: blog
-url: /building-bikes-for-the-boys-and-girls-club
 id: 4136
 ---
+
+# Building bikes for the Boys and Girls Club
 
 [image acquia/bike-building-in-progress]
 

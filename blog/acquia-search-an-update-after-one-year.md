@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-search-an-update-after-one-year'
 title: 'Acquia Search: an update after one year'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-07-02T10:47:50-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Search'
 published: true
-type: blog
-url: /acquia-search-an-update-after-one-year
 id: 1736
 ---
+
+# Acquia Search: an update after one year
 
 About 20 months ago, at [Acquia](https://www.acquia.com), we began working on a hosted offering for [Apache Solr](http://lucene.apache.org/solr/), an open source enterprise search platform from the [Apache Lucene project](http://lucene.apache.org/). Exactly one year ago, we [launched it commercially as Acquia Search](https://dri.es/acquia-search-available-commercially). Time and the public reaction have proven that we made the right choice. In the past year, Apache Solr has received a tremendous amount of traction in the [Drupal community](https://www.drupal.org). Most large sites launched recently use Apache Solr because it provides a faster, more scalable search solution, as well as improved search accuracy and more features than the built-in search features of Drupal's core.
 

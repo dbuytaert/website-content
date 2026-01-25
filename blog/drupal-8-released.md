@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-8-released'
 title: 'Drupal 8 released'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-11-19T09:54:42-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Learn more about what is new in Drupal 8.'
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-8-released
 id: 3501
 ---
+
+# Drupal 8 released
 
 We just [released Drupal 8.0.0](https://www.drupal.org/8)! Today really marks the beginning of a new era for Drupal. Over the course of almost five years, we've brought the work of [more than 3,000 contributors](https://youtu.be/yOggQwNFl3w) together to make something that is more flexible, more innovative, more easy to use, and more scalable.
 

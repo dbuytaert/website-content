@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupalcon-paris-wrapup'
 title: 'DrupalCon Paris wrapup'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-09-08T05:57:57-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - 'Drupal Association'
 published: true
-type: blog
-url: /drupalcon-paris-wrapup
 id: 986
 ---
+
+# DrupalCon Paris wrapup
 
 I took a few days off from work to spend some time with my family – I haven't had more than a 3 hour break in the last 4 weeks and was away from home during the weekends. DrupalCon Paris ended about 48 hours ago, so I'm sitting here with post-DrupalCon blues, staring at the waterfront, thinking about how fun and exciting the conference was. As usual, I wasn't able to attend more than a couple of sessions, but nothing beats talking to Drupal users and brainstorming together. And I talked to many Drupalistas ...
 

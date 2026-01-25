@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-7-fields-in-core-status-update-and-next-steps'
 title: 'Drupal 7 fields in core: status update and next steps'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-06-17T08:07:55-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-7-fields-in-core-status-update-and-next-steps
 id: 676
 ---
+
+# Drupal 7 fields in core: status update and next steps
 
 With less than 10 weeks to go before the Drupal 7 code freeze, an update on the current state of "Fields in core" is in order. After all, the fields system will be one of the most significant new features in Drupal 7, and [something we've been dreaming about since 2004](https://dri.es/custom-content-types). If you're familiar with Drupal's *Content Construction Kit* (CCK), you can think of "Fields in core" as "CCK in core, except better". If you're not familiar with CCK, "Fields in core" allows you to define custom content types like reviews, blog posts, press releases, articles, events, products, ... whatever you can think of.
 

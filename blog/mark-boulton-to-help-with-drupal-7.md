@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/mark-boulton-to-help-with-drupal-7'
 title: 'Mark Boulton to help with Drupal 7'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-02-04T10:17:09-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Usability
 published: true
-type: blog
-url: /mark-boulton-to-help-with-drupal-7
 id: 592
 ---
+
+# Mark Boulton to help with Drupal 7
 
 Drupal's steep learning curve filters out far too many smart, motivated people who could benefit from Drupal. We see it all the time in the Drupal.org forums, in my "State of Drupal" surveys, on Twitter, when talking to customers, and on the web. Even though we've made significant progress with making Drupal easier to use, a lot of work is left to be done. With other content management systems such as Joomla! and WordPress making strides to catch up to Drupal in terms of development flexibility, if we want Drupal to remain competitive, we have a challenge we have to face: we need to create a user experience that makes it easier for people new to Drupal to discover all of its richness and power.
 

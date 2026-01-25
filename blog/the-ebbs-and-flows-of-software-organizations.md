@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/the-ebbs-and-flows-of-software-organizations'
 title: 'The ebbs and flows of software organizations'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-12-08T13:09:38-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Apple
   - Microsoft
   - 'Stock market'
 published: true
-type: blog
-url: /the-ebbs-and-flows-of-software-organizations
 id: 4661
 ---
+
+# The ebbs and flows of software organizations
 
 This week I was in New York for a day. At lunch, [Sir Martin Sorrell](https://en.wikipedia.org/wiki/Martin_Sorrell) pointed out that Microsoft overtook Apple as the most valuable software company as measured by market capitalization. It's a close call but Microsoft is now worth $805 billion while Apple is worth $800 billion.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/ing-using-drupal'
 title: 'ING using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-03-24T13:49:06-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - 'Financial services'
 published: true
-type: blog
-url: /ing-using-drupal
 id: 2266
 ---
+
+# ING using Drupal
 
 You know when a piece of software is mature when it starts being adopted by financial services organizations. ING Financial Services recently moved a number of sites from [Oracle Stellent](https://www.oracle.com/stellent/) to [Drupal](https://www.drupal.org). Among these sites are <http://ing.us>, the main portal for their US market. The driver behind this migration was to move to a platform that was more dynamic and provided faster time to market.
 

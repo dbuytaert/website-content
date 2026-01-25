@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/tom-erickson-joined-acquia-as-ceo'
 title: 'Tom Erickson joined Acquia as CEO'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-03-04T07:44:10-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Leadership updates'
 published: true
-type: blog
-url: /tom-erickson-joined-acquia-as-ceo
 id: 610
 ---
+
+# Tom Erickson joined Acquia as CEO
 
 Acquia's subscription business has taken off as expected, and we are now launching a number of new initiatives as announced in the [Acquia 2009 roadmap](https://www.acquia.com/community/projects/acquia-2009-roadmap). With the coming release of Acquia Search, new projects like [Acquia Fields and Acquia Gardens](https://dri.es/acquia-2009-roadmap), all in addition to our existing subscription business, there is a ton of stuff going on at [Acquia](https://www.acquia.com). We've set ourselves some very ambitious goals.
 

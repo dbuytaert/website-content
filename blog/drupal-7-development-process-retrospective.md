@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-7-development-process-retrospective'
 title: 'Drupal 7 development process retrospective'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-02-01T15:45:22-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-7-development-process-retrospective
 id: 2161
 ---
+
+# Drupal 7 development process retrospective
 
 Drupal 7 was released three weeks ago. Now that we've all had chance to catch our breath, it's a good time to look back and reflect on the Drupal 7 release cycle. Since I'm about to open the Drupal 8 branch, this is an ideal time to inspect and adapt our processes.
 

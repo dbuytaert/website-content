@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/can-someone-add-some-more-html-tags-please'
 title: 'Can someone add some more HTML tags, please?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-01-06T04:39:12-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The web could benefit from more semantic HTML elements so information is easier to author and reuse.'
-image: blog/wikipedia-timbl-markup
 tags:
   - 'Semantic web'
-featured: true
+image: blog/wikipedia-timbl-markup
 published: true
-type: blog
-url: /can-someone-add-some-more-html-tags-please
+featured: true
 id: 5126
 ---
+
+# Can someone add some more HTML tags, please?
 
 Every day, millions of new web pages are added to the internet. Most of them are unstructured, uncategorized, and nearly impossible for software to understand. It irks me.
 

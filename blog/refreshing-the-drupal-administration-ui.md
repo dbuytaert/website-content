@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/refreshing-the-drupal-administration-ui'
 title: 'Refreshing the Drupal administration UI'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-01-08T11:20:19-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'A modern and fresh look is coming to the Drupal administration interface soon. Take a look!'
-image: drupal/carlo-spacing
 tags:
   - Drupal
+image: drupal/carlo-spacing
 published: true
-type: blog
-url: /refreshing-the-drupal-administration-ui
 id: 4711
 ---
+
+# Refreshing the Drupal administration UI
 
 Last year, I talked to nearly one hundred Drupal agency owners to understand what is preventing them from selling Drupal. One of the most common responses raised is that Drupal's administration UI looks outdated.
 

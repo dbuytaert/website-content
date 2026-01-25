@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/evalutaing-my-drupal-predictions-for-2006'
 title: 'Evaluating my Drupal predictions for 2006'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-12-30T06:23:18-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Predictions
 published: true
-type: blog
-url: /evalutaing-my-drupal-predictions-for-2006
 id: 196
 ---
+
+# Evaluating my Drupal predictions for 2006
 
 It is almost 2007 now so let's look back at [how I did last year](https://dri.es/drupal-predictions-for-2006):
 

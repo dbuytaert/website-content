@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/creating-passionate-users'
 title: 'Creating passionate users'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-10-10T07:02:11-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Software development'
 published: true
-type: blog
-url: /creating-passionate-users
 id: 163
 ---
+
+# Creating passionate users
 
 Like many, I'm a long-time reader of [Creating Passionate Users](https://headrush.typepad.com/creating_passionate_users/), a blog co-authored by Kathy Sierra. Last month at [Euro OSCON](/drupalcon-brussels) I had the opportunity to attend a 3 hour tutorial by Kathy Sierra, and now I can't wait for the "Creating Passionate Users" book to come out.
 

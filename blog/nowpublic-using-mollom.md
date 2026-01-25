@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/nowpublic-using-mollom'
 title: 'NowPublic using Mollom'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-06-19T04:20:57-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - NowPublic
   - Mollom
   - 'Mollom sites'
 published: true
-type: blog
-url: /nowpublic-using-mollom
 id: 679
 ---
+
+# NowPublic using Mollom
 
 [NowPublic](http://www.nowpublic.com/) is a Vancouver-based news network that mobilizes an army of reporters to cover events around the world. During Hurricane Katrina, NowPublic had more reporters in affected areas than most news organizations have on their entire staff.
 

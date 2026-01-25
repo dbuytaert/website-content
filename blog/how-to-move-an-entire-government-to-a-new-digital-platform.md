@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/how-to-move-an-entire-government-to-a-new-digital-platform'
 title: 'How to move an entire government to a new digital platform'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-12-29T07:35:13-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'What the Canadian government can learn from the Australian government when it it comes to migrating to a new digital platform'
 tags:
   - 'Open Source'
@@ -12,10 +17,10 @@ tags:
   - Canada
   - Government
 published: true
-type: blog
-url: /how-to-move-an-entire-government-to-a-new-digital-platform
 id: 3846
 ---
+
+# How to move an entire government to a new digital platform
 
 In this era of Open Government, constituents expect to be offered great services online. This can require moving an entire government to a new digital platform in order to deliver [ambitious digital experiences](https://dri.es/drupal-is-for-ambitious-digital-experiences) that support the needs of citizens. It takes work, but many governments from the [United States](https://dri.es/whitehouse-gov-using-drupal) to [Australia](http://www.australia.gov.au) have demonstrated that with the right technology and strategy in place, governments can successfully adopt a new platform. Unfortunately this is not always the case.
 

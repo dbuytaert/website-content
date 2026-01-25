@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/why-the-big-architectural-changes-in-drupal-8'
 title: 'Why the big architectural changes in Drupal 8'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-09-09T13:33:02-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Change is difficult but necessary for Drupal to stay relevant'
-image: blog/why-the-big-architectural-changes-in-drupal-8
 tags:
   - Drupal
   - PHP
   - 'Software development'
+image: blog/why-the-big-architectural-changes-in-drupal-8
 published: true
-type: blog
-url: /why-the-big-architectural-changes-in-drupal-8
 id: 3026
 ---
+
+# Why the big architectural changes in Drupal 8
 
 There has been a lot of chatter about Drupal 8. Will Drupal 8 be performant? Will Drupal 8 be easy to develop modules for? Will I have to learn Symfony? I want to address these concerns and explain why Drupal 8 introduces such big changes.
 

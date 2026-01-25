@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/giant-lego-druplicon'
 title: 'Giant Lego Druplicon'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-12-07T15:28:41-05:00'
-author: Dries
-image: acquia/lego-druplicon-5
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
+image: acquia/lego-druplicon-5
 published: true
-type: blog
-url: /giant-lego-druplicon
 id: 2841
 ---
+
+# Giant Lego Druplicon
 
 I'm proud to announce Acquia's newest member of the team, the LEGO Druplicon, courtesy of [DataFlow](https://www.ausy.be/) (now [ONE Agency](http://www.one-agency.be)). It all started on a hot August day at DrupalCon Munich. On that day, [I stopped by DataFlow's booth](https://twitter.com/ausybelgium/status/238297341524848640) to look at this amazing piece of art. Obviously I am a bit partial to the Druplicon and the innovative and creative ways people around the world are creating branding for Drupal.
 

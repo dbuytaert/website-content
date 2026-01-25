@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/database-replication-lag'
 title: 'Database replication lag'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-08-24T03:02:27-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Web performance'
   - MySQL
 published: true
-type: blog
-url: /database-replication-lag
 id: 317
 ---
+
+# Database replication lag
 
 As explained in [an earlier blog post](https://dri.es/scaling-with-mysql-replication), we recently started using MySQL master-slave replication on [drupal.org](https://www.drupal.org) in order to provide the scalability necessary to accommodate our growing demands. With one or more replicas of our database, we can instruct Drupal to distribute or load balance the SQL workload among different database servers.
 

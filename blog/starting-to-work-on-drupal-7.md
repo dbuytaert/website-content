@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/starting-to-work-on-drupal-7'
 title: 'Starting to work on Drupal 7'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-02-04T11:56:15-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /starting-to-work-on-drupal-7
 id: 397
 ---
+
+# Starting to work on Drupal 7
 
 Drupal 6 has been in a code freeze for more than 6 months and is almost ready to be released now. We're only a few bug fixes away from the Drupal 6.0 release. Therefore, I just created the `DRUPAL-6` CVS branch for Drupal core. This means that while Drupal 6 is being finalized and we prepare for the Drupal 6.0 release, we'll also start accepting new features and improvements for Drupal 7, the next major version of Drupal.
 

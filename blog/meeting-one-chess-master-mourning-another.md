@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/meeting-one-chess-master-mourning-another'
 title: 'Meeting one chess master, mourning another'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-10-21T04:09:56-04:00'
-author: Dries
-image: miscellaneous-2025/garry-kasparov-dinner
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Chess
+image: miscellaneous-2025/garry-kasparov-dinner
 published: true
-type: blog
-url: /meeting-one-chess-master-mourning-another
 id: 5896
 ---
+
+# Meeting one chess master, mourning another
 
 When I was about 10 years old, my uncle gave me a chess computer. It was the "Kasparov Team-Mate Advanced Trainer", released in 1988. More than 35 years later, I still have it. Last night I was lucky enough to have dinner with the man whose name is on that device.
 

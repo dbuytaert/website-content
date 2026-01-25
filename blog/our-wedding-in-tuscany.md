@@ -1,8 +1,12 @@
 ---
+url: 'https://dri.es/our-wedding-in-tuscany'
 title: 'Our wedding in Tuscany'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-07-16T13:05:46-04:00'
-author: Dries
-image: wedding-dries-and-vanessa-2019/vineyard-2
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Wedding
   - Family
@@ -10,12 +14,13 @@ tags:
   - Vanessa
   - 'Van life'
   - Italy
-featured: true
+image: wedding-dries-and-vanessa-2019/vineyard-2
 published: true
-type: blog
-url: /our-wedding-in-tuscany
+featured: true
 id: 4891
 ---
+
+# Our wedding in Tuscany
 
 It's been quiet on my blog but for good reason: I got married!
 

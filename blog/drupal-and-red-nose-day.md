@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-and-red-nose-day'
 title: 'Drupal and Red Nose Day'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-03-20T13:59:28-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
   - Non-profit
 published: true
-type: blog
-url: /drupal-and-red-nose-day
 id: 2936
 ---
+
+# Drupal and Red Nose Day
 
 Last week it was [Red Nose Day](http://www.rednoseday.com), a UK-wide fundraising event organized by [Comic Relief](http://www.comicrelief.com) every two years. A combination of television programs, local community events, social media and Drupal websites were used to raise £75 million ($113 million) in one day. On Red Nose Day everyone is encouraged to cast inhibitions aside, put on a Red Nose and do something funny for money. The money is used to make a difference to the lives of countless people across Africa and the UK who are facing terrible injustice or living in desperate poverty.
 

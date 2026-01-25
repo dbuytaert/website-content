@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/van-life-on-the-isle-of-skye'
 title: 'Van life on the Isle of Skye'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-11-04T07:41:07-05:00'
-author: Dries
-image: isle-of-skye-2024/exploring-the-quiraing
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Van life'
   - Travel
   - Photography
   - Scotland
+image: isle-of-skye-2024/exploring-the-quiraing
 published: true
-type: blog
-url: /van-life-on-the-isle-of-skye
 id: 5711
 ---
+
+# Van life on the Isle of Skye
 
 A number of years ago, my friend Klaas and I made a pact: instead of exchanging birthday gifts, we'd create memories together. You can find some of these adventures on my blog, like [Snowdonia in 2019](https://dri.es/scrambling-in-snowdonia) or the [Pemi Loop in 2023](https://dri.es/hiking-the-pemi-loop-an-unforgettable-adventure). This time our adventure led us to the misty Isle of Skye in Scotland.
 

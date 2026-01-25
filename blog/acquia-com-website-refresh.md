@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-com-website-refresh'
 title: 'Acquia.com website refresh'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-07-22T11:32:54-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-com-website-refresh
 id: 871
 ---
+
+# Acquia.com website refresh
 
 For those who haven't seen it yet, we've refreshed the [Acquia website](https://www.acquia.com), both the design and the content. I think we've taken a big step forward with the new design (apart from putting my picture on the main page). The most noticeable change is that the previous version of the website was targeted at the existing Drupal community, whereas the new version speaks to new and different target audiences; designers, developers, and business owners that might not be familiar with [Drupal](https://www.drupal.org). This is a fairly radical change in our messaging – we'll have to see how that plays out for us. We are also trying to highlight more the importance and work of [our partners](https://www.acquia.com/partners).
 

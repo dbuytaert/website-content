@@ -1,13 +1,18 @@
 ---
+url: 'https://dri.es/my-first-paycheck'
 title: 'My first paycheck'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-06-09T15:46:56-04:00'
-author: Dries
-featured: false
-published: true
+license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-url: /my-first-paycheck
+published: true
+featured: false
 id: 1686
 ---
+
+# My first paycheck
 
 One of the fun things about [moving](https://dri.es/moving-to-boston-for-two-years) is that you get to go through a lot of your old stuff. It floods your mind and heart with memories of the past.
 

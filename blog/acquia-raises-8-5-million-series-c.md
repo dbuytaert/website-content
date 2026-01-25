@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-raises-8-5-million-series-c'
 title: 'Acquia raises $8.5 million series C'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-11-01T06:30:06-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-raises-8-5-million-series-c
 id: 1956
 ---
+
+# Acquia raises $8.5 million series C
 
 Exciting news today! We are announcing that [Acquia](https://www.acquia.com) closed $8.5 million in Series C funding. Combined with [our Series A funding](https://dri.es/acquia-raises-7-million-series-a) and [our Series B funding](https://dri.es/acquia-raises-8-million-series-b), this brings our total funding to $23.5 million USD.
 

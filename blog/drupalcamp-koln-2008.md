@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupalcamp-koln-2008'
 title: 'DrupalCamp Köln'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-01-06T05:25:24-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Invitations
   - Acquia
   - Germany
 published: true
-type: blog
-url: /drupalcamp-koln-2008
 id: 570
 ---
+
+# DrupalCamp Köln
 
 On January 17-18, I'll be in Germany to attend DrupalCamp Köln (aka *DrupalCamp Cologne*) and hang out with the German Drupal community. DrupalCamp Köln is organized by Thomas Narres, Daniel Niehaus, Jürgen Brocke, Torsten Zenk, Florian Latzel, and others in the Köln/Bonn users group.
 

@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/my-first-web3-webpage'
 title: 'My first Web3 webpage'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-02-24T04:19:24-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "How I built my first Web3 website, the Web3 services I used, and what I think about Web3's potential."
-image: blog/web3-exploration
 tags:
   - Blockchain
   - 'My site'
   - Web3
-featured: true
+image: blog/web3-exploration
 published: true
-type: blog
-url: /my-first-web3-webpage
+featured: true
 id: 5301
 ---
+
+# My first Web3 webpage
 
 [image blog/web3-exploration schema=false]
 

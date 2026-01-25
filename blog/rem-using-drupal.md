@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/rem-using-drupal'
 title: 'R.E.M. using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-05-26T02:26:42-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
@@ -9,10 +14,10 @@ tags:
   - 'Mollom sites'
   - Music
 published: true
-type: blog
-url: /rem-using-drupal
 id: 450
 ---
+
+# R.E.M. using Drupal
 
 R.E.M is using [Drupal](https://www.drupal.org) for their new [tour website](http://tour.remhq.com/) at <http://tour.remhq.com/>. They are also using [Mollom](https://mollom.com).
 

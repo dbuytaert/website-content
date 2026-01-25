@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/an-apology-to-the-drupal-community'
 title: 'An apology to the Drupal community'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-04-09T08:10:41-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'An apology to the Drupal community for causing grief and uncertainty, especially to those in the BDSM and kink communities'
 tags:
   - Drupal
   - Diversity
 published: true
-type: blog
-url: /an-apology-to-the-drupal-community
 id: 3901
 ---
+
+# An apology to the Drupal community
 
 Last week Megan Sanicki, executive director of the Drupal Association, and I published [a joint statement](https://www.drupal.org/association/blog/working-through-the-concerns-of-our-community). In this blog post, I wanted to follow up with a personal statement focused on the community at large.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/megan-sanicki-to-become-executive-director-at-the-drupal-association'
 title: 'Megan Sanicki to become Executive Director at the Drupal Association'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-05-18T17:03:57-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
   - 'Leadership updates'
 published: true
-type: blog
-url: /megan-sanicki-to-become-executive-director-at-the-drupal-association
 id: 3686
 ---
+
+# Megan Sanicki to become Executive Director at the Drupal Association
 
 This is a time of transition for the [Drupal Association](http://assoc.drupal.org). As you might have read on the Drupal Association blog, [Holly Ross, our Executive Director, is moving on](https://assoc.drupal.org/blog/holly.ross.drupal/hello-world-goodbye-drupal-association). Megan Sanicki, who has been with the Drupal Association for almost 6 years, and was working alongside Holly as the Drupal Association's COO, will take over Holly's role as the Executive Director.
 

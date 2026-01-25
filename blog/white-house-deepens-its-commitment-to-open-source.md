@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/white-house-deepens-its-commitment-to-open-source'
 title: 'White House deepens its commitment to Open Source'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-03-11T13:09:51-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'White House'
   - Policy
   - Government
 published: true
-type: blog
-url: /white-house-deepens-its-commitment-to-open-source
 id: 3596
 ---
+
+# White House deepens its commitment to Open Source
 
 Yesterday, the [White House announced a plan to deepen its commitment to open source](https://sourcecode.cio.gov). Under this plan, new, custom-developed government software must be made available for use across other federal agencies, and a portion of all projects must be made open source and shared with the public. This plan will make it much easier to share best practices, collaborate, and save money across different government departments.
 

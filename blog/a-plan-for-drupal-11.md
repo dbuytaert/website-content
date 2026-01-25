@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/a-plan-for-drupal-11'
 title: 'A plan for Drupal 11'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-05-09T16:27:11-04:00'
-author: Dries
-image: drupalcon-portland-2022/drupal-11-composable-core
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
+image: drupalcon-portland-2022/drupal-11-composable-core
 published: true
-type: blog
-url: /a-plan-for-drupal-11
 id: 5331
 ---
+
+# A plan for Drupal 11
 
 Two weeks later, I'm still feeling the energy from our first in-person DrupalCon in two years!
 

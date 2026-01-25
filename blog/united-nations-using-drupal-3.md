@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/united-nations-using-drupal-3'
 title: 'United Nations using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-10-23T03:32:55-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Government
 published: true
-type: blog
-url: /united-nations-using-drupal-3
 id: 525
 ---
+
+# United Nations using Drupal
 
 117 million people participated in the [United Nations' Anti-Poverty event](http://www.standagainstpoverty.org), and it was organized on a Drupal site: <https://www.standagainstpoverty.org/>.
 

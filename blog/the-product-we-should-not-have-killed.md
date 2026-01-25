@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/the-product-we-should-not-have-killed'
 title: 'The product we should not have killed'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-11-17T04:51:13-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "We're building a new Drupal SaaS called Acquia Source."
-image: acquia/acquia-source-sprout
 tags:
   - Drupal
   - Acquia
   - 'Drupal Gardens'
   - 'Acquia Source'
-featured: false
+image: acquia/acquia-source-sprout
 published: true
-type: blog
-url: /the-product-we-should-not-have-killed
+featured: false
 id: 5941
 ---
+
+# The product we should not have killed
 
 [image acquia/acquia-source-sprout lazy=false priority=true]
 

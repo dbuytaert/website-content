@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/why-woonattic-is-big-news-for-small-businesses'
 title: 'Why WooMattic is big news for small businesses'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-05-21T23:38:46-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - WordPress
   - Commerce
 published: true
-type: blog
-url: /why-woonattic-is-big-news-for-small-businesses
 id: 3371
 ---
+
+# Why WooMattic is big news for small businesses
 
 Earlier this week Matt Mullenweg, founder and CEO of Automattic, parent company of WordPress.com, [announced the acquisition of WooCommerce](https://ma.tt/2015/05/woomattic/). This is a very interesting move that I think cements the SMB/enterprise positioning between [WordPress](http://wordpress.org) and [Drupal](https://www.drupal.org).
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/mollom-2009-retrospective'
 title: 'Mollom 2009 retrospective'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-01-06T07:19:03-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
   - Retrospective
-featured: false
 published: true
-type: blog
-url: /mollom-2009-retrospective
+featured: false
 id: 1311
 ---
+
+# Mollom 2009 retrospective
 
 For [Mollom](https://mollom.com), milestones came fast in 2009. First, we celebrated that [Mollom had blocked 25 million spam messages](https://dri.es/more-milestones-for-mollom). Two months later we celebrated that [Mollom had blocked 50 million spam messages](https://dri.es/fifty-million-spam-attempts-blocked). Fast forward another 3 months, and [Mollom blocked 100 million spam messages](https://dri.es/hundred-million-spam-attempts-blocked). We ended the year with 163 million spam messages blocked (700% annual growth, up from 21 million in 2008) and 15,000 sites actively using Mollom (330% annual growth, up from 4,500 sites in 2008).
 

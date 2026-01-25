@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/how-drupal-continues-to-evolve-towards-an-api-first-platform'
 title: 'How Drupal continues to evolve towards an API-first platform'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-07-19T07:06:36-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "A progress report on Drupal's API-first strategy"
 tags:
   - Drupal
   - 'Web services'
   - 'Headless Drupal'
 published: true
-type: blog
-url: /how-drupal-continues-to-evolve-towards-an-api-first-platform
 id: 4451
 ---
+
+# How Drupal continues to evolve towards an API-first platform
 
 It's been 12 months since [my last progress report on Drupal core's API-first initiative](https://dri.es/improving-drupal-8-api-first-json-api-oauth2). Over the past year, we've made a lot of important progress, so I wanted to provide another update.
 

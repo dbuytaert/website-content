@@ -1,9 +1,13 @@
 ---
+url: 'https://dri.es/acquia-retrospective-2023'
 title: 'Acquia retrospective 2023'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-01-08T10:19:56-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'In my 2023 Acquia retrospective, I reflect on our business momentum, and the evolution of the Content Management and Digital Experience market.'
-image: acquia/open-dxp-2023
 tags:
   - Acquia
   - Drupal
@@ -11,12 +15,13 @@ tags:
   - Accessibility
   - Mautic
   - Retrospective
-featured: false
+image: acquia/open-dxp-2023
 published: true
-type: blog
-url: /acquia-retrospective-2023
+featured: false
 id: 5546
 ---
+
+# Acquia retrospective 2023
 
 At the beginning of every year, I publish a retrospective that looks back at the previous year at [Acquia](https://www.acquia.com/). I also discuss the changing dynamics in our industry, focusing on Content Management Systems (CMS) and Digital Experience Platforms (DXP).
 

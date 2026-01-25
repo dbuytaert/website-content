@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/arm-vs-x86'
 title: 'ARM vs x86'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-12-16T05:41:32-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Stock market'
   - Apple
 published: true
-type: blog
-url: /arm-vs-x86
 id: 5101
 ---
+
+# ARM vs x86
 
 Yesterday Mozilla released [Firefox 84](https://www.mozilla.org/en-US/firefox/84.0/releasenotes/) with native support for Apple's new [M1 chip](https://en.wikipedia.org/wiki/Apple_M1). The result? Firefox launches over 2.5 times faster and web applications are twice as responsive. Impressive!
 

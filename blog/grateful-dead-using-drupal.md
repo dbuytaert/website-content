@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/grateful-dead-using-drupal'
 title: 'Grateful Dead using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-05-30T13:21:03-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Music
 published: true
-type: blog
-url: /grateful-dead-using-drupal
 id: 275
 ---
+
+# Grateful Dead using Drupal
 
 [TechCrunch](http://www.techcrunch.com) [reports](https://techcrunch.com/2007/05/29/greatful-dead-fan-site-reborn-as-social-network/) that the [Grateful Dead](https://en.wikipedia.org/wiki/Grateful_dead) website is about to be relaunched as a Drupal website:
 

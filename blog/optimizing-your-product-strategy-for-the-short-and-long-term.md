@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/optimizing-your-product-strategy-for-the-short-and-long-term'
 title: 'Optimizing your product strategy for the short- and long-term'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-12-16T16:49:13-05:00'
-author: Dries
-image: blog/product-lifecycle-s-curve
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Startup lessons'
+image: blog/product-lifecycle-s-curve
 published: true
-type: blog
-url: /optimizing-your-product-strategy-for-the-short-and-long-term
 id: 4681
 ---
+
+# Optimizing your product strategy for the short- and long-term
 
 Most products cycle through the infamous [Innovation S-curve](https://en.wikipedia.org/wiki/Technology_life_cycle), which maps a product's value and growth over time.
 

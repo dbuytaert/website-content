@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/fostering-inclusivity-and-diversity'
 title: 'Fostering inclusivity and diversity'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-07-02T14:16:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Fostering inclusivity and diversity'
 tags:
   - Drupal
   - Diversity
 published: true
-type: blog
-url: /fostering-inclusivity-and-diversity
 id: 3176
 ---
+
+# Fostering inclusivity and diversity
 
 The past few weeks, I've been thinking over and over again trying to rationalize how to best foster a culture of inclusivity and diversity. This in the context of creating a productive work climate of trust and respect.
 

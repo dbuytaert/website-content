@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/turning-drupal-outside-in'
 title: 'Turning Drupal outside-in'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-02-10T05:49:27-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Usability
   - JavaScript
   - Outside-in
 published: true
-type: blog
-url: /turning-drupal-outside-in
 id: 3561
 ---
+
+# Turning Drupal outside-in
 
 There has been a lot of discussion around the future of the Drupal front end both on [Drupal.org](https://www.drupal.org) ([\#2645250](https://www.drupal.org/node/2645250), [\#2645666](https://www.drupal.org/node/2645666), [\#2651660](https://www.drupal.org/node/2651660), [\#2655556](https://www.drupal.org/node/2655556)) and on my blog posts about [the future of decoupled Drupal](https://dri.es/the-future-of-decoupled-drupal), [why a standard framework in core is a good idea](https://dri.es/should-we-decouple-drupal-with-a-client-side-framework), and [the process of evaluating frameworks](https://dri.es/selecting-a-client-side-framework-for-drupal). These all relate to my concept of "progressive decoupling", in which some portions of the page are handed over to client-side logic after Drupal renders the initial page (not to be confused with "full decoupling").
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/drupal-benefits-from-venture-capital'
 title: 'Drupal benefits from venture capital'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-12-13T12:36:16-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Mollom
   - 'Startup lessons'
-featured: true
 published: true
-type: blog
-url: /drupal-benefits-from-venture-capital
+featured: true
 id: 2031
 ---
+
+# Drupal benefits from venture capital
 
 Things are heating up in the Drupal world as both [CommerceGuys](http://commerceguys.com) and [SubHub](http://subhub.com) raised venture capital money. We're still waiting for an official announcement, but word on the street is that [CommerceGuys raised around 1 million euros](http://eu.techcrunch.com/2010/12/11/isai-announces-its-third-investment-in-commerce-guys/) to develop a number of e-commerce products and services for [Drupal](https://www.drupal.org). [SubHub](http://subhub.com) raised more than 1.2 million euros to date to develop [SubHubLite](http://www.subhublite.com/), a hosted service for Drupal 7 comparable to [Drupal Gardens](http://drupalgardens.com) and [Buzzr](http://buzzr.com). In addition to CommerceGuys and SubHub, I know of at least two other Drupal companies that are in the process of raising money from investors ...
 

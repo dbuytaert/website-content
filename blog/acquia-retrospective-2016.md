@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/acquia-retrospective-2016'
 title: 'Acquia retrospective 2016'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-01-16T13:30:36-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Acquia retrospective 2016'
 tags:
   - Acquia
   - Drupal
   - Retrospective
 published: true
-type: blog
-url: /acquia-retrospective-2016
 id: 3861
 ---
+
+# Acquia retrospective 2016
 
 As my loyal blog readers know, at the beginning of every year I publish a retrospective to look back and take stock of how far [Acquia](https://www.acquia.com) has come over the past 12 months. If you'd like to read my previous annual retrospectives, they can be found here: [2015](https://dri.es/acquia-retrospective-2015), [2014](https://dri.es/acquia-retrospective-2014), [2013](https://dri.es/acquia-retrospective-2013), [2012](https://dri.es/acquia-retrospective-2012), [2011](https://dri.es/acquia-retrospective-2011), [2010](https://dri.es/acquia-retrospective-2010), [2009](https://dri.es/acquia-retrospective-2009). When read together, they provide a comprehensive overview of Acquia's trajectory from its inception in 2008 to where it is today, nine years later.
 

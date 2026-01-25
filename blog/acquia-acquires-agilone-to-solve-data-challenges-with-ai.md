@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/acquia-acquires-agilone-to-solve-data-challenges-with-ai'
 title: 'Acquia to acquire AgilOne to solve data challenges with AI'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-12-11T07:56:51-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Acquia to acquire AgilOne, a Customer Data Platform (CDP) with advanced machine learning for better customer understanding and engagement, as part of our strategy to deliver an open, integrated Digital Experience Platform (DXP).'
-image: acquia/dxp-shared-user-data
 tags:
   - Acquia
   - 'Artificial Intelligence'
   - Acquisitions
+image: acquia/dxp-shared-user-data
 published: true
-type: blog
-url: /acquia-acquires-agilone-to-solve-data-challenges-with-ai
 id: 4951
 ---
+
+# Acquia to acquire AgilOne to solve data challenges with AI
 
 I'm excited to announce that Acquia has signed a definitive agreement to acquire [AgilOne](https://www.agilone.com), a leading [Customer Data Platform](https://en.wikipedia.org/wiki/Customer_data_platform) (CDP).
 

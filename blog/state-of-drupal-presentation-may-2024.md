@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-may-2024'
 title: 'State of Drupal presentation (May 2024)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-05-07T21:11:45-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon North America 2024 DriesNote presentation'
-image: drupalcon-portland-2024/driesnote
 tags:
   - Drupal
   - 'State of Drupal'
   - 'Drupal Starshot'
   - DrupalCon
   - Portland
+image: drupalcon-portland-2024/driesnote
 published: true
-type: blog
-url: /state-of-drupal-presentation-may-2024
 id: 5606
 ---
+
+# State of Drupal presentation (May 2024)
 
 This week, approximately 1,400 Drupal enthusiasts came together for DrupalCon North America in Portland, Oregon. As a matter of tradition, I delivered my [State of Drupal](https://dri.es/tag/state-of-drupal) keynote, often referred to as "DriesNote". In case you missed it, you can [watch the video](https://youtu.be/Dl9XZNtQJzs) or [download my slides](https://dri.es/files/state-of-drupal-may-2024.pdf) (385 MB).
 

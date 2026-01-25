@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/thank-you-jacob'
 title: 'Thank you, Jacob!'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-02-04T18:21:09-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /thank-you-jacob
 id: 2881
 ---
+
+# Thank you, Jacob!
 
 Today is bittersweet for the [Drupal Association](https://association.drupal.org), as [Jacob Redding has transitioned the Executive Director role to Holly Ross](https://dri.es/holly-ross-to-join-drupal-association-as-executive-director). Jacob did a phenomenal job growing the Drupal Association, Drupal.org and Drupal as a whole. Jacob's special attention to the community has helped create a culture that many of us are proud to be a part of; his passion and dedication for Drupal has always been evident.
 

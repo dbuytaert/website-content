@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/is-it-mouthwash-or-hand-soap'
 title: 'Is it mouthwash or hand soap?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-11-15T09:36:13-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'New York'
 published: true
-type: blog
-url: /is-it-mouthwash-or-hand-soap
 id: 1986
 ---
+
+# Is it mouthwash or hand soap?
 
 Last week in a restroom in New York city, I washed my hands inadvertently with mouthwash. It sounds silly, but it looked like the soap to me. The bathroom was so posh and the container it came in was deceptive: who expects to find mouthwash in a restroom? But, this wasn't a normal restroom.
 

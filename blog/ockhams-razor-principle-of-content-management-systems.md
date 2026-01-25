@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/ockhams-razor-principle-of-content-management-systems'
 title: "The Ockham's Razor Principle of Content Management Systems"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-01-11T11:31:46-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Content management systems win through simplicity. When features match, users choose the easiest tool, making usability critical for growth.'
 tags:
   - Drupal
   - Usability
-featured: true
 published: true
-type: blog
-url: /ockhams-razor-principle-of-content-management-systems
+featured: true
 id: 13
 ---
+
+# The Ockham's Razor Principle of Content Management Systems
 
 [Chris Messina](http://factoryjoe.com/blog/) wrote:
 

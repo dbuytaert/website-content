@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/nowpublic-gets-10.6-million-usd'
 title: 'NowPublic gets 10.6 million USD'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-07-30T05:03:09-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - NowPublic
 published: true
-type: blog
-url: /nowpublic-gets-10.6-million-usd
 id: 307
 ---
+
+# NowPublic gets 10.6 million USD
 
 The [press embargo finally lifted](https://techcrunch.com/2007/07/29/nowpublic-gets-106-million-for-crowd-sourced-news/), so I'm happy to share that [NowPublic](http://nowpublic.com) closed a 10.6 milion USD series A round from Rho Ventures/Rho Canada, Brightspark, and the Working Opportunity Fund.
 

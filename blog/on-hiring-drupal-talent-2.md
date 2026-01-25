@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/on-hiring-drupal-talent-2'
 title: 'On hiring Drupal talent (2)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-08-04T03:20:09-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /on-hiring-drupal-talent-2
 id: 312
 ---
+
+# On hiring Drupal talent (2)
 
 Because the demand for Drupal talent exceeds the supply, it's incredibly hard to hire talented Drupal developers. In a [recent blog post](https://dri.es/on-hiring-drupal-talent) I advised people to hire good Java or PHP developers, and to get them up to speed on Drupal.
 

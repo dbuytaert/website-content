@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/acquia-appoints-chris-tranquill-as-ceo'
 title: 'Acquia appoints Chris Tranquill as CEO'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-08-19T09:25:45-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Acquia CEO Steve Reny to step down after nearly seven years. Chris Tranquill appointed as Acquia’s new CEO.'
-image: acquia/steve-reny-at-acquia-engage
 tags:
   - Acquia
   - 'Leadership updates'
+image: acquia/steve-reny-at-acquia-engage
 published: true
-type: blog
-url: /acquia-appoints-chris-tranquill-as-ceo
 id: 5861
 ---
+
+# Acquia appoints Chris Tranquill as CEO
 
 Today we are announcing that [Chris Tranquill](https://www.linkedin.com/in/ctranq/) has been appointed CEO of [Acquia](https://www.acquia.com/), succeeding [Steve Reny](https://www.linkedin.com/in/stephen-reny-0a2a0a163/). Steve will be stepping down after nearly seven years with Acquia, including almost three as CEO.
 

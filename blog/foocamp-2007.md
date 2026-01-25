@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/foocamp-2007'
 title: FooCamp
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-06-19T07:40:45-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Looking forward to attend FooCamp'
 tags:
   - Drupal
   - 'Favorite music'
   - 'San Francisco'
 published: true
-type: blog
-url: /foocamp-2007
 id: 286
 ---
+
+# FooCamp
 
 Tomorrow, I'm off to San Francisco to attend [FooCamp](https://en.wikipedia.org/wiki/Foo_Camp), the annual invitation-only conference organized by [Tim O'Reilly](https://www.oreilly.com/tim/).
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/open-government-2010-conference'
 title: 'Open Government 2010 conference'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-12-13T07:17:04-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Government
 published: true
-type: blog
-url: /open-government-2010-conference
 id: 2026
 ---
+
+# Open Government 2010 conference
 
 Tomorrow, I'll be presenting at a [Open Government 2010 conference](http://www.opengov2010.be) organized by FEDICT and the Flemish E-government team. While I'm only in the pre-conference program (rightly so), the main conference sports some impressive speakers: [Herman Van Rompuy](https://en.wikipedia.org/wiki/Herman_Van_Rompuy) (President of the European Council), [Neelie Kroes](https://en.wikipedia.org/wiki/Neelie_Kroes) (European Commissioner for Digital Agenda), [Vivek Kundra](https://en.wikipedia.org/wiki/Vivek_Kundra) (Chief Information Officer of the United States), etc.
 

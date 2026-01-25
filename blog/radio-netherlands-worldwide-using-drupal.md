@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/radio-netherlands-worldwide-using-drupal'
 title: 'Radio Netherlands Worldwide using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-06-24T07:17:50-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
@@ -9,10 +14,10 @@ tags:
   - 'The Netherlands'
   - Broadcasting
 published: true
-type: blog
-url: /radio-netherlands-worldwide-using-drupal
 id: 701
 ---
+
+# Radio Netherlands Worldwide using Drupal
 
 [Radio Netherlands Worldwide](http://www.rnw.nl) (*Radio Nederland Wereldomroep* in Dutch or *RNW* for short) is a public radio and television network based in The Netherlands. Radio Netherlands Worldwide is a very old international public broadcaster, with regular transmissions that began in 1927 to the Dutch East Indies, now Indonesia.
 

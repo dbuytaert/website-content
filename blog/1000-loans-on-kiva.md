@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/1000-loans-on-kiva'
 title: '1,000 loans on Kiva'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-06-28T07:08:24-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'I reached 1,000 Kiva loans in 12.5 years. Now, I plan to help even more entrepreneurs.'
 tags:
   - Kiva
-featured: true
 published: true
-type: blog
-url: /1000-loans-on-kiva
+featured: true
 id: 5641
 ---
+
+# 1,000 loans on Kiva
 
 Two and a half years ago, I celebrated [reaching 500 loans on Kiva](https://dri.es/10-years-of-kiva), a platform dedicated to helping those without access to traditional banking.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/mastercard-poised-for-growth'
 title: 'MasterCard poised for growth'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-11-16T22:23:40-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The strong growth drivers, the meaningful competitive threats, and their profitable business model make me believe that MasterCard will keep outperforming the market.'
 tags:
   - Investing
   - 'Stock market'
 published: true
-type: blog
-url: /mastercard-poised-for-growth
 id: 3491
 ---
+
+# MasterCard poised for growth
 
 I don't usually write about the topic of investing, but it is something I enjoy, so I decided to take the jump by sharing some thoughts on [MasterCard](http://mastercard.com), one of my favorite companies. Although it's not an obvious technology disruptor, MasterCard is a successful technology company. When it comes to investing, boring can be beautiful. Mastercard is relevant in the context of my blog, where I often write about the digitization of the world.
 

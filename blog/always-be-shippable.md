@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/always-be-shippable'
 title: 'Always be shippable'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-09-23T04:26:54-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /always-be-shippable
 id: 3431
 ---
+
+# Always be shippable
 
 Drupal will soon be 15 years old, and 5 of that will be spent on building Drupal 8 – a third of Drupal's life. We [started work on Drupal early in 2011](https://dri.es/starting-to-work-on-drupal-8) and targeted December 1, 2012 as [the original code freeze date](https://dri.es/drupal-8-feature-freeze-december-1st-2012). Now almost three years later, we still haven't released Drupal 8. While we are close to the release of Drupal 8, I'm sure many many of you are wondering why it took 3 years to stabilize. It is not like we didn't work hard or that we aren't smart people. Quite the contrary, the Drupal community has some of the most dedicated, hardest working and smartest people I know. Many spent evenings and weekends pushing to get Drupal 8 across the finish line. No one individual or group is to blame for the delay – except maybe me as the project lead for not having learned fast enough from previous release cycles.
 

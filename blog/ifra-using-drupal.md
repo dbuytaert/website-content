@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/ifra-using-drupal'
 title: 'IFRA using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-06-15T06:39:00-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Publishing
 published: true
-type: blog
-url: /ifra-using-drupal
 id: 673
 ---
+
+# IFRA using Drupal
 
 IFRA, the world's leading association for newspaper and media publishing, knows how to set an example: they are switching their websites to [Drupal](https://www.drupal.org).
 

@@ -1,12 +1,17 @@
 ---
+url: 'https://dri.es/about'
 title: About
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2005-10-23T10:09:20-04:00'
-author: Dries
-published: true
+license: 'https://creativecommons.org/licenses/by/4.0/'
 type: page
-url: /about
+published: true
 id: 1
 ---
+
+# About
 
 <div class="h-card vcard">
   [image press-photos/ua-2016-5 priority=true lazy=false]

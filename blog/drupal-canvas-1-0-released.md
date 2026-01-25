@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-canvas-1-0-released'
 title: 'Drupal Canvas 1.0 released'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-12-04T17:42:46-05:00'
-author: Dries
-image: blog/drupal-canvas-1-released
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Canvas'
-featured: false
+image: blog/drupal-canvas-1-released
 published: true
-type: blog
-url: /drupal-canvas-1-0-released
+featured: false
 id: 5966
 ---
+
+# Drupal Canvas 1.0 released
 
 [image blog/drupal-canvas-1-released]
 

@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/my-posse-plan-for-evolving-my-site'
 title: 'My POSSE plan for evolving my site'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-02-16T04:23:53-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How I plan to evolve my site to take back control over my data and reclaim my blog as my thought space.'
-image: blog/my-website-plan
 tags:
   - POSSE
   - 'Open Web'
   - 'My site'
   - 'Social media'
+image: blog/my-website-plan
 published: true
-type: blog
-url: /my-posse-plan-for-evolving-my-site
 id: 4156
 ---
+
+# My POSSE plan for evolving my site
 
 [image blog/my-website-plan]
 

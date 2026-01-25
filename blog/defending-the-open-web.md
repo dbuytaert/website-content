@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/defending-the-open-web'
 title: 'Defending the Open Web'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-12-21T04:51:19-05:00'
-author: Dries
-image: miscellaneous-2020/web-summit-panel-on-open-web-2020
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Web'
   - 'Open Source'
   - Privacy
-featured: true
+image: miscellaneous-2020/web-summit-panel-on-open-web-2020
 published: true
-type: blog
-url: /defending-the-open-web
+featured: true
 id: 5111
 ---
+
+# Defending the Open Web
 
 I recently had the opportunity to be on a panel at [Web Summit](https://en.wikipedia.org/wiki/Web_Summit) with [Mitchell Baker](https://www.mozilla.org/en-US/about/leadership/), the co-founder and CEO of Mozilla, and [Matt Mullenweg](https://ma.tt/about/), co-founder of WordPress and CEO of Automattic. We talked about the power of Open Source and the Open Web.
 

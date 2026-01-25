@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/digital-distributors-vs-open-web-who-will-win'
 title: 'Digital Distributors vs Open Web: who will win?  '
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-08-25T08:25:05-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Innovation
   - Publishing
 published: true
-type: blog
-url: /digital-distributors-vs-open-web-who-will-win
 id: 3401
 ---
+
+# Digital Distributors vs Open Web: who will win?  
 
 I've spent a fair amount of time thinking about [how to win back the Open Web](https://dri.es/winning-back-the-open-web), but in the case of digital distributors (e.g. closed aggregators like Facebook, Google, Apple, Amazon, Flipboard) superior, [push-based user experiences](https://dri.es/the-big-reverse-of-the-web) have won the hearts and minds of end users, and enabled them to attract and retain audience in ways that individual publishers on the Open Web currently can't.
 

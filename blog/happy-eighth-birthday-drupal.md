@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/happy-eighth-birthday-drupal'
 title: 'Happy eighth birthday Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-01-15T04:33:03-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Birthday
 published: true
-type: blog
-url: /happy-eighth-birthday-drupal
 id: 575
 ---
+
+# Happy eighth birthday Drupal
 
 [image drupal/happy-eighth-birthday]
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/public-money-public-code'
 title: 'Public money, public code'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-09-17T06:21:07-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Source'
   - Government
-featured: true
 published: true
-type: blog
-url: /public-money-public-code
+featured: true
 id: 5071
 ---
+
+# Public money, public code
 
 Should software funded with tax dollars be Open Source? I believe so. Maybe there are exceptions, but the default should be *"developed with public money, make it public code"*.
 

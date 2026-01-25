@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/life-beyond-social-media-a-more-intentional-way-to-share-photos'
 title: 'Life beyond social media: a more intentional way to share photos'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-10-08T06:29:01-04:00'
-author: Dries
-image: isle-of-skye-2024/exploring-the-quiraing
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'My site'
   - Drupal
   - Photography
   - 'Photo stream'
   - 'Social media'
-featured: false
+image: isle-of-skye-2024/exploring-the-quiraing
 published: true
-type: blog
-url: /life-beyond-social-media-a-more-intentional-way-to-share-photos
+featured: false
 id: 5886
 ---
+
+# Life beyond social media: a more intentional way to share photos
 
 [image isle-of-skye-2024/exploring-the-quiraing caption=false lazy=false priority=true] 
 

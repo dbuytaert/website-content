@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupalcino'
 title: Drupalcino
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-11-30T00:32:26-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Coffee
 published: true
-type: blog
-url: /drupalcino
 id: 364
 ---
+
+# Drupalcino
 
 [image drupal/drupalcino]
 

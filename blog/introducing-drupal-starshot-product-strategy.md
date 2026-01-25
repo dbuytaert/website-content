@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/introducing-drupal-starshot-product-strategy'
 title: "Introducing Drupal Starshot's product strategy"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-08-06T17:21:54-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal Starshot aims to attract mid-market marketers by offering out-of-the-box marketing best practices, user-friendly tools, AI-driven site building features, all while maintaining the many advantages of Drupal Core.'
-image: drupal/starshot-strategy
 tags:
   - Drupal
   - 'Drupal Starshot'
+image: drupal/starshot-strategy
 published: true
-type: blog
-url: /introducing-drupal-starshot-product-strategy
 id: 5666
 ---
+
+# Introducing Drupal Starshot's product strategy
 
 [image drupal/starshot-strategy]
 

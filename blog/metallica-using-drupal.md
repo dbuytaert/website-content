@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/metallica-using-drupal'
 title: 'Metallica using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-07-13T11:30:00-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Music
 published: true
-type: blog
-url: /metallica-using-drupal
 id: 472
 ---
+
+# Metallica using Drupal
 
 [image drupal/metallica]
 

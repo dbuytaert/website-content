@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/ashley-tisdale-using-drupal'
 title: 'Ashley Tisdale using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-12-30T10:53:20-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Entertainment
   - Music
 published: true
-type: blog
-url: /ashley-tisdale-using-drupal
 id: 1296
 ---
+
+# Ashley Tisdale using Drupal
 
 Ashley Tisdale - an actress, singer and television producer - is using [Drupal](https://www.drupal.org) on [her official site](http://ashleytisdale.com/).
 

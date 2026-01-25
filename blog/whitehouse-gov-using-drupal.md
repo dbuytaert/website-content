@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/whitehouse-gov-using-drupal'
 title: 'Whitehouse.gov using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-10-24T20:29:00-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - 'White House'
   - Government
-featured: true
 published: true
-type: blog
-url: /whitehouse-gov-using-drupal
+featured: true
 id: 1146
 ---
+
+# Whitehouse.gov using Drupal
 
 Big, exciting news! The flag ship website of the U.S. government, [Whitehouse.gov](http://whitehouse.gov), just relaunched on Drupal. This is a big day for [Drupal](https://www.drupal.org), and for Open Source in government, and something all of us in the community should be very proud of.
 

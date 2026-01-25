@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/acquia-engage-2018-keynote'
 title: 'Acquia Engage 2018 keynote'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-11-16T09:56:23-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The slides and video recording of my Acquia Engage presentation.'
-image: acquia/acquia-engage-2018-airport-billboard
 tags:
   - 'Acquia Engage'
   - Acquia
+image: acquia/acquia-engage-2018-airport-billboard
 published: true
-type: blog
-url: /acquia-engage-2018-keynote
 id: 4621
 ---
+
+# Acquia Engage 2018 keynote
 
 [image acquia/acquia-engage-2018-airport-billboard]
 

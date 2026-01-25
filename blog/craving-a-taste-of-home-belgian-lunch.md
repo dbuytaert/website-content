@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/craving-a-taste-of-home-belgian-lunch'
 title: 'Craving a taste of home: Belgian lunch'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-07-17T13:48:54-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Belgium
   - Antwerp
 published: true
-type: blog
-url: /craving-a-taste-of-home-belgian-lunch
 id: 2426
 ---
+
+# Craving a taste of home: Belgian lunch
 
 I've been living in the US for over a year now but am currently in Belgium for a short vacation. For the past year, I've been craving a taste of home; not all Belgian food is available in the US and even when it is, it can taste differently.
 

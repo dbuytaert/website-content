@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/mautic-3-released-and-other-important-changes'
 title: 'Mautic 3 released (and other important changes)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-06-16T04:43:08-04:00'
-author: Dries
-image: mautic/mautic-3-released
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mautic
   - Acquia
+image: mautic/mautic-3-released
 published: true
-type: blog
-url: /mautic-3-released-and-other-important-changes
 id: 5026
 ---
+
+# Mautic 3 released (and other important changes)
 
 [image mautic/mautic-3-released]
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/the-future-of-marketing-technology-platforms-plus-point-solutions'
 title: 'The future of marketing technology: platforms plus point solutions'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-08-02T06:36:06-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Is the future of marketing technology best-of-breed or an all-in-one-platform? It's actually both!"
-image: acquia/user-profile-puzzle
 tags:
   - Acquia
   - Marketing
   - Trends
+image: acquia/user-profile-puzzle
 published: true
-type: blog
-url: /the-future-of-marketing-technology-platforms-plus-point-solutions
 id: 5491
 ---
+
+# The future of marketing technology: platforms plus point solutions
 
 Former CMO of Acquia and Optimizely (Ektron), [Tom Wentworth](https://www.linkedin.com/in/twentworth/), recently shifted his stance from best-of-breed to all-in-one marketing platforms. He explains [his change of heart](https://www.linkedin.com/posts/twentworth_i-used-to-advocate-big-time-for-the-concept-activity-7087120981386747904-ZMkE) on LinkedIn:
 

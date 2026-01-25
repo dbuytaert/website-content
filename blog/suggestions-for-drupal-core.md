@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/suggestions-for-drupal-core'
 title: 'Suggestions for Drupal core'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-03-16T05:24:40-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /suggestions-for-drupal-core
 id: 232
 ---
+
+# Suggestions for Drupal core
 
 From yesterday on until March 24, Google is accepting student applications for the [Google Summer of Code 2007](https://developers.google.com/open-source/gsoc/?csw=1). Google pays each successful student 4,500 USD for his work on Drupal during the summer, and we try to assign each student two top-class Drupal mentors to work with.
 

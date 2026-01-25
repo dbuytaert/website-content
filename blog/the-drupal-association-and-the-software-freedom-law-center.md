@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/the-drupal-association-and-the-software-freedom-law-center'
 title: 'The Drupal Association and the Software Freedom Law Center'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-11-22T11:40:02-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /the-drupal-association-and-the-software-freedom-law-center
 id: 360
 ---
+
+# The Drupal Association and the Software Freedom Law Center
 
 The [Software Freedom Law Center](http://www.softwarefreedom.org/) (SFLC) has agreed to provide legal representation and related services to the [Drupal project](https://www.drupal.org). At the last board meeting, the [Drupal Association](https://association.drupal.org)'s board of directors has accepted the SFLC's offer. I'm confident that the SFLC will be instrumental in making the Drupal project advance to the next level.
 

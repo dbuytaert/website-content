@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/the-rise-of-drupal-in-india'
 title: 'The rise of Drupal in India'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-02-26T12:04:48-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - India
   - Government
 published: true
-type: blog
-url: /the-rise-of-drupal-in-india
 id: 3586
 ---
+
+# The rise of Drupal in India
 
 Earlier this week I returned from DrupalCon Asia, which took place at IIT Bombay, one of India's premier engineering universities. I wish I could have bottled up all the energy and excitement to take home with me. From dancing on stage, to posing for what felt like a million selfies, to a motorcycle giveaway, this DrupalCon was unlike any I've seen before.
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/young-global-leader-2013'
 title: 'Young Global Leader 2013'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-03-12T11:09:13-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Awards
 published: true
-type: blog
-url: /young-global-leader-2013
 id: 2926
 ---
+
+# Young Global Leader 2013
 
 I was quite surprised when I opened my email to find *"You have been honoured as a Young Global Leader 2013"*.
 

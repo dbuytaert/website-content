@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/announcing-the-drupal-starshot-leadership-team'
 title: 'Announcing the Drupal Starshot leadership team'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-06-05T12:25:58-04:00'
-author: Dries
-image: drupal/starshot-leadership
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Starshot'
   - 'Leadership updates'
+image: drupal/starshot-leadership
 published: true
-type: blog
-url: /announcing-the-drupal-starshot-leadership-team
 id: 5616
 ---
+
+# Announcing the Drupal Starshot leadership team
 
 [image drupal/starshot-leadership schema=false]
 

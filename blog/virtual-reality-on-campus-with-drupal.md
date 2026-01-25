@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/virtual-reality-on-campus-with-drupal'
 title: 'Virtual reality on campus with Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-06-06T06:13:46-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Take a virtual tour of the university campus from the comfort of your couch'
 tags:
   - Drupal
   - Acquia
   - 'Acquia Engage'
 published: true
-type: blog
-url: /virtual-reality-on-campus-with-drupal
 id: 4411
 ---
+
+# Virtual reality on campus with Drupal
 
 One of the most stressful experiences for students is the process of choosing the right university. Researching various colleges and universities can be overwhelming, especially when students don't have the luxury of visiting different campuses in person.
 

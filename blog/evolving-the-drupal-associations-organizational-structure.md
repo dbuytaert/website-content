@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/evolving-the-drupal-associations-organizational-structure'
 title: "Evolving the Drupal Association's organizational structure"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-07-11T21:39:30-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /evolving-the-drupal-associations-organizational-structure
 id: 2416
 ---
+
+# Evolving the Drupal Association's organizational structure
 
 At the [Drupal Association](https://association.drupal.org), we have been working on a number of important changes. One of these change is a refresh of our organizational structure. The Board of Directors has been working on this for months. Now there is buy-in from the Drupal Association's General Assembly, it is a good time to start informing the community at large.
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/building-powerful-and-robust-websites-with-drupal-6-book'
 title: 'Building powerful and robust websites with Drupal 6 book'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-09-05T15:04:12-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal books'
 published: true
-type: blog
-url: /building-powerful-and-robust-websites-with-drupal-6-book
 id: 501
 ---
+
+# Building powerful and robust websites with Drupal 6 book
 
 [Building powerful and robust websites with Drupal 6](https://www.amazon.com/Building-powerful-robust-websites-Drupal/dp/1847192971) is an update to David Mercer's two year old book [Drupal: Creating Blogs, Forums, Portals and Community Websites](https://dri.es/packt-drupal-book).
 

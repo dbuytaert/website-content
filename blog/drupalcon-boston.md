@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupalcon-boston'
 title: 'DrupalCon Boston'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-01-03T17:44:19-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - 'Drupal Association'
   - Invitations
 published: true
-type: blog
-url: /drupalcon-boston
 id: 382
 ---
+
+# DrupalCon Boston
 
 Good news! The next Drupal conference (DrupalCon) will take place in Boston from March 3-6. If you want to learn more about Drupal, or if you want to capture and absorb the passion and enthusiasm behind the Drupal project, this is the place to be.
 

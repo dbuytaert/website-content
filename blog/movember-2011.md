@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/movember-2011'
 title: 'Movember 2011'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-11-06T20:57:36-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /movember-2011
 id: 2566
 ---
+
+# Movember 2011
 
 It is that time of the year again: [Movember](http://us.movember.com)!
 

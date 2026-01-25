@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/darth-axl'
 title: 'Darth Axl'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-07-24T13:30:10-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Family
   - Axl
 published: true
-type: blog
-url: /darth-axl
 id: 2451
 ---
+
+# Darth Axl
 
 [image antwerp-2011/darth-axl-2]
 [image antwerp-2011/darth-axl-4]

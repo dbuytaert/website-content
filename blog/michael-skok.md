@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/michael-skok'
 title: 'Michael Skok'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-10-31T17:12:21-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
 published: true
-type: blog
-url: /michael-skok
 id: 3271
 ---
+
+# Michael Skok
 
 Some of you picked up that [Michael Skok is leaving North Bridge](https://gigaom.com/2014/10/30/heiliger-and-skok-exit-north-bridge-venture-partners/), Acquia's lead investor. A number of people asked me if [Michael](http://mjskok.com) is leaving [Acquia's Board of Directors](https://www.acquia.com/about-us/board) as part of that. I'm pleased to say that Michael is staying on as a Director on Acquia's Board.
 

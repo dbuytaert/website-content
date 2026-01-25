@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/acquia-retrospective-2020'
 title: 'Acquia retrospective 2020'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-01-11T05:56:30-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'In my 2020 Acquia retrospective, I reflect on our business momentum and the evolution of the Acquia Experience Platform.'
-image: acquia/product-portfolio-2020
 tags:
   - Retrospective
   - Acquia
   - Drupal
+image: acquia/product-portfolio-2020
 published: true
-type: blog
-url: /acquia-retrospective-2020
 id: 5131
 ---
+
+# Acquia retrospective 2020
 
 At the beginning of every year, I like to publish a retrospective to look back and take stock of how far [Acquia](https://www.acquia.com/) has come over the past 12 months. I take the time to write these retrospectives because I want to keep a record of the changes we've gone through as a company. It also helps me track my thinking and personal growth year over year.
 

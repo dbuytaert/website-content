@@ -1,21 +1,26 @@
 ---
+url: 'https://dri.es/drupal-cms-1-released'
 title: 'Drupal CMS 1.0 released'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-01-15T09:29:52-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal CMS 1.0 launches with AI agents, privacy tools, and pre-built recipes to help marketers build ambitious websites faster.'
-image: blog/drupal-cms-1-released
 tags:
   - Drupal
   - 'Drupal Association'
   - 'Drupal Starshot'
   - 'Artificial Intelligence'
   - Privacy
-featured: true
+image: blog/drupal-cms-1-released
 published: true
-type: blog
-url: /drupal-cms-1-released
+featured: true
 id: 5741
 ---
+
+# Drupal CMS 1.0 released
 
 [image blog/drupal-cms-1-released]
 

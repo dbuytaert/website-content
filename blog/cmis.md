@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/cmis'
 title: CMIS
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-09-19T10:29:32-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /cmis
 id: 508
 ---
+
+# CMIS
 
 In the spring of 2007, I first heard rumors about IBM and Microsoft working together on a specification that could change the content management landscape. Last week, EMC, IBM and Microsoft (with support from Oracle, SAP, Alfresco and OpenText) [announced that they will be collaborating on CMIS](https://www.emc.com/about/news/press/2008/091008-smr-content-management-interoperability-services.htm), a standard to enable interoperability among content management systems. CMIS stands for [Content Management Interoperability Services](https://community.emc.com/docs/DOC-1605) and promises improved content unification, better content aggregation and mashups, cross-silo federation, and better integration with desktop publishing.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/aol-using-drupal-2'
 title: 'AOL using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-02-04T12:41:41-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - 'Fortune 500'
 published: true
-type: blog
-url: /aol-using-drupal-2
 id: 398
 ---
+
+# AOL using Drupal
 
 [image drupal/aol-corporate]
 

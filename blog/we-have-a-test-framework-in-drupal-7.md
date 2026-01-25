@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/we-have-a-test-framework-in-drupal-7'
 title: 'We have a test framework in Drupal 7'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-04-21T11:10:13-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Testing
 published: true
-type: blog
-url: /we-have-a-test-framework-in-drupal-7
 id: 432
 ---
+
+# We have a test framework in Drupal 7
 
 Every major Drupal release we should ask ourselves what steps we can take to double the capacity of our community.
 

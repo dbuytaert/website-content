@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/redesigning-a-website-using-css-grid-and-flexbox'
 title: 'Redesigning a website using CSS Grid and Flexbox'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-10-18T18:53:56-04:00'
-author: Dries
-image: blog/css-page-layout
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - CSS
-featured: false
+image: blog/css-page-layout
 published: true
-type: blog
-url: /redesigning-a-website-using-css-grid-and-flexbox
+featured: false
 id: 4556
 ---
+
+# Redesigning a website using CSS Grid and Flexbox
 
 For the last 15 years, I've been using *floats* for laying out a web pages on [dri.es](https://dri.es). This approach to layout involves a lot of trial and error, including hours of fiddling with widths, max-widths, margins, absolute positioning, and the occasional `calc()` function.
 

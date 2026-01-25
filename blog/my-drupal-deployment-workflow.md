@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/my-drupal-deployment-workflow'
 title: 'My Drupal deployment workflow'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-08-01T14:28:03-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'In 20+ years of working on Drupal, this is my best Drupal development and deployment workflow.'
-image: acquia/acquia-code-studio-automated-updates
 tags:
   - Drupal
   - 'Acquia Cloud'
   - 'My site'
+image: acquia/acquia-code-studio-automated-updates
 published: true
-type: blog
-url: /my-drupal-deployment-workflow
 id: 5356
 ---
+
+# My Drupal deployment workflow
 
 I wanted to outline the development and deployment workflow I use on [dri.es](https://dri.es/), my personal website.
 

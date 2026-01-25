@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/the-coming-era-of-data-and-software-transparency'
 title: 'The coming era of data and software transparency'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-10-06T13:04:06-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Source'
   - Policy
   - 'Open Web'
 published: true
-type: blog
-url: /the-coming-era-of-data-and-software-transparency
 id: 3446
 ---
+
+# The coming era of data and software transparency
 
 Algorithms are shaping what we see and think – even what our futures hold. The order of Google's search results, the people Twitter recommends us to follow, or the way Facebook filters our newsfeed can impact our perception of the world and drive our actions. But think about it: we have very little insight into how these algorithms work or what data is used. Given that algorithms guide much of our lives, how do we know that they don't have a bias, withhold information, or have bugs with negative consequences on individuals or society? This is a problem that we aren't talking about enough, and that we have to address in the next decade.
 

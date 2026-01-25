@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/how-nasdaq-offers-a-drupal-distribution-as-a-service'
 title: 'How Nasdaq offers a Drupal distribution as-a-service'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-02-13T15:29:27-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Nasdaq built a Drupal distribution delivered as-a-service via Acquia Site Factory for investor relations sites.'
 tags:
   - Drupal
@@ -10,12 +15,12 @@ tags:
   - 'Acquia Engage'
   - 'Financial services'
   - 'Fortune 500'
-featured: true
 published: true
-type: blog
-url: /how-nasdaq-offers-a-drupal-distribution-as-a-service
+featured: true
 id: 3876
 ---
+
+# How Nasdaq offers a Drupal distribution as-a-service
 
 [image drupal/drupal-on-nasdaq-billboard-times-square-2016]
 

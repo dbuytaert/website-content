@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/i-am-going-to-india'
 title: "I'm going to India"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-10-06T15:37:40-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - India
 published: true
-type: blog
-url: /i-am-going-to-india
 id: 2521
 ---
+
+# I'm going to India
 
 As you know, I'm no stranger to travel – I flew [over 100,000 km in 2010 and over 300,000 km in 2011](https://dri.es/drupal-2010-retrospective-and-2011-predictions). But India is one place I haven't visited yet, even though I feel that Drupal's success there is crucial to its worldwide adoption.
 

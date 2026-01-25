@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-association-2008-wishlist'
 title: 'Drupal Association 2008 wishlist'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-12-23T08:14:44-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Statistics
   - 'Drupal Association'
 published: true
-type: blog
-url: /drupal-association-2008-wishlist
 id: 374
 ---
+
+# Drupal Association 2008 wishlist
 
 Since we launched the [Drupal Association](https://association.drupal.org) in January 2007, roughly one year ago, we (i) improved the drupal.org infrastructure, (ii) we helped organize two international Drupal conferences, (iii) we established a relation with an accounting firm, (iv) we funded Drupal's presence at a number of events, (v) we started setting up fundraising campaigns, (vi) we entered into a relation with the Software Freedom Law Center, (vii) we are close to launching a Drupal Association membership model, etc.
 

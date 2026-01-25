@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/effortless-inspecting-of-drupal-database-queries'
 title: 'Effortless inspecting of Drupal database queries'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-12-28T09:45:51-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: note
 tags:
   - Drupal
   - MySQL
 published: true
-type: note
-url: /effortless-inspecting-of-drupal-database-queries
 id: 5536
 ---
+
+# Effortless inspecting of Drupal database queries
 
 Drupal's database abstraction layer is great for at least two reasons. First, it ensures compatibility with various database systems like MySQL, MariaDB, PostgreSQL and SQLite. Second, it improves security by preventing SQL injection attacks.
 

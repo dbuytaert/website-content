@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/david-rothstein'
 title: 'David Rothstein '
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-05-21T09:28:01-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Branch maintainer'
 published: true
-type: blog
-url: /david-rothstein
 id: 2696
 ---
+
+# David Rothstein 
 
 I selected [Angela "webchick" Byron](https://dri.es/angela-webchick-byron) as my co-maintainer for Drupal 7 back in DrupalCon Szeged in August 2008. Since then, together we shepherded efforts of 1,000 core contributors to create Drupal 7, got the release out the door in January of last year, and worked hard thereafter to stabilize Drupal 7, to the point that [the number of Drupal 7 sites eclipsed the number of Drupal 6 sites earlier this year](https://www.drupal.org/project/usage/drupal).
 

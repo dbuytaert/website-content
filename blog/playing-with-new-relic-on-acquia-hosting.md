@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/playing-with-new-relic-on-acquia-hosting'
 title: 'Playing with New Relic on Acquia Hosting'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-12-16T17:17:25-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Cloud'
   - 'My site'
 published: true
-type: blog
-url: /playing-with-new-relic-on-acquia-hosting
 id: 2041
 ---
+
+# Playing with New Relic on Acquia Hosting
 
 During the past month, I've been trying [New Relic](http://newrelic.com) on my personal blog. New Relic is a performance management tool. It can help to monitor, debug and optimize a site. It includes features like slow page request analysis, slow database query analysis, error tracking, scalability analysis, performance alerts, weekly e-mail reports, up-time monitoring and even very specialized features like Apache Solr profiling. It's a bundle of developer goodies that can be used on live production websites.
 

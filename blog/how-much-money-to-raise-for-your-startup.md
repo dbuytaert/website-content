@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/how-much-money-to-raise-for-your-startup'
 title: 'How much money to raise for your startup? [Flowchart]'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-03-02T08:52:05-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Startup lessons'
   - Investing
 published: true
-type: blog
-url: /how-much-money-to-raise-for-your-startup
 id: 3346
 ---
+
+# How much money to raise for your startup? [Flowchart]
 
 From time to time, people ask me how much money to raise for their startup. I've heard other people answer that question from "never raise money" to "as little as you need" to "as much as you can".
 

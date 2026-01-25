@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/acquia-a-leader-in-the-2024-gartner-magic-quadrant-for-digital-experience-platforms'
 title: 'Acquia a Leader in the 2024 Gartner Magic Quadrant for Digital Experience Platforms'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-02-26T17:09:19-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'For the fifth time, Acquia was named a Leader in the Gartner MQ for Digital Experience Platforms.'
-image: acquia/gartner-magic-quadrant-for-digital-experience-platforms-2024
 tags:
   - Gartner
   - Acquia
   - Drupal
   - Mautic
+image: acquia/gartner-magic-quadrant-for-digital-experience-platforms-2024
 published: true
-type: blog
-url: /acquia-a-leader-in-the-2024-gartner-magic-quadrant-for-digital-experience-platforms
 id: 5571
 ---
+
+# Acquia a Leader in the 2024 Gartner Magic Quadrant for Digital Experience Platforms
 
 [image acquia/gartner-magic-quadrant-for-digital-experience-platforms-2024 resize=false schema=false]
 

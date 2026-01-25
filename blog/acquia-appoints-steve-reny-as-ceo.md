@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/acquia-appoints-steve-reny-as-ceo'
 title: 'Acquia appoints Steve Reny as CEO'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-12-19T09:11:50-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Acquia CEO Mike Sullivan to leave after five years. Acquia COO Steve Reny becomes Acquia's new CEO."
-image: miscellaneous-2022/acquia-freedom-tour
 tags:
   - Acquia
   - 'Leadership updates'
+image: miscellaneous-2022/acquia-freedom-tour
 published: true
-type: blog
-url: /acquia-appoints-steve-reny-as-ceo
 id: 5401
 ---
+
+# Acquia appoints Steve Reny as CEO
 
 [image miscellaneous-2022/acquia-freedom-tour caption=false]
 

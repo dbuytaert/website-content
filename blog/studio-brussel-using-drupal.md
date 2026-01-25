@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/studio-brussel-using-drupal'
 title: 'Studio Brussel using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-05-07T04:48:46-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
@@ -9,10 +14,10 @@ tags:
   - Broadcasting
   - Music
 published: true
-type: blog
-url: /studio-brussel-using-drupal
 id: 266
 ---
+
+# Studio Brussel using Drupal
 
 Studio Brussel (StuBru), without a doubt Belgium's best radio station, relaunched [their website](https://stubru.be/) using Drupal today. Check it out at <http://stubru.be>!
 

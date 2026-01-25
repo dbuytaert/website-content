@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-retrospective-2014'
 title: 'Acquia retrospective 2014'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-01-09T15:01:43-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
   - Drupal
   - Retrospective
 published: true
-type: blog
-url: /acquia-retrospective-2014
 id: 3311
 ---
+
+# Acquia retrospective 2014
 
 As is now a tradition for me, here is my annual Acquia retrospective, where I look back at 2014 and share what is on my mind as we start the new year. I take the time to write these retrospectives not only for you dear reader, but also for myself, because I want to keep a record of the changes we've gone through as a company and how my personal thinking is evolving from year to year. But I also write them for you, because you might be able to learn from my experiences or from analyzing the information provided. If you would like to, you can read my previous retrospectives: [2009](https://dri.es/acquia-retrospective-2009), [2010](https://dri.es/acquia-retrospective-2010), [2011](https://dri.es/acquia-retrospective-2011), [2012](https://dri.es/acquia-retrospective-2012) and [2013](https://dri.es/acquia-retrospective-2013).
 

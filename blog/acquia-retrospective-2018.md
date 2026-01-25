@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/acquia-retrospective-2018'
 title: 'Acquia retrospective 2018'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-01-29T09:06:20-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "In my 2018 Acquia retrospective, I reflect on our business momentum, the evolution of the Acquia Platform, and why the market continues to move in Acquia's direction."
-image: acquia/business-metrics-2018
 tags:
   - Drupal
   - Retrospective
   - Acquia
+image: acquia/business-metrics-2018
 published: true
-type: blog
-url: /acquia-retrospective-2018
 id: 4731
 ---
+
+# Acquia retrospective 2018
 
 Every year, I sit down to write my annual Acquia retrospective. It's a rewarding exercise, because it allows me to reflect on how much progress Acquia has made in the past 12 months.
 

@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/can-drupal-outdo-native-applications'
 title: 'Can Drupal outdo native applications?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-09-14T14:54:21-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: '"Inversion of control" is a powerful design principle that we could use to improve the user experience of Drupal, and rival that of native applications.'
 tags:
   - JavaScript
@@ -9,10 +14,10 @@ tags:
   - Outside-in
   - 'Headless Drupal'
 published: true
-type: blog
-url: /can-drupal-outdo-native-applications
 id: 3766
 ---
+
+# Can Drupal outdo native applications?
 
 I've made no secret of my interest in [the open web](https://dri.es/tag/open-web), so it won't come as a surprise that I'd love to see more web applications and fewer native applications. Nonetheless, many argue that "[the future of the internet isn't the web](https://contently.com/strategist/2016/08/09/future-internet-isnt-web/)" and that it's only a matter of time before walled gardens like Facebook and Google – and the native applications which serve as their gatekeepers – overwhelm the web as we know it today: a public, inclusive, and decentralized common good.
 

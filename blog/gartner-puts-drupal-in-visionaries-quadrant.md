@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/gartner-puts-drupal-in-visionaries-quadrant'
 title: 'Gartner puts Drupal in visionaries quadrant'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-10-29T13:44:26-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Gartner included Drupal into the Magic Quadrant for Social Software in the Workplace'
-image: drupal/gartner-magic-quadrant-social-software-workplace
 tags:
   - Drupal
   - Acquia
   - Gartner
+image: drupal/gartner-magic-quadrant-social-software-workplace
 published: true
-type: blog
-url: /gartner-puts-drupal-in-visionaries-quadrant
 id: 1151
 ---
+
+# Gartner puts Drupal in visionaries quadrant
 
 A lot of Drupal people and organizations help promote [Drupal](https://www.drupal.org). At [Acquia](https://www.acquia.com), we also like to help with promoting Drupal. One of the things we've been doing since the inception of Acquia, is talking to analyst firms like Gartner, Forrester, and the 451group about Drupal, and all of Drupal's successes. Almost all of that work is carried out by Acquia's marketing people, but I've been in several analyst calls myself. Recently, [Gartner](http://www.gartner.com) has included Drupal into its Magic Quadrant reports, and was most recently promoted to the 'Visionaries' category in Gartner's *Magic Quadrant for Social Software in the Workplace*.
 

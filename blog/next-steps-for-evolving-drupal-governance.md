@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/next-steps-for-evolving-drupal-governance'
 title: "Next steps for evolving Drupal's governance"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-04-10T06:42:40-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /next-steps-for-evolving-drupal-governance
 id: 3906
 ---
+
+# Next steps for evolving Drupal's governance
 
 The last time we made significant changes to our governance was 4 to 5 years ago \[[1](https://dri.es/proposal-from-first-drupal-governance-sprint), [2](https://dri.es/draft-for-drupal-community-working-group-charter), [3](https://dri.es/creating-a-structure-for-drupal-governance)\]. It's time to evolve it more. We need to:
 

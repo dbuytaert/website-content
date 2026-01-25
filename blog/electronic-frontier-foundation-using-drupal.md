@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/electronic-frontier-foundation-using-drupal'
 title: 'Electronic Frontier Foundation using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-11-05T08:16:39-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Non-profit
 published: true
-type: blog
-url: /electronic-frontier-foundation-using-drupal
 id: 350
 ---
+
+# Electronic Frontier Foundation using Drupal
 
 The main website of the [Electronic Frontier Foundation](https://www.eff.org/) (EFF) relaunched using Drupal. The EFF is a non-profit organization with the stated purpose of being dedicated to preserving free speech rights.
 

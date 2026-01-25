@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/applaud-the-drupal-maintainers'
 title: 'Applaud the Drupal maintainers'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-04-20T05:38:16-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Software development'
 published: true
-type: blog
-url: /applaud-the-drupal-maintainers
 id: 3646
 ---
+
+# Applaud the Drupal maintainers
 
 Today is another big day for Drupal as [we just released Drupal 8.1.0](https://www.drupal.org/blog/drupal-8-1-0). Drupal 8.1.0 is an important milestone as it is a departure from the Drupal 7 release schedule where we couldn't add significant new features until Drupal 8. Drupal 8.1.0 balances maintenance with innovation.
 

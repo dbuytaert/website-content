@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-recognized-as-a-digital-public-good'
 title: 'Drupal recognized as a Digital Public Good'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-04-26T11:45:00-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Drupal has been designated as a Digital Public Good.  This not only increases Drupal's visibility and credibility, but it could also help attract more funding and support."
-image: drupal/digital-public-good
 tags:
   - Drupal
   - 'Drupal Association'
+image: drupal/digital-public-good
 published: true
-type: blog
-url: /drupal-recognized-as-a-digital-public-good
 id: 5456
 ---
+
+# Drupal recognized as a Digital Public Good
 
 [image drupal/digital-public-good resize=false]
 

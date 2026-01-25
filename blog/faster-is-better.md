@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/faster-is-better'
 title: 'Faster is better'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-01-06T10:05:10-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Web performance'
   - Statistics
 published: true
-type: blog
-url: /faster-is-better
 id: 571
 ---
+
+# Faster is better
 
 Through a [presentation from Nicole Sullivan](https://www.slideshare.net/stubbornella/designing-fast-websites-presentation), a former member of Yahoo's Exceptional Performance Team and co-author of O'Reilly's upcoming book on performance optimization, I came across the following data points:
 

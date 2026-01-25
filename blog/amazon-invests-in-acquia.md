@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/amazon-invests-in-acquia'
 title: 'Amazon invests in Acquia'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-08-13T11:46:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
   - Amazon
 published: true
-type: blog
-url: /amazon-invests-in-acquia
 id: 3191
 ---
+
+# Amazon invests in Acquia
 
 I'm happy to share news that [Amazon](http://amazon.com) has joined the [Acquia](https://www.acquia.com) family as our newest investor. This investment builds on the [recent $50 million financing round](https://dri.es/acquia-raises-50-million-series-f) that Acquia completed in May, which was led by [New Enterprise Associates](http://nea.com) (NEA).
 

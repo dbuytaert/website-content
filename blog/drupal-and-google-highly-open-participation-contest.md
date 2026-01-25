@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-and-google-highly-open-participation-contest'
 title: "Drupal and Google's Highly Open Participation Contest"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-11-28T02:22:18-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /drupal-and-google-highly-open-participation-contest
 id: 363
 ---
+
+# Drupal and Google's Highly Open Participation Contest
 
 Following on from the [success of the Google Summer of Code program](https://dri.es/google-to-invest-100000-usd-in-drupal), Drupal has been chosen as one of the ten projects participating in a new pilot program called [Google Highly Open Participation Contest](http://code.google.com/opensource/ghop/2007-8/). The goal of the program is to get high-school students involved in all aspects of Open Source development, from fixing bugs to writing documentation and doing user experience research.
 

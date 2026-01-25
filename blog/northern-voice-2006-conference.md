@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/northern-voice-2006-conference'
 title: 'Northern Voice 2006 conference'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-02-12T00:38:08-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Photography
   - Vancouver
 published: true
-type: blog
-url: /northern-voice-2006-conference
 id: 25
 ---
+
+# Northern Voice 2006 conference
 
 Met a bunch of interesting (non-Drupal) people at the Northern Voice conference. Here is a selection of them:
 

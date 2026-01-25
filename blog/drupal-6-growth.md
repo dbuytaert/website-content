@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-6-growth'
 title: 'Drupal 6 growth'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-04-04T23:09:06-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Statistics
 published: true
-type: blog
-url: /drupal-6-growth
 id: 625
 ---
+
+# Drupal 6 growth
 
 [image drupal/drupal-6-growth resize=false]
 

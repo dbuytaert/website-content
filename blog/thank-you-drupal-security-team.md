@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/thank-you-drupal-security-team'
 title: 'Thank you, Drupal Security Team'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-11-27T08:00:10-05:00'
-author: Dries
-image: drupal/blue-hearts-1
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Security
-featured: false
+image: drupal/blue-hearts-1
 published: true
-type: blog
-url: /thank-you-drupal-security-team
+featured: false
 id: 5956
 ---
+
+# Thank you, Drupal Security Team
 
 [image drupal/blue-hearts-1 lazy=false priority=true]
 

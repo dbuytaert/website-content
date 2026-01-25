@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/united-nations-using-drupal-2'
 title: 'United Nations using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-10-10T13:39:03-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Government
 published: true
-type: blog
-url: /united-nations-using-drupal-2
 id: 337
 ---
+
+# United Nations using Drupal
 
 The [United Nations](https://en.wikipedia.org/wiki/United_Nations) is using Drupal for their [End Poverty Campaign](http://endpoverty2015.org). The site is part of a network of Drupal sites that stand up against poverty. This network of sites is part of the historic promise 189 world leaders made at the United Nations Millennium Summit in 2000 when they agreed to meet the [Millennium Development Goals](http://www.endpoverty2015.org/goals).
 

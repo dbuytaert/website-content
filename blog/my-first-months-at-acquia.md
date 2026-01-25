@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/my-first-months-at-acquia'
 title: 'My first months at Acquia'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-05-01T04:01:35-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /my-first-months-at-acquia
 id: 437
 ---
+
+# My first months at Acquia
 
 Every week, several people ask me what I spend time on at [Acquia](https://www.acquia.com)? What does a co-founder and start-up CTO in a high-tech company do?
 

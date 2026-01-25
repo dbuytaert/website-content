@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/teach-gov-using-drupal'
 title: 'Teach.gov using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-10-06T13:43:16-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
@@ -9,10 +14,10 @@ tags:
   - 'Drupal Gardens'
   - Government
 published: true
-type: blog
-url: /teach-gov-using-drupal
 id: 1871
 ---
+
+# Teach.gov using Drupal
 
 [image drupal/teach-gov]
 

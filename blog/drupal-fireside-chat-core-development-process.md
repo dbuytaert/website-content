@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-fireside-chat-core-development-process'
 title: 'Drupal fireside chat #1: core development process'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-12-12T17:38:56-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Invitations
 published: true
-type: blog
-url: /drupal-fireside-chat-core-development-process
 id: 2601
 ---
+
+# Drupal fireside chat #1: core development process
 
 It's no secret that I travel around the world, evangelizing Drupal to new audiences and connecting with local communities, as well as contributors, from all over the world. In 2011 alone, I traveled more than 400,000 km (250,000 miles) and talked to thousands of Drupal people. Every day, I answer questions that many in the larger community would benefit from knowing as well.
 

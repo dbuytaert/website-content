@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-u'
 title: 'Acquia U'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-11-07T12:51:55-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-u
 id: 2571
 ---
+
+# Acquia U
 
 Due to Drupal's remarkable growth, the demand for Drupal talent continues to exceed the supply. Every Drupal company I talk to – and I talk to many of them all around the world – has a difficult time attracting enough qualified Drupal talent. The same is true for Acquia.
 

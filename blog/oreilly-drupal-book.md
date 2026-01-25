@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/oreilly-drupal-book'
 title: "O'Reilly Drupal book "
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-12-03T07:04:48-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal books'
 published: true
-type: blog
-url: /oreilly-drupal-book
 id: 546
 ---
+
+# O'Reilly Drupal book 
 
 In a [recent tweet](https://twitter.com/timoreilly/status/1033719589), Tim O'Reilly announced that the [O'Reilly Drupal book](https://www.amazon.com/o/ASIN/0596515804) is released from O'Reilly. The book will start shipping later this month so [time to order your copies](https://www.amazon.com/o/ASIN/0596515804), folks!
 

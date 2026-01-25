@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/pearl-jam-black'
 title: 'Pearl Jam - Black'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-09-17T03:49:11-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Favorite music'
 published: true
-type: blog
-url: /pearl-jam-black
 id: 504
 ---
+
+# Pearl Jam - Black
 
 [video AFVlJAi3Cso]
 

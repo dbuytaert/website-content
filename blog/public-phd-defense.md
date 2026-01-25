@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/public-phd-defense'
 title: 'Public PhD defense'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-01-10T15:25:15-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'PhD research'
   - Invitations
 published: true
-type: blog
-url: /public-phd-defense
 id: 385
 ---
+
+# Public PhD defense
 
 In exactly two weeks, I have my public PhD defense.
 

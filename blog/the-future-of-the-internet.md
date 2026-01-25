@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/the-future-of-the-internet'
 title: 'The future of the internet'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-11-30T11:10:37-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Trends
 published: true
-type: blog
-url: /the-future-of-the-internet
 id: 183
 ---
+
+# The future of the internet
 
 Here is my three-line summary of what has been happening to the internet:
 

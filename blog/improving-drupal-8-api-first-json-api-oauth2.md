@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/improving-drupal-8-api-first-json-api-oauth2'
 title: "Improving Drupal 8's API-first: JSON API and OAuth2?"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-12-09T10:10:51-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Recommended next steps for Drupal 8's API-first initiative; including JSON API and OAuth2 in Drupal 8 core."
-image: drupal/api-first-building-blocks
 tags:
   - Drupal
   - JavaScript
   - 'Web services'
+image: drupal/api-first-building-blocks
 published: true
-type: blog
-url: /improving-drupal-8-api-first-json-api-oauth2
 id: 3831
 ---
+
+# Improving Drupal 8's API-first: JSON API and OAuth2?
 
 Among the most important initiatives for Drupal 8's future is the "API-first initiative", whose goal is to improve Drupal's web services capabilities for building decoupled applications. In my previous blog posts, I [evaluated the current state](https://dri.es/an-overview-of-web-service-solutions-in-drupal-8) of, [outlined a vision](https://dri.es/advancing-drupal-web-services) for, and [mapped a path forward](https://dri.es/a-roadmap-for-making-drupal-more-api-first) for Drupal's web services solutions.
 

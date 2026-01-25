@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/three-trends-driving-todays-flash-digital-transformation'
 title: 'Three trends driving today''s "Flash Digital Transformation"'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-07-14T10:25:52-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
   - 'Open Source'
   - Trends
 published: true
-type: blog
-url: /three-trends-driving-todays-flash-digital-transformation
 id: 5041
 ---
+
+# Three trends driving today's "Flash Digital Transformation"
 
 *Today, Acquia announced the launch of its [Open Digital Experience Platform](https://www.acquia.com/blog/acquia-launches-open-digital-experience-platform-build-meaningful-customer-connections), a single platform to build websites and applications, and run data-driven marketing campaigns across channels. As a part of the launch, I wrote a piece for [Digiday](https://digiday.com/) on the impact COVID-19 is having on digital transformation. Even though many organizations are under pressure to rapidly transition their operations online, the changes they make now can have a positive impact for years to come. Below is the full text of the article.*
 

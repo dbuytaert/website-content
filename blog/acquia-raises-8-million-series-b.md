@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-raises-8-million-series-b'
 title: 'Acquia raises $8 million series B'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-07-21T10:55:30-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-raises-8-million-series-b
 id: 861
 ---
+
+# Acquia raises $8 million series B
 
 I'm very pleased to announce that [Acquia](https://www.acquia.com) has raised an additional 8 million USD in a Series B round of funding. As explained in our [press release](https://www.acquia.com/about-us/newsroom/press-releases/acquia-secures-8-million-series-b-financing-north-bridge-venture-pa), the investment was led by our existing investors, North Bridge Venture Partners and Sigma Partners. Combined with [our Series A funding](https://dri.es/acquia-raises-7-million-series-a), this brings our total funding to 15 million USD.
 

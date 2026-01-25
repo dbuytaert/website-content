@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-book-shelf-2009'
 title: 'Drupal book shelf'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-06-04T04:06:32-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal books'
 published: true
-type: blog
-url: /drupal-book-shelf-2009
 id: 667
 ---
+
+# Drupal book shelf
 
 [image drupal/book-shelf-2009]
 

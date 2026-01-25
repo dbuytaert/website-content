@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/on-business-models-for-drupal-distributions'
 title: 'On business models for Drupal distributions'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-05-19T10:07:03-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal distributions need sustainable business models and partnerships so maintaining them becomes commercially viable.'
 tags:
   - Drupal
   - 'Business model'
   - Acquia
   - 'Drupal distributions'
-featured: true
 published: true
-type: blog
-url: /on-business-models-for-drupal-distributions
+featured: true
 id: 1647
 ---
+
+# On business models for Drupal distributions
 
 The fact that thousands of developers use [Drupal](https://www.drupal.org) to make money building websites for their customers has resulted in thousands of modules being created and hundreds of events being organized around the world. When I started Drupal, I wasn't aware of the importance of such a commercial ecosystem. Looking back at 10 years of working on Drupal, it is an important lesson learned. If I were to start a new Open Source project (I'm not!), the ability to build out a large commercial ecosystem would be one of the criteria that I'd look for. Disruptive innovations change entire industries, not just tools. Not every Open Source project lends itself to that.
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/low-code-and-no-code-tools-continue-to-drive-the-web-forward'
 title: 'Low-code and no-code tools continue to drive the web forward'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-08-19T04:35:32-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Low-code and no-code tools for the web are on a decade-long rise; they enable self-service for marketers, and allow developers to focus on innovation.'
-image: blog/low-code-no-code
 tags:
   - Drupal
   - Innovation
   - Trends
+image: blog/low-code-no-code
 published: true
-type: blog
-url: /low-code-and-no-code-tools-continue-to-drive-the-web-forward
 id: 4911
 ---
+
+# Low-code and no-code tools continue to drive the web forward
 
 [image blog/low-code-no-code]
 

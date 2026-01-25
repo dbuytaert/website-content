@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/securing-my-email-with-spf-dkim-and-dmarc'
 title: 'Securing my email with SPF, DKIM and DMARC'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-03-16T08:49:00-04:00'
-author: Dries
-image: blog/email-headers-2021
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'My site'
+image: blog/email-headers-2021
 published: true
-type: blog
-url: /securing-my-email-with-spf-dkim-and-dmarc
 id: 5176
 ---
+
+# Securing my email with SPF, DKIM and DMARC
 
 I use my own domain name for email. Unfortunately, I received a few emails about `dries@buytaert.net` being used for phishing attacks. It's not the first time, but hopefully it will be the last!
 

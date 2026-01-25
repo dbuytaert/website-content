@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/join-the-drupal-starshot-team-as-a-track-lead'
 title: 'Join the Drupal Starshot team as a track lead '
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-07-16T17:29:46-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal Starshot seeks track leads to drive key project components. Apply by July 31st and help bring Drupal Starshot to life!'
-image: drupal/starshot-tracks
 tags:
   - Drupal
   - 'Drupal Starshot'
+image: drupal/starshot-tracks
 published: true
-type: blog
-url: /join-the-drupal-starshot-team-as-a-track-lead
 id: 5656
 ---
+
+# Join the Drupal Starshot team as a track lead 
 
 [image drupal/starshot-tracks]
 

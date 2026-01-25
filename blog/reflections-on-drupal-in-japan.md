@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/reflections-on-drupal-in-japan'
 title: 'Reflections on Drupal in Japan'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-09-20T14:46:22-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Japan
 published: true
-type: blog
-url: /reflections-on-drupal-in-japan
 id: 3236
 ---
+
+# Reflections on Drupal in Japan
 
 I spent the last week in Japan. The goal was two-fold: meet with the Drupal community to understand how we can grow Drupal in Japan, and evaluate the business opportunity to incorporate an Acquia subsidiary in Japan (we already offer [Acquia Cloud](https://www.acquia.com/products-services/acquia-cloud) in Japan using Amazon's Tokyo data center).
 

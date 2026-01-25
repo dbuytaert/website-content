@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/setting-up-a-new-computer-with-homebrew'
 title: 'Setting up a new computer with Homebrew'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-08-26T10:29:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: note
 tags:
   - 'Software development'
 published: true
-type: note
-url: /setting-up-a-new-computer-with-homebrew
 id: 5676
 ---
+
+# Setting up a new computer with Homebrew
 
 Setting up a new computer can be a lot of work, but I've made it much simpler with [Homebrew](https://brew.sh/), a popular package manager.
 

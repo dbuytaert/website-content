@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/the-reason-why-acquia-supports-net-neutrality'
 title: 'The reason why Acquia supports Net Neutrality'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-07-12T06:44:11-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Acquia is joining hundreds of other companies in standing up in support of net neutrality regulations.'
-image: blog/acquia-supports-net-neutrality
 tags:
   - Acquia
   - 'Open Web'
   - Policy
   - 'Net neutrality'
   - Government
+image: blog/acquia-supports-net-neutrality
 published: true
-type: blog
-url: /the-reason-why-acquia-supports-net-neutrality
 id: 3981
 ---
+
+# The reason why Acquia supports Net Neutrality
 
 If you visit [Acquia's homepage](https://www.acquia.com) today, you will be greeted by this banner:
 

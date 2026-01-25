@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/living-our-values'
 title: 'Living our values'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-03-23T00:26:53-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Living our values'
 tags:
   - Drupal
   - Diversity
   - 'Drupal Association'
 published: true
-type: blog
-url: /living-our-values
 id: 3896
 ---
+
+# Living our values
 
 The Drupal community is committed to welcome and accept all people. That includes a commitment to not discriminate against anyone based on their heritage or culture, their sexual orientation, their gender identity, and more. Being diverse has strength and as such we work hard to foster a culture of [open-mindedness toward differences](https://dri.es/fostering-inclusivity-and-diversity).
 

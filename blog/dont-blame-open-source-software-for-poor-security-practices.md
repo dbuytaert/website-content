@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/dont-blame-open-source-software-for-poor-security-practices'
 title: "Don't blame open-source software for poor security practices"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-09-15T10:28:59-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Running an old, insecure version of software — open-source or proprietary — can and will jeopardize the security of any site.'
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /dont-blame-open-source-software-for-poor-security-practices
 id: 4021
 ---
+
+# Don't blame open-source software for poor security practices
 
 Last week, Equifax, one of the largest American credit agencies, was hit by a cyberattack that may have compromised the personal data of nearly 143 million people, including name, address, social security numbers, birth dates and more. The forfeited information reveals everything required to steal someone's identity or to take out a loan in someone else's name. Considering that the current US population is 321 million, this cyberattack is now considered to be one of the [largest and most intrusive breaches in US history](https://www.bloomberg.com/news/articles/2017-09-07/equifax-says-cyber-intrusion-affected-143-million-customers).
 

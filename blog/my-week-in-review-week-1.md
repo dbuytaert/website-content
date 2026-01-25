@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/my-week-in-review-week-1'
 title: 'My week in review: week #1'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-03-19T16:20:25-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
 published: true
-type: blog
-url: /my-week-in-review-week-1
 id: 2251
 ---
+
+# My week in review: week #1
 
 Every week, people ask me what exactly I do and how I balance my time. As such, I've decided to keep track of my work related activities and to record the time that I spent on them. The next four weeks, I'll try to post a weekly summary of my work week (e.g. Monday - Friday).
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/opel-antwerp-going-south'
 title: 'Opel Antwerp going south'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-02-03T04:11:23-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Belgium
   - Antwerp
 published: true
-type: blog
-url: /opel-antwerp-going-south
 id: 1412
 ---
+
+# Opel Antwerp going south
 
 [image miscellaneous-2010/opel-going-south]
 

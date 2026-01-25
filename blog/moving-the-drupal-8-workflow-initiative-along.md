@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/moving-the-drupal-8-workflow-initiative-along'
 title: 'Moving the Drupal 8 workflow initiative along'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-01-06T03:24:26-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "An update on the workflow initiative's progress the past 9 months and an update on future plans"
 tags:
   - Drupal
   - 'Workflow initiative'
 published: true
-type: blog
-url: /moving-the-drupal-8-workflow-initiative-along
 id: 3856
 ---
+
+# Moving the Drupal 8 workflow initiative along
 
 Nine months ago I wrote about the [importance of improving Drupal's content workflow capabilities](https://dri.es/improving-drupal-content-workflow) and how we set out to include a common base layer of workflow-related functionality in Drupal 8 core. That base layer would act as the foundation on which we can build a list of great features like cross-site content staging, content branching, site previews, offline browsing and publishing, content recovery and audit logs. Some of these features are really impactful; 5 out of the top 10 most requested features for content authors are related to workflows (features 3-7 on the image below). We will deliver feature requests 3 and 4 as part of the "content workflow initiative" for Drupal 8. Feature requests 5, 6 and 7 are not in scope of the current content workflow initiative but still stand to benefit significantly from it. Today, I'd like to provide an update on the workflow initiative's progress the past 9 months.
 

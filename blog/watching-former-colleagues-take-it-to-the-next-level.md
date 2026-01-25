@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/watching-former-colleagues-take-it-to-the-next-level'
 title: 'Watching former colleagues take it to the next level'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-07-24T09:36:35-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "How it's really rewarding to watch former colleagues accomplish greater things."
 tags:
   - Acquia
 published: true
-type: blog
-url: /watching-former-colleagues-take-it-to-the-next-level
 id: 4461
 ---
+
+# Watching former colleagues take it to the next level
 
 One of the hallmarks of a great company is that they hire well, and make it a priority to train and challenge their employees to become better. Great companies are a breeding ground for talent. As such, it's always sad when great talent leaves, but it's certainly rewarding to see alumni venture to accomplish greater things.
 

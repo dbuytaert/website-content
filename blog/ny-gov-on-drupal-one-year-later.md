@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/ny-gov-on-drupal-one-year-later'
 title: 'NY.gov on Drupal, one year later'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-11-12T16:31:09-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Drupal sites'
   - Government
 published: true
-type: blog
-url: /ny-gov-on-drupal-one-year-later
 id: 3481
 ---
+
+# NY.gov on Drupal, one year later
 
 The web has done wonders to make government more accessible to its citizens. Take the State of New York; [NY.gov](http://ny.gov) is a perfect example of taking a people-centric approach to digital government. The site lets people easily access state government news and services, including real-time public transit updates, employment resources, healthcare information, and more.
 

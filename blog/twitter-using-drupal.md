@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/twitter-using-drupal'
 title: 'Twitter using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-07-11T15:41:54-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Acquia
 published: true
-type: blog
-url: /twitter-using-drupal
 id: 2411
 ---
+
+# Twitter using Drupal
 
 Starting today, [Twitter's developer community](http://dev.twitter.com) lives and breathes on [Drupal](https://www.drupal.org)! Check it out at <http://dev.twitter.com>.
 

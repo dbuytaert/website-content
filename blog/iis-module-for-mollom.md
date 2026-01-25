@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/iis-module-for-mollom'
 title: 'IIS module for Mollom'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-08-03T03:10:37-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Microsoft
   - Mollom
   - 'Mollom plugins'
 published: true
-type: blog
-url: /iis-module-for-mollom
 id: 891
 ---
+
+# IIS module for Mollom
 
 [Zion Security](http://www.zionsecurity.com), a Belgium-based company specializing in the security analysis of web sites and systems, has used [Mollom's open API](https://www.mollom.com/api) to develop a Microsoft IIS module utilizing [Mollom](https://mollom.com) to detect and prevent comment and posting spam.
 

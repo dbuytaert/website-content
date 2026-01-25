@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/att-using-drupal'
 title: 'AT&T using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-11-06T14:45:05-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - 'Fortune 500'
 published: true
-type: blog
-url: /att-using-drupal
 id: 1181
 ---
+
+# AT&T using Drupal
 
 AT&amp;T, the largest provider of local long distance telephone services in the United States, is using [Drupal](https://www.drupal.org) on for an add-on site called [AT&amp;T Apps Beta](http://appsbeta.wireless.att.com).
 

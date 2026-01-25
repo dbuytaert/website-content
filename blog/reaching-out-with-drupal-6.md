@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/reaching-out-with-drupal-6'
 title: 'Reaching out with Drupal 6'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-08-10T12:42:41-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /reaching-out-with-drupal-6
 id: 315
 ---
+
+# Reaching out with Drupal 6
 
 I continue to be amazed about how many people believe that Drupal 6's localization (l10n) and internationalization (i18n) improvements aren't a killer feature.
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-7-code-freeze-almost-upon-us'
 title: 'Drupal 7 code freeze almost upon us'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-09-02T18:21:49-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-7-code-freeze-almost-upon-us
 id: 961
 ---
+
+# Drupal 7 code freeze almost upon us
 
 After some 82 weeks of development [ beginning in February 2008](https://dri.es/starting-to-work-on-drupal-7), no one should be caught by surprise that we are near a code freeze for a release of Drupal 7, the next and best release of Drupal yet. In fact, [the Drupal 7 code freeze was originally announced to be on September 1st](https://dri.es/drupal-7-code-freeze-september-1st).
 

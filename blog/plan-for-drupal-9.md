@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/plan-for-drupal-9'
 title: 'Plan for Drupal 9'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-12-12T08:13:26-05:00'
-author: Dries
-image: drupal/drupal-9-targeting-june-2020
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
+image: drupal/drupal-9-targeting-june-2020
 published: true
-type: blog
-url: /plan-for-drupal-9
 id: 4666
 ---
+
+# Plan for Drupal 9
 
 At [Drupal Europe](https://www.drupaleurope.org/), I announced that Drupal 9 will be released in 2020. Although I explained [why we plan to release in 2020](https://dri.es/drupal-7-8-and-9), I wasn't very specific about when we plan to release Drupal 9 in 2020. Given that 2020 is less than thirteen months away (gasp!), it's time to be more specific.
 

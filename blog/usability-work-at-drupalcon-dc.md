@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/usability-work-at-drupalcon-dc'
 title: 'Usability work at DrupalCon DC'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-03-03T23:12:54-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - Usability
   - Testing
 published: true
-type: blog
-url: /usability-work-at-drupalcon-dc
 id: 609
 ---
+
+# Usability work at DrupalCon DC
 
 I recently [announced](https://dri.es/mark-boulton-to-help-with-drupal-7) that one of the ways in which [Acquia](https://www.acquia.com) is contributing to Drupal is by providing funds for Mark Boulton and Leisa Reichelt to help the Drupal community improve usability in Drupal 7. Mark and Leisa are beginning their work at DCDC this week!
 

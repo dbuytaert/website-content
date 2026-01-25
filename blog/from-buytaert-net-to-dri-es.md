@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/from-buytaert-net-to-dri-es'
 title: 'From buytaert.net to dri.es'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-08-14T20:12:31-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'I decided to make the switch from "buytaert.net" to "dri.es": my domain name is now 100% easier to remember, pronounce and type!'
-image: blog/dri-es.gif
 tags:
   - 'My site'
+image: blog/dri-es.gif
 published: true
-type: blog
-url: /from-buytaert-net-to-dri-es
 id: 4001
 ---
+
+# From buytaert.net to dri.es
 
 [image blog/dri-es resize=false]
 

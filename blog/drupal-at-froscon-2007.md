@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/drupal-at-froscon-2007'
 title: 'Drupal at FrOSCon 2007'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-06-10T05:07:11-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
@@ -9,10 +14,10 @@ tags:
   - Invitations
   - Germany
 published: true
-type: blog
-url: /drupal-at-froscon-2007
 id: 279
 ---
+
+# Drupal at FrOSCon 2007
 
 [FrOSCon](http://froscon.de) is a two day conference on Free Software and Open Source, taking place on August 25th and 26th at the Fachhochschule Bonn-Rhein-Sieg in Sankt Augustin near [the city of Bonn](https://en.wikipedia.org/wiki/Bonn) in Germany.
 

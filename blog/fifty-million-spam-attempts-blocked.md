@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/fifty-million-spam-attempts-blocked'
 title: 'Fifty million spam attempts blocked'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-04-07T23:34:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Mollom
 published: true
-type: blog
-url: /fifty-million-spam-attempts-blocked
 id: 627
 ---
+
+# Fifty million spam attempts blocked
 
 A day or so ago, [Mollom](https://mollom.com) blocked its fifty-millionth spam attempt, reaching another milestone in a list that is expanding with increasing frequency. After all, it was only a little over two months ago ([on January 28th](https://dri.es/more-milestones-for-mollom)) that we reached twenty-five million, about six months ago ([on October 6th](https://dri.es/ten-million-spam-attempts-blocked)) that we reached ten million, and about a year ago ([on March 31, 2008](https://dri.es/mollom-my-content-monitoring-startup)) that [Benjamin](http://about.me/benjamin_schrauwen) and I began Mollom.
 

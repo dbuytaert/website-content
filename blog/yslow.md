@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/yslow'
 title: YSlow
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-07-25T07:09:56-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Web performance'
@@ -10,10 +15,10 @@ tags:
   - WordPress
   - Plone
 published: true
-type: blog
-url: /yslow
 id: 303
 ---
+
+# YSlow
 
 Yahoo! released [YSlow](https://developer.yahoo.com/yslow/), a [Firefox](https://www.mozilla.org/firefox) extension that integrates with the popular [Firebug tool](http://www.getfirebug.com/). YSlow was originally developed as an internal tool at Yahoo! with the help of Steve Souders, Chief Performance at Yahoo! and author of O'Reilly's [High Performance Websites](https://www.oreilly.com/catalog/9780596514211/) book.
 

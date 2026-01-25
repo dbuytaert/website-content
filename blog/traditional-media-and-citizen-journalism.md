@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/traditional-media-and-citizen-journalism'
 title: 'Traditional media to embrace citizen journalism?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-04-24T03:56:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Trends
 published: true
-type: blog
-url: /traditional-media-and-citizen-journalism
 id: 55
 ---
+
+# Traditional media to embrace citizen journalism?
 
 Sharing photos, audio and video is hot. Every week, new tools are made available to make sharing videos online easier. Recently, the [Flemish Radio- and Television Network](https://www.vrt.be/) (VRT) started using [Drupal](https://www.drupal.org/) for [16+](http://16plus.be/), an online community that allows students to share pictures, music and video. The written press touted it as the "Flemish YouTube". For details, see [my older blog post on 16+](/vrt-using-drupal).
 

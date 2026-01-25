@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/why-large-organizations-are-choosing-to-contribute-to-drupal'
 title: 'Why large organizations are choosing to contribute to Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-07-03T15:27:28-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Open source offers organizations a completely different way of working, and fosters an innovation model that is not possible with proprietary solutions.'
 tags:
   - Drupal
   - 'Open Source'
 published: true
-type: blog
-url: /why-large-organizations-are-choosing-to-contribute-to-drupal
 id: 4441
 ---
+
+# Why large organizations are choosing to contribute to Drupal
 
 During my [DrupalCon Nashville keynote](https://dri.es/state-of-drupal-presentation-april-2018), I shared a brief video of Mike Lamb, the Senior Director of Architecture, Engineering &amp; Development at Pfizer. Today, I wanted to share an extended version of my interview with Mike, where he explains why the development team at Pfizer has ingrained Open Source contribution into the way they work.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/managing-comments-on-multiple-wordpress-sites'
 title: 'Managing comments on multiple WordPress sites'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-07-26T07:26:08-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
   - WordPress
   - Drupal
 published: true
-type: blog
-url: /managing-comments-on-multiple-wordpress-sites
 id: 3001
 ---
+
+# Managing comments on multiple WordPress sites
 
 There is a pursuit we all share; not having to deal with spammers. The promise of a clean spam-free web.
 

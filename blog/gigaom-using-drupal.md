@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/gigaom-using-drupal'
 title: 'GigaOm using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-03-12T03:48:10-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Publishing
 published: true
-type: blog
-url: /gigaom-using-drupal
 id: 412
 ---
+
+# GigaOm using Drupal
 
 [image drupal/ostatic]
 

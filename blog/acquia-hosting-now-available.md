@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-hosting-now-available'
 title: 'Acquia Hosting now available '
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-09-03T04:44:07-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Cloud'
 published: true
-type: blog
-url: /acquia-hosting-now-available
 id: 976
 ---
+
+# Acquia Hosting now available 
 
 For a number of months now, [my personal website](https://dri.es) ran on a development version of [Acquia Hosting](https://www.acquia.com/products-services/acquia-managed-cloud) (previously referred to with the code name [Acquia Fields](https://dri.es/acquia-2009-roadmap)). There is nothing better than eating your own dog food. You have to eat a lot of it, and you have to start eating it early on. Either way, today at DrupalCon, we announced that Acquia Hosting is commercially available. In this post, I want to talk a little bit about what we have built and why we believe it matters.
 

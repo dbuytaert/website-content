@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/i-am-not-selling-my-apple-stock'
 title: "I'm not selling my Apple stock"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-12-03T21:00:32-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Stock market'
   - Investing
   - Apple
 published: true
-type: blog
-url: /i-am-not-selling-my-apple-stock
 id: 4651
 ---
+
+# I'm not selling my Apple stock
 
 Apple had a rough year; its stock price has fallen 25% since the beginning of the year. Apple also reported a weaker than expected outlook and shared that it will no longer report individual unit sales, which many consider a bearish signal within a saturated smartphone market.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/microsoft-promoting-drupal'
 title: 'Microsoft promoting Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-03-18T15:30:00-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Microsoft
 published: true
-type: blog
-url: /microsoft-promoting-drupal
 id: 620
 ---
+
+# Microsoft promoting Drupal
 
 Microsoft [announced its Web Application Gallery](http://www.prweb.com/releases/2009/03/prweb2246164.htm) at its annual MIX conference today. The exciting news for many of us is that [Drupal](https://www.drupal.org) is one of the first 10 applications to be included as part of the [Web Application Gallery](https://www.microsoft.com/web/gallery). Other open source applications including [Wordpress](http://wordpress.org), [SilverStripe](http://silverstripe.com), and [Gallery](http://galleryproject.org/) also made into the initial group.
 

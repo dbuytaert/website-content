@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/we-have-ten-days-to-save-net-neutrality'
 title: 'We have 10 days to save net neutrality'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-12-04T13:51:01-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Now is the time to stand up for net neutrality: we have 10 days and need everyone's help."
-image: blog/cable-squeeze
 tags:
   - 'Open Web'
   - Policy
   - 'Net neutrality'
   - Government
+image: blog/cable-squeeze
 published: true
-type: blog
-url: /we-have-ten-days-to-save-net-neutrality
 id: 4091
 ---
+
+# We have 10 days to save net neutrality
 
 [image blog/cable-squeeze resize=false]
 

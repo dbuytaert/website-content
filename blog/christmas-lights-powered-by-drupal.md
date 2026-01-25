@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/christmas-lights-powered-by-drupal'
 title: 'Christmas lights, powered by Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-12-24T07:49:19-05:00'
-author: Dries
-image: drupal/drupal-blue-led-christmas-lights
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Electronics
-featured: false
+image: drupal/drupal-blue-led-christmas-lights
 published: true
-type: blog
-url: /christmas-lights-powered-by-drupal
+featured: false
 id: 6011
 ---
+
+# Christmas lights, powered by Drupal
 
 [image drupal/drupal-blue-led-christmas-lights]
 

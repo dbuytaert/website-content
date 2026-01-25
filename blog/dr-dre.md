@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/dr-dre'
 title: 'Dr. Dre'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-01-27T15:07:15-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Now I successfully defended my PhD, I will focus all my time on Drupal.'
-image: miscellaneous-2008/phd-defense
 tags:
   - Drupal
   - 'PhD research'
   - Ghent
+image: miscellaneous-2008/phd-defense
 published: true
-type: blog
-url: /dr-dre
 id: 393
 ---
+
+# Dr. Dre
 
 I successfully defended [my PhD](https://dri.es/tag/phd-research) last week – you can find a copy of my PhD dissertation on my [about page](https://dri.es/about). As *Dries* is derived from *Andre*, and *Dre* is short for *Andre*, you can call me *Dr. Dre* now. ;-)
 

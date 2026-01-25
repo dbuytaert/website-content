@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/building-software-to-be-proud-of'
 title: 'Building software to be proud of'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-08-12T04:43:12-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Government
 published: true
-type: blog
-url: /building-software-to-be-proud-of
 id: 5061
 ---
+
+# Building software to be proud of
 
 I'm on vacation this week, and was catching up on my RSS feed. I read that the Australian government content management system [GovCMS](https://www.govcms.gov.au/) has reported record traffic spikes this year due to COVID-19.
 

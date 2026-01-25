@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/mike-sullivan-joins-acquia-as-ceo'
 title: 'Mike Sullivan joins Acquia as CEO'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-11-13T10:59:13-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
   - 'Leadership updates'
 published: true
-type: blog
-url: /mike-sullivan-joins-acquia-as-ceo
 id: 4071
 ---
+
+# Mike Sullivan joins Acquia as CEO
 
 Today, I am excited to announce that [Michael Sullivan will be joining Acquia as its CEO](https://www.acquia.com/about-us/newsroom/press-releases/acquia-names-michael-sullivan-chief-executive-officer).
 

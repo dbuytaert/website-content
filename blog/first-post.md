@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/first-post'
 title: 'First post!'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2005-12-31T04:00:00-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'My site'
   - Writing
-featured: false
 published: true
-type: blog
-url: /first-post
+featured: false
 id: 5
 ---
+
+# First post!
 
 Some of you may have noticed I've not been using [Drupal](https://www.drupal.org/) for my personal website. Some of those have been pestering me about it for over three years. Worse. Some have gone as far as making bets as when I would convert my personal website to Drupal. Well, it took me over five years, but finally, I'm using Drupal for my personal website.
 

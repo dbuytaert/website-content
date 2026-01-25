@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-at-web-summit'
 title: 'Drupal at Web Summit'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-11-15T11:26:42-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal to do more marketing, starting with a significant presence at Web Summit 2023.'
-image: drupal/baddy-at-web-summit-2023
 tags:
   - Drupal
   - 'Drupal Association'
+image: drupal/baddy-at-web-summit-2023
 published: true
-type: blog
-url: /drupal-at-web-summit
 id: 5521
 ---
+
+# Drupal at Web Summit
 
 For the first time in over 20 years, [Drupal](https://www.drupal.org/) has a significant appearance at Web Summit, one of the largest and most influential technology conferences, attracting over 70,000 attendees.
 

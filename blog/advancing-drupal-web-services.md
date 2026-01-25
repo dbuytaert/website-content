@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/advancing-drupal-web-services'
 title: "Advancing Drupal's web services"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-06-06T03:24:14-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "How to advance Drupal's web services beyond for the benefit of Drupal core contributors, module creators and technical decision-makers"
 tags:
   - Drupal
   - 'Web services'
 published: true
-type: blog
-url: /advancing-drupal-web-services
 id: 3706
 ---
+
+# Advancing Drupal's web services
 
 In [an earlier blog post](https://dri.es/an-overview-of-web-service-solutions-in-drupal-8), I looked at the web services solutions available in Drupal 8 and compared their strengths and weaknesses. That blog post was intended to help developers choose between different solutions when building Drupal 8 sites. In this blog post, I want to talk about how to advance Drupal's web services beyond Drupal 8.1 for the benefit of Drupal core contributors, module creators and technical decision-makers.
 

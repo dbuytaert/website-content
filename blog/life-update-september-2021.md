@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/life-update-september-2021'
 title: 'Life update - September 2021'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-09-01T11:53:32-04:00'
-author: Dries
-image: summer-in-boston-2021/dinner
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Travel
   - Photography
   - Boston
   - 'Cape Cod'
   - Iceland
+image: summer-in-boston-2021/dinner
 published: true
-type: blog
-url: /life-update-september-2021
 id: 5226
 ---
+
+# Life update - September 2021
 
 Blogging sometimes feels like talking to an imaginary friend. It's an interesting comparison because it could [help me write more regularly.](https://dri.es/wanted-a-new-blogging-routine) For example: I can picture myself going to dinner with my imaginary friend. Once we sit down, what would we talk about? What would I share?
 

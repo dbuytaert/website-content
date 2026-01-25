@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/principles-for-life'
 title: 'Principles for life'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-01-04T05:48:57-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: note
 tags:
   - Axl
   - Stan
-featured: true
 published: true
-type: note
-url: /principles-for-life
+featured: true
 id: 5286
 ---
+
+# Principles for life
 
 This page started as an email that I sent to my kids in 2013:
 

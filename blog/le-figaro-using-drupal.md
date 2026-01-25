@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/le-figaro-using-drupal'
 title: 'Le Figaro using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-02-22T04:28:24-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - France
   - Publishing
 published: true
-type: blog
-url: /le-figaro-using-drupal
 id: 1466
 ---
+
+# Le Figaro using Drupal
 
 [Le Figaro](http://www.lefigaro.fr), the oldest and second-largest national newspaper in France, started using [Drupal](https://www.drupal.org) for its social features on <http://www.lefigaro.fr>. It is still using its old web content management system to serve its main content, but all of the social features such as comments on articles are now provided by Drupal.
 

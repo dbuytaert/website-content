@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/the-investment-case-for-employing-a-drupal-core-contributor'
 title: 'The investment case for employing a Drupal core contributor'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-05-07T17:40:32-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /the-investment-case-for-employing-a-drupal-core-contributor
 id: 3136
 ---
+
+# The investment case for employing a Drupal core contributor
 
 I've long been convinced that every well-run Drupal agency of 30 people or more can afford to hire a Drupal core contributor and let him/her work on Drupal core pretty much full-time. A healthy Drupal agency with 30 people should be able to do $5MM in revenue at a 15% net profit margin <sup>[\#1](#fn1)</sup>. This means they have $750k in profits that can be invested in growth, saved as reserves, or distributed among the owners.
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/thirteen-recommendations-for-how-to-evolve-drupal-governance'
 title: "Thirteen recommendations for how to evolve Drupal's governance"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-11-13T14:44:25-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "After months of hard work, the Drupal Governance Task Force made thirteen recommendations for how to evolve Drupal's governance."
-image: blog/go-far-go-together
 tags:
   - 'Drupal Association'
   - Drupal
   - Governance
+image: blog/go-far-go-together
 published: true
-type: blog
-url: /thirteen-recommendations-for-how-to-evolve-drupal-governance
 id: 4611
 ---
+
+# Thirteen recommendations for how to evolve Drupal's governance
 
 [image blog/go-far-go-together]
 

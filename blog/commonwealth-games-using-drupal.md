@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/commonwealth-games-using-drupal'
 title: 'Commonwealth Games using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-10-13T16:42:32-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Entertainment
 published: true
-type: blog
-url: /commonwealth-games-using-drupal
 id: 1901
 ---
+
+# Commonwealth Games using Drupal
 
 [image drupal/commonwealth-games-delhi-2010]
 

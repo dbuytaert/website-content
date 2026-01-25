@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/acquia-acquires-mautic-to-create-the-open-digital-experience-platform'
 title: 'Acquia acquires Mautic to create the Open Digital Experience Platform'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-05-08T09:05:25-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Acquia acquired Mautic, the open source marketing automation platform, to deliver the only Open Digital Experience Platform as an alternative to the expensive, closed, and stagnant marketing clouds.'
-image: acquia/acquia-acquires-mautic
 tags:
   - Drupal
   - Acquia
   - Mautic
   - 'Open Source'
+image: acquia/acquia-acquires-mautic
 published: true
-type: blog
-url: /acquia-acquires-mautic-to-create-the-open-digital-experience-platform
 id: 4846
 ---
+
+# Acquia acquires Mautic to create the Open Digital Experience Platform
 
 [image acquia/acquia-acquires-mautic resize=false]
 

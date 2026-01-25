@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/hermes-using-drupal'
 title: 'Hermès using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-10-06T11:40:04-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The iconic fashion brand Hermès launched its new site in Drupal'
 tags:
   - Drupal
   - 'Drupal sites'
 published: true
-type: blog
-url: /hermes-using-drupal
 id: 4041
 ---
+
+# Hermès using Drupal
 
 [image drupal/hermes resize=false]
 

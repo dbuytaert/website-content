@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/new-features-for-drupal-mollom-module'
 title: "New features for Drupal's Mollom module "
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-02-16T03:54:17-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Mollom
 published: true
-type: blog
-url: /new-features-for-drupal-mollom-module
 id: 1442
 ---
+
+# New features for Drupal's Mollom module 
 
 It's been a year since our last significant changes to the [Mollom module for Drupal](https://www.drupal.org/project/mollom), so we're excited to announce a major update. The most exciting new features in the new Mollom 1.11 release include:
 

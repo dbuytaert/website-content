@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/everyone-should-be-a-millionaire'
 title: 'Everyone should be a millionaire'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-12-21T10:29:47-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Finance
 published: true
-type: blog
-url: /everyone-should-be-a-millionaire
 id: 2051
 ---
+
+# Everyone should be a millionaire
 
 Like everyone else, I have to assume that I need to take care of my own retirement. I only finished school 3 years ago, so I don't have a lot of money. However, by the time I retire, I'd like to have at least a million euros in my bank account. Bing! And I think you should too.
 

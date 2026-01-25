@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-and-the-onion'
 title: 'Drupal and The Onion'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-06-22T11:51:46-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - 'San Francisco'
 published: true
-type: blog
-url: /drupal-and-the-onion
 id: 287
 ---
+
+# Drupal and The Onion
 
 For more than a year, [The Onion](http://theonion.com), a fake news site, has been using Drupal. They have millions of visitors a day, and probably have one of the most popular Drupal sites in the world (not to mention one of the funniest Drupal sites in the world).
 

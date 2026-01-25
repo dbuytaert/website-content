@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/acquia-goes-to-the-caribbean'
 title: 'Acquia goes to the Caribbean'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-04-25T10:22:12-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
 published: true
-type: blog
-url: /acquia-goes-to-the-caribbean
 id: 2316
 ---
+
+# Acquia goes to the Caribbean
 
 [image puerto-rico-2011/beach-on-private-island]
 

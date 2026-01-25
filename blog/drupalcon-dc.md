@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupalcon-dc'
 title: 'DrupalCon DC'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-03-02T01:55:21-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - Acquia
 published: true
-type: blog
-url: /drupalcon-dc
 id: 607
 ---
+
+# DrupalCon DC
 
 Drupal has thousands of contributors. About twice a year, we stop contributing long enough to have a beer together. We call that DrupalCon. ;-)
 

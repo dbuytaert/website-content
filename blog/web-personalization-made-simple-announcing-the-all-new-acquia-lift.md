@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/web-personalization-made-simple-announcing-the-all-new-acquia-lift'
 title: 'Web personalization made simple: announcing the all-new Acquia Lift'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-06-18T06:15:13-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The new version of Acquia Lift makes it simpler for marketers to run website personalization campaigns themselves, without the need for writing code.'
 tags:
   - Drupal
   - Acquia
   - 'Acquia Lift'
 published: true
-type: blog
-url: /web-personalization-made-simple-announcing-the-all-new-acquia-lift
 id: 4871
 ---
+
+# Web personalization made simple: announcing the all-new Acquia Lift
 
 Today, [we released a new version of Acquia Lift](https://www.acquia.com/about-us/newsroom/press-releases/acquia-unveils-faster-easier-personalization-marketers), our web personalization tool.
 

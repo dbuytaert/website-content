@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/neil-drumm'
 title: 'Neil Drumm'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-05-03T11:50:43-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Branch maintainer'
 published: true
-type: blog
-url: /neil-drumm
 id: 66
 ---
+
+# Neil Drumm
 
 Two months ago I invited [Neil Drumm](http://delocalizedham.com/) to become a *core committer* of the next Drupal version. For the duration of one release cycle, Neil will help [Steven Wittens](http://acko.net/) and myself to shape the face of the next Drupal version by identifying and coordinating interesting development efforts. I haven't been very verbose about my choice of Neil, but I figured it would be a pretty good hint as what I'd like to see us work on. Not unsurprisingly, this went mostly unnoticed.
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/goodbye-third-party-cookies'
 title: 'Goodbye third-party cookies'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-02-05T06:57:52-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The phase-out of invasive third-party cookies marks a big step towards an Open Web that values privacy.'
-image: drupal/cookieless-future
 tags:
   - 'Open Web'
   - Privacy
+image: drupal/cookieless-future
 published: true
-type: blog
-url: /goodbye-third-party-cookies
 id: 5561
 ---
+
+# Goodbye third-party cookies
 
 [image drupal/cookieless-future schema=false]
 

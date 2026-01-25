@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-7-to-be-released-on-january-5th-with-one-ginormous-party'
 title: 'Drupal 7 to be released on January 5th (with one ginormous party)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-12-21T14:26:24-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-7-to-be-released-on-january-5th-with-one-ginormous-party
 id: 2061
 ---
+
+# Drupal 7 to be released on January 5th (with one ginormous party)
 
 Drupal 7 has been a multi-year effort on behalf of over 1,000 contributors. Since February 2008, we've manged to make enormous improvements; it is a true [metamorphosis for designers, developers, and administrators](https://dri.es/drupal-7-the-cocoon-and-the-butterfly).
 

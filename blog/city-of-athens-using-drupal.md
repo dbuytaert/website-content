@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/city-of-athens-using-drupal'
 title: 'City of Athens using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-03-10T06:20:03-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Greece
   - Government
 published: true
-type: blog
-url: /city-of-athens-using-drupal
 id: 1521
 ---
+
+# City of Athens using Drupal
 
 The [City of Athens](http://www.cityofathens.gr/) has launched a new [Drupal](https://www.drupal.org) site to serve as [its official website](http://www.cityofathens.gr/), along with a Drupal-based site at <http://www.breathtakingathens.com/> that provides visitor and tourism information.
 

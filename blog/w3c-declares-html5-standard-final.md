@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/w3c-declares-html5-standard-final'
 title: 'W3C declares HTML5 standard final'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-10-29T07:14:00-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Web'
 published: true
-type: blog
-url: /w3c-declares-html5-standard-final
 id: 3266
 ---
+
+# W3C declares HTML5 standard final
 
 After 10 years of development, the W3C has promoted HTML5 to "Recommendation" yesterday: https://www.w3.org/blog/news/archives/4167. W3C's "Recommendation" status is the highest level of maturation, effectively making the markup language a formal standard.
 

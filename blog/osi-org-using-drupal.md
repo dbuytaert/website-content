@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/osi-org-using-drupal'
 title: 'OSI using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-04-02T11:50:52-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Non-profit
 published: true
-type: blog
-url: /osi-org-using-drupal
 id: 245
 ---
+
+# OSI using Drupal
 
 The [Open Source Initiative (OSI)](https://opensource.org/) is using Drupal for their official website at [http://opensource.org](https://opensource.org/).
 

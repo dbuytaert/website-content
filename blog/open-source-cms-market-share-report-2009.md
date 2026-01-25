@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/open-source-cms-market-share-report-2009'
 title: 'Open Source CMS market share report 2009'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-11-09T04:37:04-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Joomla
   - WordPress
 published: true
-type: blog
-url: /open-source-cms-market-share-report-2009
 id: 1186
 ---
+
+# Open Source CMS market share report 2009
 
 The [2009 Open Source CMS market share report](https://www.cmswire.com/downloads/cms-market-share/) was released a couple of weeks ago. The report concludes that [WordPress](http://wordpress.org), [Joomla!](https://joomla.org) and [Drupal](https://www.drupal.org) maintain a large lead on the rest of the pack, and that they are the dominant players in the market.
 

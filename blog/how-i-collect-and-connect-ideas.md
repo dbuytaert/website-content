@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/how-i-collect-and-connect-ideas'
 title: 'How I collect and connect ideas'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-06-24T04:04:20-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How I use Obsidian to build a knowledge base that helps me think better, connect ideas in writing, and pursue projects.'
-image: miscellaneous-2023/champagne-tunnel
 tags:
   - Writing
   - Markdown
-featured: false
+image: miscellaneous-2023/champagne-tunnel
 published: true
-type: blog
-url: /how-i-collect-and-connect-ideas
+featured: false
 id: 5831
 ---
+
+# How I collect and connect ideas
 
 [image miscellaneous-2023/champagne-tunnel caption=false]
 

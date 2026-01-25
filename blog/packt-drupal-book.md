@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/packt-drupal-book'
 title: "David's Drupal book in the mail"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-05-29T03:43:25-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal books'
 published: true
-type: blog
-url: /packt-drupal-book
 id: 84
 ---
+
+# David's Drupal book in the mail
 
 David Mercer has written a Drupal book: [Drupal: creating blogs, forums, portals, and community websites](https://www.packtpub.com/drupal/book/). The book is published by [Packt](https://www.packtpub.com/), who mailed me a number of free copies to give away at future Drupal events.
 

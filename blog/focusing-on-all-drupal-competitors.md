@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/focusing-on-all-drupal-competitors'
 title: 'Focusing on all Drupal competitors'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-04-15T08:08:56-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - WordPress
 published: true
-type: blog
-url: /focusing-on-all-drupal-competitors
 id: 2301
 ---
+
+# Focusing on all Drupal competitors
 
 At times, it feels like many of us in the Drupal community are a bit too focused on [WordPress](http://wordpress.org).
 

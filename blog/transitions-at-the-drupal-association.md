@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/transitions-at-the-drupal-association'
 title: 'Transitions at the Drupal Association'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-06-28T13:25:50-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
   - 'Leadership updates'
-featured: false
 published: true
-type: blog
-url: /transitions-at-the-drupal-association
+featured: false
 id: 2721
 ---
+
+# Transitions at the Drupal Association
 
 I helped start the [Drupal Association](https://association.drupal.org) in 2006 because we needed a checking account for the $10,000 or so required to produce a Drupal conference and to support our infrastructure. In a short six years, we grew the Drupal Association from a volunteer-run organization to one of the largest Open Source non-profit foundations with an operating budget of $3 million USD and 8 full-time employees. Today, we support over 18,000 developers, 9,000 conference attendees, 2,300 individual donors, 800 organizations, and a web presence that reaches over two million people every month.
 

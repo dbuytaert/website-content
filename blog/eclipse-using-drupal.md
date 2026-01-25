@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/eclipse-using-drupal'
 title: 'Eclipse using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-07-04T16:12:19-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
 published: true
-type: blog
-url: /eclipse-using-drupal
 id: 293
 ---
+
+# Eclipse using Drupal
 
 [Eclipse](https://www.eclipse.org/), the Open Source IDE/framework originally from IBM, is using Drupal for [Eclipse Live](https://www.youtube.com/user/EclipseFdn):
 

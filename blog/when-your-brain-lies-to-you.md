@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/when-your-brain-lies-to-you'
 title: 'When your brain lies to you'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-11-10T08:52:22-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Chess
 published: true
-type: blog
-url: /when-your-brain-lies-to-you
 id: 5936
 ---
+
+# When your brain lies to you
 
 A friend texted me after his chess rating dropped. He had played a game right after a ten-hour flight, completely exhausted. I've done the same.
 

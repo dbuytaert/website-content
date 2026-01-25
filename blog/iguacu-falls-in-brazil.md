@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/iguacu-falls-in-brazil'
 title: 'Iguacu Falls in Brazil'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-10-22T10:49:07-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Travel
   - Brazil
 published: true
-type: blog
-url: /iguacu-falls-in-brazil
 id: 2546
 ---
+
+# Iguacu Falls in Brazil
 
 [image brazil-2011/iguacu-falls-1]
 [image brazil-2011/iguacu-falls-3]

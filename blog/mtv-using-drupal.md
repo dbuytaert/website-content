@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/mtv-using-drupal'
 title: 'MTV using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-09-01T12:35:22-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Broadcasting
   - Music
 published: true
-type: blog
-url: /mtv-using-drupal
 id: 134
 ---
+
+# MTV using Drupal
 
 MTV UK is now using [Drupal](https://www.drupal.org/)! According to the [official press release](https://www.lullabot.com/articles/press_release_lullabot_drupal_and_mtv_uk), the new Drupal-based [MTV UK website](http://www.mtv.co.uk/) will continue to host news and information for their broadcast channels.
 

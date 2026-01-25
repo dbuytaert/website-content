@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/gabor-hojtsy'
 title: 'Gábor Hojtsy'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-04-17T05:42:04-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Branch maintainer'
 published: true
-type: blog
-url: /gabor-hojtsy
 id: 256
 ---
+
+# Gábor Hojtsy
 
 Two months ago I invited [Gábor Hojtsy](http://hojtsy.hu/) to become a co-maintainer of Drupal 6, the next major Drupal version.
 

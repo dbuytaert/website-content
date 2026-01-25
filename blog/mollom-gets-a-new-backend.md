@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/mollom-gets-a-new-backend'
 title: 'Mollom gets a new backend'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-12-14T09:41:39-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
 published: true
-type: blog
-url: /mollom-gets-a-new-backend
 id: 2036
 ---
+
+# Mollom gets a new backend
 
 Over the past five months, we've been giving the Mollom backend a massive overhaul. To support this effort, we've extended the team with two part-time engineers; [Johan Vos](http://blogs.lodgon.com/johan/) and [Thomas Meire](https://twitter.com/blackskad), who jointly took on the task of converting our old Java backend to a new Java EE backend based on [Glassfish](http://javaee.github.io/glassfish). (Glassfish is the Open Source Reference Implementation of the [Java EE specification](https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition).) Along the way, we upgraded our servers and rolled out [Hudson](http://hudson-ci.org/) to provide for continuous testing and deployment of the backend across all our servers. All in all, it's been a productive summer and fall at [Mollom](https://mollom.com).
 

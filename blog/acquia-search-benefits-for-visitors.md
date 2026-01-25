@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-search-benefits-for-visitors'
 title: 'Acquia Search: benefits for visitors'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-06-30T14:18:48-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Search'
 published: true
-type: blog
-url: /acquia-search-benefits-for-visitors
 id: 721
 ---
+
+# Acquia Search: benefits for visitors
 
 Why will the visitors of your site care about [Acquia Search](https://www.acquia.com/products-services/acquia-search)? For a while now, I have Acquia Search installed on my personal site. To understand what Acquia Search can do for your site, have a look at what it has done for my site. While I have a very simple Drupal site, you should be able to experience some of the benefits of Acquia Search.
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-usability-testing'
 title: 'Drupal usability testing'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-02-03T07:58:09-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - Usability
   - Testing
 published: true
-type: blog
-url: /drupal-usability-testing
 id: 396
 ---
+
+# Drupal usability testing
 
 When [I predicted](https://dri.es/drupal-predictions-for-2008) that there would be a big and concentrated effort to further improve Drupal's ease of use in 2008, I was cheating a bit ... The past months we've been preparing some [formal usability testing](https://en.wikipedia.org/wiki/Usability_testing) for Drupal that will be conducted at the [University of Minnesota Office for Information Technology's usability lab](http://1help.umn.edu/usability/lab.html). The university has a professional usability lab that will allow us to [record eye-tracking data and video](http://1help.umn.edu/usability/gallery.html#gazeplot) which will be provided to the [Drupal community](https://www.drupal.org). *Très cool!*
 

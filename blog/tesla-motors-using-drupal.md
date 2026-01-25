@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/tesla-motors-using-drupal'
 title: 'Tesla Motors using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-02-08T12:32:26-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Acquia
   - Automotive
 published: true
-type: blog
-url: /tesla-motors-using-drupal
 id: 2176
 ---
+
+# Tesla Motors using Drupal
 
 Tesla Motors is using Drupal for their website: <http://www.teslamotors.com>. Really beautiful design.
 

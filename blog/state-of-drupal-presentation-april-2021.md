@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-april-2021'
 title: 'State of Drupal presentation (April 2021)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-04-22T10:19:08-04:00'
-author: Dries
-image: drupalcon-north-america-2021/site-builders-experience
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
   - 'State of Drupal'
   - DrupalCon
+image: drupalcon-north-america-2021/site-builders-experience
 published: true
-type: blog
-url: /state-of-drupal-presentation-april-2021
 id: 5206
 ---
+
+# State of Drupal presentation (April 2021)
 
 Last week, Drupalists around the world gathered virtually for DrupalCon North America 2021.
 

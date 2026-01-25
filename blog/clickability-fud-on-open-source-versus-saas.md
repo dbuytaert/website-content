@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/clickability-fud-on-open-source-versus-saas'
 title: 'Clickability FUD on Open Source versus SaaS'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-06-17T06:12:53-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Gardens'
   - FUD
   - 'Open Source'
 published: true
-type: blog
-url: /clickability-fud-on-open-source-versus-saas
 id: 1706
 ---
+
+# Clickability FUD on Open Source versus SaaS
 
 [Clickability](http://clickability.com), a proprietary SaaS platform for content management, has [compared SaaS to Open Source](http://www.clickability.com/SaaS_versus_Open_Source.html). Not only is the comparison inaccurate, it omits the downsides of SaaS and frankly, they are comparing apples to oranges. Open Source is a licensing and development model, SaaS is a software delivery model. Either they are distorting things on purpose, or they don't understand Open Source at all. In other words, time to look at some good ol' [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt) and to share my take on Open Source versus SaaS.
 

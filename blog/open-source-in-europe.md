@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/open-source-in-europe'
 title: 'Open Source in Europe'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-01-17T10:25:12-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /open-source-in-europe
 id: 206
 ---
+
+# Open Source in Europe
 
 The European Commission published an interesting [study on the impact of Free and Open Source Software on the European economy](http://ec.europa.eu/enterprise/ict/policy/doc/2006-11-20-flossimpact.pdf) (PDF, 287 pages). Based on an empirical study of the European IT market and forecasting techniques, the following is one of many interesting conclusions:
 

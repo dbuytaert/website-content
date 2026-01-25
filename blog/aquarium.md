@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/aquarium'
 title: Aquarium
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-08-15T23:01:37-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Boston
 published: true
-type: blog
-url: /aquarium
 id: 1781
 ---
+
+# Aquarium
 
 Visited the Boston Aquarium on Axl's birthday.
 

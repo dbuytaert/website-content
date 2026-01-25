@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-raises-7-million-series-a'
 title: 'Acquia raises $7 million series A'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-12-19T08:07:41-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
-featured: true
 published: true
-type: blog
-url: /acquia-raises-7-million-series-a
+featured: true
 id: 371
 ---
+
+# Acquia raises $7 million series A
 
 Today we announced that [Acquia has raised $7 million](https://www.acquia.com/press-release-1) from a group of venture capital (VC) firms. That's a wonderful vote of confidence in Drupal, and a testament to the incredible opportunity that lies before all of us. And it means that Acquia is going to be able to help the [Drupal community](https://www.drupal.org) make Drupal even better.
 

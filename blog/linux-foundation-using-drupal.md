@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/linux-foundation-using-drupal'
 title: 'Linux Foundation using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-04-17T07:48:22-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Non-profit
 published: true
-type: blog
-url: /linux-foundation-using-drupal
 id: 629
 ---
+
+# Linux Foundation using Drupal
 
 In 1996, Linux kernel development is what first attracted me to Open Source, and what led me to contribute to the Linux WLAN project in 1999. Ever since, I've worked on or with Open Source projects pretty much full-time.
 

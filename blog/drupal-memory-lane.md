@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-memory-lane'
 title: 'Drupal memory lane'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-09-17T16:36:48-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Press
 published: true
-type: blog
-url: /drupal-memory-lane
 id: 326
 ---
+
+# Drupal memory lane
 
 I was recently interviewed by Janani Gopalakrishnan for the July 2007 issue of [Linux For You](http://www.linuxforu.com/), the leading Linux and Open Source magazine in India.
 

@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/nvidia-using-drupal'
 title: 'NVidia using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-01-26T09:47:02-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
@@ -10,10 +15,10 @@ tags:
   - 'Mollom sites'
   - 'Acquia Cloud'
 published: true
-type: blog
-url: /nvidia-using-drupal
 id: 1376
 ---
+
+# NVidia using Drupal
 
 [NVidia](http://nvidia.com) recently launched their [new Tegra developer community](https://developer.nvidia.com/tegra-development) on [Drupal](https://www.drupal.org). See <https://developer.nvidia.com/tegra-development>. The announcement of the latest Tegra 2 chipset was one of the major news items at [CES](https://en.wikipedia.org/wiki/Consumer_Electronics_Show) earlier this month. The Tegra 2 chipset incorporates 8 independent processors to handle web browsing, HD video encoding/decoding as well as mobile gaming, all with very low power consumption. It is perfect for tablets ...
 

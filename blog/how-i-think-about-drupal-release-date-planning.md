@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/how-i-think-about-drupal-release-date-planning'
 title: 'How I think about Drupal release date planning'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-06-14T13:02:36-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /how-i-think-about-drupal-release-date-planning
 id: 2401
 ---
+
+# How I think about Drupal release date planning
 
 Two recent blog posts explained what I think the Drupal development cycle is like; see [the Gartner hype cycle and Drupal](https://dri.es/the-gartner-hype-cycle-and-drupal) and [the Drupal mood cycle](https://dri.es/the-drupal-mood-cycle). These thoughts came from living through many major Drupal releases and noticing patterns of developer and user mood as release dates approached and receded. Make sure to read these posts first, before reading this one.
 

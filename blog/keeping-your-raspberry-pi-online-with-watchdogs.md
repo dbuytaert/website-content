@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/keeping-your-raspberry-pi-online-with-watchdogs'
 title: 'Keeping your Raspberry Pi online with watchdogs'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-03-05T16:48:25-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How hardware and software watchdogs keep your Raspberry Pi running by detecting failures and triggering automatic reboots in hard to get to locations.'
-image: blog/raspberry-pi-4-enclosure
 tags:
   - 'Solar power'
   - 'Raspberry Pi'
   - Automation
-featured: false
+image: blog/raspberry-pi-4-enclosure
 published: true
-type: blog
-url: /keeping-your-raspberry-pi-online-with-watchdogs
+featured: false
 id: 5771
 ---
+
+# Keeping your Raspberry Pi online with watchdogs
 
 A while back, I built a [solar-powered, self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website). Running a website entirely on renewable energy felt like a win, until my Raspberry Pi Zero 2 W started *ghosting* me.
 

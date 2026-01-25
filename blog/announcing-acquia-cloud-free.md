@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/announcing-acquia-cloud-free'
 title: 'Announcing Acquia Cloud Free'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-09-12T08:59:09-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
   - 'Acquia Cloud'
   - 'Acquia Search'
 published: true
-type: blog
-url: /announcing-acquia-cloud-free
 id: 3036
 ---
+
+# Announcing Acquia Cloud Free
 
 I'm excited to announce that Acquia is launching [Acquia Cloud Free](https://www.acquia.com/products-services/acquia-cloud-free), a no-cost development sandbox for Drupal development. While Acquia has always had a freemium offer for development purposes, it had an expiration date, and it required a credit card. We've changed that with Acquia Cloud Free. Acquia Cloud Free comes packed with great tools including, but not limited to:
 

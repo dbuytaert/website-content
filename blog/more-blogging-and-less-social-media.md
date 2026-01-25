@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/more-blogging-and-less-social-media'
 title: 'More blogging and less social media'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-01-02T09:53:27-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Entering 2018, I plan on setting a New Years' resolution of using social media less, and blogging more."
 tags:
   - 'Open Web'
   - 'Social media'
 published: true
-type: blog
-url: /more-blogging-and-less-social-media
 id: 4116
 ---
+
+# More blogging and less social media
 
 Happy New Year! 2017 was a busy and eventful year – both professionally and personally. In many ways, 2017 was the most challenging and best year to date. I'm excited about 2018 and optimistic about what it has in store.
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/how-the-ymca-uses-drupal-to-accelerate-its-mission'
 title: 'How the YMCA uses Drupal to accelerate its mission'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-03-17T13:00:10-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How the YMCA uses Drupal to provide all YMCAs a shared platform to operate their websites.'
-image: drupal/ymca-using-drupal
 tags:
   - Drupal
   - 'Drupal sites'
   - 'Drupal distributions'
+image: drupal/ymca-using-drupal
 published: true
-type: blog
-url: /how-the-ymca-uses-drupal-to-accelerate-its-mission
 id: 3891
 ---
+
+# How the YMCA uses Drupal to accelerate its mission
 
 [image drupal/ymca-using-drupal]
 

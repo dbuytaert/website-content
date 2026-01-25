@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/promoting-the-drupal-community-from-within-the-drupal-software'
 title: 'Promoting the Drupal community from within the Drupal software'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-04-26T11:57:40-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Should we add an 'About Drupal' section to the Drupal administration backend?"
 tags:
   - Drupal
 published: true
-type: blog
-url: /promoting-the-drupal-community-from-within-the-drupal-software
 id: 4306
 ---
+
+# Promoting the Drupal community from within the Drupal software
 
 Jacob Rockowitz recently posted a blog post with [ideas about how we can make Drupal more welcoming](https://www.jrockowitz.com/blog/content-first-technology-second).
 

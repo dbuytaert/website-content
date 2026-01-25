@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-graffiti'
 title: 'Drupal graffiti'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-06-03T03:48:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-graffiti
 id: 664
 ---
+
+# Drupal graffiti
 
 [image drupal/druplicon-graffiti]
 

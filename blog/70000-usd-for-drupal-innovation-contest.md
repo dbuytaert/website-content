@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/70000-usd-for-drupal-innovation-contest'
 title: '$70,000 USD for Drupal innovation contest'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-05-01T18:00:20-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'We secured $70,000 in funding for our innovation contest and are inviting more participants to drive innovation in the Drupal community.'
-image: drupal/pitch-burgh-70000
 tags:
   - Drupal
   - 'Drupal Association'
   - Acquia
+image: drupal/pitch-burgh-70000
 published: true
-type: blog
-url: /70000-usd-for-drupal-innovation-contest
 id: 5461
 ---
+
+# $70,000 USD for Drupal innovation contest
 
 [image drupal/pitch-burgh-70000 resize=false]
 

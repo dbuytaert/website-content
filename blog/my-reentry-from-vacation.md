@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/my-reentry-from-vacation'
 title: 'My re-entry from vacation'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-09-04T06:08:23-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Travel
 published: true
-type: blog
-url: /my-reentry-from-vacation
 id: 4496
 ---
+
+# My re-entry from vacation
 
 Today is the first day back from my two-week vacation. We started [our vacation in Maine](https://dri.es/our-vacation-at-acadia-national-park), and we ended our vacation with a few days in Italy.
 

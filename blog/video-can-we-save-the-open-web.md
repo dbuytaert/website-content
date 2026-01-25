@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/video-can-we-save-the-open-web'
 title: 'Video: Can we save the open web? '
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-04-25T14:50:20-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Video: Can we save the open web?'
 tags:
   - Drupal
@@ -9,10 +14,10 @@ tags:
   - 'Open Web'
   - Government
 published: true
-type: blog
-url: /video-can-we-save-the-open-web
 id: 3651
 ---
+
+# Video: Can we save the open web? 
 
 In March, I did a presentation at SxSW that asked the audience a question I've been thinking about a lot lately: "Can we save the open web?".
 

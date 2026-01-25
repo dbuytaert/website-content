@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-takes-over-a-subway-station'
 title: 'Acquia takes over a subway station'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-02-27T10:33:59-05:00'
-author: Dries
-image: acquia/kendall-square-takeover-2019-sarah
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
+image: acquia/kendall-square-takeover-2019-sarah
 published: true
-type: blog
-url: /acquia-takes-over-a-subway-station
 id: 4776
 ---
+
+# Acquia takes over a subway station
 
 If you pass through [Kendall Square](https://en.wikipedia.org/wiki/Kendall_Square) [MBTA station](https://en.wikipedia.org/wiki/Massachusetts_Bay_Transportation_Authority) in the Boston area, you'll see a station "takeover" starting this week featuring the Acquia brand.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/from-b2c-to-b2one'
 title: 'From B2C to B2One'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-11-12T03:49:35-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The B2One paradigm will be a very dramatic shift that disrupts existing business models and every single industry.'
 tags:
   - 'Open Web'
   - Trends
 published: true
-type: blog
-url: /from-b2c-to-b2one
 id: 3476
 ---
+
+# From B2C to B2One
 
 The Industrial Revolution, started in the middle of the 18th century, transformed the world. It marks the start of a major turning point in history that would influence almost every aspect of daily life. The Industrial Revolution meant the shift from handmade to machine-made products and increased productivity and capacity. Technological change also enabled the growth of capitalism. Factory owners and others who controlled the means of production rapidly became very rich and working conditions in the factories were often less than satisfactory. It wasn't until the 20th century, 150 years after its beginning, that the Industrial Revolution ended creating a much higher standard of living than had ever been known in the pre-industrial world. Consumers benefited from falling prices for clothing and household goods. The impact on natural resources, public health, energy, medicine, housing and sanitation meant that chronic hunger, famines and malnutrition started to disappear and the life expectancy started to increase dramatically.
 

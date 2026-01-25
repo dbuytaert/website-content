@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/increasing-drupal-speaker-diversity'
 title: 'Increasing Drupal speaker diversity'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-08-12T15:44:30-04:00'
-author: Dries
-image: blog/increasing-diversity
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Diversity
+image: blog/increasing-diversity
 published: true
-type: blog
-url: /increasing-drupal-speaker-diversity
 id: 4906
 ---
+
+# Increasing Drupal speaker diversity
 
 [image blog/increasing-diversity]
 

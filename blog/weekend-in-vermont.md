@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/weekend-in-vermont'
 title: 'Weekend in Vermont'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-03-28T10:06:22-04:00'
-author: Dries
-image: vermont-2022/baby-barn-1
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Vanessa
   - Photography
   - Travel
   - Vermont
+image: vermont-2022/baby-barn-1
 published: true
-type: blog
-url: /weekend-in-vermont
 id: 5311
 ---
+
+# Weekend in Vermont
 
 Set back in the woods, in the [Vermont](https://en.wikipedia.org/wiki/Vermont) foothills, only accessible by a dirt road, you'll find the perfect weekend cabin called the "Baby Barn".
 

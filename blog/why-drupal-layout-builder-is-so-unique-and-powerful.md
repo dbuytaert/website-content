@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/why-drupal-layout-builder-is-so-unique-and-powerful'
 title: "Why Drupal's Layout Builder is so powerful and unique"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-11-12T07:02:32-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Layout Builder, which will be in the next release of Drupal 8, is unique in that it can work with structured and unstructured content, and with templated and free-form pages.'
-image: drupal/layout-builder-gift-basket-regular
 tags:
   - Drupal
+image: drupal/layout-builder-gift-basket-regular
 published: true
-type: blog
-url: /why-drupal-layout-builder-is-so-unique-and-powerful
 id: 4606
 ---
+
+# Why Drupal's Layout Builder is so powerful and unique
 
 Content authors want an easy-to-use page building experience; they want to create and design pages using drag-and-drop and WYSIWYG tools. For over a year the Drupal community has been working on a new Layout Builder, which is designed to bring this page building capability into Drupal core.
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/contributing-back-to-drupal'
 title: 'Contributing back to Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-12-17T07:08:57-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /contributing-back-to-drupal
 id: 557
 ---
+
+# Contributing back to Drupal
 
 I've met several Drupal companies lately and am finding it hard to believe that so many companies don't contribute back. When asked, most of them express how much they'd like to contribute back to the community, but simply don't know how to make it work financially. They feel that they don't yet have the time or resources. In other words, while they have an objective, they've consistently failed to translate it into an executable strategy. An objective without strategy, or a strategy without execution remains a dream.
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-mentioned-in-forbes'
 title: 'Drupal mentioned in Forbes'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-04-23T08:15:00-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-mentioned-in-forbes
 id: 636
 ---
+
+# Drupal mentioned in Forbes
 
 [image drupal/forbes-2009]
 

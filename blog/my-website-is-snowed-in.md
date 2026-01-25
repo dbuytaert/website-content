@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/my-website-is-snowed-in'
 title: 'My website is snowed in'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-12-28T05:53:49-05:00'
-author: Dries
-image: miscellaneous-2024/solar-panel-on-roofdeck
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Solar power'
   - 'Raspberry Pi'
-featured: false
+image: miscellaneous-2024/solar-panel-on-roofdeck
 published: true
-type: blog
-url: /my-website-is-snowed-in
+featured: false
 id: 6016
 ---
+
+# My website is snowed in
 
 My [solar-powered website](https://dri.es/my-solar-powered-and-self-hosted-website) just crossed 500 days of uptime. It took the biggest snowstorm in nearly three years to put that streak at risk.
 

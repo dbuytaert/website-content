@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/how-al-jazeera-successfully-managed-through-the-turmoil'
 title: 'How Al Jazeera successfully managed through the turmoil'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-03-02T11:34:19-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Cloud'
   - Publishing
 published: true
-type: blog
-url: /how-al-jazeera-successfully-managed-through-the-turmoil
 id: 2216
 ---
+
+# How Al Jazeera successfully managed through the turmoil
 
 *The following blog post was published as [a guest blog post on Forbes.com](https://www.forbes.com/sites/ciocentral/2011/03/02/how-al-jazeera-successfully-managed-through-the-turmoil/). I wrote it after Al Jazeera successfully moved some of their Drupal sites from their traditional hosting company to Acquia Hosting (now called [Acquia Managed Cloud](https://dri.es/introducing-acquia-dev-cloud)) to help them survive a 2,000% traffic increase as a result of the crises in the Middle East. The blog post provides real proof of how the Cloud helped one of the largest news organizations in the world survive one of the largest political events in the world. A fascinating story for Drupal!*
 

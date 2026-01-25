@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/joomla-vs-drupal-business-models-and-commercial-ecosystem'
 title: 'Joomla vs Drupal: business models and commercial ecosystem'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-05-11T08:32:09-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Joomla
   - 'Business model'
-featured: false
 published: true
-type: blog
-url: /joomla-vs-drupal-business-models-and-commercial-ecosystem
+featured: false
 id: 1621
 ---
+
+# Joomla vs Drupal: business models and commercial ecosystem
 
 I just got back from [CMSExpo in Chicago](http://cmsexpo.net) where I spent a few days surrounded by Joomla people. Although the CMSExpo conference started as a Joomla-only event, it has since opened up to other Open Source content management systems including [Drupal](https://www.drupal.org), [Wordpress](http://wordpress.org), [Plone](http://plone.org) and more. Due to its background, however, it's still heavy on [Joomla](https://joomla.org), and as a result, I had the opportunity to meet a lot of influential people in the Joomla community, including a few Joomla co-founders and members of the Joomla leadership team. I'd like to share my observations, since they are relevant for all of us in the Drupal community.
 

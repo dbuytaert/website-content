@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/thirty'
 title: Thirty
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-11-19T02:11:42-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Birthday
-featured: true
 published: true
-type: blog
-url: /thirty
+featured: true
 id: 536
 ---
+
+# Thirty
 
 When I was 20, my favorite quote was: *"Flying is learning how to throw yourself at the ground and miss" (Douglas Adams)*.
 

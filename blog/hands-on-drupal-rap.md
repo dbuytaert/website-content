@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/hands-on-drupal-rap'
 title: '"Hands on Drupal" rap'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-03-23T05:07:54-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /hands-on-drupal-rap
 id: 1541
 ---
+
+# "Hands on Drupal" rap
 
 <object width="500" height="375">
   <param name="allowfullscreen" value="true">

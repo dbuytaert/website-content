@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-is-a-young-adult'
 title: 'Drupal is a young adult'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-09-22T10:07:38-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Growing up is inevitable and part of growing is learning to take on more and bigger problems.'
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-is-a-young-adult
 id: 1036
 ---
+
+# Drupal is a young adult
 
 In [my DrupalCon Paris presentation](https://dri.es/state-of-drupal-presentation-september-2009) I talked about what it means for Drupal to grow up – and I wanted to elaborate on that a bit more in this blog post. I hope that the analogy that I'll use in this post can provide a framework for thinking and discussion about it.
 

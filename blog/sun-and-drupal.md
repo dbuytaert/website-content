@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/sun-and-drupal'
 title: 'Sun and Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-12-14T07:18:22-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Sun donated a SunFire X4200 to the Drupal project'
 tags:
   - Drupal
@@ -9,10 +14,10 @@ tags:
   - 'Drupal Association'
   - 'Sun Microsystems'
 published: true
-type: blog
-url: /sun-and-drupal
 id: 370
 ---
+
+# Sun and Drupal
 
 [Sun Microsystems](http://sun.com) has been active in the Drupal community and recently gave a presentation at [DrupalCon Barcelona](https://dri.es/drupalcon-barcelona) as well as helped sponsor Drupal events. Recently, Sun also made a second hardware donation to the [Drupal Association](https://association.drupal.org): a [SunFire X4200](https://en.wikipedia.org/wiki/Sun_Fire) to support the Drupal.org infrastructure. The first hardware donation was a Sun Fire V20z back in 2005.
 

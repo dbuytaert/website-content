@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/second-wedding-anniversary'
 title: 'Second wedding anniversary'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-03-25T02:25:16-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Karlijn
   - Family
   - Self-portrait
 published: true
-type: blog
-url: /second-wedding-anniversary
 id: 418
 ---
+
+# Second wedding anniversary
 
 [image wedding-stefaan-and-anneleen-2008/marriage-21]
 

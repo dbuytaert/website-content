@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/forrester-reports-on-drupal'
 title: 'Forrester reports on Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-07-11T05:04:08-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Statistics
   - Forrester
 published: true
-type: blog
-url: /forrester-reports-on-drupal
 id: 105
 ---
+
+# Forrester reports on Drupal
 
 [Forrester Research](https://www.forrester.com/) published two reports on [Drupal](https://www.drupal.org/). A [6-page report on Drupal itself](https://www.forrester.com/Research/Document/Excerpt/0,7211,39747,00.html), and a [15-page report that compares blogging platforms](https://www.forrester.com/Research/Document/Excerpt/0,7211,37147,00.html) (including Drupal). I don't have access to the reports but here is the executive summary that was published on their website:
 

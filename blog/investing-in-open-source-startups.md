@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/investing-in-open-source-startups'
 title: 'Investing in Open Source startups'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-06-10T04:34:53-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Investing
   - 'Open Source'
   - 'Startup lessons'
   - Mautic
 published: true
-type: blog
-url: /investing-in-open-source-startups
 id: 3716
 ---
+
+# Investing in Open Source startups
 
 From [the day we started Acquia](https://dri.es/acquia-my-drupal-startup), we had big dreams: we wanted to build a successful company, while giving back to the Open Source community. Michael Skok was our first investor in [Acquia](https://www.acquia.com) and instrumental in making Acquia one of the largest Open Source companies in the world, creating hundreds of careers for people passionate about Open Source. This week, Michael and his team officially announced a new venture firm called [\_Underscore.VC](https://underscore.vc). I'm excited to share that I joined \_Underscore.VC as a syndicate lead for the "Open Source \_Core".
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/website-spam-protection-in-the-enterprise'
 title: 'Website spam protection in the enterprise?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-06-24T04:42:43-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Mollom
 published: true
-type: blog
-url: /website-spam-protection-in-the-enterprise
 id: 462
 ---
+
+# Website spam protection in the enterprise?
 
 Kas Thomas, a CMS analyst at [CMS Watch](http://www.cmswatch.com), published [a great article on Mollom and the future of website spam](http://www.cmswatch.com/Trends/1272-Drupal,-Mollom,-and-the-Future-of-Blog-Spam):
 

@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/acquia-retrospective-2022'
 title: 'Acquia retrospective 2022'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-01-10T05:52:13-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'In my 2022 Acquia retrospective, I reflect on our business momentum and the evolution of the Acquia Experience Platform.'
-image: acquia/retrospective
 tags:
   - Acquia
   - Retrospective
   - Drupal
+image: acquia/retrospective
 published: true
-type: blog
-url: /acquia-retrospective-2022
 id: 5416
 ---
+
+# Acquia retrospective 2022
 
 At the beginning of each year, I publish a retrospective that looks back on the prior year at [Acquia](https://www.acquia.com/). I write these both to reflect on the year, and to keep a record of things that happen at the company. I've been doing this for the past 14 years.
 

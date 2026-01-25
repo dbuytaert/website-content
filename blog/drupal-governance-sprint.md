@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-governance-sprint'
 title: 'Drupal governance sprint'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-06-26T12:05:12-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Governance
 published: true
-type: blog
-url: /drupal-governance-sprint
 id: 2716
 ---
+
+# Drupal governance sprint
 
 The [Drupal Code of Conduct](https://www.drupal.org/dcoc), heavily borrowed from our friends at [Ubuntu](https://www.ubuntu.com/), does an excellent job enshrining the characteristics we aim to foster, in order to ensure people "Come for the software, stay for the community". However, there are still some gaps. For example, how to deal with conflict resolution, and how an individual best goes about proposing new governance policies.
 

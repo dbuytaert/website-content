@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/why-acquia-acquired-cyrve-and-gvs'
 title: 'Why Acquia acquired Cyrve and GVS'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-09-09T15:38:10-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Acquia acquired Drupal migration specialist Cyrve and Drupal security specialist Growing Venture Solutions'
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /why-acquia-acquired-cyrve-and-gvs
 id: 2472
 ---
+
+# Why Acquia acquired Cyrve and GVS
 
 As followers of this blog, you might have read that [Acquia acquired two Drupal companies](https://techcrunch.com/2011/08/16/acquia-expands-drupal-product-suite-with-purchases-of-cyrve-growing-venture-solutions/); security specialist Growing Venture Solutions and migration expert Cyrve. We wanted to do these acquisitions because they create a win-win-win situation; it is beneficial for the Drupal community, our partners and our customers. I personally championed and led those acquisitions so I want to take a moment to explain why.
 

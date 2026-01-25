@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/soft-launching-your-new-drupal-theme'
 title: 'Soft-launching your new Drupal theme'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-12-30T11:22:51-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Learn how to implement a theme preview feature in Drupal.'
 tags:
   - Drupal
   - 'My site'
 published: true
-type: blog
-url: /soft-launching-your-new-drupal-theme
 id: 4696
 ---
+
+# Soft-launching your new Drupal theme
 
 Have you ever wanted to preview your new Drupal theme in a production environment without making it the default yet?
 

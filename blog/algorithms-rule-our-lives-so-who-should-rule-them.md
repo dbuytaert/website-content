@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/algorithms-rule-our-lives-so-who-should-rule-them'
 title: 'Algorithms rule our lives, so who should rule them?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-12-04T08:38:10-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Source'
   - Policy
   - Government
 published: true
-type: blog
-url: /algorithms-rule-our-lives-so-who-should-rule-them
 id: 3516
 ---
+
+# Algorithms rule our lives, so who should rule them?
 
 Volkswagen's recent [emissions scandal](https://www.nytimes.com/2015/09/24/opinion/volkswagen-and-the-era-of-cheating-software.html) highlighted the power that algorithms wield over our everyday lives. As technology advances and more everyday objects are driven almost entirely by software, it's become clear that we need a better way to catch cheating software and keep people safe.
 

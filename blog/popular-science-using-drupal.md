@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/popular-science-using-drupal'
 title: 'Popular Science using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-01-31T09:50:04-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Publishing
 published: true
-type: blog
-url: /popular-science-using-drupal
 id: 394
 ---
+
+# Popular Science using Drupal
 
 With the help from [pingVision](http://pingv.com/), [Popular Science](http://popsci.com) relaunched using [Drupal](https://www.drupal.org). This move is notable, not only because [Popular Science](http://popsci.com) is a popular website, but also because they moved from [Vignette v7](http://vignette.com) (a proprietary content management system) to [Drupal](https://www.drupal.org) (an open source content management system).
 

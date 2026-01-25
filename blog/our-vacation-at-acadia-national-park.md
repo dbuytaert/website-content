@@ -1,9 +1,13 @@
 ---
+url: 'https://dri.es/our-vacation-at-acadia-national-park'
 title: 'Our vacation at Acadia National Park'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-08-28T20:53:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'We had a fun vacation exploring Acadia National Park and all of its natural beauty. We enjoyed watching the sunrise from the top of Cadillac Mountain and the sunset from our backyard.'
-image: maine-2018/acadia-mountain-trail-2
 tags:
   - Travel
   - Photography
@@ -11,12 +15,13 @@ tags:
   - Axl
   - Stan
   - Vanessa
-featured: false
+image: maine-2018/acadia-mountain-trail-2
 published: true
-type: blog
-url: /our-vacation-at-acadia-national-park
+featured: false
 id: 4491
 ---
+
+# Our vacation at Acadia National Park
 
 For our 2018 family vacation, we wanted to explore one of America's National Parks. We decided to take advantage of one of the national parks closest to us: [Acadia National Park](https://en.wikipedia.org/wiki/Acadia_National_Park) in Maine.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/happy-belated-first-birthday-wp-mollom'
 title: 'Happy belated first birthday, WP-Mollom '
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-04-22T02:26:49-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - WordPress
   - Mollom
   - Birthday
 published: true
-type: blog
-url: /happy-belated-first-birthday-wp-mollom
 id: 634
 ---
+
+# Happy belated first birthday, WP-Mollom 
 
 On his blog, [Matthias Vandermaesen](https://www.netsensei.nl/) comments that his Mollom plugin for WordPress was a year old on April 2nd of this year. At the same time, he [announces the release of WP-Mollom 0.7.4](https://www.netsensei.nl/archives/mollom-074-and-more/) (which mainly includes some new translations), and lays out a roadmap for future development.
 

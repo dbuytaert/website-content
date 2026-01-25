@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/happy-sixth-birthday-drupal'
 title: 'Happy sixth birthday Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-01-14T15:50:10-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Cooking
   - Birthday
 published: true
-type: blog
-url: /happy-sixth-birthday-drupal
 id: 204
 ---
+
+# Happy sixth birthday Drupal
 
 Today, six years ago, Drupal 1.0.0 was released! The following snippet is taken directly from the original announcement:
 

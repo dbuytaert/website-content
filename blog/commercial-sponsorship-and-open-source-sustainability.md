@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/commercial-sponsorship-and-open-source-sustainability'
 title: 'Commercial sponsorship and Open Source sustainability'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-06-10T11:43:27-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Source'
   - Diversity
 published: true
-type: blog
-url: /commercial-sponsorship-and-open-source-sustainability
 id: 4861
 ---
+
+# Commercial sponsorship and Open Source sustainability
 
 Recently, GitHub announced an initiative called [GitHub Sponsors](https://github.blog/2019-05-23-announcing-github-sponsors-a-new-way-to-contribute-to-open-source/) where open source software users can pay contributors for their work directly within GitHub.
 

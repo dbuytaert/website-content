@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-association-organization-chart-2008-wishlist'
 title: 'Drupal Association organization chart whishlist'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-12-27T11:10:41-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /drupal-association-organization-chart-2008-wishlist
 id: 378
 ---
+
+# Drupal Association organization chart whishlist
 
 As you might have read, we're in the process of electing next year's Board of Directors for the [Drupal Association](https://association.drupal.org). I've already posted the [the Drupal community's wishlist for the Drupal Association](https://dri.es/drupal-association-2008-wishlist), but I wanted to follow up with my personal thoughts as well.
 

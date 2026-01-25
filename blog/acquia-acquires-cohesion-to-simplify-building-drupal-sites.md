@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-acquires-cohesion-to-simplify-building-drupal-sites'
 title: 'Acquia acquires Cohesion to simplify building Drupal sites'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-09-04T00:02:59-04:00'
-author: Dries
-image: acquia/cohesion-editing-styles
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
+image: acquia/cohesion-editing-styles
 published: true
-type: blog
-url: /acquia-acquires-cohesion-to-simplify-building-drupal-sites
 id: 4916
 ---
+
+# Acquia acquires Cohesion to simplify building Drupal sites
 
 I'm excited to announce that [Acquia](https://www.acquia.com/) has acquired Cohesion, the creator of [DX8](https://www.cohesiondx.com/), a software-as-a-service (SaaS) visual Drupal website builder made for marketers and designers. With Cohesion DX8, users can create and design Drupal websites without having to write PHP, HTML or CSS, or know how a Drupal theme works. Instead, you can create designs, layouts and pages using a drag-and-drop user interface.
 

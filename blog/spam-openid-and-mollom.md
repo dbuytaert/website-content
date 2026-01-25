@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/spam-openid-and-mollom'
 title: 'Spam, OpenID and Mollom'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-04-03T08:57:55-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Mollom
 published: true
-type: blog
-url: /spam-openid-and-mollom
 id: 421
 ---
+
+# Spam, OpenID and Mollom
 
 There is an [interesting discussion about spam and OpenID going on at ](https://ma.tt/2008/04/openid-and-spam/)[Matt Mullenweg's blog](http://ma.tt). The discussion was triggered by the policy decision of social bookmarking site [Magnolia](https://ma.gnolia.com/) to restrict signups to OpenID users. According to the site, [75% of new accounts were being created at Magnolia by spammers](https://jakandjil.it/blog/2008/01/31/a-dirty-shame/) using automated tools (our friends the 'spambots'). They say that by restricting access to OpenID users, the rate of spam-account creation decreased. In the discussion, there is a lot of talk about whether [OpenID](http://openid.net) should be used to fight spam, and whether it could be an effective spam-fighting tool in the long term.
 

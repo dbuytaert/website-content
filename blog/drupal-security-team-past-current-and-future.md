@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-security-team-past-current-and-future'
 title: 'Drupal security team: past, current and future'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-04-28T09:57:24-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-security-team-past-current-and-future
 id: 638
 ---
+
+# Drupal security team: past, current and future
 
 Throughout the years, Drupal has taken a leadership role in the open source community on how to handle security releases – we were one of the first open source CMS projects with a dedicated security team and, even to date, our security processes lead the industry in transparency and responsiveness. We set an example for other projects, and that is something we can be proud of.
 

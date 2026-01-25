@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-mentors-needed'
 title: 'Drupal mentors needed'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-01-23T12:00:00-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Leadership
 published: true
-type: blog
-url: /drupal-mentors-needed
 id: 18
 ---
+
+# Drupal mentors needed
 
 We have many great *leaders* in the Drupal community. Prominent examples are Boris Mann, Zack Rosen, Adrian Rossouw and Chris Messina. Some of the leaders in the <acronym title="Free and Open Source">FOSS</acronym> world are referred to as *evangelists*. Leaders, and evangelists, look *outward*. They familiarize themselves with emerging technologies, study the competition, connect different projects and technologies. They are strategic thinkers that take us to places we might not have gone on our own.
 

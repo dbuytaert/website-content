@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/optimizing-site-performance-by-reducing-javascript-and-css'
 title: 'Optimizing site performance by reducing JavaScript and CSS'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-02-13T21:04:05-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Web performance'
   - Accessibility
@@ -9,10 +14,10 @@ tags:
   - 'My site'
   - JavaScript
 published: true
-type: blog
-url: /optimizing-site-performance-by-reducing-javascript-and-css
 id: 4756
 ---
+
+# Optimizing site performance by reducing JavaScript and CSS
 
 I've been thinking about the performance of my site and how it affects the user experience. There are real, [ethical concerns](https://timkadlec.com/remembers/2019-01-09-the-ethics-of-performance/) to poor web performance. These include accessibility, inclusion, waste and environmental concerns.
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/a-2-for-1-match-for-drupal-association-donations'
 title: 'A 2-for-1 match for Drupal Association donations'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-04-21T12:22:42-04:00'
-author: Dries
-image: drupal/blue-hearts-3
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCares
   - 'Drupal Association'
+image: drupal/blue-hearts-3
 published: true
-type: blog
-url: /a-2-for-1-match-for-drupal-association-donations
 id: 5001
 ---
+
+# A 2-for-1 match for Drupal Association donations
 
 [image drupal/blue-hearts-3]
 

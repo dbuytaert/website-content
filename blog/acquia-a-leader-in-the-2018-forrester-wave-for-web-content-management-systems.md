@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/acquia-a-leader-in-the-2018-forrester-wave-for-web-content-management-systems'
 title: 'Acquia a leader in the 2018 Forrester Wave for Web Content Management Systems'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-11-15T10:19:55-05:00'
-author: Dries
-image: acquia/forrester-wave-for-web-content-management-systems-2018
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Forrester
   - Acquia
+image: acquia/forrester-wave-for-web-content-management-systems-2018
 published: true
-type: blog
-url: /acquia-a-leader-in-the-2018-forrester-wave-for-web-content-management-systems
 id: 4616
 ---
+
+# Acquia a leader in the 2018 Forrester Wave for Web Content Management Systems
 
 This week [Acquia was named a leader in the Forrester Wave: Web Content Management Systems](https://www.acquia.com/about-us/newsroom/press-releases/acquia-named-leader-web-content-management-systems). Acquia was previously named a leader in WCM systems in [Q1 2017](https://dri.es/acquia-a-leader-in-the-2017-forrester-wave-for-web-content-management-systems).
 

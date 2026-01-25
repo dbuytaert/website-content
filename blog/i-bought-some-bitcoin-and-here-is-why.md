@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/i-bought-some-bitcoin-and-here-is-why'
 title: 'I bought some Bitcoin and here is why'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-12-04T02:02:23-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Bitcoin
   - Blockchain
 published: true
-type: blog
-url: /i-bought-some-bitcoin-and-here-is-why
 id: 3076
 ---
+
+# I bought some Bitcoin and here is why
 
 Over the past twelve months, I've become a bit of an obsessive follower of Bitcoin. It started after I read [Satoshi Nakamoto's original Bitcoin paper](https://bitcoin.org/bitcoin.pdf). It was a fascinating read and my first introduction to crypto-currencies. I even had a couple of lunches in Boston with [Gavin Andresen](https://en.wikipedia.org/wiki/Gavin_Andresen), Bitcoin's current project lead.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-10-target-release-date-and-drupal-9-end-of-life'
 title: 'Drupal 10 target release date and Drupal 9 end-of-life'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-07-15T08:17:52-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "We are targeting to release Drupal 10 around June 2022 and will end-of-life Drupal 9 around November 2023.  Don't worry: we'll make it easy to upgrade to Drupal 10."
-image: drupal/drupal-10-targeted-for-june-2022
 tags:
   - Drupal
+image: drupal/drupal-10-targeted-for-june-2022
 published: true
-type: blog
-url: /drupal-10-target-release-date-and-drupal-9-end-of-life
 id: 5046
 ---
+
+# Drupal 10 target release date and Drupal 9 end-of-life
 
 We are targeting to release Drupal 10 around June 2022. That is less than two years from the day of this post.
 

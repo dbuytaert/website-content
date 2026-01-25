@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/my-drupal-bike'
 title: 'My Drupal bike'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-02-16T11:40:33-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Humor
   - Axl
 published: true
-type: blog
-url: /my-drupal-bike
 id: 597
 ---
+
+# My Drupal bike
 
 Through the wonderful [Neil Drumm](https://dri.es/neil-drumm), [Chapter Three](http://www.chapterthree.com) learned that I was in the market for a bicycle. Chapter Three – the company of Drupal overlords Matt Cheney, Josh Koenig and Zack Rosen – has a fun side project called [Mission Bicycles](https://www.missionbicycle.com) that uses [Drupal](https://www.drupal.org) to sell customizable [fixed gear](https://en.wikipedia.org/wiki/Fixed-gear_bicycle) and [single speed bikes](https://en.wikipedia.org/wiki/Single-speed_bicycle) in San Francisco.
 

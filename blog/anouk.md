@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/anouk'
 title: Anouk
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-09-22T05:05:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Favorite music'
 published: true
-type: blog
-url: /anouk
 id: 1031
 ---
+
+# Anouk
 
 Another post in [my favorite music category](https://dri.es/tag/favorite-music): Anouk, a Dutch singer.
 

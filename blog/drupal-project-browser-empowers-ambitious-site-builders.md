@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-project-browser-empowers-ambitious-site-builders'
 title: "Drupal's Project Browser empowers ambitious site builders"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-12-09T08:25:19-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "The Project Browser Initiative simplifies Drupal module installation, leveraging Drupal's new Package Manager."
-image: drupal/project-browser
 tags:
   - Drupal
+image: drupal/project-browser
 published: true
-type: blog
-url: /drupal-project-browser-empowers-ambitious-site-builders
 id: 5386
 ---
+
+# Drupal's Project Browser empowers ambitious site builders
 
 [image drupal/project-browser resize=false]
 

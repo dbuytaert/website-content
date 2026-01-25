@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/reaching-the-next-billion-with-drupal'
 title: 'Reaching the next billion with Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-10-08T10:12:01-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /reaching-the-next-billion-with-drupal
 id: 3456
 ---
+
+# Reaching the next billion with Drupal
 
 I feel lucky to be a part of creating and building Drupal. According to BuiltWith, [Drupal powers 2.8% of websites in the top 1 million](https://trends.builtwith.com/cms/Drupal). That translates to 1 out of 35 websites. I've been thinking about what that means in terms of real impact: if any of the [3.2 billion internet users today](http://www.internetlivestats.com/internet-users/) have visited 35 or more of the top 1 million websites, they've "used" Drupal. I imagine most active internet users have visited more than 35 websites, and as such, Drupal must have "reached" almost everyone on the internet. That is a pretty incredible thought.
 

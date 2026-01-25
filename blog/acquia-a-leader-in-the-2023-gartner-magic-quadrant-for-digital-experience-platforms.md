@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/acquia-a-leader-in-the-2023-gartner-magic-quadrant-for-digital-experience-platforms'
 title: 'Acquia a Leader in the 2023 Gartner Magic Quadrant for Digital Experience Platforms'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-03-16T11:30:48-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'For the fourth time, Acquia was named a Leader in the Gartner MQ for Digital Experience Platforms.'
-image: acquia/gartner-magic-quadrant-for-digital-experience-platforms-2023
 tags:
   - Gartner
   - Acquia
   - Drupal
+image: acquia/gartner-magic-quadrant-for-digital-experience-platforms-2023
 published: true
-type: blog
-url: /acquia-a-leader-in-the-2023-gartner-magic-quadrant-for-digital-experience-platforms
 id: 5431
 ---
+
+# Acquia a Leader in the 2023 Gartner Magic Quadrant for Digital Experience Platforms
 
 [image acquia/gartner-magic-quadrant-for-digital-experience-platforms-2023 resize=false schema=false]
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/tag-heuer-using-drupal'
 title: 'TAG Heuer using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-12-23T08:51:38-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
 published: true
-type: blog
-url: /tag-heuer-using-drupal
 id: 3841
 ---
+
+# TAG Heuer using Drupal
 
 Growing up my dad had a watch from [TAG Heuer](https://www.tagheuer.com). As a young child, I always admired his watch and wished that one day I'd have one as well. I still don't have a TAG Heuer watch, however I just found out that [TAG Heuer](https://www.tagheuer.com) relaunched its website using Drupal 8 and that is pretty cool too.
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/counting-crows-round-here'
 title: 'Counting Crows - Round Here'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-05-16T20:06:07-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Favorite music'
 published: true
-type: blog
-url: /counting-crows-round-here
 id: 5806
 ---
+
+# Counting Crows - Round Here
 
 [video 6PMxpdPLm-k]
 

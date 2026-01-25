@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/entertainment-tonight-using-drupal'
 title: 'Entertainment Tonight using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-08-30T21:11:17-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How Entertainment Tonight relaunched its website on Drupal 8 to serve 19 million unique monthly visitors'
-image: drupal/entertainment-tonight
 tags:
   - Drupal
   - 'Drupal sites'
   - Entertainment
+image: drupal/entertainment-tonight
 published: true
-type: blog
-url: /entertainment-tonight-using-drupal
 id: 4011
 ---
+
+# Entertainment Tonight using Drupal
 
 [image drupal/entertainment-tonight]
 

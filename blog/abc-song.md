@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/abc-song'
 title: 'ABC song'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-10-03T15:49:02-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Family
   - Axl
   - Boston
 published: true
-type: blog
-url: /abc-song
 id: 1856
 ---
+
+# ABC song
 
 Axl only started school 5 weeks ago so it is pretty amazing to see how fast he has picked up English. Not only can he sing some songs, he is actually getting pretty good at expressing himself in English. It is fascinating to watch.
 

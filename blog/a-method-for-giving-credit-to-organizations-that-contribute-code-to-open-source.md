@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/a-method-for-giving-credit-to-organizations-that-contribute-code-to-open-source'
 title: 'A method for giving credit to organizations that contribute code to Open Source'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-06-04T07:46:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'By tracking organizational contributions in Git commits, we can give organizations more tangible reasons to fund open source and help sustain it over time.'
 tags:
   - Drupal
   - 'Open Source'
-featured: true
 published: true
-type: blog
-url: /a-method-for-giving-credit-to-organizations-that-contribute-code-to-open-source
+featured: true
 id: 3156
 ---
+
+# A method for giving credit to organizations that contribute code to Open Source
 
 If we want to encourage more organizations to contribute to Drupal and hire core developers, we should start to give them credit for their code contributions. I'd love to see us maintain a page on Drupal.org that shows which companies contribute to Drupal and in what capacity. This credit provides these organizations a tangible benefit in recruiting developers, demonstrating their expertise, and more. Credit is a powerful motivator for individuals, but also for businesses. It is a form of trust currency.
 

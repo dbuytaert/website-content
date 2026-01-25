@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/the-open-web-can-still-win'
 title: 'The Open Web can still win'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-03-12T17:07:14-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Three stars will align and the Open Web will win.'
-image: blog/tim-berners-lee
 tags:
   - 'Open Web'
   - Policy
   - 'Open Source'
   - Predictions
-featured: true
+image: blog/tim-berners-lee
 published: true
-type: blog
-url: /the-open-web-can-still-win
+featured: true
 id: 4791
 ---
+
+# The Open Web can still win
 
 Today, the world wide web celebrates its 30th birthday. In 1989, Sir Tim Berners-Lee [ invented the world wide web](https://webfoundation.org/2019/02/save-the-date-world-wide-web-turns-30-on-march-12/) and changed the lives of millions of people around the globe, including mine.
 

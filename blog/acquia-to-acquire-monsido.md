@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/acquia-to-acquire-monsido'
 title: 'Acquia to acquire Monsido'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-11-14T07:27:19-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Acquia expands its experience optimization capabilities by acquiring Monsido and forming new partnerships with VWO and Conductor.'
-image: acquia/acquia-acquires-monsido
 tags:
   - Drupal
   - Acquia
   - Accessibility
   - Acquisitions
+image: acquia/acquia-acquires-monsido
 published: true
-type: blog
-url: /acquia-to-acquire-monsido
 id: 5516
 ---
+
+# Acquia to acquire Monsido
 
 I'm pleased to announce that [Acquia](https://www.acquia.com/) has signed a definitive agreement to acquire [Monsido](https://monsido.com/), a leading platform for monitoring and optimizing website accessibility, content quality, search engine optimization, data privacy, and performance.
 

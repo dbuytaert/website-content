@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/hedgehog-on-the-walk'
 title: 'Hedgehog on the walk'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-07-29T15:02:22-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Photography
   - 'PhD research'
 published: true
-type: blog
-url: /hedgehog-on-the-walk
 id: 116
 ---
+
+# Hedgehog on the walk
 
 [image miscellaneous-2006/hedgehog-on-the-walk]
 

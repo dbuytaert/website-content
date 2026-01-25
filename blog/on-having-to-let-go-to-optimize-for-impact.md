@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/on-having-to-let-go-to-optimize-for-impact'
 title: 'On having to let go to optimize for impact'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-04-07T03:32:30-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Bill Gates'
   - 'Startup lessons'
 published: true
-type: blog
-url: /on-having-to-let-go-to-optimize-for-impact
 id: 5196
 ---
+
+# On having to let go to optimize for impact
 
 In an interview, [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) was asked how hard it was for him to learn to delegate. Bill answers with how he had to change his mental model, going from writing code to letting go to optimize for impact.
 

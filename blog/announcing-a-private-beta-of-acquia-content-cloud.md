@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/announcing-a-private-beta-of-acquia-content-cloud'
 title: 'Announcing a private beta of Acquia Content Cloud'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-06-20T04:55:32-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Acquia Content Cloud, a new content-as-a-service solution for simplified content creation and syndication across multi-channel digital experiences, is now available in private beta.'
 tags:
   - Acquia
   - Drupal
 published: true
-type: blog
-url: /announcing-a-private-beta-of-acquia-content-cloud
 id: 4876
 ---
+
+# Announcing a private beta of Acquia Content Cloud
 
 Earlier this week at our Acquia Engage conference in London, [Acquia](https://www.acquia.com/) announced a new product called "Content Cloud", a headless, SaaS-based content-as-a-service solution built on [Drupal](https://www.drupal.org/).
 

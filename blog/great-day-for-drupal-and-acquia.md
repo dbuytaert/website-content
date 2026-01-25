@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/great-day-for-drupal-and-acquia'
 title: 'Great day for Drupal and Acquia'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-03-03T23:27:43-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /great-day-for-drupal-and-acquia
 id: 408
 ---
+
+# Great day for Drupal and Acquia
 
 Today was a great day for Drupal.
 

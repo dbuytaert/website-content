@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/boating-in-the-british-virgin-islands'
 title: 'Boating in the British Virgin Islands'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-05-31T10:41:02-04:00'
-author: Dries
-image: british-virgin-islands-2022/navigation-planning
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Travel
   - 'British Virgin Islands'
+image: british-virgin-islands-2022/navigation-planning
 published: true
-type: blog
-url: /boating-in-the-british-virgin-islands
 id: 5336
 ---
+
+# Boating in the British Virgin Islands
 
 We spent a week on a power catamaran exploring the British Virgin Islands (BVI). The purpose of the trip was twofold: to experience the BVI, and to come home with a boating license.
 

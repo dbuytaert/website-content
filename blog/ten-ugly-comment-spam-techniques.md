@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/ten-ugly-comment-spam-techniques'
 title: 'Ten ugly comment spam techniques'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-09-20T09:30:56-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
 published: true
-type: blog
-url: /ten-ugly-comment-spam-techniques
 id: 1831
 ---
+
+# Ten ugly comment spam techniques
 
 [Mollom](https://mollom.com) blocks more than 500,000 comment spam attempts a day. That volume provides a unique perspective on the world of comment spammers, including the world's best and worst spam techniques. Below are some excerpts from some of the more interesting spam attempts which we see frequently on Mollom's back end.
 

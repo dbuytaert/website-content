@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/vrt-using-drupal'
 title: 'VRT using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-04-17T04:38:43-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Belgium
   - Broadcasting
 published: true
-type: blog
-url: /vrt-using-drupal
 id: 51
 ---
+
+# VRT using Drupal
 
 The [Flemish Radio- and Television Network](http://vrt.be) (VRT) uses [Drupal](https://www.drupal.org/) for [16+](http://16plus.be/), a community website to accompany one of the television programs they broadcast. The website allows people to upload and share pictures, music and video. Belgian newspaper [De Standaard](http://www.standaard.be/) described [16+](http://16plus.be/) as the "Flemish YouTube". Belgian newspaper [De Morgen](https://www.demorgen.be/) refers to it as being an "online community".
 

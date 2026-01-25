@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/an-update-on-the-layout-initiative-for-drupal-8-4-8-5'
 title: 'An update on the Layout Initiative for Drupal 8.4/8.5'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-11-14T21:57:53-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Want to know what has been happening with the Layout Initiative in Drupal? Read my update.'
-image: blog/drupal-8-5-field-layouts-prototype
 tags:
   - Drupal
+image: blog/drupal-8-5-field-layouts-prototype
 published: true
-type: blog
-url: /an-update-on-the-layout-initiative-for-drupal-8-4-8-5
 id: 4076
 ---
+
+# An update on the Layout Initiative for Drupal 8.4/8.5
 
 Now Drupal 8.4 is released, and Drupal 8.5 development is underway, it is a good time to give an update on what is happening with Drupal's Layout Initiative.
 

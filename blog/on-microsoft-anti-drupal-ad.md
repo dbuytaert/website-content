@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/on-microsoft-anti-drupal-ad'
 title: "On Microsoft's anti-Drupal ad"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-12-16T11:49:17-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Microsoft is running anti-Drupal ads'
 tags:
   - Drupal
   - Microsoft
   - 'Social media'
-featured: true
 published: true
-type: blog
-url: /on-microsoft-anti-drupal-ad
+featured: true
 id: 1251
 ---
+
+# On Microsoft's anti-Drupal ad
 
 [image drupal/microsoft-anti-drupal-ad resize=false]
 

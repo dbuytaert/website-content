@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-org-redesign-code-sprints'
 title: 'Drupal.org redesign code sprints'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-01-08T07:51:41-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
   - Acquia
 published: true
-type: blog
-url: /drupal-org-redesign-code-sprints
 id: 572
 ---
+
+# Drupal.org redesign code sprints
 
 As [promised](https://dri.es/fields-in-core-code-sprint-debrief), we're organizing a series of sprints to help push the drupal.org redesign closer to completion. The drupal.org redesign is a massive project, and, when implemented, will be an important milestone for our community.
 

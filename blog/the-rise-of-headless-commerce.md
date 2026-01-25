@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/the-rise-of-headless-commerce'
 title: 'The rise of headless commerce'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-10-31T11:10:18-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Commerce
   - Acquia
   - Trends
 published: true
-type: blog
-url: /the-rise-of-headless-commerce
 id: 4591
 ---
+
+# The rise of headless commerce
 
 Today, [Acquia](https://www.acquia.com) announced a partnership with [Elastic Path](https://www.elasticpath.com/), a headless commerce platform. In this post, I want to explore the advantages of headless commerce and the opportunity it holds for both Drupal and Acquia.
 

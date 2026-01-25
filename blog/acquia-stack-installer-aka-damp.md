@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-stack-installer-aka-damp'
 title: 'Acquia Stack Installer (aka DAMP)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-03-04T23:01:53-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-stack-installer-aka-damp
 id: 612
 ---
+
+# Acquia Stack Installer (aka DAMP)
 
 If you're looking to evaluate [Drupal](https://www.drupal.org), or if you're a Drupal developer, you have got to check out [Acquia's Stack Installer](https://dev.acquia.com/downloads), aka DAMP, that we released at DrupalCon DC today.
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/brewing-coffee-with-a-moka-pot-when-camping'
 title: 'Brewing coffee with a moka pot when camping'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-06-26T05:47:19-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: note
 tags:
   - Camping
   - Coffee
 published: true
-type: note
-url: /brewing-coffee-with-a-moka-pot-when-camping
 id: 5636
 ---
+
+# Brewing coffee with a moka pot when camping
 
 We're big coffee enthusiasts, and I proudly hold the title of "chief barista" in our family. Every morning, I grind beans, try to perfect espresso shots, steam milk, and craft lattes.
 

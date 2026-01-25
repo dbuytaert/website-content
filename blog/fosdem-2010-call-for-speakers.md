@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/fosdem-2010-call-for-speakers'
 title: 'FOSDEM 2010: call for speakers'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-01-11T07:24:25-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Invitations
   - FOSDEM
   - Belgium
 published: true
-type: blog
-url: /fosdem-2010-call-for-speakers
 id: 1341
 ---
+
+# FOSDEM 2010: call for speakers
 
 Like the years before, [Drupal](https://www.drupal.org) was granted a *developer room* at [FOSDEM](http://www.fosdem.org), the Free and Open Source Developers' European Meeting. FOSDEM is a yearly event for the open source community that attracts more than 3,000 developers from all around the world. It's good fun.
 

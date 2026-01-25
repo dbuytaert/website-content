@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/the-red-press-of-drupal'
 title: 'The Red Press of Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-04-01T02:04:01-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - WordPress
 published: true
-type: blog
-url: /the-red-press-of-drupal
 id: 2941
 ---
+
+# The Red Press of Drupal
 
 A couple of weeks ago [Acquia](https://www.acquia.com), the [Red Hat of Drupal](https://ma.tt/2013/03/the-redhat-of-drupal/), reached out to fellow CMS founder, [Matt Mullenweg](http://ma.tt) of [WordPress](http://WordPress.org), to see if he would consider switching to [Drupal](https://www.drupal.org). As luck would have it, [this was enticing to Matt](https://ma.tt/2013/03/the-redhat-of-drupal/). He has long understood the value of the Drupal community and has been looking for ways to leverage our community to make WordPress even better. When [Acquia suggested switching to Drupal](https://ma.tt/2013/03/the-redhat-of-drupal/), it dawned on Matt that this was certainly the easiest way to integrate with Drupal without irritating his webmaster.
 

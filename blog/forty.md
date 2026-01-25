@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/forty'
 title: Forty
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-11-19T05:57:14-05:00'
-author: Dries
-image: miscellaneous-2018/fortieth-birthday-coffee-mug
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Birthday
   - Coffee
-featured: true
+image: miscellaneous-2018/fortieth-birthday-coffee-mug
 published: true
-type: blog
-url: /forty
+featured: true
 id: 4626
 ---
+
+# Forty
 
 [image miscellaneous-2018/fortieth-birthday-coffee-mug]
 

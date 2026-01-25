@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-association-launched'
 title: 'Drupal Association launched'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-02-26T12:40:27-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The Drupal Association launched to give the Drupal community financial infrastructure support so contributors can focus on the project.'
 tags:
   - Drupal
   - 'Drupal Association'
-featured: true
 published: true
-type: blog
-url: /drupal-association-launched
+featured: true
 id: 221
 ---
+
+# Drupal Association launched
 
 For many of us, Drupal is very much a labor of love. It's a story of having fun and working hard. If you follow what we do, it's easy to understand what we're all about – making it easy to build websites, both for users and developers. Passion spreads and as a result, Drupal's size and scope has grown beyond what an ad hoc group of volunteers can realistically manage.
 

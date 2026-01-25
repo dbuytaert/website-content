@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-8-alpha-releases'
 title: 'Drupal 8 alpha releases'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-06-24T14:02:53-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-8-alpha-releases
 id: 2986
 ---
+
+# Drupal 8 alpha releases
 
 A month ago we started the [Drupal 8 alpha cycle](https://www.drupal.org/core/release-cycle#clean-up-phase) to encourage module developers to test out Drupal 8 and to try upgrading their modules. Today, we published the second alpha release of Drupal 8: [Drupal 8.x alpha 2](https://www.drupal.org/node/2026719)!
 

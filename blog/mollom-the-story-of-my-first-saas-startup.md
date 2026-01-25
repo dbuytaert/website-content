@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/mollom-the-story-of-my-first-saas-startup'
 title: 'Mollom: The story of my first SaaS startup'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-04-30T07:57:37-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How I started, grew, sold and retired my first SaaS business'
-image: mollom/team-december-2011
 tags:
   - Drupal
   - Mollom
   - Acquia
   - 'Startup lessons'
+image: mollom/team-december-2011
 published: true
-type: blog
-url: /mollom-the-story-of-my-first-saas-startup
 id: 4316
 ---
+
+# Mollom: The story of my first SaaS startup
 
 Last month, Acquia discontinued service and support for Mollom, the spam service I started more than ten years ago. As a goodbye, I want to share the untold story of how I founded Mollom.
 

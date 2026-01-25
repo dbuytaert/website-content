@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/do-well-do-good'
 title: 'Do well and do good'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-03-26T10:38:19-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'I fundamentally believe that good businesses have the power to improve the world by giving back'
 tags:
   - Drupal
   - Acquia
   - Leadership
-featured: true
 published: true
-type: blog
-url: /do-well-do-good
+featured: true
 id: 3116
 ---
+
+# Do well and do good
 
 This blog post is on purpose, Open Source, profit and pie. This week I had an opportunity to meet [Professor Klaus Schwab](https://www.weforum.org/about/klaus-schwab), Founder and Executive Chairman of the [World Economic Forum](https://www.weforum.org/). I was inspired by the following comment he made (not his exact words):
 

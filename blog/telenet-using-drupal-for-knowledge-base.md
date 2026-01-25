@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/telenet-using-drupal-for-knowledge-base'
 title: 'Telenet using Drupal for knowledge base'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-12-10T09:12:02-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Belgium
 published: true
-type: blog
-url: /telenet-using-drupal-for-knowledge-base
 id: 2017
 ---
+
+# Telenet using Drupal for knowledge base
 
 [Telenet](http://telenet.be), the largest provider of broadband cable services in Belgium, wants happy customers, and customers are happy when they can solve any problems or answer any questions concerning a company's products on their own, or by simply calling a friendly helpful client advisor.
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/header-analyzer-update-september-2024'
 title: 'HTTP Header Analyzer update - September 2024'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-09-09T03:02:43-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'HTTP headers'
 published: true
-type: blog
-url: /header-analyzer-update-september-2024
 id: 5681
 ---
+
+# HTTP Header Analyzer update - September 2024
 
 My [HTTP Header Analyzer](https://dri.es/headers) continues to be [used a lot](https://dri.es/the-little-http-header-analyzer-that-could). Last week, I received a bug report, so I decided to look into it over the weekend. One thing led to another, and I ended up making a slew of improvements:
 

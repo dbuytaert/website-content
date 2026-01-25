@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-8-beta-1-released'
 title: 'Drupal 8 beta 1 released'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-10-01T05:21:36-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-8-beta-1-released
 id: 3246
 ---
+
+# Drupal 8 beta 1 released
 
 Today we announced [Drupal 8 beta 1](https://www.drupal.org/8.0-beta1)! This key milestone is the work of over 2,300 people who have contributed more than 11,500 committed patches to 15 alpha releases, and especially the 234 contributors who fixed 178 "beta blocker" issues. A massive thank-you to everyone who helped get Drupal 8 beta 1 done.
 

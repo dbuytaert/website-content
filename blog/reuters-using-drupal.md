@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/reuters-using-drupal'
 title: 'Reuters using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-10-12T14:46:12-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - 'Fortune 500'
   - Publishing
 published: true
-type: blog
-url: /reuters-using-drupal
 id: 1091
 ---
+
+# Reuters using Drupal
 
 Anyone who reads the news knows that Reuters is a major news agency; in fact, it is the world's largest international multimedia news agency.
 

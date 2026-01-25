@@ -1,13 +1,18 @@
 ---
+url: 'https://dri.es/angel-investments'
 title: 'Angel investments'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-11-15T16:30:30-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: page
 summary: "I've made over 30 angel investments. Most notable exits include Toast ($25B), Circle ($6.8B), Oqton ($180M) and Ticketbis ($165M). ClassPass reached unicorn status, and my early positions in Bitcoin and Ethereum have also done well."
 published: true
-type: page
-url: /angel-investments
 id: 3486
 ---
+
+# Angel investments
 
 <table>
   <tr>

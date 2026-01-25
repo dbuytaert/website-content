@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/responsive-images-for-dri-es'
 title: 'Responsive images for dri.es'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-10-14T18:36:30-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'It''s Sunday afternoon, I''m on a plane to San Francisco, and I just rolled out "responsive images" support on dri.es from 30,000 feet in the air.'
 tags:
   - 'My site'
   - POSSE
   - 'Web performance'
 published: true
-type: blog
-url: /responsive-images-for-dri-es
 id: 4551
 ---
+
+# Responsive images for dri.es
 
 For a few years now I've been planning to add support for [responsive images](https://internetingishard.com/html-and-css/responsive-images/) to my site.
 

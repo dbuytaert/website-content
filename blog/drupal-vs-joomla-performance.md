@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupal-vs-joomla-performance'
 title: 'Drupal vs Joomla: performance'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-08-11T08:04:06-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Web performance'
   - Joomla
   - Statistics
 published: true
-type: blog
-url: /drupal-vs-joomla-performance
 id: 122
 ---
+
+# Drupal vs Joomla: performance
 
 Which content management system is faster? [Drupal](https://www.drupal.org) or [Joomla](https://joomla.org)?
 

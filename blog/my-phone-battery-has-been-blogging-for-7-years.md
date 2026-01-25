@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/my-phone-battery-has-been-blogging-for-7-years'
 title: "My phone's battery has been blogging for 7 years"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-04-13T04:59:59-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - POSSE
 published: true
-type: blog
-url: /my-phone-battery-has-been-blogging-for-7-years
 id: 5796
 ---
+
+# My phone's battery has been blogging for 7 years
 
 Seven years ago, I wrote a post about a tiny experiment: [publishing my phone's battery status to my website](https://dri.es/posting-my-phone-battery-status-to-my-site). The updates have quietly continued ever since, appearing at <https://dri.es/status>.
 

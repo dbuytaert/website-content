@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/2019-australian-open-aces-the-digital-experience-with-acquia-and-drupal'
 title: "2019 Australian Open 'aces' the digital experience with Acquia and Drupal"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-01-30T21:00:35-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Acquia
 published: true
-type: blog
-url: /2019-australian-open-aces-the-digital-experience-with-acquia-and-drupal
 id: 4736
 ---
+
+# 2019 Australian Open 'aces' the digital experience with Acquia and Drupal
 
 Since I was young, I've been an avid tennis player and fan. I still play to this day, though maybe not as much as I'd like to.
 

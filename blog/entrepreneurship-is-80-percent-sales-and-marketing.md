@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/entrepreneurship-is-80-percent-sales-and-marketing'
 title: 'Entrepreneurship is 80% sales and marketing'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-03-28T13:29:26-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Startup lessons'
   - Acquia
 published: true
-type: blog
-url: /entrepreneurship-is-80-percent-sales-and-marketing
 id: 3121
 ---
+
+# Entrepreneurship is 80% sales and marketing
 
 Background in business is a 'nice to have', not a 'must have' for an aspiring entrepreneur. I had no solid business background when I founded [Mollom](https://mollom.com) or [Acquia](https://www.acquia.com) (I launched them roughly at the same time).
 

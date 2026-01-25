@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/city-of-boston-launches-boston-gov-on-drupal'
 title: 'City of Boston launches Boston.gov on Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-07-21T12:50:54-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
@@ -10,10 +15,10 @@ tags:
   - Boston
   - Government
 published: true
-type: blog
-url: /city-of-boston-launches-boston-gov-on-drupal
 id: 3741
 ---
+
+# City of Boston launches Boston.gov on Drupal
 
 [image drupal/boston-gov-before-and-after resize=false]
 

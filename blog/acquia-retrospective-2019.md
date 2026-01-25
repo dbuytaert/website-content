@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/acquia-retrospective-2019'
 title: 'Acquia retrospective 2019'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-01-13T21:24:55-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'In my 2019 Acquia retrospective, I reflect on our business momentum and the evolution of the Acquia Experience Platform.'
-image: acquia/business-metrics-2019
 tags:
   - Drupal
   - Acquia
   - Retrospective
+image: acquia/business-metrics-2019
 published: true
-type: blog
-url: /acquia-retrospective-2019
 id: 4961
 ---
+
+# Acquia retrospective 2019
 
 Wow, what a year 2019 was for Acquia!
 

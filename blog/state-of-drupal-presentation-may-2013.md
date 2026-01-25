@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-may-2013'
 title: 'State of Drupal presentation (May 2013)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-06-05T12:34:29-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - 'State of Drupal'
   - Portland
 published: true
-type: blog
-url: /state-of-drupal-presentation-may-2013
 id: 2966
 ---
+
+# State of Drupal presentation (May 2013)
 
 Two weeks ago at DrupalCon Portland, I gave my traditional State of Drupal presentation. A total of 3,500 were present at DrupalCon, a new record for DrupalCon attendance.
 

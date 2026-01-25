@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/sharing-innovation-with-your-competitors'
 title: 'Sharing innovation with your competitors'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-02-09T04:55:14-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How organizations can keep a competitive edge by contributing back to Open Source'
 tags:
   - 'Open Source'
   - Drupal
   - Innovation
 published: true
-type: blog
-url: /sharing-innovation-with-your-competitors
 id: 3871
 ---
+
+# Sharing innovation with your competitors
 
 [image blog/sharing-innovation-with-competitors resize=false]
 

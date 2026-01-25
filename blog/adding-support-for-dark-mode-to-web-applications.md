@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/adding-support-for-dark-mode-to-web-applications'
 title: 'Adding support for Dark Mode to web applications'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-10-29T10:00:03-04:00'
-author: Dries
-image: blog/dark-mode-dri-es-2018
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - CSS
   - 'My site'
+image: blog/dark-mode-dri-es-2018
 published: true
-type: blog
-url: /adding-support-for-dark-mode-to-web-applications
 id: 4581
 ---
+
+# Adding support for Dark Mode to web applications
 
 MacOS Mojave, Apple's newest operating system, now features [a Dark Mode interface](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/dark-mode/). In Dark Mode, the entire system adopts a darker color palette. Many third-party desktop applications have already been updated to support Dark Mode.
 

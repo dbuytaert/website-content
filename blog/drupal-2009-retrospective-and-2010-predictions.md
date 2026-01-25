@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-2009-retrospective-and-2010-predictions'
 title: 'Drupal 2009 retrospective and 2010 predictions'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-01-04T04:36:22-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Predictions
   - Retrospective
 published: true
-type: blog
-url: /drupal-2009-retrospective-and-2010-predictions
 id: 1301
 ---
+
+# Drupal 2009 retrospective and 2010 predictions
 
 It's that time again. Time to look back at 2009, and to look forward to 2010.
 

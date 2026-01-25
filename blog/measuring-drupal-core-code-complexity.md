@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/measuring-drupal-core-code-complexity'
 title: 'Measuring Drupal core code complexity'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2026-01-07T17:22:23-05:00'
-author: Dries
-image: miscellaneous-2025/vibe-coding-van/
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Statistics
-featured: false
+image: miscellaneous-2025/vibe-coding-van/
 published: true
-type: blog
-url: /measuring-drupal-core-code-complexity
+featured: false
 id: 6036
 ---
+
+# Measuring Drupal core code complexity
 
 [image miscellaneous-2025/vibe-coding-van priority=true caption=false]
 

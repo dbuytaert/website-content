@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/united-nations-using-drupal'
 title: 'United Nations using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-10-05T03:36:50-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Government
 published: true
-type: blog
-url: /united-nations-using-drupal
 id: 158
 ---
+
+# United Nations using Drupal
 
 [image drupal/united-nations-fight-hunger resize=false]
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/mollom-now-has-captcha-only-mode'
 title: 'Mollom now has "CAPTCHA only" mode'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-01-12T05:16:47-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Mollom
 published: true
-type: blog
-url: /mollom-now-has-captcha-only-mode
 id: 573
 ---
+
+# Mollom now has "CAPTCHA only" mode
 
 We're excited to announce a new release of the [Mollom module for Drupal 6](https://www.drupal.org/project/mollom). The [Mollom 1.7 release for Drupal 6](https://www.drupal.org/node/357580) is our most extensive update so far, and contains a number of new features.
 

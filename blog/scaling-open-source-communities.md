@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/scaling-open-source-communities'
 title: 'Scaling Open Source communities'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-09-30T05:47:47-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Successful Open Source projects must transition from pure volunteerism to include paid contributions, mirroring how public goods like roads evolved historically.'
 tags:
   - Drupal
   - 'Open Source'
-featured: true
 published: true
-type: blog
-url: /scaling-open-source-communities
+featured: true
 id: 3241
 ---
+
+# Scaling Open Source communities
 
 We truly live in miraculous times. Open Source is at the core of the largest organizations in the world. Open Source is changing lives in emerging countries. Open Source has changed the tide of governments around the world. And yet, Open Source can be really difficult. Open Source can be largely a thankless job. It is hard to find volunteers, it is hard to find organizations to donate time or money, it is hard to organize the community, it is hard to learn, it is hard to attract full-time contributors, and more. As the project lead for Drupal, one of the largest Open Source projects/communities in the world, I live these challenges every day. In this blog post, I will analyze the challenge with scaling Open Source communities and recommend a solution for how to build very large Open Source communities.
 

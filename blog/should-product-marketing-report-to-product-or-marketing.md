@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/should-product-marketing-report-to-product-or-marketing'
 title: 'Should Product Marketing report to Product or Marketing?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-03-11T21:06:54-04:00'
-author: Dries
-image: blog/product-marketing
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
   - 'Startup lessons'
   - Marketing
+image: blog/product-marketing
 published: true
-type: blog
-url: /should-product-marketing-report-to-product-or-marketing
 id: 4786
 ---
+
+# Should Product Marketing report to Product or Marketing?
 
 Product marketing teams are responsible for bringing products to market and championing their success and adoption. To make this happen, they work closely with three sets of key stakeholders: the product team (development/engineering), the marketing team and the sales team.
 

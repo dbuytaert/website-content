@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/the-long-path-to-being-understood'
 title: 'The long path to being understood'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-06-21T13:29:19-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Open Source'
   - 'Startup lessons'
 published: true
-type: blog
-url: /the-long-path-to-being-understood
 id: 3726
 ---
+
+# The long path to being understood
 
 I sent an internal note to all of Acquia's 700+ employees today and decided to cross-post it to my blog because it contains a valuable lesson for any startup. 
 

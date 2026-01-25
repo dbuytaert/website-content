@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/linus-torvalds-on-git'
 title: 'Linus Torvalds on Git'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-06-03T12:13:56-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Software development'
 published: true
-type: blog
-url: /linus-torvalds-on-git
 id: 277
 ---
+
+# Linus Torvalds on Git
 
 [video 4XpnKHJAok8]
 

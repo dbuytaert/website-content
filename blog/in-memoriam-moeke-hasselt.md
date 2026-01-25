@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/in-memoriam-moeke-hasselt'
 title: 'In memoriam: Moeke Hasselt'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-10-02T08:55:15-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Family
   - 'In memoriam'
 published: true
-type: blog
-url: /in-memoriam-moeke-hasselt
 id: 3046
 ---
+
+# In memoriam: Moeke Hasselt
 
 Liefste Moeke Hasselt,
 

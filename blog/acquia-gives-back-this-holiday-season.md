@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-gives-back-this-holiday-season'
 title: 'Acquia gives back this holiday season '
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-12-13T13:31:37-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Acquia's holiday gift drive is one of my favorite traditions and most meaningful ways to give back."
-image: acquia/acquia-gift-drive-1
 tags:
   - Acquia
+image: acquia/acquia-gift-drive-1
 published: true
-type: blog
-url: /acquia-gives-back-this-holiday-season
 id: 4101
 ---
+
+# Acquia gives back this holiday season 
 
 [image acquia/acquia-gift-drive-1 resize=false]
 

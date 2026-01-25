@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/woodwing-and-acquia-moving-from-print-to-the-web'
 title: 'WoodWing and Acquia: moving from print to the web'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-05-15T04:56:41-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Publishing
 published: true
-type: blog
-url: /woodwing-and-acquia-moving-from-print-to-the-web
 id: 650
 ---
+
+# WoodWing and Acquia: moving from print to the web
 
 A couple of days ago, [Acquia announced a technology partnership with WoodWing](https://www.yahoo.com/news/s/prweb/20090513/bs_prweb/prweb2419284). WoodWing's Enterprise 6 Content Publishing Platform now ships with [Acquia Drupal](https://dev.acquia.com/downloads) as the default CMS, as well as a connector module. WoodWing's typical customers are traditional publishers with strong roots in print – and with names like Time Inc, Cisco, Michelin, Citibank and many more, they have [an impressive list of customers](https://www.woodwing.com/) at that.
 

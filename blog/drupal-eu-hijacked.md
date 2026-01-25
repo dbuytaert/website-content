@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-eu-hijacked'
 title: 'Drupal.eu hijacked using phantom registrars?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-04-12T18:00:00-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-eu-hijacked
 id: 48
 ---
+
+# Drupal.eu hijacked using phantom registrars?
 
 I pre-registered the drupal.eu domain name but unfortunately it was awarded to an earlier applicant. As the pre-registered .eu domain names were awarded on a first come, first served basis this sounds fair ... until you find out that [the system might have been gamed](https://www.bobparsons.com/EULandrushFiasco.html).
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-com-refresh-launched-2009'
 title: 'Drupal.com refresh launched'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-08-14T05:55:04-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-com-refresh-launched-2009
 id: 926
 ---
+
+# Drupal.com refresh launched
 
 Back in March 2008, I blogged about a [much-needed redesign soon to be deployed onto Drupal.com](https://dri.es/drupal-com-to-get-a-facelift), to replace the oh-so-embarrassing placeholder page I've had there for years. I'm happy to announce that – thanks in large measure to the great design and development work of the good folks at [Development Seed](https://www.developmentseed.org/) – the new and much improved [Drupal.com](https://drupal.com) has been launched.
 

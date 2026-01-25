@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/increasing-drupal-contributions-from-underrepresented-groups'
 title: 'Increasing Drupal contributions from underrepresented groups'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-06-19T13:44:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How the Drupal Diversity and Inclusion Contribution Team is working to better include women and underrepresented groups to increase code and community contributions.'
 tags:
   - Drupal
   - Diversity
 published: true
-type: blog
-url: /increasing-drupal-contributions-from-underrepresented-groups
 id: 4421
 ---
+
+# Increasing Drupal contributions from underrepresented groups
 
 For the past two years, I've published the [Who sponsors Drupal development report](https://dri.es/who-sponsors-drupal-development-2017). The primary goal of the report is to share contribution data to encourage more individuals and organizations to contribute code to Drupal on Drupal.org. However, the report also highlights areas where our community can and should do better.
 

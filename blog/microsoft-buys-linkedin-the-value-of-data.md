@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/microsoft-buys-linkedin-the-value-of-data'
 title: 'Microsoft buys LinkedIn: the value of data'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-06-14T01:39:33-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Microsoft
 published: true
-type: blog
-url: /microsoft-buys-linkedin-the-value-of-data
 id: 3721
 ---
+
+# Microsoft buys LinkedIn: the value of data
 
 In my latest [SXSW talk](https://dri.es/video-can-we-save-the-open-web), I showed a graphic of each of the major technology giants to demonstrate how much of our user data each company owned.
 

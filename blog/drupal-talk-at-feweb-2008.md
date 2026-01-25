@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-talk-at-feweb-2008'
 title: 'Drupal talk at FeWeb'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-12-11T13:57:29-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Belgium
 published: true
-type: blog
-url: /drupal-talk-at-feweb-2008
 id: 553
 ---
+
+# Drupal talk at FeWeb
 
 I gave a Drupal presentation at the annual FeWeb conference here in Belgium last night. [FeWeb](http://www.feweb.be) is a Belgian association for website developers; this year was the sixth edition of their annual conference.
 

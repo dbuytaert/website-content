@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source'
 title: 'Balancing Makers and Takers to scale and sustain Open Source'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-09-19T08:51:02-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'To scale and sustain Open Source ecosystems in a more efficient and fair manner, Open Source projects need to embrace new governance, coordination and incentive models.'
-image: blog/open-source-makers-and-takers-1
 tags:
   - Drupal
   - 'Open Source'
-featured: true
+image: blog/open-source-makers-and-takers-1
 published: true
-type: blog
-url: /balancing-makers-and-takers-to-scale-and-sustain-open-source
+featured: true
 id: 4931
 ---
+
+# Balancing Makers and Takers to scale and sustain Open Source
 
 [image blog/open-source-makers-and-takers-1]
 

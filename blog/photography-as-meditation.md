@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/photography-as-meditation'
 title: 'Photography as meditation'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-02-01T08:39:14-05:00'
-author: Dries
-image: miscellaneous-2022/phalanx-of-snow-plows
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Boston
+image: miscellaneous-2022/phalanx-of-snow-plows
 published: true
-type: blog
-url: /photography-as-meditation
 id: 5296
 ---
+
+# Photography as meditation
 
 <div class="large">
   [image miscellaneous-2022/phalanx-of-snow-plows]

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/acquia-sponsors-npr'
 title: 'Acquia sponsors NPR'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-03-01T04:33:04-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
 published: true
-type: blog
-url: /acquia-sponsors-npr
 id: 4781
 ---
+
+# Acquia sponsors NPR
 
 As I wrote in [my previous post](https://dri.es/acquia-takes-over-a-subway-station), you might be seeing a lot more of [Acquia](https://www.acquia.com/) in the coming weeks. If you listen to [NPR](https://www.npr.org/), you may have heard our new radio ads.
 

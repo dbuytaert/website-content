@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/is-open-source-recession-proof'
 title: 'Is Open Source recession-proof?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-03-19T12:12:31-04:00'
-author: Dries
-image: blog/blue-wave
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Source'
   - Drupal
+image: blog/blue-wave
 published: true
-type: blog
-url: /is-open-source-recession-proof
 id: 4976
 ---
+
+# Is Open Source recession-proof?
 
 [image blog/blue-wave]
 

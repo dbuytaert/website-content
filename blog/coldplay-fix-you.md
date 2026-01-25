@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/coldplay-fix-you'
 title: 'Coldplay - Fix you'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-02-24T12:31:01-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Favorite music'
 published: true
-type: blog
-url: /coldplay-fix-you
 id: 2901
 ---
+
+# Coldplay - Fix you
 
 [video SKrceZxL8r8]
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-retrospective-2011'
 title: 'Acquia retrospective 2011'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-01-05T14:59:35-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Retrospective
 published: true
-type: blog
-url: /acquia-retrospective-2011
 id: 2616
 ---
+
+# Acquia retrospective 2011
 
 It's that time of year again! In good tradition, here is my retrospective on Acquia's accomplishments for 2011. (You can also read my [2009](https://dri.es/acquia-retrospective-2009) and [2010](https://dri.es/acquia-retrospective-2010) retrospectives.)
 

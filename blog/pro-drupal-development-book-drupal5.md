@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/pro-drupal-development-book-drupal5'
 title: 'Pro Drupal Development book for Drupal 5'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-04-26T06:01:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal books'
 published: true
-type: blog
-url: /pro-drupal-development-book-drupal5
 id: 261
 ---
+
+# Pro Drupal Development book for Drupal 5
 
 [John VanDyk](https://www.sysarchitects.com/blog) and [Matt Westgate](http://www.asitis.org/) have written a Drupal book for developers: [Pro Drupal Development](http://drupalbook.com/), published by [Apress](https://www.apress.com/).
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/my-thoughts-on-ibm-buying-red-hat-for-34-billion'
 title: 'My thoughts on IBM buying Red Hat for $34 billion'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-10-28T20:16:06-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'IBM buying Red Hat should be great for Open Source, good for IBM and healthy for the cloud wars.'
 tags:
   - 'Open Source'
   - Acquisitions
-featured: true
 published: true
-type: blog
-url: /my-thoughts-on-ibm-buying-red-hat-for-34-billion
+featured: true
 id: 4576
 ---
+
+# My thoughts on IBM buying Red Hat for $34 billion
 
 It was just announced that [IBM bought Red Hat for $34 billion in cash](https://www.nytimes.com/2018/10/28/business/ibm-red-hat-cloud-computing.html). Wow!
 

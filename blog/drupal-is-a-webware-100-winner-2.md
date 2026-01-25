@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-is-a-webware-100-winner-2'
 title: 'Drupal is a Webware 100 winner'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-04-22T02:32:55-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-is-a-webware-100-winner-2
 id: 433
 ---
+
+# Drupal is a Webware 100 winner
 
 [image drupal/webware-100-winner-2008]
 

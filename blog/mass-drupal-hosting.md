@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/mass-drupal-hosting'
 title: 'Mass Drupal hosting'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-12-14T04:56:39-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /mass-drupal-hosting
 id: 189
 ---
+
+# Mass Drupal hosting
 
 Taken from [this press release](https://www.yahoo.com/news/s/nm/20061211/bs_nm/internet_wikia_dc_1) at News Yahoo!:
 

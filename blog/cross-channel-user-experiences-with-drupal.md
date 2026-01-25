@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/cross-channel-user-experiences-with-drupal'
 title: 'Cross-channel user experiences with Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-05-16T10:55:56-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How new user experiences and distribution platforms will change the way we build the web in the future'
-image: blog/javascript-powered-multichannel
 tags:
   - Drupal
   - 'Headless Drupal'
+image: blog/javascript-powered-multichannel
 published: true
-type: blog
-url: /cross-channel-user-experiences-with-drupal
 id: 3681
 ---
+
+# Cross-channel user experiences with Drupal
 
 [image blog/javascript-powered-multichannel resize=false]
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/section-230-repeal-reform-or-reprioritize'
 title: 'Section 230: repeal, reform or reprioritize?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-03-25T21:32:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Source'
   - 'Open Web'
   - Policy
   - 'Social media'
 published: true
-type: blog
-url: /section-230-repeal-reform-or-reprioritize
 id: 5186
 ---
+
+# Section 230: repeal, reform or reprioritize?
 
 Today, the U.S. Congress and big tech companies continued the debate about [Section 230 of the 1996 Communications Decency Act](https://en.wikipedia.org/wiki/Section_230).
 

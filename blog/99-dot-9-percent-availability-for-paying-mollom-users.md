@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/99-dot-9-percent-availability-for-paying-mollom-users'
 title: '99.9% availability for paying Mollom users'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-11-18T03:54:08-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
 published: true
-type: blog
-url: /99-dot-9-percent-availability-for-paying-mollom-users
 id: 534
 ---
+
+# 99.9% availability for paying Mollom users
 
 At [Mollom](https://mollom.com), we're focused on blocking spam. To do that, we've built a world-class (and world-wide) infrastructure that evaluates your site's comments and posts in real time, freeing you from moderation duties to spend your time on more satisfying pursuits.
 

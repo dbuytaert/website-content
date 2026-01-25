@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/how-drupal-influences-other-open-source-projects'
 title: 'How Drupal influences other Open Source projects'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-04-27T10:23:11-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Leadership
   - 'Open Source'
-featured: false
 published: true
-type: blog
-url: /how-drupal-influences-other-open-source-projects
+featured: false
 id: 4311
 ---
+
+# How Drupal influences other Open Source projects
 
 If you are interested in Open Source and have some time this weekend, watch [Steve Francia](https://stevefrancia.com)'s DrupalCon keynote called "[Drupal and the secret of my success](https://www.youtube.com/watch?v=EJo9tPXGPo8)". 
 

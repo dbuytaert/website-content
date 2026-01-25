@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-search-goes-public-beta'
 title: 'Acquia Search goes public beta'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-03-04T23:32:44-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Search'
 published: true
-type: blog
-url: /acquia-search-goes-public-beta
 id: 613
 ---
+
+# Acquia Search goes public beta
 
 At Acquia, we've launched [Acquia Search](https://www.acquia.com/products-services/acquia-search) in public beta today.
 

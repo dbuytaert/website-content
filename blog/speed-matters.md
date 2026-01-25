@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/speed-matters'
 title: 'Speed matters'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-12-18T07:12:38-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Statistics
 published: true
-type: blog
-url: /speed-matters
 id: 1266
 ---
+
+# Speed matters
 
 More proof that [speed as perceived by the end user matters](https://dri.es/faster-is-better). This time from a [Google Research paper](http://code.google.com/speed/files/delayexp.pdf) (PDF). Google's experiments demonstrate that increasing web search latency 100 to 400 ms reduces the daily number of searches per user by 0.2% to 0.6%. Furthermore – and this is where it gets really interesting – users do fewer searches the longer they are exposed. In other words, the cost of slower performance increases over time and persists.
 

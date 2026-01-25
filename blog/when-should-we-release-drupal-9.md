@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/when-should-we-release-drupal-9'
 title: 'When should we release Drupal 9?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-05-25T06:28:46-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Thoughts about Drupal 9 release timelines, including how this might impact Drupal 7, Drupal 8 and even Drupal 10.'
 tags:
   - Drupal
 published: true
-type: blog
-url: /when-should-we-release-drupal-9
 id: 4376
 ---
+
+# When should we release Drupal 9?
 
 Since the release of Drupal 8.0.0 in November 2015, the Drupal 8 core committers have been discussing when and how we'll release Drupal 9. [Nat Catchpole](https://www.drupal.org/u/catch), one of Drupal 8's core committers, shared [some excellent thoughts](https://www.thirdandgrove.com/long-road-drupal-9) about what goes into making that decision.
 

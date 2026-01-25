@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/drupal-open-web-manifesto'
 title: 'The Drupal Open Web Manifesto'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-06-28T04:23:56-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal declares its commitment to actively shape a safer and inclusive web.'
-image: drupal/open-web-manifesto
 tags:
   - Drupal
   - 'Drupal Association'
   - 'Open Web'
-featured: true
+image: drupal/open-web-manifesto
 published: true
-type: blog
-url: /drupal-open-web-manifesto
+featured: true
 id: 5471
 ---
+
+# The Drupal Open Web Manifesto
 
 [image drupal/open-web-manifesto resize=false caption=false]
 

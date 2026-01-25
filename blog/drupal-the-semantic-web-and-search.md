@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-the-semantic-web-and-search'
 title: 'Drupal, the semantic web and search'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-10-15T07:43:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'I can has semweb in Drupal core?'
 tags:
   - Drupal
   - 'Semantic web'
 published: true
-type: blog
-url: /drupal-the-semantic-web-and-search
 id: 520
 ---
+
+# Drupal, the semantic web and search
 
 All major search engines, including Google and Yahoo!, are moving aggressively trying to capture structured data. This isn't exactly a surprise because it provides tremendous opportunity. Let's take the example of *product search*. Imagine the web as a huge database of millions of products, and search engines like Google and Yahoo! giving you a rich set of controls to filter by price, availability, color, shipping cost, user ratings, and more. Wouldn't it be great to be able to search all the world's products from a single page with a single interface? I'd think so too.
 

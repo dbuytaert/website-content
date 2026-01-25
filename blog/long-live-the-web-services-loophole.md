@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/long-live-the-web-services-loophole'
 title: 'Long live the web services loophole'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-11-13T05:11:49-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal distributions'
 published: true
-type: blog
-url: /long-live-the-web-services-loophole
 id: 177
 ---
+
+# Long live the web services loophole
 
 You can't sell Drupal, or any modification you made to Drupal. You can charge money for having to make these changes but you can't make these changes available under a commercial license. Why not? Because Drupal's license, the [General Public License 2](https://www.gnu.org/licenses/gpl.txt) (GPL 2), mandates that all modifications also be distributed under the GPL.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/personalization-takes-flight-with-the-new-acquia-lift'
 title: 'Personalization takes flight with the new Acquia Lift'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-10-17T19:16:05-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Acquia Lift'
 published: true
-type: blog
-url: /personalization-takes-flight-with-the-new-acquia-lift
 id: 3796
 ---
+
+# Personalization takes flight with the new Acquia Lift
 
 Last week, we launched a new version of Acquia Lift, our personalization tool. Acquia Lift learns about your visitors' interests, preferences and context and uses that information to personalize and contextualize their experience. After more than a year of hard work, Acquia Lift has many new and powerful capabilities. In this post, I want to highlight some of the biggest improvements.
 

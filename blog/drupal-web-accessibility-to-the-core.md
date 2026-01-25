@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-web-accessibility-to-the-core'
 title: 'Drupal: web accessibility to the core'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-12-03T02:26:50-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Accessibility
 published: true
-type: blog
-url: /drupal-web-accessibility-to-the-core
 id: 3071
 ---
+
+# Drupal: web accessibility to the core
 
 For the [International Day of People with Disabilities (IDPwD)](http://www.idpwd.com.au) today on December 3rd, I want to take some time to reflect on the [Drupal community](https://www.drupal.org)'s work to support universal access to information technology. Drupal is an inclusive community, both in how we interact with each other and in the results of our work.
 

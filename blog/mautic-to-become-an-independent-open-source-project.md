@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/mautic-to-become-an-independent-open-source-project'
 title: 'Mautic to become an independent Open Source project'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-04-18T07:58:54-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Acquia supports Mautic's transition into a fully autonomous Open Source project, allowing Mautic to thrive and evolve freely."
-image: acquia/mautic-to-become-independent
 tags:
   - Drupal
   - Mautic
   - Acquia
   - 'Drupal Association'
-featured: true
+image: acquia/mautic-to-become-independent
 published: true
-type: blog
-url: /mautic-to-become-an-independent-open-source-project
+featured: true
 id: 5446
 ---
+
+# Mautic to become an independent Open Source project
 
 [image acquia/mautic-to-become-independent]
 

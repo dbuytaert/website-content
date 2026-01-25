@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/announcing-spark-authoring-improvements-for-drupal-7-and-drupal-8'
 title: 'Announcing Spark: authoring improvements for Drupal 7 and Drupal 8'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-05-01T10:55:30-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Usability
   - 'Spark distribution'
 published: true
-type: blog
-url: /announcing-spark-authoring-improvements-for-drupal-7-and-drupal-8
 id: 2691
 ---
+
+# Announcing Spark: authoring improvements for Drupal 7 and Drupal 8
 
 At DrupalCon Denver, I announced the need for a strong focus on Drupal's authoring experience in [my State of Drupal presentation](https://dri.es/state-of-drupal-presentation-march-2012). During [my core conversation](https://denver2012.drupal.org/content/directions-drupal-core) later in the week, I announced the creation of a Drupal 7 distribution named "[Spark](https://www.drupal.org/project/spark)" (formerly code-named "Phoenix"). The goal of Spark is to act as an incubator for Drupal 8 authoring experience improvements that can be tested in the field.
 

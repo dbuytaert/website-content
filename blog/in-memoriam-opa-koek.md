@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/in-memoriam-opa-koek'
 title: 'In memoriam: Opa Koek'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-06-04T12:23:04-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Family
   - 'In memoriam'
 published: true
-type: blog
-url: /in-memoriam-opa-koek
 id: 3701
 ---
+
+# In memoriam: Opa Koek
 
 Dear Opa,
 

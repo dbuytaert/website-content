@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupalcon-boston-registration-open'
 title: 'DrupalCon Boston registration open'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-01-15T08:50:10-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - 'Drupal Association'
 published: true
-type: blog
-url: /drupalcon-boston-registration-open
 id: 389
 ---
+
+# DrupalCon Boston registration open
 
 The [DrupalCon Boston 2008](https://dri.es/drupalcon-boston) registration is now open! You can register at [http://boston2008.drupalcon.org/](http://boston2008.drupalcon.org).
 

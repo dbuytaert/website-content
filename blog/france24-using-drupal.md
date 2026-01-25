@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/france24-using-drupal'
 title: 'France24 using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-05-08T15:38:07-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - France
   - Broadcasting
 published: true
-type: blog
-url: /france24-using-drupal
 id: 443
 ---
+
+# France24 using Drupal
 
 [image drupal/france24]
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/claude-is-growing-a-tomato-plant'
 title: 'Claude is growing a tomato plant'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2026-01-05T10:14:17-05:00'
-author: Dries
-image: blog/claude-tomato-plant
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Artificial Intelligence'
   - Electronics
-featured: false
+image: blog/claude-tomato-plant
 published: true
-type: blog
-url: /claude-is-growing-a-tomato-plant
+featured: false
 id: 6031
 ---
+
+# Claude is growing a tomato plant
 
 A developer named Martin DeVido gave [Claude](https://claude.ai/) complete control over a living tomato plant that he named Sol. This might be the coolest agentic experiment I've seen. You can follow along live at [autoncorp.com/biodome](https://autoncorp.com/biodome).
 

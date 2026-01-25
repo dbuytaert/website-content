@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/mollom-filtering-millions-of-messages-for-netlog'
 title: 'Mollom filtering millions of messages for Netlog'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-05-20T00:49:52-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
 published: true
-type: blog
-url: /mollom-filtering-millions-of-messages-for-netlog
 id: 653
 ---
+
+# Mollom filtering millions of messages for Netlog
 
 We're proud to announce that Mollom has partnered with [Netlog](http://www.netlog.com), one of the fastest-growing web communities in Europe. Mollom is now protecting the messages of more than 40 million Netlog members, in more than 25 different languages. Netlog is primarily used by students for communication, entertainment and for sharing music and photos. Each day, Netlog members exchange more than 4 million messages, all analyzed by Mollom for spam and unwanted content in real-time.
 

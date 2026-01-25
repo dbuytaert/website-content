@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/the-business-behind-open-source'
 title: 'The business behind Open Source'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-07-24T10:38:13-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Open Source'
 published: true
-type: blog
-url: /the-business-behind-open-source
 id: 3181
 ---
+
+# The business behind Open Source
 
 A few days ago, I sat down with [Quentin Hardy](https://twitter.com/qhardy) of [The New York Times](http://nytimes.com) to talk Open Source. We spoke mostly about the [Drupal ecosystem](https://www.drupal.org) and how [Acquia](https://www.acquia.com) makes money. As someone who spent almost his entire career in Open Source, I'm a firm believer in the fact that you can [build a high-growth, high-margin business and help the community flourish](https://dri.es/do-well-do-good). It's not an either-or proposition, and Acquia and Drupal are proof of that.
 

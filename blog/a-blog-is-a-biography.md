@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/a-blog-is-a-biography'
 title: 'A blog is a biography'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-12-12T03:17:43-05:00'
-author: Dries
-image: old-photos-without-date/greet-van-lerberghe-birth
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Digital preservation'
   - 'My site'
   - Writing
-featured: false
+image: old-photos-without-date/greet-van-lerberghe-birth
 published: true
-type: blog
-url: /a-blog-is-a-biography
+featured: false
 id: 5986
 ---
+
+# A blog is a biography
 
 [image old-photos-without-date/greet-van-lerberghe-birth]
 

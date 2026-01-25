@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/what-a-ride-so-far'
 title: 'What a ride so far'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-01-13T08:08:02-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /what-a-ride-so-far
 id: 386
 ---
+
+# What a ride so far
 
 <video controls="" src="https://dri.es/files/getting-a-company-of-the-ground.mov">
 </video>

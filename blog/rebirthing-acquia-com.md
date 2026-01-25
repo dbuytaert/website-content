@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/rebirthing-acquia-com'
 title: 'Rebirthing Acquia.com'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-07-19T04:14:29-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
 published: true
-type: blog
-url: /rebirthing-acquia-com
 id: 2441
 ---
+
+# Rebirthing Acquia.com
 
 If you're a regular visitor to [the Acquia website](https://www.acquia.com), you were probably surprised at what you saw the last time you stopped by. Aside from our new company logo, the whole site has a very different look, navigation, and main message points from a few days ago. This is the result of a project that has kept our marketing teams busy for the last few months.
 

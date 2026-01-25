@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/an-updated-plan-for-drupal-11'
 title: 'An updated plan for Drupal 11'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2023-07-25T10:19:59-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'How Drupal aims to be the top choice for ambitious site builders through user-friendly site building tools, enhanced content editing, and simplified upgrades.'
-image: drupal-core-committer-offsite-2023/lauri-eskola
 tags:
   - Drupal
+image: drupal-core-committer-offsite-2023/lauri-eskola
 published: true
-type: blog
-url: /an-updated-plan-for-drupal-11
 id: 5481
 ---
+
+# An updated plan for Drupal 11
 
 During [DrupalCon Portland 2022](https://dri.es/state-of-drupal-presentation-april-2022), I shared [my initial vision and strategy for Drupal 11](https://dri.es/a-plan-for-drupal-11). The overarching goal of this strategy is to establish Drupal as the preferred tool for [ambitious site builders on the Open Web](https://dri.es/drupal-open-web-manifesto).
 

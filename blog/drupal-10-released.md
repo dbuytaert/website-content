@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-10-released'
 title: 'Drupal 10 released '
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-12-14T11:41:33-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal 10.0.0 launches with various major improvements in user experience.'
-image: drupal/drupal-10-confetti
 tags:
   - Drupal
+image: drupal/drupal-10-confetti
 published: true
-type: blog
-url: /drupal-10-released
 id: 5396
 ---
+
+# Drupal 10 released 
 
 [image drupal/drupal-10-confetti resize=false]
 

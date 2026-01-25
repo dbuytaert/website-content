@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/from-aloha-to-ckeditor'
 title: 'From Aloha to CKEditor'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-01-02T15:25:45-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Spark distribution'
 published: true
-type: blog
-url: /from-aloha-to-ckeditor
 id: 2856
 ---
+
+# From Aloha to CKEditor
 
 In the summer, I announced that [we would adopt Aloha Editor as part of Drupal 8](https://dri.es/spark-update-wysiwyg-editing-for-drupal). The primary reason was that Aloha was the only WYSIWYG editor that supported in-place ("true" WYSIWYG) editing; something we need to accomplish [our vision for in-place editing](https://dri.es/spark-update-in-line-editing-in-drupal). The Aloha Editor developers have been excellent in their attention to Drupal's needs. However, due to the nature of their editor being based around the concept of "true" WYSIWYG, we've run into some issues (which the Aloha Editor folks are actively working on) surrounding the user experience and accessibility of Aloha Editor when using it on the back-end.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/open-source-skiing'
 title: 'Open Source skiing'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-04-02T22:47:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Open Source'
   - Skiing
-featured: false
 published: true
-type: blog
-url: /open-source-skiing
+featured: false
 id: 624
 ---
+
+# Open Source skiing
 
 Last week, I went skiing for 2 days with a great group of executives from the Open Source business community. We went to Alta and Snowbird for some serious skiing. It took 3 days for my muscles to recover. *Thanks [Matt](http://news.cnet.com/8301-13505_3-10211086-16.html)!*
 

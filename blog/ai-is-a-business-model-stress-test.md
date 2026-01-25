@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/ai-is-a-business-model-stress-test'
 title: 'AI is a business model stress test'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2026-01-09T21:17:02-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "AI commoditizes anything you can specify. It can't (yet) commoditize what requires ongoing operation."
-image: blog/sailing-into-the-unknown
 tags:
   - 'Open Source'
   - 'Business model'
   - Acquia
   - 'Artificial Intelligence'
-featured: false
+image: blog/sailing-into-the-unknown
 published: true
-type: blog
-url: /ai-is-a-business-model-stress-test
+featured: false
 id: 6041
 ---
+
+# AI is a business model stress test
 
 [image blog/sailing-into-the-unknown priority=true schema=false]
 

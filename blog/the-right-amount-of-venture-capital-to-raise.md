@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/the-right-amount-of-venture-capital-to-raise'
 title: 'The right amount of venture capital to raise'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-12-08T07:28:13-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
   - 'Startup lessons'
   - Investing
 published: true
-type: blog
-url: /the-right-amount-of-venture-capital-to-raise
 id: 2016
 ---
+
+# The right amount of venture capital to raise
 
 In this post, I want to focus on one of the most difficult questions for entrepreneurs raising money from investors: what is the right amount of capital to raise? We debated this question extensively in each of the three rounds of raising venture capital at [Acquia](https://www.acquia.com). It's particularly a tricky question for people like me who are relatively new to venture capital. I spent plenty of time thinking about this and talked about it with numerous successful entrepreneurs that have raised money before.
 

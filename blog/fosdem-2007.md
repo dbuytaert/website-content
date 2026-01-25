@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/fosdem-2007'
 title: 'FOSDEM 2007'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-02-14T10:34:28-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - FOSDEM
 published: true
-type: blog
-url: /fosdem-2007
 id: 217
 ---
+
+# FOSDEM 2007
 
 I'll be talking about [Drupal](https://www.drupal.org) at [FOSDEM](https://fosdem.org/) this year. FOSDEM, which stands for Free and Open Source Software Developers' European Meeting, will take place in Brussels (Belgium) on February 24 and 25.
 

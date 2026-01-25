@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-launch-party-at-felt'
 title: 'Acquia launch party at Felt'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-03-10T06:46:29-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - DrupalCon
   - Acquia
 published: true
-type: blog
-url: /acquia-launch-party-at-felt
 id: 411
 ---
+
+# Acquia launch party at Felt
 
 At DrupalCon Boston, [Acquia](https://www.acquia.com) sponsored a launch party at the [Felt club in Boston](http://www.feltclubboston.com/). Jeff Robbins from [Lullabot](https://lullabot.com) performed live with its former rock band [Orbit](http://www.orbitband.com/), and Acquia's Jay Batson took the crowd deep into the night with progressive house and trance music. *Great parteeh!*
 

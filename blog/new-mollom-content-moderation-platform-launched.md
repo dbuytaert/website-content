@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/new-mollom-content-moderation-platform-launched'
 title: 'New Mollom content moderation platform launched'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-03-20T10:07:02-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
   - Acquia
 published: true
-type: blog
-url: /new-mollom-content-moderation-platform-launched
 id: 2931
 ---
+
+# New Mollom content moderation platform launched
 
 Today I'm excited to announce that we've released the next generation of Mollom - our Content Moderation Platform. For the past five years, we have worked hard to help companies stay ahead of the curve when it comes to content moderation. With today's release, I feel like we've secured our place as the leading enterprise-ready content moderation system.
 

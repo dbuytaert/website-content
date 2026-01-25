@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/announcing-the-drupal-starshot-advisory-council'
 title: 'Announcing the Drupal Starshot Advisory Council'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2024-07-11T17:11:42-04:00'
-author: Dries
-image: drupal/starshot-council
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Starshot'
+image: drupal/starshot-council
 published: true
-type: blog
-url: /announcing-the-drupal-starshot-advisory-council
 id: 5651
 ---
+
+# Announcing the Drupal Starshot Advisory Council
 
 [image drupal/starshot-council schema=false]
 

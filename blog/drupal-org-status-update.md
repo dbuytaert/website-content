@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-org-status-update'
 title: 'Drupal.org status update'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-08-04T08:03:45-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /drupal-org-status-update
 id: 482
 ---
+
+# Drupal.org status update
 
 Last night, I was up until after midnight studying the submitted bids for the Drupal.org redesign. This morning I continued my evaluation at 6:00am. Why? Because tonight the [Drupal Association](https://association.drupal.org) will select the design firm that will be responsible for a redesign of Drupal.org.
 

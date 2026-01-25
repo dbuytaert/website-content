@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/simple-javascript-search'
 title: 'Simple JavaScript search'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-11-19T04:33:35-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'My site'
   - JavaScript
 published: true
-type: blog
-url: /simple-javascript-search
 id: 5256
 ---
+
+# Simple JavaScript search
 
 When I have a little bit of time, I enjoy working on my website. I sand it down, polish it, or smoothen a rough edge.
 

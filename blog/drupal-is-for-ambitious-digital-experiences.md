@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-is-for-ambitious-digital-experiences'
 title: 'Drupal is for ambitious digital experiences'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-06-29T05:34:56-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Defining Drupal as 'for ambitious digital experiences' captures its true capabilities better than limiting it to enterprise use."
 tags:
   - Drupal
-featured: true
 published: true
-type: blog
-url: /drupal-is-for-ambitious-digital-experiences
+featured: true
 id: 3731
 ---
+
+# Drupal is for ambitious digital experiences
 
 What feelings does the name Drupal evoke? Perceptions vary from person to person; where one may describe it in positive terms as "powerful" and "flexible", another may describe it negatively as "complex". People describe Drupal differently not only as a result of their professional backgrounds, but also based on what they've heard and learned.
 

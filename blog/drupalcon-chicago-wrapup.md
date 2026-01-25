@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupalcon-chicago-wrapup'
 title: 'DrupalCon Chicago wrapup'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-03-16T17:18:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - Chicago
 published: true
-type: blog
-url: /drupalcon-chicago-wrapup
 id: 2236
 ---
+
+# DrupalCon Chicago wrapup
 
 DrupalCon Chicago ended a few days ago. I'm mostly over my post-DrupalCon blues. As I'm digging out of the back-log of work and sending follow-up e-mails, though, I'm also trying to wrap my head around what happened at DrupalCon. Here are the things which stood out for me:
 

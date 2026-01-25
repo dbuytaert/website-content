@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-april-2017'
 title: 'State of Drupal presentation (April 2017)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-05-01T15:41:24-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'DrupalCon Baltimore Driesnote presentation'
-image: drupalcon-baltimore-2017/drupal-community
 tags:
   - DrupalCon
   - 'State of Drupal'
   - Drupal
+image: drupalcon-baltimore-2017/drupal-community
 published: true
-type: blog
-url: /state-of-drupal-presentation-april-2017
 id: 3921
 ---
+
+# State of Drupal presentation (April 2017)
 
 [image drupalcon-baltimore-2017/drupal-community]
 

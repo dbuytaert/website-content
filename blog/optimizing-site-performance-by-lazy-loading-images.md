@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/optimizing-site-performance-by-lazy-loading-images'
 title: 'Optimizing site performance by "lazy loading" images'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-02-21T03:48:30-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Learn how to implement lazy loading images to improve the performance of your website.'
-image: blog/webpagetest-images-february-2019-after
 tags:
   - 'Web performance'
   - Drupal
   - 'My site'
   - POSSE
+image: blog/webpagetest-images-february-2019-after
 published: true
-type: blog
-url: /optimizing-site-performance-by-lazy-loading-images
 id: 4771
 ---
+
+# Optimizing site performance by "lazy loading" images
 
 Recently, I've been spending some time making performance improvements to my site. In my previous blog post on this topic, I described my progress [optimizing the JavaScript and CSS usage on my site](https://dri.es/optimizing-site-performance-by-reducing-javascript-and-css), and concluded that image optimization was the next step.
 

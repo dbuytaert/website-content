@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/tate-using-drupal'
 title: 'Tate using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-10-27T12:24:43-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - 'United Kingdom'
   - Government
 published: true
-type: blog
-url: /tate-using-drupal
 id: 1946
 ---
+
+# Tate using Drupal
 
 [image drupal/turbinegeneration-tate]
 

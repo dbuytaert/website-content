@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-7-code-freeze-september-1st'
 title: 'Drupal 7 code freeze: September 1st'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-03-04T18:35:03-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-7-code-freeze-september-1st
 id: 611
 ---
+
+# Drupal 7 code freeze: September 1st
 
 As I announced in my keynote presentation at DrupalCon DC this morning, the next code freeze will be on September 1st, a little less than six months from now. It's been more than a year since [we started work on Drupal 7](https://dri.es/starting-to-work-on-drupal-7), and we have two-thirds of the development cycle behind us.
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/running-activepieces-locally-with-docker'
 title: 'Running Activepieces locally with Docker'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-11-07T04:15:28-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: note
 tags:
   - Activepieces
   - Drupal
   - Automation
-featured: false
 published: true
-type: note
-url: /running-activepieces-locally-with-docker
+featured: false
 id: 5921
 ---
+
+# Running Activepieces locally with Docker
 
 For [Drupal](https://www.drupal.org/) developers, [Activepieces](https://www.activepieces.com/) makes it easy to connect Drupal to other systems. Think of it as an open source alternative to tools like [Zapier](https://zapier.com/) or [n8n](https://n8n.io/), but with an MIT license.  
 

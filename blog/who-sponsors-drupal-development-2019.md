@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/who-sponsors-drupal-development-2019'
 title: 'Who sponsors Drupal development? (2018-2019 edition)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-09-11T12:51:51-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "An in-depth analysis of how Drupal's development was sponsored between July 1, 2018 and June 30, 2019."
-image: drupal/contributions-top-30-organizations-2019
 tags:
   - Drupal
   - 'Drupal sponsors'
   - Diversity
+image: drupal/contributions-top-30-organizations-2019
 published: true
-type: blog
-url: /who-sponsors-drupal-development-2019
 id: 4926
 ---
+
+# Who sponsors Drupal development? (2018-2019 edition)
 
 The past years, I've examined Drupal.org's contribution data to understand who develops Drupal, how diverse the Drupal community is, how much of Drupal's maintenance and innovation is sponsored, and where that sponsorship comes from.
 

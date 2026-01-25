@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/questions-for-my-badcamp-keynote-interview'
 title: 'Questions for my BADCamp keynote interview?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-10-17T07:26:37-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Invitations
 published: true
-type: blog
-url: /questions-for-my-badcamp-keynote-interview
 id: 2541
 ---
+
+# Questions for my BADCamp keynote interview?
 
 Did you know there is a DrupalCamp that is bigger than most past DrupalCons? It's the Bay Area Drupal Camp, or [BADCamp](http://badcamp.net) which is expected to draw over 1,400 people this year for three days of trainings, summits, sprints, sessions, BOFs and parties all across Berkeley this weekend.
 

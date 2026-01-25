@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/boston-sailing-on-the-charles-river'
 title: 'Boston sailing on the Charles River'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-10-24T20:56:10-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Boston
 published: true
-type: blog
-url: /boston-sailing-on-the-charles-river
 id: 1931
 ---
+
+# Boston sailing on the Charles River
 
 [image winchester-2010/charles-river-sailing]

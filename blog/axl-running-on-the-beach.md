@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/axl-running-on-the-beach'
 title: 'Axl running on the beach'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-09-27T13:55:58-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Family
   - Axl
   - Boston
 published: true
-type: blog
-url: /axl-running-on-the-beach
 id: 1051
 ---
+
+# Axl running on the beach
 
 [image beverly-farms-2009/axl-running-on-beach]
 

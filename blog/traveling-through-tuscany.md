@@ -1,9 +1,13 @@
 ---
+url: 'https://dri.es/traveling-through-tuscany'
 title: 'Traveling through Tuscany'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-09-18T21:38:01-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'A report of our family vacation to Tuscany.'
-image: tuscany-2016/ponte-vecchio-florence
 tags:
   - Family
   - Travel
@@ -13,12 +17,13 @@ tags:
   - Vanessa
   - Tuscany
   - Italy
-featured: true
+image: tuscany-2016/ponte-vecchio-florence
 published: true
-type: blog
-url: /traveling-through-tuscany
+featured: true
 id: 3771
 ---
+
+# Traveling through Tuscany
 
 Four weeks ago we went on a vacation in Tuscany. I finally had some time to process the photos and write down our memories from the trip.
 

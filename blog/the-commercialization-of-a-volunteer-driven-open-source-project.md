@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/the-commercialization-of-a-volunteer-driven-open-source-project'
 title: 'The commercialization of a volunteer-driven Open Source project'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-10-25T16:23:07-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Open source projects naturally evolve from volunteer efforts to include paid contributors, enabling them to compete with commercial software.'
 tags:
   - Drupal
   - Joomla
   - WordPress
   - 'Open Source'
-featured: true
 published: true
-type: blog
-url: /the-commercialization-of-a-volunteer-driven-open-source-project
+featured: true
 id: 1936
 ---
+
+# The commercialization of a volunteer-driven Open Source project
 
 In the Open Source software community, there is a considerable nervousness regarding paying people to work on volunteer-driven projects. For example, Joomla recently hired some developers to work on their core software, a decision that has caused much debate in their community. At Drupal, we recently hired a temporary staff to help with the Drupal.org redesign. There is an understandable concern that the spirit of volunteerism will be lost or a volunteer project will be tainted when a paid staff is introduced. There are worries that a project's agenda will change to suit the needs of 'privateers'. However, many projects that rely completely on volunteers fall short of what can be done by a paid staff. Some projects can't afford not to make use of the benefits that a full-time, focused staff can provide.
 

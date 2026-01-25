@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/lee-hunter-new-drupal-documentation-lead'
 title: 'Lee Hunter new Drupal documentation lead'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-02-14T21:47:27-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Leadership updates'
-featured: false
 published: true
-type: blog
-url: /lee-hunter-new-drupal-documentation-lead
+featured: false
 id: 2891
 ---
+
+# Lee Hunter new Drupal documentation lead
 
 I'm happy to announce that [Lee Hunter](https://www.drupal.org/user/117834) has been appointed as the new Documentation Team Lead for Drupal. Lee has been a long term member of Drupal's Documentation Team, and has been a technical editor for thirteen years of his professional career. To read about Lee's vision for Drupal's documentation, please check out [his announcement blog post](http://www.streamoflight.com/three-million-words-about-drupal). The short version is that he will focus primarily on coordinating the effort to document Drupal 8 and exploring ways of making Drupal a more effective tool for technical communication.
 

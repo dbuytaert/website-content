@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/rackspace-using-drupal'
 title: 'Rackspace using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-09-18T11:16:35-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
 published: true
-type: blog
-url: /rackspace-using-drupal
 id: 1021
 ---
+
+# Rackspace using Drupal
 
 Rackspace, the hosting giant, is using Drupal on a support addon website: <https://www.rackspace.com/apps/support>.
 

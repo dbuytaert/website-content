@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/state-of-drupal-presentation-march-2011'
 title: 'State of Drupal presentation (March 2011)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-03-25T10:38:08-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'State of Drupal'
   - DrupalCon
   - Chicago
 published: true
-type: blog
-url: /state-of-drupal-presentation-march-2011
 id: 2271
 ---
+
+# State of Drupal presentation (March 2011)
 
 Two weeks ago, at DrupalCon Chicago, I gave my traditional *State of Drupal* presentation. In good tradition, you can download a copy of [my slides](https://dri.es/files/state-of-drupal-march-2011.pdf) (PDF, 52 MB) or you can watch [a video recording](https://archive.org/details/keynote_dries) of my keynote on archive.org.
 

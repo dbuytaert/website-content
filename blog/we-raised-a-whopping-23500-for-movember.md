@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/we-raised-a-whopping-23500-for-movember'
 title: 'We raised a whopping $23,500 for Movember'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-12-03T09:37:47-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
 published: true
-type: blog
-url: /we-raised-a-whopping-23500-for-movember
 id: 2011
 ---
+
+# We raised a whopping $23,500 for Movember
 
 [Movember](http://movember.com) has come to an end, and soon I will remove the moustache that I groomed so carefully during the month of November. Before I shave, though, I want to thank everyone who sponsored my moustache.
 

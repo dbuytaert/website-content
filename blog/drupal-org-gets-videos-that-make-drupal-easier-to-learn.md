@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-org-gets-videos-that-make-drupal-easier-to-learn'
 title: 'Drupal.org gets videos that make Drupal easier to learn'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-05-29T07:17:21-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The tutorials in the Drupal 8 User Guide are now accompanied by short instructional videos'
 tags:
   - Drupal
   - Usability
 published: true
-type: blog
-url: /drupal-org-gets-videos-that-make-drupal-easier-to-learn
 id: 4386
 ---
+
+# Drupal.org gets videos that make Drupal easier to learn
 
 In the beginning of the year I started doing [some iOS development](https://dri.es/posting-my-phone-battery-status-to-my-site) for [my POSSE plan](https://dri.es/my-posse-plan-for-evolving-my-site). As I was new to iOS development, I decided to teach myself by watching short, instructional videos. Different people learn in different ways, but for me, videos tutorials were the most effective way to learn.
 

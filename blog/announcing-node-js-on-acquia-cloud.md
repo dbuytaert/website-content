@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/announcing-node-js-on-acquia-cloud'
 title: 'Announcing Node.js on Acquia Cloud'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-09-20T10:48:22-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Acquia Cloud now supports both managed Drupal and managed Node.js'
-image: drupal/node-js-on-acquia-cloud
 tags:
   - Drupal
   - Acquia
   - 'Headless Drupal'
   - JavaScript
+image: drupal/node-js-on-acquia-cloud
 published: true
-type: blog
-url: /announcing-node-js-on-acquia-cloud
 id: 4026
 ---
+
+# Announcing Node.js on Acquia Cloud
 
 Today, [Acquia](https://www.acquia.com) announced that it expanded [Acquia Cloud to support Node.js](https://www.acquia.com/about-us/newsroom/press-releases/acquia-debuts-nodejs-and-headless-drupal-acquia-cloud-september-20), the popular open-source JavaScript runtime. This is a big milestone for Acquia as it is the first time we have extended our cloud beyond [Drupal](https://www.drupal.org). I wanted to take some time to explain the evolution of Acquia's open-source stack and why this shift is important for our customers' success.
 

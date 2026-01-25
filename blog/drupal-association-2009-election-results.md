@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-association-2009-election-results'
 title: 'Drupal Association 2009 election results'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-02-18T06:08:36-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /drupal-association-2009-election-results
 id: 599
 ---
+
+# Drupal Association 2009 election results
 
 Yesterday, the [Drupal Association](https://association.drupal.org) elected both new *Permanent Members* to the Drupal Association as well as a new *Board of Directors*.
 

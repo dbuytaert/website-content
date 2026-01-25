@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/stanford-using-drupal'
 title: 'Stanford using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-10-15T12:55:50-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Education
 published: true
-type: blog
-url: /stanford-using-drupal
 id: 1101
 ---
+
+# Stanford using Drupal
 
 I've been around the web long enough to know a good-looking site when I see one – <http://shc.stanford.edu> is a good looking site. It is the home page of the [Stanford Humanities Center](http://shc.stanford.edu), and it uses [Drupal](https://www.drupal.org).
 

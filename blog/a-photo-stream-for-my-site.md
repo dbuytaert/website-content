@@ -1,20 +1,25 @@
 ---
+url: 'https://dri.es/a-photo-stream-for-my-site'
 title: 'A photo stream for my site'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-11-06T11:35:54-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'I built a privacy respecting photo stream with RSS and email so friends can follow my adventures without surveillance platforms.'
-image: miscellaneous-2022/train-1
 tags:
   - POSSE
   - 'My site'
   - Photography
   - 'Photo stream'
-featured: true
+image: miscellaneous-2022/train-1
 published: true
-type: blog
-url: /a-photo-stream-for-my-site
+featured: true
 id: 5381
 ---
+
+# A photo stream for my site
 
 [image miscellaneous-2022/train-1 caption=false]
 

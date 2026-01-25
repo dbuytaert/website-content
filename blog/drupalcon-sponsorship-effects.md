@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupalcon-sponsorship-effects'
 title: 'DrupalCon sponsorship effects'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-08-13T06:04:55-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - 'Drupal Association'
 published: true
-type: blog
-url: /drupalcon-sponsorship-effects
 id: 489
 ---
+
+# DrupalCon sponsorship effects
 
 In two weeks, 500 Drupalistas will come together in [Szeged Hungary for this year's European DrupalCon](http://szeged2008.drupalcon.org/). It will be the first Drupal conference in [Central Europe](https://en.wikipedia.org/wiki/Central_Europe). While that is a bit of an experiment, I'm excited by it as we get to preach and listen to new and different users. What is not to like about that?
 

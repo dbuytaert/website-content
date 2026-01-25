@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/spark-update-in-line-editing-in-drupal'
 title: 'Spark update: in-line editing in Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-05-30T20:23:55-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - Usability
   - 'Spark distribution'
 published: true
-type: blog
-url: /spark-update-in-line-editing-in-drupal
 id: 2701
 ---
+
+# Spark update: in-line editing in Drupal
 
 The goal of the [Spark distribution](https://www.drupal.org/project/spark) is to incubate authoring experience improvements in a Drupal 7 and Drupal 8. It was [announced earlier this month](https://dri.es/announcing-spark-authoring-improvements-for-drupal-7-and-drupal-8), and since then we've been hard at work on initial research and design.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/should-we-prioritize-technological-advances'
 title: 'Should we prioritize technological advances?'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-02-15T02:27:49-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Should we prioritize technological advances?'
 tags:
   - Policy
   - Trends
 published: true
-type: blog
-url: /should-we-prioritize-technological-advances
 id: 3566
 ---
+
+# Should we prioritize technological advances?
 
 *This blog post is co-authored with [Devesh Raj](https://www.linkedin.com/in/devesh-raj-aa8365), Senior Vice President and Head of Strategy and Planning at [Comcast](https://en.wikipedia.org/wiki/Comcast)-[NBCU](https://en.wikipedia.org/wiki/NBCUniversal). Devesh and I are friends and both [Young Global Leader](https://en.wikipedia.org/wiki/Young_Global_Leaders) at the [World Economic Forum](https://www.weforum.org/). In this blog post we share some of our observations and thoughts after attending the World Economic Forum's annual meeting in Davos.*
 

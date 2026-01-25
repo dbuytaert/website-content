@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-vs-joomla-popularity'
 title: 'Drupal vs Joomla: popularity'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-08-29T16:02:42-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Joomla
   - Statistics
 published: true
-type: blog
-url: /drupal-vs-joomla-popularity
 id: 131
 ---
+
+# Drupal vs Joomla: popularity
 
 [Google trends](https://trends.google.com/trends/) is a tool that analyzes Google web searches and that can visualize search trends over time using so called "search-volume graphs". These graphs usually provide a good mechanism to compare the popularity of two or more products.
 

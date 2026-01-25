@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-and-eliminating-middlemen'
 title: 'Drupal and eliminating middlemen'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-04-11T10:10:41-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-and-eliminating-middlemen
 id: 248
 ---
+
+# Drupal and eliminating middlemen
 
 At my 'State of Drupal' presentation at the [Open Source CMS Summit at Yahoo!](https://dri.es/open-source-cms-summit-at-yahoo) last month, I talked about the fact that there is a simple and well-known recipe for success: *using the internet to eliminate middlemen*.
 

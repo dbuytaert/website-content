@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/design4drupal-the-future-of-javascript-in-drupal'
 title: 'Design 4 Drupal: The future of JavaScript in Drupal '
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-06-28T19:44:01-04:00'
-author: Dries
-image: drupal/drupal-is-no-longer-the-drupal-you-used-to-know
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - JavaScript
   - 'Web services'
   - 'Headless Drupal'
+image: drupal/drupal-is-no-longer-the-drupal-you-used-to-know
 published: true
-type: blog
-url: /design4drupal-the-future-of-javascript-in-drupal
 id: 4431
 ---
+
+# Design 4 Drupal: The future of JavaScript in Drupal 
 
 [image drupal/drupal-is-no-longer-the-drupal-you-used-to-know]
 

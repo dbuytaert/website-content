@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/building-a-personal-memex'
 title: 'Building a personal memex'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-02-17T03:27:33-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Writing
   - 'My site'
 published: true
-type: blog
-url: /building-a-personal-memex
 id: 5146
 ---
+
+# Building a personal memex
 
 [Cory Doctorow](https://pluralistic.net/) is one of the most prolific bloggers in the world, capable of publishing multiple great posts a day. He recently [documented his writing and publishing process](https://pluralistic.net/2021/01/13/two-decades/#hfbd). It's fascinating.
 

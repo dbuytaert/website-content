@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/selecting-a-client-side-framework-for-drupal'
 title: 'Selecting a client-side framework for Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-01-06T10:00:18-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Selecting a client-side framework for Drupal'
 tags:
   - Drupal
   - JavaScript
   - 'Headless Drupal'
 published: true
-type: blog
-url: /selecting-a-client-side-framework-for-drupal
 id: 3541
 ---
+
+# Selecting a client-side framework for Drupal
 
 Last month, my blog post about [whether a client-side framework is right for Drupal](https://dri.es/should-we-decouple-drupal-with-a-client-side-framework) stimulated some excellent insights into how the future of the Drupal front end might look. There was broad agreement that incorporating more JavaScript into Drupal's administrative interface is important for a future-ready user experience.
 

@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/i-gave-an-ai-agent-edit-access-to-my-website'
 title: 'I gave an AI agent edit access to my website'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-01-21T17:31:49-05:00'
-author: Dries
-image: blog/collaborating-with-an-ai-agent
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'Artificial Intelligence'
   - Drupal
+image: blog/collaborating-with-an-ai-agent
 published: true
-type: blog
-url: /i-gave-an-ai-agent-edit-access-to-my-website
 id: 5746
 ---
+
+# I gave an AI agent edit access to my website
 
 [image blog/collaborating-with-an-ai-agent schema=false]
 

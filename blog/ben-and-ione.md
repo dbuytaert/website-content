@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/ben-and-ione'
 title: 'Ben and Ione'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-07-05T06:43:45-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Friends
   - Boston
 published: true
-type: blog
-url: /ben-and-ione
 id: 2406
 ---
+
+# Ben and Ione
 
 [image winchester-2011/ben-and-ione]
 

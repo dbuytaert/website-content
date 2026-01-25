@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/anders-bals'
 title: 'Anders Bals'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-08-15T06:32:23-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Friends
 published: true
-type: blog
-url: /anders-bals
 id: 124
 ---
+
+# Anders Bals
 
 [image miscellaneous-2006/anders-bals]
 

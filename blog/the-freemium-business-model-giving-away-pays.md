@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/the-freemium-business-model-giving-away-pays'
 title: 'The freemium business model: giving away pays'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-11-13T04:43:48-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
@@ -9,10 +14,10 @@ tags:
   - 'Open Source'
   - 'Business model'
 published: true
-type: blog
-url: /the-freemium-business-model-giving-away-pays
 id: 530
 ---
+
+# The freemium business model: giving away pays
 
 I've recently been thinking a lot about the [freemium business model](https://en.wikipedia.org/wiki/Freemium_business_model). For those unfamiliar with the *freemium business model*, it was first articulated by venture capitalist Fred Wilson in 2006:
 

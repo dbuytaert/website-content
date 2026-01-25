@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-7-development-process-retrospective-summary'
 title: 'Drupal 7 development process retrospective summary'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-02-11T15:23:13-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Retrospective
 published: true
-type: blog
-url: /drupal-7-development-process-retrospective-summary
 id: 2186
 ---
+
+# Drupal 7 development process retrospective summary
 
 I spent a couple of hours recently summarizing all of the comments on [my Drupal 7 development process retrospective post](https://dri.es/drupal-7-development-process-retrospective). Thanks for all the feedback; it was very useful. I organized the responses into two groups related to the Drupal 7 development cycle: improvements we made during development that people think we should keep, and problems observed during development that people think we should address.
 

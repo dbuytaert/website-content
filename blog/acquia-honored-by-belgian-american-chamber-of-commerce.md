@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/acquia-honored-by-belgian-american-chamber-of-commerce'
 title: 'Acquia honored by Belgian-American Chamber of Commerce'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2014-10-09T03:57:44-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
 published: true
-type: blog
-url: /acquia-honored-by-belgian-american-chamber-of-commerce
 id: 3256
 ---
+
+# Acquia honored by Belgian-American Chamber of Commerce
 
 My company [Acquia](https://www.acquia.com) was honored this week by [BelCham](http://belcham.org), the Belgian-American Chamber of Commerce, as the "Company of the Year". I'm proud of this honor, which speaks to the great work that our team of more than 500 Acquians from around the globe do for our customers everyday.
 

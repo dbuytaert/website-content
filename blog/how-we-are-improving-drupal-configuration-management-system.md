@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/how-we-are-improving-drupal-configuration-management-system'
 title: "How we are improving Drupal's configuration management system"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-10-30T13:39:19-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "Next steps for Drupal's configuration management system."
-image: drupal/configuraton-management-initiative
 tags:
   - Drupal
   - Configuration
+image: drupal/configuraton-management-initiative
 published: true
-type: blog
-url: /how-we-are-improving-drupal-configuration-management-system
 id: 4586
 ---
+
+# How we are improving Drupal's configuration management system
 
 Configuration management is an important feature of any modern content management system. Those following modern development best-practices use a development workflow that involves some sort of development and staging environment that is separate from the production environment.
 

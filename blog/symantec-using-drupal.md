@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/symantec-using-drupal'
 title: 'Symantec using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-01-15T03:33:07-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - 'Fortune 500'
 published: true
-type: blog
-url: /symantec-using-drupal
 id: 574
 ---
+
+# Symantec using Drupal
 
 Symantec, a global leader in providing security, storage and systems management solutions, is using [Drupal](https://www.drupal.org) for [Symantec Juice](http://www.symantec.com/community), a community website for customers and end-users. Check it out at <http://www.symantec.com/community>.
 

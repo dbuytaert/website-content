@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/why-the-eu-copyright-directive-is-a-threat-to-the-open-web'
 title: 'Why the EU Copyright Directive is a threat to the Open Web'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2019-02-14T16:52:55-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'The EU Copyright Directive, if approved as is, could stifle global creativity by putting an unneeded burden on sites that host user-generated content.'
-image: blog/copyright
 tags:
   - Policy
   - 'Open Web'
   - Government
+image: blog/copyright
 published: true
-type: blog
-url: /why-the-eu-copyright-directive-is-a-threat-to-the-open-web
 id: 4761
 ---
+
+# Why the EU Copyright Directive is a threat to the Open Web
 
 [image blog/copyright]
 

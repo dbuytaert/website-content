@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-raises-30-million-series-e'
 title: 'Acquia raises $30 million series E'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-11-29T07:39:56-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-raises-30-million-series-e
 id: 2826
 ---
+
+# Acquia raises $30 million series E
 
 Today, we announced that [Acquia raised $30 million](https://techcrunch.com/2012/11/29/acquia-lands-30-million-series-e-to-scale-out-its-enterprise-drupal-development-platform/), our single largest financing we have done to date. The investors include [Investor Growth Capital](http://www.investorgrowthcapital.com/), [Goldman Sachs](http://www.goldmansachs.com/), [Accolade Partners](http://www.accoladepartners.com/) and our existing investors; [North Bridge Venture Partners](http://www.northbridge.com/), [Sigma Partners](https://www.sigmapartners.com/) and [Tenaya Capital](https://www.tenayacapital.com/). The new funding will bring Acquia's total fund-raising to $68.5 million.
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-in-a-tablet-world'
 title: 'Drupal in a tablet world'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-10-07T17:08:17-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Trends
 published: true
-type: blog
-url: /drupal-in-a-tablet-world
 id: 1886
 ---
+
+# Drupal in a tablet world
 
 [image drupalcon-san-francisco-2010/ipad-ad]
 

@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/acquia-a-leader-in-the-2021-forrester-wave-for-agile-content-management-systems'
 title: 'Acquia a leader in the 2021 Forrester Wave for Agile Content Management Systems'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2021-02-26T05:18:40-05:00'
-author: Dries
-image: acquia/forrester-wave-for-agile-content-management-systems-2021
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
   - Drupal
   - Forrester
+image: acquia/forrester-wave-for-agile-content-management-systems-2021
 published: true
-type: blog
-url: /acquia-a-leader-in-the-2021-forrester-wave-for-agile-content-management-systems
 id: 5156
 ---
+
+# Acquia a leader in the 2021 Forrester Wave for Agile Content Management Systems
 
 Acquia was named a Leader in [The Forrester Wave for Agile Content Management Systems, Q1 2021](https://www.acquia.com/blog/acquia-named-leader-2021-forrester-wave-agile-content-management-systems).
 

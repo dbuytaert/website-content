@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/thoughts-as-we-head-to-drupalcon-baltimore'
 title: 'Thoughts as we head to DrupalCon Baltimore'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-04-20T22:20:42-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
 published: true
-type: blog
-url: /thoughts-as-we-head-to-drupalcon-baltimore
 id: 3911
 ---
+
+# Thoughts as we head to DrupalCon Baltimore
 
 The past weeks have been difficult. I'm well aware that the community is struggling, and it really pains me. I respect the various opinions expressed, including opinions different from my own. I want you to know that I'm listening and that I'm carefully considering the different aspects of this situation. I'm doing my best to progress through the issues and support the work that needs to happen to [evolve our governance model](https://dri.es/next-steps-for-evolving-drupal-governance). For those that are attending DrupalCon Baltimore and want to help, we just added a [community discussions track](https://events.drupal.org/baltimore2017/community-discussion).
 

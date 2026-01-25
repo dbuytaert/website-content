@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/acquia-hiring-at-badcamp-2012'
 title: 'Acquia hiring at BADCamp'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-11-03T02:50:26-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Acquia
 published: true
-type: blog
-url: /acquia-hiring-at-badcamp-2012
 id: 2816
 ---
+
+# Acquia hiring at BADCamp
 
 I love attending events like [BADCamp](http://badcamp.net). Being here gives me a chance to connect with many people I've known for a long time, but I also get to meet new people that share our passion for Drupal.
 

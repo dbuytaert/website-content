@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-documentation-team-leadership-change'
 title: 'Drupal documentation team leadership change'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-11-15T13:53:43-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-documentation-team-leadership-change
 id: 1991
 ---
+
+# Drupal documentation team leadership change
 
 We have some changes to announce relative to Drupal's documentation team.
 

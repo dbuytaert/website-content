@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/acquia-network-2-0'
 title: 'Acquia Network 2.0'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-03-03T13:08:38-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /acquia-network-2-0
 id: 2226
 ---
+
+# Acquia Network 2.0
 
 We just re-launched the [Acquia Network](https://www.acquia.com/products-services/acquia-network) with a new look and feel, powerful new services and a new developer-focused subscription. Peter Guagenti, who has championed the effort within Acquia, has all the details in [his announcement blog post](https://www.acquia.com/blog/rebooting-acquia-network-new-tools-services-same-commitment-customers). The Acquia Network is near and dear to my heart as it has been [the core of our offerings](https://dri.es/acquia-out-of-beta) since the founding of the company and is a key element for [Acquia's product vision](https://dri.es/acquia-product-strategy-and-vision).
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/beschuit-met-muisjes'
 title: 'Beschuit met muisjes'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-05-16T14:40:47-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - 'The Netherlands'
 published: true
-type: blog
-url: /beschuit-met-muisjes
 id: 1632
 ---
+
+# Beschuit met muisjes
 
 [image miscellaneous-2010/beschuit-met-muisjes]
 

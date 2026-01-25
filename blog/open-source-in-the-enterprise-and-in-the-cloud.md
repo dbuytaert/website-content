@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/open-source-in-the-enterprise-and-in-the-cloud'
 title: 'Open Source in the Enterprise and in the Cloud'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-03-02T15:59:24-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
   - 'Open Source'
   - 'Business model'
 published: true
-type: blog
-url: /open-source-in-the-enterprise-and-in-the-cloud
 id: 1506
 ---
+
+# Open Source in the Enterprise and in the Cloud
 
 In a couple of weeks, I'll participate in [a panel discussion on The Future of Open Source in Business](https://dri.es/future-of-open-source-survey-2010). In preparation for that discussion, I figured I'd write down my current thoughts and solicit some feedback. I'll talk about two important trends relevant for the future of Open Source, but there are certainly more.
 

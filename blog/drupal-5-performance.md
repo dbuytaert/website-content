@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/drupal-5-performance'
 title: 'Drupal 5: performance'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-02-07T09:15:21-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Web performance'
   - Statistics
 published: true
-type: blog
-url: /drupal-5-performance
 id: 213
 ---
+
+# Drupal 5: performance
 
 With the release of Drupal 5, you might be wondering which version of Drupal is faster – the latest release in the Drupal 4 series, or the new Drupal 5?
 

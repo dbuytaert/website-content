@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/the-transformation-of-drupal-8-for-continuous-innovation'
 title: 'The transformation of Drupal 8 for continuous innovation'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2016-09-28T04:46:09-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal 8 shifted from breaking changes between major releases to semantic versioning, scheduled updates, and experimental modules for faster innovation.'
 tags:
   - Drupal
-featured: true
 published: true
-type: blog
-url: /the-transformation-of-drupal-8-for-continuous-innovation
+featured: true
 id: 3776
 ---
+
+# The transformation of Drupal 8 for continuous innovation
 
 In the past, after every major release of Drupal, most innovation would shift to two areas: (1) contributed modules for the current release, and (2) core development work on the next major release of Drupal. This innovation model was the direct result of several long-standing policies, including [our culture of breaking backward compatibility](https://dri.es/backward-compatibility) between major releases.
 

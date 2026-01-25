@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/axl-buytaert'
 title: 'Axl Buytaert'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-08-14T04:18:16-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Karlijn
   - Family
   - Axl
 published: true
-type: blog
-url: /axl-buytaert
 id: 316
 ---
+
+# Axl Buytaert
 
 [image axl-2007/first-breath]
 

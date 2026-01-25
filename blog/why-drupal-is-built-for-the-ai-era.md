@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/why-drupal-is-built-for-the-ai-era'
 title: 'Why Drupal is built for the AI era'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2025-07-30T10:21:11-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Drupal accidentally prepared for AI. The architectural decisions that made Drupal 8 painful to adopt now make it uniquely capable of deep AI integration.'
-image: blog/drupal-ai-advantage
 tags:
   - Drupal
   - 'Artificial Intelligence'
-featured: false
+image: blog/drupal-ai-advantage
 published: true
-type: blog
-url: /why-drupal-is-built-for-the-ai-era
+featured: false
 id: 5851
 ---
+
+# Why Drupal is built for the AI era
 
 [image blog/drupal-ai-advantage lazy=false priority=true]
 

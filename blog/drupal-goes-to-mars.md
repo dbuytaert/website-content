@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/drupal-goes-to-mars'
 title: 'Drupal goes to Mars'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-02-24T10:59:11-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Space
   - Education
   - Government
-featured: false
 published: true
-type: blog
-url: /drupal-goes-to-mars
+featured: false
 id: 1496
 ---
+
+# Drupal goes to Mars
 
 Drupal goes to Mars, or rather, Drupal helps us go to Mars ... eventually. NASA's Mars Space Flight Facility at Arizona State University is doing a lot of advanced work with [Drupal](https://www.drupal.org). They have a number of Drupal sites, each with a different purpose, but all used to share information about Mars as discovered by [ASU's THEMIS camera](http://themis.asu.edu/about) on the Mars Odyssey orbiter. All of the sites have some interesting integrations with other software, including LDAP, legacy authentication systems, Java Servlet based web services, Flash, Java desktop clients, map servers or Google Earth.
 

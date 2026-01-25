@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/drupalcon-szeged'
 title: 'DrupalCon Szeged'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-04-08T07:13:04-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - DrupalCon
   - 'Drupal Association'
   - Invitations
 published: true
-type: blog
-url: /drupalcon-szeged
 id: 422
 ---
+
+# DrupalCon Szeged
 
 Good news! The next Drupal conference (DrupalCon) will take place in [Szeged](https://en.wikipedia.org/wiki/Szeged), [Hungary](https://en.wikipedia.org/wiki/Hungary) from August 27-30. If you want to learn more about [Drupal](https://www.drupal.org), or if you want to capture and absorb the passion and enthusiasm behind the Drupal project, this is the place to be.
 

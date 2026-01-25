@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/first-drupal-association-community-elections'
 title: 'First Drupal Association community elections'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2012-01-19T13:04:30-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
-type: blog
-url: /first-drupal-association-community-elections
 id: 2626
 ---
+
+# First Drupal Association community elections
 
 When we designed a [new governance structure](https://dri.es/nominations-for-directors-of-the-drupal-association) for the [Drupal Association](https://association.drupal.org) last year, we decided that most of the board is selected through a nominating committee with the goal to carefully balance many factors like needed skills and geographical and sector representation. However, it was also deemed important that we have directors chosen directly by the Drupal community to make sure that the community is always well-represented.
 

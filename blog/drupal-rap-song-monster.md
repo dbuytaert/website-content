@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/drupal-rap-song-monster'
 title: 'Drupal rap song: Monster'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2011-03-03T11:51:10-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'A Drupal rap video called Monster.'
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-rap-song-monster
 id: 2221
 ---
+
+# Drupal rap song: Monster
 
 [video 3pX4iPEPA9A]
 

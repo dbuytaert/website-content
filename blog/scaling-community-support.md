@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/scaling-community-support'
 title: 'Scaling community support'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-12-07T06:50:59-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /scaling-community-support
 id: 186
 ---
+
+# Scaling community support
 
 Over at his weblog [Earl Miles wrote](http://www.angrydonuts.com/another_post_on_email_and_suppor):
 

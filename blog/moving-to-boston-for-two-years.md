@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/moving-to-boston-for-two-years'
 title: 'Moving to Boston for two years'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2010-06-01T10:23:17-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Family
   - Acquia
   - Antwerp
   - Boston
 published: true
-type: blog
-url: /moving-to-boston-for-two-years
 id: 1661
 ---
+
+# Moving to Boston for two years
 
 I pretty much spent my entire life in [Antwerp](https://en.wikipedia.org/wiki/Antwerp) – 31 years to date. However, in just a few weeks, my family and I will be moving to [Boston](https://en.wikipedia.org/wiki/Boston). Why?
 

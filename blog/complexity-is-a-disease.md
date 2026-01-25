@@ -1,17 +1,22 @@
 ---
+url: 'https://dri.es/complexity-is-a-disease'
 title: 'Complexity is a disease'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2006-05-03T11:19:22-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Usability
   - Trends
-featured: true
 published: true
-type: blog
-url: /complexity-is-a-disease
+featured: true
 id: 64
 ---
+
+# Complexity is a disease
 
 The [Ockham's Razor Principle of Content Management Systems](https://dri.es/ockhams-razor-principle-of-content-management-systems) says that given two functionally equivalent content management systems, the simplest one will be chosen. It asserts that simplicity is preferred to complexity. As content management systems become more alike in terms of critical functionality, ease of use will become a key differentiator (rather then functionality).
 

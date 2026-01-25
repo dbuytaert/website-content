@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/human-rights-watch-using-drupal'
 title: 'Human Rights Watch using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-01-16T02:57:43-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Non-profit
 published: true
-type: blog
-url: /human-rights-watch-using-drupal
 id: 576
 ---
+
+# Human Rights Watch using Drupal
 
 [Human Rights Watch](http://hrw.org) is using [Drupal](https://www.drupal.org) for their main website <http://hrw.org>.
 

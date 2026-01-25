@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/fields-in-core-code-sprint-debrief'
 title: 'Fields in core code sprint debrief'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-12-23T14:12:52-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - Acquia
 published: true
-type: blog
-url: /fields-in-core-code-sprint-debrief
 id: 563
 ---
+
+# Fields in core code sprint debrief
 
 I just got back from the "Fields in core" code sprint that I helped organize. Our participants all had the same goal for this five-day sprint: get [CCK functionality](https://www.drupal.org/project/cck) into Drupal 7. The participants were [Yves](https://www.drupal.org/user/39567) (CCK maintainer), [Karen](https://www.drupal.org/user/45874) (CCK maintainer), [Barry Jaspan](https://www.drupal.org/user/46413) (CCK contributor), [Moshe Weitzman](https://www.drupal.org/user/23), [David Strauss](https://www.drupal.org/user/93254), [Florian Loretan](https://www.drupal.org/user/66163), [Károly Négyesi](https://www.drupal.org/user/9446), [David Rothstein](https://www.drupal.org/user/124982) and [myself](https://www.drupal.org/user/1).
 

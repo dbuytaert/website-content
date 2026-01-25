@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/acquia-switches-from-marketo-to-campaign-studio'
 title: 'Acquia switches from Marketo to Campaign Studio (aka Mautic)'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2020-11-17T08:19:35-05:00'
-author: Dries
-image: acquia/marketo-to-mautic
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mautic
   - Acquia
+image: acquia/marketo-to-mautic
 published: true
-type: blog
-url: /acquia-switches-from-marketo-to-campaign-studio
 id: 5091
 ---
+
+# Acquia switches from Marketo to Campaign Studio (aka Mautic)
 
 [image acquia/marketo-to-mautic]
 

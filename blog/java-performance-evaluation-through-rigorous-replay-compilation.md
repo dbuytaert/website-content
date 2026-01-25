@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/java-performance-evaluation-through-rigorous-replay-compilation'
 title: 'Java performance evaluation through rigorous replay compilation'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-09-02T07:16:33-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - 'PhD research'
   - Java
 published: true
-type: blog
-url: /java-performance-evaluation-through-rigorous-replay-compilation
 id: 495
 ---
+
+# Java performance evaluation through rigorous replay compilation
 
 Our paper [Java Performance Evaluation through Rigorous Replay Compilation](https://dri.es/files/oopsla08-georges.pdf) (PDF, 1.9MB) has been accepted for publication at OOPSLA'08. This is joint work with [Andy Georges](http://itkovian.net) and [Lieven Eeckhout](https://www.elis.ugent.be/~leeckhou) that I worked on before [I got my PhD](https://dri.es/dr-dre) and [left the university to start Acquia](https://dri.es/acquia-my-drupal-startup).
 

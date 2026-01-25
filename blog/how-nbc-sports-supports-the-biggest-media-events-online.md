@@ -1,9 +1,13 @@
 ---
+url: 'https://dri.es/how-nbc-sports-supports-the-biggest-media-events-online'
 title: 'How NBC Sports supports the biggest media events online'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2018-11-30T10:08:53-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'NBC Sports Digital partners with Acquia to cover more than 30,000 sporting events every year, including some of the highest trafficked events in the history of the web.'
-image: acquia/acquia-engage-2018-interview-with-eric-black
 tags:
   - Drupal
   - Acquia
@@ -11,11 +15,12 @@ tags:
   - 'Acquia Cloud'
   - 'Web performance'
   - Entertainment
+image: acquia/acquia-engage-2018-interview-with-eric-black
 published: true
-type: blog
-url: /how-nbc-sports-supports-the-biggest-media-events-online
 id: 4646
 ---
+
+# How NBC Sports supports the biggest media events online
 
 [image acquia/acquia-engage-2018-interview-with-eric-black]
 

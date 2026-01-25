@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/clean-css-with-stylelint'
 title: 'Clean CSS with Stylelint'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-12-20T10:29:49-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Finding bugs, inefficiencies and stylistic inconsistencies in your CSS with Stylint'
 tags:
   - 'My site'
   - CSS
 published: true
-type: blog
-url: /clean-css-with-stylelint
 id: 4106
 ---
+
+# Clean CSS with Stylelint
 
 Last night I was working on the [album functionality](https://dri.es/photos) for this website. CSS is not my strong suit, so I wanted to get some help from a *CSS linter*. A CSS lint tool parses your CSS code and flags signs of inefficiency, stylistic inconsistencies, and patterns that may be erroneous.
 

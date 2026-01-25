@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/drupal-user-group-meeting-at-across'
 title: 'Drupal User Group Meeting at Across'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2007-06-02T04:28:11-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /drupal-user-group-meeting-at-across
 id: 276
 ---
+
+# Drupal User Group Meeting at Across
 
 [image bdug-2007/across-attendees]
 [image bdug-2007/across-pieter-and-dries]

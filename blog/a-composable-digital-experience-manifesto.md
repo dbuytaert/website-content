@@ -1,19 +1,24 @@
 ---
+url: 'https://dri.es/a-composable-digital-experience-manifesto'
 title: 'A Composable Digital Experience Manifesto'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2022-10-06T09:14:45-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "An update on the evolution of Acquia's product strategy through the lens of a Composable Digital Experience Platform (DXP)."
-image: acquia/composable-dxp-principle-6
 tags:
   - Drupal
   - Acquia
   - Trends
-featured: true
+image: acquia/composable-dxp-principle-6
 published: true
-type: blog
-url: /a-composable-digital-experience-manifesto
+featured: true
 id: 5366
 ---
+
+# A Composable Digital Experience Manifesto
 
 It's been a while since I wrote about my views on the Content Management System (CMS) and Digital Experience Platform (DXP) markets.
 

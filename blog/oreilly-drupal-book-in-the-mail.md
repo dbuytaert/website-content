@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/oreilly-drupal-book-in-the-mail'
 title: "O'Reilly Drupal book in the mail"
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-01-21T05:11:05-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal books'
   - Mollom
 published: true
-type: blog
-url: /oreilly-drupal-book-in-the-mail
 id: 581
 ---
+
+# O'Reilly Drupal book in the mail
 
 The O'Reilly Drupal book, titled [Using Drupal](https://www.amazon.com/o/ASIN/0596515804), finally arrived in the mail. *Yay!*
 

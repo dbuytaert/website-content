@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/the-future-of-decoupled-drupal'
 title: 'The future of decoupled Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-09-24T10:43:05-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: 'Making the case that Drupal should support decoupling architectures (in addition to the current coupled architecture)'
 tags:
   - Drupal
   - JavaScript
   - 'Headless Drupal'
-featured: true
 published: true
-type: blog
-url: /the-future-of-decoupled-drupal
+featured: true
 id: 3436
 ---
+
+# The future of decoupled Drupal
 
 Of all the trends in the web community, few are spreading more rapidly than decoupled (or "headless") content management systems (CMS). The evolution from websites to more interactive web applications and the need for multi-channel publishing suggest that moving to a decoupled architecture that leverages client-side frameworks is a logical next step for Drupal. For the purposes of this blog post, the term *decoupled* refers to a separation between the back end and one or more front ends instead of the traditional notion of service-oriented architecture.
 

@@ -1,15 +1,20 @@
 ---
+url: 'https://dri.es/seb-van-stichel'
 title: 'Seb Van Stichel'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2015-09-14T16:18:08-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Photography
   - Family
 published: true
-type: blog
-url: /seb-van-stichel
 id: 3421
 ---
+
+# Seb Van Stichel
 
 [image miscellaneous-2015/seb-van-stichel-1]
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/mollom-out-of-beta'
 title: 'Mollom out of beta'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-09-22T05:25:20-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Mollom
 published: true
-type: blog
-url: /mollom-out-of-beta
 id: 509
 ---
+
+# Mollom out of beta
 
 I'm very proud to announce we've just taken the "beta" label of [Mollom](https://mollom.com), [the startup Benjamin Schrauwen and I began to help keep your website free of spam](https://dri.es/mollom-my-content-monitoring-startup), and that we made our first commercial product available. In the six months we've been beta-testing Mollom, we've blocked [almost 9 million spam messages on thousands of sites](https://www.mollom.com/scorecard). Starting today, we intend to block many, many more.
 

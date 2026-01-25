@@ -1,7 +1,12 @@
 ---
+url: 'https://dri.es/pink-using-drupal'
 title: 'Pink using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2008-04-16T03:29:50-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
@@ -9,10 +14,10 @@ tags:
   - 'Favorite music'
   - Music
 published: true
-type: blog
-url: /pink-using-drupal
 id: 427
 ---
+
+# Pink using Drupal
 
 [image drupal/pink]
 

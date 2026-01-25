@@ -1,18 +1,23 @@
 ---
+url: 'https://dri.es/evolving-acquia-com'
 title: 'Evolving Acquia.com'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2017-12-21T07:21:44-05:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 summary: "We relaunched Acquia.com; it's more intuitive, more innovative and bolder."
-image: acquia/acquia-com-december-2017
 tags:
   - Acquia
   - 'Acquia Lift'
   - Drupal
+image: acquia/acquia-com-december-2017
 published: true
-type: blog
-url: /evolving-acquia-com
 id: 4111
 ---
+
+# Evolving Acquia.com
 
 [image acquia/acquia-com-december-2017-computer resize=false]
 

@@ -1,14 +1,19 @@
 ---
+url: 'https://dri.es/wysiwyg-and-in-place-editing-for-structured-content'
 title: 'WYSIWYG and in-place editing for structured content'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2013-05-31T10:45:00-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
 published: true
-type: blog
-url: /wysiwyg-and-in-place-editing-for-structured-content
 id: 2961
 ---
+
+# WYSIWYG and in-place editing for structured content
 
 Karen McGrane gave a great keynote at DrupalCon Portland on [future-friendly content with Drupal](http://karenmcgrane.com/2013/05/23/drupalcon-keynote-video-and-talk-notes/). It's worth watching the [video recording](http://karenmcgrane.com/2013/05/23/drupalcon-keynote-video-and-talk-notes/). I agree with Karen's vision for the future. With the proliferation of different devices, screen sizes and input devices, there is a growing need for structured content that can be reused in multiple channels.
 

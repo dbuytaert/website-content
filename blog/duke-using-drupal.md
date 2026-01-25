@@ -1,16 +1,21 @@
 ---
+url: 'https://dri.es/duke-using-drupal'
 title: 'Duke using Drupal'
+author:
+  name: 'Dries Buytaert'
+  url: 'https://dri.es/about'
 date: '2009-10-15T13:33:49-04:00'
-author: Dries
+license: 'https://creativecommons.org/licenses/by/4.0/'
+type: blog
 tags:
   - Drupal
   - 'Drupal sites'
   - Education
 published: true
-type: blog
-url: /duke-using-drupal
 id: 1106
 ---
+
+# Duke using Drupal
 
 Earlier this afternoon, I blogged about [Stanford using Drupal](https://dri.es/stanford-using-drupal). Well, if Stanford isn't enough for you, check out the main page for [Duke University](http://www.duke.edu), recently redesigned using [Drupal](https://www.drupal.org).
 
