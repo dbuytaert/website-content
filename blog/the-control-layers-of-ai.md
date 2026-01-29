@@ -12,7 +12,7 @@ tags:
   - Drupal
   - Activepieces
   - 'Workflow orchestration'
-image: blog/orchestration-shift
+image: blog/control-layers
 published: true
 featured: false
 id: 6021
@@ -20,7 +20,7 @@ id: 6021
 
 # The Control Layers of AI
 
-[image blog/orchestration-shift lazy=false priority=true]
+[image blog/control-layers lazy=false priority=true]
 
 Salesforce had an embarrassing moment last week.
 

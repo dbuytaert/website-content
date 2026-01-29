@@ -22,7 +22,7 @@ id: 5741
 
 # Drupal CMS 1.0 released
 
-[image blog/drupal-cms-1-released]
+[image blog/drupal-cms-1-released priority=false schema=false]
 
 We did it: Drupal CMS 1.0 is here! 🎉
 
