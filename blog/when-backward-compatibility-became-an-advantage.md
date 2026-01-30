@@ -11,6 +11,8 @@ tags:
   - Drupal
   - Testing
 image: drupal/test-coverage-2026
+discussions:
+  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_when-backward-compatibility-became-an-advantage-activity-7416535178132566016-ro2O' }
 published: true
 featured: false
 id: 6046
@@ -51,3 +53,5 @@ In 2006, I thought backward compatibility would be the end of Drupal. In 2026, I
 Thank you to everyone who wrote those tests. 
 
 It does make me wonder: what are we wrong about now? What should we be investing in today that will slowly reshape how we work and become an obvious advantage twenty years from now? And who is already saying it while the rest of us aren't listening?
+
+PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_when-backward-compatibility-became-an-advantage-activity-7416535178132566016-ro2O).

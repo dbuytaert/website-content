@@ -14,6 +14,9 @@ tags:
   - Policy
   - 'Digital sovereignty'
 image: blog/funding-open-source-like-public-infrastructure
+discussions:
+  - { platform: '', url: 'https://news.ycombinator.com/item?id=44896433' }
+  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_funding-open-source-like-public-infrastructure-activity-7361311600600834048-I4R7' }
 published: true
 featured: true
 id: 5856
@@ -132,3 +135,5 @@ Today, some Open Source has become public infrastructure. Leaving critical infra
 The solution requires coordinated policy reforms: dedicated funding mechanisms, procurement that rewards upstream contributions, and long-term investment frameworks.
 
 *Special thanks to [Baddy Sonja Breidert](https://www.drupal.org/u/baddysonja), [Tim Doyle](https://www.drupal.org/u/tim-d), [Tiffany Farriss](https://www.drupal.org/u/farriss), [Mike Gifford](https://www.drupal.org/u/mgifford), [Owen Lansbury](https://www.drupal.org/u/owenlansbury) and [Nick Veenhof](https://www.drupal.org/u/nick_vh) for their review and contributions to this blog post.*
+
+PS: Follow the discussion on [](https://news.ycombinator.com/item?id=44896433) or [](https://www.linkedin.com/posts/buytaert_funding-open-source-like-public-infrastructure-activity-7361311600600834048-I4R7).

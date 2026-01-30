@@ -10,6 +10,9 @@ type: blog
 tags:
   - Drupal
   - 'Artificial Intelligence'
+discussions:
+  - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_adaptable-drupal-modules-code-meant-to-be-activity-7407356666037313536-h51g' }
+  - { platform: Drupal.org, url: 'https://www.drupal.org/project/drupalorg/issues/3563839' }
 published: true
 featured: false
 id: 6001
@@ -54,3 +57,5 @@ Opinionated, site-specific modules have always lived in private repositories. Wh
 I created an [issue on Drupal.org to explore this further](https://www.drupal.org/project/drupalorg/issues/3563839). I'd love to hear what you think.
 
 *(Thanks to [phenaproxima](https://www.drupal.org/u/phenaproxima), [Tim Lehnen](https://www.drupal.org/u/hestenet), [Gábor Hojtsy](https://www.drupal.org/u/g%C3%A1bor-hojtsy) and [Wim Leers](https://www.drupal.org/u/wim-leers) for reviewing my draft.)*
+
+PS: Follow the discussion on [LinkedIn](https://www.linkedin.com/posts/buytaert_adaptable-drupal-modules-code-meant-to-be-activity-7407356666037313536-h51g) or [Drupal.org](https://www.drupal.org/project/drupalorg/issues/3563839).

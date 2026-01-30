@@ -14,6 +14,8 @@ tags:
   - 'My site'
   - Markdown
 image: blog/machines-reading-web-content
+discussions:
+  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_the-third-audience-is-ai-activity-7417339417524076544-ZPDq' }
 published: true
 featured: false
 id: 6051
@@ -52,3 +54,5 @@ The speed of adoption tells me AI agents are hungry for cleaner content formats 
 I know not everyone will love this experiment. Humans, including me, are teaching machines how to read our sites better, while machines are teaching humans to stop visiting us. The [value exchange between creators and AI companies](https://dri.es/the-webs-broken-deal-with-ai-companies) is far from settled, and it's entirely possible that making content easier for AI to consume will accelerate the hollowing out of the web. 
 
 I don't have a good answer to that yet, but I'd rather experiment than look away. I'm going to leave this running and report back.
+
+PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_the-third-audience-is-ai-activity-7417339417524076544-ZPDq).

@@ -14,6 +14,8 @@ tags:
   - 'Drupal Gardens'
   - 'Acquia Source'
 image: acquia/acquia-source-sprout
+discussions:
+  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_the-product-we-should-not-have-killed-activity-7396172052648595456-7MAN' }
 published: true
 featured: false
 id: 5941
@@ -64,3 +66,5 @@ Acquia Source does _not_ replace Acquia Cloud or Acquia Cloud Site Factory. It c
 For me, Acquia Source is more than a new product. It finally delivers on [a vision we've had for fifteen years](https://dri.es/acquia-product-strategy-and-vision): one platform that can support everything from simple sites to the most complex ones.  
 
 I am excited about what this means for our customers, and I am equally excited about what it could mean for Drupal. It can strengthen Drupal's position in the market, bring more sites back to Drupal, and create even more opportunities for Acquia to contribute to Drupal.
+
+PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_the-product-we-should-not-have-killed-activity-7396172052648595456-7MAN).

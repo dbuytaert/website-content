@@ -13,6 +13,8 @@ tags:
   - Drupal
   - 'Workflow orchestration'
 image: blog/great-digital-agency-unbundling
+discussions:
+  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_ai-and-the-great-digital-agency-unbundling-activity-7354147682522697730-8Gi3' }
 published: true
 featured: true
 id: 5846
@@ -216,3 +218,5 @@ We are shifting from hand tools to power tools. The craft remains, but both how 
 In the next post, I'll share why I believe Drupal is especially well positioned to lead in this new era of AI-powered digital experience. 
 
 *I've rewritten this blog post at least three times. Throughout the process, I received valuable feedback from several Drupal agency leaders and contributors, whose insights helped shape the final version. In alphabetical order by last name: [Jamie Abrahams](https://www.drupal.org/u/yautja_cetanu), [Christoph Breidert](https://www.drupal.org/u/breidert),  [Seth Brown](https://www.drupal.org/u/sethlbrown), [Dominique De Cooman](https://www.drupal.org/u/domidc), [George DeMet](https://www.drupal.org/u/gdemet), [Alex Dergachev](https://www.drupal.org/u/dergachev), [Justin Emond](https://www.drupal.org/u/jemond), [John Faber](https://www.drupal.org/u/flavor), [Seth Gregory](https://www.drupal.org/u/sgregory), and [Michael Meyers](https://www.drupal.org/u/michaelemeyers).*
+
+PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_ai-and-the-great-digital-agency-unbundling-activity-7354147682522697730-8Gi3).

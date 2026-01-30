@@ -11,6 +11,8 @@ tags:
   - Drupal
   - Security
 image: drupal/blue-hearts-1
+discussions:
+  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_thank-you-drupal-security-team-activity-7399798649666445313-pyC8' }
 published: true
 featured: false
 id: 5956
@@ -37,3 +39,5 @@ Security work is largely invisible when done well. Nobody celebrates the absence
 All software has security bugs, and fortunately for Drupal, critical security bugs are rare. What really matters is how you deal with security releases.
 
 To our Security Team: thank you for your excellence. Thank you for protecting Drupal's reputation through consistent, professional, often invisible work, week after week.
+
+PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_thank-you-drupal-security-team-activity-7399798649666445313-pyC8).

@@ -14,6 +14,8 @@ tags:
   - Policy
   - 'Digital sovereignty'
 image: blog/open-source-makers-and-takers-7
+discussions:
+  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_foss-opensource-policy-activity-7419785955445747712-dvGz' }
 published: true
 featured: true
 id: 6066
@@ -66,3 +68,5 @@ Europe does not need to build the next hyperscaler. It needs to shift procuremen
 *I submitted this post as feedback to the European Commission's call for evidence on [Towards European Open Digital Ecosystems](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16213-European-Open-Digital-Ecosystems_en). If you work in Open Source, consider adding your voice. The feedback period ends February 3, 2026.*
 
 *Special thanks to [Taco Potze](https://www.drupal.org/u/taco-potze), [Sachiko Muto](https://www.linkedin.com/in/sachikomuto/), and [Gábor Hojtsy](https://www.drupal.org/u/gábor-hojtsy) for their review and contributions to this blog post.*
+
+PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_foss-opensource-policy-activity-7419785955445747712-dvGz).

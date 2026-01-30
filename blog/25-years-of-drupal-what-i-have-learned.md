@@ -12,6 +12,8 @@ tags:
   - Birthday
   - Leadership
 image: drupalcon-paris-2009/drupalcon-4
+discussions:
+  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_25-years-of-drupal-what-ive-learned-activity-7417564101100331009-aRzX' }
 published: true
 featured: true
 id: 6056
@@ -138,3 +140,5 @@ For those who have been here for years, these lessons will feel familiar. We lea
 If Drupal has been part of your daily life for a long time, you are not just a user or a contributor. You are part of its history. And for all of you, I am grateful.
 
 I am still here, still learning, and still excited about what we can build together next. Thank you for building it with me.
+
+PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_25-years-of-drupal-what-ive-learned-activity-7417564101100331009-aRzX).

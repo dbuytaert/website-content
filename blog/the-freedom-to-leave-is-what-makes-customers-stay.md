@@ -12,6 +12,8 @@ tags:
   - Acquia
   - 'Acquia Source'
 image: acquia/acquia-source-door
+discussions:
+  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_the-freedom-to-leave-is-what-makes-customers-activity-7401985111707189250-P9q8' }
 published: true
 featured: false
 id: 5961
@@ -42,3 +44,5 @@ We first tried this idea with Drupal Gardens in 2010, which [also allowed full e
 One of Acquia's largest customers began on Drupal Gardens more than a decade ago. They used it to explore Drupal, then naturally grew into Acquia Cloud and Site Factory as their needs became more complex. Today they run some of the world's biggest media properties on Drupal and Acquia.
 
 Trust comes from freedom, not lock-in. The exit door you'll never use is exactly what makes you confident enough to stay. It does seem counterintuitive to make leaving easy, but not all SaaS is created equal. With our Open SaaS approach, you get the freedom to grow and the ability to leave whenever you choose.
+
+PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_the-freedom-to-leave-is-what-makes-customers-activity-7401985111707189250-P9q8).

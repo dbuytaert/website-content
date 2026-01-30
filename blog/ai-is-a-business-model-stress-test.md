@@ -14,6 +14,9 @@ tags:
   - Acquia
   - 'Artificial Intelligence'
 image: blog/sailing-into-the-unknown
+discussions:
+  - { platform: '', url: 'https://news.ycombinator.com/item?id=46567392' }
+  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_ai-is-a-business-model-stress-test-activity-7415581530682826752-3kIu' }
 published: true
 featured: false
 id: 6041
@@ -52,3 +55,5 @@ Open Source was never the commercial product. It's the conduit to something else
 When asked what to pivot to, Wathan was candid: "Still to this day, I don't know what we should be pivoting to". I've written about [how digital agencies might evolve](https://dri.es/ai-and-the-great-digital-agency-unbundling), but CSS frameworks and component libraries are a harder case. Some Open Source projects make for great features, but not great businesses.
 
 Tailwind CSS powers millions of sites. The framework will survive. Whether the company does is a different question. I'm rooting for them. The world needs more successful Open Source businesses.
+
+PS: Follow the discussion on [](https://news.ycombinator.com/item?id=46567392) or [](https://www.linkedin.com/posts/buytaert_ai-is-a-business-model-stress-test-activity-7415581530682826752-3kIu).

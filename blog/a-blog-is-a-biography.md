@@ -12,6 +12,8 @@ tags:
   - 'My site'
   - Writing
 image: old-photos-without-date/greet-van-lerberghe-birth
+discussions:
+  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_a-blog-is-a-biography-activity-7405161766067912705-Ygbn' }
 published: true
 featured: false
 id: 5986
@@ -38,3 +40,5 @@ Now I see it differently. Somewhere in there is a version of me becoming a fathe
 If my grandchildren ever want to know who I was, they will not have to guess. They will be able to hear my voice.
 
 If that idea feels compelling, this might be a good time to start a blog or a website. Not to build a large audience, but just to leave a trail. Future you may be grateful you began.
+
+PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_a-blog-is-a-biography-activity-7405161766067912705-Ygbn).

@@ -13,6 +13,8 @@ tags:
   - 'Drupal Association'
   - Acquia
 image: acquia/acquia-com-march-2008
+discussions:
+  - { platform: '', url: 'https://news.ycombinator.com/item?id=38479329' }
 published: true
 featured: true
 id: 365
@@ -65,3 +67,5 @@ The community has my heart and respect, and that won't change. Fear not.
 So rather than working on Drupal in my spare time, I will soon have the time and resources to provide the leadership it takes to help get Drupal to the next level. I'm looking forward to leading the many thousands of you to the next step of this incredible adventure. It's been a little bit hard for me to not say anything about this before - mostly because I'm so excited about it. But it didn't make business sense to speak about this effort until it was for-real. Now that it is, I'm much happier that I can talk about it, because I want to think together with all of you about how we can make it a really really good thing for Drupal.
 
 As a start, I've prepared a [FAQ for our website](https://web.archive.org/web/20071202013254/https://www.acquia.com/FAQ%20). We (the company) will have more to say as we go along, and I will, too. Keep an eye on this blog or on [our company website](https://www.acquia.com).
+
+PS: Follow the discussion on [](https://news.ycombinator.com/item?id=38479329).
