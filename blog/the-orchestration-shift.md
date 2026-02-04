@@ -17,7 +17,7 @@ tags:
   - Trends
 image: blog/orchestration-shift
 discussions:
-  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_the-orchestration-shift-activity-7389263259708694528-h5qe' }
+  - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_the-orchestration-shift-activity-7389263259708694528-h5qe' }
 published: true
 featured: true
 id: 5911
@@ -79,4 +79,4 @@ When I first clicked through to Activepieces' GitHub repo last summer, I was loo
 
 To me, the question isn't whether orchestration will become critical infrastructure. It's whether that infrastructure will be open and built collaboratively. That is a future worth investing in, both with capital and with code.
 
-PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_the-orchestration-shift-activity-7389263259708694528-h5qe).
+PS: Follow the discussion on [LinkedIn](https://www.linkedin.com/posts/buytaert_the-orchestration-shift-activity-7389263259708694528-h5qe).

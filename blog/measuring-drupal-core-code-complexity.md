@@ -12,7 +12,7 @@ tags:
   - Statistics
 image: miscellaneous-2025/vibe-coding-van/
 discussions:
-  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_measuring-drupal-core-code-complexity-activity-7414796612188856320-LqYI' }
+  - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_measuring-drupal-core-code-complexity-activity-7414796612188856320-LqYI' }
 published: true
 featured: false
 id: 6036
@@ -38,4 +38,4 @@ The dashboard is open source, and contributions are welcome at [https://github.c
 
 *Special thanks to [catch](https://www.drupal.org/u/catch) for multiple rounds of feedback. As the most active Core Committer over the past 12 months, his input was invaluable.*
 
-PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_measuring-drupal-core-code-complexity-activity-7414796612188856320-LqYI).
+PS: Follow the discussion on [LinkedIn](https://www.linkedin.com/posts/buytaert_measuring-drupal-core-code-complexity-activity-7414796612188856320-LqYI).

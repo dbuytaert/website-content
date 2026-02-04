@@ -12,7 +12,7 @@ tags:
   - Security
 image: drupal/blue-hearts-1
 discussions:
-  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_thank-you-drupal-security-team-activity-7399798649666445313-pyC8' }
+  - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_thank-you-drupal-security-team-activity-7399798649666445313-pyC8' }
 published: true
 featured: false
 id: 5956
@@ -40,4 +40,4 @@ All software has security bugs, and fortunately for Drupal, critical security bu
 
 To our Security Team: thank you for your excellence. Thank you for protecting Drupal's reputation through consistent, professional, often invisible work, week after week.
 
-PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_thank-you-drupal-security-team-activity-7399798649666445313-pyC8).
+PS: Follow the discussion on [LinkedIn](https://www.linkedin.com/posts/buytaert_thank-you-drupal-security-team-activity-7399798649666445313-pyC8).

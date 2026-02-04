@@ -12,8 +12,8 @@ tags:
   - WordPress
   - Drupal
 discussions:
-  - { platform: '', url: 'https://news.ycombinator.com/item?id=46213709' }
-  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_source-available-is-not-open-source-and-activity-7404289118391930880-ha-H' }
+  - { platform: 'Hacker News', url: 'https://news.ycombinator.com/item?id=46213709' }
+  - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_source-available-is-not-open-source-and-activity-7404289118391930880-ha-H' }
 published: true
 featured: false
 id: 5976
@@ -57,4 +57,4 @@ Some questions are worth asking, and answering:
 
 If this latest debate brings more attention to these questions, some good may come from it.
 
-PS: Follow the discussion on [](https://news.ycombinator.com/item?id=46213709) or [](https://www.linkedin.com/posts/buytaert_source-available-is-not-open-source-and-activity-7404289118391930880-ha-H).
+PS: Follow the discussion on [Hacker News](https://news.ycombinator.com/item?id=46213709) or [LinkedIn](https://www.linkedin.com/posts/buytaert_source-available-is-not-open-source-and-activity-7404289118391930880-ha-H).

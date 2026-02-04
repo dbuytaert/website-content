@@ -15,7 +15,7 @@ tags:
   - 'Drupal Association'
 image: blog/open-source-makers-and-takers-6
 discussions:
-  - { platform: '', url: 'https://news.ycombinator.com/item?id=41727005' }
+  - { platform: 'Hacker News', url: 'https://news.ycombinator.com/item?id=41727005' }
 published: true
 featured: true
 id: 5691
@@ -123,4 +123,4 @@ By transparently rewarding contributions and fostering collaboration, we can bui
 
 As Drupal continues to improve its credit system, we understand that no solution is perfect. We're eager to learn from the successes and challenges of other open source projects and are open to ideas and collaboration.
 
-PS: Follow the discussion on [](https://news.ycombinator.com/item?id=41727005).
+PS: Follow the discussion on [Hacker News](https://news.ycombinator.com/item?id=41727005).

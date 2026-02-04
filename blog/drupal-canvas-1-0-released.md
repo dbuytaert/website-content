@@ -12,7 +12,7 @@ tags:
   - 'Drupal Canvas'
 image: blog/drupal-canvas-1-released
 discussions:
-  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_drupal-canvas-10-released-activity-7402481754814705664-VI7U' }
+  - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_drupal-canvas-10-released-activity-7402481754814705664-VI7U' }
 published: true
 featured: false
 id: 5966
@@ -48,4 +48,4 @@ So what is next? We keep building. Drupal Canvas 1.0 is step one, and this is a 
 
 Shipping Drupal Canvas 1.0 is a major milestone. It shows we are listening. And it shows what we can accomplish when we focus on the experience as much as the capability. I cannot wait to see what people build with it.
 
-PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_drupal-canvas-10-released-activity-7402481754814705664-VI7U).
+PS: Follow the discussion on [LinkedIn](https://www.linkedin.com/posts/buytaert_drupal-canvas-10-released-activity-7402481754814705664-VI7U).

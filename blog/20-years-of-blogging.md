@@ -13,7 +13,7 @@ tags:
   - Drupal
 image: miscellaneous-2023/afternoon-light-kitchen
 discussions:
-  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_20-years-of-blogging-activity-7412178951554580480-E7nz' }
+  - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_20-years-of-blogging-activity-7412178951554580480-E7nz' }
 published: true
 featured: false
 id: 6026
@@ -57,4 +57,4 @@ Some of you have been reading since the beginning. Many found your way here much
 
 I plan to keep writing here as long as I can. If you have been reading for a while, I would love to hear from you. Even a simple hello means a lot.
 
-PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_20-years-of-blogging-activity-7412178951554580480-E7nz).
+PS: Follow the discussion on [LinkedIn](https://www.linkedin.com/posts/buytaert_20-years-of-blogging-activity-7412178951554580480-E7nz).

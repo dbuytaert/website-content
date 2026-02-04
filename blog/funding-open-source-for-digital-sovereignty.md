@@ -15,7 +15,7 @@ tags:
   - 'Digital sovereignty'
 image: blog/open-source-makers-and-takers-7
 discussions:
-  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_foss-opensource-policy-activity-7419785955445747712-dvGz' }
+  - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_foss-opensource-policy-activity-7419785955445747712-dvGz' }
 published: true
 featured: true
 id: 6066
@@ -69,4 +69,4 @@ Europe does not need to build the next hyperscaler. It needs to shift procuremen
 
 *Special thanks to [Taco Potze](https://www.drupal.org/u/taco-potze), [Sachiko Muto](https://www.linkedin.com/in/sachikomuto/), and [Gábor Hojtsy](https://www.drupal.org/u/gábor-hojtsy) for their review and contributions to this blog post.*
 
-PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_foss-opensource-policy-activity-7419785955445747712-dvGz).
+PS: Follow the discussion on [LinkedIn](https://www.linkedin.com/posts/buytaert_foss-opensource-policy-activity-7419785955445747712-dvGz).

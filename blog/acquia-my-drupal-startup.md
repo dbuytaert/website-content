@@ -14,7 +14,7 @@ tags:
   - Acquia
 image: acquia/acquia-com-march-2008
 discussions:
-  - { platform: '', url: 'https://news.ycombinator.com/item?id=38479329' }
+  - { platform: 'Hacker News', url: 'https://news.ycombinator.com/item?id=38479329' }
 published: true
 featured: true
 id: 365
@@ -68,4 +68,4 @@ So rather than working on Drupal in my spare time, I will soon have the time and
 
 As a start, I've prepared a [FAQ for our website](https://web.archive.org/web/20071202013254/https://www.acquia.com/FAQ%20). We (the company) will have more to say as we go along, and I will, too. Keep an eye on this blog or on [our company website](https://www.acquia.com).
 
-PS: Follow the discussion on [](https://news.ycombinator.com/item?id=38479329).
+PS: Follow the discussion on [Hacker News](https://news.ycombinator.com/item?id=38479329).

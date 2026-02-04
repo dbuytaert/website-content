@@ -15,7 +15,7 @@ tags:
   - Markdown
 image: blog/machines-reading-web-content
 discussions:
-  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_the-third-audience-is-ai-activity-7417339417524076544-ZPDq' }
+  - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_the-third-audience-is-ai-activity-7417339417524076544-ZPDq' }
 published: true
 featured: false
 id: 6051
@@ -55,4 +55,4 @@ I know not everyone will love this experiment. Humans, including me, are teachin
 
 I don't have a good answer to that yet, but I'd rather experiment than look away. I'm going to leave this running and report back.
 
-PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_the-third-audience-is-ai-activity-7417339417524076544-ZPDq).
+PS: Follow the discussion on [LinkedIn](https://www.linkedin.com/posts/buytaert_the-third-audience-is-ai-activity-7417339417524076544-ZPDq).

@@ -11,7 +11,7 @@ tags:
   - Chess
 image: miscellaneous-2025/dries-buytaert-vs-garry-kasparov-1
 discussions:
-  - { platform: '', url: 'https://www.linkedin.com/posts/buytaert_i-had-just-published-my-post-about-having-activity-7386774596059930624-Y-wU' }
+  - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_i-had-just-published-my-post-about-having-activity-7386774596059930624-Y-wU' }
 published: true
 featured: true
 id: 5901
@@ -62,4 +62,4 @@ And in [FEN notation](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Nota
 
 ```3k1r2/pp2nPp1/2p1N3/7p/2nP3P/8/P4PP1/4RK1R b - - 1 25```
 
-PS: Follow the discussion on [](https://www.linkedin.com/posts/buytaert_i-had-just-published-my-post-about-having-activity-7386774596059930624-Y-wU).
+PS: Follow the discussion on [LinkedIn](https://www.linkedin.com/posts/buytaert_i-had-just-published-my-post-about-having-activity-7386774596059930624-Y-wU).

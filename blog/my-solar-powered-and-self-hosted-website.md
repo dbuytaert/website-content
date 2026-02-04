@@ -16,7 +16,7 @@ tags:
   - 'Raspberry Pi'
 image: miscellaneous-2024/solar-panel-on-roofdeck
 discussions:
-  - { platform: '', url: 'https://news.ycombinator.com/item?id=41868353' }
+  - { platform: 'Hacker News', url: 'https://news.ycombinator.com/item?id=41868353' }
 published: true
 featured: true
 id: 5701
@@ -228,4 +228,4 @@ Fast forward to delivery day. As I unboxed it, her eyes widened in surprise. The
 
 The takeaway? Sometimes a little underestimation goes a long way.
 
-PS: Follow the discussion on [](https://news.ycombinator.com/item?id=41868353).
+PS: Follow the discussion on [Hacker News](https://news.ycombinator.com/item?id=41868353).
