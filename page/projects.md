@@ -13,7 +13,14 @@ id: 152
 
 # Projects
 
-- [Drupal](https://www.drupal.org/) – I'm the Founder and Project Lead of Drupal. Drupal is Open Source software for building websites and digital experiences. I've been working on Drupal for more than 20 years.
-- [HTTP Headers Analyzer](/headers) – Learn how HTTP headers work, and use the analyzer to improve the performance and security of your websites. Used more than 2,500 times a day.
-- [Solar-powered website](https://solar.dri.es) – I've created a self-hosted website running on a Raspberry Pi, powered entirely by solar energy. Check out the [live dashboard](https://dri.es/sensors/solar) to see real-time data on the solar panel's performance.
-- [Electronics](https://dri.es/tag/electronics) – I've been exploring basic DIY electronics and data visualization, creating projects like [thermometers](https://dri.es/building-my-own-temperature-and-humidity-monitor) and [CO<sub>2</sub> monitors](https://dri.es/building-my-own-co2-monitor). Example: track [our basement's temperature](https://dri.es/sensors/basement-belgium) on my website.
+- [Drupal](https://www.drupal.org/) – Open Source software for building websites and digital experiences. Founder and Project Lead for more than 25 years.
+
+- [Drupal Core Metrics](https://dbuytaert.github.io/drupal-core-metrics/) – Real-time dashboard showing the health, quality, and scale of the Drupal core codebase.
+
+- [Drupal Digests](https://github.com/dbuytaert/drupal-digests) – RSS feeds and AI-generated summaries of noteworthy Drupal issues and ecosystem updates, explaining what changed and why it matters.
+
+- [HTTP Headers Analyzer](https://dri.es/headers) – Interactive tool to learn how HTTP headers work and improve website performance and security. Used more than 2,500 times a day.
+
+- [Solar-powered website](https://dri.es/my-solar-powered-and-self-hosted-website) – Self-hosted site running on solar energy with live performance data from a Raspberry Pi.
+
+- [Electronics](https://dri.es/tag/electronics) – DIY electronics and data visualization projects such as thermometers and CO₂ monitors.
