@@ -33,6 +33,8 @@ Reclaiming digital sovereignty doesn't require building the European equivalent 
 
 Open Source is the most credible path to digital sovereignty. It's the only software you can run without permission. You can audit, host, modify, and migrate it yourself. No vendor, no government, and no sanctions regime can ever take it away.
 
+Though as I discuss in [The Software Sovereignty Scale](https://dri.es/the-software-sovereignty-scale), some Open Source licenses offer stronger structural guarantees than others.
+
 But there is a catch. When governments buy Open Source services, the money rarely reaches the people who actually build and maintain it. Procurement rules favor large system integrators, not the maintainers of the software itself. As a result, public money flows to companies that package and resell Open Source, not to the ones who do the hard work of writing and sustaining it.
 
 I've watched this pattern repeat for over two decades in [Drupal](https://www.drupal.org/), the Open Source project I started and that is now widely used across European governments. 
