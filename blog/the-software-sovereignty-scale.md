@@ -152,6 +152,6 @@ Open licensing is not one consideration among many. It is the foundation that ma
 
 For critical software, the question is simple: how easy is it for someone to take the software away from us?
 
-*Special thanks to [Sachiko Muto](https://www.linkedin.com/in/sachikomuto/) and [Bert Boerland](https://www.drupal.org/u/gábor-hojtsy) for their review and contributions to this blog post.*
+*Special thanks to [Sachiko Muto](https://www.linkedin.com/in/sachikomuto/) and [Bert Boerland](https://www.drupal.org/u/bertboerland) for their review and contributions to this blog post.*
 
 PS: Follow the discussion on [LinkedIn](https://www.linkedin.com/posts/buytaert_opensource-buyeurope-digitalsovereignty-share-7426955842232496128-nNvD).
