@@ -11,7 +11,6 @@ summary: "After two years of neglecting my Web3 site, does it still work? Plus, 
 tags:
   - Web3
   - Blockchain
-  - 'My site'
   - 'Digital preservation'
 image: blog/web3-exploration
 published: true

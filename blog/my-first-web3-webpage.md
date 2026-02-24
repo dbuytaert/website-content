@@ -10,8 +10,8 @@ type: blog
 summary: "How I built my first Web3 website, the Web3 services I used, and what I think about Web3's potential."
 tags:
   - Blockchain
-  - 'My site'
   - Web3
+  - 'Digital preservation'
 image: blog/web3-exploration
 published: true
 featured: true
