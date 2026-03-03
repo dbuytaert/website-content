@@ -16,7 +16,8 @@ id: 3
 <section id="2026">
   <h3>2026</h3>
 
-- [Skiing in French Alps](/album/saint-gervais-2026/)
+- [Skiing in Chamonix, French Alps](/album/chamonix-2026/)
+- [Skiing in Saint-Gervais, French Alps](/album/saint-gervais-2026/)
 - [Miscellaneous 2026](/album/miscellaneous-2026/)
 
 </section>
