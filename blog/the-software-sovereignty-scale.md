@@ -37,9 +37,10 @@ When evaluating sovereignty, it is not enough to ask how much control you have t
 
 The proposed scale measures structural protection. It is not a ranking of openness, nor does it capture every dimension of sovereignty. The scale also does not imply that one license is always better than another.
 
-The most important distinction in the scale is between Open Source and proprietary. All three green grades give you freedom of action: the right to use, modify, and maintain the software independently, forever. The differences between A, B, and C reflect how structurally protected that freedom is against acquisition, relicensing, or ecosystem shift. They also determine how much you risk being left behind if the project's direction changes.
-
 I used five levels, modeled on Europe's familiar A-through-E labels for [energy efficiency](https://en.wikipedia.org/wiki/European_Union_energy_label) and [food nutrition](https://en.wikipedia.org/wiki/Nutri-Score), from structurally sovereign to fully dependent.  Frameworks like the [European Commission's Cloud Sovereignty Framework](https://commission.europa.eu/document/download/09579818-64a6-4dd5-9577-446ab6219113_en?filename=Cloud-Sovereignty-Framework.pdf) do not yet make these structural distinctions.  This scale aims to improve on what exists and is used today, and I expect it to improve further through scrutiny and feedback.
+
+The most important distinction in the scale is between Open Source and proprietary. Grades A, B and C all require Open Source and give you freedom of action: the right to use, modify, and maintain the software independently, forever. The differences between A, B, and C reflect how structurally protected that freedom is against acquisition, relicensing, or a change in a project's strategic direction.
+
 <div class="large">
 <table>
   <thead>
@@ -109,17 +110,19 @@ Fortunately, the community forked the last open version as [Valkey](https://en.w
 
 **Grade B** is Open Source under a [copyleft license](https://en.wikipedia.org/wiki/Copyleft) like the GPL. Copyleft adds a protection permissive licenses lack: any derivative of released code must also remain Open Source. For policymakers, this is a meaningful upgrade.
 
-This is the level that saved MySQL. [MySQL AB](https://dri.es/the-history-of-mysql-ab), the Swedish company behind MySQL, released it under the GPL, so when Oracle acquired MySQL through the Sun Microsystems deal, the GPL ensured the code remained open. Michael Widenius, MySQL's original creator, took the code and built [MariaDB](https://en.wikipedia.org/wiki/MariaDB). Oracle got the brand, but the world kept the code.
+This is the level that saved MySQL. [MySQL AB](https://dri.es/the-history-of-mysql-ab), the Swedish company behind the MySQL database, released it under the GPL. When Oracle acquired MySQL through the Sun Microsystems deal, the GPL ensured the code remained open. Michael Widenius, MySQL's original creator, took the code and built [MariaDB](https://en.wikipedia.org/wiki/MariaDB), which he had to make available under the GPL.
 
-And because MariaDB inherited MySQL's GPL license, it must stay open too. No future acquirer can make MariaDB proprietary. That is the difference between copyleft and a permissive license: copyleft lets someone fork *and* forces all forks to stay open.
+And because MariaDB was forced to inherit MySQL's GPL license, it must remain open as well. This is sometimes referred to as the "viral" nature of the GPL. No future acquirer can make MariaDB proprietary. This is the difference between copyleft and a permissive license: copyleft lets someone fork *and* forces all forks to stay open.
 
-But grade B still has one limitation. When copyright is concentrated, the holder can release future versions under a different license. The existing code is protected by the GPL, but the project's future direction depends on who holds the copyright and how they are governed. A vendor-neutral foundation holding the copyright carries far less risk than a single company.
+But grade B still has one limitation. When copyright is concentrated, the holder can release future versions under a different license. The existing code is protected by the GPL, but the project's future direction depends on who holds the copyright and how they are governed.
 
 Some projects amplify this risk by requiring contributors to sign a [Contributor License Agreement](https://en.wikipedia.org/wiki/Contributor_license_agreement), or CLA, which grants the project owner the right to relicense contributed code. [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch), founded in Amsterdam, used its CLA in 2021 to relicense from Apache 2.0 to a non-open-source license, despite having over 1,500 contributors.
 
 Finally, **grade A** is copyleft Open Source with no relicensing risk. This typically happens when copyright is governed by a neutral foundation, or when hundreds or thousands of contributors each own their portion of the code. In that case, relicensing would require consent from every contributor, and any refusal would force the project to rewrite that code from scratch. The more distributed the ownership, the harder relicensing becomes.
 
-[Drupal](https://www.drupal.org/) has had contributions from tens of thousands of people [across 25 years](https://dri.es/25-years-of-drupal-what-i-have-learned), which makes relicensing structurally impossible. No acquisition, no board vote, no change in strategy can take these projects away from the people who build and depend on them. Copyleft projects with fewer independent contributors can be easier to relicense. Drupal's code is structurally sovereign by design. 
+[Drupal](https://www.drupal.org/) has had contributions from tens of thousands of people [across 25 years](https://dri.es/25-years-of-drupal-what-i-have-learned), which makes relicensing structurally impossible. No acquisition, no board vote, no change in strategy can take these projects away from the people who build and depend on them. Drupal's code is structurally sovereign by design. 
+
+Of course, copyleft projects with fewer independent contributors and less history could be easier to relicense. There are simply fewer people whose consent would be required to change the license.
 
 ### Sovereignty is a long-term commitment
 
