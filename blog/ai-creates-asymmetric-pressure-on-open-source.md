@@ -35,7 +35,7 @@ In a post called ["Death by a thousand slops"](https://daniel.haxx.se/blog/2025/
 
 Stenberg's response was pragmatic. He didn't ban AI. He ended the bug bounty. That alone removed most of the incentive to flood the project with low-quality reports.
 
-Drupal doesn't have a bug bounty, but it still has incentives: contribution credit, reputation, and visibility all matter. Those incentives can attract low-quality contributions too, and the cost of sorting them out often lands on maintainers.
+Drupal doesn't have a bug bounty, but it still has incentives: contribution credit, reputation, and visibility all matter. Those incentives can attract low-quality contributions too, and [the cost of sorting them out often lands on maintainers](https://dri.es/never-submit-code-you-do-not-understand).
 
 ### Caught between two truths
 
