@@ -9,7 +9,7 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Drupal
-image: blog/asymmetric-ai-pressure
+image: blog/never-submit-code-you-dont-understand
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/feed/update/urn:li:share:7439337611762139137/' }
 published: true
@@ -19,7 +19,7 @@ id: 6136
 
 # Never submit code you don't understand
 
-[image blog/asymmetric-ai-pressure priority=high schema=false]
+[image blog/never-submit-code-you-dont-understand priority=high schema=false]
 
 Years ago, in the early Drupal days, you would see a mantra everywhere: "Don't hack core".
 
