@@ -13,6 +13,7 @@ tags:
   - Privacy
 image: blog/webpagetest-youtube-embed-2019-before
 published: true
+featured: false
 id: 4801
 ---
 
@@ -27,7 +28,7 @@ This was all well and good until a couple of weeks ago, when I learned that when
 After some research, I discovered that YouTube offers a *privacy-enhanced way of embedding videos*. Instead of linking to `youtube.com`, link to `youtube-nocookie.com`, and no data-collecting HTTP cookie will be sent. This is Google's way of providing GDPR-compliant YouTube videos.
 
 ```html
-<iframe width="640" height="360" src="https://www.youtube<strong>-nocookie.com</strong>/embed/<i>video-id</i>" frameborder="0"></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/video-id" frameborder="0"></iframe>
 ```
 
 So I went ahead and updated all blog posts on [dri.es](https://dri.es) to use `youtube-nocookie.com`.
