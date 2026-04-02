@@ -18,7 +18,7 @@ id: 6076
 
 # Drupal CMS 2.0 released
 
-[image blog/drupal-cms-2-released priority=false schema=false]
+[image blog/drupal-cms-2-released priority=true schema=false]
 
 Today we released Drupal CMS 2.0. I've been looking forward to this release for a long time!
 

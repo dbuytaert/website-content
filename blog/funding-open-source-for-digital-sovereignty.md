@@ -23,7 +23,7 @@ id: 6066
 
 # Funding Open Source for Digital Sovereignty
 
-[image blog/open-source-makers-and-takers-7 priority=false schema=false]
+[image blog/open-source-makers-and-takers-7 priority=true schema=false]
 
 As global tensions rise, governments are waking up to the fact that they've lost *digital sovereignty*. They depend on foreign companies that can change terms, cut off access, or be weaponized against them. A decision in Washington can disable services in Brussels overnight. 
 
