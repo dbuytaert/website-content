@@ -19,7 +19,7 @@ id: 5021
 
 Today, [we released Drupal 9.0.0](https://www.drupal.org/9)! This is a big milestone because we have been working on Drupal 9 for almost five years.
 
-I updated [my site to run Drupal 9](https://dri.es/headers?url=https://dri.es#x-generator) earlier today. It was easy!
+I updated [my site to run Drupal 9](https://headers.dev/analyze?url=https://dri.es#x-generator) earlier today. It was easy!
 
 As I write this, I'm overwhelmed by feelings of excitement and pride. There is something very special about building and releasing software with thousands of people around the world.
 

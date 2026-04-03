@@ -19,7 +19,7 @@ id: 152
 
 - [Drupal Digests](https://github.com/dbuytaert/drupal-digests) – RSS feeds and AI-generated summaries of noteworthy Drupal issues and ecosystem updates, explaining what changed and why it matters.
 
-- [HTTP Headers Analyzer](https://dri.es/headers) – Interactive tool to learn how HTTP headers work and improve website performance and security. Used more than 2,500 times a day.
+- [HTTP Headers Analyzer](https://headers.dev/analyze) – Interactive tool to learn how HTTP headers work and improve website performance and security. Used more than 2,500 times a day.
 
 - [Solar-powered website](https://dri.es/my-solar-powered-and-self-hosted-website) – Self-hosted site running on solar energy with live performance data from a Raspberry Pi.
 

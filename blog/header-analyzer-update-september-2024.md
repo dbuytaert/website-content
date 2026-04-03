@@ -15,7 +15,7 @@ id: 5681
 
 # HTTP Header Analyzer update - September 2024
 
-My [HTTP Header Analyzer](https://dri.es/headers) continues to be [used a lot](https://dri.es/the-little-http-header-analyzer-that-could). Last week, I received a bug report, so I decided to look into it over the weekend. One thing led to another, and I ended up making a slew of improvements:
+My [HTTP Header Analyzer](https://headers.dev/analyze) continues to be [used a lot](https://dri.es/the-little-http-header-analyzer-that-could). Last week, I received a bug report, so I decided to look into it over the weekend. One thing led to another, and I ended up making a slew of improvements:
 
 1. Clarified the explanations for various Cloudflare headers, including `CF-Edge-Cache`, `CF-APO-Via`, `CF-BGJ`, `CF-Polish`, `CF-Mitigated`, `CF-Ray`, `CF-Request-ID`, `CF-Connecting-IP`, and `CF-IPCountry`.
 2. Added support for new headers: `X-Logged-In`, `X-Hacker`, `X-Vimeo-Device`, and `Origin-Agent-Cluster`.
@@ -37,4 +37,4 @@ My [HTTP Header Analyzer](https://dri.es/headers) continues to be [used a lot](h
 
 HTTP headers are crucial for web application functionality and security. While some are commonly used, there are many lesser-known headers that protect against security vulnerabilities, enforces stronger security policies, and improves performance.
 
-To explore these headers further, you can try the latest [HTTP Header Analyzer](https://dri.es/headers). It is pretty simple to use: enter a URL, and the tool will analyze the headers sent by your website. It then explains these headers, provides a score, and suggests possible improvements.
+To explore these headers further, you can try the latest [HTTP Header Analyzer](https://headers.dev/analyze). It is pretty simple to use: enter a URL, and the tool will analyze the headers sent by your website. It then explains these headers, provides a score, and suggests possible improvements.
