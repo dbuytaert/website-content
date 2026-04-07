@@ -15,11 +15,11 @@ id: 152
 
 - [Drupal](https://www.drupal.org/) – Open Source software for building websites and digital experiences. Founder and Project Lead for more than 25 years.
 
-- [Drupal Core Metrics](https://dbuytaert.github.io/drupal-core-metrics/) – Real-time dashboard showing the health, quality, and scale of the Drupal core codebase.
+- [Drupal Core Metrics](https://dbuytaert.github.io/drupal-core-metrics/) – Real-time dashboard showing the health, quality, and scale of the Drupal Core codebase.
 
 - [Drupal Digests](https://github.com/dbuytaert/drupal-digests) – RSS feeds and AI-generated summaries of noteworthy Drupal issues and ecosystem updates, explaining what changed and why it matters.
 
-- [HTTP Headers Analyzer](https://headers.dev/analyze) – Interactive tool to learn how HTTP headers work and improve website performance and security. Used more than 2,500 times a day.
+- [HTTP Headers Analyzer](https://headers.dev/analyze) – Interactive tool to learn how HTTP headers work and improve website performance and security. Used hundreds of times a day.
 
 - [Solar-powered website](https://dri.es/my-solar-powered-and-self-hosted-website) – Self-hosted site running on solar energy with live performance data from a Raspberry Pi.
 
