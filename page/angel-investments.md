@@ -22,6 +22,18 @@ id: 3486
   <th>Status</th>
 </tr>
   <tr>
+  <td>2026</td>
+  <td><a href="https://arcnc.com/">ArcNC</a></td>
+  <td>Automated programming for welding robots (Pre-seed)</td>
+  <td></td>
+</tr>
+  <tr>
+  <td></td>
+  <td><a href="https://mauricenora.be/">Maurice & Nora</a></td>
+  <td>Uber for non-medical care (Pre-seed)</td>
+  <td></td>
+</tr>
+  <tr>
   <td>2025</td>
   <td><a href="https://www.aikido.dev/">Aikido</a></td>
   <td>Developer-first application security (Series B)</td>
@@ -30,7 +42,7 @@ id: 3486
   <tr>
   <td></td>
   <td><a href="https://www.activepieces.com/">ActivePieces</a></td>
-  <td>Open source workflow automation (Seed)</td>
+  <td>Open Source workflow automation (Seed)</td>
   <td></td>
 </tr>
   <tr>
@@ -132,7 +144,7 @@ id: 3486
   <tr>
   <td></td>
   <td>Reaction Commerce</td>
-  <td>Open source ecommerce</td>
+  <td>Open Source ecommerce</td>
   <td>Sold to Mailchimp</td>
 </tr>
   <tr>
@@ -150,7 +162,7 @@ id: 3486
   <tr>
   <td></td>
   <td><a href="https://mautic.org">Mautic</a></td>
-  <td>Open source marketing automation</td>
+  <td>Open Source marketing automation</td>
   <td>Sold to Acquia</td>
 </tr>
   <tr>
