@@ -16,6 +16,7 @@ id: 3
 <section id="2026">
   <h3>2026</h3>
 
+- [East Coast camping trip](/album/east-coast-2026/)
 - [Bath, UK](/album/bath-2026/)
 - [Skiing in Chamonix, French Alps](/album/chamonix-2026/)
 - [Skiing in Saint-Gervais, French Alps](/album/saint-gervais-2026/)
