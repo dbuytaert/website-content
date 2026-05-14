@@ -14,6 +14,7 @@ tags:
   - 'My site'
   - JavaScript
 published: true
+featured: false
 id: 4756
 ---
 
@@ -26,7 +27,7 @@ A faster site is more accessible, and therefore more inclusive for people visiti
 For those reasons, I decided to see if I could improve the performance of my site. I used the excellent <https://webpagetest.org> to benchmark a simple blog post <https://dri.es/relentlessly-eliminating-barriers-to-growth>.
 
 <div class="large">
-  [image blog/webpagetest-no-images-february-2019-before]
+  [image blog/webpagetest-no-images-february-2019-before resize=false]
 </div>
 
 The image above shows that it took a browser 0.722 seconds to download and render the page (see blue vertical line):
@@ -48,27 +49,27 @@ According to the January 1st, 2019 run of [HTTP Archive](https://httparchive.org
 
 <table>
   <thead>
-   <tr>
-    <th>File type</th>
-    <th>Dri.es before</th>
-    <th>Dri.es after</th>
-    <th>World-wide median</th>
-  </tr>
- </thead>
+  <tr>
+  <th>File type</th>
+  <th>Dri.es before</th>
+  <th>Dri.es after</th>
+  <th>World-wide median</th>
+</tr>
+</thead>
   <tbody>
-   <tr>
-    <td>JavaScript</td>
-    <td>45 KB</td>
-    <td>669 bytes</td>
-    <td>396 KB</td>
-  </tr>
-   <tr>
-    <td>CSS</td>
-    <td>4.7 KB</td>
-    <td>2.5 KB</td>
-    <td>60 KB</td>
-  </tr>
- </tbody>
+  <tr>
+  <td>JavaScript</td>
+  <td>45 KB</td>
+  <td>669 bytes</td>
+  <td>396 KB</td>
+</tr>
+  <tr>
+  <td>CSS</td>
+  <td>4.7 KB</td>
+  <td>2.5 KB</td>
+  <td>60 KB</td>
+</tr>
+</tbody>
 </table>
 
 Because the new JavaScript and CSS files are significantly smaller, it takes the browser less time to download, parse and render them. As a result, the same blog post is now available in 0.465 seconds instead of 0.722 seconds, or 35% faster.
@@ -76,7 +77,7 @@ Because the new JavaScript and CSS files are significantly smaller, it takes the
 After a new <https://webpagetest.org> test run, you can clearly see that the bars for the CSS and JavaScript files became visually shorter:
 
 <div class="large">
-  [image blog/webpagetest-no-images-february-2019-after]
+  [image blog/webpagetest-no-images-february-2019-after resize=false]
 </div>
 
 To optimize the user experience of my site, I want it to be fast. I hope that others will see that bloated websites can come at a great cost, and will consider using tools like <https://webpagetest.org> to make their sites more performant.
