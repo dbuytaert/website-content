@@ -25,7 +25,7 @@ id: 6181
 
 Today [Acquia](https://www.acquia.com/) announced something I'm really proud of. We're calling it the [Acquia Fair Trade Initiative](https://www.acquia.com/partners/fair-trade-initiative).
 
-When an Acquia partner closes a deal, 2% of that deal flows directly to the [Drupal Association](https://www.drupal.org/association), credited in the partner's name, to [fund Drupal's infrastructure](https://dri.es/what-it-costs-to-run-drupal-infrastructure) and long-term growth.
+When an Acquia partner closes a deal, 2% of that deal flows directly to the [Drupal Association](https://www.drupal.org/association), credited in the partner's name, to [fund Drupal's infrastructure](https://dri.es/what-it-costs-to-run-drupal-infrastructure) and long-term growth. This is in addition to the millions of dollars Acquia already invests in Drupal each year.
 
 Imagine an Acquia partner closes a $100,000 Drupal deal with Acquia. $2,000 goes to the Drupal Association, attributed to that partner. The 2% comes from Acquia, not from partner margins, so the partner keeps their full revenue and incentives.
 
