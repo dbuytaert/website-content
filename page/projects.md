@@ -21,6 +21,6 @@ id: 152
 
 - [HTTP Headers Analyzer](https://headers.dev/analyze) – Interactive tool to learn how HTTP headers work and improve website performance and security. Used hundreds of times a day.
 
-- [Solar-powered website](https://dri.es/my-solar-powered-and-self-hosted-website) – Self-hosted site running on solar energy with live performance data from a Raspberry Pi.
+- [Solar-powered website](https://dri.es/my-solar-powered-and-self-hosted-website) – A self-hosted website powered by solar energy, with live data showing power generation, battery level, and energy use. See the [live data](https://dri.es/sensors/solar).
 
-- [Electronics](https://dri.es/tag/electronics) – DIY electronics and data visualization projects such as thermometers and CO₂ monitors.
+- [Basement temperature monitor](https://dri.es/building-my-own-temperature-and-humidity-monitor) – Track the temperature and humidity in our basement. See the [live data](basement-belgium).
