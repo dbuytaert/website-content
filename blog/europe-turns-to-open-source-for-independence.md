@@ -52,7 +52,7 @@ Still, it is worth being clear about what kind of document this is. This is not 
 
 The strategy notes that "the EU currently spends EUR 264 billion a year mostly on US proprietary IT products and services". That is not the Commission's budget; it is what the broader European economy spends each year on American software.
 
-Set against that number, €2 billion over seven years for Open Source is a start, but a very small one. Seven years of Europe's Open Source budget is roughly three days of its American software bill. Europe has started to treat Open Source as sovereignty infrastructure, but it is not yet funding it like sovereignty infrastructure.
+Set against that number, €2 billion over seven years for Open Source is a start, but a very small one. Seven years of Europe's Open Source budget is roughly three days of its annual American software bill. Europe has started to treat Open Source as sovereignty infrastructure, but it is not yet funding it like sovereignty infrastructure.
 
 The strategy also stops one word short. In procurement, it tells public bodies to choose Open Source "first", not that they must. But "first" is only a preference. It is the kind of thing you talk yourself out of when the demo is shiny and the deadline is close.
 
