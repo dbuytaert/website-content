@@ -11,6 +11,7 @@ tags:
   - Drupal
   - Testing
 published: true
+featured: false
 id: 5376
 ---
 
@@ -83,7 +84,6 @@ I use [DDEV](https://ddev.com/) for my local development environment and follow 
 $ ddev ssh
 $ export SIMPLETEST_BASE_URL="https://dri.es.ddev.site/"
 $ export SIMPLETEST_DB="mysql://db:db@db/db"
-
 ```
 
 ### Running PHPUnit test for Drupal

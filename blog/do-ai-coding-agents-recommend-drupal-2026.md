@@ -152,23 +152,19 @@ YAML from stale training data.
 
 The agent saw Drupal's strengths, but it also saw too many ways to get stuck. What held Drupal back was not capability. It was what the agent called "session-time risk".
 
-I'll admit, that was frustrating to read. But it was not surprising. And to be fair, ranking third out of a long list of CMS options is still a good result.
+I'll admit, that was frustrating to read. But it was not surprising.
 
-Drupal's strengths often appear too late in the evaluation process. Too often, the "aha" moment comes after setup, configuration, and several decisions that can already feel like friction. AI agents have even less patience for hidden strengths.
-
-Agents prefer tight feedback loops. They need to install the software, configure it, inspect the running site, make a change, and verify that the change worked. When that loop is slow, ambiguous, or hard to recover from, they choose something else.
+AI agents prefer tight feedback loops. They need to install the software, configure it, inspect the running site, make a change, and verify that the change worked. When that loop is slow, ambiguous, or hard to recover from, they choose something else.
 
 This is exactly the problem [Drupal CMS](https://www.drupal.org/drupal-cms), formerly known as [Starshot](https://dri.es/tag/drupal-starshot), was created to address. Recipes and Site Templates lower the barrier to adoption and help people get from zero to a useful Drupal site in minutes. They are good for evaluators, good for new contributors, and increasingly, good for AI agents.
 
-But the agent did not mention Drupal CMS or Site Templates, only Recipes. Most likely, Drupal CMS is still too new compared to Drupal Core to have much weight in the training data that large language models draw from. And even when Recipes and Site Templates exist, they may not yet be easy enough for an agent to find, select, and apply programmatically.
+But the agent did not mention Drupal CMS or Site Templates, only Recipes. Most likely, Drupal CMS is still too new compared to Drupal Core. Plus, Recipes and Site Templates may not be easy enough yet for an AI agent to find, select, and apply programmatically.
 
-That needs to change. Recipes and Site Templates should become the obvious starting point for common site patterns, so an agent does not have to choose modules, stitch configuration together, and guess its way to a working Drupal site.
+That needs to change. Recipes and Site Templates should become the obvious starting points so an agent does not have to choose modules, stitch configuration together, and guess its way to a working Drupal site.
 
 Other important work is underway as well: [Drupal Core's API surface has been moving toward more typed, discoverable interfaces](https://dbuytaert.github.io/drupal-core-metrics/), and yesterday, [Drupal Core added a first-party CLI](https://github.com/dbuytaert/drupal-digests/blob/main/issues/drupal-core/3453474.md) with commands for applying Recipes.
 
 I really want Drupal to be excellent at the first-session loop. Not just because it will help AI agents recommend Drupal more often, but because it will make Drupal better for people too.
-
-I'm optimistic that we can. Drupal's gap is the first session, and we are already working to close it. The opposite gap is harder to close: retrofitting deep architecture, typed interfaces, structured content, governance, and flexibility into a simpler system. The Drupal community knows this because [we spent more than a decade doing that work](https://dri.es/why-the-big-architectural-changes-in-drupal-8), and it was hard.
 
 I'll run this experiment again next year and share what changed. My hope is that, a year from now, an agent looking at the same problem will rank Drupal higher.
 

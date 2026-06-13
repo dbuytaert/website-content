@@ -10,7 +10,7 @@ type: blog
 tags:
   - Drupal
   - Statistics
-image: miscellaneous-2025/vibe-coding-van/
+image: miscellaneous-2025/vibe-coding-van
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_measuring-drupal-core-code-complexity-activity-7414796612188856320-LqYI' }
 published: true
@@ -34,7 +34,7 @@ By tracking these metrics publicly, I hope to inform decisions about both code q
 
 All charts use static code analysis. Static analysis can't measure the experience of learning Drupal, but it can hint at it. As a next step, I'd love to measure developer experience more directly. Dynamic analysis could help, for example by tracking call stack depth or how many files and APIs you need to touch to make a simple change.
 
-The dashboard is open source, and contributions are welcome at [https://github.com/dbuytaert/drupal-core-metrics](https://github.com/dbuytaert/drupal-core-metrics).
+The dashboard is Open Source, and contributions are welcome at [https://github.com/dbuytaert/drupal-core-metrics](https://github.com/dbuytaert/drupal-core-metrics).
 
 *Special thanks to [catch](https://www.drupal.org/u/catch) for multiple rounds of feedback. As the most active Core Committer over the past 12 months, his input was invaluable.*
 

@@ -13,7 +13,7 @@ tags:
   - 'Photo stream'
   - Photography
   - JavaScript
-image: 'image miscellaneous-2022/train-2'
+image: miscellaneous-2022/train-2
 published: true
 featured: false
 id: 5951

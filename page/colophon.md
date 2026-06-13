@@ -36,7 +36,3 @@ All content on this site, including photos, is licensed under [Creative Commons 
 <h3 id="software">Software</h3>
 
 This website is built with [Drupal](https://www.drupal.org/) and hosted by [Acquia](https://www.acquia.com).
-
-<h3 id="contact">Contact me</h3>
-
-You can mail me at <dries@buytaert.net> (personal) or <dries@acquia.com> (work).
