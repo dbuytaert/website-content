@@ -17,8 +17,6 @@ id: 4936
 
 # Acquia to receive majority investment from Vista Equity Partners
 
-[image acquia/acquia-vista]
-
 Today, we announced that [Acquia](https://www.acquia.com/) has agreed [to receive a substantial majority investment from Vista Equity Partners](https://www.bloomberg.com/news/articles/2019-09-24/vista-is-said-to-buy-majority-stake-in-acquia-in-1-billion-deal). This means that Acquia has a new investor that owns more than 50 percent of the company, and who is invested in our future success. Attracting a well-known partner like [Vista](https://www.vistaequitypartners.com/) is a tremendous validation of what we have been able to achieve. I'm incredibly proud of that, as so many Acquians worked so hard to get to this milestone.
 
 ### Our mission remains the same

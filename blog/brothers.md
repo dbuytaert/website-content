@@ -13,10 +13,11 @@ tags:
   - Axl
   - Stan
   - Boston
+image: duxbury-2011/duxbury-10
 published: true
 id: 2526
 ---
 
 # Brothers
 
-[image duxbury-2011/duxbury-10]
+

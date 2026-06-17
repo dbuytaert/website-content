@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Tuscany
+image: tuscany-2006/roofs
 published: true
 id: 49
 ---
 
 # Roofs
 
-[image tuscany-2006/roofs]
+

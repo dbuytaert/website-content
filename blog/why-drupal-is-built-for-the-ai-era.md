@@ -19,8 +19,6 @@ id: 5851
 
 # Why Drupal is built for the AI era
 
-[image blog/drupal-ai-advantage lazy=false priority=true]
-
 In my previous post, [The great digital agency unbundling](https://dri.es/ai-and-the-great-digital-agency-unbundling), I explored how AI is transforming the work of digital agencies. As AI automates more technical tasks, agencies will be shifting their focus toward orchestration, strategic thinking, and accountability. This shift also changes what they need from their tools.
 
 Content management systems like [Drupal](https://new.drupal.org/home) must evolve with them. This is not just about adding AI features. It is about becoming a platform that strengthens the new agency model. Because as agencies take on new roles, they will adopt the tools that help them succeed.

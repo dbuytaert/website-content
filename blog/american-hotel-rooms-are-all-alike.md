@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Vancouver
+image: vancouver-2006/holy-bible
 published: true
 id: 27
 ---
 
 # American hotel rooms are all alike
 
-[image vancouver-2006/holy-bible]
+

@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Chicago
+image: drupalcon-chicago-2011/chicago
 published: true
 id: 2241
 ---
 
 # Chicago in the morning
 
-[image drupalcon-chicago-2011/chicago]
+

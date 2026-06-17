@@ -18,8 +18,6 @@ id: 5401
 
 # Acquia appoints Steve Reny as CEO
 
-[image miscellaneous-2022/acquia-freedom-tour caption=false]
-
 In the early days, Acquia was [one of the fastest-growing companies in the US](https://dri.es/acquia-fastest-growing-software-company-in-us). Like most startups, we'd raise money, convert that money into growth, raise money again, etc. In total, we raised nearly $190 million in seven rounds of funding.
 
 At some point, all companies that take this approach have to become self-sustainable. Acquia wasn't any different.

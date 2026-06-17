@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Friends
+image: miscellaneous-2006/nele-peeters
 published: true
 id: 117
 ---
 
 # Nele Peeters
 
-[image miscellaneous-2006/nele-peeters]
+

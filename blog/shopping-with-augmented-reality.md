@@ -19,8 +19,6 @@ id: 4056
 
 # Shopping with augmented reality
 
-[image blog/shopping-with-augmented-reality-example-2017 resize=false]
-
 Last spring, Acquia Labs [built a chatbot prototype](https://dri.es/think-beyond-with-acquia-labs) that helps customers choose recipes and plan shopping lists with dietary restrictions and preferences in mind. The ability to interact with a chatbot assistant rather than having to research and plan everything on your own can make grocery shopping much easier. We wanted to take this a step further and explore how augmented reality could also improve the shopping experience.
 
 [video ZroFBG7-P7Q]

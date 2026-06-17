@@ -10,12 +10,11 @@ type: blog
 tags:
   - Photography
   - Belgium
+image: knokke-heist-2005/snowy-beach
 published: true
 id: 8
 ---
 
 # Snowy beach
-
-[image knokke-heist-2005/snowy-beach]
 
 First time I saw the Belgian beach covered with snow. Taken with my new 50mm lens.

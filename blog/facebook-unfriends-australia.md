@@ -17,8 +17,6 @@ id: 5151
 
 # Facebook unfriends Australia
 
-[image blog/facebook-social-decay]
-
 In response to a proposed law that requires technology companies to pay Australian publishers for linking to their news articles, Facebook made the sudden decision to [restrict people and publishers from sharing news in Australia](https://about.fb.com/news/2021/02/changes-to-sharing-and-viewing-news-on-facebook-in-australia/).
 
 Facebook struggles to silence misinformation for years, but succeeds in silencing quality news in days. In both cases, Facebook's fast and loose approach continues to hurt millions of people ...

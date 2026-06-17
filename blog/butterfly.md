@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Boston
+image: miscellaneous-2011/butterfly-1
 published: true
 id: 2516
 ---
 
 # Butterfly
 
-[image miscellaneous-2011/butterfly-1]
+

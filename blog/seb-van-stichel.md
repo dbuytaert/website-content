@@ -10,12 +10,11 @@ type: blog
 tags:
   - Photography
   - Family
+image: miscellaneous-2015/seb-van-stichel-1
 published: true
 id: 3421
 ---
 
 # Seb Van Stichel
-
-[image miscellaneous-2015/seb-van-stichel-1]
 
 Today the world welcomed a healthy baby boy: Seb Van Stichel. Congratulations to my sister, Mien, and my brother-in-law, Johan. My Opa, the oldest member of our family at 94 years old, is holding his great-grandson, the youngest member of the family. I'm honored to be Seb's godfather; my Christmas budget will be going up. :-)

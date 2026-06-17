@@ -10,12 +10,11 @@ type: blog
 tags:
   - Drupal
   - DrupalCon
+image: drupalcon-barcelona-2007/group-picture
 published: true
 id: 330
 ---
 
 # DrupalCon Barcelona attendees
-
-[image drupalcon-barcelona-2007/group-picture]
 
 Thanks for being such a passionate community. You rock.

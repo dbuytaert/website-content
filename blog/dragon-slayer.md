@@ -11,10 +11,11 @@ tags:
   - Photography
   - Family
   - Axl
+image: axl-2007/dragon-slayer
 published: true
 id: 324
 ---
 
 # Dragon slayer
 
-[image axl-2007/dragon-slayer]
+

@@ -12,10 +12,11 @@ tags:
   - Photography
   - Self-portrait
   - 'San Francisco'
+image: san-francisco-2006/jeff-boris-and-me
 published: true
 id: 97
 ---
 
 # Jeff, Boris and me
 
-[image san-francisco-2006/jeff-boris-and-me]
+

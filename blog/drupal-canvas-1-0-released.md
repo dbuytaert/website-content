@@ -20,8 +20,6 @@ id: 5966
 
 # Drupal Canvas 1.0 released
 
-[image blog/drupal-canvas-1-released]
-
 When we launched [Drupal CMS 1.0](https://dri.es/drupal-cms-1-released) eleven months ago, I posted the announcement on Reddit. Brave of me, I know. But I wanted non-Drupal people to actually try it.
 
 There were a lot of positive reactions, but there was also honest feedback. The most common? "Wake me up when your new experience builder is ready". The message was clear: make page building easier and editing more visual.

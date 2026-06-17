@@ -11,12 +11,11 @@ tags:
   - Drupal
   - 'Drupal sites'
   - Entertainment
+image: drupal/battlefield-1943
 published: true
 id: 811
 ---
 
 # Battlefield 1943 using Drupal
-
-[image drupal/battlefield-1943]
 
 Battlefield 1943 is out and the website is using [Drupal](https://www.drupal.org): see <http://battlefield1943.com/>.

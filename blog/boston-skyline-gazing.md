@@ -12,10 +12,11 @@ tags:
   - Photography
   - Axl
   - Boston
+image: summer-in-boston-2021/4th-of-july-2
 published: true
 id: 5216
 ---
 
 # Boston skyline gazing
 
-[image summer-in-boston-2021/4th-of-july-2]
+

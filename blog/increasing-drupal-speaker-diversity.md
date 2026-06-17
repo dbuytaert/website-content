@@ -17,8 +17,6 @@ id: 4906
 
 # Increasing Drupal speaker diversity
 
-[image blog/increasing-diversity]
-
 At [Drupalcon Seattle](https://dri.es/state-of-drupal-presentation-april-2019), I spoke about some of the challenges Open Source communities like [Drupal](https://drupal.org/) often have with [increasing contributor diversity](https://dri.es/the-privilege-of-free-time-in-open-source). We want our contributor base to look like everyone in the world who uses Drupal's technology on the internet, and unfortunately, that is not quite the reality today.
 
 One way to step up is to help more people from underrepresented groups speak at Drupal conferences and workshops. Seeing and hearing from a more diverse group of people can inspire new contributors from all races, ethnicities, gender identities, geographies, religious groups, and more.

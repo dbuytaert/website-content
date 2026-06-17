@@ -21,8 +21,6 @@ id: 6026
 
 # 20 years of blogging
 
-[image miscellaneous-2023/afternoon-light-kitchen caption=false]
-
 My blog turns 20 today!
 
 I have been at this for two decades now, yet I still don't identify as a blogger. It feels awkward to say the words: I am a blogger.

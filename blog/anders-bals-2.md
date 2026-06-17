@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Friends
+image: miscellaneous-2008/anders-bals
 published: true
 id: 425
 ---
 
 # Anders Bals
 
-[image miscellaneous-2008/anders-bals]
+

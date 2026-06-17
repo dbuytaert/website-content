@@ -10,12 +10,11 @@ type: blog
 tags:
   - Drupal
   - DrupalCon
+image: drupalcon-brussels-2006/group-picture
 published: true
 id: 150
 ---
 
 # DrupalCon Brussels attendees
-
-[image drupalcon-brussels-2006/group-picture]
 
 Thanks for being such a passionate community. You rock.

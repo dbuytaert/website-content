@@ -10,12 +10,11 @@ type: blog
 tags:
   - Photography
   - Belgium
+image: miscellaneous-2010/belgian-breakfast
 published: true
 id: 1627
 ---
 
 # Belgian breakfast
-
-[image miscellaneous-2010/belgian-breakfast]
 
 This is what us Belgians have for breakfast on Sunday. Can you imagine? ;-)

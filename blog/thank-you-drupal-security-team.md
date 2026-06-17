@@ -20,8 +20,6 @@ id: 5956
 
 # Thank you, Drupal Security Team
 
-[image drupal/blue-hearts-1 lazy=false priority=true]
-
 Today is Thanksgiving in the US. I know it's not a global holiday, but it has me thinking about gratitude, and specifically about a team that rarely gets the recognition it deserves: the [Drupal Security Team](https://www.drupal.org/drupal-security-team).
 
 As Drupal's project lead, I'm barely involved in our security work. And you know what? That is a sign that things are working really well.
@@ -32,7 +30,7 @@ To get an idea of the quality of their work, check out recent advisories at [dru
 
 Whether you're running a small blog or critical government infrastructure, the Security Team protects you with the same consistency and professionalism. 
 
-While I'm on our private security team mailing list, they do all this without needing me to oversee or interfere. In fact, the team handles everything so smoothly that my involvement would only slow them down. In the world of open source leadership, there is no higher compliment I can pay them.
+While I'm on our private security team mailing list, they do all this without needing me to oversee or interfere. In fact, the team handles everything so smoothly that my involvement would only slow them down. In the world of Open Source leadership, there is no higher compliment I can pay them.
 
 Security work is largely invisible when done well. Nobody celebrates the absence of breaches. The researchers who report issues often get more recognition than the team members who spend hours verifying, patching, and coordinating fixes.
 

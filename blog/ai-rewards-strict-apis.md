@@ -22,8 +22,6 @@ id: 6171
 
 # AI rewards strict APIs
 
-[image blog/drupal-ai-advantage lazy=false priority=true]
-
 Every framework's API surface sits on a spectrum, from strict (typed interfaces, schemas, service containers) to loose (string keys, naming conventions, untyped hooks). Strict APIs cost more upfront: more boilerplate, more to learn before writing code. Loose APIs shift that cost later: more ambiguity, more reliance on naming conventions, and more bugs that are harder to detect and fix.
 
 AI changes who pays. Boilerplate and learning curves don't slow agents down. What slows them down is missing feedback: code that runs but does the wrong thing, errors that don't point to the cause, conventions that have to be guessed. Magic-name binding, untyped hooks, unvalidated configuration, and conventions the code doesn't enforce produce exactly those failure modes.

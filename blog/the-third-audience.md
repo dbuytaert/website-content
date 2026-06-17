@@ -23,8 +23,6 @@ id: 6051
 
 # The Third Audience
 
-[image blog/machines-reading-web-content priority=true schema=false]
-
 I used Claude Code to build a new feature for my site this morning. Any URL on my blog can now return Markdown instead of HTML.
 
 I added a small hint in the HTML to signal that the Markdown version exists, mostly to see what would happen. My plan was to leave it running for a few weeks and write about it later if anything interesting turned up. 

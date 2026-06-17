@@ -17,8 +17,6 @@ id: 5671
 
 # Drupal CMS: the official name for Drupal Starshot
 
-[image drupal/drupal-cms-official-name]
-
 We're excited to announce that "Drupal CMS" will be the official name for the product developed by the Drupal Starshot Initiative.
 
 The name "Drupal CMS" was chosen after user testing with both newcomers and experienced users. This name consistently scored highest across all tested groups, including marketers unfamiliar with Drupal.

@@ -18,8 +18,6 @@ id: 4566
 
 # A book for decoupled Drupal practitioners
 
-[image drupal/decoupled-drupal-book-2018]
-
 Drupal has evolved significantly over the course of its long history. When I first built [the Drupal project](https://www.drupal.org/) eighteen years ago, it was a message board for my friends that I worked on in my spare time. Today, Drupal runs two percent of all websites on the internet with the support of an open-source community that includes hundreds of thousands of people from all over the world.
 
 Today, Drupal is going through another transition as its capabilities and applicability continue to expand [beyond traditional websites](https://dri.es/drupal-is-for-ambitious-digital-experiences). Drupal now powers digital signage on university campuses, in-flight entertainment systems on commercial flights, interactive kiosks on cruise liners, and even pushes live updates to the countdown clocks in the New York subway system. It doesn't stop there. More and more, digital experiences are starting to encompass [virtual reality](https://dri.es/virtual-reality-on-campus-with-drupal), [augmented reality](https://dri.es/shopping-with-augmented-reality), [chatbots](https://dri.es/think-beyond-with-acquia-labs), [voice-driven interfaces](https://dri.es/cooking-with-alexa-and-drupal) and Internet of Things applications. All of this is great for Drupal, as it expands its market opportunity and long-term relevance.

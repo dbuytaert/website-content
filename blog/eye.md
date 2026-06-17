@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Family
+image: miscellaneous-2006/eye
 published: true
 id: 123
 ---
 
 # Eye
 
-[image miscellaneous-2006/eye]
+

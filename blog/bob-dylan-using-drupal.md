@@ -11,12 +11,11 @@ tags:
   - Drupal
   - 'Drupal sites'
   - Music
+image: drupal/bob-dylan
 published: true
 id: 506
 ---
 
 # Bob Dylan using Drupal
-
-[image drupal/bob-dylan]
 
 Check it out at [bobdylan.com](http://www.bobdylan.com/)! *Très cool!*

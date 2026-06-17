@@ -12,13 +12,12 @@ tags:
   - Drupal
   - Acquia
   - 'Acquia Lift'
+image: blog/friduction
 published: true
 id: 3936
 ---
 
 # Friduction: the internet's unstoppable drive to eliminate friction
-
-[image blog/friduction]
 
 There is one significant trend that I have noticed over and over again: the internet's continuous drive to mitigate friction in user experiences and business models.
 

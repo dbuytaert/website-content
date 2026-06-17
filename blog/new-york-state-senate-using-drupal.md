@@ -12,13 +12,12 @@ tags:
   - 'Drupal sites'
   - 'New York'
   - Government
+image: drupal/new-york-state-senate
 published: true
 id: 647
 ---
 
 # New York State Senate using Drupal
-
-[image drupal/new-york-state-senate]
 
 More proof that [Drupal and open government is a great match](https://dri.es/where-open-source-open-data-and-government-meet): the [New York State Senate](https://en.wikipedia.org/wiki/New_York_State_Senate) just relaunched its website on [Drupal](https://www.drupal.org) and there is a lot to like. Check out their new site at <http://www.nysenate.gov>.
 

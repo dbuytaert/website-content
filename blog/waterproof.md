@@ -9,10 +9,11 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Photography
+image: beverly-farms-2009/shoes-in-water
 published: true
 id: 1086
 ---
 
 # Waterproof
 
-[image beverly-farms-2009/shoes-in-water]
+

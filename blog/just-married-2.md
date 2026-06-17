@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Friends
+image: wedding-joris-and-caroline-2007/wedding-8
 published: true
 id: 340
 ---
 
 # Just married
 
-[image wedding-joris-and-caroline-2007/wedding-8]
+

@@ -13,13 +13,12 @@ tags:
   - Acquia
   - 'Acquia Cloud'
   - Government
+image: drupal/restore-the-gulf-gov
 published: true
 id: 1896
 ---
 
 # RestoreTheGulf.gov using Drupal in the cloud
-
-[image drupal/restore-the-gulf-gov]
 
 The U.S. government recently launched a new Drupal website, [RestoreTheGulf.gov](http://restorethegulf.gov), to provide information about the environmental catastrophe in the Gulf of Mexico from the oil spill earlier this year and announced plans to phase out the current disaster response.
 

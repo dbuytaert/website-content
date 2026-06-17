@@ -21,8 +21,6 @@ id: 5961
 
 # The freedom to leave is what makes customers stay
 
-[image acquia/acquia-source-door lazy=false priority=true]
-
 When I tell people that [Acquia Source](https://dri.es/the-product-we-should-not-have-killed) will let customers export their _entire_ website and leave our platform anytime, I usually get puzzled looks. 
 
 We really mean the entire site: the underlying Drupal code, theme, configuration, content, and data. The export gives you a complete, working Drupal site that you can run on any infrastructure you choose.
@@ -35,7 +33,7 @@ First, when leaving is easy, customers stay because they want to, not because th
 
 Second, the ability to leave means teams can start small and scale without hitting a wall. All SaaS products have constraints, and Acquia Source is no exception. When your application reaches a level of complexity that requires deeper customization, you can take your entire site to Acquia Cloud or any other Drupal hosting environment.  You never need to start over.
 
-Last but not least, because Acquia Source is built on Drupal, we want it to reflect [Drupal's open source freedoms](https://www.gnu.org/philosophy/free-sw.html.en). Full export is how we make those principles real in a SaaS context.
+Last but not least, because Acquia Source is built on Drupal, we want it to reflect [Drupal's Open Source freedoms](https://www.gnu.org/philosophy/free-sw.html.en). Full export is how we make those principles real in a SaaS context.
 
 We call this Open SaaS. 
 

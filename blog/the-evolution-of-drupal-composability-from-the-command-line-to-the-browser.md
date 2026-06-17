@@ -18,8 +18,6 @@ id: 5441
 
 # The evolution of Drupal's composability: from the command line to the browser
 
-[image drupal/evolution-drupal-composability resize=false]
-
 Drupal's modularity allows developers to combine and reuse modules, themes, and libraries to create custom solutions. This modularity is one of the key ingredients that makes Drupal a [composable platform](https://dri.es/a-composable-digital-experience-manifesto). The [original motivation](https://dri.es/the-assembled-web) behind Drupal's modularity was to accelerate the pace of innovation and democratize the experience of site building.
 
 This blog post has two main goals.

@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Family
+image: miscellaneous-2006/oma-and-opa
 published: true
 id: 162
 ---
 
 # Oma and opa
 
-[image miscellaneous-2006/oma-and-opa]
+

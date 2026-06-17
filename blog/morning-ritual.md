@@ -13,10 +13,11 @@ tags:
   - Family
   - Self-portrait
   - Axl
+image: axl-2007/morning-ritual
 published: true
 id: 358
 ---
 
 # Morning ritual
 
-[image axl-2007/morning-ritual]
+

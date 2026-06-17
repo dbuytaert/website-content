@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - 'San Francisco'
+image: san-francisco-2006/buick
 published: true
 id: 108
 ---
 
 # Buick
 
-[image san-francisco-2006/buick]
+

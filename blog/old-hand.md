@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Family
+image: miscellaneous-2006/old-hand
 published: true
 id: 175
 ---
 
 # Old hand
 
-[image miscellaneous-2006/old-hand]
+

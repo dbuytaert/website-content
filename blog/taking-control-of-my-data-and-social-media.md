@@ -19,8 +19,6 @@ id: 4141
 
 # Taking control of my data and social media
 
-[image blog/facebook-social-decay]
-
 Earlier this month, I set a resolution to [blog more and use social media less](https://dri.es/more-blogging-and-less-social-media). While I still need to work on blogging more, I'm certainly spending less time on Facebook. I'm halfway there. So far, only my mom has complained about me spending less time on Facebook.
 
 This morning when my alarm woke me up at 4:45am, I took it a step further. Most mornings, I spend ten minutes checking Facebook on my phone. Today, however, I deleted the Facebook application from my phone, rolled out of bed and started my workday. Great!

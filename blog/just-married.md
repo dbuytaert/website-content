@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Friends
+image: miscellaneous-2007/just-married
 published: true
 id: 263
 ---
 
 # Just married
 
-[image miscellaneous-2007/just-married]
+

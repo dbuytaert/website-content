@@ -21,8 +21,6 @@ id: 5986
 
 # A blog is a biography
 
-[image old-photos-without-date/greet-van-lerberghe-birth]
-
 I never knew my great grandparents. They left no diary, no letters, only a handful of photographs. Sometimes I look at those photos and wonder what they cared about. What were their days like? What made them laugh? What problems were they working through?
 
 Then I realize it could be different for my descendants. A long-running blog like mine is effectively an autobiography. 

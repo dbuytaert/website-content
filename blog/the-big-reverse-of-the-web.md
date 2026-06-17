@@ -19,8 +19,6 @@ id: 3351
 
 # The Big Reverse of the Web
 
-[image blog/push-pull resize=false]
-
 I believe that for the web to reach its full potential, it will go through a massive re-architecture and re-platforming in the next decade. The current web is "pull-based", meaning we visit websites or download mobile applications. The future of the web is "push-based", meaning the web will be coming to us. In the next 10 years, we will witness a transformation from a pull-based web to a push-based web. When this "Big Reverse" is complete, the web will disappear into the background much like our electricity or water supply. We'll forget what 'www' stood for (which was kind of dumb to begin with). These are bold statements, I understand, but let me explain you why.
 
 In the future, content, products and services will find you, rather than you having to find them. Puma will let us know to replace our shoes and Marriott will automatically present you room options if you missed your connecting flight. Instead of visiting a website, we will proactively be notified of what is relevant and asked to take action. The dominant function of the web is to let us know what is happening or what is relevant, rather than us having to find out.

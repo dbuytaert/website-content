@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - 'San Francisco'
+image: san-francisco-2006/anchovy
 published: true
 id: 99
 ---
 
 # Anchovy
 
-[image san-francisco-2006/anchovy]
+

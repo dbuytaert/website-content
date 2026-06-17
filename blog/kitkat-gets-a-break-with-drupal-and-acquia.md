@@ -20,8 +20,6 @@ id: 5476
 
 # KitKat gets a break with Drupal and Acquia
 
-[image acquia/engage-london-2023-kitkat-1 resize=false]
-
 During our Acquia Engage Tour, I had the privilege of speaking with some of the world's most iconic brands about their experiences with [Drupal](https://www.drupal.org/) and [Acquia](https://www.acquia.com/). In London, I spoke with [Arush Kochhar](https://www.linkedin.com/in/arushkochhar/) (Global Confectionery Lead at [Nestlé](https://www.nestle.com/)) and [Niel Mouton](https://www.linkedin.com/in/nielmouton/) (Group Chief Growth Officer, Commerce &amp; Technology of EMEA for [Wunderman Thompson](https://www.wundermanthompson.com/)) about the KitKat website transformation.
 
 Arush described a picture that I see all the time with global companies. Across 80+ countries, each market was creating their own digital presence for KitKat consumers, based on their regional marketing needs and consumer demands. The end result was chaotic – with silos, inefficiency, and a lack of brand consistency across regions.

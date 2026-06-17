@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Belgium
+image: miscellaneous-2006/kiki
 published: true
 id: 67
 ---
 
 # Kiki
 
-[image miscellaneous-2006/kiki]
+

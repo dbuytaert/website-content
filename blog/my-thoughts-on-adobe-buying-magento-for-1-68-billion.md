@@ -20,8 +20,6 @@ id: 4361
 
 # My thoughts on Adobe buying Magento for $1.68 billion
 
-[image blog/adobe-acquires-magento]
-
 Yesterday, [Adobe](https://www.adobe.com) announced that it agreed to buy [Magento](https://magento.com) for $1.68 billion. When I woke up this morning, 14 different people had texted me asking for my thoughts on the acquisition.
 
 Adobe acquiring Magento isn't a surprise. One of our industry's worst-kept secrets is that Adobe first tried to buy Hybris, but lost the deal to SAP; subsequently Adobe tried to buy DemandWare and [lost out against Salesforce](https://dri.es/demandware-acquisition-heats-up-customer-experience-market). It's evident that Adobe has been hungry to acquire a commerce platform for quite some time.
@@ -86,6 +84,6 @@ On the other hand, if Adobe makes Magento cloud-only, radically changes their pr
 
 This acquisition also signals a big win for PHP. Adobe now owns a $1.68 billion PHP product, and this helps validate PHP as an enterprise-grade technology.
 
-Unfortunately, Adobe has a history of being "Open Source"-second and not "Open Source"-first. It acquired [Day Software](https://en.wikipedia.org/wiki/Day_Software) in July 2010. This technology was largely made using open source frameworks – Apache Sling, Apache Jackrabbit and more – and was positioned as an open, best-of-breed solution for developers and agile marketers. Most of that has been masked and buried over the years and Adobe's track record with developers has been mixed, at best.
+Unfortunately, Adobe has a history of being "Open Source"-second and not "Open Source"-first. It acquired [Day Software](https://en.wikipedia.org/wiki/Day_Software) in July 2010. This technology was largely made using Open Source frameworks – Apache Sling, Apache Jackrabbit and more – and was positioned as an open, best-of-breed solution for developers and agile marketers. Most of that has been masked and buried over the years and Adobe's track record with developers has been mixed, at best.
 
 Will the same happen to Magento? Time will tell.

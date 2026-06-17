@@ -14,13 +14,12 @@ tags:
   - Acquia
   - Boston
   - Government
+image: drupal/boston-gov-before-and-after
 published: true
 id: 3741
 ---
 
 # City of Boston launches Boston.gov on Drupal
-
-[image drupal/boston-gov-before-and-after resize=false]
 
 Yesterday the City of Boston launched its new website, [Boston.gov](http://boston.gov), on Drupal. Not only is Boston a city well-known around the world, it has also become my home over the past 9 years. That makes it extra exciting to see the city of Boston use Drupal.
 

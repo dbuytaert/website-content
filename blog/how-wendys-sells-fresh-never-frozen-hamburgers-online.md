@@ -22,8 +22,6 @@ id: 4631
 
 # How Wendy's sells fresh, never-frozen hamburgers online
 
-[image acquia/acquia-engage-2018-interview-with-mike-mancuso]
-
 During the [Innovation Showcase at Acquia Engage](https://dri.es/acquia-engage-2018-keynote), I invited Mike Mancuso, head of digital analytics at Wendy's, on stage. [Wendys.com](https://www.wendys.com/) is a Drupal site running on [Acquia Cloud](https://dri.es/tag/acquia-cloud), and welcomes 30 million unique visitors a year. Wendy's also uses [Acquia Lift](https://dri.es/tag/acquia-lift) to deliver personalized and intelligent experiences to all 30 million visitors.
 
 In the 8-minute video below, Mike explains how Wendy's engages with its customers online.

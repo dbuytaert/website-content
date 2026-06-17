@@ -21,8 +21,6 @@ id: 5406
 
 # Acquia Cloud Next, a journey in platform modernization
 
-[image acquia/billboard-2018-1]
-
 [Acquia Cloud](https://www.acquia.com/products/drupal-cloud/cloud-platform) was first [launched in 2009 as Acquia Hosting](https://dri.es/acquia-hosting-now-available). Acquia was one of the earliest adopters of [AWS](https://aws.amazon.com/). At the time, AWS had only 3 services: [EC2](https://aws.amazon.com/ec2/) , [S3](https://aws.amazon.com/s3/), and SimpleDB.
 
 A lot has changed since 2009, which led us to re-architect Acquia Cloud starting in late 2019. This effort, labeled "Acquia Cloud Next" (ACN), became the largest technology overhaul in [Acquia's history](https://dri.es/acquia-first-decade-the-founding-story).

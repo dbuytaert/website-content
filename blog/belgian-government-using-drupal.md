@@ -12,13 +12,12 @@ tags:
   - 'Drupal sites'
   - Belgium
   - Government
+image: drupal/invest-belgium
 published: true
 id: 414
 ---
 
 # Belgian government using Drupal
-
-[image drupal/invest-belgium]
 
 The Belgium government is using Drupal at <http://invest.belgium.be>.
 

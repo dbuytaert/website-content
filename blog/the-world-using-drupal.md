@@ -12,10 +12,11 @@ tags:
   - 'Drupal sites'
   - Broadcasting
   - Publishing
+image: drupal/theworld
 published: true
 id: 161
 ---
 
 # The world using Drupal
 
-[image drupal/theworld resize=false]
+

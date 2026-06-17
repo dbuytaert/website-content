@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Self-portrait
+image: miscellaneous-2006/happy-holidays
 published: true
 id: 194
 ---
 
 # Happy holidays
 
-[image miscellaneous-2006/happy-holidays]
+

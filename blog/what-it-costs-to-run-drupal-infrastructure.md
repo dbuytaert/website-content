@@ -20,8 +20,6 @@ id: 6131
 
 # What it costs to run Drupal's infrastructure
 
-[image blog/complex-infrastructure priority=true]
-
 Yesterday I wrote about [how Open Source infrastructure across many ecosystems is fragile and underfunded](https://dri.es/open-source-infrastructure-deserves-a-business-model). 
 
 Drupal is no exception.

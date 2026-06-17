@@ -19,15 +19,13 @@ id: 5786
 
 # Exploring a marketplace for Drupal site templates
 
-[image drupal/marketplace lazy=false priority=true]
-
 This is an unusual post for my blog, but I'm sharing it to start a broader conversation about an idea we're exploring: a marketplace for Drupal Site Templates. Both the Drupal CMS Leadership Team and the Drupal Association have discussed this concept, but no decision has been made. I'm posting to share our current thinking and invite feedback as we shape this together.
 
 This post will also be [cross-posted to Drupal.org](https://www.drupal.org/blog/exploring-a-marketplace-for-drupal-site-templates), where comments are open. You're also welcome to join the conversation in the `#drupal-cms-marketplace` channel on [Drupal Slack](https://www.drupal.org/join-slack).
 
 In [my DrupalCon Atlanta keynote](https://dri.es/state-of-drupal-presentation-march-2025), I introduced the concept of Site Templates for Drupal. If you haven't seen my keynote yet, I recommend watching it first. It provides helpful context for the rest of this post.
 
-Site Templates provide pre-configured website starting points that combine Drupal recipes, themes, and default content. While Site Templates will help users launch websites faster, I also posed a bigger question: should we create a marketplace where users can discover and download or install these templates? And if so, should that marketplace offer only open source Site Templates, or should we also allow commercial templates?
+Site Templates provide pre-configured website starting points that combine Drupal recipes, themes, and default content. While Site Templates will help users launch websites faster, I also posed a bigger question: should we create a marketplace where users can discover and download or install these templates? And if so, should that marketplace offer only Open Source Site Templates, or should we also allow commercial templates?
 
 ### What are Site Templates?
 
@@ -46,19 +44,19 @@ A Drupal marketplace for Site Templates would:
 3. Generate new revenue opportunities for Drupal agencies and developers
 4. Support Drupal's long-term sustainability through a revenue-sharing model with the Drupal Association
 
-### Should we support both open source and commercial Site Templates?
+### Should we support both Open Source and commercial Site Templates?
 
-Fully open source Site Templates align naturally with Drupal's values. They could function much like community-contributed modules and themes, and we hope that many contributors will take this approach.
+Fully Open Source Site Templates align naturally with Drupal's values. They could function much like community-contributed modules and themes, and we hope that many contributors will take this approach.
 
 A marketplace requires ongoing investment. The Drupal Association would need to maintain the platform, review submissions, provide support, and ensure templates meet high standards. Without dedicated resources, quality and sustainability would suffer.
 
-This is why supporting both open source and commercial templates makes sense. Paid templates can create a sustainable revenue stream to fund infrastructure, quality control, and support.
+This is why supporting both Open Source and commercial templates makes sense. Paid templates can create a sustainable revenue stream to fund infrastructure, quality control, and support.
 
 Commercial incentives also give creators a reason to invest in polished, well-documented, and well-supported templates.
 
-### How can a template be commercial while respecting Drupal's open source values?
+### How can a template be commercial while respecting Drupal's Open Source values?
 
-First, rest assured: Drupal modules will always be open source.
+First, rest assured: Drupal modules will always be Open Source.
 
 Drupal is licensed under the GNU General Public License, or GPL. We've always taken a conservative approach to interpreting the GPL. In practice, this means we treat any code that builds on or interacts closely with Drupal as subject to the GPL. This includes PHP, Twig templates, etc. If it relies on Drupal's APIs or is executed by Drupal, it must be GPL-licensed.
 
@@ -66,7 +64,7 @@ Some parts of a site template fall into a gray area. JavaScript is an example. I
 
 Other parts of a Site Template are likely not subject to the GPL. Assets like images, fonts and icons are not code and are not derived from Drupal. The same applies to demo content, such as placeholder text or sample articles. These elements are not integrated with Drupal in a technical sense and can use other licenses, including commercial ones.
 
-So when we talk about a commercial Site Template, we mean one that combines open source code with separately licensed assets or is sold alongside value-added services like documentation, support, or updates.
+So when we talk about a commercial Site Template, we mean one that combines Open Source code with separately licensed assets or is sold alongside value-added services like documentation, support, or updates.
 
 ### What would people actually be paying for in a commercial template?
 
@@ -79,9 +77,9 @@ When purchasing a commercial template, users wouldn't just be paying for code. T
 - Documentation and support
 - Ongoing updates and maintenance
 
-This approach aligns with the [Free Software Foundation](https://www.fsf.org/)'s stance (the organization that created the GPL), which has always supported commercial distribution of free software. Creating a commercial template means balancing open source code with separately licensed assets. However, the real commercial value often extends beyond just the files you can license differently.
+This approach aligns with the [Free Software Foundation](https://www.fsf.org/)'s stance (the organization that created the GPL), which has always supported commercial distribution of free software. Creating a commercial template means balancing Open Source code with separately licensed assets. However, the real commercial value often extends beyond just the files you can license differently.
 
-A sustainable commercial strategy combines proper licensing with controlled distribution channels and value-added services, like support. This approach ensures the value of a site template isn't limited to easily copied assets, but includes expertise that can't be simply downloaded. This is how a template can be commercial while staying true to Drupal's open source values.
+A sustainable commercial strategy combines proper licensing with controlled distribution channels and value-added services, like support. This approach ensures the value of a site template isn't limited to easily copied assets, but includes expertise that can't be simply downloaded. This is how a template can be commercial while staying true to Drupal's Open Source values.
 
 ### How would we maintain quality in the marketplace?
 
@@ -109,13 +107,13 @@ When a site template is sold commercially, it raises an important question. What
 
 This may feel frustrating or unfair. Contributors often donate their time to improve Drupal for everyone. Seeing others earn money by building on that work without recognition can be disheartening, and could even discourage future contributions. It's an important concern, and one we plan to take seriously as we evaluate the marketplace model.
 
-At the same time, this dynamic is not new. Agencies and developers already build paid Drupal sites using contributed modules without directly compensating the people who made the underlying code possible. This is both legal, expected, and common in open source.
+At the same time, this dynamic is not new. Agencies and developers already build paid Drupal sites using contributed modules without directly compensating the people who made the underlying code possible. This is both legal, expected, and common in Open Source.
 
-A marketplace would not create this reality, but it would make it more visible. That visibility gives us a chance to confront a long-standing tension in open source: the gap between those who contribute foundational work and those who profit from it. As I wrote in [Makers and Takers](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source), sustaining open source requires a better balance between contribution and benefit. A marketplace could give us a way to explore new approaches to recognize, support, and sustain the people who make Drupal possible. Transparency alone won't solve the issue, but it opens the door to progress and experimentation.
+A marketplace would not create this reality, but it would make it more visible. That visibility gives us a chance to confront a long-standing tension in Open Source: the gap between those who contribute foundational work and those who profit from it. As I wrote in [Makers and Takers](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source), sustaining Open Source requires a better balance between contribution and benefit. A marketplace could give us a way to explore new approaches to recognize, support, and sustain the people who make Drupal possible. Transparency alone won't solve the issue, but it opens the door to progress and experimentation.
 
 When commercial activity happens off Drupal.org, there is no way to recognize the contributors who made it possible. When it happens on Drupal.org, we have an opportunity to do better. We can explore models for financial support, community recognition, and long-term sustainability.
 
-Others could build marketplaces for Drupal templates, but these would likely focus on profit rather than community support. An official Drupal Association marketplace allows us to reinvest in the project and the people behind it. It keeps value within our ecosystem, and gives us a platform to explore more equitable ways to sustain open source contribution.
+Others could build marketplaces for Drupal templates, but these would likely focus on profit rather than community support. An official Drupal Association marketplace allows us to reinvest in the project and the people behind it. It keeps value within our ecosystem, and gives us a platform to explore more equitable ways to sustain Open Source contribution.
 
 ### Would this hurt digital agencies?
 
@@ -175,7 +173,7 @@ To be clear, *no* decision has been made. We recognize this initiative would hav
 - Sustainability: How will we support ongoing operations?
 - Ecosystem impact: How would this affect contributors, agencies, and users?
 - Funding: How do we bootstrap this initiative when we don't have spare resources?
-- Values alignment: Does this approach honor Drupal's open source principles?
+- Values alignment: Does this approach honor Drupal's Open Source principles?
 - Governance: Who makes decisions about the marketplace and how?
 
 We cannot and should not make these assessments in isolation. We need the Drupal community's involvement through:
@@ -184,7 +182,7 @@ We cannot and should not make these assessments in isolation. We need the Drupal
 - User experience design for the marketplace interface
 - Technical prototyping of the marketplace infrastructure
 - Financial analysis of various revenue models
-- Legal research on open source licensing considerations
+- Legal research on Open Source licensing considerations
 - Community input on governance structures
 
 Our goal is to make a decision by DrupalCon Vienna, 6 months from now, or sooner if clarity emerges. We want that decision to reflect input from the CMS Leadership Team, the Drupal Association Board, Certified Drupal Partners, and the wider Drupal community.

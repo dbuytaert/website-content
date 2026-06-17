@@ -12,13 +12,12 @@ tags:
   - Karlijn
   - Family
   - Stan
+image: stan-2009/close-up
 published: true
 id: 670
 ---
 
 # Stan Buytaert
-
-[image stan-2009/close-up]
 
 It's a boy! Today, Sunday, June 7th at 8:15am CET, Karlijn gave birth to our second son, Stan. He weighs 3.6kg and measures 52cm. More pictures are available in [this photo gallery](https://dri.es/album/stan-2009/).
 

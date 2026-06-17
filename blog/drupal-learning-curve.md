@@ -9,6 +9,7 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Drupal
+image: drupal/learning-curve
 published: true
 featured: true
 id: 227
@@ -16,4 +17,4 @@ id: 227
 
 # Drupal learning curve
 
-[image drupal/learning-curve resize=false]
+

@@ -10,13 +10,12 @@ type: blog
 tags:
   - Photography
   - 'The Netherlands'
+image: miscellaneous-2010/beschuit-met-muisjes
 published: true
 id: 1632
 ---
 
 # Beschuit met muisjes
-
-[image miscellaneous-2010/beschuit-met-muisjes]
 
 We spent the afternoon in Amsterdam visiting [the newborn Sebas](https://dri.es/album/miscellaneous-2010/sebas-snijder). The above is what the Dutch serve to celebrate the birth of a baby. Can you imagine?
 

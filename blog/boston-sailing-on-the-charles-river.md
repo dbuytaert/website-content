@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Boston
+image: winchester-2010/charles-river-sailing
 published: true
 id: 1931
 ---
 
 # Boston sailing on the Charles River
 
-[image winchester-2010/charles-river-sailing]
+

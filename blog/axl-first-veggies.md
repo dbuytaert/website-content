@@ -11,10 +11,11 @@ tags:
   - Photography
   - Family
   - Axl
+image: axl-2007/first-veggies
 published: true
 id: 375
 ---
 
 # Axl's first veggies
 
-[image axl-2007/first-veggies]
+

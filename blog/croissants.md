@@ -9,12 +9,11 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Photography
+image: miscellaneous-2010/croissants
 published: true
 id: 1806
 ---
 
 # Croissants
-
-[image miscellaneous-2010/croissants]
 
 I rolled croissants this morning, instead of Drupal patches.

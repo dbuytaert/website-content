@@ -11,10 +11,11 @@ tags:
   - Photography
   - Family
   - Stan
+image: stan-2010/pajamas-party
 published: true
 id: 1561
 ---
 
 # Pajamas party
 
-[image stan-2010/pajamas-party]
+

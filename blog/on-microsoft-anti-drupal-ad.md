@@ -12,14 +12,13 @@ tags:
   - Drupal
   - Microsoft
   - 'Social media'
+image: drupal/microsoft-anti-drupal-ad
 published: true
 featured: true
 id: 1251
 ---
 
 # On Microsoft's anti-Drupal ad
-
-[image drupal/microsoft-anti-drupal-ad resize=false]
 
 Yesterday, [an anti-Drupal ad by Microsoft was spotted in the wild](http://mridul.co.in/Aviyalism/Microsoft-thinks-Drupal-is-a-greater-threat-and-pays-Google-to-fight-drupal); see the image on the right. The news spread on Twitter like wildfire. I said this was ["interesting"](https://twitter.com/Dries/status/6698463930), not because Microsoft isn't allowed to compete with [Drupal](https://www.drupal.org) but because [Microsoft is also promoting Drupal](https://dri.es/microsoft-promoting-drupal). In fact, I was flattered by the idea that Microsoft considered Drupal worthy of competition. However, it left many of us confused about the fact that Microsoft decided to both partner with Drupal and compete against it.
 

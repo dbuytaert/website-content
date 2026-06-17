@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - India
+image: india-2011/young-beggar
 published: true
 id: 2586
 ---
 
 # Young beggar
 
-[image india-2011/young-beggar]
+

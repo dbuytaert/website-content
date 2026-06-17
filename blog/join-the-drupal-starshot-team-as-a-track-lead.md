@@ -18,8 +18,6 @@ id: 5656
 
 # Join the Drupal Starshot team as a track lead 
 
-[image drupal/starshot-tracks]
-
 The [Drupal Starshot](https://www.drupal.org/starshot) initiative has been making significant progress behind the scenes, and I'm excited to share some updates with the community.
 
 ### Leadership team formation and product definition

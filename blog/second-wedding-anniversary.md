@@ -12,12 +12,11 @@ tags:
   - Karlijn
   - Family
   - Self-portrait
+image: wedding-stefaan-and-anneleen-2008/marriage-21
 published: true
 id: 418
 ---
 
 # Second wedding anniversary
-
-[image wedding-stefaan-and-anneleen-2008/marriage-21]
 
 Today is our second wedding anniversary. I still have a crush on her. :)

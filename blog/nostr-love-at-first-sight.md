@@ -19,8 +19,6 @@ id: 5421
 
 # Nostr, love at first sight
 
-[image blog/nostr priority=true lazy=false]
-
 I recently discovered [Nostr](https://github.com/nostr-protocol/nostr), a decentralized social network that I find exciting and promising.
 
 Technically, Nostr is a protocol, not a social network. However, developers can use the Nostr protocol to create a variety of applications, including social networks.
@@ -57,8 +55,8 @@ ActivityPub has been around for longer, and is more mature, but by comparison, t
 
 - **Nostr is more decentralized** – Nostr uses a public key to identify users, while ActivityPub utilizes a more conventional user account system. ActivityPub user accounts are based on domain names, which can be controlled by third-party entities. Nostr's identification system is more decentralized, as it does not rely on domain names controlled by outside parties.
 - **Nostr is easier to use** – Decentralized networks are notoriously tough to use. To gain mass adoption, the user experience of decentralized social networks needs to match and exceed that of proprietary social networks. Both Nostr and Mastodon have user experience problems that stem from being decentralized applications. That said, I found Nostr easier to use, and I believe it is because the Nostr architecture is simpler. 
-   - Migrating to a different Mastodon server can be challenging, as your username is tied to the domain name of the current Mastodon server. However, this is not a problem in Nostr, as users are identified using a unique public key rather than a domain name.
-   - Nostr doesn't currently offer the ability to edit or delete messages easily. While there is an API available to delete a message from a relay, it requires contacting each relay that holds a copy of your message to request its deletion, which can be challenging in practice.
+  - Migrating to a different Mastodon server can be challenging, as your username is tied to the domain name of the current Mastodon server. However, this is not a problem in Nostr, as users are identified using a unique public key rather than a domain name.
+  - Nostr doesn't currently offer the ability to edit or delete messages easily. While there is an API available to delete a message from a relay, it requires contacting each relay that holds a copy of your message to request its deletion, which can be challenging in practice.
 - **Nostr makes it easier to select your preferred content policies** – Each Mastodon server or Nostr relay can have its own content policy. For example, you could have a Nostr relay that only lets verified users publish, does not allow content that has anything to do with violence, and conforms the local laws of Belgium. Being able to seamlessly switch servers or relays is very valuable because it allows user to choose a Mastodon server or Nostr relay that they align with. Unfortunately, migrating to a different Mastodon server, to opt into a different content policy, can be a challenging task.
 - **Nostr is easier to develop for** – The Nostr protocol is easier to implement than the ActivityPub protocol, and appears more extensible.
 - **Nostr has Zaps, which is potentially game-changing** – ActivityPub lacks an equivalent of Zaps, which could make it harder to address funding issues and combat spam. More on that in the next section.

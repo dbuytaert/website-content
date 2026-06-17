@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Tuscany
+image: tuscany-2006/pigeons
 published: true
 id: 46
 ---
 
 # Pigeons
 
-[image tuscany-2006/pigeons]
+

@@ -19,11 +19,9 @@ id: 4291
 
 # Defining Drupal's values and principles
 
-[image drupal/values-and-principles-balloons]
+Since its founding, Drupal has grown a great deal, and today there are thousands of contributors and organizations that make up our community. Over the course of seventeen years, we have spent a great amount of time and effort scaling our community. As a result, Drupal has evolved into one of the largest Open Source projects in the world.
 
-Since its founding, Drupal has grown a great deal, and today there are thousands of contributors and organizations that make up our community. Over the course of seventeen years, we have spent a great amount of time and effort scaling our community. As a result, Drupal has evolved into one of the largest open source projects in the world.
-
-Today, the Drupal project serves as a role model to many other open source projects; from our governance and funding models, to how we work together globally with thousands of contributors, to our 3,000+ person conferences. However, the work required to scale our community is a continuous process.
+Today, the Drupal project serves as a role model to many other Open Source projects; from our governance and funding models, to how we work together globally with thousands of contributors, to our 3,000+ person conferences. However, the work required to scale our community is a continuous process.
 
 Prompted by feedback from the Drupal community, scaling Drupal will be a key focus for me throughout 2018. I have heard a lot of great ideas about how we can scale our community, in addition to improving how we all work together. Today, I wanted to start by better establishing Drupal's values and principles, as it is at the core of everything we do.
 

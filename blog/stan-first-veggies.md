@@ -11,10 +11,11 @@ tags:
   - Photography
   - Family
   - Stan
+image: stan-2009/first-veggies
 published: true
 id: 1161
 ---
 
 # Stan's first veggies
 
-[image stan-2009/first-veggies]
+

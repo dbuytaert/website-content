@@ -24,8 +24,6 @@ id: 5856
 
 # Funding Open Source like public infrastructure
 
-[image blog/funding-open-source-like-public-infrastructure lazy=false priority=true]
-
 Fifteen years ago, I laid out a theory about the future of Open Source. In [*The Commercialization of a Volunteer-Driven Open Source Project*](https://dri.es/the-commercialization-of-a-volunteer-driven-open-source-project), I argued that if Open Source was going to thrive, people had to get paid to work on it. At the time, the idea was controversial. Many feared money would corrupt the spirit of volunteerism and change the nature of Open Source contribution.
 
 In that same post, I actually went beyond discussing the case for commercial sponsorship and outlined a broader pattern I believed Open Source would follow. I suggested it would develop in three stages: (1) starting with volunteers, then (2) expanding to include commercial involvement and sponsorship, and finally (3) gaining government support.

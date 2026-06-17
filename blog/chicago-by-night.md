@@ -11,10 +11,11 @@ tags:
   - Photography
   - 'Cities by night'
   - Chicago
+image: miscellaneous-2010/chicago-by-night
 published: true
 id: 2006
 ---
 
 # Chicago by night
 
-[image miscellaneous-2010/chicago-by-night]
+

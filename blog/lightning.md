@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Belgium
+image: knokke-heist-2006/lightning
 published: true
 id: 112
 ---
 
 # Lightning
 
-[image knokke-heist-2006/lightning]
+

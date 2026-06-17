@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Gardening
+image: miscellaneous-2006/rake
 published: true
 id: 56
 ---
 
 # Rake
 
-[image miscellaneous-2006/rake]
+

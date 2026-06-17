@@ -9,13 +9,12 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Drupal
+image: drupal/webware-100-winner-2008
 published: true
 id: 433
 ---
 
 # Drupal is a Webware 100 winner
-
-[image drupal/webware-100-winner-2008]
 
 For [the second time in a row](https://dri.es/drupal-is-a-webware-100-winner), [Drupal](https://www.drupal.org) is a [Webware 100 Awards winner](http://news.cnet.com/8301-13546_109-9913290-29.html). The Webware awards recognize the best sites, services, and applications on the web today.
 

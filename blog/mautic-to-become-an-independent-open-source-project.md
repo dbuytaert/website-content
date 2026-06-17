@@ -21,8 +21,6 @@ id: 5446
 
 # Mautic to become an independent Open Source project
 
-[image acquia/mautic-to-become-independent]
-
 In 2019, [Acquia acquired Mautic](https://dri.es/acquia-acquires-mautic-to-create-the-open-digital-experience-platform), the company behind the Open Source marketing automation project by the same name.
 
 It's a little known fact that before [Acquia](https://www.acquia.com/) acquired [Mautic](https://www.mautic.org/), it was incubated in Acquia's office. I was also an angel investor in Mautic, and an advisor to DB Hurley and Matt Johnston, Mautic's founding team. It's safe to say that I have a personal connection to Mautic, its incubation, growth, and future.

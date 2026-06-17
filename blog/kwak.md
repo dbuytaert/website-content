@@ -10,10 +10,11 @@ type: blog
 tags:
   - Drupal
   - Photography
+image: drupalcon-brussels-2006/kwak
 published: true
 id: 146
 ---
 
 # Kwak
 
-[image drupalcon-brussels-2006/kwak]
+

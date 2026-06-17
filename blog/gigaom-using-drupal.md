@@ -11,12 +11,11 @@ tags:
   - Drupal
   - 'Drupal sites'
   - Publishing
+image: drupal/ostatic
 published: true
 id: 412
 ---
 
 # GigaOm using Drupal
 
-[image drupal/ostatic]
-
-[GigaOm](http://gigaom.com) started using [Drupal](https://www.drupal.org) for [OStatic](https://ostatic.com/), the newest member of the GigaOm family of blogs. OStatic is a blog about open source software. Check [Om's announcement](https://gigaom.com/2008/03/03/back-on-the-beat-introducing-ostatic-the-open-source-blog/) for more information.
+[GigaOm](http://gigaom.com) started using [Drupal](https://www.drupal.org) for [OStatic](https://ostatic.com/), the newest member of the GigaOm family of blogs. OStatic is a blog about Open Source software. Check [Om's announcement](https://gigaom.com/2008/03/03/back-on-the-beat-introducing-ostatic-the-open-source-blog/) for more information.

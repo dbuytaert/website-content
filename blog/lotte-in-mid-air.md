@@ -11,10 +11,11 @@ tags:
   - Photography
   - Family
   - Mid-air
+image: miscellaneous-2006/lotte-in-mid-air
 published: true
 id: 104
 ---
 
 # Lotte in mid air
 
-[image miscellaneous-2006/lotte-in-mid-air]
+

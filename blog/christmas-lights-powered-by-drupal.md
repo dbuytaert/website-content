@@ -18,8 +18,6 @@ id: 6011
 
 # Christmas lights, powered by Drupal
 
-[image drupal/drupal-blue-led-christmas-lights]
-
 It's Christmas Eve, and Phil Norton is [controlling his Christmas lights with Drupal](https://www.hashbangcode.com/article/drupal-11-controlling-led-lights-using-rest-service). You can visit his site, pick a color, and across the room, a strip of LEDs changes to match. That feels extra magical on Christmas Eve.
 
 I like how straightforward his implementation is. A Drupal form stores the color value using the State API, a REST endpoint exposes that data as JSON, and MicroPython running on a Pimoroni Plasma board polls the endpoint and updates the LEDs. 

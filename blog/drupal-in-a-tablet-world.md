@@ -10,13 +10,12 @@ type: blog
 tags:
   - Drupal
   - Trends
+image: drupalcon-san-francisco-2010/ipad-ad
 published: true
 id: 1886
 ---
 
 # Drupal in a tablet world
-
-[image drupalcon-san-francisco-2010/ipad-ad]
 
 A few years ago, computer tablets similar to Apple's iPad were props in science fiction films. Only a couple of years from now, tablets might be among the most popular consumer electronics ever.
 

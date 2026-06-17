@@ -13,10 +13,11 @@ tags:
   - Family
   - Stan
   - Boston
+image: winchester-2010/karlijn-and-stan-1
 published: true
 id: 1801
 ---
 
 # Karlijn and Stan
 
-[image winchester-2010/karlijn-and-stan-1]
+

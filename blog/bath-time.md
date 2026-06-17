@@ -12,10 +12,11 @@ tags:
   - Family
   - Axl
   - Stan
+image: miscellaneous-2010/bath-time
 published: true
 id: 1676
 ---
 
 # Bath time
 
-[image miscellaneous-2010/bath-time]
+

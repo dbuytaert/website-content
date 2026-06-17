@@ -10,12 +10,11 @@ type: blog
 tags:
   - Drupal
   - 'Drupal books'
+image: drupal/book-shelf-2009
 published: true
 id: 667
 ---
 
 # Drupal book shelf
-
-[image drupal/book-shelf-2009]
 
 Earlier this morning, [a new Drupal book was delivered](https://twitter.com/Dries/status/2026992837) and I officially ran out of Drupal shelf space! Drupal books are now starting to threaten the books on my Enterprise Java shelf. ;-)

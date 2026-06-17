@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Family
+image: vars-2006/jasmina
 published: true
 id: 58
 ---
 
 # Jasmina
 
-[image vars-2006/jasmina]
+

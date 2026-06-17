@@ -9,12 +9,11 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Drupal
+image: drupal/cms-marketplace
 published: true
 id: 250
 ---
 
 # CMS marketplace
-
-[image drupal/cms-marketplace resize=false]
 
 What is wrong with this picture? *Brain teaser.*

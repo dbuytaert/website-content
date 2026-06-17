@@ -22,8 +22,6 @@ id: 4646
 
 # How NBC Sports supports the biggest media events online
 
-[image acquia/acquia-engage-2018-interview-with-eric-black]
-
 Many of Acquia's customers have hundreds or even thousands of sites, which vary in terms of scale, functionality, longevity and complexity.
 
 One thing that is very unique about Acquia is that we can help organizations scale from small to extremely large, one to many, and [coupled to decoupled](https://dri.es/drupal-is-api-first-not-api-only). This scalability and flexibility is quite unique, and allows organizations to [standardize on a single web platform](https://dri.es/how-acquia-is-addressing-the-explosion-of-sites). Standardizing on a single web platform not only removes the complexity from having to manage dozens of different technology stacks and teams, but also enables organizations to innovate faster.

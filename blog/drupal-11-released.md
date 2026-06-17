@@ -16,8 +16,6 @@ id: 5661
 
 # Drupal 11 released
 
-[image drupal/drupal-11-launch schema=false]
-
 Today is a big day for [Drupal](https://www.drupal.org/) as we officially released Drupal 11!
 
 In recent years, we've seen an uptick in innovation in Drupal. Drupal 11 continues this trend with many new and exciting features. You can see an overview of these improvements in the video below:

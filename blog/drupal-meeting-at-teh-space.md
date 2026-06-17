@@ -10,10 +10,11 @@ type: blog
 tags:
   - Drupal
   - 'San Francisco'
+image: san-francisco-2006/drupal-meeting-at-teh-space
 published: true
 id: 100
 ---
 
 # Drupal meeting at Teh Space
 
-[image san-francisco-2006/drupal-meeting-at-teh-space]
+

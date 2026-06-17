@@ -11,12 +11,11 @@ tags:
   - Photography
   - Karlijn
   - Family
+image: knokke-heist-2005/karlijn
 published: true
 id: 7
 ---
 
 # Karlijn
-
-[image knokke-heist-2005/karlijn]
 
 Taken with my new 50mm lens when walking at the beach.

@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Friends
+image: miscellaneous-2006/40-weeks-1
 published: true
 id: 121
 ---
 
 # 40 weeks
 
-[image miscellaneous-2006/40-weeks-1]
+

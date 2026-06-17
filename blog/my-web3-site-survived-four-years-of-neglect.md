@@ -22,8 +22,6 @@ id: 6106
 
 # My Web3 site survived four years of neglect
 
-[image blog/web3-exploration schema=false]
-
 Four years ago, [I published my first Web3 webpage](https://dri.es/my-first-web3-webpage) using IPFS and ENS. I uploaded a simple "Hello World" HTML file, pointed `dries.eth` at it, and left it there. [Two years later](https://dri.es/two-years-later-is-my-web3-website-still-standing), I found it still running.
 
 I haven't touched it since. Today, on the experiment's four-year anniversary, I checked again. It's still up at [dries.eth.limo](https://dries.eth.limo/). Four years of total neglect, and the page loads just fine.

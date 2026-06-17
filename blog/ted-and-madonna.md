@@ -11,10 +11,11 @@ tags:
   - Drupal
   - Photography
   - DrupalCon
+image: drupalcon-brussels-2006/ted-and-madonna
 published: true
 id: 145
 ---
 
 # Ted and Madonna
 
-[image drupalcon-brussels-2006/ted-and-madonna]
+

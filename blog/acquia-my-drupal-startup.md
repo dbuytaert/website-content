@@ -22,8 +22,6 @@ id: 365
 
 # Acquia, my Drupal startup
 
-[image acquia/acquia-com-march-2008]
-
 Big news today! I'm doing a Drupal startup.
 
 The [Drupal community](https://www.drupal.org) does an incredible job building the Drupal technology and making sure that Drupal is on the forefront of the technical innovation. The [Drupal Association](https://association.drupal.org) does a great job supporting and protecting that community by improving our server infrastructure, by organizing Drupal conferences, by helping to protect the Drupal trademark. Last but not least, the Drupal consultants do an outstanding job developing websites and training people to use Drupal. Together we managed to create an incredibly successful project.
@@ -36,11 +34,11 @@ I've been spending a lot of time thinking about the future of the web, and the f
 
 First, Drupal 6 and Drupal 7 should be all about [reaching out to more and different people](https://dri.es/reaching-out-with-drupal-6). Making Drupal easier to use, easier to theme, easier to translate, and easier to develop for. Drupal 6 will do exactly that, and with Drupal 7 we should [maintain that strategy](https://dri.es/suggestions-for-drupal-core). We want to make Drupal the best web content management platform; "the Linux of the web".
 
-The beauty of Drupal is that people can build powerful websites with little effort simply by combining different modules into one site; it is something we should continue to optimize for. I hope that that as a community you want to join me in putting (more of) the custom content types and (part of) views into Drupal core. But not just that; Drupal's success arises from its community and the hundreds of contributed modules this community creates. We should continue to empower our contributors so they can continue to write great modules and deliver them in an exceptional way.
+The beauty of Drupal is that people can build powerful websites with little effort simply by combining different modules into one site; it is something we should continue to optimize for. I hope that that as a community you want to join me in putting (more of) the custom content types and (part of) views into Drupal Core. But not just that; Drupal's success arises from its community and the hundreds of contributed modules this community creates. We should continue to empower our contributors so they can continue to write great modules and deliver them in an exceptional way.
 
 Second, with the rise of [Facebook](http://facebook.com), [Open Social](https://developers.google.com/opensocial/?csw=1), and friends, I'm not sure there is a future for (social community) websites that don't provide an API. Starting with Drupal 7 we should also start to focus more on the ability to create, share and mash up managed content. The idea is to let Drupal be a data repository that can be accessed by tools and websites across the network. It is where custom content types, web service APIs, semantic web technologies and Drupal's fine-grained access control mechanism come together. I want Drupal 7 to be a stepping stone when it comes to data mobility. This will allow people and companies to create value-added services that improve the users' efficiency.
 
-Third, when I examine the landscape of open source projects that have had big impact on the technology industry, I've concluded that projects which have had the biggest impact (usually) have a well-capitalized company behind them. Jboss, Linux and MySQL have all benefited not only technically, but the presence of a well-capitalized provider for those projects has made those projects palatable to users who might not have otherwise tried the software.
+Third, when I examine the landscape of Open Source projects that have had big impact on the technology industry, I've concluded that projects which have had the biggest impact (usually) have a well-capitalized company behind them. Jboss, Linux and MySQL have all benefited not only technically, but the presence of a well-capitalized provider for those projects has made those projects palatable to users who might not have otherwise tried the software.
 
 ### The company
 
@@ -48,7 +46,7 @@ So what is missing? It's two things: (i) a company that supports me in providing
 
 Thus, I'm starting a Drupal company whose current working name is 'Acquia'. Acquia's software products will include a number of [Drupal distributions](https://dri.es/drupal-distributions) – for community networks, digital media properties, corporate websites, and others. In addition to providing Drupal distributions, Acquia will build the Drupal-tuned analogue of the [RedHat Network](http://rhn.redhat.com), over which we can deliver a wide variety of electronic services intended to be useful to people developing and operating Drupal websites. An example such service is an automated upgrade/update service, an uptime and performance monitoring / reporting service, a configuration management service, etc.
 
-I was fortunate enough to meet an experienced CEO, Jay Batson, that I have come to like and trust, who managed to translate this vision into a business plan and who can complement my technical strength and community management skills with business experience in running open source software companies. (The last company Jay started was [Pingtel](http://www.pingtel.com), and open source enterprise-scale IP PBX, recently acquired by [Bluesocket](http://www.bluesocket.com).) Jay has been invaluable so far.
+I was fortunate enough to meet an experienced CEO, Jay Batson, that I have come to like and trust, who managed to translate this vision into a business plan and who can complement my technical strength and community management skills with business experience in running Open Source software companies. (The last company Jay started was [Pingtel](http://www.pingtel.com), and Open Source enterprise-scale IP PBX, recently acquired by [Bluesocket](http://www.bluesocket.com).) Jay has been invaluable so far.
 
 ### The inevitable fear
 

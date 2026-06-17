@@ -13,13 +13,12 @@ tags:
   - Acquia
   - 'Drupal Gardens'
   - Government
+image: drupal/teach-gov
 published: true
 id: 1871
 ---
 
 # Teach.gov using Drupal
-
-[image drupal/teach-gov]
 
 The U.S. Department of Education just launched a new micro-site built on [Drupal](https://www.drupal.org): teach.gov. At [teach.gov](http://teach.gov) you can learn what it's like to be a teacher and get the tools you need to launch your own career in education.
 

@@ -12,10 +12,11 @@ tags:
   - Karlijn
   - Family
   - Self-portrait
+image: miscellaneous-2006/karlijn-and-dries
 published: true
 id: 16
 ---
 
 # Self-portrait
 
-[image miscellaneous-2006/karlijn-and-dries]
+

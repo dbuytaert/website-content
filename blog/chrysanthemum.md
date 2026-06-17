@@ -9,10 +9,11 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Photography
+image: miscellaneous-2006/chrysanthemum
 published: true
 id: 88
 ---
 
 # Chrysanthemum
 
-[image miscellaneous-2006/chrysanthemum]
+

@@ -18,8 +18,6 @@ id: 5001
 
 # A 2-for-1 match for Drupal Association donations
 
-[image drupal/blue-hearts-3]
-
 Last week, Vanesssa and I pledged to [match $100,000 in individual contributions to the Drupal Association](https://dri.es/pledging-100000-usd-to-support-the-drupal-association).
 
 Then today, [29 organizations in the Drupal community pledged *another* $100,000](https://www.drupal.org/association/blog/drupalcares-thanks-to-drupal-businesses-you-can-now-triple-your-impact) to match Vanessa's and my pledge!

@@ -23,8 +23,6 @@ id: 5941
 
 # The product we should not have killed
 
-[image acquia/acquia-source-sprout lazy=false priority=true]
-
 Ten years ago, [Acquia](https://www.acquia.com/) shut down Drupal Gardens, a decision that I still regret.
 
 We had launched Drupal Gardens in 2009 as a SaaS platform that let anyone build [Drupal](https://www.drupal.org) websites without touching code. Long-time readers may remember my [various blog posts](https://dri.es/tag/drupal-gardens) about it.
@@ -59,7 +57,7 @@ Acquia Source is more powerful and more customizable than Drupal Gardens ever wa
 
 As with Drupal Gardens, we are building Acquia Source with open principles in mind. It is easy to export your site, including code, configuration, and content.
 
-Just as important, we are building key parts of Acquia Source in the open. A good example is Drupal Canvas. Drupal Canvas is open source, and we are developing it transparently with the community. 
+Just as important, we are building key parts of Acquia Source in the open. A good example is Drupal Canvas. Drupal Canvas is Open Source, and we are developing it transparently with the community. 
 
 Acquia Source does _not_ replace Acquia Cloud or Acquia Cloud Site Factory. It complements them. Many organizations will use a combination of these products, and some will use all three. Acquia Source helps teams launch sites fast, without updates or maintenance. Acquia Cloud and Site Factory support deeply integrated applications and large, governed site fleets. The common foundation is Drupal, which allows IT and marketing teams to share skills and code across different environments.
 

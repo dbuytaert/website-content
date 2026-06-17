@@ -10,10 +10,11 @@ type: blog
 tags:
   - Drupal
   - Schwag
+image: drupal/stickers-from-taiwan
 published: true
 id: 77
 ---
 
 # Drupal stickers from Taiwan
 
-[image drupal/stickers-from-taiwan]
+

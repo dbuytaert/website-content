@@ -17,8 +17,6 @@ id: 5091
 
 # Acquia switches from Marketo to Campaign Studio (aka Mautic)
 
-[image acquia/marketo-to-mautic]
-
 When [Acquia acquired Mautic Inc](https://dri.es/acquia-acquires-mautic-to-create-the-open-digital-experience-platform) (now named Acquia Campaign Studio), we believed that the world needed to move beyond closed, legacy marketing solutions like Marketo.
 
 At the time of the acquisition, Acquia was a Marketo user. As of November 2020, [Acquia moved completely off Marketo to Campaign Studio](https://www.acquia.com/blog/acquia-campaign-studio-vs-marketo-why-were-kicking-marketo-curb).

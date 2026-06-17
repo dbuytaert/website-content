@@ -22,8 +22,6 @@ id: 5846
 
 # AI and the great digital agency unbundling
 
-[image blog/great-digital-agency-unbundling lazy=false priority=true]
-
 > "To misuse a woodworking metaphor, I think we're experiencing a shift from hand tools to power tools. You still need someone who understands the basics to get good results from the tools, but they're not chiseling fine furniture by hand anymore. They're throwing heaps of wood through the tablesaw instead. More productive, but more likely to lose a finger if you're not careful."
 > – mrmincent, [Hacker News comment on Claude Code](https://news.ycombinator.com/item?id=44431095), via [Simon Willison](https://simonwillison.net/2025/Jul/1/mrmincent/)
 
@@ -183,19 +181,19 @@ This opportunity feels significant. As marketing stacks grow more complex and AI
 
 ### Open Source needs agencies, proprietary platforms don't
 
-Every AI feature a technology platform adds potentially takes work off the agency's plate. Whether the platform is open source or proprietary, each new capability reduces the need for custom development.
+Every AI feature a technology platform adds potentially takes work off the agency's plate. Whether the platform is Open Source or proprietary, each new capability reduces the need for custom development.
 
-But open source and proprietary platforms are driven by very different incentives.
+But Open Source and proprietary platforms are driven by very different incentives.
 
 Proprietary platforms sell directly to end clients. For them, replacing agency services is a growth strategy. The more they automate, the more revenue they keep.
 
 This is already happening. Squarespace builds entire websites from prompts. Shopify Magic writes product descriptions and designs storefronts.
 
-Open source platforms are adding AI features as well, but operate under different incentives. Drupal doesn't monetize end users. Drupal's success depends on a healthy ecosystem where agencies contribute improvements that keep the platform competitive. Replacing agencies doesn't help Drupal; it weakens the very ecosystem that sustains it.
+Open Source platforms are adding AI features as well, but operate under different incentives. Drupal doesn't monetize end users. Drupal's success depends on a healthy ecosystem where agencies contribute improvements that keep the platform competitive. Replacing agencies doesn't help Drupal; it weakens the very ecosystem that sustains it.
 
 As the Project Lead of Drupal, I think about how Drupal the product and its ecosystem of digital agencies can evolve _together_. They need to move in step to navigate change and help shape what comes next.
 
-This creates a fundamental difference in how platforms may evolve.  Proprietary platforms are incentivized to automate and sell directly. Open source platforms thrive by leaving meaningful work for agencies, who in turn strengthen the platform through contributions and market presence.
+This creates a fundamental difference in how platforms may evolve.  Proprietary platforms are incentivized to automate and sell directly. Open Source platforms thrive by leaving meaningful work for agencies, who in turn strengthen the platform through contributions and market presence.
 
 For digital agencies, one key question stands out: do you want to work with platforms that grow by replacing you, or with platforms that grow by supporting you?
 
@@ -211,7 +209,7 @@ But agencies that move early, experiment with purpose, and position themselves a
 
 Success comes from recognizing that this transition creates the biggest opportunity for differentiation that agencies have seen in years.
 
-For those working with Drupal, the open source foundation creates a fundamental advantage. Unlike agencies dependent on proprietary platforms that might eventually compete with them, Drupal agencies can help shape the platform's AI evolution to support their success rather than replace them.
+For those working with Drupal, the Open Source foundation creates a fundamental advantage. Unlike agencies dependent on proprietary platforms that might eventually compete with them, Drupal agencies can help shape the platform's AI evolution to support their success rather than replace them.
 
 We are shifting from hand tools to power tools. The craft remains, but both how we work and what we work on are changing. We are not just upgrading our tools; we are entering a world of CNC machines and robotic arms that automate tasks once done by hand. Those who learn to use these new capabilities, combining the efficiency of automation with human judgment, will create things that were not possible before.
 

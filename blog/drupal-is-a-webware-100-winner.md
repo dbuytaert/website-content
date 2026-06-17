@@ -10,13 +10,12 @@ type: blog
 tags:
   - Drupal
   - Press
+image: drupal/webware-100-winner-2007
 published: true
 id: 285
 ---
 
 # Drupal is a Webware 100 winner
-
-[image drupal/webware-100-winner-2007 resize=false]
 
 The Drupal community deserves a lot of praise for their hard work and dedication, so I was pleasantly surprised to see that Drupal is a [CNET Webware 100 winner](http://www.webware.com/html/ww/100.html) in the publishing category. *Good job team!*
 

@@ -16,6 +16,7 @@ id: 1
 
 <div class="h-card vcard">
 <section id="introduction" class="resume">
+
 My name is Dries Buytaert (he/him).
 
 I'm the Founder of [Drupal](https://drupal.org). Drupal is Open Source software for building websites and digital experiences. Currently, about 2% of all websites worldwide are built with Drupal. In the enterprise, that number is 1 out of 10 websites. Drupal is one of the largest and most active Open Source projects in the world. I've been working on Drupal for more than two decades, and continue to lead the project today as Drupal's Project Lead.

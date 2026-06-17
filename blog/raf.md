@@ -10,12 +10,11 @@ type: blog
 tags:
   - Photography
   - Family
+image: raf-2006/raf-1
 published: true
 id: 21
 ---
 
 # Raf
-
-[image raf-2006/raf-1]
 
 Only two days old. Click [here](/album/raf-2006/) for more pictures.

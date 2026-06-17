@@ -13,13 +13,12 @@ tags:
   - Microsoft
   - Amazon
   - Acquisitions
+image: blog/microsoft-acquires-github
 published: true
 id: 4406
 ---
 
 # How Microsoft's acquisition of GitHub impacts the cloud wars
-
-[image blog/microsoft-acquires-github]
 
 Today, [Microsoft announced it is buying GitHub in a deal that will be worth $7.5 billion](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/). GitHub hosts 80 million source code repositories, and is used by almost 30 million [software developers](https://youtu.be/Vhh_GeBPOhs) around the world. It is one of the most important tools used by software organizations today.
 

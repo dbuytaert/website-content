@@ -11,10 +11,11 @@ tags:
   - Photography
   - Karlijn
   - Family
+image: miscellaneous-2006/karlijn-in-elevator
 published: true
 id: 113
 ---
 
 # Elevator
 
-[image miscellaneous-2006/karlijn-in-elevator]
+

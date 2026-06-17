@@ -19,8 +19,6 @@ id: 5831
 
 # How I collect and connect ideas
 
-[image miscellaneous-2023/champagne-tunnel caption=false]
-
 In my post about [digital gardening and public notes](https://dri.es/if-a-note-can-be-public-it-should-be), I shared a principle I follow: "If a note can be public, it should be". I also mentioned using [Obsidian](https://obsidian.md) for note-taking. Since then, various people have asked about my Obsidian setup.
 
 I use Obsidian to collect ideas over time rather than to manage daily tasks or journal. My setup works like a [Commonplace book](https://en.wikipedia.org/wiki/Commonplace_book), where you save quotes, thoughts, and notes to return to later. It is also similar to a [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten), where small, linked notes build deeper understanding.

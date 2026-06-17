@@ -19,8 +19,6 @@ id: 4931
 
 # Balancing Makers and Takers to scale and sustain Open Source
 
-[image blog/open-source-makers-and-takers-1]
-
 In many ways, Open Source has won. Most people know that Open Source provides better quality software, at a lower cost, without vendor lock-in. But despite Open Source being widely adopted and more than 30 years old, scaling and sustaining Open Source projects remains challenging.
 
 Not a week goes by that I don't get asked a question about Open Source sustainability. How do you get others to contribute? How do you get funding for Open Source work? But also, how do you protect against others monetizing your Open Source work without contributing back? And what do you think of [MongoDB](https://www.mongodb.com/), [Cockroach Labs](https://www.cockroachlabs.com/) or [Elastic](https://www.elastic.co/) changing their license away from Open Source?
@@ -125,26 +123,26 @@ This can be summarized in a pay-off matrix:
 
 <table>
   <colgroup>
-   <col style="width: 33%">
-   <col style="width: 33%">
-   <col style="width: 33%">
- </colgroup>
+  <col style="width: 33%">
+  <col style="width: 33%">
+  <col style="width: 33%">
+</colgroup>
   <tr>
-   <td>
-  </td>
-   <th>Company A contributes</th>
-   <th>Company A doesn't contribute</th>
- </tr>
+  <td>
+ </td>
+  <th>Company A contributes</th>
+  <th>Company A doesn't contribute</th>
+</tr>
   <tr>
-   <th style="width: 30%;">Company B contributes</th>
-   <td>A makes $50B makes $50</td>
-   <td>A makes $60B makes $20</td>
- </tr>
+  <th style="width: 30%;">Company B contributes</th>
+  <td>A makes $50B makes $50</td>
+  <td>A makes $60B makes $20</td>
+</tr>
   <tr>
-   <th style="width: 30%;">Company B doesn't contribute</th>
-   <td>A makes $20B makes $60</td>
-   <td>A makes $10B makes $10</td>
- </tr>
+  <th style="width: 30%;">Company B doesn't contribute</th>
+  <td>A makes $20B makes $60</td>
+  <td>A makes $10B makes $10</td>
+</tr>
 </table>
 
 In the game, each company needs to decide whether to contribute or not, but Company A doesn't know what company B decides; and vice versa.
@@ -260,26 +258,26 @@ Let's assume a government-like central authority can monitor Open Source compani
 
 <table>
   <colgroup>
-   <col style="width: 33%">
-   <col style="width: 33%">
-   <col style="width: 33%">
- </colgroup>
+  <col style="width: 33%">
+  <col style="width: 33%">
+  <col style="width: 33%">
+</colgroup>
   <tr>
-   <td>
-  </td>
-   <th>Company A contributes</th>
-   <th>Company A doesn't contribute</th>
- </tr>
+  <td>
+ </td>
+  <th>Company A contributes</th>
+  <th>Company A doesn't contribute</th>
+</tr>
   <tr>
-   <th>Company B contributes</th>
-   <td>A makes $75 ($50 + $25)B makes $75 ($50 + $25)</td>
-   <td>A makes $35 ($60 - $25)B makes $45 ($20 + 25)</td>
- </tr>
+  <th>Company B contributes</th>
+  <td>A makes $75 ($50 + $25)B makes $75 ($50 + $25)</td>
+  <td>A makes $35 ($60 - $25)B makes $45 ($20 + 25)</td>
+</tr>
   <tr>
-   <th>Company B doesn't contribute</th>
-   <td>A makes $45 ($20 + $25)B makes $35 ($60 - $25)</td>
-   <td>A makes $0 ($10 - $25)B makes $0 ($10 - $25)</td>
- </tr>
+  <th>Company B doesn't contribute</th>
+  <td>A makes $45 ($20 + $25)B makes $35 ($60 - $25)</td>
+  <td>A makes $0 ($10 - $25)B makes $0 ($10 - $25)</td>
+</tr>
 </table>
 
 We took the values from the pay-off matrix above and applied the rewards and penalties. The result is that both companies are incentivized to contribute and the optimal equilibrium (both become Makers) can be achieved.

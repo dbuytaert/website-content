@@ -21,8 +21,6 @@ id: 6126
 
 # Open Source infrastructure deserves a business model 
 
-[image blog/open-source-infrastructure-cracks priority=true]
-
 Open Source software is free to download. But the infrastructure that makes it usable is not.
 
 When developers install or update dependencies through npm, Composer, pip, or Cargo, those tools rely on package registries that host and distribute millions of software packages. When maintainers collaborate, they depend on hosted services: Git repositories, CI pipelines, and other tools to build, test, and release software.

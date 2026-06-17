@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - 'San Francisco'
+image: san-francisco-2006/apple-store
 published: true
 id: 103
 ---
 
 # Apple store
 
-[image san-francisco-2006/apple-store]
+

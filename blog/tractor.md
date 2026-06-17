@@ -9,10 +9,11 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Photography
+image: miscellaneous-2006/tractor
 published: true
 id: 167
 ---
 
 # Tractor
 
-[image miscellaneous-2006/tractor]
+

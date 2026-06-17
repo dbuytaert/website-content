@@ -15,6 +15,7 @@ tags:
   - Skiing
   - Vancouver
   - Canada
+image: vancouver-2006/night-skiing
 published: true
 featured: false
 id: 23
@@ -22,4 +23,4 @@ id: 23
 
 # Vancouver night skiing
 
-[image vancouver-2006/night-skiing]
+

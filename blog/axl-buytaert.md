@@ -12,12 +12,11 @@ tags:
   - Karlijn
   - Family
   - Axl
+image: axl-2007/first-breath
 published: true
 id: 316
 ---
 
 # Axl Buytaert
-
-[image axl-2007/first-breath]
 
 Yesterday, August 13th, Karlijn gave birth to our son Axl. He weighs 3.4kg and measures 51cm. Mother and baby are doing well. My dad was our gynaecologist and is pictured in the back of the picture. Welcome to the world, Axl!

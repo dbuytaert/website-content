@@ -18,8 +18,6 @@ id: 4626
 
 # Forty
 
-[image miscellaneous-2018/fortieth-birthday-coffee-mug]
-
 Today I turned forty. This morning, Axl and Stan surprised me with coffee in bed, served in a special birthday mug that they created.
 
 When getting ready for a birthday party this weekend, I shaved not only my beard, but also my nose and ear hair. It sums up turning forty nicely.

@@ -21,8 +21,6 @@ id: 5541
 
 # The Watchmaker's Approach to Web Development
 
-[image blog/watchmaker-web-development]
-
 Since 1999, I've been consistently working on this website, making it one of my longest-standing projects. Even after all these years, the satisfaction of working on my website remains strong. Remarkable, indeed.
 
 During rare moments of calm – be it a slow holiday afternoon, a long flight home, or the early morning stillness – I'm often drawn to [tinkering with my website](https://dri.es/tag/my-site).

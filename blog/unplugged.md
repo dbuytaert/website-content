@@ -9,10 +9,11 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Photography
+image: miscellaneous-2006/unplugged
 published: true
 id: 181
 ---
 
 # Unplugged
 
-[image miscellaneous-2006/unplugged]
+

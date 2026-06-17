@@ -12,12 +12,11 @@ tags:
   - Family
   - Axl
   - Boston
+image: beverly-farms-2009/axl-running-on-beach
 published: true
 id: 1051
 ---
 
 # Axl running on the beach
-
-[image beverly-farms-2009/axl-running-on-beach]
 
 For my mother, who checks my website every day looking for new pictures of my boys. She always tells me: *"You're always writing about this Drupal thing. That doesn't interest me. I don't understand any of that. All I want is more pictures of Axl and Stan."*. :)

@@ -18,8 +18,6 @@ id: 3681
 
 # Cross-channel user experiences with Drupal
 
-[image blog/javascript-powered-multichannel resize=false]
-
 Last year around this time, I wrote that [The Big Reverse of Web](https://dri.es/the-big-reverse-of-the-web) would force a major re-architecture of the web to bring the right information, to the right person, at the right time, in the right context. I believe that conversational interfaces like [Amazon Echo](https://www.nytimes.com/2016/03/10/technology/the-echo-from-amazon-brims-with-groundbreaking-promise.html) are further proof that the big reverse is happening.
 
 New user experience and distribution platforms only come along every 5-10 years, and when they do, they cause massive shifts in the web's underlying technology. The last big one was mobile, and the web industry adapted. Conversational interfaces could be the next user experience and distribution platform – just look at [Amazon Echo](https://www.youtube.com/watch?v=2fxDQUe57-k) (aka Alexa), [Facebook's messenger](https://www.wired.com/2016/04/facebook-believes-messenger-will-anchor-post-app-internet/) or [Microsoft's Conversation-as-a-Platform](https://www.theverge.com/2016/3/30/11331388/microsoft-chatbots-ai-build).

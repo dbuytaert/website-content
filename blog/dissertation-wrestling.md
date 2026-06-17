@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - 'PhD research'
+image: miscellaneous-2007/dissertation-wrestling
 published: true
 id: 325
 ---
 
 # Dissertation wrestling
 
-[image miscellaneous-2007/dissertation-wrestling]
+

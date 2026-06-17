@@ -24,8 +24,6 @@ id: 6041
 
 # AI is a business model stress test
 
-[image blog/sailing-into-the-unknown priority=true schema=false]
-
 [Tailwind Labs](https://tailwindcss.com/) laid off 75% of its engineering team last week.
 
 Adam Wathan, CEO of Tailwind Labs, spent the holidays running revenue forecasts. In a [GitHub comment](https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957), he explained what happened:

@@ -10,10 +10,11 @@ type: blog
 tags:
   - Drupal
   - OSCON
+image: drupalcon-brussels-2006/spikesource
 published: true
 id: 147
 ---
 
 # Spikesource selling Drupal
 
-[image drupalcon-brussels-2006/spikesource resize=false]
+

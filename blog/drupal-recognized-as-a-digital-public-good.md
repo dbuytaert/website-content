@@ -18,8 +18,6 @@ id: 5456
 
 # Drupal recognized as a Digital Public Good
 
-[image drupal/digital-public-good resize=false]
-
 This week, Drupal was approved as a [Digital Public Good](https://digitalpublicgoods.net/registry/) (DPG) by the [Digital Public Goods Alliance](https://digitalpublicgoods.net/who-we-are/).
 
 The economic concept of a [public good](https://en.wikipedia.org/wiki/Public_good_(economics)) is decades old. Public goods are "non-excludable" and "non-rivalrous". This means that once the good is provided, it is impossible to exclude anyone from using it (non-excludable). It also means that the consumption of the good by one individual does not diminish its availability for others (non-rivalrous). A classic example of a public good is a city park: once the park is built, it is hard to exclude anyone from using it, and the use of the park by one person does not diminish its availability for others.

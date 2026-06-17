@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Tuscany
+image: tuscany-2006/greve-in-chianti
 published: true
 id: 41
 ---
 
 # Greve in Chianti
 
-[image tuscany-2006/greve-in-chianti]
+

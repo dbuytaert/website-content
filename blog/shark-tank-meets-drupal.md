@@ -19,8 +19,6 @@ id: 5451
 
 # Shark Tank meets Drupal: pitch your best innovation ideas
 
-[image drupal/pitch-burgh resize=false]
-
 In just a few months, the Drupal community will be gathering for [DrupalCon Pittsburgh](https://events.drupal.org/pittsburgh2023). I've started planning my opening keynote, and decided to focus it on innovation. Specifically, I want to discuss how we might increase innovation.
 
 To keep things fresh and engaging, I've come up with an exciting idea. During the keynote, I'll be dedicating a portion towards [an innovation contest called Pitch-burgh](https://www.drupal.org/association/pitch-burgh-innovation-contest%20), loosely inspired by [Shark Tank](https://abc.com/shows/shark-tank).

@@ -12,12 +12,11 @@ tags:
   - Family
   - Axl
   - Birthday
+image: eifel-2009/axl-two-years
 published: true
 id: 936
 ---
 
 # Second birthday Axl
-
-[image eifel-2009/axl-two-years]
 
 Last year [you still looked innocent](https://dri.es/first-birthday-axl). This year not so much. Welcome to the "terrible twos", Axl.

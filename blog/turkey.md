@@ -9,10 +9,11 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Photography
+image: beverly-farms-2009/turkey
 published: true
 id: 1096
 ---
 
 # Turkey
 
-[image beverly-farms-2009/turkey]
+

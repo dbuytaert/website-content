@@ -12,13 +12,12 @@ tags:
   - Family
   - Friends
   - Antwerp
+image: wedding-jeroen-and-katya-2012/marriage-115
 published: true
 id: 2786
 ---
 
 # Just married
-
-[image wedding-jeroen-and-katya-2012/marriage-115]
 
 Congratulations Jeroen and Katya! Loved this song from Asaf Avidan at the wedding party:
 

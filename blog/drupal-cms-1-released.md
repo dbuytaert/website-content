@@ -22,8 +22,6 @@ id: 5741
 
 # Drupal CMS 1.0 released
 
-[image blog/drupal-cms-1-released priority=true schema=false]
-
 We did it: Drupal CMS 1.0 is here! 🎉
 
 Eight months ago, I challenged our community to make Drupal easier for marketers, content creators, and site builders. Today, on Drupal's 24th birthday, we're making history with the launch of [Drupal CMS 1.0](https://drupal.org/drupal-cms).
@@ -125,7 +123,7 @@ Each step brings us closer to our goal: modernizing Drupal and making Drupal the
 
 ### Thank you, Drupal community
 
-We built Drupal CMS in a truly open source way – collaboratively, transparently, and driven by community contributions – proving once again that open source is the best way to build software.
+We built Drupal CMS in a truly Open Source way – collaboratively, transparently, and driven by community contributions – proving once again that Open Source is the best way to build software.
 
 The success of Drupal CMS 1.0 reflects the work of countless contributors. I'm especially grateful to these key contributors and their organizations (listed alphabetically): Jamie Abrahams (FreelyGive), Gareth Alexander (Zoocha), Martin Anderson-Clutz (Acquia), Tony Barker (Annertech), Pamela Barone (Technocrat), Addison Berry (Drupalize.me), Jim Birch (Kanopi Studios), Baddy Breidert (1xINTERNET), Christoph Breidert (1xINTERNET), Nathaniel Catchpole (Third and Grove / Tag1 Consulting), Cristina Chumillas (Lullabot), Suzanne Dergacheva (Evolving Web), Artem Dmitriiev (1xINTERNET), John Doyle (Digital Polygon), Tim Doyle (Drupal Association), Sascha Eggenberger (Gitlab), Dharizza Espinach (Evolving Web), Tiffany Farriss (Palantir.net), Matthew Grasmick (Acquia), Adam Globus-Hoenich (Acquia), Jürgen Haas (LakeDrops), Mike Herchel (DripYard), J. Hogue (Oomph, Inc), Gábor Hojtsy (Acquia), Emma Horrell (University of Edinburgh), Marcus Johansson (FreelyGive), Nick Koger (Drupal Association), Tim Lehnen (Drupal Association), Pablo López Escobés (Lullabot), Christian López Espínola (Lullabot), Leah Magee (Acquia), Amber Matz (Drupalize.me), Lenny Moskalyk (Drupal Association), Lewis Nyman, Matt Olivera (Lullabot), Shawn Perritt (Acquia), Megh Plunkett (Lullabot), Tim Plunkett (Acquia), Kristen Pol (Salsa Digital), Joe Shindelar (Drupalize.me), Lauri Timmanee (Acquia), Matthew Tift (Lullabot), Laurens Van Damme (Dropsolid), Ryan Witcombe (Drupal Association), Jen Witowski (Lullabot).
 

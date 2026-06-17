@@ -18,6 +18,4 @@ id: 5092
 
 # Christmas lights
 
-[image miscellaneous-2020/christmas-tree-lights]
-
 While preparing for a *different* Christmas this year, some things won't change: we're putting up a Christmas tree. It adds a little sparkle.

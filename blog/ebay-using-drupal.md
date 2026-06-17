@@ -10,12 +10,11 @@ type: blog
 tags:
   - Drupal
   - 'Drupal sites'
+image: drupal/ebay-classifieds-group
 published: true
 id: 1981
 ---
 
 # Ebay using Drupal
-
-[image drupal/ebay-classifieds-group]
 
 Ebay is using [Drupal](https://www.drupal.org) for <http://www.ebayclassifiedsgroup.com>. *Cool!*

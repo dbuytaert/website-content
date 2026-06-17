@@ -12,13 +12,12 @@ tags:
   - NowPublic
   - DrupalCon
   - 'Drupal Association'
+image: drupalcon-barcelona-2007/departure
 published: true
 id: 327
 ---
 
 # DrupalCon Barcelona wrapup
-
-[image drupalcon-barcelona-2007/departure]
 
 Executive summary: DrupalCon Barcelona blew my socks off.
 
@@ -29,7 +28,7 @@ I have yet to process all the inputs but these are some of the highlights:
 - [I've been to Barcelona before](https://dri.es/album/barcelona-2005/), but I was instantly reminded about what a great location Barcelona is.
 - [Adobe](http://adobe.com) relaunched their [Flex showcase](http://flex.org/showcase) using Drupal and announced it on stage at the Drupal conference. This will go in history as the first strategically timed release/announcement at a Drupal conference.
 - [Sun Microsystems](http://sun.com) was a gold sponsor and is working on integrating Drupal and Java (legacy) applications as well as industrial grade deployment of Drupal sites on SAMP (Solaris - Apache - MySQL - PHP). *Impressive technology!*
-- [NowPublic](http://nowpublic.com) is going to help drive the development of regression tests for Drupal core. They hired testing talent Rok Žlender to write these tests in the open and hope other people in the Drupal community will start collaborating.
+- [NowPublic](http://nowpublic.com) is going to help drive the development of regression tests for Drupal Core. They hired testing talent Rok Žlender to write these tests in the open and hope other people in the Drupal community will start collaborating.
 - [Raincity Studios](http://www.raincitystudios.com/) committed to helping us redesign drupal.org.
 - Robert Scales (CEO of Raincity Studio) wants to organize a Drupal conference in Shanghai, China.
 - There were more [Drupal users from Belgium](http://drupal.be), than there were Drupal users from The Netherlands. This might be the last time as the Dutchmen made plans to do more outreach in The Netherlands.

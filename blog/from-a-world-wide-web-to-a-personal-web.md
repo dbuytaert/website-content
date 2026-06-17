@@ -20,8 +20,6 @@ id: 4536
 
 # From a world wide web to a personal web
 
-[image blog/solid-concept-inrupt]
-
 Last week, I had a chance to meet with [Inrupt](https://www.inrupt.com/), a startup founded by [Sir Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee), who is best known as the inventor of the World Wide Web. Inrupt is based in Boston, so their team stopped by the [Acquia](https://www.acquia.com) office to talk about the new company.
 
 To learn more about Inrupt's founding, I recommend reading [Tim Berners-Lee's blog](https://medium.com/@timberners_lee/one-small-step-for-the-web-87f92217d085) or [Inrupt's CEO John Bruce's announcement](https://www.inrupt.com/blog/a-new-world-of-opportunity).
@@ -30,7 +28,7 @@ To learn more about Inrupt's founding, I recommend reading [Tim Berners-Lee's bl
 
 Inrupt's mission is to give individuals control over their own data. Today, a handful of large platform companies (such as Facebook) control the media and flow of information for a majority of internet users. These companies have profited from centralizing the [Open Web](https://dri.es/tag/open-web) and lack transparent data privacy policies on top of that. Inrupt's goal is not only to improve privacy and data ownership, but to take back power from these large platform companies.
 
-Inrupt will leverage [Solid](https://solid.mit.edu/), an open source, decentralized web platform that Tim and others have been developing at MIT. Solid gives users a choice of where their personal data is stored, how specific people and groups can access select elements, and which applications can use it. Inrupt is building a commercial ecosystem around Solid to fuel its success. If Solid and/or Inrupt are widely adopted, it could radically change the way web sites and web applications work today.
+Inrupt will leverage [Solid](https://solid.mit.edu/), an Open Source, decentralized web platform that Tim and others have been developing at MIT. Solid gives users a choice of where their personal data is stored, how specific people and groups can access select elements, and which applications can use it. Inrupt is building a commercial ecosystem around Solid to fuel its success. If Solid and/or Inrupt are widely adopted, it could radically change the way web sites and web applications work today.
 
 As an advocate for the Open Web, I'm excited to see how Inrupt's mission continues to evolve. I've been writing about the importance of the [Open Web](https://dri.es/tag/open-web) for many years and even proposed a solution that mirrors Solid, which I called a [Personal Information Broker](https://dri.es/winning-back-the-open-web). For me, this is an especially exciting and important mission, and I'll be rooting for Inrupt's success.
 

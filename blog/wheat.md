@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Tuscany
+image: tuscany-2006/wheat
 published: true
 id: 42
 ---
 
 # Wheat
 
-[image tuscany-2006/wheat]
+

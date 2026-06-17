@@ -12,12 +12,11 @@ tags:
   - Family
   - Axl
   - Stan
+image: ipswich-2010/backseat-spy-mirror
 published: true
 id: 1726
 ---
 
 # Backseat spy mirror
-
-[image ipswich-2010/backseat-spy-mirror]
 
 Have you seen this before? It's a built-in spy mirror to watch your kids on the backseat. Nifty.

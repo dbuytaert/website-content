@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Belgium
+image: knokke-heist-2006/kite-surfer
 published: true
 id: 111
 ---
 
 # Kite surfer
 
-[image knokke-heist-2006/kite-surfer]
+

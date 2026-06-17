@@ -12,12 +12,11 @@ tags:
   - Family
   - Axl
   - Birthday
+image: miscellaneous-2008/axl-one-year
 published: true
 id: 490
 ---
 
 # First birthday Axl
-
-[image miscellaneous-2008/axl-one-year]
 
 Exactly one year after [he took his first breath](https://dri.es/axl-buytaert), [he got his first laptop](https://dri.es/album/miscellaneous-2008/axl-first-laptop) ...

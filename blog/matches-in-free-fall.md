@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Mid-air
+image: miscellaneous-2006/matches-in-free-fall
 published: true
 id: 90
 ---
 
 # Matches in free fall
 
-[image miscellaneous-2006/matches-in-free-fall]
+

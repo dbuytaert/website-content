@@ -11,10 +11,11 @@ tags:
   - Photography
   - DrupalCon
   - Budapest
+image: drupalcon-budapest-2006/airport-express
 published: true
 id: 153
 ---
 
 # Airport express
 
-[image drupalcon-budapest-2006/airport-express]
+

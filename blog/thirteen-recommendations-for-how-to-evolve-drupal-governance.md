@@ -19,11 +19,9 @@ id: 4611
 
 # Thirteen recommendations for how to evolve Drupal's governance
 
-[image blog/go-far-go-together]
-
 Drupal exists because of its community. What started from humble beginnings has grown into one of the largest Open Source communities in the world. This is due to the collective effort of thousands of community members.
 
-What distinguishes Drupal from other open source projects is both the size and diversity of our community, and the many ways in which thousands of contributors and organizations give back. It's a community I'm very proud to be a part of.
+What distinguishes Drupal from other Open Source projects is both the size and diversity of our community, and the many ways in which thousands of contributors and organizations give back. It's a community I'm very proud to be a part of.
 
 Without the Drupal community, the Drupal project wouldn't be where it is today and perhaps would even cease to exist. That is why we are always investing in our community and why we constantly evolve how we work with one another.
 

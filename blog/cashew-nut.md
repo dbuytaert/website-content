@@ -11,10 +11,11 @@ tags:
   - Photography
   - Karlijn
   - Axl
+image: miscellaneous-2007/cashew-nut
 published: true
 id: 224
 ---
 
 # Cashew nut
 
-[image miscellaneous-2007/cashew-nut]
+

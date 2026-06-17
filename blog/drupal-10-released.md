@@ -17,8 +17,6 @@ id: 5396
 
 # Drupal 10 released 
 
-[image drupal/drupal-10-confetti resize=false]
-
 Today, we released [Drupal 10](https://www.drupal.org/blog/drupal-10-0-0). Getting to this double-digit release has been 22 years in the making! It's an exciting milestone.
 
 Some of Drupal's recent innovations include:

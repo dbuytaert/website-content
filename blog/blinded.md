@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Self-portrait
+image: miscellaneous-2007/blinded
 published: true
 id: 361
 ---
 
 # Blinded
 
-[image miscellaneous-2007/blinded]
+

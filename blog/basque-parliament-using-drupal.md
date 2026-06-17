@@ -11,13 +11,12 @@ tags:
   - Drupal
   - 'Drupal sites'
   - Government
+image: drupal/basque-parliament
 published: true
 id: 2136
 ---
 
 # Basque Parliament using Drupal
-
-[image drupal/basque-parliament]
 
 The [Basque Parliament](https://en.wikipedia.org/wiki/Basque_Parliament) has recently replaced a portion of its older site with a new Drupal site that can be seen at <http://www.parlamentovasco.euskolegebiltzarra.org>.
 

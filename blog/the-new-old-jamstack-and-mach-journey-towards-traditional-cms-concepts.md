@@ -20,8 +20,6 @@ id: 5531
 
 # The new old: Jamstack and MACH's journey towards traditional CMS concepts
 
-[image drupal/jamstack-mach-traditional-cms schema=false]
-
 In recent years, new architectures like [MACH](https://machalliance.org/) and [Jamstack](https://jamstack.org/) have emerged in the world of Content Management Systems (CMS) and Digital Experience Platforms (DXP).
 
 In some way, they have challenged traditional models. As a result, people sometimes ask for my take on MACH and Jamstack. I've mostly refrained from sharing my perspective to avoid controversy.

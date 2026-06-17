@@ -11,12 +11,11 @@ tags:
   - Photography
   - Family
   - Axl
+image: axl-2007/merry-christmas
 published: true
 id: 377
 ---
 
 # Merry Christmas
-
-[image axl-2007/merry-christmas]
 
 The obligatory Christmas picture for parents with a camera ... :-)

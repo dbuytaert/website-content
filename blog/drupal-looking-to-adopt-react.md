@@ -20,9 +20,7 @@ id: 4036
 
 # Drupal looking to adopt React
 
-[image blog/drupal-react resize=false]
-
-Last week at DrupalCon Vienna, I proposed adding a modern JavaScript framework to Drupal core. After the keynote, I met with core committers, framework managers, JavaScript subsystem maintainers, and JavaScript experts in the Drupal community to discuss next steps. In this blog post, I look back on how things have evolved, since the last time we explored adding a new JavaScript framework to Drupal core two years ago, and what we believe are the next steps after DrupalCon Vienna.
+Last week at DrupalCon Vienna, I proposed adding a modern JavaScript framework to Drupal Core. After the keynote, I met with core committers, framework managers, JavaScript subsystem maintainers, and JavaScript experts in the Drupal community to discuss next steps. In this blog post, I look back on how things have evolved, since the last time we explored adding a new JavaScript framework to Drupal Core two years ago, and what we believe are the next steps after DrupalCon Vienna.
 
 As a group, we agreed that we had learned a lot from watching the JavaScript community grow and change since our initial exploration. We agreed that today, React would be the most promising option given its expansive adoption by developers, its unopinionated and component-based nature, and its well-suitedness to building new Drupal interfaces in an incremental way. Today, I'm formally proposing that the Drupal community adopt React, after discussion and experimentation has taken place.
 
@@ -36,7 +34,7 @@ Three years ago, I developed several convictions related to "headless Drupal" or
 
 (For the purposes of this blog post, I use the term "framework" to include both full MV\* frameworks such as Angular, and also view-only libraries such as React combined piecemeal with additional libraries for managing routing, states, etc.)
 
-By September 2015, I had built up enough conviction to write several long blog posts about these views ([post 1](https://dri.es/the-future-of-decoupled-drupal), [post 2](https://dri.es/should-we-decouple-drupal-with-a-client-side-framework), [post 3](https://dri.es/selecting-a-client-side-framework-for-drupal)). I felt we could accomplish all three things by adding a JavaScript framework to Drupal core. After [careful analysis](https://dri.es/selecting-a-client-side-framework-for-drupal), I recommended that we consider [React](https://reactjs.org/), [Ember](https://www.emberjs.com/) and [Angular](https://angular.io/). My first choice was Ember, because I had concerns about a patent clause in Facebook's open-source license ([since removed](https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/)) and because Angular 2 was not yet in a stable release.
+By September 2015, I had built up enough conviction to write several long blog posts about these views ([post 1](https://dri.es/the-future-of-decoupled-drupal), [post 2](https://dri.es/should-we-decouple-drupal-with-a-client-side-framework), [post 3](https://dri.es/selecting-a-client-side-framework-for-drupal)). I felt we could accomplish all three things by adding a JavaScript framework to Drupal Core. After [careful analysis](https://dri.es/selecting-a-client-side-framework-for-drupal), I recommended that we consider [React](https://reactjs.org/), [Ember](https://www.emberjs.com/) and [Angular](https://angular.io/). My first choice was Ember, because I had concerns about a patent clause in Facebook's open-source license ([since removed](https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/)) and because Angular 2 was not yet in a stable release.
 
 At the time, the Drupal community didn't like the idea of picking a JavaScript framework. The overwhelming reactions were these: it's too early to tell which JavaScript framework is going to win, the risk of picking the wrong JavaScript framework is too big, picking a single framework would cause us to lose users that favor other frameworks, etc. In addition, there were a lot of different preferences for a wide variety of JavaScript frameworks. While I'd have preferred to make a bold move, the community's concerns were valid.
 
@@ -44,7 +42,7 @@ At the time, the Drupal community didn't like the idea of picking a JavaScript f
 
 By May of 2016, after listening to the community, I changed my approach; instead of adding a specific JavaScript framework to Drupal, I decided we should double down on improving [Drupal's web service APIs](https://dri.es/tag/web-services). Instead of being opinionated about what JavaScript framework to use, we would allow people to use their JavaScript framework of choice.
 
-I did a deep dive on [the state of Drupal's web services in early 2016](https://dri.es/an-overview-of-web-service-solutions-in-drupal-8) and helped define various next steps ([post 1](https://dri.es/advancing-drupal-web-services), [post 2](https://dri.es/a-roadmap-for-making-drupal-more-api-first), [post 3](https://dri.es/improving-drupal-8-api-first-json-api-oauth2)). I asked a few of the OCTO team members to focus on improving Drupal 8's web services APIs; funded improvements to Drupal core's REST API, as well as [JSON API](https://www.drupal.org/project/jsonapi), [GraphQL](https://www.drupal.org/project/graphql) and [OpenAPI](https://www.drupal.org/project/openapi); supported the creation of [Waterwheel projects](https://dev.acquia.com/blog/waterwheel-the-drupal-sdk-ecosystem/29/08/2016/16701) to help bootstrap an ecosystem of JavaScript front-end integrations; and most recently [supported the development of Reservoir](https://dri.es/reservoir-a-simple-way-to-decouple-drupal), a Drupal distribution for headless Drupal. There is also a lot of innovation coming from the community with lots of work on the [Contenta distribution](http://www.contentacms.org/), JSON API, GraphQL, and more.
+I did a deep dive on [the state of Drupal's web services in early 2016](https://dri.es/an-overview-of-web-service-solutions-in-drupal-8) and helped define various next steps ([post 1](https://dri.es/advancing-drupal-web-services), [post 2](https://dri.es/a-roadmap-for-making-drupal-more-api-first), [post 3](https://dri.es/improving-drupal-8-api-first-json-api-oauth2)). I asked a few of the OCTO team members to focus on improving Drupal 8's web services APIs; funded improvements to Drupal Core's REST API, as well as [JSON API](https://www.drupal.org/project/jsonapi), [GraphQL](https://www.drupal.org/project/graphql) and [OpenAPI](https://www.drupal.org/project/openapi); supported the creation of [Waterwheel projects](https://dev.acquia.com/blog/waterwheel-the-drupal-sdk-ecosystem/29/08/2016/16701) to help bootstrap an ecosystem of JavaScript front-end integrations; and most recently [supported the development of Reservoir](https://dri.es/reservoir-a-simple-way-to-decouple-drupal), a Drupal distribution for headless Drupal. There is also a lot of innovation coming from the community with lots of work on the [Contenta distribution](http://www.contentacms.org/), JSON API, GraphQL, and more.
 
 The end result? Drupal's web service APIs have progressed significantly the past year. Ed Faulkner of Ember told us: <q>I'm impressed by how fast Drupal made lots of progress with its REST API and the JSON API contrib module!"</q>. It's a good sign when a core maintainer of one of the leading JavaScript frameworks acknowledges Drupal's progress.
 
@@ -56,7 +54,7 @@ Furthermore, by not committing to a specific framework, we are seeing Drupal dev
 
 There is a lot to like about how Drupal's web service APIs matured and how we've seen Drupal integrated with a variety of different frameworks. But there is also no denying that not having a JavaScript framework in core came with certain tradeoffs:
 
-1. It created a barrier for significantly leveling up the Drupal community's JavaScript skills. In my opinion, we still lack sufficient JavaScript expertise among Drupal core contributors. While we do have JavaScript experts working hard to maintain and improve our existing JavaScript code, I would love to see more experts join that team.
+1. It created a barrier for significantly leveling up the Drupal community's JavaScript skills. In my opinion, we still lack sufficient JavaScript expertise among Drupal Core contributors. While we do have JavaScript experts working hard to maintain and improve our existing JavaScript code, I would love to see more experts join that team.
 2. It made it harder to accelerate certain improvements to Drupal's authoring and site building experience.
 3. It made it harder to demonstrate how new best practices and certain JavaScript approaches could be leveraged and extended by core and contributed modules to create new Drupal features.
 
@@ -81,12 +79,12 @@ As a first step, we have to choose which JavaScript framework will be used as pa
 
 There was unanimous agreement that:
 
-1. Adding a JavaScript framework to Drupal core is a good idea.
+1. Adding a JavaScript framework to Drupal Core is a good idea.
 2. We want to have sufficient real-use experience to make a final decision prior to 8.6.0's development period (Q1 2018). To start, the Watchdog page would be the least intrusive interface to rebuild and would give us important insights before kicking off work on more complex interfaces.
 3. While a few people named alternative options, React was our preferred option, by far, due to its high degree of adoption, component-based and unopinionated nature, and its potential to make Drupal developers' skills more future-proof.
 4. This adoption should be carried out in a limited and incremental way so that the decision is easily reversible if better approaches come later on.
 
-We created [an issue on the Drupal core queue](https://www.drupal.org/node/2913321) to discuss this more.
+We created [an issue on the Drupal Core queue](https://www.drupal.org/node/2913321) to discuss this more.
 
 ### Conclusion
 

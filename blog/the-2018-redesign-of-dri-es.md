@@ -1,6 +1,6 @@
 ---
-url: 'https://dri.es/a-fresh-look-for-dri-es'
-title: 'A fresh look for dri.es'
+url: 'https://dri.es/the-2018-redesign-of-dri-es'
+title: 'The 2018 redesign of dri.es'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -16,7 +16,7 @@ featured: false
 id: 4546
 ---
 
-# A fresh look for dri.es
+# The 2018 redesign of dri.es
 
 In [1999](https://www.youtube.com/watch?v=rblt2EtFfC4), I decided to start dri.es (formally buytaert.net) as a place to blog, write, and deepen my thinking. While I ran other websites before dri.es, my blog is one of my longest running projects.
 

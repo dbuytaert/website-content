@@ -10,12 +10,11 @@ type: blog
 tags:
   - Drupal
   - Coffee
+image: drupal/drupalcino
 published: true
 id: 364
 ---
 
 # Drupalcino
-
-[image drupal/drupalcino]
 
 Good morning world! Remember, sleep is no substitute for good coffee.

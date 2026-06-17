@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Budapest
+image: drupalcon-budapest-2006/chain-bridge
 published: true
 id: 156
 ---
 
 # Chain bridge
 
-[image drupalcon-budapest-2006/chain-bridge]
+

@@ -27,8 +27,6 @@ Of course I didn't hesitate. Within hours, I was sitting across a chessboard fro
 
 Kasparov opened with white, and I defended with black using the [Caro-Kann defense](https://youtu.be/4GIsh7cTsHc?si=imW05QQ2g7T6cD7U). I blundered my rook on move 11. A mistake I'm still kicking myself over. But I kept fighting. A few times I made him pause and think for a minute or so. I resigned at move 25. None of the twenty players managed a draw or a win.
 
-[image miscellaneous-2025/dries-buytaert-vs-garry-kasparov-1]
-
 The event was livestreamed, with GM Nigel Short and FM Lennert Lenaerts providing commentary. Here is a snippet where they review my position:
 
 [video -QNGexPYeqg]

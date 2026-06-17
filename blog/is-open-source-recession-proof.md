@@ -17,8 +17,6 @@ id: 4976
 
 # Is Open Source recession-proof?
 
-[image blog/blue-wave]
-
 The world is experiencing a scary time right now. People feel uncertain about the state of the world: we're experiencing [a global pandemic](https://www.who.int/emergencies/diseases/novel-coronavirus-2019), the [OPEC](https://en.wikipedia.org/wiki/OPEC) is imploding, the trade war between the US and China could escalate, and stock markets around the world are crashing. Watching the impact on people's lives, including my own family, has been difficult.
 
 People have asked me how this could impact Open Source. What is happening in the world is so unusual, it is hard to anticipate what exactly will happen. While the road ahead is unknown, the fact is that Open Source has successfully weathered multiple recessions.

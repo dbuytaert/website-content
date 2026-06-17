@@ -11,10 +11,11 @@ tags:
   - Photography
   - Gardening
   - Self-portrait
+image: miscellaneous-2006/hand
 published: true
 id: 54
 ---
 
 # Getting your hands dirty
 
-[image miscellaneous-2006/hand]
+

@@ -12,10 +12,11 @@ tags:
   - 'Cities by night'
   - Travel
   - Australia
+image: australia-2011/melbourne-by-night
 published: true
 id: 2141
 ---
 
 # Melbourne by night
 
-[image australia-2011/melbourne-by-night]
+

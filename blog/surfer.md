@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Belgium
+image: knokke-heist-2006/surfer
 published: true
 id: 109
 ---
 
 # Surfer
 
-[image knokke-heist-2006/surfer]
+

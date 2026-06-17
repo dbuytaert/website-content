@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Tuscany
+image: tuscany-2006/laundry
 published: true
 id: 44
 ---
 
 # Tuscan facade
 
-[image tuscany-2006/laundry]
+

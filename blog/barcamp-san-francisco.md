@@ -11,10 +11,11 @@ tags:
   - Drupal
   - Barcamp
   - 'San Francisco'
+image: san-francisco-2006/barcamp
 published: true
 id: 98
 ---
 
 # BarCamp San Francisco
 
-[image san-francisco-2006/barcamp]
+

@@ -11,12 +11,11 @@ tags:
   - Photography
   - Family
   - Stan
+image: stan-2009/stan-4-weeks-old
 published: true
 id: 751
 ---
 
 # Stan four weeks old
-
-[image stan-2009/stan-4-weeks-old]
 
 Stan is exactly four weeks old today.

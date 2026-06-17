@@ -12,10 +12,11 @@ tags:
   - Family
   - Axl
   - Boston
+image: miscellaneous-2011/axl-on-beach-in-duxbury
 published: true
 id: 2171
 ---
 
 # Axl on beach in Duxbury
 
-[image miscellaneous-2011/axl-on-beach-in-duxbury]
+

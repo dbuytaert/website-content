@@ -23,8 +23,6 @@ id: 6091
 
 # The Software Sovereignty Scale
 
-[image blog/software-sovereignty-scale resize=false priority=true]
-
 "Buy European" is becoming Europe's rallying cry for digital sovereignty. The logic is intuitive: if you want independence from American technology, buy from European companies instead.
 
 However, I think "Buy European" gets one thing right and one thing wrong. It's right that Europe benefits from a stronger technology industry. But buying European does not guarantee sovereignty. 

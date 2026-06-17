@@ -20,8 +20,6 @@ id: 4091
 
 # We have 10 days to save net neutrality
 
-[image blog/cable-squeeze resize=false]
-
 Last month, the Chairman of the Federal Communications Commission, Ajit Pai, released a draft order that would soften net neutrality regulations. He wants to overturn the restrictions that make paid prioritization, blocking or throttling of traffic unlawful. If approved, this order could drastically alter the way that people experience and access the web. Without net neutrality, Internet Service Providers could determine what sites you can or cannot see.
 
 The proposed draft order is disheartening. Millions of Americans are trying to save net neutrality; the FCC has received over 5 million emails, [750,000 phone calls](https://www.battleforthenet.com), and 2 million comments. Unfortunately this public outpouring has not altered the FCC's commitment to dismantling net neutrality.

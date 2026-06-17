@@ -20,9 +20,7 @@ id: 4846
 
 # Acquia acquires Mautic to create the Open Digital Experience Platform
 
-[image acquia/acquia-acquires-mautic resize=false]
-
-I'm happy to announce today that [Acquia acquired Mautic](https://www.acquia.com/blog/acquia-acquires-mautic-qa-founders-dries-buytaert-and-db-hurley), an open source marketing automation and campaign management platform.
+I'm happy to announce today that [Acquia acquired Mautic](https://www.acquia.com/blog/acquia-acquires-mautic-qa-founders-dries-buytaert-and-db-hurley), an Open Source marketing automation and campaign management platform.
 
 A couple of decades ago, I was convinced that every organization required a website – a thought that sounds rather obvious now. Today, I am convinced that [every organization will need a Digital Experience Platform](https://dri.es/from-content-management-to-digital-experience-management) (DXP).
 
@@ -36,7 +34,7 @@ If you don't know [Mautic](https://www.mautic.com/), think of it as an alternati
 
 The flowchart style visual campaign builder you saw in the beginning of [the Mautic demo video](https://youtu.be/DGZWrE4W2XU) above is one of my favorite features. I love how it allows marketers to combine content, user profiles, events and a decision engine to deliver the best-next action to customers.
 
-Mautic is a relatively young company, but has quickly grown into the largest open source player in the marketing automation space, with more than 200,000 installations. Its ease of use, flexibility and feature completeness has won over many marketers in a very short time: the company's top-line grew almost 400 percent year-over-year, its number of customers tripled, and Mautic won multiple awards for product innovation and customer service.
+Mautic is a relatively young company, but has quickly grown into the largest Open Source player in the marketing automation space, with more than 200,000 installations. Its ease of use, flexibility and feature completeness has won over many marketers in a very short time: the company's top-line grew almost 400 percent year-over-year, its number of customers tripled, and Mautic won multiple awards for product innovation and customer service.
 
 The acquisition of Mautic accelerates [Acquia's product strategy](https://dri.es/the-evolution-of-acquia-product-strategy) to deliver the only Open Digital Experience Platform:
 
@@ -50,15 +48,15 @@ Open Source will disrupt every component of the modern technology stack. It's no
 
 Just as [Drupal](https://www.drupal.org/) disrupted web content management with Open Source, we believe [Mautic](https://www.mautic.org/) disrupts marketing automation.
 
-With Mautic, Acquia is now the only open and open source alternative to the expensive, closed, and stagnant marketing clouds.
+With Mautic, Acquia is now the only open and Open Source alternative to the expensive, closed, and stagnant marketing clouds.
 
-I'm both proud and excited that [Acquia](https://www.acquia.com/) is doubling down on Open Source. Given our extensive open source experience, we believe we can help grow Mautic even faster.
+I'm both proud and excited that [Acquia](https://www.acquia.com/) is doubling down on Open Source. Given our extensive Open Source experience, we believe we can help grow Mautic even faster.
 
 ### Reason 2: Innovating through integrations
 
 To build an optimal customer experience, marketers need to integrate with different data sources, customer technologies, and bespoke in-house platforms. Instead of buying a suite from a single vendor, most marketers want an open platform that allows for open innovation and unlimited integrations.
 
-Only an open architecture can connect any technology in the marketing stack, and only an open source innovation model can evolve fast enough to offer integrations with thousands of marketing technologies (to date, there are [ 7,000 vendors in the martech landscape](https://chiefmartec.com/2019/04/marketing-technology-landscape-supergraphic-2019/)).
+Only an open architecture can connect any technology in the marketing stack, and only an Open Source innovation model can evolve fast enough to offer integrations with thousands of marketing technologies (to date, there are [ 7,000 vendors in the martech landscape](https://chiefmartec.com/2019/04/marketing-technology-landscape-supergraphic-2019/)).
 
 Because developers are largely responsible for creating and customizing marketing platforms, marketing technology should meet the needs of both business users and technology architects. Unlike other companies in the space, Mautic is loved by both marketers and developers. With Mautic, Acquia continues to focus on both personas.
 
@@ -68,7 +66,7 @@ Like Drupal, Mautic is built in [PHP](https://php.net/) and [Symfony](https://sy
 
 Digital agencies or in-house teams need to deliver integrated marketing solutions. Because both Drupal and Mautic use the same technology stack, a single team of developers can work on both.
 
-The similarities also make it possible for both open source communities to collaborate – while it is not something you can force to happen, it will be interesting to see how that dynamic naturally plays out over time.
+The similarities also make it possible for both Open Source communities to collaborate – while it is not something you can force to happen, it will be interesting to see how that dynamic naturally plays out over time.
 
 Last but not least, our business models are also very aligned. Both Acquia and Mautic were "born in the cloud" and make money by offering subscription- and cloud-based delivery options. This means you pay for only what you need and that you can focus on using the products rather than running and maintaining them.
 

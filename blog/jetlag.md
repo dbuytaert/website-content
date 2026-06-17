@@ -9,10 +9,11 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Photography
+image: miscellaneous-2010/jetlag
 published: true
 id: 1331
 ---
 
 # Jetlag
 
-[image miscellaneous-2010/jetlag]
+

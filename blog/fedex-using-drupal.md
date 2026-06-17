@@ -11,12 +11,11 @@ tags:
   - Drupal
   - 'Drupal sites'
   - 'Fortune 500'
+image: drupal/fedex
 published: true
 id: 445
 ---
 
 # FedEx using Drupal
-
-[image drupal/fedex]
 
 [FedEx](http://fedex.com) is using [Drupal](https://www.drupal.org) for [their news website](http://news.fedex.com). Not bad because FedEx is ranked in the top 100 of the [Fortune 500](http://money.cnn.com/magazines/fortune/fortune500/). (Hat tip: [Jeff Whatcott](https://jeffwhatcott.com/drupal/content/fedexcom-drupal))

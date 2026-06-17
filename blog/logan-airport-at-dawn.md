@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Boston
+image: miscellaneous-2011/logan-airport-at-dawn
 published: true
 id: 2501
 ---
 
 # Logan airport at dawn
 
-[image miscellaneous-2011/logan-airport-at-dawn]
+

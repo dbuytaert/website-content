@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Australia
+image: australia-2011/lizard
 published: true
 id: 2126
 ---
 
 # Lizard
 
-[image australia-2011/lizard]
+

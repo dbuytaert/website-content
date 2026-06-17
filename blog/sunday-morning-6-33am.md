@@ -9,10 +9,11 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Photography
+image: miscellaneous-2006/sunday-6-33-am
 published: true
 id: 160
 ---
 
 # Sunday morning, 6:33am
 
-[image miscellaneous-2006/sunday-6-33-am]
+

@@ -11,10 +11,11 @@ tags:
   - Photography
   - Belgium
   - Antwerp
+image: miscellaneous-2006/graffiti-1
 published: true
 id: 33
 ---
 
 # Graffiti
 
-[image miscellaneous-2006/graffiti-1]
+

@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Tuscany
+image: tuscany-2006/siena-dome-angel
 published: true
 id: 39
 ---
 
 # Angel
 
-[image tuscany-2006/siena-dome-angel]
+

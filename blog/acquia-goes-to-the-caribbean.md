@@ -9,13 +9,12 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Acquia
+image: puerto-rico-2011/beach-on-private-island
 published: true
 id: 2316
 ---
 
 # Acquia goes to the Caribbean
-
-[image puerto-rico-2011/beach-on-private-island]
 
 This week many of us at [Acquia](https://www.acquia.com) will be on an epic trip to the Caribbean.
 

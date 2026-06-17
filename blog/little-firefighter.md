@@ -12,10 +12,11 @@ tags:
   - Family
   - Axl
   - Boston
+image: ipswich-2010/little-firefighter
 published: true
 id: 1721
 ---
 
 # Little firefighter
 
-[image ipswich-2010/little-firefighter]
+

@@ -9,12 +9,11 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Drupal
+image: drupal/druplicon-graffiti
 published: true
 id: 664
 ---
 
 # Drupal graffiti
-
-[image drupal/druplicon-graffiti]
 
 Don't know the details, but pictures of the making of are available in [this photo gallery](https://www.flickr.com/photos/xamanu/sets/72157616877993014/).

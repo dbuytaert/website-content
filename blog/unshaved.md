@@ -10,12 +10,11 @@ type: blog
 tags:
   - Photography
   - Self-portrait
+image: miscellaneous-2006/unshaved
 published: true
 id: 118
 ---
 
 # Unshaved
-
-[image miscellaneous-2006/unshaved]
 
 After taking [Nele's picture](/nele-peeters), she took one of me wearing her shades.

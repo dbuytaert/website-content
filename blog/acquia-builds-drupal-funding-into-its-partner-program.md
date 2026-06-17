@@ -21,8 +21,6 @@ id: 6181
 
 # Acquia builds Drupal funding into its partner program
 
-[image drupal/blue-hearts-1 priority=true]
-
 Today [Acquia](https://www.acquia.com/) announced something I'm really proud of. We're calling it the [Acquia Fair Trade Initiative](https://www.acquia.com/partners/fair-trade-initiative).
 
 When an Acquia partner closes a deal, 2% of that deal flows directly to the [Drupal Association](https://www.drupal.org/association), credited in the partner's name, to [fund Drupal's infrastructure](https://dri.es/what-it-costs-to-run-drupal-infrastructure) and long-term growth. This is in addition to the millions of dollars Acquia already invests in Drupal each year.

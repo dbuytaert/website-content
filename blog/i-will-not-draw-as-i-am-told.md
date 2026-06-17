@@ -11,10 +11,11 @@ tags:
   - Photography
   - Belgium
   - Antwerp
+image: miscellaneous-2006/i-will-not-draw-as-i-am-told
 published: true
 id: 192
 ---
 
 # I will not draw as I am told
 
-[image miscellaneous-2006/i-will-not-draw-as-i-am-told]
+

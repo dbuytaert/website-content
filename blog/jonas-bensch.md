@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Family
+image: vars-2007/jonas-1
 published: true
 id: 259
 ---
 
 # Jonas Bensch
 
-[image vars-2007/jonas-1]
+

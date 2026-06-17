@@ -11,10 +11,11 @@ tags:
   - Drupal
   - Schwag
   - DrupalCon
+image: drupalcon-sunnyvale-2007/schwag
 published: true
 id: 240
 ---
 
 # Yahoo! schwag
 
-[image drupalcon-sunnyvale-2007/schwag]
+

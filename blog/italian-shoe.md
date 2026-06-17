@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Tuscany
+image: tuscany-2006/italian-shoe
 published: true
 id: 40
 ---
 
 # Italian shoe
 
-[image tuscany-2006/italian-shoe]
+

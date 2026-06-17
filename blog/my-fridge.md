@@ -10,12 +10,11 @@ type: blog
 tags:
   - Photography
   - Humor
+image: miscellaneous-2010/fridge
 published: true
 id: 1486
 ---
 
 # My fridge
-
-[image miscellaneous-2010/fridge]
 
 I'll show you mine, if you show me yours. What does your fridge look like today?

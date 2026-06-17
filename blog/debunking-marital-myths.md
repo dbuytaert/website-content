@@ -12,12 +12,11 @@ tags:
   - Family
   - Self-portrait
   - Statistics
+image: miscellaneous-2006/my-weight-before-marriage
 published: true
 id: 37
 ---
 
 # Debunking marital myths
-
-[image miscellaneous-2006/my-weight-before-marriage]
 
 Picture taken 24 hours before our wedding! In order to successfully debunk marital myths and common beliefs (read: weight gain after marriage) one needs to accurately register the past. Like that, we can fall back on traditional science and math in future.

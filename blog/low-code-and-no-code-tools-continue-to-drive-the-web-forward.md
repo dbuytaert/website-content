@@ -19,8 +19,6 @@ id: 4911
 
 # Low-code and no-code tools continue to drive the web forward
 
-[image blog/low-code-no-code]
-
 *A version of this article was originally [published on Devops.com](https://devops.com/the-impact-of-low-code-on-the-web/).*
 
 Twelve years ago, I wrote a post called [Drupal and Eliminating Middlemen](https://dri.es/drupal-and-eliminating-middlemen). For years, it was one of the most-read pieces on my blog. Later, I followed that up with a blog post called [The Assembled Web](https://dri.es/the-assembled-web), which remains one of the most read posts to date.

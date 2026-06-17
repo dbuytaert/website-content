@@ -11,12 +11,11 @@ tags:
   - Photography
   - Karlijn
   - Axl
+image: miscellaneous-2007/hello-world
 published: true
 id: 226
 ---
 
 # Hello world
-
-[image miscellaneous-2007/hello-world]
 
 Because [subtlety doesn't always work](https://dri.es/cashew-nut) ... ;-)

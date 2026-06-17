@@ -11,10 +11,11 @@ tags:
   - Drupal
   - Humor
   - Schwag
+image: drupal/druplicon-stress-balls
 published: true
 id: 1011
 ---
 
 # Druplicon stress balls
 
-[image drupal/druplicon-stress-balls]
+

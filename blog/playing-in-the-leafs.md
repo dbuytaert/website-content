@@ -11,10 +11,11 @@ tags:
   - Photography
   - Family
   - Stan
+image: winchester-2010/stan-leafs
 published: true
 id: 1976
 ---
 
 # Playing in the leafs
 
-[image winchester-2010/stan-leafs]
+

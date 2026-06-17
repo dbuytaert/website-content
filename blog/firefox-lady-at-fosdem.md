@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - FOSDEM
+image: miscellaneous-2007/firefox-lady-at-fosdem
 published: true
 id: 222
 ---
 
 # Firefox lady at FOSDEM
 
-[image miscellaneous-2007/firefox-lady-at-fosdem]
+

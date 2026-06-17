@@ -23,8 +23,6 @@ id: 6081
 
 # AI creates asymmetric pressure on Open Source
 
-[image blog/asymmetric-ai-pressure priority=high schema=false]
-
 AI makes it cheaper to contribute to Open Source, but it's not making life easier for maintainers. More contributions are flowing in, but the burden of evaluating them still falls on the same small group of people. That asymmetric pressure risks breaking maintainers.
 
 ### The curl story

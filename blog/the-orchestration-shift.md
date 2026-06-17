@@ -25,8 +25,6 @@ id: 5911
 
 # The Orchestration Shift
 
-[image blog/orchestration-shift lazy=false priority=true]
-
 Last summer, I was building a small automation in [n8n](https://n8n.io/) when I came across [Activepieces](https://www.activepieces.com/). Both tools promise the same thing: connect your applications, automate your workflows, and host it yourself. But when I clicked through to [Activepieces' GitHub repo](https://github.com/activepieces/activepieces), I noticed it's released under the MIT license. Truly Open Source, not just [source-available](https://en.wikipedia.org/wiki/Source-available_software) like n8n.
 
 As I dug deeper into these tools, something crystallized for me: _business logic is moving out of individual applications and into the orchestration layer_. 

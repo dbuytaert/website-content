@@ -10,13 +10,12 @@ type: blog
 tags:
   - Drupal
   - Statistics
+image: drupal/drupal-6-growth
 published: true
 id: 625
 ---
 
 # Drupal 6 growth
-
-[image drupal/drupal-6-growth resize=false]
 
 The graph above is made based on the project usage statistics collected on drupal.org. As ever with statistics of this sort, they don't tell the whole story. This is because only sites running the *update status module* report data back to drupal.org. This module is part of Drupal 6 and the installer prompts the user to enable the module when Drupal is first installed. It is not required to enable this module. People upgrading from Drupal 5 aren't even prompted to enable it. Plus, many Drupal sites are hidden behind corporate firewalls. As a result, we don't really know how many Drupal 6 sites there are.
 

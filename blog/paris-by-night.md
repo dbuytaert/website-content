@@ -12,10 +12,11 @@ tags:
   - 'Cities by night'
   - Travel
   - France
+image: paris-2011/paris-by-night
 published: true
 id: 2511
 ---
 
 # Paris by night
 
-[image paris-2011/paris-by-night]
+

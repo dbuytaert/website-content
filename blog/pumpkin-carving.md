@@ -13,12 +13,11 @@ tags:
   - Axl
   - Stan
   - Boston
+image: winchester-2010/pumpkin-carving
 published: true
 id: 1846
 ---
 
 # Pumpkin carving
-
-[image winchester-2010/pumpkin-carving]
 
 Yes, these carving saws are for kids. No, they didn't hurt themselves.

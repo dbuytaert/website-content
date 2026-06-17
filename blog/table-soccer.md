@@ -9,10 +9,11 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Photography
+image: miscellaneous-2008/table-soccer
 published: true
 id: 480
 ---
 
 # Table soccer
 
-[image miscellaneous-2008/table-soccer]
+

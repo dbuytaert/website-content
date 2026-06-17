@@ -19,8 +19,6 @@ id: 1996
 
 # Stock options and employee equity
 
-[image blog/shares]
-
 To my surprise, a lot of people that I interview at [Acquia](https://www.acquia.com) don't understand stock options or have never heard of it. This blog post explains what stock options are about. It is a very technical topic but for the sake of this post, I am going to keep it really simple and make some over-simplifications.
 
 In essence, a stock option is a right given to an employee to purchase stock at some point in the future at a set price.

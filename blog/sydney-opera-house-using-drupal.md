@@ -17,8 +17,6 @@ id: 5591
 
 # Sydney Opera House using Drupal
 
-[image australia-2024/sydney-opera-house caption=false]
-
 Across its 50-year history, the [Sydney Opera House](https://www.sydneyoperahouse.com/) has welcomed musicians, dancers, actors, playwrights, filmmakers, contemporary artists, and thinkers who have both challenged and defined the cultural scene. As a result, the Sydney Opera House draws millions of visitors from around the world each year.
 
 Not only is the Sydney Opera House of incredible cultural importance, it's also an architectural masterpiece. Its unique design makes it one of the most iconic buildings in the world, and has earned it a place as a [UNESCO World Heritage Site](https://whc.unesco.org/).

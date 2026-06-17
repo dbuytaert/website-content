@@ -9,10 +9,11 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Acquia
+image: acquia/typical-work-day
 published: true
 id: 465
 ---
 
 # Typical work day
 
-[image acquia/typical-work-day]
+

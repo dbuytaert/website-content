@@ -12,13 +12,12 @@ tags:
   - 'Drupal sites'
   - Broadcasting
   - Entertainment
+image: drupal/rio-olympic-stadium
 published: true
 id: 3751
 ---
 
 # Drupal goes to Rio
-
-[image drupal/rio-olympic-stadium]
 
 As the 2016 Summer Olympics in Rio de Janeiro enters its second and final week, it's worth noting that the last time I blogged about Drupal and the Olympics was way back in 2008 when I called attention to the fact that [Nike was running its sponsorship site on Drupal 6](https://dri.es/nike-using-drupal) and using Drupal's multilingual capabilities to deliver their message in 13 languages.
 

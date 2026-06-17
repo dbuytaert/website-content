@@ -20,8 +20,6 @@ id: 6196
 
 # Grow the ecosystem, not just yourself
 
-[image blog/threshold-together]
-
 In Open Source software, competition works differently than in proprietary software. 
 
 Companies compete through their own products and services, but they all depend on the same commons: the software, the community, the project's reputation, and the shared work that helps people trust and adopt it.

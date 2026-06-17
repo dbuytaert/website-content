@@ -22,8 +22,6 @@ id: 6156
 
 # The Sovereignty Prerequisite
 
-[image blog/sovereignty-prerequisite priority=true schema=false]
-
 Procurement frameworks aren't the most exciting topic. But the European Commission is about to propose the [Cloud and AI Development Act](https://www.europarl.europa.eu/legislative-train/theme-a-new-plan-for-europe-s-sustainable-prosperity-and-competitiveness/file-cloud-and-ai-development-act) (CADA), and how it treats Open Source will affect every Open Source project and Open Source business operating in Europe. This is one of those moments where the details matter.
 
 Last month, I proposed a [Software Sovereignty Scale](https://dri.es/the-software-sovereignty-scale) that grades software from A to E based on how easily your rights can be taken away. My core argument: if you want sovereignty that lasts, Open Source matters more than buying European proprietary software.

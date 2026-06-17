@@ -20,8 +20,6 @@ id: 6116
 
 # Drupal 25th Anniversary Gala at DrupalCon Chicago
 
-[image drupal/25th-anniversary-gala]
-
 There is a big party happening at DrupalCon Chicago, and I can't wait.
 
 On March 24th, we're celebrating Drupal's 25th Anniversary with a gala from 7–10 pm CT. It's a separate ticketed event, not included in your DrupalCon registration.

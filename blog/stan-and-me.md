@@ -11,10 +11,11 @@ tags:
   - Photography
   - Self-portrait
   - Stan
+image: stan-2009/stan-and-dries-2
 published: true
 id: 672
 ---
 
 # Stan and me
 
-[image stan-2009/stan-and-dries-2]
+

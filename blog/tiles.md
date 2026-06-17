@@ -12,10 +12,11 @@ tags:
   - Self-portrait
   - Camping
   - Travel
+image: miscellaneous-2006/tiles
 published: true
 id: 91
 ---
 
 # Tiles
 
-[image miscellaneous-2006/tiles]
+

@@ -10,10 +10,11 @@ type: blog
 tags:
   - Drupal
   - 'Drupal sites'
+image: drupal/playstation
 published: true
 id: 182
 ---
 
 # PlayStation using Drupal
 
-[image drupal/playstation resize=false]
+

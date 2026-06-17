@@ -9,13 +9,12 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Drupal
+image: drupal/license-plate
 published: true
 id: 1016
 ---
 
 # Drupal license plate
-
-[image drupal/license-plate]
 
 A car has been spotted with a Drupal license plate that reads 'Drupal star'.
 

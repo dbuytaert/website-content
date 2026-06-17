@@ -18,8 +18,6 @@ id: 5666
 
 # Introducing Drupal Starshot's product strategy
 
-[image drupal/starshot-strategy]
-
 I'm excited to share the first version of [Drupal Starshot](https://www.drupal.org/about/starshot)'s product strategy, a document that aims to guide the development and marketing of Drupal Starshot. To read it, download the full [Drupal Starshot strategy document](https://dri.es/files/drupal-starshot-product-strategy-1.pdf) as a PDF (8 MB).
 
 This strategy document is the result of a collaborative effort among the [Drupal Starshot leadership team](https://dri.es/announcing-the-drupal-starshot-leadership-team), the [Drupal Starshot Advisory Council](https://dri.es/announcing-the-drupal-starshot-advisory-council), and the [Drupal Core Committers](https://www.drupal.org/community/contributor-guide/role/drupal-core-committer). We also tested it with marketers who provided feedback and validation.

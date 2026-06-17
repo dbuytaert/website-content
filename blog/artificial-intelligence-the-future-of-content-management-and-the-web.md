@@ -22,8 +22,6 @@ id: 5426
 
 # Artificial Intelligence, the future of Content Management and the Web
 
-[image blog/endless-server-power lazy=false priority=true]
-
 I recently bought a [Peloton bike](https://en.wikipedia.org/wiki/Peloton_Interactive) as a Christmas gift for my wife. The Peloton was for our house in Belgium. Because Peloton does not deliver to Belgium yet, I had to find a way to transport one from Germany to Belgium. It was a bit of a challenge as the bike is quite large, and I wasn't sure if it would fit in the back of our car.
 
 I tried measuring the trunk of my car, along with another Peloton. I wasn't positive if it would fit in the car. I tried Googling the answer but search engines aren't great at answering these types of questions today. Being both uncertain of the answer and too busy (okay, let's be real – lazy) to figure it out myself, I decided to ship the bike with a courier. When in doubt, outsource the problem.

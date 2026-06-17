@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/jsonapi-lands-in-drupal-core'
-title: 'JSON:API lands in Drupal core'
+title: 'JSON:API lands in Drupal Core'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -17,9 +17,7 @@ published: true
 id: 4796
 ---
 
-# JSON:API lands in Drupal core
-
-[image drupal/json-api-crane]
+# JSON:API lands in Drupal Core
 
 Breaking news: we just committed the JSON:API module to the development branch of Drupal 8.
 
@@ -39,13 +37,13 @@ In addition to being incredibly powerful, JSON:API is [easy to learn and use](ht
 
 Development of the JSON:API module started in May 2016 and reached a stable 1.0 release in May 2017. Most of the work was driven by a single developer partially in his free time: [Mateu Aguiló Bosch (e0ipso)](https://www.drupal.org/u/e0ipso).
 
-After soliciting input and consulting others, I felt JSON:API belonged in Drupal core. I first floated this idea in [July 2016](https://dri.es/a-roadmap-for-making-drupal-more-api-first), became more convinced in [December 2016](https://dri.es/improving-drupal-8-api-first-json-api-oauth2) and recommended that we standardize on it in [October 2017](https://dri.es/drupal-looking-to-adopt-react).
+After soliciting input and consulting others, I felt JSON:API belonged in Drupal Core. I first floated this idea in [July 2016](https://dri.es/a-roadmap-for-making-drupal-more-api-first), became more convinced in [December 2016](https://dri.es/improving-drupal-8-api-first-json-api-oauth2) and recommended that we standardize on it in [October 2017](https://dri.es/drupal-looking-to-adopt-react).
 
 This is why at the end of 2017, I asked [Wim Leers](https://www.drupal.org/u/wim-leers) and [Gabe Sullice](https://www.drupal.org/u/gabesullice) – as part of their roles at [Acquia](https://www.acquia.com/) – to start devoting the majority of their time to getting JSON:API to a high level of stability.
 
 Wim and Gabe quickly became key contributors alongside Mateu. They wrote hundreds of tests and added missing features to make sure we guarantee strict compliance with the [JSON:API specification](https://jsonapi.org/).
 
-A year later, their work culminated in a [JSON:API 2.0 stable release on January 7th, 2019](https://www.drupal.org/project/jsonapi/releases/8.x-2.0). The 2.0 release marked the start of the module's move to Drupal core. After rigorous reviews and more improvements, the module was finally committed to core earlier today.
+A year later, their work culminated in a [JSON:API 2.0 stable release on January 7th, 2019](https://www.drupal.org/project/jsonapi/releases/8.x-2.0). The 2.0 release marked the start of the module's move to Drupal Core. After rigorous reviews and more improvements, the module was finally committed to core earlier today.
 
 From [beginning](https://www.drupal.org/project/jsonapi/issues/2829327) to [end](https://cgit.drupalcode.org/drupal/commit/?id=b2f88e3), it took 28 months, 450 commits, 32 releases and more than 5,500 test runs.
 

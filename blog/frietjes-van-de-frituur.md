@@ -10,12 +10,11 @@ type: blog
 tags:
   - Photography
   - Belgium
+image: miscellaneous-2010/frietjes-van-de-frituur
 published: true
 id: 1326
 ---
 
 # "Frietjes van de frituur"
-
-[image miscellaneous-2010/frietjes-van-de-frituur]
 
 Taken 30 minutes ago with my new Panasonic GF1 and the Lumix 20mm f1.7 pancake lens. Handheld, no flash, but edited in Adobe Lightroom. Those fries are no more.

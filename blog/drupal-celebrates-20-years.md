@@ -18,8 +18,6 @@ id: 5136
 
 # Drupal celebrates 20 years!
 
-[image drupal/happy-twentieth-birthday]
-
 On January 15, 2001, exactly 20 years ago, I released Drupal 1.0.0 into the world. I was 22 years old, and just finished college. At the time, I had no idea that Drupal would someday power 1 in 35 websites, and impact so many people globally.
 
 As with anything, there are things Drupal did right, and things we could have done differently. I recently spoke about this in [my DrupalCon Europe 2020 keynote](https://dri.es/state-of-drupal-presentation-december-2020), but I'll summarize some thoughts here.

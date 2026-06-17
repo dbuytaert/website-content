@@ -9,10 +9,11 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Photography
+image: miscellaneous-2005/dandelion
 published: true
 id: 74
 ---
 
 # Dandelion
 
-[image miscellaneous-2005/dandelion]
+

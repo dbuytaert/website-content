@@ -22,8 +22,6 @@ id: 6186
 
 # The gap between Drupal and its reputation
 
-[image blog/walking-upstream priority=true]
-
 I saw two thoughtful posts in my LinkedIn feed over the last week that I wanted to reshare here before the LinkedIn feed buried them. Both were spot on, honest, and deserve a longer shelf life.
  
 The first was from [Hynek Naceradsky](https://www.linkedin.com/feed/update/urn:li:activity:7460624673861586944/):

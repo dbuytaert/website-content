@@ -20,8 +20,6 @@ id: 4986
 
 # Pledging $100,000 to support the Drupal Association
 
-[image drupal/blue-hearts-2]
-
 Vanessa and I have been talking about how we can help contribute to the [Drupal Association](https://www.drupal.org/association), and by extension the [Drupal community](https://www.drupal.org/), in [these uncertain times](https://dri.es/sustaining-the-drupal-association-in-uncertain-times). We want to show our support given [Drupal's positive impact](https://dri.es/drupal-collective-purpose) on our lives.
 
 We have decided to donate a minimum of $44,000 to match [all 485 individual donations so far](https://www.drupal.org/association/donate). We will also continue to match new donations up to $100,000.

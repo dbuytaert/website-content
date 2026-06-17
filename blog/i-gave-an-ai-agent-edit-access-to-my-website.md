@@ -17,8 +17,6 @@ id: 5746
 
 # I gave an AI agent edit access to my website
 
-[image blog/collaborating-with-an-ai-agent schema=false]
-
 I'm often asked, <q>Will AI agents replace digital marketers and site builders?</q>. The answer is <q>yes</q>, at least for certain kinds of tasks.
 
 To explore this idea, I prototyped two AI agents to automate marketing tasks on my personal website. They update meta descriptions to improve SEO and optimize tags to improve content discovery.

@@ -19,11 +19,9 @@ id: 3086
 
 # The Assembled Web
 
-[image blog/assembled-web]
-
 To "assemble" means to build. Assembling also means that we come together. Sometimes, both aspects are true. When that happens and we work together to build, we are better off for it.
 
-The open source community is a perfect example of this. When Linux creator Linus Torvalds spoke about how it felt to get contributions from a worldwide network of people, he remarked "I had hoisted myself up on the shoulders of giants". I'm lucky enough to feel the same way.
+The Open Source community is a perfect example of this. When Linux creator Linus Torvalds spoke about how it felt to get contributions from a worldwide network of people, he remarked "I had hoisted myself up on the shoulders of giants". I'm lucky enough to feel the same way.
 
 The Internet has created a culture of sharing, letting people connect and collaborate on areas of common interest. When I started developing Drupal in 2000 from my university dormitory in Antwerp, I never imagined I'd build a network of people who were interested in building a content management system with me. Yet word of my project spread, and before I knew it, I was getting contributions to my project from around the world. Soon I also was standing on the shoulders of giants.
 
@@ -48,7 +46,7 @@ The best thing to do is to adopt a platform that can change at the pace of the w
 
 The assembled web doesn't just have implications for the way developers create websites. It will have a widespread impact on any person or organization that needs to keep up with rapidly changing external forces. That's pretty much everyone. Think about how the assembly line changed manufacturing the first time. And how 3D printing is changing it again now. We can build faster and smarter than ever before. Similarly, the assembled web gives more people the tools to build the web as we know it.
 
-Anyone without coding experience will be able to use an open source CMS to assemble a site by simply snapping modules together. A marketer could build a site for a new product launch without relying on the engineering team. An entrepreneur could launch a company site without hiring a webmaster. This phenomenon frees up time for developers to create new ways to connect citizens to their governments, nonprofits to donors, businesses to customers, friends and family to each other. Launching a disruptive business idea or reacting to today's rapid market changes could be accomplished without technical assistance. Going from vision to realization, for the first time, would be a single step. This advantage would finally bring the speed of digital site building in line with the speed of the web.
+Anyone without coding experience will be able to use an Open Source CMS to assemble a site by simply snapping modules together. A marketer could build a site for a new product launch without relying on the engineering team. An entrepreneur could launch a company site without hiring a webmaster. This phenomenon frees up time for developers to create new ways to connect citizens to their governments, nonprofits to donors, businesses to customers, friends and family to each other. Launching a disruptive business idea or reacting to today's rapid market changes could be accomplished without technical assistance. Going from vision to realization, for the first time, would be a single step. This advantage would finally bring the speed of digital site building in line with the speed of the web.
 
 This evolution isn't a scary thing for developers; it's an opportunity. The web has forced a constant reinvention of everything. Careers. The way we compete for business. Being more efficient in the way we assemble a website will allow us to focus on the things that matter more, like innovation and creativity. By standing on the shoulders of giants, we can make things look and operate more beautifully than we'd ever have expected.
 

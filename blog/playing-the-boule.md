@@ -12,10 +12,11 @@ tags:
   - Mid-air
   - Self-portrait
   - Belgium
+image: knokke-heist-2006/playing-the-boule
 published: true
 id: 110
 ---
 
 # Playing the boule
 
-[image knokke-heist-2006/playing-the-boule]
+

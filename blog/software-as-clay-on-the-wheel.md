@@ -20,8 +20,6 @@ id: 6061
 
 # Software as clay on the wheel
 
-[image miscellaneous-2020/ceramics-2 priority=true]
-
 A few weeks ago, Simon Willison started a coding agent, went to decorate a Christmas tree with his family, watched a movie, and came back to a working HTML5 parser.
 
 It sounds like a party trick.  But it worked because the results were easy to check. The unit tests either pass or they don't. The type checker either accepts the code or it doesn't. In that kind of environment, the work can keep moving without much supervision.

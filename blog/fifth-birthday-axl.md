@@ -11,12 +11,11 @@ tags:
   - Family
   - Axl
   - Birthday
+image: birthday-axl-2012/axl-birthday-with-grandma
 published: true
 id: 2731
 ---
 
 # Fifth birthday Axl
-
-[image birthday-axl-2012/axl-birthday-with-grandma]
 
 Happy birthday, Axl! I can't believe you turned five today. I can't be with you today but it was nice to Skype this morning. Great to see you with one of mommy's famous birthday hats.

@@ -10,13 +10,12 @@ type: blog
 tags:
   - Photography
   - Friends
+image: miscellaneous-2006/anders-bals
 published: true
 id: 124
 ---
 
 # Anders Bals
-
-[image miscellaneous-2006/anders-bals]
 
 Last night, [Joke](/40-weeks) gave birth to Anders Bals. Klaas and Joke are now the happy parents of a beautiful boy, and I'm honored to be his godfather.
 

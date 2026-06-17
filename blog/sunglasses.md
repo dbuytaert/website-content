@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Tuscany
+image: tuscany-2006/sunglasses
 published: true
 id: 47
 ---
 
 # Sunglasses
 
-[image tuscany-2006/sunglasses]
+

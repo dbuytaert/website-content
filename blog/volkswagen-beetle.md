@@ -9,10 +9,11 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Photography
+image: miscellaneous-2006/volkswagen-beetle
 published: true
 id: 72
 ---
 
 # Volkswagen Beetle
 
-[image miscellaneous-2006/volkswagen-beetle]
+

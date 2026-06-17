@@ -11,13 +11,12 @@ summary: 'The iconic fashion brand Hermès launched its new site in Drupal'
 tags:
   - Drupal
   - 'Drupal sites'
+image: drupal/hermes
 published: true
 id: 4041
 ---
 
 # Hermès using Drupal
-
-[image drupal/hermes resize=false]
 
 Since its founding in 1837, Hermès has defined luxury. Renowned as an iconic brand within the fashion industry, Hermès is now setting the trend for how customers shop online. This week, Hermès launched its new site in Drupal!
 

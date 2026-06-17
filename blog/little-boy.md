@@ -9,10 +9,11 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Photography
+image: miscellaneous-2006/little-boy
 published: true
 id: 93
 ---
 
 # Little boy
 
-[image miscellaneous-2006/little-boy]
+

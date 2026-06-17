@@ -20,8 +20,6 @@ id: 6021
 
 # The Control Layers of AI
 
-[image blog/control-layers lazy=false priority=true]
-
 Salesforce had an embarrassing moment last week.
 
 Vivint uses Salesforce's Agentforce to send satisfaction surveys after customer service calls. Recently they discovered surveys were randomly not being sent and no one noticed for weeks.
@@ -54,4 +52,4 @@ That is where workflow automation platforms come in. They do not need to power e
 
 We are still early in the age of AI agents. The temptation is to believe that intelligence alone will replace structure. But enterprises cannot gamble processes that touch customers, revenue, or compliance. They need systems where every step is accountable. That is why deterministic workflows matter. They are where reliability and intelligence meet and where the next generation of enterprise platforms will be built.
 
-And when infrastructure becomes essential, organizations want to own it, not rent it. That is why Linux won servers and PostgreSQL won databases. If the orchestration layer becomes essential to enterprise AI, open source will be an important choice. Activepieces is open source and n8n is "source available" (the code can be inspected but has commercial restrictions). Either way, I would love to see them succeed.
+And when infrastructure becomes essential, organizations want to own it, not rent it. That is why Linux won servers and PostgreSQL won databases. If the orchestration layer becomes essential to enterprise AI, Open Source will be an important choice. Activepieces is Open Source and n8n is "source available" (the code can be inspected but has commercial restrictions). Either way, I would love to see them succeed.

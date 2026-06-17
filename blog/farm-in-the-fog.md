@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Boston
+image: beverly-farms-2009/farm
 published: true
 id: 1066
 ---
 
 # Farm in the fog
 
-[image beverly-farms-2009/farm]
+

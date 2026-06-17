@@ -12,10 +12,11 @@ tags:
   - 'Cities by night'
   - Travel
   - Australia
+image: australia-2011/opera-house
 published: true
 id: 2151
 ---
 
 # Sydney by night
 
-[image australia-2011/opera-house]
+

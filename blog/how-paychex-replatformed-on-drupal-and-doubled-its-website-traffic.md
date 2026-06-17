@@ -19,8 +19,6 @@ id: 4636
 
 # How Paychex replatformed on Drupal and doubled its website traffic
 
-[image acquia/acquia-engage-2018-interview-with-erica-bizzari]
-
 One trend I've noticed time and time again is that [simplicity wins](https://dri.es/friduction-the-internets-unstoppable-drive-to-eliminate-friction). Today, customers expect every technology they interact with to be both functionally powerful and easy to use.
 
 A great example is Acquia's customer, Paychex. Paychex' digital marketing team recently replatformed [Paychex.com](https://www.paychex.com/) using [Drupal](https://drupal.org/) and [Acquia](https://www.acquia.com/). The driving factor was the need for more simplicity.

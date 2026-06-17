@@ -11,10 +11,11 @@ tags:
   - Drupal
   - Friends
   - DrupalCon
+image: drupalcon-sunnyvale-2007/james-walker
 published: true
 id: 241
 ---
 
 # James Walker
 
-[image drupalcon-sunnyvale-2007/james-walker]
+

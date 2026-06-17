@@ -10,10 +10,11 @@ type: blog
 tags:
   - Photography
   - Humor
+image: miscellaneous-2007/older-me
 published: true
 id: 231
 ---
 
 # Older me
 
-[image miscellaneous-2007/older-me]
+

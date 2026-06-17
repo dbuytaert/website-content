@@ -10,13 +10,12 @@ type: blog
 tags:
   - Drupal
   - Mollom
+image: mollom/100-million-milestone
 published: true
 id: 801
 ---
 
 # Hundred million spam attempts blocked
-
-[image mollom/100-million-milestone resize=false]
 
 At [Mollom](https://mollom.com), our spam-filtering startup targeted toward eliminating comment and post spam, we've just reached two important milestones: we blocked our 100,000,000th spam message, and we're now actively protecting over 10,000 websites.
 

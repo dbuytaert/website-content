@@ -18,8 +18,6 @@ id: 4981
 
 # Sustaining the Drupal Association in uncertain times
 
-[image drupal/blue-hearts-1]
-
 Today, I'm asking for your financial support for the [Drupal Association](https://www.drupal.org/association/). As we all know, we are living in unprecedented times, and the Drupal Association needs our help. With DrupalCon being postponed or potentially canceled, there will be a significant financial impact on our beloved non-profit.
 
 Over the past twenty years, the Drupal project has weathered many storms, including financial crises. Every time, Drupal has come out stronger. As I wrote last week, I'm confident that [Drupal and Open Source will weather the current storm as well](https://dri.es/is-open-source-recession-proof).

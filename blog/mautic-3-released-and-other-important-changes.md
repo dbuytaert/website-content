@@ -17,8 +17,6 @@ id: 5026
 
 # Mautic 3 released (and other important changes)
 
-[image mautic/mautic-3-released]
-
 A year ago, [Acquia acquired Mautic](https://dri.es/acquia-acquires-mautic-to-create-the-open-digital-experience-platform). [Mautic](https://www.mautic.org/) is an Open Source marketing automation and campaign management platform.
 
 Some of you have been wondering: <q>What has been going on since the acquisition?</q>. It's high time for an update!

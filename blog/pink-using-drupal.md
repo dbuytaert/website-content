@@ -13,13 +13,12 @@ tags:
   - 'Mollom sites'
   - 'Favorite music'
   - Music
+image: drupal/pink
 published: true
 id: 427
 ---
 
 # Pink using Drupal
-
-[image drupal/pink]
 
 Pink is using [Drupal](https://www.drupal.org) for [her official website](http://www.pinkspage.com/). She also began using [Mollom](https://mollom.com) to protect her site's content, and we've blocked thousands of spam attempts since. The site was built by her label [Sony BMG](http://sonybmg.com). *Yay!*
 

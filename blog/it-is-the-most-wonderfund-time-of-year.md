@@ -10,13 +10,12 @@ type: blog
 summary: "Acquia's holiday gift drive is one of my favorite traditions and most meaningful ways to give back."
 tags:
   - Acquia
+image: acquia/gift-drive-2018
 published: true
 id: 4676
 ---
 
 # It's the most 'Wonderfund' time of year
-
-[image acquia/gift-drive-2018]
 
 Every December, [Acquia](https://www.acquia.com/) organizes a gift drive on behalf of the [Wonderfund](https://www.wonderfundma.org/). The gift drive supports children that otherwise wouldn't be receiving gifts this holiday season. This year, more than 120 Acquians collected presents for 205 children in Massachusetts.
 

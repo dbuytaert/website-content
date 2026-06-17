@@ -10,10 +10,11 @@ type: blog
 tags:
   - Karlijn
   - Friends
+image: miscellaneous-2007/photo-booth-fun
 published: true
 id: 278
 ---
 
 # Photo booth fun
 
-[image miscellaneous-2007/photo-booth-fun]
+

@@ -20,8 +20,6 @@ id: 6096
 
 # Drupal's AI roadmap for 2026
 
-[image drupal/drupal-ai-roadmap-2026 priority=true]
-
 For the past months, the AI Initiative Leadership Team has been working with [our contributing partners](https://www.drupal.org/ai/makers) to define what the Drupal AI initiative should focus on in 2026. That plan is now ready, and I want to share it with the community.
 
 This roadmap builds directly on the strategy we outlined in [Accelerating AI Innovation in Drupal](https://dri.es/accelerating-ai-innovation-in-drupal). That post described the direction. This plan turns it into concrete priorities and execution for 2026.
@@ -74,7 +72,7 @@ Coordinating 50+ people across organizations takes real structure, so we've hire
 
 Both teams are [creating backlogs](https://www.drupal.org/project/issues/search?issue_tags=AI%20Initiative%20Sprint), managing issues, and giving all our contributors clear direction. You can read more about [how we are going from strategy to execution](https://www.drupal.org/about/starshot/initiatives/ai/blog/from-strategy-to-execution-how-the-drupal-ai-initiative-is-scaling-delivery-for-2026).
 
-This is a new model for Drupal. We're testing whether open source can move faster when you pool resources and coordinate in a new way.
+This is a new model for Drupal. We're testing whether Open Source can move faster when you pool resources and coordinate in a new way.
 
 ### Get involved
 

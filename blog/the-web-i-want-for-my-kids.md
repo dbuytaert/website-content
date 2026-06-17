@@ -20,8 +20,6 @@ id: 4896
 
 # The web I want for my kids
 
-[image miscellaneous-2017/coder-dojo]
-
 Last week, I published [an opinion piece on CNN](https://www.cnn.com/2019/07/19/perspectives/internet-privacy-hate-speech/index.html) featuring my thoughts on what is wrong with the web and how we might fix it.
 
 In short, I really miss some things about the original web, and don't want my kids to grow up being exploited by mega-corporations.

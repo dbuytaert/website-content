@@ -20,8 +20,6 @@ id: 5301
 
 # My first Web3 webpage
 
-[image blog/web3-exploration schema=false]
-
 Today, I'm going to publish my first webpage using Web3 technologies. I will upload a page to IPFS (InterPlanetary File System), make it available at `dries.eth` using ENS (Ethereum Name Service), and visit it with a Web3-enabled browser. If you don't know what that means, buckle up for a crash course.
 
 ### Step 1: Buy an ENS domain name

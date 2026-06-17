@@ -11,12 +11,11 @@ tags:
   - Photography
   - Friends
   - Boston
+image: winchester-2011/ben-and-ione
 published: true
 id: 2406
 ---
 
 # Ben and Ione
-
-[image winchester-2011/ben-and-ione]
 
 We had a fun and jam-packed Fourth of July weekend with Ben and Ione. They are some of our best friends from Belgium, and they'll be living in Boston for two months. Should be a lot of fun. Ben and I go back a long time; among other things we started [Mollom](https://mollom.com) together.

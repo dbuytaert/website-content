@@ -19,15 +19,13 @@ id: 5836
 
 # The web's broken deal with AI companies
 
-[image blog/cloudflare-vs-crawlers lazy=false priority=true]
-
 AI is rewriting the rules of how we work and create. Expert developers can now build faster, non-developers can build software, research is accelerating, and human communication is improving. In the next 10 years, we'll probably see a 1,000x increase in AI demand. That is why [Drupal is investing heavily in AI](https://dri.es/accelerating-ai-innovation-in-drupal).
 
 But at the same time, AI companies are breaking the web's fundamental economic model. This problem demands our attention.
 
 ### The AI extraction problem
 
-For 25 years, we built the [Open Web](https://dri.es/tag/open-web) on an implicit agreement: search engines could index our content because they sent users back to our websites. That model helped sustain blogs, news sites, and even open source projects.
+For 25 years, we built the [Open Web](https://dri.es/tag/open-web) on an implicit agreement: search engines could index our content because they sent users back to our websites. That model helped sustain blogs, news sites, and even Open Source projects.
 
 AI companies broke that model. They train on our work and answer questions directly in their own interfaces, cutting creators out entirely. Anthropic's crawler reportedly makes [70,000 website requests for every single visitor it sends back](https://blog.cloudflare.com/ai-search-crawl-refer-ratio-on-radar/). That is extraction, not exchange.
 
@@ -84,7 +82,7 @@ This would transform the dynamic from adversarial blocking to collaborative valu
 
 We built the [Open Web](https://dri.es/tag/open-web) to democratize access to knowledge and online publishing. AI advances this mission of democratizing knowledge. But we also need to ensure the people who write, record, code, and share that knowledge aren't left behind.
 
-The issue is not that AI exists. The problem is that we have not built economic systems to support the people and organizations that AI relies on. This affects independent bloggers, large media companies, and open source maintainers whose code and documentation train coding assistants.
+The issue is not that AI exists. The problem is that we have not built economic systems to support the people and organizations that AI relies on. This affects independent bloggers, large media companies, and Open Source maintainers whose code and documentation train coding assistants.
 
 Call me naive, but I believe AI companies want to work with content creators to solve this. Their challenge is that no scalable system exists to identify, contact, and pay millions of content creators.
 

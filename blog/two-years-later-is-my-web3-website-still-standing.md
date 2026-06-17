@@ -20,8 +20,6 @@ id: 5576
 
 # Two years later: is my Web3 website still standing?
 
-[image blog/web3-exploration schema=false]
-
 Two years ago, [I launched a simple Web3 website](https://dri.es/my-first-web3-webpage) using [IPFS](https://ipfs.io/) (InterPlanetary File System) and [ENS](https://ens.domains/) (Ethereum Name Service). Back then, Web3 tools were getting a lot of media attention and I wanted to try it out.
 
 Since I set up my Web3 website two years ago, I basically forgot about it. I didn't update it or pay attention to it for two years. But now that we hit the two-year mark, I'm curious: is my Web3 website still online?

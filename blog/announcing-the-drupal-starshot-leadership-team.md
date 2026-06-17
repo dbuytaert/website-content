@@ -18,8 +18,6 @@ id: 5616
 
 # Announcing the Drupal Starshot leadership team
 
-[image drupal/starshot-leadership schema=false]
-
 Although my blog has been quiet, a lot has happened with the [Drupal Starshot project](https://www.drupal.org/about/starshot) since [its announcement](https://dri.es/state-of-drupal-presentation-may-2024) a month ago. We provided an update in the [first Drupal Starshot virtual meeting](https://youtu.be/ELApwaOoyDM), which is available as a recording.
 
 Today, I am excited to introduce the newly formed Drupal Starshot leadership team.

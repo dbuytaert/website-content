@@ -11,13 +11,12 @@ tags:
   - Drupal
   - 'Drupal sites'
   - Education
+image: drupal/university-of-washington
 published: true
 id: 1866
 ---
 
 # University of Washington at Tacoma adopts Drupal
-
-[image drupal/university-of-washington]
 
 If you look at the source of [University of Washington at Tacoma](http://www.tacoma.uw.edu)'s new site, you'll immediately notice it's running [Drupal](https://www.drupal.org). What is not immediately apparent, however, is the path they took to get it in place.
 

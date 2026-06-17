@@ -10,12 +10,11 @@ type: blog
 tags:
   - Photography
   - Friends
+image: wedding-hans-and-evelien-2009/walking-to-the-altar
 published: true
 id: 641
 ---
 
 # Just married
-
-[image wedding-hans-and-evelien-2009/walking-to-the-altar]
 
 Hans and Evelien, some of my best friends, got married yesterday. More pictures are available in [my photo gallery](https://dri.es/album/wedding-hans-and-evelien-2009/). *Congratulations!*

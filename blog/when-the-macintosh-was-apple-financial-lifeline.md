@@ -16,6 +16,4 @@ id: 4346
 
 # When the Macintosh was Apple's financial lifeline
 
-[image blog/imac-financial-lifeline resize=false]
-
 I love this graph. It shows that for some time, Apple's primary source of revenue was the sale of the [Macintosh computer](https://en.wikipedia.org/wiki/Macintosh). The Macintosh provided Apple with a bridge between the desktop era and the mobile era, represented by the two clusters on the graph. That bridge was a financial lifeline. Without it, Apple might not have survived.

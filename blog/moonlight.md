@@ -9,10 +9,11 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Photography
+image: vinalhaven-2011/moonlight
 published: true
 id: 2486
 ---
 
 # Moonlight
 
-[image vinalhaven-2011/moonlight]
+

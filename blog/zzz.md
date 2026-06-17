@@ -12,10 +12,11 @@ tags:
   - Family
   - Self-portrait
   - Stan
+image: stan-2010/sleeping
 published: true
 id: 1611
 ---
 
 # Zzz
 
-[image stan-2010/sleeping]
+

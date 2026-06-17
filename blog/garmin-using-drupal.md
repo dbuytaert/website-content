@@ -10,12 +10,11 @@ type: blog
 tags:
   - Drupal
   - 'Drupal sites'
+image: drupal/garmin-dk
 published: true
 id: 2001
 ---
 
 # Garmin using Drupal
-
-[image drupal/garmin-dk]
 
 Garmin, the satellite navigation company, is using [Drupal](https://www.drupal.org) for their Danish site: <http://garmin.dk>.

@@ -11,10 +11,11 @@ tags:
   - Drupal
   - Barcamp
   - DrupalCon
+image: drupalcon-brussels-2006/sap-lounge-1
 published: true
 id: 149
 ---
 
 # SAP Lounge
 
-[image drupalcon-brussels-2006/sap-lounge-1]
+

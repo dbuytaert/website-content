@@ -10,13 +10,12 @@ type: blog
 tags:
   - Drupal
   - Birthday
+image: drupal/happy-eighth-birthday
 published: true
 id: 575
 ---
 
 # Happy eighth birthday Drupal
-
-[image drupal/happy-eighth-birthday]
 
 Today, eight years ago, Drupal 1.0.0 was released! The following snippet is taken directly from the original announcement:
 

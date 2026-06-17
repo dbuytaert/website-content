@@ -11,10 +11,11 @@ tags:
   - Photography
   - Humor
   - Family
+image: vars-2007/canon-lenses-are-broken
 published: true
 id: 246
 ---
 
 # Canon lenses are broken ...
 
-[image vars-2007/canon-lenses-are-broken]
+

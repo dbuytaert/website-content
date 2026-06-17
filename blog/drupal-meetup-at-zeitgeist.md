@@ -10,10 +10,11 @@ type: blog
 tags:
   - Drupal
   - 'San Francisco'
+image: san-francisco-2006/zeitgeist
 published: true
 id: 101
 ---
 
 # Drupal meet-up at Zeitgeist
 
-[image san-francisco-2006/zeitgeist]
+
