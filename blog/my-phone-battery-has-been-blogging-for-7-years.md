@@ -16,11 +16,11 @@ id: 5796
 
 # My phone's battery has been blogging for 7 years
 
-Seven years ago, I wrote a post about a tiny experiment: [publishing my phone's battery status to my website](https://dri.es/posting-my-phone-battery-status-to-my-site). The updates have quietly continued ever since, appearing at <https://dri.es/status>.
+Seven years ago, I wrote a post about a tiny experiment: [publishing my phone's battery status to my website](https://dri.es/posting-my-phone-battery-status-to-my-site). The updates have quietly continued ever since, appearing at <https://dri.es/sensors/phone>.
 
 Every 20 minutes or so, my phone sends its battery level and charging state to a REST endpoint on my Drupal site. The exact timing depends on iOS background scheduling, which has a mind of its own.
 
-For years, this lived quietly at <https://dri.es/status>. I never linked to it outside the [original blog post](https://dri.es/posting-my-phone-battery-status-to-my-site), so it felt like a forgotten corner of my site. Still working, but mostly invisible.
+For years, this lived quietly at <https://dri.es/sensors/phone>. I never linked to it outside the [original blog post](https://dri.es/posting-my-phone-battery-status-to-my-site), so it felt like a forgotten corner of my site. Still working, but mostly invisible.
 
 Despite its low profile, people still mention it occasionally after all this time. This prompted me to bring it into the light.
 

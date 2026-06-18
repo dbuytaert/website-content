@@ -25,4 +25,4 @@ id: 152
 
 - [Basement temperature monitor](https://dri.es/building-my-own-temperature-and-humidity-monitor) – Track the temperature and humidity in our basement. See the [live dashboard](https://dri.es/sensors/basement-belgium).
 
-- [Phone battery status](https://dri.es/posting-my-phone-battery-status-to-my-site) – Real-time display of my phone's battery level. See the [live battery status](https://dri.es/status).
+- [Phone battery status](https://dri.es/posting-my-phone-battery-status-to-my-site) – Real-time display of my phone's battery level. See the [live battery status](https://dri.es/sensors/phone).

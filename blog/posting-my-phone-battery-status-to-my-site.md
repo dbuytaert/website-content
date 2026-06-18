@@ -22,7 +22,7 @@ Earlier this month, [I uninstalled Facebook from my phone](https://dri.es/taking
 
 One thing that I like about Facebook and Twitter is how easy it is to share quick updates, especially from my phone. If I'm going to be serious about [POSSE](https://dri.es/to-pesos-or-to-posse), having a good iOS application that removes friction from the publishing process is important.
 
-I always wanted to learn some iOS development, so I decided to jump in and start building a basic iOS application to post notes and photos directly to my site. I've already made some progress; so far my iOS application shares the state of my phone battery at <https://dri.es/status>. This is what it looks like:
+I always wanted to learn some iOS development, so I decided to jump in and start building a basic iOS application to post notes and photos directly to my site. I've already made some progress; so far my iOS application shares the state of my phone battery at <https://dri.es/sensors/phone>. This is what it looks like:
 
 [image blog/phone-battery-status-2018 resize=false]
 

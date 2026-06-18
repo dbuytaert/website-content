@@ -39,6 +39,8 @@ But this shift is bigger than any one person or platform. There are tens of thou
 
 If you are feeling uncertain about where this is heading, you are not alone.
 
+<section class="note">This post is a companion to <a href="https://dri.es/ai-and-the-great-cms-unbundling">AI and the great CMS unbundling</a>. That post looks at AI's impact on <em>content management systems</em> and <em>digital experience platforms</em>. This one looks at the same unbundling pattern in the <em>digital agency market</em>.</section>
+
 ### Why I am writing this
 
 I am _not_ writing this to be an alarmist. I actually feel a mix of emotions. I am excited about the possibilities AI offers, but also concerned about the risks and uneasy about the speed and scale of change.

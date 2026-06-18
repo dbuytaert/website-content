@@ -19,9 +19,9 @@ id: 1
 
 My name is Dries Buytaert (he/him).
 
-I'm the Founder of [Drupal](https://drupal.org). Drupal is Open Source software for building websites and digital experiences. Currently, about 2% of all websites worldwide are built with Drupal. In the enterprise, that number is 1 out of 10 websites. Drupal is one of the largest and most active Open Source projects in the world. I've been working on Drupal for more than two decades, and continue to lead the project today as Drupal's Project Lead.
+I'm the Founder of [Drupal](https://drupal.org). Drupal is Open Source software for building websites and digital experiences. Currently, about 2% of all websites worldwide are built with Drupal. In the enterprise, that number is 1 out of 10 websites. Drupal is one of the largest and most active Open Source projects in the world. I've been working on Drupal for more than 25 years, and continue to lead the project today as Drupal's Project Lead.
 
-In 2007, I co-founded [Acquia](https://www.acquia.com), a SaaS company that helps organizations create, manage, and optimize digital customer experiences on Drupal. I currently serve as Executive Chair and have been on Acquia's board since the early days. Previously, I spent 18 years as Chief Technology Officer, later also serving as Chief Strategy Officer, and helped grow the company from zero to around 1,400 employees and more than $350 million in annual revenue.
+In 2007, I co-founded [Acquia](https://www.acquia.com), a SaaS company that helps organizations create, manage, and optimize digital customer experiences on Drupal. I currently serve as Executive Chair and have been on Acquia's board since the early days. Previously, I spent 18 years as Chief Technology Officer, later also serving as Chief Strategy Officer, and helped grow the company from zero to more than $350 million in annual revenue.
 
 I'm a [Young Global Leader](https://en.wikipedia.org/wiki/Young_Global_Leaders) at the [World Economic Forum](https://www.weforum.org/).
 
@@ -41,7 +41,7 @@ I really like building things; companies, software, and more. Creating and learn
 
 I love to read or study at least one hour a day. I study technology, financial markets, and more.
 
-I have a passion for photography. Take a look at [my photo stream](/photos) or [my photo albums](/albums).
+I have a passion for [photography](/photos).
 
 I also love travel and adventure, especially hiking and skiing. And no matter where an adventure takes me, food is often a key part of the trip. I consider travel and food an essential part of life and community.
 
