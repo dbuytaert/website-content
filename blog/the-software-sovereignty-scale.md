@@ -13,7 +13,6 @@ tags:
   - 'Open Source'
   - 'Digital sovereignty'
   - Drupal
-image: blog/software-sovereignty-scale
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_opensource-buyeurope-digitalsovereignty-share-7426955842232496128-nNvD' }
 published: true
@@ -22,6 +21,8 @@ id: 6091
 ---
 
 # The Software Sovereignty Scale
+
+[image blog/software-sovereignty-scale priority=true]
 
 "Buy European" is becoming Europe's rallying cry for digital sovereignty. The logic is intuitive: if you want independence from American technology, buy from European companies instead.
 

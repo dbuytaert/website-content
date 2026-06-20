@@ -93,7 +93,7 @@ GitLab streamlines and automates various steps of the contribution process. Chec
 
 Another way to accelerate innovation is to grow our capacity and attract more people to Drupal.
 
-The best way to attract new people to our community is by making [easy-to-use software that solves real world problems](https://dri.es/ockhams-razor-principle-of-content-management-systems).
+The best way to attract new people to our community is by making [easy-to-use software that solves real world problems](https://dri.es/occams-razor-principle-of-content-management-systems).
 
 Since [my previous DrupalCon keynote](https://dri.es/state-of-drupal-presentation-april-2022), I'm happy to report that we've made a lot of progress on our key initiatives. A few key highlights:
 

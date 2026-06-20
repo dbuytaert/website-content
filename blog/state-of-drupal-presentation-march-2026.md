@@ -13,7 +13,6 @@ tags:
   - DrupalCon
   - 'Artificial Intelligence'
   - Chicago
-image: drupalcon-chicago-2026/driesnote
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_i-just-blogged-my-latest-state-of-drupal-share-7443077046110576640-LiJA/' }
 published: true

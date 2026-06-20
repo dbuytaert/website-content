@@ -1,6 +1,6 @@
 ---
-url: 'https://dri.es/ockhams-razor-principle-of-content-management-systems'
-title: "The Ockham's Razor Principle of Content Management Systems"
+url: 'https://dri.es/occams-razor-principle-of-content-management-systems'
+title: "The Occam's Razor Principle of Content Management Systems"
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -16,11 +16,11 @@ featured: true
 id: 13
 ---
 
-# The Ockham's Razor Principle of Content Management Systems
+# The Occam's Razor Principle of Content Management Systems
 
 [Chris Messina](http://factoryjoe.com/blog/) wrote:
 
-> Firefox set a good model for the rest of the open source world when it infused simple, clean design into a very useful tool. \[...\] The core differentiator that will set one application above the rest or result in widespread adoption will be rooted in user experience, not in the number of features or power. \[...\] WordPress will continue its meteoric rise over more complicated and ugly applications like Drupal and Joomla!.
+> Firefox set a good model for the rest of the Open Source world when it infused simple, clean design into a very useful tool. \[...\] The core differentiator that will set one application above the rest or result in widespread adoption will be rooted in user experience, not in the number of features or power. \[...\] WordPress will continue its meteoric rise over more complicated and ugly applications like Drupal and Joomla!.
 
 Those who have read my [Drupal predictions for 2006](/drupal-predictions-for-2006) will know that I tend to agree with these statements. Here is what I wrote:
 
@@ -28,7 +28,7 @@ Those who have read my [Drupal predictions for 2006](/drupal-predictions-for-200
 
 I disagree with Chris' statement that functionality is secondary to aesthetics (see quote above). Maybe that is not what he meant, but clearly, form follows function and not the other way around. Drupal is growing because it offers critical functionality. WordPress is growing because it offers critical functionality. Read on for more.
 
-It is only when two systems offer the same same functionality (or just the required functionality to build a particular website) that the *Ockham's Razor Principle of Content Management Systems* kicks in (I made that up just now):
+It is only when two systems offer the same same functionality (or just the required functionality to build a particular website) that the *Occam's Razor Principle of Content Management Systems* kicks in (I made that up just now):
 
 <p class="pullquote">Given two functionally equivalent content management systems, the simplest one should be selected.</p>
 
@@ -36,7 +36,7 @@ It asserts that simplicity is preferred to complexity. Most people want to build
 
 Is Chris wrong when he says that simple, clean designs are key to success? He is not. Aesthetic designs are perceived as simpler to use and of better quality – whether they are or not. It is uncommon for people to be attracted by things that look ugly, but it is common for people to be attracted by things that look beautiful. Aesthetics drive adoption when there are no critical differentiators.
 
-For many people, Drupal's built-in forum functionality is not a critical differentiator to build a simple website. When it is not, WordPress is likely to be preferred because of Ockham's Razor. When forum functionality is critical to succeed building a particular website, Drupal is likely to be preferred because form follows function.
+For many people, Drupal's built-in forum functionality is not a critical differentiator to build a simple website. When it is not, WordPress is likely to be preferred because of Occam's Razor. When forum functionality is critical to succeed building a particular website, Drupal is likely to be preferred because form follows function.
 
 For long I focused, completely and utterly, on the aesthetics of Drupal's code, neglecting eye candy and ease of use. I spent days trying to do something better, with fewer lines of code and more elegant than elsewhere. The aesthetics of Drupal's clean code has attracted many developers, but has also given Drupal the reputation of being developer-centric and hard to use. Similarly, aesthetics of user interface design (as opposed to aesthetics of code) attract users and designers, and gives you the reputation of being user-friendly. I believe that Wordpress' nicely laid out user interfaces have been an important reason for its success.
 
