@@ -68,7 +68,7 @@ When multiple people or agents touch content, you need a CMS for coordination: r
 
 When many systems touch content, you need a CMS as the trusted source for content, permissions, workflows, and publishing controls. AI _around the CMS_ can coordinate work across tools, but it still depends on the CMS to know what content is approved, who can use it, and where it can go.
 
-In short, when many people and many systems are involved, the CMS becomes the critical control layer for people, agents, and systems working together. It gives people and agents a safe place to create and approve content, and gives other tools a trusted system they can read from, write to, and build on.
+In short, when many people and many systems are involved, the CMS becomes a critical control layer for people, agents, and systems working together. It gives people and agents a safe place to create and approve content, and gives other tools a trusted system they can read from, write to, and build on.
 
 ### The decision, by quadrant
 
@@ -76,13 +76,15 @@ In short, when many people and many systems are involved, the CMS becomes the cr
 
 This is the simplest case: one person, one system, and little coordination.
 
-If you are creating a new website quickly, an AI site builder may be the right tool. It can turn a prompt into a working site in an afternoon. In that case, a CMS may slow you down more than it helps. This is **1a** in the quadrant image: the job is to create, not to manage.
+If you are creating a new website quickly, an AI site builder may be the right tool. It can turn a prompt into a working site in an afternoon. In that case, a CMS may slow you down more than it helps. This is **1a** in the quadrant image.
 
 But one person does not always mean a CMS is unnecessary.
 
-My website has been around for more than twenty years. It has more than 1,500 blog posts and 10,000 photos. That is not just a website to create; it is a body of content to manage. Drupal helps me manage that content as structured content: content types, fields, taxonomy, media, revisions, URLs, and search.
+My website has been around for more than twenty years. It has more than 1,500 blog posts and 10,000 photos. That is not just a website to create; it is a body of content to manage.
 
-I would not move my site to a standalone AI site builder. But I do use an AI agent to work on it through Drupal: updating content, improving existing features, and building new ones. This is **1b** on the chart. AI helps with the execution work, while Drupal remains the control plane. This is the CMS unbundling at the smallest scale.
+I would not move my site to a standalone AI site builder. But I do use an AI agent to work on it through Drupal: updating content, improving existing features, and building new ones. 
+
+AI helps with the execution work, while the CMS remains the control plane. This is the CMS unbundling at the smallest scale, and is **1b** on the chart. 
 
 So use an AI builder when speed to a new site matters most. Use a CMS when the work is about managing a large or growing body of content over time: keeping it structured, consistent, reusable, and reliable.
 
