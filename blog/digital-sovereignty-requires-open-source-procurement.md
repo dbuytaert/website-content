@@ -1,6 +1,6 @@
 ---
-url: 'https://dri.es/funding-open-source-for-digital-sovereignty'
-title: 'Funding Open Source for Digital Sovereignty'
+url: 'https://dri.es/digital-sovereignty-requires-open-source-procurement'
+title: 'Digital Sovereignty requires Open Source procurement'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -21,7 +21,7 @@ featured: true
 id: 6066
 ---
 
-# Funding Open Source for Digital Sovereignty
+# Digital Sovereignty requires Open Source procurement
 
 As global tensions rise, governments are waking up to the fact that they've lost *digital sovereignty*. They depend on foreign companies that can change terms, cut off access, or be weaponized against them. A decision in Washington can disable services in Brussels overnight. 
 

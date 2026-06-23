@@ -127,7 +127,7 @@ Of course, copyleft projects with fewer independent contributors and less histor
 
 Moving from E to D is progress. Moving from D to C is what really matters. Above C, the scale highlights smaller but still important tradeoffs, so when governments choose a lower grade, they do so knowingly rather than unknowingly.
 
-An Open Source project that loses important funding often needs investment to remain viable. But unlike acquisition or relicensing, funding risk is largely within the EU's control through [government procurement](https://dri.es/funding-open-source-for-digital-sovereignty) and [public investment](https://dri.es/funding-open-source-like-public-infrastructure). 
+An Open Source project that loses important funding often needs investment to remain viable. But unlike acquisition or relicensing, funding risk is largely within the EU's control through [government procurement](https://dri.es/digital-sovereignty-requires-open-source-procurement) and [public investment](https://dri.es/funding-open-source-like-public-infrastructure). 
 
 ### Recommendation for the European Commission
 

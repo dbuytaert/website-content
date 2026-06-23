@@ -13,8 +13,10 @@ tags:
   - Acquia
   - Mautic
   - 'Open Source'
+  - Podcast
 image: acquia/acquia-acquires-mautic
 published: true
+featured: false
 id: 4846
 ---
 
