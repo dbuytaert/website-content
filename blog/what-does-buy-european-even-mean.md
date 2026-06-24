@@ -42,7 +42,7 @@ The forthcoming [Cloud and AI Development Act](https://www.eu-cloud-ai-act.com/)
 
 That said, while both are serious and welcome efforts, they are likely to solve only part of the problem.
 
-## 'Buy European' is a fragile concept
+### 'Buy European' is a fragile concept
 
 [Europe's 'Buy European' strategy](https://euobserver.com/203466/leaked-details-of-what-will-be-in-brussels-new-made-in-europe-rules/) is being built on two fragile foundations it hasn't yet explicitly addressed, and this could have disastrous implications in the cloud domain in particular.
 
@@ -76,7 +76,7 @@ A government running Open Source software on Amazon Web Services (AWS) in Europe
 
 Europe's sovereignty frameworks need to internalise this asymmetry. Structural sovereignty – the kind that survives change – requires open foundations that flow from licensing through the critical supply chains on which that software depends.
 
-## A call-to-action for the Cloud and AI Development Act
+### A call-to-action for the Cloud and AI Development Act
 
 CAIDA should not make the same mistakes as the Cloud Sovereignty Framework. It would be a mistake to simply extend a 'Buy European' checklist. The legislation should instead define what makes sovereignty durable.
 

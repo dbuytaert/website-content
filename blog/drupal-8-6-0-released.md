@@ -12,6 +12,7 @@ tags:
   - Drupal
 image: drupal/drupal-8-6-layout-builder
 published: true
+featured: false
 id: 4501
 ---
 
@@ -19,7 +20,7 @@ id: 4501
 
 Last night, we shipped Drupal 8.6.0! I firmly believe this is the most significant Drupal 8 release to date. It is significant because we made a lot of progress on [all twelve of Drupal 8 core's strategic initiatives](https://www.drupal.org/about/strategic-initiatives). As a result, Drupal 8.6 delivers a large number of improvements for content authors, evaluators, site builders and developers.
 
-## What is new for content authors?
+### What is new for content authors?
 
 For content authors, Drupal 8.6 adds support for "remote media types". This means you can now easily embed YouTube or Vimeo videos in your content.
 
@@ -33,7 +34,7 @@ Each initiative related to content authoring is making disciplined and steady pr
 
 [image drupal/top-requests-for-content-authors-2016 resize=false]
 
-## What is new for evaluators?
+### What is new for evaluators?
 
 Evaluators want an out-of-the-box experience that allows them to install and test drive Drupal in minutes. With Drupal 8.6, we have finally delivered on this need.
 
@@ -49,7 +50,7 @@ Last but not least, the download experience and evaluator documentation on Drupa
 
 With Drupal 8.6, you can download and install a fully functional Drupal demo application in less than two minutes. That is something to be very excited about.
 
-## What is new for developers?
+### What is new for developers?
 
 You can now upgrade a single-language Drupal 6 or Drupal 7 site to Drupal 8 using the built-in user interface. While we saw good progress on multilingual migrations, they will remain experimental as we work on the final gaps.
 
@@ -57,7 +58,7 @@ I recently wrote about our [progress in making Drupal an API-first platform](htt
 
 We also converted almost all of our tests from SimpleTest to [PHPUnit](https://phpunit.de); and we've added [Nightwatch.js](http://nightwatchjs.org) and [Prettier](https://prettier.io) for JavaScript developers. While Drupal 8 has extensive back-end test coverage, using PHPUnit and Nightwatch.js provides a more modern platform that will make Drupal more familiar to PHP and JavaScript developers.
 
-## Drupal 8 continues to hit its stride
+### Drupal 8 continues to hit its stride
 
 These are just some of the highlights that I'm most excited about. If you'd like to read more about Drupal 8.6.0, check out [the official release announcement](https://www.drupal.org/blog/drupal-8-6-0) and [important update information from the release notes](https://www.drupal.org/project/drupal/releases/8.6.0). The next couple of months, I will write up more detailed progress reports on initiatives that I didn't touch upon in this blog post.
 

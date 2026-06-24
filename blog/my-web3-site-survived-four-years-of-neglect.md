@@ -42,7 +42,7 @@ Today, half the services have shut down, restricted access, or pivoted entirely:
 
 Of the original services, [Pinata](https://pinata.cloud/) is still focused on IPFS. I logged in and my "Hello World" HTML file is still there. And [eth.limo](https://eth.limo/), the ENS gateway that lets anyone access `.eth` sites in a normal browser, still works.
 
-## Technically robust, commercially fragile
+### Technically robust, commercially fragile
 
 IPFS content exists only as long as someone chooses to host it. In 2022, my HTML file was pinned on Fleek, Pinata, Infura, and a friend's node. Today, it comes down to Pinata's free tier. My web3 page is hanging by a thread. 
 
@@ -62,7 +62,7 @@ I still love IPFS as a protocol and the ideas behind it. But it feels like the e
 
 I've written before about the idea of a [RAID for web content](https://dri.es/a-raid-for-web-content). Rather than relying on a single system, the goal is redundancy across multiple layers. I'd like to experiment more with IPFS and make it one of those layers.
 
-## Browser support got worse, not better
+### Browser support got worse, not better
 
 In 2022, mainstream browsers didn't support ENS or IPFS natively, except for [Brave](https://brave.com/). Brave included a built-in IPFS node that could resolve `ipfs://` and `ipns://` addresses directly.
 
@@ -72,7 +72,7 @@ Chrome, Firefox, and Safari still don't support ENS or IPFS natively. A [Firefox
 
 Today, the easiest way to visit a `.eth` site is still through a gateway like [eth.limo](https://eth.limo/). You append `.limo` to the ENS name and visit it in any browser. It works, but it's a centralized bridge to a decentralized system, which is a little ironic.
 
-## Gas fees dropped 99%
+### Gas fees dropped 99%
 
 Not everything got worse. In [my original post](https://dri.es/my-first-web3-webpage), I called out the cost of updating an ENS record as a major barrier. When content changes on IPFS, its hash changes too. To keep `dries.eth` pointing to the latest version, that new address has to be written to Ethereum, which costs gas.
 
@@ -88,7 +88,7 @@ Second, many applications migrated to Layer 2 networks. These are separate block
 
 The impact on ENS is dramatic. Just this month, ENS Labs [cancelled its planned Layer 2 blockchain called "Namechain"](https://www.theblock.co/post/388932/ens-labs-scraps-namechain-l2-shifts-ensv2-fully-ethereum-mainnet) because Ethereum's main network got so inexpensive that the Layer 2 became unnecessary. Nick Johnson, ENS co-founder and lead developer, noted that subsidizing 100% of all ENS transactions at current gas prices would cost about $10,000 per year.
 
-## A mixed scorecard
+### A mixed scorecard
 
 Four years in, the technology is better than ever but the market around it is worse. The IPFS protocol seems sound. ENS records are permanent. Gas fees have nearly vanished. But the commercial ecosystem for decentralized hosting has steadily thinned.
 

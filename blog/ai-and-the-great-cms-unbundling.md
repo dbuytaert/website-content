@@ -52,7 +52,7 @@ But AI should not be the final authority on what is correct, approved, compliant
 
 That is the real test for a CMS. Not whether AI can generate content or build a page, but whether your organization needs a control layer: roles, review, approvals, publishing states, revision history, and more.
 
-## How shared is your work?
+### How shared is your work?
 
 Two simple questions can help decide how much you need a CMS:
 1. How many people or agents create, review, and publish content?
