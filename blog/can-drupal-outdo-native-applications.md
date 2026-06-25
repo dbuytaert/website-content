@@ -23,13 +23,13 @@ I've made no secret of my interest in [the open web](https://dri.es/tag/open-web
 
 I'm not convinced. Native applications seem to be winning because they offer [a better user experience](https://dri.es/winning-back-the-open-web). So the question is: can open web applications, like those powered by [Drupal](https://www.drupal.org), ever match up to the user experience exemplified by native applications? In this blog post, I want to describe inversion of control, a technique now common in web applications and that could benefit Drupal's own user experience.
 
-### Native applications versus web applications
+## Native applications versus web applications
 
 Using a native application – for the first time – is usually a high-friction, low-performance experience because you need to download, install, and open the application (Android's streamed apps notwithstanding). Once installed, native applications offer unique access to smartphone capabilities such as hardware APIs (e.g. microphone, GPS, fingerprint sensors, camera), events such as push notifications, and gestures such as swipes and pinch-and-zoom. Unfortunately, most of these don't have corresponding APIs for web applications.
 
 A web application, on the other hand, is a low-friction experience upon opening it for the first time. While native applications can require a large amount of time to download initially, web applications usually don't have to be installed and launched. Nevertheless, web applications do incur the constraint of low performance when there is significant code weight or dozens of assets that have to be downloaded from the server. As such, one of the unique challenges facing web applications today is how to emulate a native user experience without the drawbacks that come with a closed, opaque, and proprietary ecosystem.
 
-### Inversion of control
+## Inversion of control
 
 In the spirit of open source, the Drupal Association invited experts from the wider front-end community to speak at DrupalCon New Orleans, including from Ember and Angular. [Ed Faulkner](https://www.drupal.org/u/ef4), a member of the [Ember](https://emberjs.com) core team and contributor to the [API-first initiative](https://dri.es/a-roadmap-for-making-drupal-more-api-first), delivered a [fascinating presentation](https://www.youtube.com/watch?v=O12qBp1lWUc) about how Drupal and Ember working in tandem can enrich the user experience.
 
@@ -39,9 +39,10 @@ Before the advent of JavaScript and AJAX, distinct states in web applications co
 
 Through inversion of control, JavaScript frameworks like Ember provide much more than seamless interactions and perceived performance enhancements; they also offer client-side storage and offline functionality when the client has no access to the server. As a result, inversion of control opens a door to other features requiring the empowerment of the client beyond just client-driven interactions. In fact, because the JavaScript code is run on a client such as a smartphone rather than on the server, it would be well-positioned to access other hardware APIs, like [near-field communication](https://w3c.github.io/web-nfc/), as web APIs become available.
 
-### Inversion of control in end user experiences
+## Inversion of control in end user experiences
 
-[image blog/inversion-of-control-animation resize=false]
+![A user clicks a teaser image, triggering a smooth transition to the full content page while changing the URL.](http://default/files/cache/blog/inversion-of-control-animation-640w.gif)
+*When a user clicks a teaser image on the homepage of an Ember-enhanced Drupal.com, the page seamlessly transitions into the full content page for that teaser, with the teaser image as a reference point, even though the URL changes.*
 
 In response to our [recent evaluation](https://dri.es/selecting-a-client-side-framework-for-drupal) of JavaScript frameworks and their compatibility with Drupal, Ed applied the inversion of control principle to [Drupal.com](https://www.drupal.com) using Ember. Ed's goal was to enhance Drupal.com's end user experience with Ember to make it more application-like, while also preserving Drupal's editorial and rendering capabilities as much as possible.
 
@@ -51,15 +52,16 @@ Rather than the progressively decoupled approach, which embeds JavaScript-driven
 
 These impressive interactions are possible using the Ember plugin [Liquid Fire](https://github.com/ember-animation/liquid-fire). Fewer than 20 lines of code were needed to build the animations in Ed's demo, much like how SDKs for native mobile applications provide easy-to-implement animations out of the box. Of course, Ember isn't the only tool capable of this kind of functionality. The [RefreshLess module](https://www.drupal.org/project/refreshless) for Drupal by [Wim Leers](https://www.drupal.org/u/wim-leers) (Acquia) also uses client-side control to enable navigating across pages with minimal server requests. Unfortunately, RefreshLess can't tap into Liquid Fire or other Ember plugins.
 
-### Inversion of control in editorial experiences
+## Inversion of control in editorial experiences
 
-[image blog/inversion-of-control-editor resize=false]
+![A content editor interface overlays a webpage, showing real-time updates with transitions and animations for an in-context preview.](http://default/files/cache/blog/inversion-of-control-editor-640w.gif)
+*In CardStack Editor, an editorial interface with transitions and animations is superimposed onto the content page in a manner similar to outside-in, and the editor benefits from an in-context, in-preview experience that updates in real time.*
 
 We can apply this principle of inversion of control not only to the end user experience but also to editorial experiences. The last demos in Ed's presentation depict [CardStack Editor](https://github.com/ef4/cardstack-editor), a fully decoupled Ember application that uses inversion of control to overlay an administrative interface to edit Drupal content, much like in-place editing.
 
 CardStack Editor communicates with Drupal's web services in order to retrieve and manipulate content to be edited, and in this example Drupal serves solely as a central content repository. This is why the [API-first initiative](https://dri.es/a-roadmap-for-making-drupal-more-api-first) is so important; it enables developers to use JavaScript frameworks to build application-like experiences on top of and backed by Drupal. And with the help of SDKs like [Waterwheel.js](https://github.com/acquia/waterwheel.js) (a native JavaScript library for interacting with Drupal's REST API), Drupal can become a preferred choice for JavaScript developers.
 
-### Inversion of control as the rule or exception?
+## Inversion of control as the rule or exception?
 
 Those of you following the [outside-in work](https://dri.es/drupal-8-2-now-with-more-outside-in) might have noticed some striking similarities between outside-in and the work Ed has been doing: both use inversion of control. The primary purpose of our outside-in interfaces is to provide for an in-context editing experience in which state changes take effect live before your eyes; hence the need for inversion of control.
 
@@ -71,7 +73,7 @@ In the longer term, client-side frameworks like Ember will allow us to build web
 
 In the meantime, I maintain my recommendation of (1) [progressive decoupling](https://dri.es/the-future-of-decoupled-drupal) as a means to begin exploring inversion of control and (2) a continued focus on the [API-first initiative](https://dri.es/a-roadmap-for-making-drupal-more-api-first) to enable application-like experiences to be developed on Drupal.
 
-### Conclusion
+## Conclusion
 
 I'm hopeful Drupal can exemplify how the [open web will ultimately succeed](https://dri.es/winning-back-the-open-web) over native applications and walled gardens. Through the API-first initiative, Drupal will provide the underpinnings for web and native applications. But is it enough?
 

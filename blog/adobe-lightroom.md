@@ -19,4 +19,4 @@ Nikon-buddy [Jeff Whatcott](http://jeffwhatcott.com) gave me a quick demonstrati
 
 I spent a couple hours [dabbling with Lightroom](https://dri.es/album/miscellaneous-2008/axl-and-karlijn) this morning, and I'm already in love with it. It is a lot easier than Photoshop CS which I've been struggling to master for years. Lightroom's sidebar widgets and workflow are simple yet powerful, and the non-destructive image editing and the smart saving please the engineer in me. *Thanks Jeff!*
 
-[image blog/lightroom]
+![](http://default/files/cache/blog/lightroom-640w.jpg)

@@ -17,4 +17,6 @@ id: 40
 
 # Italian shoe
 
+![A single worn-out shoe covered in sand lies abandoned on a wet beach.](http://default/files/cache/tuscany-2006/italian-shoe-640w.jpg)
+
 

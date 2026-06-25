@@ -23,4 +23,4 @@ Interesting tidbit: by participating in site discussions, users earn points that
 
 The site was built using Drupal 6 by [WebWise](https://webwiseone.com/).
 
-[image drupal/symantec-community]
+![Symantec community webpage discussing software delivery in Altiris, with forum topics, navigation links, and recent user comments.](http://default/files/cache/drupal/symantec-community-640w.jpg)

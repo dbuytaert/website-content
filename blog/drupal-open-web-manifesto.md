@@ -20,6 +20,8 @@ id: 5471
 
 # The Drupal Open Web Manifesto
 
+![Image displaying the text "Open Web Manifesto" on a montage of keynote slides discussing the Open Web.](http://default/files/cache/drupal/open-web-manifesto-640w.png)
+
 As the digital landscape evolves, it's crucial that we shape the future of the web to be open. The web should be accessible, safe, and available to all users without restrictions. Unfortunately, we can't guarantee that the web will remain open. It's something we actively need to pursue and uphold.
 
 Myself and many others have long advocated for an [Open Web](https://dri.es/tag/open-web), both within and outside of the [Drupal project](https://www.drupal.org/). I'm excited to share that Drupal is now taking a more formal position in support of the Open Web.

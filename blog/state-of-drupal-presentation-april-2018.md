@@ -20,35 +20,41 @@ id: 4296
 
 # State of Drupal presentation (April 2018)
 
-[image drupalcon-nashville-2018/cowboy-dries-at-drupalcon-nashville]
+![Lets grow Drupal together](http://default/files/cache/drupalcon-nashville-2018/lets-grow-drupal-together-640w.jpg)
+
+![Cowboy Dries at DrupalCon Nashville](http://default/files/cache/drupalcon-nashville-2018/cowboy-dries-at-drupalcon-nashville-640w.jpg)
+*&copy; <a href="https://www.flickr.com/photos/155787132@N07/">Yes Moon</a>*
 
 Last week, I shared my [State of Drupal presentation](https://dri.es/tag/state-of-drupal) at Drupalcon Nashville. In addition to [sharing my slides](https://dri.es/files/state-of-drupal-april-2018.pdf), I wanted to provide more information on how you can participate in the various initiatives presented in my keynote, such as growing Drupal adoption or evolving our community values and principles.
 
-### Drupal 8 update
+## Drupal 8 update
 
 During the first portion of my presentation, I provided an overview of Drupal 8 updates. Last month, the Drupal community celebrated an important milestone with the successful [release of Drupal 8.5](https://dri.es/drupal-8-5-0-released), which ships with improved features for content creators, site builders, and developers.
 
 Drupal 8 continues to gain momentum, as the number of Drupal 8 sites has grown 51 percent year-over-year:
 
-[image drupalcon-nashville-2018/drupal-8-site-growth]
+![Drupal 8 site growth](http://default/files/cache/drupalcon-nashville-2018/drupal-8-site-growth-640w.jpg)
+*This graph depicts the number of Drupal 8 sites built since April 2015. Last year there were 159,000 sites and this year there are 241,000 sites, representing a 51% increase year-over-year.*
 
 Drupal 8's module ecosystem is also maturing quickly, as 81 percent more Drupal 8 modules have become stable in the past year:
 
-[image drupalcon-nashville-2018/drupal-8-module-readiness]
+![Drupal 8 module readiness](http://default/files/cache/drupalcon-nashville-2018/drupal-8-module-readiness-640w.jpg)
+*This graph depicts the number of modules now stable since January 2016. This time last year there were 1,028 stable projects and this year there are 1,860 stable projects, representing an 81% increase year-over-year.*
 
 As you can see from the [Drupal 8 roadmap](https://www.drupal.org/core/roadmap), improving the ease of use for content creators remains our top priority:
 
-[image drupalcon-nashville-2018/drupal-8-roadmap]
+![Drupal 8 roadmap](http://default/files/cache/drupalcon-nashville-2018/drupal-8-roadmap-640w.jpg)
+*This roadmap depicts Drupal 8.5, 8.6, and 8.7+, along with a column for "wishlist" items that are not yet formally slotted. The contents of this roadmap can be found at <a href="https://www.drupal.org/core/roadmap">https://www.drupal.org/core/roadmap</a>.*
 
-### Four ways to grow Drupal adoption
+## Four ways to grow Drupal adoption
 
 Drupal 8 was released at the end of 2015, which means our community has had over two years of real-world experience with Drupal 8. It was time to take a step back and assess additional growth initiatives based on what we have learned so far.
 
 In an effort to better understand the biggest hurdles facing Drupal adoption, we interviewed over 150 individuals around the world that hold different roles within the community. We talked to Drupal front-end and back-end developers, contributors, trainers, agency owners, vendors that sell Drupal to customers, end users, and more. Based on their feedback, we established four goals to help accelerate Drupal adoption.
 
-[image drupalcon-nashville-2018/lets-grow-drupal-together]
+![Lets grow Drupal together](http://default/files/cache/drupalcon-nashville-2018/lets-grow-drupal-together-640w.jpg)
 
-#### Goal 1: Improve the technical evaluation process
+### Goal 1: Improve the technical evaluation process
 
 Matthew Grasmick recently completed an exercise in which he [assessed the technical evaluator experience of four different PHP frameworks](http://matthewgrasmick.com/compare-php-frameworks), and discovered that [Drupal required the most steps to install](https://www.youtube.com/watch?v=9E34hSVFE94). Having [a good technical evaluator experience is critical](https://dri.es/three-ways-we-can-improve-drupal-evaluator-experience), as it has a direct impact on adoption rates.
 
@@ -101,7 +107,7 @@ To improve the Drupal evaluation process, we've proposed the following initiativ
 
 To become involved with one of these initiatives, click on its "Issue link" in the table above. This will take you to Drupal.org, where you can contribute by sharing your ideas or lending your expertise to move an initiative forward.
 
-#### Goal 2: Improve the content creator experience
+### Goal 2: Improve the content creator experience
 
 Throughout the interview process, it became clear that ease of use is a feature now expected of all technology. For Drupal, this means improving the content creator experience through a modern administration user interface, drag-and-drop media management and page building, and improved site preview functionality.
 
@@ -109,7 +115,7 @@ The good news is that all of these features are already under development throug
 
 Most of these initiative teams meet weekly on [Drupal Slack](https://www.drupal.org/slack) (see the [meetings calendar](https://calendar.google.com/calendar/embed?src=happypunch.com_eq0e09s0kvcs7v5scdi8f8cm70%40group.calendar.google.com)), which gives community members an opportunity to meet team members, receive information on current goals and priorities, and volunteer to contribute code, testing, design, communications, and more.
 
-#### Goal 3: Improve the site builder experience
+### Goal 3: Improve the site builder experience
 
 Our research also showed that to improve the site builder experience, we should focus on improving the three following areas:
 
@@ -158,46 +164,47 @@ We plan to make all of these aspects easier for site builders through the follow
  </tr>
 </table>
 
-#### Goal 4: Promote Drupal to non-technical decision makers
+### Goal 4: Promote Drupal to non-technical decision makers
 
 The fourth initiative is unique as it will help our community to better communicate the value of Drupal to the non-technical decision makers. Today, marketing executives and content creators often influence the decision behind what CMS an organization will use. However, many of these individuals are not familiar with Drupal or are discouraged by the misconception that Drupal is primarily for developers.
 
 With these challenges in mind, the [Drupal Association](https://www.drupal.org/association) has launched the [Promote Drupal Initiative](https://www.drupal.org/promotedrupal). This initiative will include building stronger marketing and branding, demos, events, and public relations resources that digital agencies and local associations can use to promote Drupal. The Drupal Association has set a goal of fundraising $100,000 to support this initiative, including the hiring of a marketing coordinator.
 
-[image drupalcon-nashville-2018/54k-raised-for-the-promote-drupal-initiative]
+![$54k raised for the Promote Drupal initiative](http://default/files/cache/drupalcon-nashville-2018/54k-raised-for-the-promote-drupal-initiative-640w.jpg)
 
 Megan Sanicki and her team have already raised $54,000 from over 30 agencies and 5 individual sponsors in only 4 days. Clearly this initiative resonates with Drupal agencies. Please consider how you or your organization can contribute.
 
-### Fostering community with values and principles
+## Fostering community with values and principles
 
 This year at DrupalCon Nashville, over 3,000 people traveled to the Music City to collaborate, learn, and connect with one another. It's at events like DrupalCon where the impact of our community becomes tangible for many. It also serves as an important reminder that while Drupal has grown a great deal since the early days, the work needed to scale our community is never done.
 
 Prompted by feedback from our community, I have spent the past five months trying to better establish the [Drupal community's principles and values](https://dri.es/defining-drupal-values-and-principles). I have shared an "alpha" version of Drupal's values and principles at <https://www.drupal.org/about/values-and-principles>. As a next step, I will be drafting a charter for a new working group that will be responsible for maintaining and improving our values and principles. In the meantime, I invite every community member to provide feedback in [the issue queue of the Drupal governance project](https://www.drupal.org/project/issues/governance).
 
-[image drupal/values-and-principles-1-0-alpha]
+![Values and principles alpha](http://default/files/cache/drupal/values-and-principles-1-0-alpha-640w.jpg)
+*An overview of Drupal's values with supporting principles.*
 
 I believe that taking time to highlight community members that exemplify each principle can make the proposed framework more accessible. That is why it was very meaningful for me to spotlight three Drupal community members that demonstrate these principles.
 
-#### Principle 1: Optimize for Impact - Rebecca Pilcher
+### Principle 1: Optimize for Impact - Rebecca Pilcher
 
 Rebecca shares a remarkable story about Drupal's impact on her Type 1 diabetes diagnosis:
 
-[video TNatUGl9trE]
+https://www.youtube.com/watch?v=TNatUGl9trE
 
-#### Principle 5: Everyone has something to contribute - Mike Lamb
+### Principle 5: Everyone has something to contribute - Mike Lamb
 
 Mike explains why Pfizer contributes millions to Drupal:
 
-[video diP95t6dto0]
+https://www.youtube.com/watch?v=diP95t6dto0
 
-#### Principle 6: Choose to Lead - Mark Conroy
+### Principle 6: Choose to Lead - Mark Conroy
 
 Mark tells the story of his own Drupal journey, and how his experience inspired him to help other community members:
 
-[video aGNAPvBLvdE]
+https://www.youtube.com/watch?v=aGNAPvBLvdE
 
-### Watch the keynote or download my slides
+## Watch the keynote or download my slides
 
 In addition to the community spotlights, you can also watch a [recording of my keynote](https://www.youtube.com/watch?v=8HkOdpNT8Ec?start=1170) (starting at 19:25), or you can [download a copy of my slides](https://dri.es/files/state-of-drupal-april-2018.pdf) (164 MB).
 
-[video 8HkOdpNT8Ec]
+https://www.youtube.com/watch?v=8HkOdpNT8Ec

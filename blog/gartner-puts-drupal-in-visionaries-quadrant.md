@@ -19,9 +19,11 @@ id: 1151
 
 # Gartner puts Drupal in visionaries quadrant
 
+![Gartner Magic Quadrant chart from October 2009 evaluating social software for the workplace based on execution and vision.](http://default/files/images/drupal/gartner-magic-quadrant-social-software-workplace.jpg)
+
 A lot of Drupal people and organizations help promote [Drupal](https://www.drupal.org). At [Acquia](https://www.acquia.com), we also like to help with promoting Drupal. One of the things we've been doing since the inception of Acquia, is talking to analyst firms like Gartner, Forrester, and the 451group about Drupal, and all of Drupal's successes. Almost all of that work is carried out by Acquia's marketing people, but I've been in several analyst calls myself. Recently, [Gartner](http://www.gartner.com) has included Drupal into its Magic Quadrant reports, and was most recently promoted to the 'Visionaries' category in Gartner's *Magic Quadrant for Social Software in the Workplace*.
 
-[image drupal/gartner-magic-quadrant-social-software-workplace resize=false schema=false]
+![Gartner Magic Quadrant chart from October 2009 evaluating social software for the workplace based on execution and vision.](http://default/files/images/drupal/gartner-magic-quadrant-social-software-workplace.jpg)
 
 Last year, Gartner classified Drupal as a 'niche player', meaning Drupal does well in a segment of a market, but that we had limited ability to innovate or outperform competitors. In this year's report, which was released last week, Drupal was promoted to the 'visionaries' category right next to Google and other big players. According to Gartner, visionaries align with Gartner's view of how a market will evolve, but they have yet to deliver against that vision.
 

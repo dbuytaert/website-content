@@ -21,4 +21,4 @@ The main website of the [Electronic Frontier Foundation](https://www.eff.org/) (
 
 According to [Tim Jones](http://toneland.net), who helped with the implementation, the most interesting bit is the file-management. The EFF has thousands of PDFs spanning 15 years of legal cases to archive and organize. In the old site, these were just flat HTML links, so a big reason for the move to Drupal was to build a document management system. You can see it best on document-heavy pages like [the AT&amp;T case](https://www.eff.org/cases/att).
 
-[image drupal/eff]
+![A webpage from the Electronic Frontier Foundation featuring news, press releases, action alerts, and information on digital rights advocacy.](http://default/files/cache/drupal/eff-640w.jpg)

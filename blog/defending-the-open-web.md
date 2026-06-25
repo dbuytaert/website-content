@@ -19,9 +19,11 @@ id: 5111
 
 # Defending the Open Web
 
+![Jeremy Kaplan, Mitchell Baker, Dries Buytaert and Matt Mullenweg](http://default/files/cache/miscellaneous-2020/web-summit-panel-on-open-web-2020-640w.jpg)
+
 I recently had the opportunity to be on a panel at [Web Summit](https://en.wikipedia.org/wiki/Web_Summit) with [Mitchell Baker](https://www.mozilla.org/en-US/about/leadership/), the co-founder and CEO of Mozilla, and [Matt Mullenweg](https://ma.tt/about/), co-founder of WordPress and CEO of Automattic. We talked about the power of Open Source and the Open Web.
 
-[video qaIYdsy-Gb8]
+https://www.youtube.com/watch?v=qaIYdsy-Gb8
 
 In 2020, the threat to the web's openness has gained more mainstream awareness. Between [big tech hearings in U.S. Congress](https://www.washingtonpost.com/technology/2020/10/28/twitter-facebook-google-senate-hearing-live-updates/) and ongoing consumer data privacy issues, there are a lot of problems that need solving.
 

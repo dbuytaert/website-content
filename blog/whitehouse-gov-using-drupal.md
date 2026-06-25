@@ -21,7 +21,7 @@ id: 1146
 
 Big, exciting news! The flag ship website of the U.S. government, [Whitehouse.gov](http://whitehouse.gov), just relaunched on Drupal. This is a big day for [Drupal](https://www.drupal.org), and for Open Source in government, and something all of us in the community should be very proud of.
 
-[image drupal/whitehouse-gov]
+![Screenshot of the White House website featuring a weekly address by the President and information on health insurance reform.](http://default/files/cache/drupal/whitehouse-gov-640w.jpg)
 
 First of all, I think Drupal is a perfect match for President Barack Obama's push for an open and transparent government – Drupal provides a great mix of traditional web content management features and social features that enable open communication and participation. This combination is what we refer to as *social publishing* and is why so many people use Drupal. Furthermore, I think Drupal is a great fit in terms of President Barack Obama's desire to reduce cost and to act quickly. Drupal's flexibility and modularity enables organizations to build sites quickly at lower cost than most other systems. In other words, Drupal is a great match for the U.S. government.
 

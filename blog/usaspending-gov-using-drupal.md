@@ -21,4 +21,4 @@ Vivek Kundra, the CIO of the United States, unveiled the new [IT spending dashbo
 
 This is a fundamental change in the way government is going to be run, and it is great to see Drupal play a small role in that. *Great stuff!*
 
-[image drupal/it-usaspending-gov]
+![A government IT dashboard displaying federal agency investments, spending, and ratings, with a focus on the Department of Veterans Affairs.](http://default/files/cache/drupal/it-usaspending-gov-640w.jpg)

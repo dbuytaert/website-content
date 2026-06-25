@@ -17,6 +17,8 @@ id: 5386
 
 # Drupal's Project Browser empowers ambitious site builders
 
+![The Project Browser's logo, surrounded by smaller logos from projects.](http://default/files/cache/drupal/project-browser-640w.png)
+
 Last year in [my DrupalCon North America keynote](https://dri.es/state-of-drupal-presentation-april-2021), I proposed the [Project Browser Initiative for Drupal](https://www.drupal.org/about/core/strategic-initiatives/project-browser). Project Browser makes it easy for site builders to find and install Drupal modules without having to use the command line!
 
 Ever since, the initiative has been in full swing with work taking place on various fronts. Aside from building the browser itself, we are working on various other aspects to provide the best possible user experience: logos are being designed for the top Drupal.org projects, categories are being streamlined to make discovery more intuitive, and project descriptions are being improved for clarity. We are also defining various quality metrics to make sure Project Browser can easily surface the best projects. All combined, these efforts should make it a lot easier for end users to discover and install Drupal modules.
@@ -25,7 +27,7 @@ In the past 18 months, [Project Browser](https://www.drupal.org/project/project_
 
 Check out this video to see how it works:
 
-[video Pfoq_c_GydY]
+https://www.youtube.com/watch?v=Pfoq_c_GydY
 
 The Project Browser team would love for many people to [try out the latest beta](https://www.drupal.org/project/project_browser).
 

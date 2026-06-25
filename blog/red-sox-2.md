@@ -15,8 +15,8 @@ id: 1061
 
 # Red Sox
 
-[image beverly-farms-2009/boston-red-sox-1]
-[image beverly-farms-2009/boston-red-sox-2]
-[image beverly-farms-2009/boston-red-sox-3]
+![A packed stadium watches a Boston Red Sox game at Fenway Park, with players on the field and fans cheering.](http://default/files/cache/beverly-farms-2009/boston-red-sox-1-640w.jpg)
+![A large crowd of Boston Red Sox fans fills the stadium seats during a game at Fenway Park.](http://default/files/cache/beverly-farms-2009/boston-red-sox-2-640w.jpg)
+![A Boston Red Sox pitcher throws the ball as the batter prepares to swing, with the catcher and umpire behind.](http://default/files/cache/beverly-farms-2009/boston-red-sox-3-640w.jpg)
 
 Went to watch a Red Sox game at Fenway Park last night. *Fun!*

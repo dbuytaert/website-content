@@ -22,6 +22,6 @@ Either way, to start off the new year in style, I set out to make my first soup 
 
 Guess what? The soup was delicious. There might be a chef in me! ;-)
 
-[image cooking-2009/broccoli-cream-soup-1]
-[image cooking-2009/broccoli-cream-soup-2]
-[image cooking-2009/broccoli-cream-soup-3]
+![Chopped broccoli and leeks in bowls on a cutting board, with a knife nearby, prepared for cooking.](http://default/files/cache/cooking-2009/broccoli-cream-soup-1-640w.jpg)
+![Chopped broccoli, leeks, and onions in a pot, prepared for cooking broccoli cream soup.](http://default/files/cache/cooking-2009/broccoli-cream-soup-2-640w.jpg)
+![A large pot of broccoli cream soup cooking on a stovetop.](http://default/files/cache/cooking-2009/broccoli-cream-soup-3-640w.jpg)

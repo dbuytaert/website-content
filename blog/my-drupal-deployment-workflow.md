@@ -19,6 +19,8 @@ id: 5356
 
 # My Drupal deployment workflow
 
+![A screenshot of the Acquia Code Studio UI showing that some Composer packages have been updated.](http://default/files/cache/acquia/acquia-code-studio-automated-updates-640w.png)
+
 I wanted to outline the development and deployment workflow I use on [dri.es](https://dri.es/), my personal website.
 
 My site uses [Drupal](https://www.drupal.org/) (obviously) and runs on [Acquia Cloud](https://www.acquia.com/products/drupal-cloud/cloud-platform) (of course), but a lot of this is a best practice for any web application.
@@ -41,13 +43,15 @@ I manage my website's code and configuration in [Git](https://en.wikipedia.org/w
 This all might sound like a lot of work to set up, and it can be. For Acquia customers and partners, [Acquia Code Studio](https://youtu.be/f8llAAcj4U8) automates all the steps above. Acquia Code Studio is a fully managed CI/CD based on [Gitlab](https://gitlab.com/), with specific steps optimized for Drupal. In 20+ years of working on Drupal, it's my best [webops](https://en.wikipedia.org/wiki/Web_operations) workflow yet. It couldn't be easier.
 
 <div class="large">
-  [image acquia/acquia-code-studio-automated-tests resize=false]
+  ![A screenshot of the Acquia Code Studio UI showing some of the automated tests.](http://default/files/cache/acquia/acquia-code-studio-automated-tests-640w.png)
+*A screenshot of Acquia Code Studio showing the automated tests feature.*
 </div>
 
 Acquia Code Studio also takes care of automating dependency updates. Code Studio regularly checks if Drupal or any of its dependencies have a new release available. If there is a new release, it will run all the steps above. When *all* of the above tools pass, Acquia Code Studio can deploy new code to production with one click of a button.
 
 <div class="large">
-  [image acquia/acquia-code-studio-automated-updates resize=false]
+  ![A screenshot of the Acquia Code Studio UI showing that some Composer packages have been updated.](http://default/files/cache/acquia/acquia-code-studio-automated-updates-640w.png)
+*A screenshot of Acquia Code Studio showing the automated update feature.*
 </div>
 
 I love it!

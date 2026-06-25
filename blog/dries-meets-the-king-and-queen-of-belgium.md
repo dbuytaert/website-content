@@ -19,4 +19,4 @@ id: 3556
 
 A few weeks ago at Davos, I had the honor of meeting the [King and Queen of Belgium](https://www.monarchie.be/royal-family). VTM, the main commercial television station in Belgium, captured the moment for the evening news. Proof in the video below!
 
-[video GAwdkVG5CnI]
+https://www.youtube.com/watch?v=GAwdkVG5CnI

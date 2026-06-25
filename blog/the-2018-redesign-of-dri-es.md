@@ -18,6 +18,8 @@ id: 4546
 
 # The 2018 redesign of dri.es
 
+![2018 dri.es redesign](http://default/files/cache/blog/dries-redesign-2018-640w.png)
+
 In [1999](https://www.youtube.com/watch?v=rblt2EtFfC4), I decided to start dri.es (formally buytaert.net) as a place to blog, write, and deepen my thinking. While I ran other websites before dri.es, my blog is one of my longest running projects.
 
 Working on my site helps me relax, so it's not unusual for me to spend a few hours now and then making tweaks. This could include updating [my photo galleries](https://dri.es/photos), working on [more POSSE features](https://dri.es/my-posse-plan-for-evolving-my-site), fixing broken links, or upgrading to the latest version of Drupal.
@@ -25,7 +27,8 @@ Working on my site helps me relax, so it's not unusual for me to spend a few hou
 The past month, a collection of smaller updates have resulted in a new visual design for my site. If you are reading this post through an RSS aggregator or through my mailing list, consider checking out the new design on [dri.es](https://dri.es).
 
 <div class="large">
-  [image blog/dries-redesign-2018]
+  ![2018 dri.es redesign](http://default/files/cache/blog/dries-redesign-2018-640w.png)
+*Before \(left\) and after \(right\).*
 </div>
 
 The new dri.es may not win design awards, but will hopefully make it easier to consume the content. My design goals were the following:
@@ -35,7 +38,7 @@ The new dri.es may not win design awards, but will hopefully make it easier to c
 - Optimize the performance of my site
 - Give me more creative freedom
 
-### Improve readability of the content
+## Improve readability of the content
 
 To improve the readability of the content, I implemented various [usability best practices for spacing text and images](https://uxplanet.org/common-webpage-design-mistakes-59eed9831bd7).
 
@@ -43,11 +46,11 @@ I also adjusted the width of the main content area. For optimal readability, [yo
 
 Both the line width and the spacing changes should improve the readability.
 
-### Improve the discoverability of content
+## Improve the discoverability of content
 
 I also wanted to improve the discoverability of my content. I cover a wide range of topics on my blog: from [Drupal](https://dri.es/tag/drupal) and [Open Source](https://dri.es/tag/open-source) to [startups](https://dri.es/tag/startup-lessons), [investing](https://dri.es/tag/investing), [travel](https://dri.es/tag/travel), [photography](https://dri.es/tag/photography), and the [Open Web](https://dri.es/tag/open-web).  To help visitors understand what my site is about, I created a new navigation. The new [Topics](https://dri.es/topics)-page shows visitors a list of the main topics I write about. It's a small change, but it should help new visitors figure out what my site is about.
 
-### Optimize the performance of my site
+## Optimize the performance of my site
 
 Less noticeable is that the underlying HTML and CSS code is now entirely different. I'm still using [Drupal](https://www.drupal.org), of course, but I decided to rewrite my Drupal theme from scratch.
 
@@ -61,6 +64,6 @@ All this results in faster site performance. This is especially important for pe
 
 The new design also uses Flexbox and CSS Grid Layout – both are more modern CSS standards. The new design is fully supported in all main browsers: Chrome, Firefox, Safari and Edge. It is, however, not fully supported on Internet Explorer, which accounts for 3% of all my visitors. Internet Explorer users should still be able to read all content though.
 
-### Give me more creative freedom
+## Give me more creative freedom
 
 Last but not least, the new design provides me with a better foundation to build upon in subsequent updates. I wanted more flexibility for how to lay out images in my blog posts, highlight important snippets, and add a table of content on long posts. You can see all three in action in this post, assuming you're looking at this blog post on a larger screen.

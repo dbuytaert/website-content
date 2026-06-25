@@ -19,4 +19,4 @@ id: 289
 
 The German division of [Discovery Channel](https://en.wikipedia.org/wiki/Discovery_channel) used Drupal to launch their new community website at <http://discoveryclub.de/>. *Wunderbar!*
 
-[image drupal/discovery]
+![A Discovery Club webpage featuring videos, images of nature, animals, and exploration, with login and informational sections.](http://default/files/cache/drupal/discovery-640w.jpg)

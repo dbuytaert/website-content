@@ -20,4 +20,4 @@ Growing up my dad had a watch from [TAG Heuer](https://www.tagheuer.com). As a y
 
 TAG Heuer's new website integrates Drupal 8 with their existing Magento commerce platform to provide a better, more content-rich shopping experience. It is a nice example of the ["Content for Commerce"-opportunity](https://dri.es/content-and-commerce-a-big-opportunity-for-drupal) that I wrote about a month ago. Check it out at <https://www.tagheuer.com>!
 
-[image drupal/tag-heuer-using-drupal]
+![Close-up of a TAG Heuer Formula 1 watch with a NATO strap, featuring a promotional message and call-to-action.](http://default/files/cache/drupal/tag-heuer-using-drupal-640w.jpg)

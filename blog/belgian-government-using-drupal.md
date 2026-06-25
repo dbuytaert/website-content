@@ -19,6 +19,8 @@ id: 414
 
 # Belgian government using Drupal
 
+![A website promoting investment in Belgium, featuring regional opportunities, economic benefits, and government support for businesses.](http://default/files/cache/drupal/invest-belgium-640w.jpg)
+
 The Belgium government is using Drupal at <http://invest.belgium.be>.
 
 It is the website of "Only in Belgium", a campaign to promote companies to invest in the Belgian industry. The campaign, and the accompanying website, are being promoted in the media and on national television.

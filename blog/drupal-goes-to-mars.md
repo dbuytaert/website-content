@@ -26,4 +26,4 @@ Their main portal, [http://themis.asu.edu](http://themis.asu.edu/), features new
 
 Ever wanted to help explore Mars? No problem, <http://suggest.mars.asu.edu> is for you. On this Drupal site you can suggest places on Mars for scientists to photograph with the THEMIS camera aboard Mars Odyssey. The site shows you where Odyssey will be orbiting in the next week, and it integrates with Google Earth's desktop application and the Google Earth browser plugin to let you zoom around mars and choose a place to suggest. After it made the suggested photographs, it will send you an e-mail with a link, where you might be the first human to see that particular spot on mars in such detail. If that makes your inner geek jump up and down, make sure to read [their technical write-up](http://suggest.mars.asu.edu/node/1222). *Cool stuff!*
 
-[image drupal/mars-odyssey-themis]
+![Screenshot of the Mars Odyssey THEMIS website, featuring Mars images, news, exploration tools, and a highlighted crater image.](http://default/files/cache/drupal/mars-odyssey-themis-640w.jpg)

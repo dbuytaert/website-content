@@ -23,4 +23,4 @@ While these are great tools, at the end of the day, NoSQL is an "and" and not a 
 
 Either way, have a look [Brian's NoSQL presentation](https://www.youtube.com/watch?v=LhnGarRsKnA). *It's funny!*
 
-[video LhnGarRsKnA]
+https://www.youtube.com/watch?v=LhnGarRsKnA

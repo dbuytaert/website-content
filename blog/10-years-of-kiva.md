@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/10-years-of-kiva'
-title: '10 years of Kiva '
+title: '10 years of Kiva'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -13,7 +13,7 @@ published: true
 id: 5281
 ---
 
-# 10 years of Kiva 
+# 10 years of Kiva
 
 Ten years ago, I joined [Kiva](https://www.kiva.org/), a platform for crowdfunding loans for the unbanked.
 

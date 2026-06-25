@@ -93,7 +93,7 @@ The Drupal community now has a range of web services modules available in core a
  </tbody>
 </table>
 
-### Core RESTful Web Services
+## Core RESTful Web Services
 
 Thanks to the [Web Services and Context Core Initiative](https://dri.es/the-future-is-a-restful-drupal) (WSCCI), Drupal 8 is now an out-of-the-box REST server with operations to create, read, update, and delete (CRUD) content entities such as nodes, users, taxonomy terms, and comments. The four primary REST modules in core are:
 
@@ -106,13 +106,13 @@ Core REST adheres strictly to REST principles in that resources directly match t
 
 While core REST provides a range of features with only a few steps of configuration there are several reasons why other options, available as contributed modules, may be a better choice. Limitations of core REST include the lack of [support for configuration entities](https://www.drupal.org/node/2300677) as well as the inability to include file attachments and revisions in response payloads. With your help, we can continue to improve and expand core's REST support.
 
-### RELAXed Web Services
+## RELAXed Web Services
 
 As I highlighted in my recent blog post about [improving Drupal's content workflow](https://dri.es/improving-drupal-content-workflow), [RELAXed Web Services](https://www.drupal.org/project/relaxed), is part of a larger [suite of modules](http://www.drupaldeploy.org/) handling content staging and deployment across environments. It is explicitly tied to the [CouchDB API specification](https://wiki.apache.org/couchdb/HTTP_Document_API), and when enabled, will yield a REST API that operates like the CouchDB REST API. This means that CouchDB integration with client-side libraries such as [PouchDB](https://pouchdb.com/) and [Hood.ie](http://hood.ie) makes possible offline-enabled Drupal, which synchronizes content once the client regains connectivity. Moreover, people new to Drupal with exposure to CouchDB will immediately understand the API, since there is robust documentation for the endpoints.
 
 RELAXed Web Services depends on core's REST modules and extends its functionality by adding support for translations, parent revisions (through the [Multiversion](https://www.drupal.org/project/multiversion) module), file attachments, and especially cross-environment UUID references, which make it possible to replicate content to Drupal sites or other CouchDB compatible services. UUID references and revisions are essential to resolving merge conflicts during the content staging process. I believe it would be great to support translations, parent revisions, file attachments, and UUID references in core's RESTful web services – we simply didn't get around to them in time for Drupal 8.0.0.
 
-### Services
+## Services
 
 Since RESTful Web Services are now incorporated into Drupal 8 core, relevant contributed modules have either been superseded or have gained new missions in the interest of extending existing core REST functionality. In the case of [Services](https://www.drupal.org/project/services), a popular Drupal 7 module for providing Drupal data to external applications, the module has evolved considerably for its upcoming Drupal 8 release.
 
@@ -120,7 +120,7 @@ With Services in Drupal 8 you can assign a custom name to your endpoint to disti
 
 At the time of this writing, the Drupal 8 version of Services module is not yet feature-complete: there is no test coverage, no content entity validation (when creating or modifying), no field access checking, and no CSRF protection, so caution is important when using Services in its current state, and contributions are greatly appreciated.
 
-### GraphQL
+## GraphQL
 
 GraphQL, originally created by Facebook to power its data fetching, is a query language that enables fewer queries and limits response bloat. Rather than tightly coupling responses with a predefined schema, [GraphQL](https://www.drupal.org/project/graphql) overturns this common practice by allowing for the client's request to explicitly tailor a response so that the client only receives what it needs: no more and no less. To accomplish this, client requests and server responses have a *shared shape*. It doesn't fall into the same category as the web services modules that expose a REST API and as such is absent from the table above.
 
@@ -130,7 +130,7 @@ Typical REST APIs tend to be static (or versioned, in many cases, e.g. `/api/v1`
 
 I'm very bullish on the potential for GraphQL, which I believe makes a lot of sense in core in the long term. I featured the project in [my Barcelona keynote](https://dri.es/state-of-drupal-presentation-september-2015) ([demo video](https://www.youtube.com/watch?v=ZjDYg6NrAys)), and [Acquia](https://www.acquia.com) also sponsored development of the [GraphQL module](https://www.drupal.org/project/graphql) (Drupal 8 only) following DrupalCon Barcelona. The GraphQL module, created by [Sebastian Siemssen](https://www.drupal.org/u/fubhy), now supports read queries, implements the GraphiQL query testing interface, and can be integrated with [Relay](https://facebook.github.io/relay/) (with some [limitations](https://www.drupal.org/node/2714803)).
 
-### Conclusion
+## Conclusion
 
 For most simple REST API use cases, core REST is adequate, but core REST can be insufficient for more complex use cases. Depending on your use case, you may need more off-the-shelf functionality without the need to write a resource plugin or custom code, such as support for configuration entity CRUD (Services); for revisions, file attachments, translations, and cross-environment UUIDs (RELAXed); or for client-driven queries (GraphQL).
 

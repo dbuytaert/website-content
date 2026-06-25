@@ -24,7 +24,7 @@ One thing that I like about Facebook and Twitter is how easy it is to share quic
 
 I always wanted to learn some iOS development, so I decided to jump in and start building a basic iOS application to post notes and photos directly to my site. I've already made some progress; so far my iOS application shares the state of my phone battery at <https://dri.es/sensors/phone>. This is what it looks like:
 
-[image blog/phone-battery-status-2018 resize=false]
+![My phone's battery level is 78% and it is unplugged](http://default/files/cache/blog/phone-battery-status-2018-640w.jpg)
 
 This was inspired by [Aaron Parecki](https://aaronparecki.com), who not only tracks his phone battery but also tracks [his sleep](https://aaronparecki.com/sleep), [his health patterns](https://aaronparecki.com/health) and [his diet](https://aaronparecki.com/ate). Talk about owning your own data and liking tacos!
 

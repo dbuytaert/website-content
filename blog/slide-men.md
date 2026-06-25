@@ -19,6 +19,6 @@ id: 1926
 
 # Slide men
 
-[image winchester-2010/slide-men-1]
-[image winchester-2010/slide-men-2]
-[image winchester-2010/slide-men-3]
+![Two men stand holding young children in their arms, looking in different directions near a fenced outdoor area.](http://default/files/cache/winchester-2010/slide-men-1-640w.jpg)
+![A man and a child slide down a large yellow slide together, with the child sitting on his lap.](http://default/files/cache/winchester-2010/slide-men-2-640w.jpg)
+![A man and a child slide down a large yellow slide together, both smiling and enjoying the ride.](http://default/files/cache/winchester-2010/slide-men-3-640w.jpg)

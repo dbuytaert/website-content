@@ -18,4 +18,6 @@ id: 241
 
 # James Walker
 
+![A man wearing a Drupal-themed shirt and Yahoo! lanyard talks on the phone while making a hand gesture.](http://default/files/cache/drupalcon-sunnyvale-2007/james-walker-640w.jpg)
+
 

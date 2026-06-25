@@ -22,4 +22,4 @@ Ozzy Osbourne, lead singer of Black Sabbath, man of tattoos, and bat-biting Prin
 
 The site was built by Sony BMG. To learn more about how Sony is using Drupal, listen to [this Lullabot podcast with Doug Gottlieb of Sony BMG](https://www.lullabot.com/audiocast/lullabot_podcast_no_39_doug_gottlieb_of_sony_bmg_records).
 
-[image drupal/ozzy-osbourne]
+![A website featuring Ozzy Osbourne with news, events, and photos related to his music and performances.](http://default/files/images/drupal/ozzy-osbourne.jpg)

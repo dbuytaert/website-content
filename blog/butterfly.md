@@ -17,4 +17,6 @@ id: 2516
 
 # Butterfly
 
+![A black and orange butterfly rests on the edge of a green leaf, with blurred plants in the background.](http://default/files/cache/miscellaneous-2011/butterfly-1-640w.jpg)
+
 

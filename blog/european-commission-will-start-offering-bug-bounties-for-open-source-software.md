@@ -18,6 +18,8 @@ id: 4726
 
 # European Commission will start offering bug bounties for Open Source software
 
+![An image of a shield with the Drupal mascot](http://default/files/cache/drupal/european-commission-drupal-security-bug-bounty-640w.jpg)
+
 The European Commission made an exciting announcement; it will be [awarding bug bounties to the security teams of Open Source software projects](https://juliareda.eu/2018/12/eu-fossa-bug-bounties/) that the European Commission relies on.
 
 If you are not familiar with the term, a *bug bounty* is a monetary prize awarded to people who discover and correctly report security issues.

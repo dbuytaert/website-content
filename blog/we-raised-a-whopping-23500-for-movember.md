@@ -19,13 +19,13 @@ id: 2011
 
 The Acquia team, of which I am a part, [raised a whopping $23,500 USD](https://www.acquia.com/blog/movember-and-power-community), and donations are still coming in. That puts us in the top 25 teams nationally. When we first started talking about doing a Movember campaign at [Acquia](https://www.acquia.com), no one would have thought we'd have the impact that we did since we conducted the program with a relatively small team. I continue to be amazed by what this team can do when we put our minds together to achieve something.
 
-[image movember-2010/acquia-team-collage]
+![A collage of Acquia team members with mustaches for Movember 2010, featuring the Drupal logo with a mustache.](http://default/files/cache/movember-2010/acquia-team-collage-640w.jpg)
 
 Myself, I raised a total of $699 for the team. When I wrote [my Movember announcement post](https://dri.es/movember-2010), I jokingly said that I'd humiliate myself publicly by posting pictures when I raised more than $500. While some people gave me money not to post any pictures, or to shave prematurely, I still owe it to many others to show the result of my mo' growing efforts. Pictures or it didn't happen.
 
-[image movember-2010/day-thirty-1]
-[image movember-2010/day-thirty-2]
+![Close-up of a man's face with a mustache, looking to the side.](http://default/files/cache/movember-2010/day-thirty-1-640w.jpg)
+![Close-up of a person's face showing a styled mustache grown for Movember, with a slight smile.](http://default/files/cache/movember-2010/day-thirty-2-640w.jpg)
 
 Of course, the real "thank you" should go to the many people that donated money to our cause. Thanks to them a significant amount of money will go to cancer awareness and research. *Thank you!*
 
-[video UMEwovj8bQg]
+https://www.youtube.com/watch?v=UMEwovj8bQg

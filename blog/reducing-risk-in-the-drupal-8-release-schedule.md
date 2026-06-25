@@ -30,7 +30,7 @@ There are essentially two categories of initiatives (both official and unofficia
 
 Therefore, the core committers plan to employ the following strategy when deciding what we do/don't commit to Drupal 8 going forward:
 
-[image drupal/commit-decision-flowchart no-resize no-resize]
+![A flowchart outlining the decision process for committing patches to Drupal 8 or postponing them to Drupal 9.](http://default/files/images/drupal/commit-decision-flowchart.jpg)
 
 First, a patch will be evaluated to see if it belongs to a larger "meta" issue. For the vast majority of issues in the Drupal 8 queue, the answer will be no. For example, routine bug fixes and self-contained DX (Developer Experience) improvements can simply be committed once they're ready.
 
@@ -50,6 +50,6 @@ If the patch is part of a larger, non-critical meta issue, but getting part of i
     
    If the work is ready *in its entirety* (i.e. working upgrade path, passing all core gates) by the cut-off date, it will be eligible for Drupal 8. However, if not ready in time, it will have to be postponed to Drupal 9. While this is definitely painful for teams that have worked so hard but yet still miss the deadline, it is preferable to delaying the Drupal 8 release indefinitely.
 
-### Summary
+## Summary
 
 The bottom line is that every patch we commit to Drupal 8 from now on has to help us get to a **shippable state**: it has to work, be performant (or be a *required* stepping stone towards more performant code), be well-documented and well-tested, and provide the right developer experience (DX). Getting Drupal 8 ready for release will take a big effort, and the core contributors could use all the help they can get. Now is the time to [jump in and help](https://www.drupal.org/community-initiatives/drupal-core).

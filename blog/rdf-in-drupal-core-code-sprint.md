@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/rdf-in-drupal-core-code-sprint'
-title: 'RDF in Drupal core code sprint '
+title: 'RDF in Drupal core code sprint'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -14,7 +14,7 @@ published: true
 id: 644
 ---
 
-# RDF in Drupal core code sprint 
+# RDF in Drupal core code sprint
 
 From May 11th to 14th, smart minds will be meeting in Galway, Ireland, to work on keeping Drupal a cutting edge technology. Drupal has a proud history of staying ahead of the curve in adopting or pioneering new technologies, and this has been a large contributing factor to Drupal's success. To stay ahead of the curve, continuous hard work is needed, and this is why the upcoming [RDF in Core code sprint](https://www.drupal.org/node/443824), sponsored by [DERI](http://www.deri.ie), is so important.
 

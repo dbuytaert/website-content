@@ -23,5 +23,5 @@ While that is great information to share, the article is overly sensational, foc
 
 Credit should be given where credit is due: Drupal's successes should be attributed to the Drupal community, of which I am just one part.
 
-[image drupal/de-morgen-1]
-[image drupal/de-morgen-2]
+![A newspaper article discusses the use of Drupal software in political campaigns, mentioning Hillary Clinton and Barack Obama.](http://default/files/cache/drupal/de-morgen-1-640w.jpg)
+![A close-up of a Dutch newspaper article discussing open-source software and its impact on business models.](http://default/files/cache/drupal/de-morgen-2-640w.jpg)

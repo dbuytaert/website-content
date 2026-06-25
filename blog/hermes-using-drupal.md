@@ -18,6 +18,8 @@ id: 4041
 
 # Hermès using Drupal
 
+![The Hermes website showing different pieces of clothing and fabrics to choose from.](http://default/files/cache/drupal/hermes-640w.gif)
+
 Since its founding in 1837, Hermès has defined luxury. Renowned as an iconic brand within the fashion industry, Hermès is now setting the trend for how customers shop online. This week, Hermès launched its new site in Drupal!
 
 Hermès married the abilities of Drupal as a CMS and Magento as a commerce engine to provide their customers with [highly engaging shopping experiences](https://dri.es/content-and-commerce-a-big-opportunity-for-drupal). Hermès' new site is a great example of how iconic brands can use Drupal to power [ambitious digital experiences](https://dri.es/drupal-is-for-ambitious-digital-experiences). If you are in the mood for some retail therapy, check out <https://www.hermes.com>!

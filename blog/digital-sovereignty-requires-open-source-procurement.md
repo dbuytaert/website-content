@@ -23,6 +23,8 @@ id: 6066
 
 # Digital Sovereignty requires Open Source procurement
 
+![One red cube stands out in a grid of gray cubes.](http://default/files/cache/blog/open-source-makers-and-takers-7-640w.jpg)
+
 As global tensions rise, governments are waking up to the fact that they've lost *digital sovereignty*. They depend on foreign companies that can change terms, cut off access, or be weaponized against them. A decision in Washington can disable services in Brussels overnight. 
 
 Last year, the [International Criminal Court ditched Microsoft 365](https://www.theregister.com/2025/10/31/international_criminal_court_ditches_office/) after a dispute over access to the chief prosecutor's email. Denmark's [Ministry of Digitalisation is moving to LibreOffice](https://www.computing.co.uk/news/2025/denmark-digital-ministry-drops-microsoft). And Germany's state of [Schleswig-Holstein is migrating 30,000 workstations off Microsoft](https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html).

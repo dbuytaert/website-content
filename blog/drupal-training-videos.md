@@ -19,7 +19,7 @@ id: 329
 
 [Hagen Graf](http://www.cocoate.com), author of a [German Drupal book](https://dri.es/german-addison-wesley-drupal-book), recently donated 700 EUR to the [Drupal Association](https://association.drupal.org). This money comes from a [German Drupal 5 training video](https://dri.es/drupal-5-training-video) that he made together with [Video2brain](https://www.video2brain.com/). For every copy they sold, 1.25 EUR was set aside for the Drupal Association, and over the course of six months, this added up to a 700 EUR donation.
 
-[image drupal/video2brain-2007-1]
+![DVD case for "Drupal 5" by Video2Brain, a guide to building and managing websites with the open-source CMS.](http://default/files/cache/drupal/video2brain-2007-1-640w.jpg)
 
 If you do the math, it is easy enough to figure out that they sold 600 copies in 6 months. So not only did they contribute 700 EUR to the Drupal Assocation, they also helped 600 Germans to get started with Drupal. *A double hit!*
 

@@ -25,4 +25,5 @@ On a related note, I successfully defended my PhD at the internal examination ye
 
 I personally thanked James on behalf of the Drupal community for Sun's continued support. *Thanks Sun!*
 
-[image blog/james-gosling]
+![A man with glasses and a beard smiling, wearing a black shirt, in an indoor setting.](http://default/files/cache/blog/james-gosling-640w.jpg)
+*James Gosling, the inventor of Java and Vice President at Sun Microsystems. &copy; Sun Microsystems.*

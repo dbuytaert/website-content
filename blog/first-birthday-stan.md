@@ -18,7 +18,7 @@ id: 1681
 
 # First birthday Stan
 
-[image stan-2010/stan-one-year]
-[image stan-2010/birthday-cake]
+![A baby wearing a colorful paper hat with "Stan 1 Jaar!" written on it, celebrating their first birthday.](http://default/files/cache/stan-2010/stan-one-year-640w.jpg)
+![A rectangular birthday cake with whipped cream, fresh fruit, and a pink plaque reading "Stan 1 Jaar" in chocolate writing.](http://default/files/cache/stan-2010/birthday-cake-640w.jpg)
 
 Happy first birthday, Stan!

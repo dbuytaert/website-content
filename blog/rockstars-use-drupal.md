@@ -19,6 +19,7 @@ id: 141
 
 [Moby](https://en.wikipedia.org/wiki/Moby) blogs with [Drupal](https://www.drupal.org/) at <https://moby.com/>.
 
-[image drupal/moby]
+![A man with closed eyes holds a clear astronaut-style helmet around his head in a desert landscape.](http://default/files/images/drupal/moby.jpg)
+*&copy; Moby.com*
 
 My favorite Moby song: [That's when I reach for my revolver](https://moby.com/discography/thats_when_i_reach_for_my_revolver.html).

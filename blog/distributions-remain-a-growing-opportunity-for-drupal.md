@@ -27,7 +27,7 @@ For more than 10 years, I've believed that [Drupal distributions are one of Drup
 
 To capture this opportunity we needed to (1) make distributions less costly to build and maintain and (2) make distributions more commercially interesting.
 
-### Making distributions easier to build
+## Making distributions easier to build
 
 Over the last 12 years we have evolved the underlying technology of Drupal distributions, making them even easier to build and maintain. We began working on distribution capabilities in 2004, when the CivicSpace Drupal 4.6 distribution was created to support Howard Dean's presidential campaign. Since then, every major Drupal release has advanced Drupal's distribution building capabilities.
 
@@ -47,7 +47,7 @@ More improvements are already in the works for future versions of Drupal. One pa
 
 The less effort it takes to build and maintain a distribution, the more distributions will emerge. The more distributions that emerge, the better Drupal can compete with a wide range of turnkey solutions in addition to new markets. Over the course of twelve years we have improved the underlying technology for building distributions, and we will continue to do so for years to come.
 
-### Making distributions commercially interesting
+## Making distributions commercially interesting
 
 In 2010, after having built a couple of distributions at Acquia, I used to joke that distributions are the "most expensive lead generation tool for professional services work". This is because monetizing a distribution is hard. Fortunately, we have made progress on making distributions more commercially viable.
 

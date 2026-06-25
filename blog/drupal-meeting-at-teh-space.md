@@ -17,4 +17,6 @@ id: 100
 
 # Drupal meeting at Teh Space
 
+![People working on laptops at a table with food and drinks in a shared workspace.](http://default/files/cache/san-francisco-2006/drupal-meeting-at-teh-space-640w.jpg)
+
 

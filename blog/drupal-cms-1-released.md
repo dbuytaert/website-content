@@ -22,6 +22,8 @@ id: 5741
 
 # Drupal CMS 1.0 released
 
+![Graphic with the text "Drupal CMS 1.0 released" next to the Drupal logo in bold colors.](http://default/files/cache/blog/drupal-cms-1-released-640w.png)
+
 We did it: Drupal CMS 1.0 is here! 🎉
 
 Eight months ago, I challenged our community to make Drupal easier for marketers, content creators, and site builders. Today, on Drupal's 24th birthday, we're making history with the launch of [Drupal CMS 1.0](https://drupal.org/drupal-cms).
@@ -35,7 +37,7 @@ To celebrate this milestone, more than [60 launch parties](https://www.drupal.or
 
 If you want to try Drupal CMS, you can start a free trial today at <https://www.drupal.org/drupal-cms/trial>.
 
-### Built for ambitious marketers
+## Built for ambitious marketers
 
 Drupal CMS targets organizations with ambitious digital goals, particularly in mid-market and enterprise settings. The platform provides a robust foundation that adapts and scales with evolving needs.
 
@@ -44,20 +46,21 @@ Organizations often hit a growth ceiling with non-Drupal CMS platforms. What sta
 Drupal CMS addresses this by including privacy and consent management tools by default. This not only simplifies setup but also sets a new standard for CMS platforms, promoting a better [Open Web](https://dri.es/tag/open-web) – one that prioritizes user privacy while helping organizations meet regulatory requirements.
 
 <div class="large">
-  [video tYQBh8N3QJU]
+  https://www.youtube.com/watch?v=tYQBh8N3QJU
 </div>
 
-### Recipes for success
+## Recipes for success
 
 The privacy and consent management feature is just one of many 'recipes' available in Drupal CMS. Recipes are pre-configured packages of features, like blogs, events, or case studies, that simplify and speed up site-building. Each recipe automatically installs the necessary modules, sets up content types, and applies configurations, reducing manual setup.
 
 This streamlined approach makes Drupal more accessible for beginners but also more efficient for experienced developers. Drupal CMS 1.0 launches with nearly 30 recipes included, many of which are applied by default to provide common functionality that most sites require. Recipes not applied by default are available as optional add-ons and can be applied either during setup or later through the new Project Browser. More recipes are already in development, with plans to release new versions of Drupal CMS throughout the year, each adding fresh recipes.
 
 <div class="large">
-  [image blog/drupal-cms-1-recipes]
+  ![Screenshot of the Drupal CMS installer showing some recipes enabled and others disabled.](http://default/files/cache/blog/drupal-cms-1-recipes-640w.png)
+*The Drupal CMS installer lets users choose from predefined 'recipes' like blog, events, case studies and more. Each recipe automatically downloads the required modules, sets up preconfigured content types, and applies the necessary configurations.*
 </div>
 
-### Pioneering the future, again
+## Pioneering the future, again
 
 Drupal CMS not only reduces costs and accelerates time to value with recipes but also stands out with innovative features like AI agents designed specifically for site building. While many platforms use AI primarily for content creation, our AI agents go further by enabling advanced tasks such as creating custom content types, configuring taxonomies, and more.
 
@@ -66,32 +69,33 @@ This kind of innovation really connects to Drupal's roots. In its early days, Dr
 Curious about what Drupal CMS' AI agents can do? Watch [Ivan Zugec's video](https://youtu.be/d77uudOXgiE) for a hands-on demonstration of how these tools simplify site-building tasks – even for expert developers.
 
 <div class="large">
-  [video d77uudOXgiE]
+  https://www.youtube.com/watch?v=d77uudOXgiE
 </div>
 
 We don't know exactly where AI agents will take us, but I'm excited to explore, learn, and grow. It feels like the early days when we experimented and boldly ventured into the unknown.
 
-### Changing perceptions and reaching more users
+## Changing perceptions and reaching more users
 
 Drupal has often been seen as complex, but Drupal CMS is designed to change that. Still, we know that simply creating a more user-friendly and easier-to-maintain product isn't enough. After 24 years, many people still hold outdated perceptions shaped by experiences from over a decade ago.
 
 Changing those perceptions takes time and deliberate effort. That is why the Drupal CMS initiative is focused not just on building software but also on repositioning and marketing Drupal in a way that highlights how much it has evolved.
 
 <div class="large">
-  [image blog/drupal-org-january-2025]
+  ![Screenshot of the Drupal.org homepage showcasing the updated brand with the tagline 'Create ambitious digital experiences,' presented in a bold and vibrant design.](http://default/files/cache/blog/drupal-org-january-2025-640w.png)
+*The new Drupal.org features a refreshed brand and updated messaging, positioning Drupal as a modern, composable CMS.*
 </div>
 
 To make this happen, [we've refreshed our brand](https://www.youtube.com/watch?v=bTJkZb3AV3U) and started reworking Drupal.org with the help of the [Drupal Association](https://www.drupal.org/association) and our [Drupal Certified Partners](https://www.drupal.org/drupal-services). The updated brand feels fresher, more modern, and more appealing to a larger audience.
 
 <div class="large">
-  [video 1wu1lz7DXDQ]
+  https://www.youtube.com/watch?v=1wu1lz7DXDQ
 </div>
 
 For the first time, the Drupal Association has hired two full-time product marketers to help communicate our message.
 
 Our goal is clear: to help people move past outdated perceptions and see Drupal for what it truly is – a powerful, modern platform for building websites that is becoming more user-friendly, as well as more affordable to use and maintain.
 
-### Achieving bold ambitions through collaboration
+## Achieving bold ambitions through collaboration
 
 Launching the Drupal CMS initiative was bold and ambitious, requiring extraordinary effort from our community – and they truly stepped up. It was ambitious because this initiative has been about much more than building a second version of Drupal. It's been a focused and comprehensive effort to expand our market, modernize our brand, accelerate innovation, expand our marketing, and reimagine our partner ecosystem.
 
@@ -101,7 +105,8 @@ A key success factor has been fostering closer collaboration among contributors,
 
 After just 8 months, the results speak for themselves. Drupal CMS has significantly increased the pace of innovation and the level of contributions to Drupal. It's a testament to what we can achieve when we work together. We've seen a 40% increase in contributor activity since the initiative launch, with over 2,000 commits from more than 300 contributors.
 
-[image blog/drupal-cms-1-credits]
+![Bar chart showing a steady increase in organization credits for strategic initiatives from 2019 to 2024, with a significant jump in 2024.](http://default/files/cache/blog/drupal-cms-1-credits-640w.png)
+*Drupal CMS has been a powerful catalyst for accelerating innovation and collaboration. Since development began in 2024, contributions have soared. Organization credits for strategic initiatives grew by 44% compared to 2023, with individual contributions increasing by 37%. The number of unique contributors rose by 12.5%, and participating organizations grew by 11.3%.*
 
 The initiative required me to make a significant time commitment I hadn't anticipated at the start of 2024 – but it's an experience I'm deeply grateful for. The Drupal CMS leadership team met at least twice a week, often more, to tackle challenges head-on. Similarly, I had weekly meetings with the Drupal Association.
 
@@ -109,19 +114,19 @@ Along the way we developed new working principles. One key principle was to solv
 
 The work we did together was intense, energizing, and occasionally filled with uncertainty about meeting our deadlines. We built strong bonds, learned to make quick, effective decisions, and maintained forward momentum. This experience has left me feeling more connected than ever to our shared mission.
 
-### The Drupal CMS roadmap for 2025
+## The Drupal CMS roadmap for 2025
 
 As exciting as this achievement is, some might ask if we've accomplished everything we set out to do. The answer is both yes and no. We've exceeded my expectations in collaboration and innovation, making incredible progress. But there is still much to do. In many ways, we're just getting started. We're less than one-third of the way through [our three-year product strategy](https://dri.es/introducing-drupal-starshot-product-strategy).
 
 <div class="large">
-  [video D7xBZSI0O5M]
+  https://www.youtube.com/watch?v=D7xBZSI0O5M
 </div>
 
 With Drupal CMS 1.0 released, 2025 is off to a strong start. Our roadmap for 2025 is clear: we'll launch [Experience Builder 1.0](https://www.drupal.org/about/starshot/initiatives/experience-builder), roll out more out-of-the-box recipes for marketers, improve our documentation, roll out our new brand to more parts of Drupal.org, and push forward with innovative experiments.
 
 Each step brings us closer to our goal: modernizing Drupal and making Drupal the go-to platform for marketers and developers who want to build ambitious digital experiences – all while championing the [Open Web](https://dri.es/tag/open-web).
 
-### Thank you, Drupal community
+## Thank you, Drupal community
 
 We built Drupal CMS in a truly Open Source way – collaboratively, transparently, and driven by community contributions – proving once again that Open Source is the best way to build software.
 

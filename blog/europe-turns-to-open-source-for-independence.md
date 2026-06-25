@@ -21,6 +21,8 @@ id: 6206
 
 # Europe turns to Open Source for independence
 
+![A red chess pawn set in a niche carved into a white cube, on a blue background.](http://default/files/cache/blog/open-source-makers-and-takers-8-640w.jpg)
+
 Today the European Commission released the [European Technological Sovereignty Package](https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy), a big push to reduce Europe's dependence on foreign technology.
 
 Earlier this year, the Commission ran a public consultation, and I contributed two articles to it: the [Software Sovereignty Scale](https://dri.es/the-software-sovereignty-scale) and a follow-up, [The Sovereignty Prerequisite](https://dri.es/the-sovereignty-prerequisite). 

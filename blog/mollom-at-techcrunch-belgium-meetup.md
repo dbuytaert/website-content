@@ -20,4 +20,5 @@ A couple of weeks ago we pitched [Mollom](https://mollom.com) at the TechCrunch 
 
 [Mike Butcher](http://mbites.com/) of [TechCrunch](http://techcrunch.com) was invited to cover the event as part of his [TechCrunch Euro Tour](https://techcrunch.com/2008/05/14/techcrunch-events-across-europe/). He just posted [his round-up of the event](https://techcrunch.com/2008/11/21/techcrunch-euro-tour-08-yes-even-belgium-has-startups/), titled ["Yes, even Belgium has startups"](https://techcrunch.com/2008/11/21/techcrunch-euro-tour-08-yes-even-belgium-has-startups/), and concluded his Mollom summary with the words: "I think this has long legs.". *Thanks Mike!*
 
-[image mollom/techcrunch-belgium]
+![](http://default/files/images/mollom/techcrunch-belgium.jpg)
+*&copy; <a href="http://www.creativeskills.be/">Bart Claeys</a>*

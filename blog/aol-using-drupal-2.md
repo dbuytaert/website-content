@@ -18,4 +18,6 @@ id: 398
 
 # AOL using Drupal
 
+![AOL Corporate webpage announcing the acquisition of Goowy Media and highlighting Black Voices content for Black History Month.](http://default/files/cache/drupal/aol-corporate-640w.jpg)
+
 We already knew that [AOL was using Drupal](https://dri.es/aol-using-drupal) for their [AOL Developer Network](https://dri.es/aol-using-drupal) at [http://dev.aol.com](http://dev.aol.com/). Turns out that AOL also started using Drupal for [their corporate information website](http://corp.aol.com) at <http://corp.aol.com>. Is AOL falling in love with Drupal?

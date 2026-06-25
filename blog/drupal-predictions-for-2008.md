@@ -22,7 +22,7 @@ But more than anything else, I enjoyed being part of the [Drupal community](http
 
 In good tradition, here are my Drupal predictions for the next year.
 
-### Growth predictions for 2008
+## Growth predictions for 2008
 
 First, let's predict Drupal's growth in 2008. The short answer is that Drupal will continue to grow more, not less.
 
@@ -34,7 +34,7 @@ What I care most about is not Drupal's growth, but that we will continue to demo
 
 The more you give away, the more you get back, and because of this, working on Drupal will continue to be a labor of love in 2008.
 
-### Market predictions for 2008
+## Market predictions for 2008
 
 We are still in a young market: there are [hundreds of Open Source CMSes](https://www.opensourcecms.com/), there is no real competition amongst them (*"We're all colleagues and friends!"*), not to mention we all benefit from what seems unwieldy growth. (Note that I'm talking about the Open Source CMS market, not the proprietary CMS market.)
 
@@ -44,11 +44,11 @@ The good news is that the Open Source CMS market becomes easier to shop in. The 
 
 Unless we manage to put more effort into (i) marketing, (ii) support, (iii) documentation and (iv) drupal.org this might turn out to be a tough battle for Drupal. Drupal.org will be our biggest challenge in 2008, and much of that will determine whether we'll be one of the "big three" Open Source CMSes at the end of 2008.
 
-### End-user predictions for 2008
+## End-user predictions for 2008
 
 From an end-user's point of view, 2008 will be characterized by the fact that we'll continue to give our users what they want. There will be a big and concentrated effort to further improve Drupal's ease of use. As a result, Drupal 7 will ship with one or two install profiles, many UI improvements, more AJAX, a basic WYSIWYG editor (or better WYSIWYG support), some wizards, and improved image and file handling. Yes, that is a lot.
 
-### Developer predictions for 2008
+## Developer predictions for 2008
 
 While we listen to our users in 2008, most of the excitement will be developer-centric.
 

@@ -20,6 +20,8 @@ id: 4156
 
 # My POSSE plan for evolving my site
 
+![Illustration of a website plan with a computer screen, user icons, books, and a calendar representing collaboration.](http://default/files/cache/blog/my-website-plan-640w.jpg)
+
 In an effort to [reclaim my blog as my thought space](https://dri.es/reclaiming-my-blog-as-my-thought-space) and [take back control over my data](https://dri.es/to-pesos-or-to-posse), I want to share how I plan to evolve [my website](https://dri.es). Given the incredible feedback on my previous blog posts, I want to continue the conversation and ask for feedback.
 
 First, I need to [find a way to combine longer blog posts and status updates](https://dri.es/reclaiming-my-blog-as-my-thought-space) on one site:

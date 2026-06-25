@@ -25,6 +25,8 @@ id: 5911
 
 # The Orchestration Shift
 
+![Abstract art of a figure surrounded by swirling blue energy and birds, symbolizing motion and orchestration.](http://default/files/cache/blog/orchestration-shift-640w.jpg)
+
 Last summer, I was building a small automation in [n8n](https://n8n.io/) when I came across [Activepieces](https://www.activepieces.com/). Both tools promise the same thing: connect your applications, automate your workflows, and host it yourself. But when I clicked through to [Activepieces' GitHub repo](https://github.com/activepieces/activepieces), I noticed it's released under the MIT license. Truly Open Source, not just [source-available](https://en.wikipedia.org/wiki/Source-available_software) like n8n.
 
 As I dug deeper into these tools, something crystallized for me: _business logic is moving out of individual applications and into the orchestration layer_. 
@@ -35,7 +37,7 @@ With orchestration tools maturing, this won't stay manual forever. That led me t
 
 This shift could change how we think about enterprise software architecture. For the last decade, we've talked about the "marketing technology stack" or "martech stack": collections of tools connected through rigid, point-to-point integrations. Orchestration changes this fundamentally. Instead of each tool integrating directly with others, an orchestration layer coordinates how they work together: the "martech stack" becomes a "martech network".
 
-### Why I invested in Activepieces
+## Why I invested in Activepieces
 
 I believe that in the next five to ten years, orchestration platforms like Activepieces are likely to become critical infrastructure in many organizations. If that happens, this shift needs Open Source infrastructure. Not only proprietary SaaS platforms or source-available licenses with commercial restrictions, but truly open infrastructure. 
 
@@ -49,7 +51,7 @@ A couple months later, [n8n raised over $240 million at a $2.5 billion valuation
 
 I invested not just money, but also time and effort. Over the summer, I worked with [Jürgen Haas](https://www.drupal.org/u/jurgenhaas) to create [a Drupal integration for Activepieces](https://www.activepieces.com/pieces/drupal) and the [orchestration module for Drupal](https://www.drupal.org/project/orchestration). Both shipped the week before DrupalCon Vienna, where I demonstrated them in [my opening keynote](https://dri.es/state-of-drupal-presentation-october-2025). 
 
-### How orchestration changes platforms
+## How orchestration changes platforms
 
 Consider what this means for platforms like [Drupal](https://www.drupal.org/), which I have led for more than two decades. Drupal has thousands of contributed modules that integrate with external services. But if orchestration tools begin offering those same integrations in a way that is easier and more powerful to use, we have to ask how Drupal's role should evolve.
 
@@ -61,7 +63,7 @@ Drupal can also learn architecturally from these orchestration platforms. Tools 
 
 We have seen similar shifts before. TCP/IP did not make telephones irrelevant; it changed where the intelligence lived. Phones became endpoints in a network defined by the protocol connecting them. Orchestration may follow a similar path, becoming the layer that coordinates how business systems work together.
 
-### Where orchestration is heading
+## Where orchestration is heading
 
 Today, orchestration platforms handle workflow automation: when X happens, do Y. Form submissions create CRM entries, send email notifications, post Slack updates. I demonstrated this pattern in [my DrupalCon Vienna keynote](https://dri.es/state-of-drupal-presentation-october-2025), showing how predefined workflows eliminate manual work and custom integration code.
 
@@ -71,7 +73,7 @@ Tools like Activepieces and protocols like the [Model Context Protocol](https://
 
 This shift makes the orchestration layer even more critical. It's not just connecting systems anymore; it's where business intelligence and decision-making will live.
 
-### Conclusion
+## Conclusion
 
 When I first clicked through to Activepieces' GitHub repo last summer, I was looking for a tool to automate a workflow. What I found was something bigger: a glimpse of how business software architecture is fundamentally changing. I've been thinking about it since.
 

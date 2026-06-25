@@ -16,5 +16,6 @@ id: 53
 
 # Carousel
 
-[image tuscany-2006/pink-bike]
-[image tuscany-2006/happy-horses]
+![A pink children's bike with training wheels is parked in front of a carousel where a girl is riding.](http://default/files/cache/tuscany-2006/pink-bike-640w.jpg)
+*Pink bike, pink girl.*
+![Carousel horses with colorful saddles and feathered headpieces stand in a row, surrounded by bright lights and flowers.](http://default/files/cache/tuscany-2006/happy-horses-640w.jpg)

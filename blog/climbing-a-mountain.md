@@ -16,4 +16,6 @@ id: 1076
 
 # Climbing a mountain
 
+![A group of seven Acquia leadership team members standing together outdoors, facing the camera.](http://default/files/cache/acquia/acquia-leadership-team-2009-640w.jpg)
+
 Growing is learning to climb bigger mountains, so at the latest Acquia Leadership Off-site, we decided to climb an actual mountain!

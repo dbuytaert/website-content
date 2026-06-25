@@ -19,6 +19,8 @@ id: 647
 
 # New York State Senate using Drupal
 
+![A town hall meeting in a large auditorium with a speaker at a podium addressing an audience and panelists.](http://default/files/cache/drupal/new-york-state-senate-640w.jpg)
+
 More proof that [Drupal and open government is a great match](https://dri.es/where-open-source-open-data-and-government-meet): the [New York State Senate](https://en.wikipedia.org/wiki/New_York_State_Senate) just relaunched its website on [Drupal](https://www.drupal.org) and there is a lot to like. Check out their new site at <http://www.nysenate.gov>.
 
 It is absolutely worth checking out; not only does it look great, it also illustrates how social publishing can help provide greater government transparency. Each State Senator can have a blog, Twitter integration and more. This enables citizens and lawmakers to directly and genuinely interact. In addition to that, the site enables people to view and comment on all pieces of legislation currently under consideration. All things combined, the site is a model for how governments can share and correspond with their stakeholders in an open and transparent way. Quite frankly, sites like this put many other governmental websites to shame.

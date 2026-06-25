@@ -18,6 +18,8 @@ id: 5551
 
 # Spicing up my blog: venturing into new topics
 
+![A cabinet displaying jars, each with a different interest inside: travel, photography, electronics, tennis, food, investing, coffee, and more.](http://default/files/cache/blog/interests-cabinet-640w.jpg)
+
 I recently added a new page to my website, which displays the [top 10 topics of each year](https://dri.es/topics-by-year). This page serves a dual purpose: it visualizes the evolution of my interests, and provides visitors with an overview of the core content of my site.
 
 As I stared at this new page, it became *very* obvious that my blog has maintained a consistent focus throughout the years. The top categories have not changed meaningfully in 18 years. The recurring themes include [Drupal](https://dri.es/tag/drupal), [Acquia](https://dri.es/tag/acquia), [Open Source](https://dri.es/tag/open-source), and [photography](https://dri.es/tag/photography). The latter, a long-term interest, has experienced ebbs and flows during this time.
@@ -25,7 +27,8 @@ As I stared at this new page, it became *very* obvious that my blog has maintain
 Just as having the same cereal each day can become boring – a fact my wife kindly reminds me of – covering the same topics for 18 years can lead to a certain "predictability". This realization sparked a desire to spice things up!
 
 <div class="large">
-  [image blog/interests-cabinet schema=false]
+  ![A cabinet displaying jars, each with a different interest inside: travel, photography, electronics, tennis, food, investing, coffee, and more.](http://default/files/cache/blog/interests-cabinet-640w.jpg)
+*A cabinet with all my interests.*
 </div>
 
 My blog history wouldn't suggest it, but I consider myself a person with many interests. Sometimes I have too many interests. As a result, I'm often drawn into various side projects – another fact my wife kindly reminds me of.

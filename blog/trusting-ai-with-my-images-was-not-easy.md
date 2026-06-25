@@ -25,19 +25,19 @@ What began as a simple task evolved into a four-part series where I [compared di
 
 But this final step was different. It wasn't about technology. It was about trust and letting things go.
 
-### My AI tool in action
+## My AI tool in action
 
 In my last blog post, I shared [scripts](https://github.com/dbuytaert/image-caption) to [automate `alt`-text generation for a single image](https://dri.es/automating-alt-text-generation-ai). The final step? Running my scripts on the 9,000 images missing `alt`-text. This covers over 20 years of images in [photo albums](https://dri.es/albums) and [blog posts](https://dri.es/blog).
 
 Here is my tool in action:
 
-[image blog/ai-generating-alt-text no-resize]
+![A terminal displays AI generating image descriptions, showing suggested title and alt-text for each photo that scrolls by.](http://default/files/cache/blog/ai-generating-alt-text-640w.gif)
 
 And yes, AI generated the `alt`-text for this GIF. AI describing AI, a recursion that should have ripped open the space-time continuum. Sadly, no portals appeared. At best, it might have triggered a stack overflow in a distant dimension. Meanwhile, I just did the evening dishes.
 
 ChatGPT-4o processed all 9,000 images at half a cent each, for less than $50 in total. And despite hammering their service for a couple days, I never hit a rate limit or error. Very impressive.
 
-### AI is better than me
+## AI is better than me
 
 Trusting a script to label 9,000 images made me nervous. What if mistakes in auto-generated descriptions made my website less accessible? What if future AI models trained on any mistakes?
 
@@ -49,7 +49,7 @@ Not just that. The LLM understood Japanese restaurant menus, decoded Hungarian t
 
 I was starting to understand this wasn't about AI's ability to describe images; it was about me accepting that AI often described them better than I could.
 
-### Conclusion
+## Conclusion
 
 AI isn't perfect, but it can be very useful. People worry about hallucinations and inaccuracy, and I did too. But after generating `alt`-text for 9,000 images, I saw something different: real, practical value.
 

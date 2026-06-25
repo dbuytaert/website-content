@@ -19,4 +19,6 @@ id: 490
 
 # First birthday Axl
 
+![A baby wearing a colorful birthday hat with "AXL" and the number one, sitting next to a smiling adult.](http://default/files/cache/miscellaneous-2008/axl-one-year-640w.jpg)
+
 Exactly one year after [he took his first breath](https://dri.es/axl-buytaert), [he got his first laptop](https://dri.es/album/miscellaneous-2008/axl-first-laptop) ...

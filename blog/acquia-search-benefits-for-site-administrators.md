@@ -37,6 +37,6 @@ Once you begin to use our search service you'll be able to disable Drupal's buil
 
 On the front-end, we made significant contributions to the [Apache Solr Search Integration modules on drupal.org](https://www.drupal.org/project/apachesolr). We helped add new features, improve the usability, and iron out a legion of bugs that cropped up during the beta period. The top-3 most active maintainers of the Apache Solr module are all Acquia employees, respectively Peter Wolanin, Robert Douglass, and Jacob Singh. As a result, Peter, Robert and Jacob are sometimes referred to as [Acquia's three Apache Solr Musketeers](http://coderamblings.com/story/hotties-drupal-planet).
 
-[image acquia/drupal-apache-solr-committers resize=false]
+![A table listing Apache Solr Search Integration committers, showing usernames, last commit time, first commit time, and total commits.](http://default/files/images/acquia/drupal-apache-solr-committers.jpg)
 
 All things combined, Acquia Search makes it staggeringly simple and low-cost to get better search on your site. You can get started in minutes and you don't have to worry about installing, upgrading, monitoring, or scaling the software. In short, we built an enterprise-quality, highly-available, secure, scalable, and fast indexing search solution that we believe Drupal was missing – especially for the enterprise.

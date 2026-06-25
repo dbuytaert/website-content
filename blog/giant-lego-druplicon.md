@@ -17,6 +17,8 @@ id: 2841
 
 # Giant Lego Druplicon
 
+![A man unwraps a large blue Lego Druplicon sculpture while a group of people watches in an office.](http://default/files/cache/acquia/lego-druplicon-5-640w.jpg)
+
 I'm proud to announce Acquia's newest member of the team, the LEGO Druplicon, courtesy of [DataFlow](https://www.ausy.be/) (now [ONE Agency](http://www.one-agency.be)). It all started on a hot August day at DrupalCon Munich. On that day, [I stopped by DataFlow's booth](https://twitter.com/ausybelgium/status/238297341524848640) to look at this amazing piece of art. Obviously I am a bit partial to the Druplicon and the innovative and creative ways people around the world are creating branding for Drupal.
 
 Little did I know some lucky DrupalCon attendee was going to win the Druplicon by guessing how many bricks DataFlow used to build it. After asking a couple of questions, such as "Is it a solid structure or hollow?", I entered my guess (along with 94 other Drupalists). My mathematical equation brought me to the answer of 12,222 blocks, which was 9 blocks over the correct number of 12,213. I won!
@@ -27,11 +29,11 @@ Unfortunately due to my travel schedule I wasn't able to open the crate for abou
 
 I'm happy to report that the 12,213 LEGO Drupalicon made it intact (just a few pieces came loose) due to the wonderful packing material of Belgian toilet paper! I probably don't have to buy toilet paper for a year now. :-)
 
-[image acquia/lego-druplicon-1] 
-[image acquia/lego-druplicon-2]
-[image acquia/lego-druplicon-3] 
-[image acquia/lego-druplicon-4] 
-[image acquia/lego-druplicon-5] 
-[image acquia/lego-druplicon-6]
+![A large wooden crate with "Fragile" and "This Way Up" signs taped to its side, placed indoors on a pallet.](http://default/files/cache/acquia/lego-druplicon-1-640w.jpg) 
+![A printed photo shows five people standing next to a Lego Druplicon sculpture, with handwritten event details around it.](http://default/files/cache/acquia/lego-druplicon-2-640w.jpg)
+![A man opens a large wooden crate labeled "Fragile" while a group of people watches in an office.](http://default/files/cache/acquia/lego-druplicon-3-640w.jpg) 
+![A man unwraps a large, black plastic-covered object from a wooden crate while others watch and take photos.](http://default/files/cache/acquia/lego-druplicon-4-640w.jpg) 
+![A man unwraps a large blue Lego Druplicon sculpture while a group of people watches in an office.](http://default/files/cache/acquia/lego-druplicon-5-640w.jpg) 
+![A large Lego sculpture of the Drupal logo sits on a table while a person adds blue bricks.](http://default/files/cache/acquia/lego-druplicon-6-640w.jpg)
 
 A huge thanks goes out to [DataFlow](https://www.ausy.be/) who spent the time replicating the Druplicon in LEGOs, as well as shipping it over the Atlantic. We are in the process of finding a permanent spot for it in the Acquia office, so it's on display for everyone to see.

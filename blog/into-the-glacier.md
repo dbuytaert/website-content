@@ -18,16 +18,18 @@ id: 5276
 
 # Into the glacier
 
+![A converted German missile launcher in front of the entrance of the glacier.](http://default/files/cache/iceland-winter-2021/into-the-glacier-1-640w.jpg)
+
 We rode in a converted German missile launcher over Langjökull, Iceland's second-largest glacier.
 
 The glacier is massive: 50 kilometers long, 20 kilometers wide, and the ice is up to 580 meter thick.
 
 <div class="large">
-  [image iceland-winter-2021/into-the-glacier-1]
+  ![A converted German missile launcher in front of the entrance of the glacier.](http://default/files/cache/iceland-winter-2021/into-the-glacier-1-640w.jpg)
 </div>
 
 Through a small entrance, we descended into a man-made tunnel. We walked through various tunnels and caves, and experienced blue ice deep inside the glacier.
 
 <div class="large">
-  [image iceland-winter-2021/into-the-glacier-3]
+  ![One of the tunnels in the glacier, lid with Christmas lights.](http://default/files/cache/iceland-winter-2021/into-the-glacier-3-640w.jpg)
 </div>

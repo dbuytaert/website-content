@@ -25,4 +25,5 @@ Last February, [Charlene Li](https://www.forrester.com/ER/Research/List/Analyst/
 
 More information is available at [Charlene Li's weblog](https://go.forrester.com/blogscharleneli/) where she wrote about [Forrester's blogging platforms evaluation](https://go.forrester.com/blogscharleneli/2006/06/forresters_blog.html). The figure below is taken from Charlene's blog:
 
-[image drupal/forrester-blogging-platform resize=false]
+![A chart comparing blogging platforms based on strategy and current offering, highlighting leaders like WordPress and Six Apart.](http://default/files/images/drupal/forrester-blogging-platform.jpg)
+*Source: <a href="http://blogs.forrester.com/charleneli/">Charlene Li's weblog</a>. &copy; Forrester Research.*

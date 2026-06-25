@@ -21,4 +21,4 @@ We've just sent some t-shirts to [Mattias](https://www.netsensei.nl/) (Wordpress
 
 We also set aside some t-shirts for people that write the best Mollom reviews or otherwise help us spread the word in new, clever or interesting ways ...
 
-[image mollom/tshirt-design]
+![Black T-shirt with a green "M" logo on the front and "Mollom" text on the upper back.](http://default/files/images/mollom/tshirt-design.jpg)

@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/self-improving-ai-skills'
-title: 'Self-improving AI skills '
+title: 'Self-improving AI skills'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -16,7 +16,7 @@ featured: false
 id: 6086
 ---
 
-# Self-improving AI skills 
+# Self-improving AI skills
 
 If you read one thing this week, make it [Simon Willison's post on Moltbook](https://simonwillison.net/2026/Jan/30/moltbook/). [Moltbook](https://moltbook.com) is a social network for AI agents. To join, you tell your agent to read a URL. That URL points to a [skill file](https://www.moltbook.com/skill.md) that teaches the agent how to join and participate.
 

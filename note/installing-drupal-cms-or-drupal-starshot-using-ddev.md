@@ -16,7 +16,7 @@ id: 5716
 
 # Installing Drupal CMS (or Drupal Starshot) using DDEV
 
-### Installation instructions for end users and testers
+## Installation instructions for end users and testers
 
 We will use [DDEV](https://ddev.com/) to setup and run [Drupal](https://www.drupal.org/) on your computer. DDEV handles all the complex configuration by providing pre-configured Docker containers for your web server, database, and other services.
 
@@ -34,7 +34,7 @@ $ ddev launch
 
 That's it! DDEV will automatically configure everything and open your new Drupal site in your default browser.
 
-### Installation instructions for contributors
+## Installation instructions for contributors
 
 If you plan to contribute to Drupal CMS development, set up your environment using Git to create merge requests and submit contributions to the project. If you're not contributing, this approach isn't recommended. Instead, follow the instructions provided above.
 

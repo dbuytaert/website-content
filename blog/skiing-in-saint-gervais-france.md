@@ -23,4 +23,4 @@ Last week, we went on a ski trip in Saint-Gervais, France. For the first time, A
 
 Our friends Alexis and Héloïse were also on the trip with us, and Alexis captured this short video one of the days. I love it. Thank you, [Alexis](https://www.herbosch-architects.com/)!
 
-[video Tmm-eUXyDaE]
+https://www.youtube.com/watch?v=Tmm-eUXyDaE

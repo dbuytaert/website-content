@@ -30,4 +30,4 @@ Another problem has been the historic challenges with drupal.jp. The anonymous o
 
 I returned from my trip feeling that the Japanese market offers a great opportunity for Drupal. Japan is the world's third-largest economy, after the United States and China. With continued leadership, Drupal could be huge in Japan. I'd love that, as I would like to go back and visit Japan again.
 
-[image japan-2014/japan-49]
+![A group of six people posing together in a restaurant, dressed in business and casual attire, wearing name tags.](http://default/files/cache/japan-2014/japan-49-640w.jpg)

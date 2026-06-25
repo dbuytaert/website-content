@@ -17,4 +17,6 @@ id: 667
 
 # Drupal book shelf
 
+![A bookshelf filled with various books about Drupal, including development, themes, and site-building guides.](http://default/files/cache/drupal/book-shelf-2009-640w.jpg)
+
 Earlier this morning, [a new Drupal book was delivered](https://twitter.com/Dries/status/2026992837) and I officially ran out of Drupal shelf space! Drupal books are now starting to threaten the books on my Enterprise Java shelf. ;-)

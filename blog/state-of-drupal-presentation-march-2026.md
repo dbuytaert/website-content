@@ -16,13 +16,13 @@ tags:
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_i-just-blogged-my-latest-state-of-drupal-share-7443077046110576640-LiJA/' }
 published: true
-featured: true
+featured: false
 id: 6146
 ---
 
 # State of Drupal presentation (March 2026)
 
-[video WQcCYMcWtOs]
+https://www.youtube.com/watch?v=WQcCYMcWtOs
 
 This year, Drupal turned 25. DrupalCon Chicago felt like the right place to mark that milestone. My keynote was part celebration and part wake-up call. I talked about Drupal's foundations, how AI is putting pressure on them, and why I believe we can rebuild them stronger than before.
 
@@ -30,21 +30,21 @@ If you missed the keynote, you can [watch the video below](https://youtu.be/WQcC
 
 It will be interesting to rewatch this keynote in 10 years, when AI is fully mainstream and has reshaped how we work, including our agencies, our craft, and how we collaborate in Open Source. It feels like a snapshot of an industry in transition.
 
-### Site templates and the marketplace
+## Site templates and the marketplace
 
-[video RExPXpjH3q4]
+https://www.youtube.com/watch?v=RExPXpjH3q4
 
 About a year ago at [DrupalCon Atlanta](https://dri.es/state-of-drupal-presentation-march-2025), I introduced the idea of [site templates](https://dri.es/exploring-a-marketplace-for-drupal-site-templates) and a marketplace to go with them. By [DrupalCon Vienna](https://dri.es/state-of-drupal-presentation-october-2025), we had one site template, but no marketplace.
 
 In Chicago, I showed eleven site templates available in a basic marketplace at [marketplace.drupal.org](https://marketplace.drupal.org/). All eleven can be installed directly from the [Drupal CMS installer](https://www.drupal.org/project/drupal_cms_installer/).
 
-### AI for site building
+## AI for site building
 
 For more than 20 years, Drupal's ecosystem has rested on a stable triangle: the platform itself, digital agencies who bring Drupal into the real world, and the community that builds and maintains it. That triangle has proven remarkably resilient through many waves of new technologies. 
 
 But what happens when AI disrupts all three sides at the same time? In my keynote, I showed how Drupal is responding.
 
-[video eQ_NcJHwYew]
+https://www.youtube.com/watch?v=eQ_NcJHwYew
 
 I started by showing a demo of a workflow I believe will become common for Drupal agencies. You quickly prototype a website with AI, then turn it into a Drupal site with the help of AI and a skilled developer, all within hours.
 
@@ -54,9 +54,9 @@ I believe Drupal has a unique advantage in this new world. Organizations will al
 
 The demo worked because Drupal CMS ships with [Drupal Canvas](https://www.drupal.org/project/canvas), which includes both CLI tools and AI skills. But the real strength comes from Drupal's foundations: its APIs, reusable building blocks, and mature architecture, refined over 25 years. This is the [accidental AI advantage](https://dri.es/why-drupal-is-built-for-the-ai-era) I have written about before.  This is what makes Drupal one of the best platforms for AI-driven development.
 
-[image drupalcon-chicago-2026/under-the-hood]
+![Front view of a car with a transparent hood revealing a Drupal engine. Labels point to features like governance, security, permissions, customizations, scalability, integrations, authoring, and compliance.](http://default/files/cache/drupalcon-chicago-2026/under-the-hood-640w.png)
 
-### AI for content management
+## AI for content management
 
 At [DrupalCon Vienna](https://dri.es/state-of-drupal-presentation-october-2025), I introduced the [Context Control Center](https://www.drupal.org/project/ai_context) as a rough prototype. Since then, we have added many features. It is now nearly production-ready.
 
@@ -66,7 +66,7 @@ In my keynote, I showed two demos of the Context Control Center in action. First
 
 Second, I showed a proof of concept for dynamic contexts, where the Context Control Center pulls in real-time data from Google Analytics to help improve content performance after publication.
 
-### Saying no to AI slop
+## Saying no to AI slop
 
 AI is lowering the barrier to contribute to Open Source projects like Drupal. On paper, that sounds great. More contributors, more patches, more momentum.
 
@@ -74,9 +74,9 @@ But it can also be a real challenge. The volume of contributions is going up whi
 
 If you're using AI to contribute, you are responsible for what you submit: [don't submit code you don't understand](https://dri.es/never-submit-code-you-do-not-understand). Our quality standards matter, and we will uphold them.
 
-### Our craft always evolves
+## Our craft always evolves
 
-[image drupalcon-chicago-2026/our-craft-always-evolves]
+![Slide with the text "Our craft always evolves".](http://default/files/cache/drupalcon-chicago-2026/our-craft-always-evolves-640w.png)
 
 In my keynote, I also told the stories of two community members who embraced AI in a meaningful way. 
 
@@ -86,7 +86,7 @@ And [Jürgen Haas](https://www.drupal.org/u/jurgenhaas), a longtime contributor 
 
 The world is being flooded with AI-generated average. Average is cheap now, but expertise remains hard-earned and valuable. This community has spent 25 years building it, and that is not something AI can replicate.
 
-[image drupalcon-vienna-2025/ai-is-the-storm]
+![A human in a space suit and a large cyborg stand side by side before a vast blue wave or cloud, stirred up by a mysterious technological behemoth on the horizon. The image includes the text: "AI is the storm, and the way through it."](http://default/files/cache/drupalcon-vienna-2025/ai-is-the-storm-640w.png)
 
 AI is the storm, and AI is the way through the storm. I said that first in Vienna. Six months later, I believe it more than ever. Not as a slogan, but as something I have watched happen. We need more people like Aidan and Jürgen. If you want to get involved, join us on [Drupal Slack](https://www.drupal.org/join-slack) or attend DrupalCon Rotterdam this fall.
 

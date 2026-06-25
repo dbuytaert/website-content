@@ -33,4 +33,4 @@ Acquia's growth is a testament to the growth of Drupal worldwide. Acquia wouldn'
 
 I plan to write more about the process of raising money, what it means to work for a venture backed start-up and lessons learned in starting a business in the Open Source world. If you have questions, feel free to ask them in the comments and I'll do my best to answer them.
 
-[image acquia/series-c-1]
+![](http://default/files/cache/acquia/series-c-1-640w.jpg)

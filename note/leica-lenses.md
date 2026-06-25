@@ -17,7 +17,7 @@ id: 5916
 
 I've been shooting with Leica M cameras for a few years. This page lists the lenses I use today and vintage lenses I would love to try.
 
-### Lenses I currently own
+## Lenses I currently own
 
 <table>
   <tr>
@@ -42,7 +42,7 @@ I've been shooting with Leica M cameras for a few years. This page lists the len
  </tr>
 </table>
 
-### Vintage lenses I'd love to try or buy
+## Vintage lenses I'd love to try or buy
 
 Lately, I've become more interested in vintage lenses than new ones.  Their way of handling light and color is softer and has more character than modern glass. My Noctilux showed me how much beauty there is in imperfection. These older lenses can be hard to find and often confusing to identify, so I'm keeping track of them here. 
 

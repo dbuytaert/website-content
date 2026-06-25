@@ -20,6 +20,8 @@ id: 5436
 
 # Why content management systems can outperform static site generators
 
+![A collage of screenshots displaying the websites of various static site generators, with prominent text emphasizing phrases such as 'fast page loads', 'peak performance', unparalleled speed', 'full speed', and more.](http://default/files/cache/blog/static-site-generators-are-fast-marketing-640w.png)
+
 One or two times a month I get the following question: <q>Why don't you just use a Static Site Generator (SSG) for your blog?</q>
 
 Well, I'm not gonna lie, being the founder and project lead of Drupal definitely plays a role in why I use Drupal for my website. Me not using Drupal would be like Coca-Cola's CEO drinking Pepsi, a baker settling for supermarket bread, or a cabinet builder furnishing their home entirely with IKEA. People would be confused.
@@ -29,7 +31,8 @@ Of course, if I wanted to use a static site, I could. Drupal is frequently used 
 The main reason I don't use a SSG is that I don't love their publishing workflow. It's slow. With Drupal, I can make edits, hit save, and immediately see the result. With a static site generator it becomes more complex. I have to commit Markdown to Git, rebuild my site, and push updates to a web server. I simply prefer the user-friendly authoring of Drupal.
 
 <div class="large">
-  [image blog/static-site-generators-are-fast-marketing resize=false]
+  ![A collage of screenshots displaying the websites of various static site generators, with prominent text emphasizing phrases such as 'fast page loads', 'peak performance', unparalleled speed', 'full speed', and more.](http://default/files/cache/blog/static-site-generators-are-fast-marketing-640w.png)
+*A collage of screenshots featuring different static site generators' websites, emphasizing their marketing messaging on performance.*
 </div>
 
 Proponents of static sites will be quick to point out that static sites are "much faster". Personally, I find that misleading. My Drupal-powered site, <https://dri.es/>, is faster than most static sites, including the official websites of leading static site generators.

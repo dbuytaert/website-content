@@ -18,4 +18,6 @@ id: 1161
 
 # Stan's first veggies
 
+![A baby with food on their face is being fed orange vegetable puree from a spoon.](http://default/files/cache/stan-2009/first-veggies-640w.jpg)
+
 

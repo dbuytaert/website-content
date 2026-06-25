@@ -17,4 +17,6 @@ id: 1627
 
 # Belgian breakfast
 
+![A plate of pastries, a basket of bread, and a glass of orange juice on a wooden table.](http://default/files/cache/miscellaneous-2010/belgian-breakfast-640w.jpg)
+
 This is what us Belgians have for breakfast on Sunday. Can you imagine? ;-)

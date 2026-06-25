@@ -18,15 +18,17 @@ id: 3931
 
 # Think beyond with Acquia Labs
 
-[image acquia/acquia-labs-space resize=false]
+![Workers install and adjust Acquia Labs signage on office walls in a timelapse sequence.](http://default/files/cache/acquia/acquia-labs-space-timelapse-640w.gif)
+
+![Acquia Labs logo on a dark background with white dots, creating a space-themed design.](http://default/files/cache/acquia/acquia-labs-space-640w.jpg)
 
 For most of the history of the web, the website has been the primary means of consuming content. These days, however, with the introduction of new channels each day, the website is increasingly the bare minimum. Digital experiences can mean anything from connected Internet of Things (IoT) devices, smartphones, chatbots, augmented and virtual reality headsets, and even so-called zero user interfaces which lack the traditional interaction patterns we're used to. More and more, brands are trying to reach customers through browserless experiences and [push-, not pull-based, content](https://dri.es/the-big-reverse-of-the-web) – often by not accessing the website at all.
 
 Last year, we launched a new initiative called [Acquia Labs](https://www.acquia.com/resources/acquia-labs), our research and innovation lab, part of the Office of the CTO. Acquia Labs aims to link together the new realities in our market, our customers' needs in coming years, and the goals of Acquia's products and open-source efforts in the long term. In this blog post, I'll update you on what we're working on at the moment, what motivates our lab, and how to work with us.
 
-[image acquia/acquia-labs-space-timelapse resize=false]
+![Workers install and adjust Acquia Labs signage on office walls in a timelapse sequence.](http://default/files/cache/acquia/acquia-labs-space-timelapse-640w.gif)
 
-### Alexa, ask GeorgiaGov
+## Alexa, ask GeorgiaGov
 
 One of the Acquia Labs' most exciting projects is our ongoing collaboration with [GeorgiaGov Interactive](https://digitalservices.georgia.gov/). Through an Amazon Echo integration with the [Georgia.gov Drupal website](https://georgia.gov/), citizens can ask their government questions. Georgia residents will be able to find out how to apply for a fishing license, transfer an out-of-state driver's license, and register to vote just by consulting Alexa, which will also respond with sample follow-up questions to help the user move forward. It's a good example of how conversational interfaces can change civic engagement. Our belief is that conversational content and commerce will come to define many of the interactions we have with brands.
 
@@ -36,9 +38,9 @@ And as a testament to the benefits of [innovation in open source](https://dri.es
 
 Here is a demo video showing an initial prototype of the Alexa integration:
 
-[video pZ-tBUdmzpo]
+https://www.youtube.com/watch?v=pZ-tBUdmzpo
 
-### Shopping with chatbots
+## Shopping with chatbots
 
 In addition to physical devices like the Amazon Echo, Acquia Labs has also been thinking about what is ahead for chatbots, another important component of the conversational web. Unlike in-home devices, chatbots are versatile because they can be used across multiple channels, whether on a native mobile application or a desktop website.
 
@@ -48,9 +50,9 @@ First, the user can use the chatbot to choose the best recipes from a list of re
 
 Check out our demo video, "Shopping with chatbots", below:
 
-[video n7XyB1BoDF4]
+https://www.youtube.com/watch?v=n7XyB1BoDF4
 
-### Collaborating with our customers
+## Collaborating with our customers
 
 Many innovation labs are able to work without outside influence or revenue targets by relying on funding from within the organization. But this can potentially create too much distance between the innovation lab and the needs of the organization's customers. Instead, Acquia Labs explores new ideas by working on jointly funded projects for our clients.
 

@@ -16,5 +16,6 @@ id: 1916
 
 # Toronto
 
-[image miscellaneous-2010/drupalcamp-toronto-2010-skyline]
-[image miscellaneous-2010/drupalcamp-toronto-2010-hotel-room]
+![Toronto skyline featuring the CN Tower, high-rise buildings, and boats on the waterfront under a clear blue sky.](http://default/files/cache/miscellaneous-2010/drupalcamp-toronto-2010-skyline-640w.jpg)
+![An unmade hotel bed with two pillows, a bedside lamp, and sunlight creating a bright stripe on the wall.](http://default/files/cache/miscellaneous-2010/drupalcamp-toronto-2010-hotel-room-640w.jpg)
+*My hotel room in Toronto. Liked the light.*

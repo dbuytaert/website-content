@@ -20,7 +20,7 @@ Our paper [Java Performance Evaluation through Rigorous Replay Compilation](http
 
 Good news because [OOPSLA](http://oopsla.org), which is short for *ACM conference on object-oriented programming, systems, languages, and applications* has incubated many state-of-the-art technologies, including design patterns, refactoring, aspect-oriented software development, dynamic compilation and optimization, the Unified Modeling Language, and more.
 
-### Paper abstract
+## Paper abstract
 
 A managed runtime environment, such as the Java virtual machine, is non-trivial to benchmark. Java performance is affected in various complex ways by the application and its input, as well as by the virtual machine (JIT optimizer, garbage collector, thread scheduler, etc.). In addition, non-determinism due to timer-based sampling for JIT optimization, thread scheduling, and various system effects further complicate the Java performance benchmarking process.
 

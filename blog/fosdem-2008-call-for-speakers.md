@@ -21,4 +21,4 @@ Mark your agendas because the [Drupal project](https://www.drupal.org) got a 200
 
 We will use the developer room to meet, discuss, and talk about Drupal. Right now, we're looking for speakers so let us know in the comments if you want to give a presentation. Alternatively, feel free to request presentation topics as well. [Joeri Poesen](http://symbiotix.net/) from [Krimson](http://krimson.be) is the lead schedule wrestler.
 
-[image blog/fosdem-2008-banner resize=false]
+![](http://default/files/images/blog/fosdem-2008-banner.jpg)

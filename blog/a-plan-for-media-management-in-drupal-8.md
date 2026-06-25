@@ -23,7 +23,7 @@ This was validated by my "State of Drupal 2016 survey" which 2,900 people partic
 
 This led me to propose a "media initiative" for Drupal 8 at DrupalCon New Orleans. Since then a dedicated group of people worked on [a plan for the Drupal 8 media initiative](https://www.drupal.org/node/2786785). I'm happy to share that we now have good alignment for that initiative. We want to provide extensible base functionality for media handling in core that supports the reuse of media assets, media browsing, and remote media, and that can be cleanly extended by contributed modules for various additional functionality and integrations. That is a mouthful so in this blog post, I'll discuss the problem we're trying to solve and how we hope to address that in Drupal 8.
 
-### Problem statement
+## Problem statement
 
 While Drupal core provides basic media capabilities, contributed modules have to be used to meet the media management requirements of most websites. These contributed modules are powerful – look at Drupal's massive adoption in the media and entertainment market – but they are also not without some challenges.
 
@@ -31,7 +31,7 @@ First, it is hard for end-users to figure out what combination of modules to use
 
 Second, the current situation is not ideal for module developers either. Competing solutions and architectures exist for how to store media data and how to display a library of the available media assets. The lack of standardization means that developers who build and maintain media-related modules must decide which of the competing approaches to integrate with, or spend time and effort integrating with all of them.
 
-### The current plan
+## The current plan
 
 In a way, Drupal's media management today is comparable to the [state of multilingual in Drupal 7](https://dri.es/multilingual-support-in-drupal-8); it took 22 or more contributed modules to make Drupal 7 truly multilingual and some of those provided conflicting solutions. Multilingual in Drupal 7 was challenging for both end-users and developers. We fixed that in Drupal 8 by adding a base layer of services in Drupal 8 core, while contributed modules still cover the more complex scenarios. That is exactly what we hope to do with media in a future version of Drupal 8.
 
@@ -41,9 +41,10 @@ In order to do so, we're introducing a media entity type which supports plugins 
 
 We consider this functionality to be the [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) for media in Drupal 8 core. The objective is to provide a simple media solution to make Drupal 8 easy to use out of the box for basic use cases. This would help users of sites large and small.
 
-[image drupal/media-library-prototype-2016]
+![A prototype of a media library interface with selectable image thumbnails and an "Insert Selected to Page" button.](http://default/files/cache/drupal/media-library-prototype-2016-640w.jpg)
+*A work-in-progress prototype of the proposed media library.*
 
-### Expected timeline and call for help
+## Expected timeline and call for help
 
 We believe this could be achieved in a relatively short time – to be included in Drupal 8.3 or Drupal 8.4 as [experimental modules](https://dri.es/the-transformation-of-drupal-8-for-continuous-innovation). To help make this happen, we are looking for organizations to help fund two dedicated code sprints. The existing contributors are doing an amazing job but dedicated in-person sprints would go a long way to make the plans actually happen. If you are willing to help fund this project, let me know! Looking to help with the implementation itself? The media team meets at 2pm UTC every Wednesday. I also recommend you follow [@drupalmedia](https://twitter.com/drupalmedia) for updates.
 

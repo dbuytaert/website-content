@@ -20,4 +20,4 @@ id: 1437
 
 General Motors is using Drupal for a social microsite over at <http://www.gmexpo2010.com>. *Cool!*
 
-[image drupal/general-motors-expo2010]
+![A webpage about General Motors at Expo 2010, featuring news, blogs, event highlights, and technological innovations.](http://default/files/cache/drupal/general-motors-expo2010-640w.jpg)

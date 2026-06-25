@@ -21,6 +21,6 @@ id: 402
 
 [Radio Donna](http://donna.be), a big Belgian radio station, relaunched using [Drupal](https://www.drupal.org). Check it out at <http://donna.be>.
 
-[image drupal/donna]
+![A man holding a microphone is featured on a radio station website with music, contests, and news sections.](http://default/files/cache/drupal/donna-640w.jpg)
 
 My favorite radio station, [Studio Brussel (StuBru)](http://stubru.be), was [already using Drupal](https://dri.es/studio-brussel-using-drupal).

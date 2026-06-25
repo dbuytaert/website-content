@@ -20,4 +20,4 @@ id: 459
 
 After [Belgian Prime Minister Yves Leterme](https://dri.es/belgian-prime-minister-using-drupal), Deputy Prime Minister [Joëlle Milquet](http://milquet.belgium.be/) also started using [Drupal](https://www.drupal.org). Check it out at <http://milquet.belgium.be>. More information in [this IT Professionals article](http://www.itprofessional.be/news.cfm?id=86397) (Dutch).
 
-[image drupal/joelle-milquet]
+![A government webpage featuring Joëlle Milquet, Vice Prime Minister and Minister of Employment and Equal Opportunities, with news updates.](http://default/files/cache/drupal/joelle-milquet-640w.jpg)

@@ -19,7 +19,7 @@ id: 366
 
 After my internal PhD defense next Thursday, [Michael Hind](https://dri.es/the-impact-of-multicore-architectures-on-software#biography) (a member of my PhD dissertation committee) will give a presentation about the impact of multicore architectures on software. [Feel free to attend](https://dri.es/the-impact-of-multicore-architectures-on-software#logistics)!
 
-### Abstract
+## Abstract
 
 Mainstream computer vendors have announced two dramatic changes in their future architectures. First, the clock speed and the amount of cache memory per processor will dramatically change. Namely, the exponential increase in clock frequency we've experienced over the past decades will cease to occur, and in some cases processor speeds will decrease. Also, the relative amount of cache memory for a processor will decrease. Second, there will be exponentially increasing number of processor cores on a chip.
 
@@ -30,10 +30,10 @@ These changes present two unprecedented challenges to the software stack:
 
 In his talk, Michael will argue why these challenges present great opportunities for software optimization and suggest some approaches to address these fundamental problems.
 
-### <a name="biography">Biography</a>
+## <a name="biography">Biography</a>
 
 Michael Hind received his Ph.D. from New York University in 1991. From 1992-1998, Michael was an assistant and associate professor of computer science at the State University of New York at New Paltz. In 1998, Michael became a Research Staff Member in the Software Technology Department at the IBM T.J. Watson Research Center, working on the Jalapeno project, the project that produced the open source Jikes RVM. In 2000, he became the manager of the Dynamic Optimization Group at IBM Research, and in 2007, became Senior Manager of the Programming Technologies Department at IBM Research. Michael is an associate editor of ACM TACO, has served on over a dozen program committees, given talks at top universities and conferences, and co-authored over 40 publications. His research interests include adaptive optimization, program analysis, and software optimizations for multicore processors.
 
-### <a name="logistics">Logistics</a>
+## <a name="logistics">Logistics</a>
 
 The presentation is free to attend for all. It starts at 14:00h on December 13th, and will take place at the Jozef Plateauzaal (Jozef Plateaustraat 22, 9000 Gent).

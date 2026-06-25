@@ -23,6 +23,6 @@ I embedded two of my favorite songs in this blog post. The first song (*Nobody's
 
 I've been a big fan of Anouk from day one, for more than 10 years, and still think she is one of the best European singers.
 
-[video 58mT8BSTxsI]
+https://www.youtube.com/watch?v=58mT8BSTxsI
 
-[video qFwVDnWqQ3Q]
+https://www.youtube.com/watch?v=qFwVDnWqQ3Q

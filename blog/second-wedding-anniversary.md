@@ -19,4 +19,6 @@ id: 418
 
 # Second wedding anniversary
 
+![A smiling couple embraces closely at a wedding celebration, looking happy and joyful.](http://default/files/cache/wedding-stefaan-and-anneleen-2008/marriage-21-640w.jpg)
+
 Today is our second wedding anniversary. I still have a crush on her. :)

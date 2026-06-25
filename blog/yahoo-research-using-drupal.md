@@ -21,4 +21,4 @@ Truth be told, between [trips to Yahoo!](https://dri.es/drupal-road-trip-san-fra
 
 Now if only we could get them to pay [Rasmus](http://lerdorf.com/bio.php) to work on Drupal core a bit. ;-)
 
-[image drupal/yahoo-research]
+![Yahoo! Research webpage with a banner stating "Inventing the Future of the Internet", featuring technology-related images and navigation links.](http://default/files/cache/drupal/yahoo-research-640w.jpg)

@@ -20,4 +20,4 @@ id: 560
 
 The French Ministry for Health, Youth and Sport launched a Drupal-based information portal for French youth: <http://www.jeunes.gouv.fr>. Building on the rapid adoption of [Drupal](https://www.drupal.org) by non-profit and advocacy groups, Drupal's use by governments just keeps increasing!
 
-[image drupal/jeunes-gouv-fr]
+![A French government website for young people with information on education, jobs, housing, health, and rights.](http://default/files/cache/drupal/jeunes-gouv-fr-640w.jpg)

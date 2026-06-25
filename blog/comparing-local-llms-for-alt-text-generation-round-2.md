@@ -21,6 +21,8 @@ id: 5816
 
 # Comparing local LLMs for alt-text generation, round 2
 
+![Areal view of an intersection, capturing the evening commute with pedestrians, traffic and electronic billboards.](http://default/files/cache/japan-2024/shibuya-crossing-640w.jpg)
+
 Four months ago, I [tested 10 local vision LLMs](https://dri.es/comparing-local-llms-for-alt-text-generation) and compared them against the top cloud models. *Vision models* can analyze images and describe their content, making them useful for `alt`-text generation.
 
 The result? The local models missed important details or introduced hallucinations. So [I switched to using cloud models](https://dri.es/automating-alt-text-generation-ai), which produced better results but meant sacrificing privacy and offline capability.
@@ -66,7 +68,7 @@ I decided to evaluate these models to see whether they've caught up to GPT-4 and
 </tbody>
 </table>
 
-### Updating my `alt`-text script
+## Updating my `alt`-text script
 
 For my earlier experiments, I created [an open-source script](https://github.com/dbuytaert/image-caption) that generates `alt`-text descriptions. The script is a Python wrapper around [Simon Willison's `llm` tool](https://github.com/simonw/llm), which provides a unified interface to LLMs. It supports models from Ollama, Hugging Face and various cloud providers.
 
@@ -89,7 +91,7 @@ Which outputs something like:
 }
 ```
 
-### Evaluating the models
+## Evaluating the models
 
 To keep the results consistent, I used the same test images and the same evaluation method as in [my earlier blog post](https://dri.es/comparing-local-llms-for-alt-text-generation#model-evaluation). The details results are in this [Google spreadsheet](https://docs.google.com/spreadsheets/d/1LttMys6cEkse6LrRZoznvDdvBiz_WkVyauNBFV2jIXg/edit).
 
@@ -97,10 +99,10 @@ Each `alt`-text was scored from 0 to 5 based on three criteria: how well it iden
 
 For comparison, the cloud models received the following scores: GPT-4o earned an average of 4.8 out of 5 (grade A), and Claude 3.5 Sonnet received a perfect 5 out of 5 (grade A).
 
-#### Test image 1: Shibuya Crossing, Tokyo
+### Test image 1: Shibuya Crossing, Tokyo
 
 <div class="large">
-  [image japan-2024/shibuya-crossing caption=false]
+  ![Areal view of an intersection, capturing the evening commute with pedestrians, traffic and electronic billboards.](http://default/files/cache/japan-2024/shibuya-crossing-640w.jpg)
 </div>
 
 <table>
@@ -132,10 +134,10 @@ For comparison, the cloud models received the following scores: GPT-4o earned an
 
 None earned an A because they failed to identify this as Shibuya Crossing in Tokyo, while cloud models do. Mistral also missed the billboards.
 
-#### Test image 2: Isabella Stewart Gardner Museum, Boston
+### Test image 2: Isabella Stewart Gardner Museum, Boston
 
 <div class="large">
-  [image miscellaneous-2023/isabella-stewart-gardner-museum caption=false]
+  ![An empty picture frame in a room with ornate wallpaper, candles, old paintings, and antique furniture.](http://default/files/cache/miscellaneous-2023/isabella-stewart-gardner-museum-640w.jpg)
 </div>
 
 <table>
@@ -167,10 +169,10 @@ None earned an A because they failed to identify this as Shibuya Crossing in Tok
 
 The vision models in my previous post often mistook the empty frame for a framed painting. All three models in this test correctly identified it as empty. Gemma and Qwen captured valuable details about the scene, while Mistral's description felt sparse.
 
-#### Test image 3: wakeboarding in Vermont, USA
+### Test image 3: wakeboarding in Vermont, USA
 
 <div class="large">
-  [image vermont-2024/wakeboarding caption=false]
+  ![Two men in swim shorts on the back of a boat watching another person wakeboarding behind the boat.](http://default/files/cache/vermont-2024/wakeboarding-640w.jpg)
 </div>
 
 <table>
@@ -202,10 +204,10 @@ The vision models in my previous post often mistook the empty frame for a framed
 
 All three described a wakeboarding scene as "water skiing", while the cloud models correctly identified it as wakeboarding.
 
-#### Test image 4: hiking in the Dolomites, Italy
+### Test image 4: hiking in the Dolomites, Italy
 
 <div class="large">
-  [image italy-2022/santa-maddalena-church-in-funes-2 caption=false]
+  ![Santa maddalena church in funes](http://default/files/cache/italy-2022/santa-maddalena-church-in-funes-2-640w.jpg)
 </div>
 
 <table>
@@ -237,10 +239,10 @@ All three described a wakeboarding scene as "water skiing", while the cloud mode
 
 Only Gemma recognized the statue as Mary. Both Mistral and Gemma missed the mountains in the background, which seems important.
 
-#### Test image 5: backgammon by candlelight
+### Test image 5: backgammon by candlelight
 
 <div class="large">
-  [image vermont-2023/backgammon-by-candlelight caption=false]
+  ![A backgammon board on a wooden table, accompanied by candles that cast a warm glow.](http://default/files/cache/vermont-2023/backgammon-by-candlelight-640w.jpg)
 </div>
 
 <table>
@@ -319,7 +321,7 @@ It was nice to say that all three LLMs avoided repetition and hallucinations, an
 
 Local models still make mistakes. All three described wakeboarding as "water skiing", most failed to recognize the statue as Mary or place the intersection in Japan. Cloud models get these details right, as I showed in [my previous blog post](https://dri.es/comparing-local-llms-for-alt-text-generation).
 
-### Conclusion
+## Conclusion
 
 I ran my original experiment four months ago, and at the time, none of the models I tested felt accurate enough for large-scale `alt`-text generation. Some, like Llama 3, showed promise but still fell short in overall quality.
 

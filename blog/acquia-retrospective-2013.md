@@ -33,7 +33,7 @@ The cloud continues to prove to be a great way for organizations to save money, 
 
 And the proof is in the numbers: Acquia Cloud grew from 4,300 AWS instances at the end of 2012 to 7,300 AWS instances at the end of 2013. In aggregate, we're now serving more than 22 billion hits a month or 319 TB of bandwidth. I believe that makes Acquia the largest Drupal infrastructure provider in the world. Some of the Acquia Cloud achievements I'm most proud of include hosting the [Grammy Awards](https://www.grammy.com/) (462 million visits) and hosting [Red Nose Day](https://dri.es/drupal-and-red-nose-day) during their largest fundraising event ever (£75 million/$113 million raised in one night).
 
-### Drupal community and Acquia
+## Drupal community and Acquia
 
 In 2013, we continued our long track record of giving back to the larger Drupal community.
 
@@ -46,7 +46,7 @@ In 2013, we continued our long track record of giving back to the larger Drupal 
 
 I'm particularly proud of Acquia's contributions to Drupal. It's part of our philosophy to give back, and we work hard to do our part by contributing to the Drupal community – the reason why we exist. I'm proud of this because it is not trivial to give back as much as we do.
 
-### Conclusion
+## Conclusion
 
 What I'm most proud of is that we have accomplished all of this "the open source way". Since Acquia's interests are so aligned with Drupal's, we try to raise the tide for the Drupal community at large.
 

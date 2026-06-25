@@ -20,4 +20,4 @@ id: 1417
 
 The [Symbian Foundation](http://symbian.org) is a non-profit organization that stewards the Symbian platform, an operating system for mobile phones and smartphones. The Symbian Foundation was founded by Nokia, Sony Ericsson, Motorola, Texas Instruments, Vodafone, LG Electronics, Samsung Electronics, STMicroelectronics and AT&amp;T. Today, [their website](http://symbian.org) runs [Drupal](https://www.drupal.org).
 
-[image drupal/symbian]
+![A stylized webpage promoting Symbian, featuring text about experiences, devices, and apps with hand-drawn illustrations and navigation links.](http://default/files/cache/drupal/symbian-640w.jpg)

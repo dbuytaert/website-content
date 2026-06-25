@@ -22,4 +22,4 @@ id: 223
 
 While it may not be the prettiest Drupal website, to me it is worth more than [MTV using Drupal](https://dri.es/mtv-using-drupal), [Sony using Drupal](https://dri.es/sony-using-drupal) and [PlayStation using Drupal](https://dri.es/playstation-using-drupal) together.
 
-[image drupal/kom-op-tegen-kanker resize=false]
+![A cancer awareness campaign webpage encouraging breast cancer screening with a slogan and a person holding a supportive sign.](http://default/files/images/drupal/kom-op-tegen-kanker.jpg)

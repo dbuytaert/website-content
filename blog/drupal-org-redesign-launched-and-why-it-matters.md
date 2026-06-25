@@ -30,4 +30,4 @@ It is truly a special moment in the history of Drupal. Not only did we complete 
 
 For all of this, I'd like to thank [everyone who has contributed](https://groups.drupal.org/redesign-acknowledgements) to the Drupal.org site redesign project. I'd like to thank everyone for listening, for being open to change, for contributing money and resources, and for doing what it takes to get the redesign launched. We have more work to do, of course. You can see [a list of issues](https://www.drupal.org/project/issues/search/redesign?issue_tags=drupal.org+redesign+qa) with which we need help. If you want to be part of the excitement – it's not too late. Still, I couldn't be more pleased with what we've done. *Go team!*
 
-[image drupal/drupal-org-redesign resize=false]
+![Drupal website homepage showcasing features, community benefits, and development resources with a search bar and navigation menu.](http://default/files/cache/drupal/drupal-org-redesign-640w.jpg)

@@ -19,6 +19,6 @@ id: 577
 
 Because [Drupal turned 8 years old](https://dri.es/happy-eighth-birthday-drupal) last week, I got the [Acquia team](https://www.acquia.com/about-us/team) a special birthday cake. Pictures have since emerged so I'm sharing a couple of them here. *Yum, yum!*
 
-[image acquia/happy-eighth-birthday-drupal-1]
-[image acquia/happy-eighth-birthday-drupal-2] 
-[image acquia/happy-eighth-birthday-drupal-3]
+![A blue birthday cake with "Happy Birthday Drupal" written in icing and a number 8 candle on top.](http://default/files/cache/acquia/happy-eighth-birthday-drupal-1-640w.jpg)
+![A group of people gathers in a conference room to celebrate Drupal's eighth birthday with a cake and video call.](http://default/files/cache/acquia/happy-eighth-birthday-drupal-2-640w.jpg) 
+![A person holds up a blue birthday cake with an "8" topper in front of a video projection of a smiling person.](http://default/files/cache/acquia/happy-eighth-birthday-drupal-3-640w.jpg)

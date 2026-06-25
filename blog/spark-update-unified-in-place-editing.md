@@ -31,7 +31,7 @@ Specifically, we need to address the following challenges:
 
 Here is a video showing what we'd like to propose for solving these problems in Drupal 8 core:
 
-[video evBpwxWPzPk]
+https://www.youtube.com/watch?v=evBpwxWPzPk
 
 We've now performed several rounds of internal usability testing on this functionality, and it has tested really well so far, with a high emotional value: in general, people can't believe this is Drupal. :-) Check out the prototype yourself at <https://projects.invisionapp.com/share/U2A4IAGX>.
 

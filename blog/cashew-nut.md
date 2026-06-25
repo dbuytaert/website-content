@@ -18,4 +18,6 @@ id: 224
 
 # Cashew nut
 
+![A single cashew nut rests on a person's bare stomach near their navel.](http://default/files/cache/miscellaneous-2007/cashew-nut-640w.jpg)
+
 

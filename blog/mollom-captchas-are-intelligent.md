@@ -23,4 +23,5 @@ Second, the [Mollom module for Drupal](https://www.drupal.org/project/mollom) ha
 
 This second difference between the [Mollom](https://mollom.com) and other CAPTCHA modules is, in fact, huge. When we analyze our server logs, we see that 20% of all correctly completed CAPTCHAs are submitted by known spammers. Spammers don't seem to solve CAPTCHAs algorithmically; instead, they persuade humans to solve CAPTCHAs for them by using botnet infected machines. Two blog posts that detail this process are [How to defeat Koobface](http://blog.threatexpert.com/2008/12/how-to-defeat-koobface.html) and [Breaking Koobface's CAPTCHA solving process](https://abuse.ch/?p=2330). As spammers evolve and their arsenal of tools become increasingly powerful, CAPTCHA solutions must keep up to remain effective. We believe Mollom's "intelligent CAPTCHA" processing represents a significant benefit from traditional CAPTCHA generation and is one way we'll continue to stay a step ahead in our goal to eliminate posting spam.
 
-[image mollom/mollom-drupal-protection-modes resize=false]
+![A Drupal module interface displaying Mollom protection modes for forms, including CAPTCHA and text analysis options.](http://default/files/images/mollom/mollom-drupal-protection-modes.jpg)
+*Different protection modes in the <a href="http://drupal.org/project/mollom">Drupal module for Mollom</a>.*

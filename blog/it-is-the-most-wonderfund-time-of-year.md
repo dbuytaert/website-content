@@ -17,6 +17,8 @@ id: 4676
 
 # It's the most 'Wonderfund' time of year
 
+![A large collection of colorful gift bags and boxes arranged for a holiday gift drive in an office space.](http://default/files/cache/acquia/gift-drive-2018-640w.jpg)
+
 Every December, [Acquia](https://www.acquia.com/) organizes a gift drive on behalf of the [Wonderfund](https://www.wonderfundma.org/). The gift drive supports children that otherwise wouldn't be receiving gifts this holiday season. This year, more than 120 Acquians collected presents for 205 children in Massachusetts.
 
 Acquia's annual gift drive always stands out as a heart warming and meaningful effort. It's a wonderful example of how Acquia is committed to "Give back more". Thank you to every Acquian who participated and for Wonderfund's continued partnership. *Happy Holidays!*

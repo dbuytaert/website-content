@@ -20,4 +20,4 @@ id: 601
 
 Ketnet is a public children's television channel in Belgium, owned and operated by the VRT, a public broadcaster. The [Ketnet site](http://ketnet.be) is using [Drupal](https://www.drupal.org)! *(Hat tip: Seutje)*
 
-[image drupal/ketnet]
+![The Ketnet website homepage features games, videos, and program guides with a winter-themed design and interactive elements.](http://default/files/cache/drupal/ketnet-640w.jpg)

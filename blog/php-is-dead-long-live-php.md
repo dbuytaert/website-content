@@ -17,8 +17,10 @@ id: 267
 
 People are getting increasingly worried about PHP5's adoption rate. And rightly so. PHP5 has been released more than two years ago. If you look at the adoption rate in the graph below, you see that after more than two years, PHP5 commands for less than 20% of PHP's install base. With the current adoption rate (even if it is assumed to be exponential), PHP6 is dead before it is even born.
 
-[image drupal/php5-adoption-rate resize=false]
-[image drupal/php5-naive-forecast resize=false]
+![Line graph showing PHP5 adoption rate increasing steadily from July 2004 to March 2007, based on Nexen data.](http://default/files/images/drupal/php5-adoption-rate.jpg)
+*PHP5's adoption rate based on data from <a href="http://www.nexen.net/">Nexen</a>.*
+![PHP5 naive forecast](http://default/files/images/drupal/php5-naive-forecast.jpg)
+*A naive forecast of PHP5's adoption rate. As the major Linux distributions \(RedHat, Debian and Ubuntu\) started shipping PHP5 recently, I was optimistic and assumed PHP5's growth to be exponential. Based on data from <a href="http://www.nexen.net/">Nexen</a>.*
 
 As [Nick Lewis pointed out](http://www.nicklewis.org/node/911): PHP is dying, and if we don't migrate to PHP5, the Drupal project will die along with the PHP project. It won't happen overnight, but it might happen several years down the road ... The point? Drupal's success depends on that of PHP.
 

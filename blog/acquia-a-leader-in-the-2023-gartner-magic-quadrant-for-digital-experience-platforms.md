@@ -19,6 +19,8 @@ id: 5431
 
 # Acquia a Leader in the 2023 Gartner Magic Quadrant for Digital Experience Platforms
 
+![A graph showing the state of the Digital Experience Platforms in 2023. Vendors are plotted on a grid based on their ability to execute and completeness of vision. Acquia is placed in the 'Leaders' quadrant, indicating strong performance in both vision and execution.](http://default/files/images/acquia/gartner-magic-quadrant-for-digital-experience-platforms-2023.png)
+
 For the fourth consecutive year, [Acquia](https://www.acquia.com/) has been named a *Leader* in the [Gartner Magic Quadrant for Digital Experience Platforms (DXP)](https://www.acquia.com/resources/report/gartner-dxp-magic-quadrant).
 
 Market recognition from [Gartner](https://www.gartner.com/) on our product vision is exciting, because it aligns with what customers and partners are looking for in an open, composable DXP.

@@ -20,7 +20,7 @@ id: 4591
 
 Today, [Acquia](https://www.acquia.com) announced a partnership with [Elastic Path](https://www.elasticpath.com/), a headless commerce platform. In this post, I want to explore the advantages of headless commerce and the opportunity it holds for both Drupal and Acquia.
 
-### The advantages of headless commerce
+## The advantages of headless commerce
 
 In a headless commerce approach, the front-end shopping experience is decoupled from the commerce business layer. Headless commerce platforms provide a clean separation between the front end and back end; the shopping experience is provided by Drupal and the commerce business logic is provided by the commerce platform. This decoupling provides advantages for the developer, merchant and shopping experience.
 
@@ -32,6 +32,6 @@ All this is why Acquia is excited about [our partnership with Elastic Path](http
 
 Note that many of the above integration challenges don't apply to native solutions like [Drupal Commerce](https://drupalcommerce.org/) for Drupal or WooCommerce for WordPress. It only applies when you have to integrate two entirely different systems. Integrating two different systems is a common use case, because customers either already have a commerce platforms in place that they don't want to replace, or because native solutions don't meet their needs.
 
-### Acquia's commitment to best of breed
+## Acquia's commitment to best of breed
 
 Acquia remains committed to a best-of-breed strategy for commerce. There isn't a single commerce platform that meets the needs of all our customers. This belief comes from years of experience in the field. Acquia's customers want to integrate with a variety of commerce systems such as Elastic Path, SAP Hybris, Salesforce Commerce Cloud (Demandware), Magento, BigCommerce, Reaction Commerce, Oracle ATG, Moltin, and more. Our customers also want to use Drupal Commerce, Drupal's native commerce solution. We believe customers should be able to integrate Drupal with their commerce management solutions of choice.

@@ -19,17 +19,20 @@ id: 3761
 
 # Who sponsors Drupal development? (2015-2016 edition)
 
+![Bar chart showing top organizations contributing to Drupal, with Acquia contributing the most, followed by MD Systems and Chapter Three.](http://default/files/cache/drupal/contributions-top-30-organizations-2016-640w.jpg)
+
 ***Update:** The most recent version of this post is available at [Who sponsors Drupal development? (2018-2019 edition)](https://dri.es/who-sponsors-drupal-development-2019). For a list of all previous versions, see <https://dri.es/tag/drupal-sponsors>.*
 
 There exist millions of Open Source projects today, but many of them aren't sustainable. Scaling Open Source projects in a sustainable manner is difficult. A prime example is [OpenSSL](https://www.openssl.org), which plays a critical role in securing the internet. Despite its importance, the entire OpenSSL development team is relatively small, consisting of 11 people, [10 of whom are volunteers](https://en.wikipedia.org/wiki/OpenSSL#Project_history). In 2014, security researchers discovered [an important security bug](https://en.wikipedia.org/wiki/Heartbleed) that exposed millions of websites. Like OpenSSL, most Open Source projects fail to scale their resources. Notable exceptions are the Linux kernel, Debian, Apache, Drupal, and WordPress, which have foundations, multiple corporate sponsors and many contributors that help these projects scale.
 
 We ([Dries Buytaert](https://dri.es) is the founder and project lead of [Drupal](https://www.drupal.org/) and co-founder and Chief Technology Officer of [Acquia](https://www.acquia.com/) and [Matthew Tift](https://matthewtift.com/) is a Senior Developer at [Lullabot](https://lullabot.com) and Drupal 8 configuration system co-maintainer) believe that the Drupal community has a shared responsibility to build Drupal and that those who get more from Drupal should consider giving more. We examined commit data to help understand who develops Drupal, how much of that work is sponsored, and where that sponsorship comes from. We will illustrate that the Drupal community is far ahead in understanding [how to sustain and scale the project](https://dri.es/scaling-open-source-communities). We will show that the Drupal project is a healthy project with a diverse community of contributors. Nevertheless, in Drupal's spirit of always striving to do better, we will also highlight areas where our community can and should do better.
 
-### Who is working on Drupal?
+## Who is working on Drupal?
 
 In the spring of 2015, after [proposing ideas about giving credit](https://dri.es/a-method-for-giving-credit-to-organizations-that-contribute-code-to-open-source) and [discussing various approaches at length](https://www.drupal.org/node/2288727), Drupal.org added the ability for people to [attribute their work](https://www.drupal.org/drupalorg/blog/a-guide-to-issue-credits-and-the-drupal.org-marketplace) to an organization or customer in the Drupal.org issue queues. Maintainers of Drupal themes and modules can award issues credits to people who help resolve issues with code, comments, design, and more.
 
-[image drupal/example-issue-credit-on-drupal-org-2016 resize=false]
+![A Drupal.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
+*A screenshot of an issue comment on Drupal.org. You can see that jamadar worked on this patch as a volunteer, but also as part of his day job working for TATA Consultancy Services on behalf of their customer, Pfizer.*
 
 Drupal.org's credit system captures all the issue activity on Drupal.org. This is primarily code contributions, but also includes some (but not all) of the work on design, translations, documentation, etc. It is important to note that contributing in the issues on Drupal.org is not the only way to contribute. There are other activities–for instance, sponsoring events, promoting Drupal, providing help and mentoring–important to the long-term health of the Drupal project. These activities are not currently captured by the credit system. Additionally, we acknowledge that parts of Drupal are developed on GitHub and that credits might get lost when those contributions are moved to Drupal.org. For the purposes of this post, however, we looked only at the issue contributions captured by the credit system on Drupal.org.
 
@@ -259,7 +262,7 @@ Despite the large number of individual contributors, a relatively small number d
  </table>
 </small>
 
-### How much of the work is sponsored?
+## How much of the work is sponsored?
 
 As mentioned above, from July 1, 2015 to June 30, 2016, 659 organizations contributed code to Drupal.org. Drupal is used by more than one million websites. The vast majority of the organizations behind these Drupal websites never participate in the development of Drupal; they use the software as it is and do not feel the need to help drive its development.
 
@@ -267,7 +270,7 @@ Technically, Drupal started out as a 100% volunteer-driven project. But nowadays
 
 We then looked at the distribution of how many of the credits are given to volunteers versus given to individuals doing "sponsored work" (i.e. contributing as part of their paid job):
 
-[image drupal/contributions-top-range-2016 resize=false]
+![Bar chart showing the proportion of volunteer, sponsored, and not attributed contributions across different top contributor ranges in Drupal.](http://default/files/cache/drupal/contributions-top-range-2016-640w.jpg)
 
 Looking at the top 100 contributors, for example, 23% of their credits are the result of contributing as volunteers and 56% of their credits are attributed to a corporate sponsor. The remainder, roughly 21% of the credits, are not attributed. Attribution is optional so this means it could either be volunteer-driven, sponsored, or both.
 
@@ -279,11 +282,11 @@ When we looked at the 5,196 users, rather than credits, we found somewhat differ
 
 None of these methodologies are perfect, but they all point to a conclusion that most of the work on Drupal is sponsored. At the same time, the data shows that volunteer contribution remains very important to Drupal. We believe there is a healthy ratio between sponsored and volunteer contributions.
 
-### Who is sponsoring the work?
+## Who is sponsoring the work?
 
 Because we established that most of the work on Drupal is sponsored, we know it is important to track and study what organizations contribute to Drupal. Despite 659 different organizations contributing to Drupal, approximately 50% of them got 4 credits or less. The top 30 organizations (roughly top 5%) account for about 29% of the total credits, which suggests that the top 30 companies play a crucial role in the health of the Drupal project. The graph below shows the top 30 organizations and the number of credits they received between July 1, 2015 and June 30, 2016:
 
-[image drupal/contributions-top-30-organizations-2016 resize=false]
+![Bar chart showing top organizations contributing to Drupal, with Acquia contributing the most, followed by MD Systems and Chapter Three.](http://default/files/cache/drupal/contributions-top-30-organizations-2016-640w.jpg)
 
 While not immediately obvious from the graph above, different types of companies are active in Drupal's ecosystem and we propose the following categorization below to discuss our ecosystem.
 
@@ -318,7 +321,7 @@ While not immediately obvious from the graph above, different types of companies
 
 Most of the top 30 sponsors are traditional Drupal companies. Sapient (120 credits) is the only digital marketing agency showing up in the top 30. No system integrator shows up in the top 30. The first system integrator is CI&amp;T, which ranked 31st with 102 credits. As far as system integrators are concerned CI&amp;T is a smaller player with between 1,000 and 5,000 employees. Other system integrators with credits are Capgemini (43 credits), Globant (26 credits), and TATA Consultancy Services (7 credits). We didn't see any code contributions from Accenture, Wipro or IBM Global Services. We expect these will come as most of them are building out Drupal practices. For example, we know that IBM Global Services already has over 100 people doing Drupal work.
 
-[image drupal/contributions-by-organization-type-2016 resize=false]
+![Pie chart showing Drupal contributions by organization type, with traditional Drupal businesses contributing the most at 82%.](http://default/files/images/drupal/contributions-by-organization-type-2016.jpg)
 
 When we look beyond the top 30 sponsors, we see that roughly 82% of the code contribution on Drupal.org comes from the traditional Drupal businesses. About 13% of the contributions comes from infrastructure and software companies, though that category is mostly dominated by one company, Acquia. This means that the technology and infrastructure companies, digital marketing agencies, system integrators and end-users are not meaningfully contributing code to Drupal.org today. In an ideal world, the pie chart above would be sliced in equal sized parts.
 
@@ -328,19 +331,19 @@ There are two main business reasons for organizations to contribute: (1) it impr
 
 We also should note that many organizations in the Drupal community contribute for reasons that would not seem to be explicitly economically motivated. More than 100 credits were sponsored by colleges or universities, such as the University of Waterloo (45 credits). More than 50 credits came from community groups, such as the Drupal Bangalore Community and the Drupal Ukraine Community. Other nonprofits and government organization that appeared in our data include the Drupal Association (166), National Virtual Library of India (25 credits), Center for Research Libraries (20), and Welsh Government (9 credits).
 
-#### Infrastructure and software companies
+### Infrastructure and software companies
 
 Infrastructure and software companies play a different role in our community. These companies are less reliant on professional services (building Drupal websites) and primarily make money from selling subscription based products.
 
 Acquia, Pantheon and Platform.sh are venture-backed Platform-as-a-Service companies born out of the Drupal community. Rackspace and AWS are public companies hosting thousands of Drupal sites each. Lingotek offers cloud-based translation management software for Drupal.
 
-[image drupal/contributions-by-technology-companies-2016 resize=false]
+![Bar chart showing Drupal contributions by technology companies.](http://default/files/cache/drupal/contributions-by-technology-companies-2016-640w.jpg)
 
 The graph above suggests that Pantheon and Platform.sh have barely contributed code on Drupal.org during the past year. (Platform.sh only became an independent company 6 months ago after they split off from CommerceGuys.) The chart also does not reflect sponsored code contributions on GitHub (such as drush), Drupal event sponsorship, and the wide variety of value that these companies add to Drupal and other Open Source communities.
 
 Consequently, these data show that the Drupal community needs to do a better job of enticing infrastructure and software companies to contribute code to Drupal.org. The Drupal community has a long tradition of encouraging organizations to share code on Drupal.org rather than keep it behind firewalls. While the spirit of the Drupal project cannot be reduced to any single ideology-- not every organization can or will share their code – we would like to see organizations continue to prioritize collaboration over individual ownership. Our aim is not to criticize those who do not contribute, but rather to help foster an environment worthy of contribution.
 
-#### End users
+### End users
 
 We saw two end-users in the top 30 corporate sponsors: Pfizer (158 credits) and Examiner.com (132 credits). Other notable end-users that are actively giving back are Workday (52 credits), NBC Universal (40 credits), the University of Waterloo (45 credits) and CARD.com (33 credits). The end users that tend to contribute to Drupal use Drupal for a key part of their business and often have an internal team of Drupal developers.
 
@@ -348,7 +351,7 @@ Given that there are hundreds of thousands of Drupal end-users, we would like to
 
 Given the vast amount of Drupal users, we believe encouraging end-users to contribute could be a big opportunity. Being credited on Drupal.org gives them visibility in the Drupal community and recognizes them as a great place for Open Source developers to work.
 
-### The uneasy alliance with corporate contributions
+## The uneasy alliance with corporate contributions
 
 As mentioned above, when community-driven Open Source projects grow, there becomes a bigger need for organizations to help drive its development. It almost always creates an uneasy alliance between volunteers and corporations.
 
@@ -360,7 +363,7 @@ In the Drupal community, Acquia has had people dedicated full-time to Drupal sta
 
 In response to Acquia's high level of participation in the Drupal project, as well as to the number of Acquia employees that hold leadership positions, some members of the Drupal community have suggested that Acquia wields its influence and power to control the future of Drupal for its own commercial benefit. But neither of us believe that Acquia should contribute less. Instead, we would like to see more companies provide more leadership to Drupal and meaningfully contribute on Drupal.org.
 
-### Who is sponsoring the top 30 contributors?
+## Who is sponsoring the top 30 contributors?
 
 <small>
   <table>
@@ -712,7 +715,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
 
 We observe that the top 30 contributors are sponsored by 45 organizations. This kind of diversity is aligned with our desire not to see Drupal controlled by a single organization. The top 30 contributors and the 45 organizations are from many different parts in the world and work with customers large or small. We could still benefit from more diversity, though. The top 30 lacks digital marketing agencies, large system integrators and end-users – all of whom could contribute meaningfully to making Drupal for them and others.
 
-### Evolving the credit system
+## Evolving the credit system
 
 The credit system gives us quantifiable data about where our community's contributions come from, but that data is not perfect. Here are a few suggested improvements:
 
@@ -723,7 +726,7 @@ The credit system gives us quantifiable data about where our community's contrib
 
 Like Drupal the software, the credit system on Drupal.org is a tool that can evolve, but that ultimately will only be useful when the community uses it, understands its shortcomings, and suggests constructive improvements. In highlighting the organizations that sponsor work on Drupal.org, we hope to provoke responses that help evolve the credit system into something that incentivizes business to sponsor more work and that allows more people the opportunity to participate in our community, learn from others, teach newcomers, and make positive contributions. We view Drupal as a productive force for change and we wish to use the credit system to highlight (at least some of) the work of our diverse community of volunteers, companies, nonprofits, governments, schools, universities, individuals, and other groups.
 
-### Conclusion
+## Conclusion
 
 Our data shows that Drupal is a vibrant and diverse community, with thousands of contributors, that is constantly evolving and improving the software. While here we have examined issue credits mostly through the lens of sponsorship, in future analyses we plan to consider the same issue credits in conjunction with other publicly-disclosed Drupal user data, such as gender identification, geography, seasonal participation, mentorship, and event attendance.
 

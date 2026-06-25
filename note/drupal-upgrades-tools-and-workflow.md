@@ -19,7 +19,7 @@ When a new major version of Drupal is released, custom code often requires updat
 
 Because I keep forgetting certain aspects of this workflow, I decided to document it for future reference.
 
-### Tools overview
+## Tools overview
 
 <table>
   <thead>
@@ -50,11 +50,12 @@ Because I keep forgetting certain aspects of this workflow, I decided to documen
  </tbody>
 </table>
 
-### Upgrade Status module
+## Upgrade Status module
 
 The [Upgrade Status module](https://www.drupal.org/project/upgrade_status) assesses a Drupal site's readiness for major version upgrades by checking for deprecated code and other compatibility issues.
 
-[image drupal/drupal-upgrade-status-2024]
+![Screenshot of Drupal 11 upgrade status report in the administration interface.](http://default/files/cache/drupal/drupal-upgrade-status-2024-640w.png)
+*Screenshot of a Drupal upgrade status report showing hosting environment compatibility checks.*
 
 1. Install the Upgrade Status module like you would install any other Drupal module:
    
@@ -72,7 +73,7 @@ The [Upgrade Status module](https://www.drupal.org/project/upgrade_status) asses
    `drush` stands for "Drupal shell" and is a command-line utility for managing Drupal sites. The command `pm:enable` (where `pm` stands for "package manager") is used to enable a module in Drupal.
 3. After enabling the module, you can access its features by navigating to the **Admin &gt; Reports &gt; Upgrade status** page at `/admin/reports/upgrade-status`.
 
-### Upgrading PHP and MySQL using DDEV
+## Upgrading PHP and MySQL using DDEV
 
 The Upgrade Status module might recommend updating PHP and MySQL, per [Drupal's system requirements](https://www.drupal.org/docs/getting-started/system-requirements).
 
@@ -90,13 +91,14 @@ $ ddev debug migrate-database mariadb:10.11
 
 After updating these settings, I restart DDEV and [run my PHPUnit tests](https://dri.es/phpunit-tests-for-drupal). Although these tests are integrated into [my CI/CD workflow](https://dri.es/my-drupal-deployment-workflow), I also run them locally on my development machine using DDEV for immediate feedback.
 
-### Drupal Check
+## Drupal Check
 
 [Drupal Check](https://github.com/mglaman/drupal-check) is a command-line tool that scans Drupal projects for deprecated code and compatibility issues.
 
 I always run `drupal-check` *before* updating my Drupal site's code and third-party dependencies. This helps ensure there are no compatibility issues with the current codebase before upgrading. I also run `drupal-check` *after* the update to identify any new issues introduced by the updated code.
 
-[image drupal/drupal-check-2024]
+![Terminal output showing successful run of Drupal Check with no errors.](http://default/files/cache/drupal/drupal-check-2024-640w.png)
+*Output of Drupal Check command indicating no deprecated code was found.*
 
 1. Installation:
    
@@ -111,7 +113,7 @@ I always run `drupal-check` *before* updating my Drupal site's code and third-pa
    
    I usually have to increase the memory limit, hence the `--memory-limit 500M`.
 
-### Using PHPStan directly
+## Using PHPStan directly
 
 In the future, I'd like to evaluate whether using PHPStan directly is simpler. This is a TODO for myself. Drupal Check is essentially a wrapper around PHPStan, offering default configuration such as automatically running at level 2. To achieve the same result with PHPStan, I should be able to simply run:
 

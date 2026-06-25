@@ -17,5 +17,5 @@ id: 761
 
 # Axl playing with water
 
-[image axl-2009/playing-on-terrace-1]
-[image axl-2009/playing-on-terrace-2]
+![A young child wearing a hat and pacifier pours water from a toy watering can on a terrace.](http://default/files/cache/axl-2009/playing-on-terrace-1-640w.jpg)
+![A young child wearing a hat and pacifier plays with water in a blue bucket on a terrace.](http://default/files/cache/axl-2009/playing-on-terrace-2-640w.jpg)

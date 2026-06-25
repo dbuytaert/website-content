@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/drupal-10-released'
-title: 'Drupal 10 released '
+title: 'Drupal 10 released'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -15,7 +15,9 @@ published: true
 id: 5396
 ---
 
-# Drupal 10 released 
+# Drupal 10 released
+
+![The Drupal logo surrounded by confetti and the number 10.](http://default/files/cache/drupal/drupal-10-confetti-640w.png)
 
 Today, we released [Drupal 10](https://www.drupal.org/blog/drupal-10-0-0). Getting to this double-digit release has been 22 years in the making! It's an exciting milestone.
 
@@ -33,10 +35,10 @@ The launch of Drupal 10 comes at a good time because there is so much turmoil ha
 
 An Open Web means opportunity for all. And Open Source gives us the freedom to understand how our software works, to collectively improve it, and to [build the web we want](https://dri.es/the-web-i-want-for-my-kids). Projects like [Drupal](https://www.drupal.org/) are fundamental for keeping the Open Web alive and well. The main [focus of Drupal 10](https://dri.es/state-of-drupal-presentation-september-2022) was to bring even more site builders to Drupal. In that sense, the release of Drupal 10 will help extend the web's reach and protect its long-term well-being.
 
-[video 9avEUpdvI1Q]
+https://www.youtube.com/watch?v=9avEUpdvI1Q
 
 If it's been a while since you've considered using Drupal, I encourage you to try [Drupal 10](https://www.drupal.org/blog/drupal-10-0-0).
 
 I'd like to thank every single contributor for what we've accomplished together with Drupal 10!
 
-[video PYOnw7h-BSw]
+https://www.youtube.com/watch?v=PYOnw7h-BSw

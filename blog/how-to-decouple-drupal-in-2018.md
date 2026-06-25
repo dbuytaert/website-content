@@ -19,6 +19,8 @@ id: 4126
 
 # How to decouple Drupal in 2018
 
+![A flowchart of how to decouple Drupal in 2018](http://default/files/cache/drupal/how-to-decouple-drupal-in-2018-flowchart-full-640w.jpg)
+
 **Update:** A more up-to-date version of this blog post is available at [How to decouple Drupal in 2019](https://dri.es/how-to-decouple-drupal-in-2019).
 
 Almost two years ago, I had written a blog post called ["How should you decouple Drupal?"](https://dri.es/how-should-you-decouple-drupal). Many people have found the flowchart in that post to be useful in their decision-making on how to approach their Drupal architectures. Since that point, Drupal, its community, and the surrounding market have evolved, and [the original flowchart](https://dri.es/files/images/drupal/how-to-decouple-drupal-in-2017-flowchart-full.jpg) needs a big update.
@@ -27,9 +29,9 @@ Drupal's [API-first initiative](https://dri.es/improving-drupal-8-api-first-json
 
 Let's start with the new flowchart in full:
 
-[image drupal/how-to-decouple-drupal-in-2018-flowchart-full resize=false]
+![A flowchart of how to decouple Drupal in 2018](http://default/files/cache/drupal/how-to-decouple-drupal-in-2018-flowchart-full-640w.jpg)
 
-### All the ways to decouple Drupal
+## All the ways to decouple Drupal
 
 The **traditional approach** to Drupal architecture, also referred to as *coupled Drupal*, is a monolithic implementation where Drupal maintains control over all front-end and back-end concerns. This is Drupal as we've known it – ideal for traditional websites. If you're a content creator, keeping Drupal in its coupled form is the optimal approach, especially if you want to achieve a fast time to market without as much reliance on front-end developers. But traditional Drupal 8 also remains a great approach for developers who love Drupal 8 and want it to own the entire stack.
 
@@ -37,9 +39,9 @@ A second approach, [**progressively decoupled Drupal**](https://dri.es/the-futur
 
 Last but not least, **fully decoupled Drupal** has gained more attention in recent years as the growth of JavaScript continues with no signs of slowing down. This involves a complete separation of concerns between the structure of your content and its presentation. In short, it's like treating your web experience as just another application that needs to be served content. Even though it results in a loss of some out-of-the-box CMS functionality such as in-place editing or content preview, it's been popular because of the freedom and control it offers front-end developers.
 
-### What do you intend to build?
+## What do you intend to build?
 
-[image drupal/how-to-decouple-drupal-in-2018-flowchart-top-section resize=false]
+![The top section of the flowchart showing how to decouple Drupal in 2018](http://default/files/cache/drupal/how-to-decouple-drupal-in-2018-flowchart-top-section-640w.jpg)
 
 The most important question to ask is what you are trying to build.
 
@@ -50,9 +52,9 @@ Ultimately, your needs will determine the usefulness of decoupled Drupal for you
 
 Today, Drupal makes it much easier to build applications consuming decoupled Drupal. Even if you're using Drupal as a content repository to serve content to other applications, well-understood specifications like [JSON API](https://www.drupal.org/project/jsonapi), [GraphQL](https://www.drupal.org/project/graphql), [OpenAPI](https://www.drupal.org/project/openapi), and [CouchDB](https://www.drupal.org/project/relaxed) significantly lower its learning curve and open the door to tooling ecosystems provided by the communities who wrote those standards. In addition, there are now API-first distributions optimized to serve as content repositories and SDKs like [Waterwheel.js](https://dev.acquia.com/blog/getting-started-with-waterwheeljs-and-resource-discovery/30/09/2016/16911) that help developers "speak" Drupal.
 
-### Are there things you can't live without?
+## Are there things you can't live without?
 
-[image drupal/how-to-decouple-drupal-in-2018-flowchart-middle-section resize=false]
+![The middle section of the flowchart showing how to decouple Drupal in 2018](http://default/files/cache/drupal/how-to-decouple-drupal-in-2018-flowchart-middle-section-640w.jpg)
 
 Perhaps most critical to any decision to decouple Drupal is the must-have feature set desired for both editors and developers. In order to determine whether you should use a decoupled Drupal, it's important to isolate which features are most valuable for your editors and developers. Unfortunately, there is are no black-and-white answers here; every project will have to weigh the different pros and cons.
 
@@ -62,7 +64,7 @@ On the other hand, the need for control over the visual presentation of content 
 
 How you reconcile this tension between developers' needs and editors' requirements will dictate which approach you choose. For teams that have an entirely editorial focus and lack developer resources – or whose needs are focused on the ability to edit, place, and preview content in context – decoupling Drupal will remove all of the critical linkages within Drupal that allow editors to make such visual changes. But for teams with developers itching to have more flexibility and who don't need to cater to editors or marketers, fully decoupled Drupal can be freeing and allow developers to explore new paradigms in the industry – with the caveat that many of those features that editors value are now unavailable.
 
-### What will the future hold?
+## What will the future hold?
 
 In the future, and in light of the rapid evolution of decoupled Drupal, my hope is that Drupal keeps shrinking the gap between developers and editors. After all, this was the original goal of the CMS in the first place: to help content authors write and assemble their own websites. Drupal's history has always been a balancing act between editorial needs and developers' needs, even as the number of experiences driven by Drupal grows.
 
@@ -70,7 +72,7 @@ I believe the next big hurdle is how to begin enabling marketers to administer a
 
 Today, developers are beginning to use Drupal not just as a content repository for their various applications but also as a means to create custom editorial interfaces. It's my hope that we'll see more experimentation around conceiving new editorial interfaces that help give content creators the control they need over a growing number of channels. At that point, I'm sure we'll need another new flowchart.
 
-### Conclusion
+## Conclusion
 
 Thankfully, Drupal is in the right place at the right time. We've anticipated the new world of decoupled CMS architectures with web services in Drupal 8 and older contributed modules. More recently, API-first distributions, SDKs, and even [reference applications in Ember and React](https://dev.acquia.com/blog/decoupling-drupal-with-waterwheel-for-ember-and-react/26/06/2017/18381) are giving developers who have never heard of Drupal the tools to interact with it in unprecedented ways. Moreover, for Acquia customers, [Acquia's recent launch of Node.js hosting on Acquia Cloud](https://dri.es/announcing-node-js-on-acquia-cloud) means that developers can leverage the most modern approaches in JavaScript while benefiting from Drupal's capabilities as a content repository.
 

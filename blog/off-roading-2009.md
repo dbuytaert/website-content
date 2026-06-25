@@ -15,9 +15,9 @@ id: 635
 
 # Off-roading
 
-<p>[image off-roading-2009/cars-1]
-[image off-roading-2009/cars-2]
-[image off-roading-2009/cars-3]
+<p>![Close-up of a yellow Suzuki vehicle with a rusted and damaged hood, covered in dirt from off-road use.](http://default/files/cache/off-roading-2009/cars-1-640w.jpg)
+![Rearview mirror reflection shows a line of yellow off-road vehicles driving on a dirt trail through the forest.](http://default/files/cache/off-roading-2009/cars-2-640w.jpg)
+![Close-up of a car wheel covered in thick mud after off-road driving.](http://default/files/cache/off-roading-2009/cars-3-640w.jpg)
 
 </p>
 

@@ -21,7 +21,7 @@ Last weekend, we held a sprint at the Acquia offices for the [Web Services and C
 
 Overall, a wide range of experience levels, skill sets, and perspectives were brought to the table, with the goal of the sprint being to clearly define the initiative's scope, get agreement on what we wanted to accomplish and why, and lay out a clear plan for how to accomplish this.
 
-[image drupal/wscci-sprint-group-photo-february-2012]
+![A group of eleven people posing for a photo in front of a whiteboard with notes and diagrams.](http://default/files/cache/drupal/wscci-sprint-group-photo-february-2012-640w.jpg)
 
 In attendance were:
 
@@ -35,7 +35,7 @@ In attendance were:
 - [Randy "rfay" Fay](https://www.drupal.org/user/30906), [Justin "beejeebus" Randall](https://www.drupal.org/user/38580) and [Alex "effulgentsia" Bronstein](https://www.drupal.org/user/78040), core developers and sane voices of reason with an outside perspective
 - [Dries Buytaert](https://www.drupal.org/user/1) (me), project lead
 
-### Scope
+## Scope
 
 The [WSCCI initiative](https://www.garfieldtech.com/blog/web-services-initiative), as envisioned by Larry Garfield, was originally set to address Drupal's web services and flexible page layout capabilities. We discovered that both would require significant changes to Drupal core, and it was difficult to build consensus online, so we decided to get together for 3 days and to flesh out what we actually wanted to accomplish, and how.
 
@@ -43,24 +43,24 @@ At the sprint, we first attempted to articulate all of the problems that WSCCI w
 
 We then did a round of voting where we could each choose 3 of those things in order to try to determine which of those were the most important.
 
-[image drupal/wscci-sprint-post-it-notes-february-2012]
+![A whiteboard with handwritten Drupal development notes and diagrams, organized with pink sticky notes for categorization.](http://default/files/cache/drupal/wscci-sprint-post-it-notes-february-2012-640w.jpg)
 
 Two things became instantly clear during this exercise:
 
 1. The items encompassed under WSCCI really spanned at least 3 separate major areas: Web Services, more robust ESI-based layouts (think Panels only more powerful), and cleaning up our underlying toolset to be a more loosely-coupled framework.
 2. The underlying architecture to support RESTful calls to Drupal that makes all of the other things possible was deemed the most important thing to focus on.
 
-### Scope resolution
+## Scope resolution
 
 After a good chunk of discussions, all were in agreement to scale back the scope of the initiative to just the "Web Services" piece, and spin off the Layout/blocks/related-UI parts to a separate effort.
 
 Furthermore, some efforts, such as PSR-0 and Unified Plugin system, were only semi-related to the WSCCI initiative in the first place, and just happened to become relevant for it. Work on those efforts will continue as part of the general [Framework community efforts](https://www.drupal.org/node/1224666).
 
-### Architecture
+## Architecture
 
 Fabien was able to offer a tremendous number of insights as to how various Symfony2 components could help provide underlying structure for Drupal core to support Web Services out of the box. Essentially, most of what the WSCCI team had been trying to work toward, in the abstract, was already implemented within Symfony2. While some implementation details were different than what we had in mind, the end result is almost exactly what we have been trying to accomplish. We therefore agreed that the best way forward was to leverage several Symfony2 components within Drupal as a way to speed progress toward that end.
 
-### Benefits
+## Benefits
 
 Some of the concrete benefits that would come out of these changes are
 
@@ -69,7 +69,7 @@ Some of the concrete benefits that would come out of these changes are
 - That in turn makes Drupal-to-Drupal communication, content staging, content sharing, and a host of other related tasks easier.
 - The use of widely used libraries and techniques makes Drupal more approachable to new developers.
 
-### Why does this matter?
+## Why does this matter?
 
 As it has evolved into an increasingly powerful system, Drupal has gotten increasingly complex and is not as easy to start developing with as it once was. Many developers are nervous about continuing that trend. Managing complexity is a challenge faced by many software projects, and one approach is to use standardized patterns and components.
 

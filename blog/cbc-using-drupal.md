@@ -21,4 +21,4 @@ The [Canadian Broadcasting Corporation](https://en.wikipedia.org/wiki/Canadian_B
 
 The site lets people share their short movies with a national television audience and online community. Each week, the community helps determine the videos they think should get on TV. (Hat tip: [Khalid](https://2bits.com/))
 
-[image drupal/cbc-exposure]
+![A man and woman stand in front of a patterned background, extending their hands toward each other.](http://default/files/cache/drupal/cbc-exposure-640w.jpg)

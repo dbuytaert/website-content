@@ -19,4 +19,4 @@ id: 1116
 
 We're on a roll with [universities using Drupal](https://dri.es/tag/education)! Portland State University (PSU), with more than 24,000 students, is using [Drupal](https://www.drupal.org) for their main website at <http://pdx.edu>.
 
-[image drupal/portland-state-university]
+![Portland State University website homepage featuring a banner about solar power and a campus event listing.](http://default/files/cache/drupal/portland-state-university-640w.jpg)

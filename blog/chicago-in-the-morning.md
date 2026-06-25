@@ -17,4 +17,6 @@ id: 2241
 
 # Chicago in the morning
 
+![A cityscape of Chicago featuring a tall glass skyscraper, surrounding buildings, and a river with bridges.](http://default/files/cache/drupalcon-chicago-2011/chicago-640w.jpg)
+
 

@@ -18,4 +18,6 @@ id: 472
 
 # Metallica using Drupal
 
+![Promotional webpage for Metallica's album \*Death Magnetic\*, offering exclusive content, live footage, and membership benefits for fans.](http://default/files/cache/drupal/metallica-640w.jpg)
+
 Yesterday at Foo Camp, security researcher [Dan Kaminsky](http://www.doxpara.com/) reminded me to blog about it: [Warner Bros](https://dri.es/warner-bros-using-drupal) is using [Drupal](https://www.drupal.org) for [Mission Metallica](http://www.missionmetallica.com), Metallica's newest album. *Rock!*

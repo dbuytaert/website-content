@@ -16,4 +16,6 @@ id: 465
 
 # Typical work day
 
+![A video call with four participants; one takes a photo, another makes a playful gesture, and others engage.](http://default/files/cache/acquia/typical-work-day-640w.jpg)
+
 

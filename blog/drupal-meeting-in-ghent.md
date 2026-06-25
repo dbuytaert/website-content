@@ -20,4 +20,4 @@ id: 270
 
 On June 1st, we'll have another Belgian Drupal User Group meeting. This time, we'll meet in Ghent where the people from [Across](http://www.a-cross.com) will talk about [gfmd-fmmd.org](http://www.gfmd-fmmd.org), a Drupal site they built for the Belgian government. The meeting targets intermediate to advanced Drupal users, and we'll cover topics like the content construction kit, views, access control and internationalization. More information is available in [the announcement](http://drupal.be/node/540) at [drupal.be](http://drupal.be). The event is free and open for everyone, but registration is required.
 
-[image drupal/gfmd]
+![A webpage for the Global Forum on Migration and Development 2007, featuring images of diverse people and event details.](http://default/files/cache/drupal/gfmd-640w.jpg)

@@ -19,6 +19,8 @@ id: 5786
 
 # Exploring a marketplace for Drupal site templates
 
+![A graphic titled "Evaluating a Drupal Site Template Marketplace" showing a grid of website templates labeled by industry, including Higher Ed, News, Non-profi, and more.](http://default/files/cache/drupal/marketplace-640w.png)
+
 This is an unusual post for my blog, but I'm sharing it to start a broader conversation about an idea we're exploring: a marketplace for Drupal Site Templates. Both the Drupal CMS Leadership Team and the Drupal Association have discussed this concept, but no decision has been made. I'm posting to share our current thinking and invite feedback as we shape this together.
 
 This post will also be [cross-posted to Drupal.org](https://www.drupal.org/blog/exploring-a-marketplace-for-drupal-site-templates), where comments are open. You're also welcome to join the conversation in the `#drupal-cms-marketplace` channel on [Drupal Slack](https://www.drupal.org/join-slack).
@@ -27,15 +29,15 @@ In [my DrupalCon Atlanta keynote](https://dri.es/state-of-drupal-presentation-ma
 
 Site Templates provide pre-configured website starting points that combine Drupal recipes, themes, and default content. While Site Templates will help users launch websites faster, I also posed a bigger question: should we create a marketplace where users can discover and download or install these templates? And if so, should that marketplace offer only Open Source Site Templates, or should we also allow commercial templates?
 
-### What are Site Templates?
+## What are Site Templates?
 
 Site Templates combine Drupal recipes, a theme, design elements, and default content to give users a fully functional website right from the start. They solve one of Drupal's biggest challenges: the time it takes to build a site from scratch.
 
 Unlike a bare Drupal installation, a Site Template provides all the components needed for a specific use case. A restaurant template might include menu management, reservation systems, and food photography. A nonprofit template could feature donation processing, event management, and impact reporting tools.
 
-[image drupalcon-atlanta-2025/site-template]
+![A diagram of a site template composed of multiple recipes, an Experience Builder theme, and relevant demo content.](http://default/files/cache/drupalcon-atlanta-2025/site-template-640w.png)
 
-### Why consider a marketplace?
+## Why consider a marketplace?
 
 A Drupal marketplace for Site Templates would:
 
@@ -44,7 +46,7 @@ A Drupal marketplace for Site Templates would:
 3. Generate new revenue opportunities for Drupal agencies and developers
 4. Support Drupal's long-term sustainability through a revenue-sharing model with the Drupal Association
 
-### Should we support both Open Source and commercial Site Templates?
+## Should we support both Open Source and commercial Site Templates?
 
 Fully Open Source Site Templates align naturally with Drupal's values. They could function much like community-contributed modules and themes, and we hope that many contributors will take this approach.
 
@@ -54,7 +56,7 @@ This is why supporting both Open Source and commercial templates makes sense. Pa
 
 Commercial incentives also give creators a reason to invest in polished, well-documented, and well-supported templates.
 
-### How can a template be commercial while respecting Drupal's Open Source values?
+## How can a template be commercial while respecting Drupal's Open Source values?
 
 First, rest assured: Drupal modules will always be Open Source.
 
@@ -66,7 +68,7 @@ Other parts of a Site Template are likely not subject to the GPL. Assets like im
 
 So when we talk about a commercial Site Template, we mean one that combines Open Source code with separately licensed assets or is sold alongside value-added services like documentation, support, or updates.
 
-### What would people actually be paying for in a commercial template?
+## What would people actually be paying for in a commercial template?
 
 While the *legal* distinction clarifies which parts of a Site Template can be licensed commercially, it's only part of the picture. The real question is the *value proposition*: what are users actually paying for when they choose a commercial template?
 
@@ -81,7 +83,7 @@ This approach aligns with the [Free Software Foundation](https://www.fsf.org/)'s
 
 A sustainable commercial strategy combines proper licensing with controlled distribution channels and value-added services, like support. This approach ensures the value of a site template isn't limited to easily copied assets, but includes expertise that can't be simply downloaded. This is how a template can be commercial while staying true to Drupal's Open Source values.
 
-### How would we maintain quality in the marketplace?
+## How would we maintain quality in the marketplace?
 
 A marketplace filled with low-quality or abandoned templates would damage Drupal's reputation. To ensure quality we probably need:
 
@@ -93,7 +95,7 @@ A marketplace filled with low-quality or abandoned templates would damage Drupal
 
 These quality assurance measures require ongoing time, effort, and funding. This is why including a commercial component makes sense. A revenue-sharing model with template creators could help fund platform maintenance, reviews, support, and other efforts needed to keep the marketplace high quality and trustworthy.
 
-### What pricing models might be available?
+## What pricing models might be available?
 
 We don't know yet, but we've heard many good suggestions from the community.
 
@@ -101,7 +103,7 @@ Ideas include one-time purchases for unlimited use, annual subscriptions with on
 
 The marketplace could support multiple approaches, giving creators flexibility to choose what works best for their offerings.
 
-### Is it fair for template creators to profit while module contributors aren't paid?
+## Is it fair for template creators to profit while module contributors aren't paid?
 
 When a site template is sold commercially, it raises an important question. What about the maintainers of the modules included in the template? The template builder receives payment. The Drupal Association may collect a revenue share. But the individual contributors who created the modules or core functionality do not receive direct compensation, even though their work is essential to the Site Template.
 
@@ -115,7 +117,7 @@ When commercial activity happens off Drupal.org, there is no way to recognize th
 
 Others could build marketplaces for Drupal templates, but these would likely focus on profit rather than community support. An official Drupal Association marketplace allows us to reinvest in the project and the people behind it. It keeps value within our ecosystem, and gives us a platform to explore more equitable ways to sustain Open Source contribution.
 
-### Would this hurt digital agencies?
+## Would this hurt digital agencies?
 
 Many organizations pay thousands of dollars to digital agencies as part of a custom Drupal build. If Site Templates are available at a much lower cost, will that undercut agencies?
 
@@ -123,13 +125,13 @@ I don't believe it will.
 
 Organizations investing in a Drupal website are not paying for a theme alone. Agencies provide strategy, consulting, design, customization, user testing, performance optimization, and long-term support. A template offers a starting point, but doesn't replace tailored work or a trusted partnership.
 
-### Could templates help agencies grow?
+## Could templates help agencies grow?
 
 A template marketplace could expand the Drupal ecosystem by lowering the barrier to entry, making Drupal accessible to smaller organizations. Some of these will grow and require custom solutions, creating more opportunities for agencies in the long run.
 
 Templates can also serve as powerful demonstrations of an agency's capabilities, attracting clients who want similar but customized solutions. For agencies, templates become both a product and a marketing tool.
 
-### What revenue opportunities would digital agencies have?
+## What revenue opportunities would digital agencies have?
 
 A template marketplace offers two revenue streams for Drupal agencies and freelancers.
 
@@ -137,19 +139,19 @@ First, agencies would earn direct income from template sales through revenue-sha
 
 Second, templates could serve as a foundation for more comprehensive service packages, including hosting, maintenance, and customization services.
 
-### How would templates connect agencies with new clients?
+## How would templates connect agencies with new clients?
 
 A marketplace could connect end users directly with service providers. With proper consent, contact details from template purchases could be shared with creators, opening the door to professional service opportunities. Template listings could also include a built-in contact form, making it easy for users to request customization or support.
 
 This lead generation benefits both sides. Users access trusted professionals who understand their implementation, while agencies connect with qualified prospects who have already invested in their work. A marketplace becomes a matchmaking platform connecting those who need Drupal expertise with those who provide it.
 
-### Why is now the right time for this initiative?
+## Why is now the right time for this initiative?
 
 With Drupal CMS, we're focused on growth. To succeed, we need to address two long-standing challenges: the lack of ready-made themes and a steep learning curve. Some of our new tools (Recipes, Experience Builder, and Site Templates) allow us to address these longstanding issues.
 
 The result? We can take Drupal's flexibility and make it more available across different markets and use cases.
 
-### What was the initial reaction at DrupalCon?
+## What was the initial reaction at DrupalCon?
 
 The day after my keynote, we organized a Birds of a Feather (BoF) session to discuss the marketplace concept. Approximately 75 people attended, representing a cross-section of our community.
 
@@ -161,7 +163,7 @@ This initial reaction is encouraging, though we recognize that much work remains
 
 We also opened the #drupal-cms-marketplace channel in [Drupal Slack](https://www.drupal.org/join-slack) to continue the conversation with the wider community.
 
-### What are the next steps?
+## What are the next steps?
 
 The Drupal CMS Leadership Team and the Drupal Association Innovation Working Group have been exploring this idea the past month.
 

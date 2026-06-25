@@ -21,6 +21,8 @@ id: 6026
 
 # 20 years of blogging
 
+![Plants on a kitchen windowsill, basking in warm sunlight.](http://default/files/cache/miscellaneous-2023/afternoon-light-kitchen-640w.jpg)
+
 My blog turns 20 today!
 
 I have been at this for two decades now, yet I still don't identify as a blogger. It feels awkward to say the words: I am a blogger.

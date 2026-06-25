@@ -20,9 +20,11 @@ id: 5301
 
 # My first Web3 webpage
 
+![Two people on a platform observe a decentralized web of nodes.](http://default/files/cache/blog/web3-exploration-640w.jpg)
+
 Today, I'm going to publish my first webpage using Web3 technologies. I will upload a page to IPFS (InterPlanetary File System), make it available at `dries.eth` using ENS (Ethereum Name Service), and visit it with a Web3-enabled browser. If you don't know what that means, buckle up for a crash course.
 
-### Step 1: Buy an ENS domain name
+## Step 1: Buy an ENS domain name
 
 Last year, [I minted `buytaert.eth`](https://etherscan.io/tx/0x86dc98df818e3e135be63bfda35b5e5e3a8a467435c54f9d6707f6c0be2064ad), and more recently, [I purchased `dries.eth`](https://etherscan.io/tx/0xf60512dae73bd0e37b622ef60bb1bded61dbe72dbe96c1e89e7f7b2d99b14d63). Both are *ENS domain names*.
 
@@ -38,7 +40,7 @@ If you want to buy an `.eth` domain, you can do so at the [ENS Domains website](
 
 When ENS launched in May 2017, it only supported the ENS-native TLD `.eth`. As of August 2021, ENS added support for the full DNS namespace. So if you own `example.com` on DNS, you can use the [ENS Domains website](https://ens.domains/) to set ENS records for `example.com`.
 
-### Step 2: Upload a HTML file to IPFS
+## Step 2: Upload a HTML file to IPFS
 
 [IPFS](https://ipfs.io/), short for *InterPlanetary File System*, is an Open Source protocol and peer-to-peer network for storing and sharing data.
 
@@ -56,16 +58,18 @@ This is where [Filecoin](https://filecoin.io/) comes in. Like IPFS, Filecoin is 
 
 Long story short, to host my webpage on IPFS, I need at least one IPFS node willing to host my content. There are two solutions for this: (1) I can run my own IPFS node or (2) I can pay a third-party IPFS service to host my content.
 
-#### Running my own IPFS node
+### Running my own IPFS node
 
 In the spirit of helping to build a decentralized web, running your own IPFS node should be the preferred option. Below you can see my local IPFS node hosting my `index.html` file:
 
 <div class="large">
-  [image blog/local-ipfs-node-1 resize=false]
-  [image blog/local-ipfs-node-2 resize=false]
+  ![The files overview screen of my local IPFS node](http://default/files/cache/blog/local-ipfs-node-1-640w.png)
+*A "Files" overview screen showing that my local IPFS node is hosting <code>index.html</code>.*
+  ![The status screen of my local IPFS node showing bandwidth usage](http://default/files/cache/blog/local-ipfs-node-2-640w.png)
+*A dashboard showing my local IPFS node's bandwidth usage.*
 </div>
 
-#### Replicating my webpage
+### Replicating my webpage
 
 Because my local IPFS node runs on my laptop, my webpage is only available when my laptop is connected to the internet.
 
@@ -74,12 +78,13 @@ As explained, I can use Filecoin to pay other nodes on the network to replicate 
 I asked him to "pin" my file on some of his IPFS nodes that are permanently connected to the internet. This way my webpage remains available even when my laptop disconnects from the internet.
 
 <div class="large">
-  [image blog/local-ipfs-node-3 resize=false]
+  ![A drop-down menu allowing you to pin a file on IPFS.](http://default/files/cache/blog/local-ipfs-node-3-640w.png)
+*A drop-down menu allows you to easily pin a file to an IPFS node.*
 </div>
 
 <p class="pullquote">With a few friends pinning each other's websites on IPFS, you don't need to pay for web hosting anymore!</p>
 
-#### Third-party IPFS and pinning services
+### Third-party IPFS and pinning services
 
 If you don't want to run your own IPFS service, or you don't have friends who can replicate your data, you can use a third-party IPFS and pinning service.
 
@@ -100,13 +105,15 @@ $ ipfs-upload-client --id xxx --secret yyy ./index.html
 [Fleek](%E2%80%8B%E2%80%8Bhttps://fleek.co/) and [Pinata](https://www.pinata.cloud/) allow you to upload files from your web browser:
 
 <div class="large">
-  [image blog/fleek-upload-form resize=false]
-  [image blog/pinata-replication resize=false]
+  ![The file upload form in Fleek](http://default/files/cache/blog/fleek-upload-form-640w.png)
+*Fleek conveniently allows you to upload files to IPFS from the browser.*
+  ![Pinata replication form](http://default/files/cache/blog/pinata-replication-640w.png)
+*Pinata allows you to upload files to IPFS from the browser. You can replicate content across multiple IPFS nodes run by Pinata.*
 </div>
 
 If you're looking for Filecoin-based solutions, [Web3.storage](https://Web3.storage/) comes recommended.
 
-### Step 3: Visit your Web3 webpage
+## Step 3: Visit your Web3 webpage
 
 After uploading a file to IPFS, you get the "hash" (a unique ID or address) of the file. The hash of my `index.html` file is:
 
@@ -116,25 +123,28 @@ Content hosted on IPFS can be accessed using an IPFS-compatible browser like [Br
 
 Using Brave, you can visit my webpage at <ipfs://bafybeibbkhmln7o4ud6an4qk6bukcpri7nhiwv6pz6ygslgtsrey2c3o3q> (note the `ipfs://` schema).
 
-[image blog/brave-with-ipfs resize=false]
+![Brave showing a HTML file hosted on IPFS](http://default/files/cache/blog/brave-with-ipfs-640w.png)
+*Brave showing my webpage hosted on IPFS.*
 
-### Step 4: Map your webpage to your domain name
+## Step 4: Map your webpage to your domain name
 
 Being able to visit your IPFS-hosted website is pretty neat, but you're probably not going to ask other people to check out your new webpage at ipfs://bafybeibbkhmln7o4ud6an4qk6bukcpri7nhiwv6pz6ygslgtsrey2c3o3q. Using a 60-character hexadecimal hash isn't exactly ideal.
 
 This is where ENS comes in. I just had to set the *Content Resolver* record of `dries.eth` to the IPFS hash associated with my webpage.
 
 <div class="large">
-  [image blog/ens-content-resolver resize=false]
+  ![Updating the Content Resolver record of an ENS domain](http://default/files/cache/blog/ens-content-resolver-640w.png)
+*Mapping the IPFS hash to <code>dries.eth</code> is done by updating the <i>Content Resolver</i> record of the ENS domain on the <a href="https://ens.domains/">ENS Domains website</a>.*
 </div>
 
 Updating an ENS record permanently updates the state of the Ethereum blockchain. This means you have to pay a "gas fee", or a network transaction fee. As you can see on [Etherscan](https://etherscan.io), it cost me [0.004369 Ether](https://etherscan.io/tx/0x5d72594efe7b3cca99304ea9c01f3cc2ed2ed21f8f2915932b5bb53abce5bc77) ($11.69 at the time) to update my ENS record.
 
 You can now use an ENS and IPFS compatible browser to visit <https://dries.eth>. Voila, a *truly* decentralized website!
 
-[image blog/google-chrome-with-metamask resize=false]
+![Google Chrome showing dries.eth using the Metamask extension](http://default/files/cache/blog/google-chrome-with-metamask-640w.png)
+*<code>dries.eth</code> rendered in Google Chrome with the <a href="https://metamask.io/">Metamask</a> extension.*
 
-### Are ENS and IPFS the future of the web?
+## Are ENS and IPFS the future of the web?
 
 There are various big shortcomings:
 
@@ -151,7 +161,7 @@ Shortcomings aside, I believe IPFS and ENS hold promise:
 - The idea that these services are both permissionless and programmable is mind-blowing. For example, it makes me wonder if I could create a [smart contract](https://ethereum.org/en/smart-contracts/) that automatically pays miners around the world to keep my blog and photo albums online for the next 250+ years. I'd *love* to explore that in a future blog post.
 - ENS feels like a really useful building block for resolving and verifying various things. A global key-value store has many potential use cases.
 
-### What does Web3 mean for developers?
+## What does Web3 mean for developers?
 
 If you are a developer, think of Web3 as a growing collection of new "web services".
 
@@ -159,7 +169,7 @@ IPFS and ENS are two such web services. Today, they mainly provide improved resi
 
 <p class="pullquote">In its current state, IPFS and ENS offer limited value to most website owners, but tremendous value to a very narrow subset of all website owners. That could change in the future.</p>
 
-### What is the promise of Web3?
+## What is the promise of Web3?
 
 I do think it is important to watch the Web3 space. New and powerful Web3 services will emerge. The internet's desire to eliminate intermediates has raged on for 20+ years. It is an unstoppable trend. With Web3, more intermediaries face risk of disintermediation and decentralization.
 

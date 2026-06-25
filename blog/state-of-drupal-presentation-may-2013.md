@@ -22,8 +22,8 @@ Two weeks ago at DrupalCon Portland, I gave my traditional State of Drupal prese
 
 In good tradition, you can [download a copy of my slides](https://dri.es/files/state-of-drupal-may-2013.pdf) (PDF, 29 MB) or you can [watch a video recording of my keynote](https://www.youtube.com/watch?v=PCLx4fRHmCk) (keynote starts at 14:00). The video of the White House guest appearance and the Drupal 8 demo video area also embedded in this post.
 
-[video PCLx4fRHmCk]
+https://www.youtube.com/watch?v=PCLx4fRHmCk
 
-[video cmLUtH3K1f8]
+https://www.youtube.com/watch?v=cmLUtH3K1f8
 
-[video E3wOfXaBfnI]
+https://www.youtube.com/watch?v=E3wOfXaBfnI

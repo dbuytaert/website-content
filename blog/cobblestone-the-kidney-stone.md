@@ -16,6 +16,8 @@ id: 5171
 
 # Cobblestone, the kidney stone
 
+![Selfie of Dries on the hospital bed](http://default/files/cache/miscellaneous-2021/in-emergency-room-with-kidney-stone-1-640w.jpg)
+
 I feel like I was in a street fight and got punched in the stomach.
 
 It started earlier this week with a stitch in my side when I was doing the dishes. By the time I finished, the stitch had turned into stomach cramps. I brushed it off as my stomach being upset due to jet lag. After all, we had just come back from Europe two days prior.
@@ -26,7 +28,8 @@ An hour after that initial stitch in my side, I couldn't explain the pain away a
 
 I was scared. This was a pain I didn't recognize and more intense than any pain I had ever experienced. By 9pm I asked Vanessa to drive me to the Emergency Room. Once at the ER, they had me on morphine within 45 minutes.
 
-[image miscellaneous-2021/in-emergency-room-with-kidney-stone-1]
+![Selfie of Dries on the hospital bed](http://default/files/cache/miscellaneous-2021/in-emergency-room-with-kidney-stone-1-640w.jpg)
+*Emergency room selfie.*
 
 After 5 and a half hours at the ER, the doctors concluded I had a kidney stone. An X-ray revealed that it was 4mm in size, and I was told it should pass on its own. They sent me home around 3am with some oxycodone (opioids) to help manage the pain throughout the night.
 

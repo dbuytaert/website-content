@@ -19,4 +19,4 @@ id: 1766
 
 Social news website [Digg](http://digg.com) (ranked 116th by [Alexa](http://alexa.com)) is using [Drupal](https://www.drupal.org) for their corporate micro-site and blog: <http://about.digg.com>. *Cool!*
 
-[image drupal/about-digg]
+![A webpage explaining Digg, a platform for discovering and sharing content, with a navigation menu and a "Take a Quick Tour!" button.](http://default/files/cache/drupal/about-digg-640w.jpg)

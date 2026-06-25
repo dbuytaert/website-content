@@ -21,7 +21,8 @@ id: 131
 
 Here is the search-volume graph that compares [Drupal](https://www.drupal.org/) and [Joomla](https://www.joomla.org/):
 
-[image drupal/drupal-vs-joomla-google resize=false]
+![Google Trends graph comparing Drupal and Joomla searches from 2004 to 2006, showing Joomla's sharp rise in interest.](http://default/files/images/drupal/drupal-vs-joomla-google.jpg)
+*&copy; <a href="http://google.com/trends?q=drupal,joomla">Google Trends</a>*
 
 It is worth pointing out that Joomla has been around a lot longer than the graph suggests. In 2005, the bulk of [Mambo](https://www.mamboserver.com/)'s core developers left Mambo and started Joomla after a dispute with Miro Corporation, the company that founded Mambo. Keep this in mind when interpreting the graph. (I tried adding Mambo to the graph but the term *Mambo* isn't unique to Mambo, the content management system.)
 

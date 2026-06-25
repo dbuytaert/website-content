@@ -15,7 +15,7 @@ id: 5021
 
 # Drupal 9 released
 
-[video JfEZeTH9c1I]
+https://www.youtube.com/watch?v=JfEZeTH9c1I
 
 Today, [we released Drupal 9.0.0](https://www.drupal.org/9)! This is a big milestone because we have been working on Drupal 9 for almost five years.
 

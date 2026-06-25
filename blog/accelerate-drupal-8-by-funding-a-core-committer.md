@@ -17,6 +17,8 @@ id: 4096
 
 # Accelerate Drupal 8 by funding a Core Committer
 
+![Hands typing on a keyboard with a computer screen displaying code in the background.](http://default/files/cache/blog/fingers-on-keyboard-640w.jpg)
+
 We have [ambitious goals for Drupal 8](https://www.drupal.org/about/strategic-initiatives), including new core features such as [Workspaces](https://dri.es/an-update-on-the-workflow-initiative-for-drupal-8-4-8-5) (content staging) and [Layout Builder](https://dri.es/an-update-on-the-layout-initiative-for-drupal-8-4-8-5) (drag-and-drop blocks), completing efforts such as the Migration path and [Media in core](https://dri.es/an-update-on-the-media-initiative-for-drupal-8-4-8-5), automated upgrades, and adoption of a JavaScript framework.
 
 I met with several of the coordinators behind these initiatives. Across the board, they identified the need for faster feedback from Core Committers, citing that a lack of Committer time was often a barrier to the initiative's progress.

@@ -20,4 +20,6 @@ id: 1846
 
 # Pumpkin carving
 
+![Two young children and an adult carve pumpkins outdoors, using small plastic tools to shape the designs.](http://default/files/cache/winchester-2010/pumpkin-carving-640w.jpg)
+
 Yes, these carving saws are for kids. No, they didn't hurt themselves.

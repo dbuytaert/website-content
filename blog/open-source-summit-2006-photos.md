@@ -19,6 +19,9 @@ id: 26
 
 # Open Source CMS Summit 2006 photos
 
+![A man with glasses and a lanyard looks at the camera with a serious expression on a busy street.](http://default/files/cache/vancouver-2006/boris-mann-640w.jpg)
+
 I just processed and uploaded a number of photos that I shot at the [Open Source CMS Summit](/open-source-cms-summit), MooseCamp and Northern Voice. Take a look at [the photo gallery](/album/vancouver-2006/) to get to know some of the faces behind Drupal.
 
-[image vancouver-2006/boris-mann]
+![A man with glasses and a lanyard looks at the camera with a serious expression on a busy street.](http://default/files/cache/vancouver-2006/boris-mann-640w.jpg)
+*Boris Mann, co-founder of Bryght and co-organizer of the Open Source CMS Summit, MooseCamp and Northern Voice.*

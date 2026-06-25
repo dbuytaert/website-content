@@ -19,4 +19,6 @@ id: 97
 
 # Jeff, Boris and me
 
+![A man in sunglasses and a white shirt talks on his phone, while another man smiles behind a glass window.](http://default/files/cache/san-francisco-2006/jeff-boris-and-me-640w.jpg)
+
 

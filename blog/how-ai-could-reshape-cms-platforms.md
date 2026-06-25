@@ -25,7 +25,7 @@ AI-driven content management isn't a distant scenario. Soon, Content Management 
 
 The challenge? Traditional CMS workflows weren't designed for AI-powered editing at scale. What features should an AI-first CMS include? What safeguards would prevent errors? What workflows would balance efficiency with quality control? I'm outlining some rough ideas to start a conversation and inspire Drupal contributors to help build this future.
 
-### 1. Smart review queues: scaling human oversight
+## 1. Smart review queues: scaling human oversight
 
 AI-generated content needs different quality checks than human work. Current editorial workflows aren't optimized to handle its output volume.
 
@@ -34,19 +34,19 @@ I envision "AI review queues" with specialized tools like:
 - **Spot-checking**: Instead of manually reviewing everything, editors can sample AI content strategically. They focus on key areas, like top-selling products or pages flagged by anomaly detection. Reviewing just 5% of the changes could provide confidence; good samples suggest the broader set works well. If issues are found, it signals the need for deeper review.
 - **Rolled-up approvals**: Instead of approving AI edits one by one, CMS platforms could summarize large-scale AI changes into a single reviewable batch.
 
-### 2. Git-like content versioning: selective control over AI changes
+## 2. Git-like content versioning: selective control over AI changes
 
 Say an AI translated your site into Spanish with mixed results. Meanwhile, editors updated the English content. Without sophisticated versioning, you face a tough choice: keep poor translations or roll everything back, losing days of human work.
 
 CMS platforms need Git-like branch-based versioning for content. AI contributions should exist in separate branches that teams can merge, modify, or reject independently.
 
-### 3. Configuration versioning: keeping AI from breaking your CMS
+## 3. Configuration versioning: keeping AI from breaking your CMS
 
 AI isn't just generating content. It is also modifying site configurations, permissions, content models and more. Many CMS platforms don't handle "configuration versioning" well. Changes to settings and site structures are often harder to track and undo.
 
 CMS platforms also need Git-like versioning for configuration changes, allowing humans to track, review, and roll back AI-driven modifications just as easily as content edits. This ensures AI can assist with complex site management tasks without introducing silent, irreversible changes.
 
-### 4. Enhanced audit trails: understanding AI decisions
+## 4. Enhanced audit trails: understanding AI decisions
 
 Standard CMS audit logs track who made changes and when, but AI operations demand deeper insights. When multiple AI agents modify your site, we need to know which agent made each change, why it acted, and what data influenced its decision. Without these explanations, tracking down and fixing AI errors becomes nearly impossible.
 
@@ -54,7 +54,7 @@ AI audit trails should record confidence scores showing how certain an agent was
 
 This transparency also supports compliance requirements, ensuring organizations can demonstrate responsible AI oversight.
 
-### 5. AI guardrails: enforcing governance and quality control
+## 5. AI guardrails: enforcing governance and quality control
 
 AI needs a governance layer to ensure reliability and compliance. Imagine a healthcare system where AI-generated medical claims must reference approved clinical studies, or a financial institution where AI cannot make investment recommendations without regulatory review.
 
@@ -64,7 +64,7 @@ Instead of just blocking AI from certain tasks, AI-generated content should be c
 
 Implementing these safeguards likely requires a "rules engine" that intercepts and reviews AI outputs. This could involve pattern matching to detect incorrect content, as well as fact verification against approved databases and trusted sources. For example, a healthcare CMS could automatically verify AI-generated medical claims against clinical research databases. A financial platform might flag investment advice containing unapproved claims for compliance review.
 
-### Strategic priorities for modern CMS platforms
+## Strategic priorities for modern CMS platforms
 
 I can't predict exactly how these ideas will take shape, but I believe their core principles address real needs in AI-integrated content management. As AI takes on a bigger role in how we manage content, building the right foundation now will pay off regardless of specific implementations. Two key investment areas stand out:
 

@@ -34,7 +34,7 @@ The 8 steps are as follows:
 7. Continue to streamline the patch review process
 8. Aim for a shorter release cycle
 
-### Step 1: Create better separation between framework and product
+## Step 1: Create better separation between framework and product
 
 As people start to build more products on top of Drupal, it is important that Drupal doesn't get in the way, and that it provides the flexibility and ease of customization for Drupal distribution builders. Drupal has always been king of flexibility, and missing or poorly designed APIs have always been considered and treated as bugs.
 
@@ -44,7 +44,7 @@ Over-engineering is a real threat though. When people fall in love with framewor
 
 I also don't like the term "smallcore" as a term for this work. First, the term seems to drive a wedge in the community – which I don't support. Second, the term is misleading and deceptive as core is more likely to get bigger as we improve our APIs, add more subsystems and potentially add more features. Third, the term alarms people who see the value in having a strong Drupal product, as it sounds antithetical to that goal. Let's stop saying "smallcore".
 
-### Step 2: Grow Drupal by making it a better product
+## Step 2: Grow Drupal by making it a better product
 
 Drupal 7 became more mature as a framework but it is also shipping with new features, as well as a lot of usability improvements that help make Drupal easier to use for content editors and site builders. A number of people are wondering how to undo some of the usability changes, and now dream about an "easy to undo" CMS. Making the framework better is a great goal, but not at the expense of our users.
 
@@ -62,7 +62,7 @@ We cannot afford to let Drupal remain a niche platform. Any user or organization
 
 If we want Drupal to be relevant longer term, it needs to be a capable, robust product that people can use out of the box. Distributions can exist to meet different market segments, but they need to build on the usability patterns set by Drupal core, as that is how we lower the total cost and risk of adoption of Drupal solutions.
 
-### Step 3: Select two strategic co-maintainers
+## Step 3: Select two strategic co-maintainers
 
 Every Drupal release has had one or more targets for improvement. Drupal 5 focused on the installer, Drupal 6 focused on internationalization, and Drupal 7 focused on usability. Why? [Neil Drumm](https://dri.es/neil-drumm) (Drupal 5 co-maintainer) cared deeply about the installer, [Gábor Hojtsy](https://dri.es/gabor-hojtsy) (Drupal 6 co-maintainer) was and still is passionate about internationalization, and [Angie "webchick" Byron](https://dri.es/angela-webchick-byron) (Drupal 7 co-maintainer) cares deeply about usability. This isn't a coincidence – I picked them with strategic objectives in mind.
 
@@ -72,7 +72,7 @@ By picking and empowering two people, and assigning them separate areas of respo
 
 When looking for Drupal 8 Framework and Product co-maintainers, I'll look for people who share that same vision – but who challenge me at the same time. A number of people come to mind, but is too early to share my current thinking. Watching people during the code freeze is a very important part of the recruiting process. After all, managing bug fixes, saying "no", and stabilizing the code base will end up being a critical part of any co-maintainer's job, especially after the development phase when the branch goes into maintenance mode.
 
-### Step 4: Distributions could help, if we do them right
+## Step 4: Distributions could help, if we do them right
 
 So how do we improve Drupal as a product? We've had Drupal distributions since the Drupal 4.6 era and I [first wrote about the potential of Drupal distributions in 2005](https://dri.es/drupal-distributions). Drupal distributions have great potential – turnkey solutions help us compete in new and different markets, something that could help Drupal become a significant player. The number of verticals is nearly unlimited and the opportunities are numerous.
 
@@ -86,7 +86,7 @@ We have written a lot of the the packaging scripts needed to put distributions t
 
 As a community, we have to take responsibility, and make sure that distributions collaborate rather than compete, much like the way that we attempt to work together on modules. That starts by centralizing all the code on drupal.org, by making Drupal core flexible enough, but also by encouraging shared design patterns and user experience. With distributions, community responsibility and leadership becomes even more important. Building one product is hard. Building a set of products in a way that strengthens and accelerates Drupal is much, much harder.
 
-### Step 5: Experiment with distributed revision control systems
+## Step 5: Experiment with distributed revision control systems
 
 If the road to success is making Drupal a better product (along with making it a better framework), we need to be able to add new features to Drupal core.
 
@@ -98,7 +98,7 @@ Giving more CVS write accounts or splitting core in smaller projects could help 
 
 In other words, I see myself experimenting with a distributed revision control system like Git or bzr. Not immediately, but somewhere in the Drupal 8 development cycle. Right now, I want everyone to be laser focused on getting Drupal 7 out. At least initially, I'd want the CVS repository to be the main, canonical repository from which Drupal core is packaged. However, I'd additionally pull in changes through Git/bzr for some period of time, to help decide if Git/bzr is what we want.
 
-### Step 6: Backport small changes to stable releases
+## Step 6: Backport small changes to stable releases
 
 Some people suggested that the framework and the product could move at different speeds. I am uncomfortable with that concept.
 
@@ -106,7 +106,7 @@ Feature development drives API advancements. API improvements drive new and bett
 
 That said, there might be certain changes, like smaller usability improvements, standalone features, or new hooks that don't break existing code, that could be backported to previous Drupal releases during the development cycle. Of course the changes cannot break any code or invalidate existing documentation, but I think having a good test harness will help. Going forward, I'd be comfortable backporting certain changes that help Drupal advance, as long it is transparent to existing Drupal installations.
 
-### Step 7: Continue to streamline the patch review process
+## Step 7: Continue to streamline the patch review process
 
 A key problem still seems to be that it is difficult to get solid patch reviews, making it slow for some patches to get committed. Finding solid reviewers is hard, especially as Drupal becomes more advanced. I still believe this is a primary source of frustration, and that we should continue to streamline the patch review process.
 
@@ -116,7 +116,7 @@ One way to streamline the patch review process is to automate code style reviews
 
 It doesn't necessarily solve the problem that one can't find enough good reviewers for one's patch but I think it will help.
 
-### Step 8: Aim for a shorter release cycle
+## Step 8: Aim for a shorter release cycle
 
 There is a sentiment amongst developers that the Drupal 7 core release cycles was too long. It can make it frustrating to contribute to Drupal core development. Who wants to work on a feature that might not be used in production for another 18 to 24 months? Near the end of the code freeze, things heat up, and people submit a lot more patches. In other words, shorter release cycles could make it more compelling to contribute.
 
@@ -126,6 +126,6 @@ How long the Drupal 8 release cycle will be I can't say yet, but let's aim for a
 
 Another adjustment to the release cycle could be separate code freezes for the Framework (APIs) and the Product (user features and usability). The Framework/API freeze would precede the Product/CMS freeze, and would let us focus on establishing the underlying changes earlier in the overall cycle, with focus shifting to features and usability later in the cycle. This will make feature development easier as the APIs will not be shifting around as much, and it will give a period of time after the Framework freeze where we can focus on bugfixing and performance improving the Framework, even while new features are still being developed.
 
-### Some closing thoughts
+## Some closing thoughts
 
 The 8 steps outlined above describe actions and steps that we can take to help make Drupal 8 rock. As we look forward to Drupal 8 development, I think it is important to focus on the right things. If we want Drupal to win and prevent Drupal from being stuck as a small player in the bigger picture, we need to focus on making Drupal easier to use for both end-users and developers, while maintaining our innovative edge. Some of these 8 steps make Drupal better for end-users, some of these steps make Drupal better for developers and some of these steps make Drupal a better product. I truly believe we can all win.

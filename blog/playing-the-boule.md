@@ -19,4 +19,6 @@ id: 110
 
 # Playing the boule
 
+![A pétanque ball is captured mid-air, reflecting the photographer and the beach in its shiny surface.](http://default/files/cache/knokke-heist-2006/playing-the-boule-640w.jpg)
+
 

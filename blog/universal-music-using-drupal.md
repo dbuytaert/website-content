@@ -22,4 +22,4 @@ Daniel Kruchkow, Senior Vice President Global Digital Initiatives at Universal M
 
 To quote Daniel: *"We're more than happy with it and are looking forward to expanding our content and feature sets as time goes on. Our users love it."*
 
-[image drupal/universal-music]
+![A music website homepage featuring a Maroon 5 and Rihanna collaboration, video highlights, advertisements, and a music player.](http://default/files/cache/drupal/universal-music-640w.jpg)

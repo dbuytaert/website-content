@@ -38,7 +38,7 @@ In that sense, AI agents amplify an old truth about software adoption: the best 
 
 But AI agents amplify that truth through "silent rejection". A human evaluator might complain, ask for help, file an issue, or write an angry Reddit post. An AI agent just tries another path. You may never know your software was considered and rejected.
 
-### Easy is more than low friction
+## Easy is more than low friction
 
 If you want your project to be adopted, you have to make the best path the easiest one to complete.
 
@@ -83,7 +83,7 @@ _Verification_ is the cost of knowing whether the work succeeded. Tests, clear e
 
 Each cost burns tokens, meaning the AI agent has to spend more of its limited context and reasoning budget reading documentation, comparing different options, or recovering from failed attempts.
 
-### What helps agents helps people
+## What helps agents helps people
 
 This is not just an AI problem. People have always preferred software that is easy to get running, gives them a clear path forward, and tells them when something worked. AI agents make the same preference more obvious because they have even less room for trial and error.
 
@@ -91,7 +91,7 @@ Developer Experience (DX) makes software easier for developers to evaluate, buil
 
 In practice, the overlap is large. Better scaffolding, clearer errors, faster setup, opinionated best practices, and reliable tests help agents, but they also help developers, evaluators, and contributors.
 
-### Open Source still has to compete
+## Open Source still has to compete
 
 The cheap-to-run advantage will not belong to Open Source forever. Proprietary vendors and SaaS companies are adding free tiers, programmatic access, and Model Context Protocol servers that give agents tools and context with less friction.
 

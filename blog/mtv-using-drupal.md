@@ -24,4 +24,4 @@ The interesting part is the fact that the new website will act as the front-end 
 
 <q>Our users now have the ability to create and upload content to mtvflux.co.uk that will also be showcased on the broadcast channel. Drupal's social networking capabilities make it a good match for our local development team's needs and the software's extensibility has allowed the creation of modules to interact with our on-air systems as well as SMS mobile and Flash-based interactive systems.</q>
 
-[image drupal/mtv-flux]
+![A screenshot of the MTV Flux website shows user profiles, a registration form, and an avatar customization feature.](http://default/files/cache/drupal/mtv-flux-640w.jpg)

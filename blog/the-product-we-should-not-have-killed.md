@@ -23,6 +23,8 @@ id: 5941
 
 # The product we should not have killed
 
+![A lone astronaut stands on cracked ground as bright green energy sprouts upward, symbolizing a new beginning.](http://default/files/cache/acquia/acquia-source-sprout-640w.jpg)
+
 Ten years ago, [Acquia](https://www.acquia.com/) shut down Drupal Gardens, a decision that I still regret.
 
 We had launched Drupal Gardens in 2009 as a SaaS platform that let anyone build [Drupal](https://www.drupal.org) websites without touching code. Long-time readers may remember my [various blog posts](https://dri.es/tag/drupal-gardens) about it.

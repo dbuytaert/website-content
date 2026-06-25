@@ -17,4 +17,6 @@ id: 364
 
 # Drupalcino
 
+![A white mug with the Drupal logo, filled with a frothy drink, with a spoon inside.](http://default/files/cache/drupal/drupalcino-640w.jpg)
+
 Good morning world! Remember, sleep is no substitute for good coffee.

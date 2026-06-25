@@ -16,28 +16,32 @@ id: 4746
 
 # Drupal helps rescue ultra marathon runner
 
+![A photo of a runner at the Ultra-trail Snowdonia ultramarathon](http://default/files/cache/drupal/ultra-trail-snowdonia-2018-1-640w.jpg)
+
 I'm frequently sent examples of how Drupal has changed the lives of developers, business owners and end users. Recently, I received a very different story of how Drupal had helped in a rescue operation that saved a man's life.
 
-### The Snowdonia Ultra Marathon website
+## The Snowdonia Ultra Marathon website
 
 In early 2018, Race Director Mike Jones was looking to build a new website for the Ultra-Trail Snowdonia ultra marathon. He reached out to a good friend and developer, Rob Edwards, to lead the development of the website.
 
 <div class="large">
-  [image drupal/ultra-trail-snowdonia-2018-1]
+  ![A photo of a runner at the Ultra-trail Snowdonia ultramarathon](http://default/files/cache/drupal/ultra-trail-snowdonia-2018-1-640w.jpg)
+*&copy; Ultra-trail Snowdonia and No Limits Photography*
 </div>
 
 Rob chose Drupal for its flexibility and extensibility. As an organization supported heavily by volunteers, open source also fit the Snowdonia team's belief in community.
 
 The resulting website, <https://apexrunning.co/>, included a custom-built timing module. This module allowed volunteers to register each runner and their time at every aid stop.
 
-### A runner goes missing
+## A runner goes missing
 
 Rob attended the first day of Ultra-Trail Snowdonia to ensure the website ran smoothly. He also monitored the runners at the end of the race to certify they were all accounted for.
 
 Monitoring the system into the early hours of the morning, Rob noticed one runner, after successfully completing checkpoints one and two, hadn't passed through the third checkpoint.
 
 <div class="large">
-  [image drupal/ultra-trail-snowdonia-2018-2]
+  ![A photo of a runner at the Ultra-trail Snowdonia ultramarathon](http://default/files/cache/drupal/ultra-trail-snowdonia-2018-2-640w.jpg)
+*&copy; Ultra-trail Snowdonia and No Limits Photography*
 </div>
 
 Each runner carried a mobile phone with them for emergencies. Mike attempted to make contact with the runner via phone to ensure he was safe. However, this specific area was known for its poor signal and the connection was too weak to get through.
@@ -46,7 +50,7 @@ After some more time eagerly watching the live updates, it was clear the runner 
 
 Due to the terrain and temperature, searching for the lost runner on foot would be too slow. Instead, the mountain rescue volunteers used a helicopter to scan the area and locate the runner.
 
-### How Drupal came to rescue
+## How Drupal came to rescue
 
 The area covered by runners in an ultra marathon like this one is vast. The custom-built timing module helped rescuers narrow down the search area; they knew the runner passed the second checkpoint but never made it to the third.
 

@@ -19,4 +19,6 @@ id: 37
 
 # Debunking marital myths
 
+![A person wearing dark socks stands on a digital scale showing a weight of 85.](http://default/files/cache/miscellaneous-2006/my-weight-before-marriage-640w.jpg)
+
 Picture taken 24 hours before our wedding! In order to successfully debunk marital myths and common beliefs (read: weight gain after marriage) one needs to accurately register the past. Like that, we can fall back on traditional science and math in future.

@@ -17,4 +17,6 @@ id: 8
 
 # Snowy beach
 
+![A snowy beach with footprints, calm waves, and a distant city skyline under a cloudy sky.](http://default/files/cache/knokke-heist-2005/snowy-beach-640w.jpg)
+
 First time I saw the Belgian beach covered with snow. Taken with my new 50mm lens.

@@ -15,7 +15,7 @@ id: 2552
 
 # Open Source rock at Latinoware
 
-[image brazil-2011/open-source-rock-1]
-[image brazil-2011/open-source-rock-2]
-[image brazil-2011/open-source-rock-3]
-[image brazil-2011/open-source-rock-4]
+![A live rock band performs on an outdoor stage at night, with a crowd gathered to watch.](http://default/files/cache/brazil-2011/open-source-rock-1-640w.jpg)
+![A musician sings into a microphone while playing an electric guitar on stage, with a music stand in front.](http://default/files/cache/brazil-2011/open-source-rock-2-640w.jpg)
+![A rock band performs on stage with two people in animal costumes, including a penguin wearing a hard hat.](http://default/files/cache/brazil-2011/open-source-rock-3-640w.jpg)
+![A musician sings into a microphone while playing an electric guitar on stage.](http://default/files/cache/brazil-2011/open-source-rock-4-640w.jpg)

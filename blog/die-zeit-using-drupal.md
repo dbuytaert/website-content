@@ -20,4 +20,4 @@ id: 268
 
 Just like [Die Welt](https://dri.es/die-welt-using-drupal) (*The World*), [Die Zeit](http://www.zeit.de) (*The Time*), a widely respected German newspaper, recently launched a Drupal powered community website at <http://uni.zeit.de>. *Go Germany, go!*
 
-[image drupal/die-zeit resize=false]
+![A webpage from DIE ZEIT Community showing a login section, forum links, new members, and a survey announcement.](http://default/files/images/drupal/die-zeit.jpg)

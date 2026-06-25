@@ -19,6 +19,8 @@ id: 3086
 
 # The Assembled Web
 
+![Chalk drawing of a cube made of smaller blue blocks, with some blocks floating apart, on a blackboard background.](http://default/files/cache/blog/assembled-web-640w.jpg)
+
 To "assemble" means to build. Assembling also means that we come together. Sometimes, both aspects are true. When that happens and we work together to build, we are better off for it.
 
 The Open Source community is a perfect example of this. When Linux creator Linus Torvalds spoke about how it felt to get contributions from a worldwide network of people, he remarked "I had hoisted myself up on the shoulders of giants". I'm lucky enough to feel the same way.

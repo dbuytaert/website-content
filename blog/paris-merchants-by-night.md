@@ -17,6 +17,7 @@ id: 1456
 
 # Paris merchants by night
 
-[image paris-2010/paris-merchants-by-night-1]
-[image paris-2010/paris-merchants-by-night-2]
-[image paris-2010/paris-merchants-by-night-3]
+![A woman in a fur coat shops at a butcher counter in Paris at night.](http://default/files/cache/paris-2010/paris-merchants-by-night-1-640w.jpg)
+*A women in fur at a butcher in Paris.*
+![A fruit and vegetable stand at night with merchants and customers interacting on a well-lit Paris street.](http://default/files/cache/paris-2010/paris-merchants-by-night-2-640w.jpg)
+![Fresh fruit displayed in green crates at a Paris market stall at night, including apples, bananas, and grapes.](http://default/files/cache/paris-2010/paris-merchants-by-night-3-640w.jpg)

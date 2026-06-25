@@ -19,4 +19,4 @@ id: 678
 
 François Fillon, French Prime Minister, mentions [Drupal](https://www.drupal.org) in [Le Figaro](http://lefigaro.fr), one of the leading French daily newspapers. Read the article: [Fillon est-il un "vrai geek"?](http://www.lefigaro.fr/secteur/high-tech/2009/06/18/01007-20090618ARTFIG00523-fillon-est-il-un-vrai-geek-.php). Maybe he has his own Drupal site or will get one soon? *(Hat tip: [Ineation](http://www.ineation.com))*
 
-[image drupal/le-figaro-2009]
+![A man in a suit shows his smartphone to two colleagues, who lean in closely to see the screen.](http://default/files/cache/drupal/le-figaro-2009-640w.jpg)

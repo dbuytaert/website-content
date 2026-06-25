@@ -18,4 +18,6 @@ id: 180
 
 # Leaf girl
 
+![A woman with blonde hair lies on autumn leaves, wearing a dark jacket and looking directly at the camera.](http://default/files/cache/miscellaneous-2006/leaf-girl-640w.jpg)
+
 

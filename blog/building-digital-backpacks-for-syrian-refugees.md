@@ -18,6 +18,8 @@ id: 4476
 
 # Building digital backpacks for Syrian refugees
 
+![](http://default/files/cache/blog/digital-backpack-640w.jpg)
+
 I recently heard a heart-warming story from the [University of California, Davis](https://www.ucdavis.edu/). Last month, UC Davis used [Drupal](https://www.drupal.org/) to launch [Article 26 Backpack](https://article26backpack.ucdavis.edu/), a platform that helps Syrian Refugees document and share their educational credentials.
 
 Over the course of the Syrian civil war, more than 12 million civilians have been displaced. Hundreds of thousands of these refugees are students, who now have to overcome the obstacle of re-entering the workforce or pursuing educational degrees away from home.

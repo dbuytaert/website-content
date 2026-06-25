@@ -19,4 +19,4 @@ id: 1111
 
 Strayer University, with more than 44,000 students enrolled at over 70 campuses, is using [Drupal](https://www.drupal.org) on <http://strayer.edu>.
 
-[image drupal/strayer-university]
+![A man studies on a laptop, promoting Strayer University's flexible education for working adults.](http://default/files/cache/drupal/strayer-university-640w.jpg)

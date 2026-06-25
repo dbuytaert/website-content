@@ -20,4 +20,4 @@ id: 369
 
 [Sun Microsystems](http://sun.com) is using [Drupal](https://www.drupal.org) for the [OpenOffice extensions site](http://extensions.services.openoffice.org/).
 
-[image drupal/openoffice-extensions]
+![A webpage displaying OpenOffice extensions, including "Sun Presentation Minimizer" and "OxygenOffice Extras - French Templates", with descriptions and ratings.](http://default/files/cache/drupal/openoffice-extensions-640w.jpg)

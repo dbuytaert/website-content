@@ -18,4 +18,6 @@ id: 1056
 
 # Rutgers using Drupal
 
+![A smiling student holds a notebook in front of a Rutgers University building, promoting campus life and academics.](http://default/files/cache/drupal/rutgers-640w.jpg)
+
 Rutgers University, with more than 50,000 students the largest institution for higher education in the state of New Jersey, switched their main website, <http://rutgers.edu>, to [Drupal](https://www.drupal.org). *Looks stunning!*

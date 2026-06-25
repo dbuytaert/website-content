@@ -25,4 +25,4 @@ The company has moved the entire website to Acquia Cloud, giving the site a resi
 
 The team at Weather.com worked with [Acquia](https://www.acquia.com) and [Mediacurrent](http://mediacurrent.com) for its site development and migration.
 
-[image drupal/weather-channel]
+![A weather news website reports a major snowstorm with firefighters in heavy snowfall and various weather-related articles.](http://default/files/cache/drupal/weather-channel-640w.jpg)

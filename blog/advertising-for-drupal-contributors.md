@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/advertising-for-drupal-contributors'
-title: 'Advertising for Drupal contributors '
+title: 'Advertising for Drupal contributors'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -16,7 +16,7 @@ published: true
 id: 4991
 ---
 
-# Advertising for Drupal contributors 
+# Advertising for Drupal contributors
 
 Today, [Acquia](https://acquia.com) announced how it will support [Drupal](https://www.drupal.org) and the [Drupal Association](https://www.drupal.org/association) in [these challenging times](https://dri.es/sustaining-the-drupal-association-in-uncertain-times). In his blog post, [Mike Sullivan](https://www.linkedin.com/in/mpsully/), Acquia's CEO, lists [Acquia's many contributions to Drupal](https://www.acquia.com/blog/supporting-drupal-amid-covid-19).
 

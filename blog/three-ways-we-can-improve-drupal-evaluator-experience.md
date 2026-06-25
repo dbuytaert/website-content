@@ -20,6 +20,8 @@ id: 4196
 
 # Three ways we can improve Drupal's evaluator experience
 
+![An example Drupal conversion funnel and the primary stakeholders for each level.](http://default/files/cache/drupal/evaluator-conversion-funnel-640w.jpg)
+
 Last week, [Matthew Grasmick](https://www.drupal.org/u/grasmash) stepped into the shoes of a developer who has no Drupal experience, and attempted to get a new "Hello world!" site up and running using four different PHP frameworks: [WordPress](https://wordpress.org), [Laravel](https://laravel.com), [Symfony](https://symfony.com) and [Drupal](https://www.drupal.org). He shared his experience in [a transparent blog post](http://matthewgrasmick.com/compare-php-frameworks). In addition to detailing the inefficiencies in Drupal's download process and end-user documentation, Matt also shows that out of the four frameworks, Drupal required the most steps to get installed.
 
 While it is sobering to read, I'm glad Matthew brought this problem to the forefront. Having a good evaluator experience is critical as it has a direct impact on adoption rates. A lot goes into a successful evaluator experience: from learning what Drupal is, to understanding how it works, getting it installed and getting your first piece of content published.
@@ -28,7 +30,7 @@ So how can we make some very necessary improvements to Drupal's evaluator experi
 
 I like to think of the evaluator experience as a *conversion funnel*, similar to the [purchase funnel](https://en.wikipedia.org/wiki/Purchase_funnel) developed in 1898 by E. St. Elmo Lewis. It maps an end-user journey from the moment a product attracts the user's attention to the point of use. It's useful to visualize the process as a funnel, because it helps us better understand where the roadblocks are and where to focus our efforts. For example, we know that more than 13 million people visited Drupal.org in 2017 (top of the funnel) and that approximately 75,000 new Drupal 8 websites launched in production (bottom of the funnel). A very large number of evaluators were lost as they moved down the conversion funnel. It would be good to better understand what goes on in between.
 
-[image drupal/evaluator-conversion-funnel resize=false]
+![An example Drupal conversion funnel and the primary stakeholders for each level.](http://default/files/cache/drupal/evaluator-conversion-funnel-640w.jpg)
 
 As you can see from the image above, the **Drupal Association** plays an important role at the top of the funnel; from educating people about Drupal, to providing a streamlined download experience on Drupal.org, to helping users find themes and modules, and much more.
 

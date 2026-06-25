@@ -20,4 +20,4 @@ id: 555
 
 Belgian men's magazine [P-Magazine](http://www.p-magazine.com) (LSFW) recently switched to [Drupal](https://www.drupal.org). I don't know who built the site, but I'm told it is hosted on a multi-server cluster at [Combell](http://combell.be). More proof that [Drupal is growing strong in Belgium](https://dri.es/drupal-talk-at-feweb-2008). *Cool!*
 
-[image drupal/pmagazine]
+![A magazine website featuring images of models, blog sections, news articles, and advertisements for movies and contests.](http://default/files/cache/drupal/pmagazine-640w.jpg)

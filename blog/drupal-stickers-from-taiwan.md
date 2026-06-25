@@ -17,4 +17,6 @@ id: 77
 
 # Drupal stickers from Taiwan
 
+![An envelope from Taiwan with two Drupal stickers, including one for a Drupal Taiwan Meetup event.](http://default/files/cache/drupal/stickers-from-taiwan-640w.jpg)
+
 

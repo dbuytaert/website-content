@@ -32,6 +32,6 @@ Love,
 
 Dries
 
-[image wedding-mien-and-johan-2014/wedding-10]
+![An older man in a light blue shirt drinks coffee at an outdoor table during a wedding gathering.](http://default/files/cache/wedding-mien-and-johan-2014/wedding-10-640w.jpg)
 
-[image aruba-2016/we-heart-opa-1]
+![A heart with the word "OPA" is drawn in the sand near the water's edge.](http://default/files/cache/aruba-2016/we-heart-opa-1-640w.jpg)

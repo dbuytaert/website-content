@@ -20,4 +20,4 @@ id: 2196
 
 A short video of Axl and Stan for our family and friends in Europe who don't see them every day. Axl started learning English 6 months ago when he started pre-school. It's fascinating to see how fast his English gets better. The video is shot with the Panasonic GF-1 and the Lumix 20mm f/1.7 lens that I got for Christmas two years ago.
 
-[video UySUXavow_0]
+https://www.youtube.com/watch?v=UySUXavow_0

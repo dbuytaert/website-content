@@ -17,4 +17,6 @@ id: 1486
 
 # My fridge
 
+![A refrigerator filled with yogurt, jam, juice, eggs, vegetables, and packaged meat, neatly arranged on multiple shelves.](http://default/files/cache/miscellaneous-2010/fridge-640w.jpg)
+
 I'll show you mine, if you show me yours. What does your fridge look like today?

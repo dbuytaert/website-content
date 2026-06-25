@@ -21,6 +21,8 @@ id: 4146
 
 # To PESOS or to POSSE?
 
+![](http://default/files/cache/blog/pesos-vs-posse-640w.jpg)
+
 Yesterday I shared that [I uninstalled the Facebook application from my phone](https://dri.es/taking-control-of-my-data-and-social-media). My friend Simon Surtees was quick to text me: <q>I for one am pleased you have left Facebook. Less Cayman Island pictures!</q>. Not too fast Simon. I never said that I left Facebook or that I'd stop posting on Facebook. Plus, I'll have more Cayman Islands pictures to share soon. :)
 
 As a majority of my friends and family communicate on Facebook and Twitter, I still want to share updates on social media. However, I believe I can do it in a more thoughtful manner that allows me to take back control over my own data. There are a couple of ways I could go about that:
@@ -33,7 +35,7 @@ The [IndieWeb movement](https://indieweb.org) has provided two clever names for 
 1. **PESOS** or [Publish Elsewhere, Syndicate (to your) Own Site](https://indieweb.org/PESOS) is a model where publishing begins on third party services, such as Facebook, and then copies can be syndicated to your own site.
 2. **POSSE** or [Publish (on your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE) is a publishing model that begins with posting content on your own site first, then syndicating out copies to third party services.
 
-[image blog/pesos-vs-posse resize=false]
+![](http://default/files/cache/blog/pesos-vs-posse-640w.jpg)
 
 Here is the potential impact of each approach:
 

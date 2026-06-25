@@ -16,4 +16,6 @@ id: 72
 
 # Volkswagen Beetle
 
+![Close-up of a vintage Volkswagen Beetle's front bumper and license plate, with reflections visible on the chrome surface.](http://default/files/cache/miscellaneous-2006/volkswagen-beetle-640w.jpg)
+
 

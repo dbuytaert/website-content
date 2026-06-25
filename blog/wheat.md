@@ -17,4 +17,6 @@ id: 42
 
 # Wheat
 
+![Close-up of wheat stalks in silhouette against warm light, showing detailed grains and fine strands.](http://default/files/cache/tuscany-2006/wheat-640w.jpg)
+
 

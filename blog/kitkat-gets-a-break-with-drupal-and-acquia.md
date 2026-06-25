@@ -20,18 +20,21 @@ id: 5476
 
 # KitKat gets a break with Drupal and Acquia
 
+![Three people engaged in a discussion on stage.](http://default/files/cache/acquia/engage-london-2023-kitkat-1-640w.jpg)
+
 During our Acquia Engage Tour, I had the privilege of speaking with some of the world's most iconic brands about their experiences with [Drupal](https://www.drupal.org/) and [Acquia](https://www.acquia.com/). In London, I spoke with [Arush Kochhar](https://www.linkedin.com/in/arushkochhar/) (Global Confectionery Lead at [Nestlé](https://www.nestle.com/)) and [Niel Mouton](https://www.linkedin.com/in/nielmouton/) (Group Chief Growth Officer, Commerce &amp; Technology of EMEA for [Wunderman Thompson](https://www.wundermanthompson.com/)) about the KitKat website transformation.
 
 Arush described a picture that I see all the time with global companies. Across 80+ countries, each market was creating their own digital presence for KitKat consumers, based on their regional marketing needs and consumer demands. The end result was chaotic – with silos, inefficiency, and a lack of brand consistency across regions.
 
-[video -o4xqAsCslo]
+https://www.youtube.com/watch?v=-o4xqAsCslo
 
 KitKat partnered with Wunderman Thompson to standardize all of the brand's global sites on Drupal and the Acquia Digital Experience Platform (DXP). KitKat needed to establish a global standard with security and governance across the board, while allowing each regional market the creative freedom to personalize the experience for their own consumers. Acquia DXP allowed them to do that.
 
 If you've ever seen a matcha green tea KitKat in Japan, you know that KitKats don't look the same around the world. While standardization and governance are important, each region also needs the flexibility to make content changes on a local level.
 
 <div class="large">
-  [image acquia/engage-london-2023-kitkat-2 resize=false]
+  ![A slide from KitKat's presentation highlighting the importance of Open Source to Nestlé. It lists four reasons: \(1\) budget, \(2\) community, \(3\) flexibility and transparency, and \(4\) global standards.](http://default/files/cache/acquia/engage-london-2023-kitkat-2-640w.png)
+*A slide from KitKat's presentation at Acquia Engage 2023.*
 </div>
 
 In less than 18 months, all key markets standardized on Drupal and Acquia DXP. Using Acquia, KitKat is bringing big, bold, global storytelling to life, while transforming their business in the process. Each team can tap into standardized global templates to speed up digital changes, swapping out regional imagery and storytelling as needed.

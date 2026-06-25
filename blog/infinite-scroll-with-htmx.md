@@ -21,6 +21,8 @@ id: 5951
 
 # Infinite scroll with htmx
 
+![A train moves quickly through a dimly lit underground tunnel, leaving streaks of light in its path.](http://default/files/cache/miscellaneous-2022/train-2-640w.jpg)
+
 Several years ago, [I built a photo stream](https://dri.es/a-photo-stream-for-my-site) on my Drupal-powered website. You can see it at https://dri.es/photos. This week, I gave it a small upgrade: infinite scroll.
 
 My first implementation used vanilla JavaScript using the [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API), and it worked fine. It took about 30 lines of custom JavaScript and 20 lines of PHP code.

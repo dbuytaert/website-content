@@ -23,7 +23,7 @@ While entrepreneurship and startups have spread tremendously in Europe, a lot of
 
 So, what can Europe do about it? Here are my three recommendations.
 
-### Focus on creating large companies
+## Focus on creating large companies
 
 Europe produces plenty of small businesses: restaurants, small technology firms, clothing stores, hair salons, and so on. What it doesn't produce enough of are innovative companies that grow quickly and end up big. It's a problem.
 
@@ -39,7 +39,7 @@ If you look at Silicon Valley, Hewlett Packard, among others, served that purpos
 
 I recommend that European government stimulus focuses on companies that could become titans, not on small companies that won't move the needle. Too often, there are investments made in companies that have limited or no growth potential.
 
-### Level the playing field
+## Level the playing field
 
 Anyone who has built a global organization likely understands that European work regulations can shackle the growth of startups. Taxes are high, it's hard to acquire a European company, severance packages can be outrageous and it's extremely difficult to fire someone.
 
@@ -47,7 +47,7 @@ It only gets worse when you attempt to operate in multiple European countries, a
 
 Europe needs to roll out unified labor laws that are competitive globally and unified across Europe. My biggest worry is the branches of government that try to promote entrepreneurship are not powerful enough to address Europe's labour rules.
 
-### Change our culture
+## Change our culture
 
 A small business can be started anywhere in the world, but it takes a different level of ambition to aspire to become the next Apple. The biggest thing entrepreneurs need is the belief that it can be done, that it's worth taking the risk and putting in the hard work. Having the right culture unlocks the passion and dedication necessary to succeed.
 

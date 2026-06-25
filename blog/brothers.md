@@ -20,4 +20,6 @@ id: 2526
 
 # Brothers
 
+![Two young children wearing life jackets sit on a boat, with one hugging the other while looking at the water.](http://default/files/cache/duxbury-2011/duxbury-10-640w.jpg)
+
 

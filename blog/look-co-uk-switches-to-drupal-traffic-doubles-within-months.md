@@ -24,4 +24,4 @@ IPC Media recently converted [Look.co.uk](http://look.co.uk) from a bespoke Cold
 
 **Update:** two IPC Media employees respond in the comments and provide some extra color; [Peter Brady](https://dri.es/look-co-uk-switches-to-drupal-traffic-doubles-within-months#comment-22196) (lead developer look.co.uk) and [Anthony Thornton](https://dri.es/look-co-uk-switches-to-drupal-traffic-doubles-within-months#comment-22241) (project manager look.co.uk).
 
-[image drupal/look-co-uk]
+![A fashion and celebrity magazine website featuring articles, shopping deals, and a subscription offer with a 25% discount.](http://default/files/cache/drupal/look-co-uk-640w.jpg)

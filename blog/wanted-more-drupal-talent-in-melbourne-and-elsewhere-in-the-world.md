@@ -25,4 +25,5 @@ We need to train more good Drupal people. We can do this through more and better
 
 The next 36 hours I'm in Sydney to meet with more partners, users and developers. Should be fun and productive.
 
-[image australia-2011/drupal-meetup-melbourne]
+![A group of six Drupal developers posing together at a meetup in Melbourne, standing in a well-lit indoor space.](http://default/files/cache/australia-2011/drupal-meetup-melbourne-640w.jpg)
+*Some of the Drupal developers that showed up at the Drupal meet-up in Melbourne. About 30 to 40 people showed up in total.*

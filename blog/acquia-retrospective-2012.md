@@ -21,7 +21,7 @@ For [Acquia](https://www.acquia.com), 2012 was a great year. In many ways, it's 
 
 Last year, we saw more evidence of [Drupal](https://www.drupal.org) continuing to become a growing part of the mainstream. While this trend has been apparent for some time, in 2012 we were being adopted at a faster rate by more and more enterprise businesses and government agencies. Acquia, in many ways, has risen on the tide of this acceptance. Maybe we helped build this momentum. And along the way, as we've grown, we have worked to keep the philosophy of open source as the guiding philosophy of Acquia.
 
-### The Open Source Way
+## The Open Source Way
 
 The concept of being guided by the philosophy of open source, which I call the *Open Source Way*, is reflected in Acquia's approach to our products and services. For example, we believe it is important to provide the capability to easily transfer data from one platform or solution to another, and not be shackled to proprietary vendors' platforms. The solutions we offer, whether PaaS or SaaS, allow innovation and agility by following the open source way, eliminating lock-in. We've coined [the terms OpenSaaS and OpenPaas](https://dri.es/acquia-product-strategy-and-vision) to refer to this.
 
@@ -31,7 +31,7 @@ Acquia grew by more than 160 employees last year, and now totals about 280 staff
 
 Our core strength is our ability to accomplish the aggressive goals we set for ourselves. This ability is the result of both the collaboration and the passion the Acquia staff brings to everything we do. Acquia's culture, in which collaboration and passion are key, also reflect the Open Source Way. We bring this passion and collaboration to our customers as well, and we work hard to ensure every customer's success. In 2012, the number of customers renewing with us was up, returning that commitment and loyalty.
 
-### Landmarks and trends
+## Landmarks and trends
 
 As we moved through 2012, we saw the growing acceptance of cloud computing. No longer was it "should we be on the cloud", but businesses asked "how best to move to the cloud". More often, the open, elastic cloud computing offered by Acquia was the answer. Platform as a Service (PaaS) and Software as a Service (SaaS) both continue to gain further acceptance and grow, again providing that ability to react to business needs rapidly, putting a larger portion of resources into building exactly what is needed when it is needed, rather than investing in expensive infrastructure and maintenance. The success of our cloud products means that Acquia will continue to invest and expand in this area in 2013, especially as we saw the trend last year that having many microsites, often one for each product or service, is quickly becoming the rule rather than the exception.
 
@@ -41,7 +41,7 @@ As the public moves rapidly to mobile platforms of all kinds, including smart ph
 
 Also in 2012, [Acquia acquired Mollom](https://dri.es/mollom-acquired-by-acquia), a company I created to address the challenge of managing social spam on websites. With the tremendous growth of user-generated content as part of the social media explosion, unwanted content has become a more important issue to take on. As a SaaS tool, [Mollom](https://mollom.com) fits in with Acquia's existing services.
 
-### Drupal community
+## Drupal community
 
 In 2012, [Acquia](https://www.acquia.com) continued to invest in the worldwide [Drupal community](https://www.drupal.org) in a number of important ways. First, we sponsored over 82 Drupal events around the world in 2012. These events brought new people into Drupal and helped existing Drupal users learn new techniques. We employ more than 110 Drupal specialists, most of whom are significant contributors to the larger community. We've sent our Drupalists to more than 30 of these events (as well as hosted sprints ourselves at Acquia) to collaborate with others in the community on important problems for Drupal.
 
@@ -54,7 +54,7 @@ We also grew [Acquia's Office of the Chief Technical Officer](https://dri.es/ann
 
 And finally, Acquia has sponsored other key contributors in the community to take on critical work, including the [configuration management initiative](http://heyrocker.com/node/245), web services, and ["Views in Core"](http://xjm.drupalgardens.com/blog/wheres-views-drupal-8-feature-freeze).
 
-### Looking forward
+## Looking forward
 
 This year, like 2012, will be a key year for Acquia as we continue to develop products and services built on the open source philosophy.
 

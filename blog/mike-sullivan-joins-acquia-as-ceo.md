@@ -22,7 +22,7 @@ Last spring, Tom Erickson announced that he was stepping down as Acquia's CEO. F
 
 For six months, the search consumed a good deal of my time. I was supported by a search committee drawn from Acquia's board of directors, including Rich D'Amore, Tom Bogan, and Michael Skok. Together, we screened over 140 candidates and interviewed 10 in-depth. Finding the right candidate was hard work and time consuming, but [we kept the bar high at all times](https://mjskok.com/3-tips-for-hiring-leaders-and-1-essential-quality-for-everyone). As much as I enjoyed meeting so many great candidates and hearing their perspective on our business, I'm glad that the search is finally behind me.
 
-### The right fit for Acquia
+## The right fit for Acquia
 
 Finding a business partner is like dating; you have to get to know each other, build trust, and see if there is a match. Identifying and recruiting the best candidate is difficult because unlike dating, you have to consider how the partnership will also impact your team, customers, partners, and community. Once I got to know Mike, it didn't take me long to realize how he could help scale Acquia and help make our customers and partners successful. I also realized how much I would enjoy working with him. The fit felt right.
 
@@ -30,7 +30,7 @@ With 25 years of senior leadership in SaaS, enterprise content management and co
 
 This summer, I shared that Acquia expanded its focus [from website management to data-driven customer journeys](https://dri.es/the-evolution-of-acquia-product-strategy). We extended the capabilities of the Acquia Platform with journey orchestration, commerce integrations and digital asset management tools. The fact that Mike has so much experience running a diverse portfolio of SaaS products is something I really valued. Mike's expertise can guide us in our transformation from a single product company to a multi-product company.
 
-### Creating a partnership
+## Creating a partnership
 
 For many years, I have woken up everyday determined to set a vision for the future, formulate a strategy to achieve that vision, and help my fellow Acquians figure out how to achieve that vision.
 
@@ -38,11 +38,11 @@ One of the most important things in finding a partner and CEO for Acquia was hav
 
 Furthermore, Mike's operational strength and enterprise experience will be a natural complement to my focus on vision and product strategy. His expertise will allow Acquia to accelerate its mission to "build the universal platform for the world's greatest digital experiences."
 
-### Formalizing my own role
+## Formalizing my own role
 
 In addition to Mike joining Acquia as CEO, my role will be elevated to Chairman. I will also continue in my position as Acquia CTO. My role has always extended beyond what is traditionally expected of a CTO; my responsibilities have bridged products and engineering, fundraising, investor relations, sales and marketing, resource allocation, and more. Serving as Chairman will formalize the various responsibilities I've taken on over the past decade. I'm also excited to work with Mike because it is an opportunity for me to learn from him and grow as a leader.
 
-### Acquia's next decade
+## Acquia's next decade
 
 The web has the power to change lives, educate the masses, create new economies, disrupt business models and make the world smaller in the best of ways. Digital will continue to change every industry, every company and every life on the planet. The [next decade](https://dri.es/acquia-first-decade-the-founding-story) holds enormous promise for Acquia and Drupal because of what the power of digital holds for business and society at large. We are uniquely positioned to deliver the benefits of open source, cloud and data-driven experiences to help organizations succeed in an increasingly complex digital world.
 

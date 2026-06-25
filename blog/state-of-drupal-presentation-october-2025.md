@@ -18,11 +18,13 @@ tags:
   - Vienna
 image: drupalcon-vienna-2025/driesnote
 published: true
-featured: true
+featured: false
 id: 5906
 ---
 
 # State of Drupal presentation (October 2025)
+
+![Opening slide of my keynote presentation. The slide reads "DriesNote, DrupalCon Vienna, October 2025".](http://default/files/cache/drupalcon-vienna-2025/driesnote-640w.png)
 
 The web is changing fast. AI now writes content, builds web pages, and answers questions directly, often bypassing websites entirely. 
 
@@ -32,11 +34,11 @@ My keynote focused on how Drupal is evolving across four product areas. We're ma
 
 If you missed the keynote, you can [watch the video below](https://youtu.be/lTBim0nMD5s), or [download my slides](https://dri.es/files/state-of-drupal-october-2025.pdf) (62 MB).
 
-[video lTBim0nMD5s]
+https://www.youtube.com/watch?v=lTBim0nMD5s
 
 Vienna felt like a turning point. People could see the pieces coming together. Drupal is finding its footing in the AI era, leading in AI innovation, and ready to help shape what comes next for the web.
 
-### Growing Drupal with Site Templates
+## Growing Drupal with Site Templates
 
 One of the most important ways to grow Drupal is to make it easier and faster to build new sites. We began that work with *Recipes*, a way to quickly add common features to a site. Recipes help people go from idea to a website in hours instead of days.
 
@@ -44,7 +46,7 @@ At DrupalCon Vienna, I talked about the next step in that journey: our first *Si
 
 Next, we plan to introduce more Site Templates and launch a *Site Template Marketplace* where anyone can [discover, share, and build on templates](https://dri.es/exploring-a-marketplace-for-drupal-site-templates) for different use cases. 
 
-### A new visual editing experience 
+## A new visual editing experience 
 
 At DrupalCon Vienna, the energy around [Drupal Canvas](https://www.drupal.org/project/canvas) was infectious. Some even called it "CanvasCon". Drupal Canvas sessions were often standing room only, just like the Drupal AI sessions.
 
@@ -54,7 +56,7 @@ Version 1.0 of Drupal Canvas is scheduled for November 2025. Starting in January
 
 What excites me most is what this solves. For years, building pages in Drupal required technical expertise. Drupal Canvas gives end-users a visual page builder that is both more powerful and easy to use. Plus, it supports React, which means front-end developers can contribute using skills they already have.
 
-### Drupal's accidental AI advantage
+## Drupal's accidental AI advantage
 
 Every content management system faces defining moments. For Drupal, one came with the release of Drupal 8. We [rebuilt Drupal from the ground up](https://dri.es/why-the-big-architectural-changes-in-drupal-8), adopting modern design patterns and improving configuration management, versioning, workflows, and more.
 
@@ -62,9 +64,9 @@ The transition was hard, but here is the surprising part: ten years later those 
 
 For years, Drupal prioritized flexibility and robustness while other platforms focused on ease of use. What once felt like extra complexity now makes perfect sense. Drupal has quietly become one of the most AI-ready platforms available. 
 
-### AI is the storm, and the way through the storm
+## AI is the storm, and the way through the storm
 
-[image drupalcon-vienna-2025/ai-is-the-storm]
+![A human in a space suit and a large cyborg stand side by side before a vast blue wave or cloud, stirred up by a mysterious technological behemoth on the horizon. The image includes the text: "AI is the storm, and the way through it."](http://default/files/cache/drupalcon-vienna-2025/ai-is-the-storm-640w.png)
 
 As I said in my keynote: "Some days AI terrifies me. An hour later it excites me. By the evening, I'm tired of hearing about it.". Still, we can't ignore AI.
 
@@ -78,7 +80,7 @@ In my keynote, I also demonstrated three new AI capabilities:
 2. **Context Control Center:** Teams can define brand voice, target audiences, and key messages from a single UI. All AI agents draw from this source of truth.
 3. **Autonomous agents:** When you update information in the Context Control Center, such as a product price or company statistic, agents automatically find every instance throughout your site and propose updates. You review and approve changes before they go live.
 
-### Orchestration as a path to explore
+## Orchestration as a path to explore
 
 Earlier this year, I wrote about [the great digital agency unbundling](https://dri.es/ai-and-the-great-digital-agency-unbundling). As AI automates more technical work, agencies need to evolve their business models and find new ways to create value.
 
@@ -88,13 +90,13 @@ Most organizations have complex marketing technology stacks. Connecting all the 
 
 Modern orchestration tools solve this by automating how information flows between systems. Instead of writing custom code, you can use no-code tools to define workflows that trigger automatically. When someone fills out a form, the system creates a CRM contact, sends a welcome email, and notifies your team without any manual work.
 
-In my keynote, I showed how [ECA](https://www.drupal.org/project/eca) and [ActivePieces](https://www.activepieces.com/) can work together. [Jürgen Haas](https://www.drupal.org/u/jurgenhaas), who created ECA, and I collaborated on this integration.  ECA lets you define automations inside Drupal using events, conditions, and actions. ActivePieces is an open source automation platform similar to [Zapier](https://zapier.com/) or [n8n](https://n8n.io/).
+In my keynote, I showed how [ECA](https://www.drupal.org/project/eca) and [ActivePieces](https://www.activepieces.com/) can work together. [Jürgen Haas](https://www.drupal.org/u/jurgenhaas), who created ECA, and I collaborated on this integration.  ECA lets you define automations inside Drupal using events, conditions, and actions. ActivePieces is an Open Source automation platform similar to [Zapier](https://zapier.com/) or [n8n](https://n8n.io/).
 
 This approach allows us to build user experiences that are not only better and smarter, but also positions Drupal to benefit from AI innovation happening across the broader ecosystem. The idea resonated in Vienna. People approached me enthusiastically with related projects and demos, including tools like [Flowdrop](https://www.drupal.org/project/flowdrop) or [Drupal's MCP module](https://www.drupal.org/project/mcp). 
 
 Between now and DrupalCon Chicago, we're inviting the community to explore and expand on this work. Join us in `#orchestration` on [Drupal Slack](https://www.drupal.org/join-slack), test the new [Orchestration module](https://www.drupal.org/project/orchestration), connect more automation platforms, or help improve ECA. If this direction proves valuable, we'll share what we learned at DrupalCon Chicago.
 
-### Building the future together
+## Building the future together
 
 At DrupalCon Vienna, I felt something shift. Sessions were packed. People were excited about Site Templates and the Marketplace. Drupal Canvas drew huge crowds, and even more agencies signed up to join the Drupal AI initiative. During the contribution day, more people than usual showed up looking for ways to help.
 

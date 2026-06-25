@@ -20,22 +20,28 @@ id: 5876
 
 # Climbing La Tournette on a three day hike near Lake Annecy
 
+![A green pyramid tent stands on a grassy meadow below a steep rocky mountainside, with camping gear scattered nearby.](http://default/files/cache/la-tournette-2025/tent-in-the-meadows-640w.jpg)
+
 Last month, my son Axl turned eighteen. He also graduated high school and will leave for university in just a few weeks. It is a big milestone and we decided to mark it with a three-day backpacking trip in the French Alps near Lake Annecy.
 
 We planned a loop that would start and end at Col de la Forclaz, located at 1,150 meters (3,770 feet). From there the trail would climb through forests and alpine pastures, eventually taking us to the summit of La Tournette at 2,351 meters (7,713 feet). It is the highest peak around Lake Annecy and one of the most iconic hikes in the region.
 
-[image la-tournette-2025/three-day-la-tournette-loop]
+![A topographical map of our hike to Tournette and back.](http://default/files/cache/la-tournette-2025/three-day-la-tournette-loop-640w.png)
+*A topographical map of our hike to La Tournette, with each of the three hiking days highlighted in a different color.*
 
 Over the past months we studied maps, gathered supplies, and prepared for the hike. My own training started only three weeks before, just enough to feel unprepared in a more organized way. I took up jogging and did stairs with my pack on, though I should have also practiced sleeping on uneven ground.
 
-### Flying to Annecy
+## Flying to Annecy
 
 <div class="side-by-side">
-[image la-tournette-2025/cessna-hangar]
-[image la-tournette-2025/cessna-cockpit]
+![Small Cessna plane in a hangar with its door open, while a person in a safety vest loads backpacks into the cabin, preparing for departure.](http://default/files/cache/la-tournette-2025/cessna-hangar-640w.jpg)
+*Loading our packs into the plane before departure.*
+![Two people sit in a Cessna cockpit, watching navigation screens and gauges.](http://default/files/cache/la-tournette-2025/cessna-cockpit-640w.jpg)
+*In the cockpit of Ben's Cessna en route to Annecy.*
 </div>
 <div class="large">
-[image la-tournette-2025/approach-annecy-view-tournette]
+![View from a small plane cockpit approaching Annecy, with Lake Annecy and surrounding mountains ahead.](http://default/files/cache/la-tournette-2025/approach-annecy-view-tournette-640w.jpg)
+*As we approached Annecy and prepared to land, La Tournette \(left\) rose above the other peaks, showing the climb that lay ahead.*
 </div>
 
 Axl thought the trip would begin with a nine-hour drive south to Annecy. What he didn't know was that one of my best friends, Ben, who owns a Cessna, would be flying us instead. It felt like the perfect surprise to begin our trip.
@@ -43,21 +49,24 @@ Axl thought the trip would begin with a nine-hour drive south to Annecy. What he
 Two hours later we landed in Annecy. After a quick lunch by the lake, we taxied to Col de la Forclaz, famous for paragliding and its views over Lake Annecy.
 
 <div class="large">
-[image la-tournette-2025/paraglider-over-lake-annecy]
+![A paraglider glides high above Lake Annecy, the blue water curving between green hills with small towns scattered along the shore below.](http://default/files/cache/la-tournette-2025/paraglider-over-lake-annecy-640w.jpg)
+*Paragliders circling above Lake Annecy.*
 </div>
 
-### Day 1: Col de la Forclaz → Refuge de la Tournette
+## Day 1: Col de la Forclaz → Refuge de la Tournette
 
 Our trail started near the paragliding launch point at Col de la Forclaz. From there it climbed steadily through the forest. It was quiet and enclosed, with only brief glimpses of the valley through the branches.
 
-[image la-tournette-2025/stacking-stones]
+![A hiker with a backpack adds a small rock to a stacked cairn on a rocky ledge.](http://default/files/cache/la-tournette-2025/stacking-stones-640w.jpg)
+*We paused to add a stone to a cairn along the trail.*
 
 Eventually we emerged above the tree line near Chalet de l'Aulp. In September, the chalet is closed during the week, but we sat on a hill nearby, ate the rice bars Vanessa had prepared, and simply enjoyed the moment.
 
 After our break the trail grew steeper, winding through alpine meadows and rocky slopes. The valley stretched out far below us while big mountains rose ahead. 
 
 <div class="large">
-[image la-tournette-2025/views-from-the-trail]
+![View from the trail near La Tournette: mountain ridges and forested slopes, with a small chalet in a grassy clearing below.](http://default/files/cache/la-tournette-2025/views-from-the-trail-640w.jpg)
+*The view on our way up to La Tournette, just past Chalet de l'Aulp.*
 </div>
 
 After a couple of hours we reached the site of the old Refuge de la Tournette, which has been closed for years, and found a flat patch of grass nearby for our first campsite.
@@ -66,26 +75,29 @@ As we sat down, we had time for deeper conversations. We talked about how life w
 
 Saying it out loud caught me by surprise. It left me with a lump in my throat and tears in my eyes. It felt as if we would leave one version of Axl at the summit and return with another, stepping into adulthood and independence.
 
-[image la-tournette-2025/axl-reflecting]
+![Young man sits on the grass, head down and arms around knees, resting quietly after a long day hiking on a sunny mountain trail.](http://default/files/cache/la-tournette-2025/axl-reflecting-640w.jpg)
+*Axl reflecting at the end of our first day on the trail.*
 
 Dinner was a freeze-dried chili con carne that turned out to be surprisingly good. Just as we were eating, a large flock of sheep came streaming down the hillside, their bells ringing. Fortunately they kept moving, or sleep would have been impossible.
 
 After dinner we set up our tent and took stock of our water supply. We had carried five liters of water each, knowing we could only refill at tomorrow's refuge. By now we had already used three liters for the climb and dinner. I could have drunk more, but we set two liters aside for the morning and felt good about that plan.
 
 <div class="large">
-[image la-tournette-2025/tent-in-the-meadows]
+![A green pyramid tent stands on a grassy meadow below a steep rocky mountainside, with camping gear scattered nearby.](http://default/files/cache/la-tournette-2025/tent-in-the-meadows-640w.jpg)
+*Our tent pitched in the high meadows near the old Refuge de la Tournette.*
 </div>
 
 Later, as we settled into our sleeping bags, I realized how many firsts Axl had packed into a single day. He had taken his first private flight in a small Cessna, carried a heavy backpack up a mountain for the first time, figured out food and water supplies, and experienced wild camping for the first time.
 
-### Day 2: Refuge de la Tournette → Refuge de Praz D'zeures
+## Day 2: Refuge de la Tournette → Refuge de Praz D'zeures
 
 Sleeping was difficult. The ground that looked flat in daylight was uneven, and my foldout mat offered little comfort. I doubt I slept more than two hours. By 4:30 the rain had started, and I started to worry about how slippery the trail might become. 
 
 When we unzipped the tent around 6:00 in the morning, a "bouquetin" (ibex) with one horn broken off stood quietly in the gray light, watching us without fear. Its calm presence was a gentle contrast to my own concerns.
 
 <div class="large">
-[image la-tournette-2025/ibex-at-dawn]
+![From inside a tent, an ibex with large horns stands a few meters away in the grass, looking toward the campers.](http://default/files/cache/la-tournette-2025/ibex-at-dawn-640w.jpg)
+*When we opened the tent in the morning, a bouquetin \(ibex\) was standing right outside, watching us.*
 </div>
 
 By 7:00 a shepherd appeared out of nowhere while we were making coffee. He told us wild camping here was not permitted. He spoke with quiet firmness. We were startled and embarrassed, having missed the sign lower down the trail. We apologized, promised to leave no trace, and packed up to be on our way. 
@@ -98,14 +110,16 @@ The final stretch to La Tournette was steep, with chains and metal ladders to he
 
 Reaching the top was unforgettable. At the summit we climbed onto the Fauteuil, a massive block of rock shaped like an armchair. From there the Alps spread out in every direction. In the far distance, the snow-covered summit of Mont Blanc caught the light. Below us, Lake Annecy shimmered in the valley, while dark rain clouds gathered not too far away.
 
-[image la-tournette-2025/la-tournette-summit]
+![A hiker stands beside a metal cross on a rocky summit, surrounded by large boulders, looking out over distant mountains under a cloudy sky.](http://default/files/cache/la-tournette-2025/la-tournette-summit-640w.jpg)
+*At the summit of La Tournette.*
 
 We gave each other a big hug, a quiet celebration of the climb and the moment. We stayed only a short while, knowing the weather was turning.
 
 From the summit we set our course for the Refuge de Praz D'zeures, a mountain hut about two hours' hike away. As we descended, the landscape softened into wide alpine pastures where bouquetin grazed among the grass and flowers.
 
 <div class="large">
-[image la-tournette-2025/ridge-to-refuge]
+![A narrow hiking trail runs along a grassy ridge toward rocky peaks, then drops into the forest.](http://default/files/cache/la-tournette-2025/ridge-to-refuge-640w.jpg)
+*The ridge from La Tournette toward Refuge de Praz D'zeures. If you look closely, the trail winds all the way into the woods.*
 </div>
 
 Pushing to stay ahead of the rain and thunderstorms in the forecast, we reached the refuge (1,774 meters) around 14:30 in the afternoon. The early start seemed like a wise choice, but our hearts sank when we saw the sign on the door: "fermé" (closed). 
@@ -114,7 +128,8 @@ For a moment we feared we had nowhere to stay. Then we noticed another sign off 
 
 We decided to wait and settled onto the wooden deck outside. Our water supplies were gone, but Axl found an outdoor kitchen sink with a faucet, fed by a nearby stream, and filled a couple of our empty water bottles. I drank one almost in a single go.
 
-[image la-tournette-2025/refuge-outdoor-sink]
+![Outdoor sink at Refuge de Praz D'zeures where a backpacker refills water bottles during a mountain hike.](http://default/files/cache/la-tournette-2025/refuge-outdoor-sink-640w.jpg)
+*The outdoor sink at Refuge de Praz D'zeures where Axl refilled our empty water bottles.*
 
 To pass the time we opened the small travel chess set I had received for Christmas. The game gave us something to focus on as the clouds thickened around the hut. A damp chill settled in, and we pulled on extra layers while we leaned over the tiny board.
 
@@ -123,7 +138,8 @@ Sure enough, a little later the hosts of the refuge appeared. A couple with thre
 Almost immediately they warned us that the water at the refuge was not potable. I tried not to dwell on the bottle I had just finished, but luckily Axl had used his water filter when filling our bottles. We would find out soon enough how well it worked. (Spoiler: we survived!)
 
 <div class="large">
-[image la-tournette-2025/refuge-kitchen]
+![Wooden refuge kitchen with old moka pots and worn pans hanging on the wall.](http://default/files/cache/la-tournette-2025/refuge-kitchen-640w.jpg)
+*The rustic kitchen at Refuge de Praz D'zeures. I loved the moka pots and pans in the background.*
 </div>
 
 The refuge itself was simple but full of character. There is no hot water, no heating, and the bunks are basic, yet the young family who runs it brings life and warmth to the place. My French was as rusty as their English, but between us we managed. 
@@ -134,7 +150,7 @@ That night we had a local specialty: _raclette au charbon de bois_, cheese cooke
 
 After dinner we went straight to bed, exhausted from the long day and the lack of sleep the night before. Even though the bunks were hard, we slept deeply and well.
 
-### Day 3: Refuge de Praz D'zeures → La Forclaz
+## Day 3: Refuge de Praz D'zeures → La Forclaz
 
 Morning began with breakfast in the hut. A simple bowl of cereal with milk tasted unusually good after two days of powdered meals. Two other guests joined us at the breakfast table and teased me that they could hear me snore through the thin wooden walls. Axl just grinned. Apparently my reputation had spread faster than I thought.
 
@@ -147,7 +163,8 @@ We walked along the ridge and talked, the kind of conversations that only seem t
 By the time we reached the village of Montmin it felt like stepping back into civilization. We left the trail for quiet roads, ate lunch in the sun near the church, and rinsed our muddy boots and rain gear at a faucet. From there it was only a short walk back to La Forclaz, where three days earlier we had set off with heavy packs and full of anticipation. 
 
 <div class="large">
-[image la-tournette-2025/washing-gear]
+![A person rinses muddy rain pants under a tap at a stone fountain.](http://default/files/cache/la-tournette-2025/washing-gear-640w.jpg)
+*Axl rinsing the mud off his rain pants at a fountain in Montmin.*
 </div>
 
 We had returned tired, lighter, and grateful for the experience and for each other. To celebrate we ordered crêpes in a tiny café and ate them in the sun, looking up at the peaks we had just conquered.  Later that afternoon, we swam in Lake Annecy in our underwear and finished the day with a cold beer.
@@ -155,7 +172,8 @@ We had returned tired, lighter, and grateful for the experience and for each oth
 The next morning we caught a taxi to Geneva airport, flew home, and by afternoon we were back in Belgium, welcomed with Vanessa's shepherd's pie. In just a few weeks Axl will leave for university and his room will be empty, but that evening we were all together, sharing stories from our trip over dinner.
 
 <div class="large">
-[image la-tournette-2025/dock-lake-annecy-2]
+![Person stands on a wooden dock at Lake Annecy, facing the water at dusk, with mountains in the background.](http://default/files/cache/la-tournette-2025/dock-lake-annecy-2-640w.jpg)
+*Axl standing on a dock at Lake Annecy.*
 </div>
 
 It had been a short trip, just three days in the mountains. Hard at times, but very manageable for a not-super-fit forty-six year old. Some journeys are measured less by distance, duration, or difficulty, but by the transitions they mark. This one gave us what we needed: time together before the changes ahead, and a memory we will carry for the rest of our lives. On the trail Axl often walked ahead of me. In life, I will have to learn to walk beside him.

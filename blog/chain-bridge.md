@@ -17,4 +17,6 @@ id: 156
 
 # Chain bridge
 
+![Close-up of the Széchenyi Chain Bridge in Budapest, showing its metal structure with cars driving across.](http://default/files/cache/drupalcon-budapest-2006/chain-bridge-640w.jpg)
+
 

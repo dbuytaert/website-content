@@ -25,7 +25,7 @@ Moreover, newer headless content-as-a-service solutions (e.g. Contentful, Prismi
 
 In my view, we need to do the following, which I summarize in each of the following sections: (1) facilitate a single robust REST module in core; (2) add functionality to help web services modules more easily query and manipulate Drupal's entity graph; (3) incorporate GraphQL and JSON API out of the box; and (4) add SDKs enabling easy integration with Drupal. Though I shared some of this in [my DrupalCon New Orleans keynote](https://dri.es/state-of-drupal-presentation-may-2016), I wanted to provide more details in this blog post. I'm hoping to discuss this and revise it based on feedback from you.
 
-### One great REST module in core
+## One great REST module in core
 
 While core REST can be enabled with only a few configuration changes, the full extent of possibilities in Drupal is only unlocked either when leveraging modules which add to or work alongside core REST's functionality, such as [Services](https://www.drupal.org/project/services) or [RELAXed](https://www.drupal.org/project/relaxed), or when augmenting core REST's capabilities with additional resources to interact with (by [providing corresponding plugins](https://www.drupal.org/docs/8/api/restful-web-services-api/restful-web-services-api-overview)) or using other custom code.
 
@@ -117,11 +117,12 @@ Having such disparate REST modules complicates the experience. These REST module
 
 I would like to see a convergence where all of these can be achieved in Drupal core with minimal configuration and minimal code.
 
-### Working with Drupal's entity graph
+## Working with Drupal's entity graph
 
 Recently, a discussion at DrupalCon New Orleans with key contributors to the core REST modules, maintainers of important contributed web services modules, and external observers led to a proposed path forward for all of Drupal's web services.
 
-[image blog/web-services-entity-graph resize=false]
+![A diagram showing an entity graph in Drupal, illustrating relationships between events, locations, people, and recipes.](http://default/files/cache/blog/web-services-entity-graph-640w.jpg)
+*A visual example of an entity graph in Drupal.*
 
 Buried inside Drupal is an "entity graph" over which different API approaches like traditional REST, JSON API, and GraphQL can be layered. These varied approaches all traverse and manipulate Drupal's entity graph, with differences solely in the syntax and features made possible by that syntax. Unlike core's REST API which only returns a single level (single entity or lists of entities), GraphQL and JSON API can return multiple levels of nested entities as the result of a single query. To better understand what this means, have a look at the [GraphQL demo video](https://www.youtube.com/watch?v=ZjDYg6NrAys) I shared in [my DrupalCon Barcelona keynote](https://dri.es/state-of-drupal-presentation-september-2015).
 
@@ -188,7 +189,7 @@ A good Drupal entity graph iterator would simplify the development of Drupal web
  </tbody>
 </table>
 
-### GraphQL and JSON API in core
+## GraphQL and JSON API in core
 
 We should acknowledge simultaneously that the wider JavaScript community is beginning to embrace different approaches, like [JSON API](http://jsonapi.org) and [GraphQL](https://www.drupal.org/project/graphql), which both enable complex relational queries that require fewer requests between Drupal and the client (thanks to the ability to follow relationships, as mentioned in the section concerning the entity graph).
 
@@ -196,9 +197,10 @@ While both JSON API and GraphQL are preferred over traditional REST due to their
 
 I believe that GraphQL and JSON API in core would be a big win for those building decoupled applications with Drupal, and these modules can use existing foundations in Drupal 8 such as the Serialization module. Furthermore, Drupal's own built-in JavaScript-driven UIs could benefit tremendously from GraphQL and JSON API. I'd love to see them in core rather than as contributed modules, as we could leverage them when building decoupled applications backed by Drupal or exchanging data with other server-side implementations. We could also "eat our own dog food" by using them to power JavaScript-driven UIs for block placement, media management, and other administrative interfaces. I can even see a future where Views and GraphQL are closely integrated.
 
-[image blog/web-services-rest-json-grapql resize=false]
+![Comparison of REST, JSON API, and GraphQL in Drupal 8, showing request structure and server responses with simplified payloads.](http://default/files/cache/blog/web-services-rest-json-grapql-640w.jpg)
+*A comparison of different API approaches for Drupal 8, with amended and simplified payloads for illustrative purposes.*
 
-### SDKs to consume web services
+## SDKs to consume web services
 
 While a unified REST API and support for GraphQL and JSON API would dramatically improve Drupal as a web services back end, we need to be attentive to the needs of consumers of those web services as well by providing SDKs and helper libraries for developers new to Drupal.
 
@@ -208,7 +210,7 @@ As starting points for JavaScript applications, native mobile applications, and 
 
 In fact, at Acquia we're now in the early stages of building the first of several SDKs for consuming and manipulating data via Drupal 8's REST API. [Waterwheel](https://github.com/acquia/waterwheel.js) (previously Hydrant), a new generic helper library intended for JavaScript developers building applications backed by Drupal, is the work of Acquia's [Matt Grill](https://www.drupal.org/u/drpal) and [Preston So](https://www.drupal.org/u/prestonso), and it is already seeing community contributions. We're eager to share our work more widely and welcome new contributors.
 
-### Conclusion
+## Conclusion
 
 I believe that it is important to have first-class web services in Drupal out of the box in order to enable top-notch APIs and continue our evolution to become API-first.
 

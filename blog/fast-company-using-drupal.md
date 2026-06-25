@@ -26,6 +26,6 @@ Fast Company has always been a trend setter, so expect more mainstream publicati
 
 This is what Edward Sussman, president of Fast Company, had to say about Drupal: *Our office is now the New York home of the monthly Drupal meet-up. Open source allows us to take advantage of the work of thousands of developers contributing back their work free-of-charge to the platform. We hope the development work we contribute back will help to improve all sites running on the Drupal platform.*
 
-[image drupal/fast-company]
+![A webpage from Fast Company features articles, discussions, and a login section, highlighting social media ownership and business topics.](http://default/files/cache/drupal/fast-company-640w.jpg)
 
 The website was developed by [Lullabot](https://lullabot.com), [Achieve Internet](https://www.achieveinternet.com/), [Treehouse](http://www.treehouseagency.com/), [Advomatic](https://www.advomatic.com/) and the [Mansueto Team](http://www.mansueto.com/) itself. *Good job!*

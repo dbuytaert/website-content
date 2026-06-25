@@ -18,9 +18,11 @@ id: 5231
 
 # Acquia to acquire Widen
 
+![The Acquia and Widen logos shown next to each other](http://default/files/cache/acquia/acquia-widen-640w.png)
+
 I'm excited to announce that [Acquia](https://www.acquia.com/) has signed a definitive agreement to acquire [Widen](https://www.widen.com/), a [digital asset management](https://www.widen.com/blog/digital-asset-management) (DAM) and [product information management](https://www.widen.com/blog/product-information-management) (PIM) company.
 
-[image acquia/acquia-widen]
+![The Acquia and Widen logos shown next to each other](http://default/files/cache/acquia/acquia-widen-640w.png)
 
 It's not hard to understand how Widen fits Acquia's strategy. Our goal is to build the best Digital Experience Platform (DXP). Content is at the heart of any digital experience. By adding a DAM and PIM to our platform, our customers will be able to create better content, more easily. That will result in better customer experiences. Plain and simple.
 

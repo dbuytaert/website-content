@@ -25,4 +25,4 @@ The site was built by their in-house web team with support from the Portland Dru
 
 Stories like this make me want to work on Drupal. It is absolutely rewarding to see that Drupal can help enable organizations like Mercy Corps. In addition to indirect help through Drupal, my wife and I have also made a monetary contribution for the victims in Haiti.
 
-[image drupal/mercy-corps]
+![Mercy Corps team distributes aid and supports earthquake survivors in Haiti with food and recovery assistance.](http://default/files/cache/drupal/mercy-corps-640w.jpg)

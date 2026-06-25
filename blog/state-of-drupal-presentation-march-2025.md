@@ -16,21 +16,23 @@ tags:
   - DrupalCon
 image: drupalcon-atlanta-2025/driesnote
 published: true
-featured: true
+featured: false
 id: 5781
 ---
 
 # State of Drupal presentation (March 2025)
 
+![Opening slide of my keynote presentation. The slide reads "DriesNote, DrupalCon Atlanta, March 2025".](http://default/files/cache/drupalcon-atlanta-2025/driesnote-640w.png)
+
 Three months ago, [we launched Drupal CMS 1.0](https://dri.es/drupal-cms-1-released), our biggest step forward in years. Our goal is ambitious: to [reimagine Drupal](https://dri.es/introducing-drupal-starshot-product-strategy) as both radically easier to use and a platform for faster innovation.
 
 In my DrupalCon Atlanta keynote last week, I reflected on the journey so far, but mostly talked about the work ahead. If you missed the keynote, you can [watch the video](https://youtu.be/XaYhTO9iCUo) below, or [download my slides](https://dri.es/files/state-of-drupal-march-2025.pdf) (56 MB).
 
-[video XaYhTO9iCUo]
+https://www.youtube.com/watch?v=XaYhTO9iCUo
 
 If you want to try Drupal CMS, you can [explore the trial experience](https://drupal.org/drupal-cms/trial), [use the new desktop launcher](https://new.drupal.org/drupal-cms/launcher), or [install it with DDEV](https://dri.es/installing-drupal-cms-or-drupal-starshot-using-ddev). If you're curious about what we're working on next, keep reading.
 
-### 1. Experience Builder
+## 1. Experience Builder
 
 Some of the most common requests from Drupal users and digital agencies is a better page-building experience, simpler theming, and high-quality themes out of the box.
 
@@ -40,9 +42,9 @@ I also demonstrated how Drupal's AI agents can generate Experience Builder compo
 
 We still have work to do, but we're aiming to release Experience Builder 1.0, the first stable version, by [DrupalCon Vienna](https://events.drupal.org/vienna2025). In the meantime, try [our demo release](https://github.com/phenaproxima/xb-demo).
 
-### 2. Drupal Site Templates
+## 2. Drupal Site Templates
 
-[image drupalcon-atlanta-2025/site-template]
+![A diagram of a site template composed of multiple recipes, an Experience Builder theme, and relevant demo content.](http://default/files/cache/drupalcon-atlanta-2025/site-template-640w.png)
 
 One of the biggest opportunities for Drupal CMS is making it faster and easier to launch a complete website. The introduction of [Recipes](https://www.drupal.org/about/starshot/initiatives/recipes) was a big step forward. I covered *Recipes* in detail in my [DrupalCon Barcelona 2024 keynote](https://dri.es/state-of-drupal-presentation-september-2024). But there is still more we can do.
 
@@ -54,9 +56,9 @@ Site Templates are made possible by Recipes and Experience Builder. Recipes prov
 
 If successful, Site Templates could replace [Drupal distributions](https://dri.es/tag/drupal-distributions), a concept that has been part of Drupal for nearly 20 years. The key advantage is that Site Templates are much easier to build and maintain.
 
-### 3. A marketplace discussion
+## 3. A marketplace discussion
 
-[image drupalcon-atlanta-2025/marketplace]
+![Visual metaphor showing Drupal's evolution from modules to recipes, site templates, and a marketplace, illustrated using LEGO bricks, kits, and a LEGO store.](http://default/files/cache/drupalcon-atlanta-2025/marketplace-640w.png)
 
 The first Site Templates may be included directly in Drupal CMS 2.0 itself. Over time, we hope to offer hundreds of site templates through a marketplace on Drupal.org.
 
@@ -69,7 +71,7 @@ At DrupalCon Atlanta, I announced that we'll be exploring a marketplace for Site
 
 You can watch the [keynote recording](https://youtu.be/XaYhTO9iCUo) to learn more. I've also published [a detailed blog post](https://dri.es/exploring-a-marketplace-for-drupal-site-templates) that dives deeper into the marketplace idea.
 
-### Looking ahead
+## Looking ahead
 
 Drupal CMS has brought a lot of fresh momentum to the [Drupal project](https://www.drupal.org/), but we're not done yet! The rest of this year, we'll keep building on this foundation with a clear set of priorities:
 

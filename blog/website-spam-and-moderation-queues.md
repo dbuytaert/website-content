@@ -20,10 +20,12 @@ Mollom is a web service that blocks website spam. Websites using [Mollom](https:
 
 Over at the [Mollom blog](https://www.mollom.com/blog), Ben wrote a [great post](https://www.mollom.com/spam-vs-ham) about why we believe this is a key difference, and how that allows Mollom to eliminate your moderation queue. A picture is worth more than a thousand words, so check out the plots below and check out [Ben's blog post](https://www.mollom.com/spam-vs-ham) for more details.
 
-[image mollom/spam-versus-ham-1 resize=false]
+![](http://default/files/images/mollom/spam-versus-ham-1.jpg)
+*The plot illustrates that having a binary classifier with only two states \(ham and spam\) is bound to make mistakes. The plot is generated from the actual data in Mollom's database.*
 
 As you can see on the first graph, a binary classifier with two states (ham, spam) is never going to be deadly accurate, and will require a moderation queue so the user can manually deal with legitimate comments that incorrectly got classified as spam. Unfortunately, moderation queues are not fun, and they don't make you any more productive. You'll still find yourself wading through thousands of spam comments looking for ham. In other words, a moderation queue doesn't really solve the problem – it just makes the problem look different.
 
-[image mollom/spam-versus-ham-2 resize=false]
+![](http://default/files/images/mollom/spam-versus-ham-2.jpg)
+*The plot illustrates that having a classifier with three states avoids false positives and false negatives. The plot is generated from the actual data in Mollom's database.*
 
 Time for something better. As you can see on the second graph, a classifier with three states is going to be a lot more accurate. In fact, Mollom is so accurate that the [Drupal module](https://www.mollom.com/download) doesn't come with a moderation queue! It an important distinction, and one of the many innovations that we have in store for you. *Bye bye moderation queue!*

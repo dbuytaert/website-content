@@ -20,4 +20,4 @@ id: 1141
 
 Eén (Dutch for 'one'), a public TV station reaching millions of people in Belgium, redesigned its website using [Drupal](https://www.drupal.org): see <http://een.be>.
 
-[image drupal/een]
+![A screenshot of the Eén website homepage displaying TV schedules, news, and a featured video with three men talking.](http://default/files/cache/drupal/een-640w.jpg)

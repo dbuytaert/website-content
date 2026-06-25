@@ -29,4 +29,4 @@ In the third and last part of the keynote, I looked forward, talked about my vis
 
 I'm proud of where we came from and excited for where we are headed. Take a look at the keynote if you want to learn more about it.
 
-[video uNRtZDAS0xI]
+https://www.youtube.com/watch?v=uNRtZDAS0xI

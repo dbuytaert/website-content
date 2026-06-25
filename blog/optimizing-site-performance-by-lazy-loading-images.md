@@ -20,6 +20,8 @@ id: 4771
 
 # Optimizing site performance by "lazy loading" images
 
+![A diagram that shows page load times for dri.es before making performance improvements](http://default/files/cache/blog/webpagetest-images-february-2019-after-640w.png)
+
 Recently, I've been spending some time making performance improvements to my site. In my previous blog post on this topic, I described my progress [optimizing the JavaScript and CSS usage on my site](https://dri.es/optimizing-site-performance-by-reducing-javascript-and-css), and concluded that image optimization was the next step.
 
 Last summer I published [a blog post about my vacation in Acadia National Park](https://dri.es/our-vacation-at-acadia-national-park). Included in that post are 13 photos with a combined size of about 4 MB.
@@ -31,7 +33,7 @@ The graph shows that the browser downloaded all 13 images to render the page. Wh
 As you can see from the graph, downloading all 13 images take a very long time (purple horizontal bars). No matter how much you [optimize your CSS and JavaScript](https://dri.es/optimizing-site-performance-by-reducing-javascript-and-css), this particular blog post would have remained slow until you optimize how images are loaded.
 
 <div class="large">
-  [image blog/webpagetest-images-february-2019-before]
+  ![A webpage performance test waterfall chart showing loading times for various images, scripts, and resources before full interactivity.](http://default/files/cache/blog/webpagetest-images-february-2019-before-640w.png)
 </div>
 
 "Lazy loading" images is one solution to this problem. Lazy loading means that the images aren't loaded until the user scrolls and the images come into the browser's viewport.
@@ -42,7 +44,7 @@ You might have seen lazy loading in action on websites like Facebook, Pinterest 
 - Instead of the actual image, you see a blurry placeholder image.
 - Then, the placeholder image gets swapped out with the final image as quickly as possible.
 
-[image blog/lazy-loading-images-animation resize=false]
+![An animated GIF of a user scrolling a webpage and a placeholder images being replaced by the final image](http://default/files/cache/blog/lazy-loading-images-animation-640w.gif)
 
 To support lazy loading images on my blog I do three things:
 
@@ -50,7 +52,7 @@ To support lazy loading images on my blog I do three things:
 2. Embed the placeholder images directly in the HTML to speed up performance.
 3. Replace the placeholder images with the real images when they become visible.
 
-### Generating lightweight placeholder images
+## Generating lightweight placeholder images
 
 To generate lightweight placeholder images, I implemented [a technique used by Facebook](https://code.fb.com/android/the-technology-behind-preview-photos/): create a tiny image that is a downscaled version of the original image, strip out the image's metadata to optimize its size, and let the browser scale the image back up.
 
@@ -65,17 +67,19 @@ $ convert -resize 5x -strip original.jpg placeholder.jpg
 
 The resulting placeholder images are tiny – often shy of 400 bytes.
 
-[image blog/lazy-loading-images-original-1]
-[image blog/lazy-loading-images-placeholder-1]
+![Large metal pots with wooden lids in which lobsters are boiled](http://default/files/cache/blog/lazy-loading-images-original-1-640w.jpg)
+*The original image that we need to generate a placeholder for.*
+![An example placeholder image shows brown and black tones](http://default/files/images/blog/lazy-loading-images-placeholder-1.jpg)
+*The generated placeholder, scaled up by a browser from a tiny image that is 5 pixels wide. The size of this placeholder image is only 395 bytes.*
 
 Here is another example to illustrate how the colors in the placeholders nicely match the original image:
 
-[image blog/lazy-loading-images-original-2]
-[image blog/lazy-loading-images-placeholder-2]
+![A sunrise with beautiful reds and black silhouettes](http://default/files/cache/blog/lazy-loading-images-original-2-640w.jpg)
+![An example placeholder image that shows red and black tones](http://default/files/images/blog/lazy-loading-images-placeholder-2.jpg)
 
 Even though the placeholder image should only be shown for a fraction of a second, making them relevant is a nice touch as they suggest what is coming. It's also an *important* touch, as [users are very impatient with load times on the web](https://dri.es/faster-is-better).
 
-### Embedding placeholder images directly in HTML
+## Embedding placeholder images directly in HTML
 
 One not-so-well-known feature of the `<img>` element is that you can embed an image directly into the HTML document using [the data URL scheme](https://tools.ietf.org/html/rfc2397):
 
@@ -111,7 +115,7 @@ $data =  base64_encode(file_get_contents('placeholder.jpg'));
 
 What is the advantage of embedding a base64 encoded image using a data URL? It eliminates HTTP requests as the browser doesn't have to set up new HTTP connections to download the images. Fewer HTTP requests usually means faster page load times.
 
-### Replacing placeholder images with real images
+## Replacing placeholder images with real images
 
 Next, I used JavaScript's `IntersectionObserver` to replace the placeholder image with the actual image when it comes into the browser's viewport. I followed [Jeremy Wagner](https://jeremy.codes/)'s approach shared on [Google Web Fundamentals Guide on lazy loading images](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/) – with some adjustments.
 
@@ -175,12 +179,12 @@ const config = {
 let lazyImageObserver = new IntersectionObserver(..., config);
 ```
 
-### Lazy loading images drastically improves performance
+## Lazy loading images drastically improves performance
 
 After making these changes to my site, I did a new <https://webpagetest.org> benchmark run:
 
 <div class="large">
-  [image blog/webpagetest-images-february-2019-after]
+  ![A diagram that shows page load times for dri.es before making performance improvements](http://default/files/cache/blog/webpagetest-images-february-2019-after-640w.png)
 </div>
 
 You can clearly see that the page became a lot faster to render:
@@ -191,7 +195,7 @@ You can clearly see that the page became a lot faster to render:
 
 <p class="pullquote">Lazy loading images improves web page performance by reducing the number of HTTP requests, and consequently reduces the amount of data that needs to be downloaded to render the initial page.</p>
 
-### Is base64 encoding images bad for SEO?
+## Is base64 encoding images bad for SEO?
 
 Faster sites have a SEO advantage as [page speed is a ranking factor for search engines](https://webmasters.googleblog.com/2018/01/using-page-speed-in-mobile-search.html). But, lazy loading might also be bad for SEO, as search engines have to be able to discover the original images.
 
@@ -200,10 +204,10 @@ To find out, I headed to [Google Search Console](https://search.google.com/searc
 I tested it out [with my Acadia National Park](https://dri.es/our-vacation-at-acadia-national-park) blog post. As you can see in the screenshot, the first photo in the blog post was not loaded. Googlebot doesn't seem to support data URLs for images.
 
 <div class="large">
-  [image blog/google-search-console-live-preview]
+  ![A screenshot that shows Googlebot doesn't render placeholder images that are embedded using data URLs](http://default/files/cache/blog/google-search-console-live-preview-640w.jpg)
 </div>
 
-### Is `IntersectionObserver` bad for SEO?
+## Is `IntersectionObserver` bad for SEO?
 
 The fact that Googlebot doesn't appear to support data URLs does not have to be a problem. The real question is whether Googlebot will scroll the page, execute the JavaScript, replace the placeholders with the actual images, and index those. If it does, it doesn't matter that Googlebot doesn't understand data URLs.
 
@@ -213,7 +217,7 @@ I only posted that blog post yesterday. I'm not sure how long it takes for Googl
 
 If the images don't show up in Google's index, lazy loading might impact your SEO. My solution would be to selectively disable lazy loading for the most important images only. (Note: even if Google finds the images, there is no guarantee that it will decide to index them – short blog posts and images are often excluded from Google's index.)
 
-### Conclusions
+## Conclusions
 
 Lazy loading images improves web page performance by reducing the number of HTTP requests and data needed to render the initial page.
 

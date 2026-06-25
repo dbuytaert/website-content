@@ -18,7 +18,10 @@ id: 5341
 
 # Analyzing my photography history
 
-[image miscellaneous-2022/hello]
+![Chart that shows my cameras and when I used them](http://default/files/cache/blog/camera-history-2000-to-2022-640w.png)
+
+![A man with a camera taking a self-portrait.](http://default/files/cache/miscellaneous-2022/hello-640w.jpg)
+*Me using a Leica M10-R.*
 
 I have over 10,000 photos on my website. All these photos are managed by a custom [Drupal](https://www.drupal.org/) module. I wrote the first version of that module over 15 years ago, and continue to work on it from time to time. Like this weekend, when I added a new feature.
 
@@ -68,7 +71,8 @@ SELECT camera, MIN(DATE(date)) AS first, MAX(DATE(date)) AS last, TIMESTAMPDIFF(
 Finally, here is a chart that visualizes my camera history:
 
 <div class="large">
-  [image blog/camera-history-2000-to-2022 resize=false]
+  ![Chart that shows my cameras and when I used them](http://default/files/cache/blog/camera-history-2000-to-2022-640w.png)
+*The timeframe I used each camera for. The white numbers on the blue bars represent the number of photos I published on my website.*
 </div>
 
 A few takeaways:

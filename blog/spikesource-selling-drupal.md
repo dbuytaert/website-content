@@ -17,4 +17,6 @@ id: 147
 
 # Spikesource selling Drupal
 
+![A SpikeSource exhibitor table displaying promotional materials, a laptop, printed documents, and black t-shirts at a conference.](http://default/files/cache/drupalcon-brussels-2006/spikesource-640w.jpg)
+
 

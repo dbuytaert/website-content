@@ -21,4 +21,4 @@ id: 1657
 
 [Christina Aguilera](http://www.christinaaguilera.com/) just relaunched her website using [Drupal](https://www.drupal.org): <http://www.christinaaguilera.com/>. The site is developed by [Sony Music](http://sonymusic.com), and is one of the better looking Drupal sites that I have seen Sony Music launch. No pun intended! *Welcome to the family, Christina!*
 
-[image drupal/christina-aguilera]
+![A promotional webpage for Christina Aguilera features an image from "Not Myself Tonight" with a video link and album details.](http://default/files/cache/drupal/christina-aguilera-640w.jpg)

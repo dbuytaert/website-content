@@ -21,15 +21,17 @@ id: 3981
 
 # The reason why Acquia supports Net Neutrality
 
+![A pop-up from Acquia advocates for net neutrality, urging users to join an internet-wide day of action.](http://default/files/cache/blog/acquia-supports-net-neutrality-640w.jpg)
+
 If you visit [Acquia's homepage](https://www.acquia.com) today, you will be greeted by this banner:
 
-[image blog/acquia-supports-net-neutrality resize=false]
+![A pop-up from Acquia advocates for net neutrality, urging users to join an internet-wide day of action.](http://default/files/cache/blog/acquia-supports-net-neutrality-640w.jpg)
 
 We've published this banner in solidarity with the hundreds of companies who are voicing their [support of net neutrality](https://www.battleforthenet.com).
 
 Net neutrality regulations ensure that web users are free to enjoy whatever sites they choose without interference from Internet Service Providers (ISPs). These protections establish an open web where people can explore and express their ideas. Under the current administration, the U.S. Federal Communications Commision favors less-strict regulation of net neutrality, which could drastically alter the way that people experience and access the web. Today, Acquia is joining the ranks of companies like Amazon, Atlassian, Netflix and Vimeo to advocate for strong net neutrality regulations.
 
-### Why the FCC wants to soften net neutrality regulations
+## Why the FCC wants to soften net neutrality regulations
 
 In 2015, the United States implemented strong protections favoring net neutrality after ISPs were classified as common carriers under Title II of the Communications Act of 1934. This classification catalogs broadband as an "essential communication service", which means that services are to be delivered equitably and costs kept reasonable. Title II was the same classification granted to telcos decades ago to ensure consumers had fair access to phone service. Today, the Title II classification of ISPs protects the open internet by making paid prioritization, blocking or throttling of traffic unlawful.
 
@@ -37,7 +39,7 @@ The issue of net neutrality is coming under scrutiny since to the appointment of
 
 In May 2017, the three members of the Federal Communications Commission [voted 2-1](https://www.reuters.com/article/us-usa-fcc-neutrality-idUSKCN18E2H7) to advance a plan to remove Title II classification from broadband services. That vote launched a public comment period, which is open until mid August. After this period the commission will take a final vote.
 
-### Why net neutrality protections are good
+## Why net neutrality protections are good
 
 I strongly disagree with Pai's proposed reclassification of net neutrality. Without net neutrality, ISPs can determine how users access websites, applications and other digital content. Today, both the free flow of information, and exchange of ideas benefit from 'open highways'. Net neutrality regulations ensure equal access at the point of delivery, and promote what I believe to be the fairest competition for content and service providers.
 
@@ -47,6 +49,6 @@ When certain websites have degraded performance because they can't afford the pr
 
 In the end, net neutrality affects how people, including you and me, experience the web. The internet's vast growth is largely a result of its openness. Contrary to Pai's reasoning, the open web has cultivated creativity, spawned new industries, and protects the free expression of ideas. At Acquia, we believe in supporting choice, competition and free speech on the internet. The "light touch" regulations now proposed by the FCC may threaten that very foundation.
 
-### What you can do today
+## What you can do today
 
 If you're also concerned about the future of net neutrality, you can share your comments with the FCC and the U.S. Congress (it will only take you a minute!). You can do so through [Fight for the Future](https://www.battleforthenet.com/), who organized today's day of action. The 2015 ruling that classified broadband service under Title II came after the FCC received more than 4 million comments on the topic, so let your voice be heard.

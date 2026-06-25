@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/video-can-we-save-the-open-web'
-title: 'Video: Can we save the open web? '
+title: 'Video: Can we save the open web?'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -17,19 +17,19 @@ published: true
 id: 3651
 ---
 
-# Video: Can we save the open web? 
+# Video: Can we save the open web?
 
 In March, I did a presentation at SxSW that asked the audience a question I've been thinking about a lot lately: "Can we save the open web?".
 
 The web is centralizing around a handful of large companies that control what we see, limit creative freedom, and capture a lot of information about us. I worry that we risk losing the serendipity, creativity and decentralization that made the open web great.
 
-[image blog/open-web-closing resize=false]
+![A digital illustration shows large tech company logos among connected nodes, representing the dominance of major platforms over the web.](http://default/files/cache/blog/open-web-closing-640w.gif)
 
 While there are no easy answers to this question, the presentation started a good discussion about the future of the open web, the role of algorithms in society, and how we might be able to take back control of our personal information.
 
 I'm going to use my blog to continue the conversation about the open web, since it impacts the future of [Drupal](https://drupal.com). I'm including the [video](https://www.youtube.com/watch?v=5GPUeJOrPyM) and [slides](https://dri.es/files/sxsw-2016-can-we-save-the-open-web.pdf) (PDF, 76 MB) of my SxSW presentation below, as well as an overview of what I discussed.
 
-[video 5GPUeJOrPyM]
+https://www.youtube.com/watch?v=5GPUeJOrPyM
 
 Here are the key ideas I discussed in my presentation, along with a few questions to discuss in the comments.
 

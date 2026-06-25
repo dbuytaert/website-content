@@ -19,4 +19,4 @@ id: 623
 
 Francesca Battistelli is using [Drupal](https://www.drupal.org) for her official website at <http://francescamusic.com>. The site is built by her record label [Warner Bros Records](http://www.warnerbrosrecords.com/) (also a Drupal site), and is one of the best looking artist sites that I have seen. *Nice!*
 
-[image drupal/francesca-battistelli]
+![Website promoting Francesca Battistelli's album "My Paper Heart", featuring album details, photos, and a music player.](http://default/files/cache/drupal/francesca-battistelli-640w.jpg)

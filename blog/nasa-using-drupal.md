@@ -21,4 +21,4 @@ id: 52
 
 The [National Aeronautics and Space Administration](https://www.nasa.gov/) (NASA) is using [Drupal](https://www.drupal.org/) for their [Academy of Program / Project and Engineering Leadership website](https://appel.nasa.gov/) (APPEL). *Sweet!*
 
-[image drupal/nasa-screenshot]
+![NASA webpage for the Academy of Program/Project & Engineering Leadership, featuring a director's letter and navigation menu.](http://default/files/cache/drupal/nasa-screenshot-640w.jpg)

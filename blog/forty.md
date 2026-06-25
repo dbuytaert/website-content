@@ -18,6 +18,8 @@ id: 4626
 
 # Forty
 
+![A colorful coffee mug with "I Love Papa" written on it, placed on a matching saucer with decorations.](http://default/files/cache/miscellaneous-2018/fortieth-birthday-coffee-mug-640w.jpg)
+
 Today I turned forty. This morning, Axl and Stan surprised me with coffee in bed, served in a special birthday mug that they created.
 
 When getting ready for a birthday party this weekend, I shaved not only my beard, but also my nose and ear hair. It sums up turning forty nicely.

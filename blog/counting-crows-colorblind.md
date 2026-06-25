@@ -17,4 +17,4 @@ id: 2366
 
 This song and I go way back. To me it's one of the best songs ever made.
 
-[video xwXPjMb7_Mk]
+https://www.youtube.com/watch?v=xwXPjMb7_Mk

@@ -19,21 +19,25 @@ id: 5051
 
 # State of Drupal presentation (July 2020)
 
-[video RIeRpLgI1mM]
+![A screenshoot of my title slide. It has the text 'DriesNote - DrupalCon Global 2020'.](http://default/files/cache/drupalcon-global-2020/drupalcon-global-2020-driesnote-640w.png)
+
+https://www.youtube.com/watch?v=RIeRpLgI1mM
 
 Last week, Drupalists from around the world gathered for [DrupalCon Global](https://events.drupal.org/global2020). This DrupalCon was the first ever virtual event of this scale for the Drupal community.
 
 As a matter of tradition, I delivered the opening keynote. You can [watch a video recording of my keynote](https://youtu.be/RIeRpLgI1mM), [download a copy of my slides](https://dri.es/files/state-of-drupal-july-2020.pdf) (212 MB), or read the brief summary below.
 
 <div class="large">
-  [image drupalcon-global-2020/drupalcon-global-2020-live-view]
+  ![The online conference web application showing my slides, my webcam, and real-time chat.](http://default/files/cache/drupalcon-global-2020/drupalcon-global-2020-live-view-640w.png)
+*A screenshot of the first ever virtual DriesNote. The virtual conference tool showed my slides, my webcam, and real-time chat.*
 </div>
 
 I announced that we are [targeting the release of Drupal 10 around June 2022](https://dri.es/drupal-10-target-release-date-and-drupal-9-end-of-life).
 
 Next, I spent the majority of my presentation proposing five strategic initiatives for Drupal 10. While it seems early to speak about Drupal 10, we need to start working on these strategic goals now to have them ready by the time Drupal 10 is released.
 
-[image drupalcon-global-2020/drupalcon-global-2020-goals]
+![A slide from the DriesNote showing that the goal of the presentation is to propose five well-balanced initiatives for Drupal 10.](http://default/files/cache/drupalcon-global-2020/drupalcon-global-2020-goals-640w.png)
+*The goal of my presentation was to propose five well-balanced initiatives for Drupal 10.*
 
 We decided to go with just five initiatives so we're more focused and because [the Drupal 10 release cycle will be shorter than Drupal 9's](https://dri.es/drupal-10-target-release-date-and-drupal-9-end-of-life). Selecting only five initiatives was hard, but guided by the results of the [2020 Drupal Product Survey](https://dri.es/drupal-2020-product-survey) I launched earlier in the year.
 
@@ -47,15 +51,16 @@ I spent 35 minutes walking the audience through the selection process. The five 
 4. Automated updates for security releases
 5. An official JS menu component for React and Vue
 
-### 1. Drupal 10 readiness
+## 1. Drupal 10 readiness
 
 Drupal depends on third-party software components, many of which will go end-of-life (EOL) in the next few years. When a component goes EOL, it will no longer receive security support.
 
 The "Drupal 10 Readiness" initiative will focus on upgrading these third-party components. Not only does this keep Drupal secure, it also allows us to take advantage of any new capabilities that come with these updated components.
 
-[image drupalcon-global-2020/drupal-10-third-party-components]
+![A slide from the DriesNote with a table that lists jQuery 3, CKEditor 4, jQuery UI, PHPUnit 8, Symfony 4, PHP 7, Composer 1, etc](http://default/files/cache/drupalcon-global-2020/drupal-10-third-party-components-640w.png)
+*Some of the third-party components that need to be updated in preparation for Drupal 10.*
 
-### 2. Easy out-of-the-box
+## 2. Easy out-of-the-box
 
 Improving Drupal's ease-of-use remains the number one most impactful item for the community to work on.
 
@@ -63,15 +68,17 @@ Drupal 9 dramatically improved Drupal's ease-of-use. Several of our most promisi
 
 I proposed the "Easy out-of-the-box" initiative to work towards *enabling these features by default*. I believe this initiative will be very impactful in terms of attracting new users to Drupal.
 
-[image drupalcon-global-2020/drupal-10-easy-out-of-the-box]
+![A slide from the DriesNote visualizing the 'Easy out of the box' as the sum of Media, Layout Builder and Claro.](http://default/files/cache/drupalcon-global-2020/drupal-10-easy-out-of-the-box-640w.png)
+*The 'Easy out of the box' initiative consists of finishing Media, Layout Builder and Claro.*
 
-### 3. Front end theme
+## 3. Front end theme
 
 One of the most important features to complete is our modern front end theme, Olivero. While there has been a lot of progress in this area, Olivero does not ship with Drupal yet. We want to make sure this beautiful front end theme is available by default.
 
-[image drupalcon-global-2020/drupal-10-new-front-end-theme]
+![A screenshot of the upcoming front-end theme called Olivero. It looks clean, modern and light.](http://default/files/cache/drupalcon-global-2020/drupal-10-new-front-end-theme-640w.png)
+*A screenshot of the upcoming front-end theme called Olivero.*
 
-### 4. Automatic updates
+## 4. Automatic updates
 
 As shown by the [Drupal 2020 Product Survey](https://dri.es/drupal-2020-product-survey), by far the most requested feature is automated updates.
 
@@ -79,9 +86,10 @@ Fortunately, it's something we have been working on for some time. Our first mil
 
 Beyond security, automated updates help us work towards our long-term vision of building a composable – or [Assembed Web](https://dri.es/the-assembled-web) – architecture for Drupal.
 
-[image drupalcon-global-2020/drupal-10-automated-updates]
+![The Automativ Updates initiative requires integrity checks for Drupal core, Composer 2, package signing and a custom bootloader.](http://default/files/cache/drupalcon-global-2020/drupal-10-automated-updates-640w.png)
+*A slide from <a href="https://dri.es/state-of-drupal-presentation-july-2020">my keynote at DrupalCon Global 2020</a> where I gave an update on the Automatic Updates initiative. The slide shows the four major architectural building blocks of the Automatic Updates initiative.*
 
-### 5. JavaScript menu component
+## 5. JavaScript menu component
 
 As I have been saying for years now, [many websites are evolving into personalized, omnichannel digital experiences](https://dri.es/from-content-management-to-digital-experience-management). It's a multi-decade trend, and one of the most powerful ones in our industry.
 
@@ -98,18 +106,21 @@ To make a start toward improving Drupal's headless capabilities and administrati
 
 As a first step, I recommended implementing a JavaScript menu component in Vue and React. This would mark the first official JavaScript component in Drupal.
 
-[image drupalcon-global-2020/drupal-10-javascript-menu-component-1]
+![A slide from the DriesNote that shows a flag with the text 'Decoupled menu components' waving on the top of a mountain.](http://default/files/cache/drupalcon-global-2020/drupal-10-javascript-menu-component-1-640w.png)
+*'Planting the flag' for providing official JavaScript menu components for Drupal.*
 
 Developing a JavaScript menu component solves a very real problem that many front end developers face. This menu component would render a menu and could be placed in a front end JavaScript application. The content of the menu comes from Drupal. This would allow content authors and non-developers to make simple menu changes without the need for custom code.
 
 Releasing a first official JavaScript component will require us to set up the tools and processes to manage and release JavaScript components. This will establish a pattern or recipe for more components. Once we build one component, it will be easier to add many more in parallel.
 
-[image drupalcon-global-2020/drupal-10-javascript-menu-component-2]
+![A slide from the DriesNote that shows the long path to the flag at the top of the mountain.](http://default/files/cache/drupalcon-global-2020/drupal-10-javascript-menu-component-2-640w.png)
+*The path to having a first official JavaScript component is longer than it may appear.*
 
-### Let's do this!
+## Let's do this!
 
 <div class="large">
-  [image drupalcon-global-2020/drupal-10-press-release]
+  ![A slide from the DriesNote that shows a fictitious Drupal 10 press release dated June 2022.](http://default/files/cache/drupalcon-global-2020/drupal-10-press-release-640w.png)
+*A fictitious or forward-looking press release for Drupal 10 in June 2022.*
 </div>
 
 With [the release of Drupal 10 targeted for June 2022](https://dri.es/drupal-10-target-release-date-and-drupal-9-end-of-life), our community has a big opportunity to make the beginner and non-developer experiences much simpler, while still keeping Drupal's power as strong as ever for experts. I believe the proposed strategic initiatives will help achieve that.

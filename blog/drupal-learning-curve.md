@@ -17,4 +17,6 @@ id: 227
 
 # Drupal learning curve
 
+![A graph showing Drupal's learning curve, with ability increasing over time and key skill milestones labeled along the way.](http://default/files/images/drupal/learning-curve.jpg)
+
 

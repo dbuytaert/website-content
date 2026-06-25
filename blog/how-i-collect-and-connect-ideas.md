@@ -19,13 +19,15 @@ id: 5831
 
 # How I collect and connect ideas
 
+![A glowing light bulb hanging in an underground tunnel.](http://default/files/cache/miscellaneous-2023/champagne-tunnel-640w.jpg)
+
 In my post about [digital gardening and public notes](https://dri.es/if-a-note-can-be-public-it-should-be), I shared a principle I follow: "If a note can be public, it should be". I also mentioned using [Obsidian](https://obsidian.md) for note-taking. Since then, various people have asked about my Obsidian setup.
 
 I use Obsidian to collect ideas over time rather than to manage daily tasks or journal. My setup works like a [Commonplace book](https://en.wikipedia.org/wiki/Commonplace_book), where you save quotes, thoughts, and notes to return to later. It is also similar to a [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten), where small, linked notes build deeper understanding.
 
 What makes such note-taking systems valuable is how they help ideas grow and connect. When notes accumulate over time, connections start to emerge. Ideas compound slowly. What starts as scattered thoughts or quotes becomes the foundation for blog posts or projects.
 
-### Why plain text matters
+## Why plain text matters
 
 One of the things I appreciate most about [Obsidian](https://obsidian.md) is that it stores notes as plain text [Markdown](https://en.wikipedia.org/wiki/Markdown) files on my local filesystem.
 
@@ -35,7 +37,7 @@ Plus, plain text files have long-term benefits. Note-taking apps come and go, co
 
 All this follows what Obsidian CEO [Steph Ango](https://stephango.com/) calls the ["files over apps" philosophy](https://stephango.com/file-over-app): your files should outlast the tools that create them.  Don't lock your thinking into formats you might not be able to access later.
 
-### My tools
+## My tools
 
 Before I dive into how I use Obsidian, it is worth mentioning that I use different tools for different types of thinking. Some people use Obsidian for everything – task management, journaling, notes – but I prefer to separate those.
 
@@ -45,7 +47,7 @@ For daily journaling and event tracking, I use a custom iOS app I built myself. 
 
 Obsidian is where I grow long-term ideas. It is for collecting insights, connecting thoughts, and building a knowledge base that compounds over time.
 
-### How I capture ideas
+## How I capture ideas
 
 In Obsidian, I organize my notes around topic pages. Examples are "Coordination challenges in Open Source", "Solar-powered websites", "Open Source startup lessons", or "How to be a good dad".
 
@@ -59,7 +61,7 @@ I do not schedule formal reviews. Instead, notes come back to me when I search, 
 
 Obsidian's core features help these connections deepen. I use [tags](https://help.obsidian.md/tags), [backlinks](https://help.obsidian.md/backlinks) and [graph view](https://help.obsidian.md/plugins/graph), to connect notes and reveal patterns between notes.
 
-### How I use notes
+## How I use notes
 
 The biggest challenge with note-taking is not capturing ideas, but actually using them. Most notes get saved and then forgotten. 
 
@@ -69,7 +71,7 @@ As my collection of notes grows, certain notes keep bubbling up while others fad
 
 What I like about this process is that it turns note-taking into more than just storage. As I've said many times, writing is how I think. Writing pushes me to think, and it is the process I rely on to flesh out ideas. I do not treat my notes as final conclusions, but as ongoing conversations with myself. Sometimes two notes written months apart suddenly connect in a way I had not noticed before. 
 
-### My plugin setup
+## My plugin setup
 
 Obsidian has a large plugin ecosystem that reminds me of [Drupal](https://www.drupal.org)'s.  I mostly stick with core plugins, but use the following community ones:
 
@@ -85,7 +87,7 @@ Obsidian has a large plugin ecosystem that reminds me of [Drupal](https://www.dr
 
 * **[Copilot](https://github.com/logancyang/obsidian-copilot)** – I'm still testing this, but the idea of chatting with your own knowledge base is compelling. You can also ask AI to help organize notes more effectively.
 
-### The Obsidian Web Clipper
+## The Obsidian Web Clipper
 
 The tool I'd actually recommend most isn't a traditional Obsidian plugin: it's the official [Obsidian Web Clipper](https://obsidian.md/clipper) browser extension.  I have it installed on my desktop and phone.
 
@@ -93,6 +95,6 @@ When I find something interesting online, I highlight it and clip it directly in
 
 I usually save just a quote or a short section of an article, not the whole article. Some days I save several clips. Other days, I save none at all.
 
-### Why this works
+## Why this works
 
 For me, Obsidian is not just a note-taking tool. It is a thinking environment. It gives me a place to collect ideas, let them mature, and return to them when the time is right. I do not aim for perfect organization. I aim for a system that feels natural and helps me notice connections I would otherwise miss.

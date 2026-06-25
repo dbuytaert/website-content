@@ -20,17 +20,17 @@ Yesterday, I talked about [the Gartner hype cycle](https://en.wikipedia.org/wiki
 
 Here is the curve of one lifecycle, as seen by Drupal's developers:
 
-[image drupal/development-cycle-2 resize=false]
+![A graph illustrating the Drupal development cycle, showing mood changes from slow progress to patch frenzy and user reactions.](http://default/files/images/drupal/development-cycle-2.jpg)
 
 The development cycle is like a song, and each phase has its own stanza. Slow motion's lyrics are, "We need more core committers to review patches!" and "Drupal development is so broken!". Patch frenzy wails, "Crap, my patch isn't going to make it in!" and "Wait, we can't freeze the code like this!". User scream is a call-and-response with the market, which sings "You shouldn't release core until contrib is updated" and "I can't believe you're already working on the next version when I haven't even upgraded yet".
 
 Complicating matters is the fact that we're always working on both the current version of Drupal and the next one. (We also maintain the previous version, but its cycle has already finished.) When you overlay Drupal 7 and Drupal 8's cycles, they look something like this:
 
-[image drupal/development-cycle-3 resize=false]
+![A line graph compares the mood over time for Drupal 7 and Drupal 8, showing fluctuations and trends.](http://default/files/images/drupal/development-cycle-3.jpg)
 
 Adding the two graphs together gives us a new curve that reflects the total picture.
 
-[image drupal/development-cycle-4 resize=false]
+![A line graph showing mood over time for Drupal 7, Drupal 8, and both combined, with a "Now" marker.](http://default/files/images/drupal/development-cycle-4.jpg)
 
 I've put a line where I think we are now. Drupal 7 is on its way into the "Slope of enlightenment", while Drupal 8 is near the beginning of its path.
 

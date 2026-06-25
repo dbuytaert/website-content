@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/the-world-bank-climate-change-site-using-drupal'
-title: "The World Bank's climate change site using Drupal "
+title: "The World Bank's climate change site using Drupal"
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -14,7 +14,7 @@ published: true
 id: 1432
 ---
 
-# The World Bank's climate change site using Drupal 
+# The World Bank's climate change site using Drupal
 
 The World Bank has many websites and a varied online presence and some are running Drupal. Their climate change site, <http://beta.worldbank.org>, which launched a few months ago uses [Drupal](https://www.drupal.org). The site serves as a beta for the new content strategy the Bank would like for the future: an integrated model of publishing around shared topics, countries, and products to achieve greater audience reach and satisfaction. This site takes a single topic: "climate change", and aggregates World Bank content from a variety of sources in an automated fashion.
 
@@ -24,4 +24,4 @@ The World Bank has reams of information regarding climate change but it was sepa
 
 It's very satisfying to know that Drupal is powering such an important site which is poised to help better the plight of developing countries. Experts anticipate climate change will hit the third world the hardest. This site is one of the more prominent Drupal sites The World Bank currently has, but it is a great example of how to effectively showcase data on important issues. I hope they will consider using Drupal for future projects.
 
-[image drupal/world-bank-climate-change]
+![World Bank webpage on climate change, highlighting its impact on developing countries and linking it to economic development.](http://default/files/cache/drupal/world-bank-climate-change-640w.jpg)

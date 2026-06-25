@@ -22,4 +22,4 @@ A couple of weeks ago, Robbie Williams made [his comeback](https://www.youtube.c
 
 With his comeback also comes a website refresh using [Drupal](https://www.drupal.org): see <http://robbiewilliams.com>. The site was developed by an Acquia partner based in the UK.
 
-[image drupal/robbie-williams]
+![A singer in a red jacket performs on stage, holding a microphone.](http://default/files/cache/drupal/robbie-williams-640w.jpg)

@@ -24,7 +24,7 @@ I'm very passionate about Open Source and startups, and want to see more Open So
 
 Does that mean I'll be leaving Drupal or Acquia? No. I'll continue as the lead of the Drupal project and the CTO of Acquia. Drupal and Acquia continue to be my full-time focus. I have been advising entrepreneurs and startups for the last 5+ years, and have been a [moderately active angel investor](https://dri.es/angel-investments) the past two years. Not much, if anything, will change about my day-to-day. \_Underscore.VC gives me a better platform to advise and invest, give back and help others succeed with Open Source startups. It's a chance to amplify the "[do well and do good](https://dri.es/do-well-do-good)" mantra that drives me.
 
-### Mautic and the power of syndicates
+## Mautic and the power of syndicates
 
 While Michael, the \_Underscore.VC team and I have been working on \_Underscore.VC for quite some time, I'm excited to share that on top of formally launching this week, they've unveiled a $75 million fund, as well as our first seed investment. This first investment is in [Mautic](http://mautic.com), an Open Source marketing automation company.
 

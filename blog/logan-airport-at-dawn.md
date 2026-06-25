@@ -17,4 +17,6 @@ id: 2501
 
 # Logan airport at dawn
 
+![Several airplanes are parked at Logan Airport during dawn, with a warm sky in the background.](http://default/files/cache/miscellaneous-2011/logan-airport-at-dawn-640w.jpg)
+
 

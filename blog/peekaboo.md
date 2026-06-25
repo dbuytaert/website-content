@@ -18,4 +18,6 @@ id: 299
 
 # Peekaboo
 
+![A pregnant woman peeks from behind a door, showing her baby bump.](http://default/files/cache/miscellaneous-2007/peekaboo-640w.jpg)
+
 

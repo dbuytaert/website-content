@@ -24,6 +24,8 @@ id: 5761
 
 # Automating alt-text generation with AI
 
+![A person stands by a small lake surrounded by grassy hills and mountains under a cloudy sky in the Scottish Highlands.](http://default/files/cache/isle-of-skye-2024/journey-to-skye-640w.jpg)
+
 Billions of images on the web lack proper `alt`-text, making them inaccessible to millions of users who rely on screen readers.
 
 My own website is no exception, so [a few weeks ago](https://dri.es/comparing-local-llms-for-alt-text-generation), I set out to add missing `alt`-text to about 9,000 images on this website.
@@ -32,7 +34,7 @@ What seemed like a simple fix became a multi-step challenge. I needed to [evalua
 
 To make the web better, a lot of websites need to add `alt`-text to their images. So I decided to document my progress here on [my blog](https://dri.es/) so others can learn from it – or offer suggestions. This third post dives into the technical details of how I built an automated pipeline to generate `alt`-text at scale.
 
-### High-level architecture overview
+## High-level architecture overview
 
 My automation process follows three steps for each image:
 
@@ -42,7 +44,7 @@ My automation process follows three steps for each image:
 
 The rest of this post goes into more detail on each of these steps. If you're interested in the implementation, you can find most of the [source code on GitHub](https://github.com/dbuytaert/image-caption).
 
-### Retrieving image metadata
+## Retrieving image metadata
 
 To systematically process 9,000 images, I needed a structured way to identify which ones were missing `alt`-text.
 
@@ -77,10 +79,10 @@ This request returns a JSON object with image metadata:
 
 Because the `alt`-field is empty, the next step is to generate a description using AI.
 
-### Generating and refining `alt`-text with AI
+## Generating and refining `alt`-text with AI
 
 <div class="large">
-  [image isle-of-skye-2024/journey-to-skye caption=false]
+  ![A person stands by a small lake surrounded by grassy hills and mountains under a cloudy sky in the Scottish Highlands.](http://default/files/cache/isle-of-skye-2024/journey-to-skye-640w.jpg)
 </div>
 
 In [my first post on AI-generated `alt`-text](https://dri.es/comparing-local-llms-for-alt-text-generation), I wrote a Python script to compare 10 different local [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model) (LLMs). The script uses [PyTorch](https://pytorch.org/), a widely used machine learning framework for AI research and deep learning. This implementation was a great learning experience.
@@ -138,7 +140,7 @@ The `--context` parameter improves `alt`-text quality by adding details the LLM 
 
 In this example, I added `"Location: Glencoe, Scotland"`. Notice how ChatGPT-4o mentions Glencoe directly while Claude-3 Sonnet references the Scottish Highlands. This contextual information makes descriptions more accurate and valuable for users. For maximum accuracy, use all available information!
 
-### Updating image metadata
+## Updating image metadata
 
 With `alt`-text generated, the final step is updating each image. The `PATCH` endpoint accepts only the fields that need changing, preserving other metadata:
 
@@ -154,7 +156,7 @@ curl -X PATCH \
 
 That's it. This completes the automation loop for one image. It checks if `alt`-text is needed, creates a description using a cloud-based LLM, and updates the image if necessary. Now, I just need to do this about 9,000 times.
 
-### Tracking AI-generated `alt`-text
+## Tracking AI-generated `alt`-text
 
 Before running the script on all 9,000 images, I added a label to the database that marks each `alt`-text as either human-written or AI-generated. This makes it easy to:
 
@@ -163,7 +165,7 @@ Before running the script on all 9,000 images, I added a label to the database t
 
 With this approach I can update the AI-generated `alt`-text when ChatGPT 5 is released. And eventually, it might allow me to return to my original principles: to use a high-quality local LLM trained on public domain data. In the mean time, it helps me make the web more accessible today while building toward a better long-term solution tomorrow.
 
-### Next steps
+## Next steps
 
 Now that the process is automated for a single image, the last step is to run the script on all 9,000. And honestly, it makes me nervous. The perfectionist in me wants to review every single AI-generated `alt`-text, but that is just not feasible. So, I have to trust AI. I'll probably write one more post to share the results and what I learned from this final step.
 

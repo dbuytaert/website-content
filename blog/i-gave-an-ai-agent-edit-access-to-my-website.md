@@ -17,6 +17,8 @@ id: 5746
 
 # I gave an AI agent edit access to my website
 
+![A person works on a laptop as a hologram of an AI agent hovers beside them.](http://default/files/cache/blog/collaborating-with-an-ai-agent-640w.jpg)
+
 I'm often asked, <q>Will AI agents replace digital marketers and site builders?</q>. The answer is <q>yes</q>, at least for certain kinds of tasks.
 
 To explore this idea, I prototyped two AI agents to automate marketing tasks on my personal website. They update meta descriptions to improve SEO and optimize tags to improve content discovery.
@@ -24,10 +26,10 @@ To explore this idea, I prototyped two AI agents to automate marketing tasks on 
 Watching the AI agents in action is incredible. In the video below, you'll see them effortlessly navigate my Drupal site: logging in, finding posts, and editing content. It's a glimpse into how AI could transform the role of digital marketers.
 
 <div class="large">
-  [video sRlVFCILV3Q]
+  https://www.youtube.com/watch?v=sRlVFCILV3Q
 </div>
 
-### The experiment
+## The experiment
 
 I built two AI agents to help optimize my blog posts. Here is how they work together:
 
@@ -40,7 +42,7 @@ This was achieved with just 120 lines of Python code and a few hours of trial an
 
 The secret ingredient is the [`browser_use` framework](https://github.com/browser-use/browser-use), which acts as a bridge between various LLMs and [Playwright](https://playwright.dev/), a framework for browser automation and testing.
 
-### The magic and the reality check
+## The magic and the reality check
 
 What makes this exciting is the agent's ability to problem-solve. It's almost human-like.
 
@@ -52,7 +54,7 @@ In the second part of the video, it navigated Drupal's more complex UI elements,
 
 The results are incredible, but not flawless. I ran the agents multiple times, and while they performed well most of the time, they aren't reliable enough for production use. However, this field is evolving quickly, and agents like this could become highly reliable within a year or two.
 
-### Native agents versus explorer agents
+## Native agents versus explorer agents
 
 In my mind, agents can be categorized as "explorer agents" or "native agents". I haven't seen these terms used before, so here is how I define them:
 
@@ -65,13 +67,13 @@ Native agents that directly interact with the CMS's APIs should be more effectiv
 
 I can also imagine a future where native agents and explorer agents work together (hybrid agents), combining the strengths of both approaches to unlock even greater opportunities.
 
-### Next steps
+## Next steps
 
 A next step for me is to build a similar solution using [Drupal's AI agent capabilities](https://dri.es/drupal-cms-1-released). Drupal's native AI agents should make finding and updating content more efficiently.
 
 Of course, other digital marketing use cases might benefit from explorer agents. I'd be happy to explore these possibilities as well. Let me know if you have ideas.
 
-### Conclusions
+## Conclusions
 
 Building an AI assistant to handle digital marketing tasks is no longer science fiction. It's clear that, soon, AI agents will be working alongside digital marketers and site builders.
 

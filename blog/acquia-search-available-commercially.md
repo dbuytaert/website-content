@@ -25,6 +25,6 @@ Acquia Search is included for no additional cost in every Acquia Network subscri
 
 For my personal blog, which has about 900 nodes at the time of this writing, a Basic Acquia Network subscription ($349 USD/year) would give me all the benefits of Acquia Search, plus all the other Acquia Network services.
 
-[image acquia/acquia-search-subscription-data resize=false]
+![Acquia Network subscription shows 32% of search slices remaining, with 68% of one slice already used.](http://default/files/images/acquia/acquia-search-subscription-data.jpg)
 
 For some of you, this might sound like a lot of money, but we believe you get a lot of value in return. In my next couple of blog posts, I plan to outline the benefits of Acquia Search to your site visitors and to Drupal site administrators. *Stay tuned!*

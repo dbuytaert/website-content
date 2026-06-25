@@ -17,4 +17,4 @@ id: 2046
 
 I like this song. It resonates. It swings.
 
-[video cUKTl2s5oDY]
+https://www.youtube.com/watch?v=cUKTl2s5oDY

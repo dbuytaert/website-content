@@ -20,10 +20,12 @@ We're proud to present a new design for the [Mollom.com website](https://mollom.
 
 We first launched the Mollom.com site in 2007. For more than four years, Mollom.com was using the same design. As we grew Mollom, we wanted to address some of the issues that we've been stewing over since our original design. We have been planning to redesign the site for over a year now but work on the [Mollom web service](https://www.mollom.com/how-mollom-works) and developing [new Mollom products](https://www.mollom.com/moderation) have always had a higher priority so we haven't found the time to complete the new design until now.
 
-[image mollom/mollom-com-january-2012]
+![](http://default/files/cache/mollom/mollom-com-january-2012-640w.jpg)
+*The old Mollom.com design that we used from 2007 to early 2012.*
 
 The new design is the first step in our plans to reorganize the website. We still have updates to make to the content of some pages, for example. Already, we think the new design is a fresh new change that improves usability.
 
 Take a look at the new [mollom.com](https://mollom.com), we hope you like it!
 
-[image mollom/mollom-com-february-2012]
+![Screenshot of the redesigned Mollom website, showcasing its spam filtering and content quality evaluation features with call-to-action buttons.](http://default/files/cache/mollom/mollom-com-february-2012-640w.jpg)
+*The new Mollom.com website design.*

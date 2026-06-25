@@ -18,4 +18,6 @@ id: 2376
 
 # Second birthday Stan
 
+![A young child wearing a colorful paper crown with stars smiles while looking to the side at a party.](http://default/files/cache/birthday-stan-2011/party-2-640w.jpg)
+
 Exactly two years ago, [you took your first breath](https://dri.es/album/stan-2009/first-breath). Now you run, jump, climb, cook (with help from mommy), communicate and exert your independence (with help from tantrums). It is incredible to see your personality and skills shine through. Can't wait to see more of you, *small buddy*. Happy second birthday, Stan!

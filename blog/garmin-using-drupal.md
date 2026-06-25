@@ -17,4 +17,6 @@ id: 2001
 
 # Garmin using Drupal
 
+![A Garmin GPS device is displayed over an image of a dog sled team moving through a snowy landscape.](http://default/files/cache/drupal/garmin-dk-640w.jpg)
+
 Garmin, the satellite navigation company, is using [Drupal](https://www.drupal.org) for their Danish site: <http://garmin.dk>.

@@ -19,4 +19,4 @@ The song Glycerine, of the post-grunge band Bush, is probably the song that has 
 
 Even today, 12 years later, this might still be my all-time favorite song. I just listened to it ... twice. *Nostalgic!*
 
-[video yUiM3ClWAQU]
+https://www.youtube.com/watch?v=yUiM3ClWAQU

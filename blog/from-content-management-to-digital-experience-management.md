@@ -20,19 +20,19 @@ Happy 13th birthday [Drupal](https://www.drupal.org)! It's hard to believe so mu
 
 A birthday presents us with a great time to look back and reflect. Though there are many things we could reflect on, I'd like to use this post to look at the bigger picture and share my perspective on the market. This means this blog post mainly offers a business perspective rather than a technical perspective.
 
-### From web to digital
+## From web to digital
 
 Drupal was grown out of my own interest in the web. Today, it is a critical component of many organizations' operations. For most organizations, having an online presence – like a website or mobile application – is an essential part of running their business, and it only continues to grow in importance. The rise of mobile and social media means we no longer talk about having a "website" or having a "web application;" instead we talk about the totality of the "digital experience." Providing visitors or customers with a great digital experience is no longer a nice-to-have; it is a make-or-break point.
 
-### From content to experiences
+## From content to experiences
 
 For Acquia, creating high quality content and driving traffic to our site was the #1 way to generate new leads in 2013. This is true for the vast majority of organizations; high-quality, valuable content remains important. Five years ago, this meant if you had a business, and you didn't have a blog, it was time to start one. Today, it involves so much more than creating pages or cranking out new sites; you create and manage your content, and find ways to promote and reuse it across multiple channels to generate awareness and reach more people. You track and measure all of your efforts and try to optimize the content for different users. Content is gold, but delivering the right content to the right user at the right moment in the right format is platinum. It's no longer just about publishing content; it's about managing the entire experience of a site visitor or user over time.
 
-### From mobile to context
+## From mobile to context
 
 Just like in the last half decade or so, "mobile" has completely redefined the internet, in the next half decade or so, "contextualization" will redefine it once again. The next big challenge, and opportunity, for Drupal, is figuring out how to make it a platform not just for content creators to deliver *essentially the same* content to users in their preferred language on their preferred device, but a platform for content creators to deliver *the most appropriate* content to each individual user.
 
-### Digital experience platform
+## Digital experience platform
 
 The short of it is that Content Management Systems (CMSs) have evolved into technology platforms that manage complex, contextual digital experiences. Managing the totality of a visitor's interactions is complex and requires an array of tools. Just as creating optimal mobile experiences involves multiple approaches and technologies, from responsive design to native apps, from leveraging browser capabilities to leveraging best-practice javascript and PHP libraries, so too creating optimal personalized digital experiences will involve a mix of approaches and technologies, from building some APIs and capabilities into Drupal itself, to integrating with other tools.
 

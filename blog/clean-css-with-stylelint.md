@@ -66,6 +66,6 @@ $ stylelint --config stylelint.js --config-basedir /usr/local/lib/node_modules/ 
 
 In my case it found a couple of problems that were easy to fix:
 
-[image blog/stylelint-album-css resize=false]
+![](http://default/files/cache/blog/stylelint-album-css-640w.jpg)
 
 For fun, I googled "Stylelint Drupal" and found that [Alex Pott](https://www.drupal.org/u/alexpott) has proposed [adding a Stylelint configuration file to Drupal core](https://www.drupal.org/project/drupal/issues/2865971). *Seems useful to me!*

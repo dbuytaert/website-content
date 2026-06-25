@@ -20,4 +20,4 @@ id: 347
 
 Turns out Jennifer Lopez (aka J. Lo) is using [Drupal](https://www.drupal.org) at <http://jenniferlopez.com>. *Kicking ass. ;-)*
 
-[image drupal/jennifer-lopez]
+![A website featuring Jennifer Lopez with a promotional banner for her music video and sections for news, events, and shopping.](http://default/files/cache/drupal/jennifer-lopez-640w.jpg)

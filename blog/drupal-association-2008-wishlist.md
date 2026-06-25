@@ -23,4 +23,4 @@ In January 2008 we have to elect our second Board of Directors. We are looking f
 
 A few months ago, I asked more than 1,000 Drupal users what they think the [Drupal Association](https://association.drupal.org) should focus on. The results are provided below and might be a good source of inspiration when considering to submit your candidacy.
 
-[image drupal/drupal-association-wishlist]
+![Bar chart listing Drupal Association priorities, including funding improvements, hardware investment, grants, event support, and trademark protection.](http://default/files/images/drupal/drupal-association-wishlist.jpg)

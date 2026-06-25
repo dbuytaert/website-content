@@ -18,9 +18,11 @@ id: 4786
 
 # Should Product Marketing report to Product or Marketing?
 
+![Product marketing is at the center of product management, sales and marketing](http://default/files/cache/blog/product-marketing-640w.jpg)
+
 Product marketing teams are responsible for bringing products to market and championing their success and adoption. To make this happen, they work closely with three sets of key stakeholders: the product team (development/engineering), the marketing team and the sales team.
 
-[image blog/product-marketing]
+![Product marketing is at the center of product management, sales and marketing](http://default/files/cache/blog/product-marketing-640w.jpg)
 
 In some organizations, product marketing reports to marketing. In other organizations, it reports to product. The most common pattern is for product marketing teams to live in marketing, but in my opinion, a product marketing organization should sit where the highest frequency of communication and collaboration is needed. That can depend on the type of product, but also on the maturity of the product.
 

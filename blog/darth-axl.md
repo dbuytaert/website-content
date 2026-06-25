@@ -17,5 +17,5 @@ id: 2451
 
 # Darth Axl
 
-[image antwerp-2011/darth-axl-2]
-[image antwerp-2011/darth-axl-4]
+![A child wearing a welding helmet and gloves holds a welding torch in a garage or workshop setting.](http://default/files/cache/antwerp-2011/darth-axl-2-640w.jpg)
+![A child wearing a welding helmet and gloves holds welding equipment in a workshop, standing next to a gas cylinder.](http://default/files/cache/antwerp-2011/darth-axl-4-640w.jpg)

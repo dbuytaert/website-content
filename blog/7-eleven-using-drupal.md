@@ -18,4 +18,4 @@ id: 3926
 
 7-Eleven is the largest convenience store chain in the world with 60,000 locations around the globe. That is more than any other retailer or food service provider. In conjunction with the release of its updated [7-Rewards program](https://www.7-eleven.com/7rewards), 7-Eleven also relaunched its website and mobile application using Drupal 8! Check it out at <https://www.7-eleven.com>, and grab a Slurpee while you're at it!
 
-[image drupal/7-eleven]
+![7-Eleven ad featuring a red Pepsi Fire Slurpee with cinnamon flavor and the slogan "Starts Cold, Finishes Hot.](http://default/files/cache/drupal/7-eleven-640w.jpg)

@@ -22,6 +22,8 @@ id: 6156
 
 # The Sovereignty Prerequisite
 
+![A row of identical closed dark cubes with a single open red cube in the middle, symbolizing that Open Source licensing should be treated differently.](http://default/files/cache/blog/sovereignty-prerequisite-640w.jpg)
+
 Procurement frameworks aren't the most exciting topic. But the European Commission is about to propose the [Cloud and AI Development Act](https://www.europarl.europa.eu/legislative-train/theme-a-new-plan-for-europe-s-sustainable-prosperity-and-competitiveness/file-cloud-and-ai-development-act) (CADA), and how it treats Open Source will affect every Open Source project and Open Source business operating in Europe. This is one of those moments where the details matter.
 
 Last month, I proposed a [Software Sovereignty Scale](https://dri.es/the-software-sovereignty-scale) that grades software from A to E based on how easily your rights can be taken away. My core argument: if you want sovereignty that lasts, Open Source matters more than buying European proprietary software.
@@ -32,11 +34,12 @@ The Cloud Sovereignty Framework only applies to how EU institutions buy their ow
 
 My [original recommendation](https://dri.es/the-software-sovereignty-scale) was to give Open Source more weight in the Cloud Sovereignty Framework's scoring. I've since realized that isn't enough. Licensing shouldn't be in the sovereignty score at all. It should be a prerequisite.
 
-### Open Source is not a rounding error
+## Open Source is not a rounding error
 
 The Cloud Sovereignty Framework evaluates providers across eight sovereignty objectives, each weighted into a composite score, as shown in the screenshot below. Contracting authorities use that score to rank and compare providers when selecting software and cloud services.
 
-[image blog/eu-cloud-sovereignty-framework-weights resize=false schema=false]
+![A table and formula from the European Commission's Cloud Sovereignty Framework showing how the composite sovereignty score is computed. Eight sovereignty objectives are weighted: Strategic Sovereignty 15%, Legal and Jurisdictional 10%, Data and AI 10%, Operational 15%, Supply Chain 20%, Technology 15%, Security and Compliance 10%, and Environmental Sustainability 5%. The sovereignty score is the weighted sum of each objective's normalized score.](http://default/files/cache/blog/eu-cloud-sovereignty-framework-weights-640w.png)
+*Screenshot of how the European Commission computes its composite sovereignty score. Technology Sovereignty \(SOV-6\), which covers open licensing, accounts for 15% of the total. Source: <a href="https://commission.europa.eu/document/download/09579818-64a6-4dd5-9577-446ab6219113\_en?filename=Cloud-Sovereignty-Framework.pdf">Cloud Sovereignty Framework</a>, version 1.2.1, October 2025.*
 
 Technology Sovereignty (SOV-6), the objective that covers Open Source, accounts for 15% of the total. Within it, open licensing is one of four contributing factors. That means software being Open Source can contribute roughly 4% to a provider's final sovereignty score.
 
@@ -50,7 +53,7 @@ Had Skype been Open Source, no one could have taken the code away. You would sti
 
 That makes licensing a prerequisite, not something to average into a score. Scores compare trade-offs. Prerequisites define what is non-negotiable.
 
-### The gate already exists
+## The gate already exists
 
 Beyond the composite score, the framework defines Sovereign Effectiveness Assurance Levels, or SEAL levels. These range from SEAL-0 (no sovereignty at all) to SEAL-4 (full EU control with no critical non-EU dependencies).
 
@@ -99,7 +102,7 @@ Won't this exclude many proprietary providers? Yes, it would. But we have to be 
 
 I support the push to buy homegrown technology ("Buy European"). It keeps investment in Europe. But it doesn't solve the underlying problem.
 
-### Which government is sovereign?
+## Which government is sovereign?
 
 Consider two scenarios. In the first, a government runs proprietary software on a sovereign European cloud. The provider gets acquired by a non-EU company, and the government can't migrate without replacing the software entirely. It has jurisdiction but ultimately no control. It's not very sovereign.
 

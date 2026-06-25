@@ -17,6 +17,8 @@ id: 1886
 
 # Drupal in a tablet world
 
+![Large billboard advertisement for the Apple iPad at night, showing a hand interacting with the tablet's screen.](http://default/files/cache/drupalcon-san-francisco-2010/ipad-ad-640w.jpg)
+
 A few years ago, computer tablets similar to Apple's iPad were props in science fiction films. Only a couple of years from now, tablets might be among the most popular consumer electronics ever.
 
 It took less than three months to sell the first 3 million iPads. This has made the iPad the consumer electronics device with the fastest adoption rate of all time. Compare that with the 1 million iPhones sold in the first three months of its release, and the 350,000 DVD players sold in the first year of their mass production.

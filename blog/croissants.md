@@ -16,4 +16,6 @@ id: 1806
 
 # Croissants
 
+![Partially baked croissants on a parchment-lined baking sheet inside an oven.](http://default/files/cache/miscellaneous-2010/croissants-640w.jpg)
+
 I rolled croissants this morning, instead of Drupal patches.

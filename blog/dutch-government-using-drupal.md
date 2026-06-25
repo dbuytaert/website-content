@@ -20,4 +20,4 @@ id: 671
 
 The Dutch government is using [Drupal](https://www.drupal.org) for [the website of the State Service for Cultural Heritage](https://www.cultureelerfgoed.nl/). The site was built by [Cinnamon](http://cinnamon.nl).
 
-[image drupal/rijksdienst-cultureel-erfgoed]
+![Homepage of Rijksdienst voor het Cultureel Erfgoed, featuring heritage information, a canal scene, and navigation links.](http://default/files/cache/drupal/rijksdienst-cultureel-erfgoed-640w.jpg)

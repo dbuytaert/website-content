@@ -18,4 +18,6 @@ id: 1561
 
 # Pajamas party
 
+![A baby in plaid pajamas sits on a bed, looking excited and surprised.](http://default/files/cache/stan-2010/pajamas-party-640w.jpg)
+
 

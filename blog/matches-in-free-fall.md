@@ -17,4 +17,6 @@ id: 90
 
 # Matches in free fall
 
+![A yellow "Union Match" box is captured mid-air, appearing to be falling outdoors.](http://default/files/cache/miscellaneous-2006/matches-in-free-fall-640w.jpg)
+
 

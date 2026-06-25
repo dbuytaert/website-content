@@ -19,6 +19,8 @@ id: 5506
 
 # Hiking the Pemi Loop: an unforgettable adventure
 
+![A hiker trekking on a ridge towards a mountain peak.](http://default/files/cache/pemi-loop-2023/franconia-ridge-640w.jpg)
+
 The **Pemi Loop**, also known as the **Pemigewasset Loop**, in the White Mountains of New Hampshire, was more than just a hike. It became both a test of endurance and a celebration of a deep friendship.
 
 I went on this hike with Klaas, one of my closest friends. A few years ago, when we both turned 40, we decided to forgo the usual birthday gifts. Instead, we'd create a special memory together each year. The Pemi Loop was the latest chapter in our book of adventures.
@@ -27,7 +29,8 @@ Over the course of 4 days, we covered 32 miles (52 kilometers), scaled eight pea
 
 We set a goal to complete the loop in 4 days, going counter-clockwise:
 
-[image pemi-loop-2023/four-day-pemi-loop resize=false]
+![A topographical map of our Pemigewasset Loop.](http://default/files/cache/pemi-loop-2023/four-day-pemi-loop-640w.png)
+*A topographical map of the Pemigewasset Loop, with each of the four hiking days highlighted in a different color.*
 
 <table>
   <tr>
@@ -52,7 +55,7 @@ We set a goal to complete the loop in 4 days, going counter-clockwise:
 </tr>
 </table>
 
-### Day 0: Preparations and anticipation
+## Day 0: Preparations and anticipation
 
 The evening before our hike, we checked into the Kancamagus Lodge, an old motel along the historic Kancamagus Highway. As we opened the door to our room, we were met with a nostalgic scent (read: musty aroma) and a bed covered in rich blue velvet. Klaas chuckled: <q>It's like something out of a movie!</q>. The room was a stark contrast with our modern comforts in Boston (and Belgium), but it served the perfect transition to our wilderness adventure.
 
@@ -60,7 +63,7 @@ In preparation for our hike, we did pretty thorough planning. We meticulously se
 
 Even after our careful preparations, we found ourselves double-checking our food supplies just before bedtime. We were still wrestling with how much food to pack. We didn't want to carry too much weight, but also didn't want to run out of food. After some deliberation, we erred on the side of caution, packing almost all the food we had brought.
 
-### Day 1: From showers to summits
+## Day 1: From showers to summits
 
 Come morning, the Kancamagus Highway's old shower surprised me with its powerful jet of water. This power wash felt like nature's way of preparing me for the rugged journey ahead; a reminder that warmth and showers would be a distant luxury over the next four days.
 
@@ -73,7 +76,8 @@ With the sun still high, we weren't ready to sit next to our tent for the rest o
 Getting to the top of Bondcliff was our first real challenge, especially lugging our heavy backpacks. But as we ascended above the tree line, we were also greeted with our first majestic view of the White Mountains and some of the other peaks we'd conquer in the days ahead. Getting to the top of Bondcliff wasn't just a climb, it was a "welcome-to-the-big-leagues" moment – both a reality check and exhilarating.
 
 <div class="large">
-  [image pemi-loop-2023/at-the-summit-of-mount-bondcliff]
+  ![A hiker on top of a cliff, raising his trekking poles in triumph.](http://default/files/cache/pemi-loop-2023/at-the-summit-of-mount-bondcliff-640w.jpg)
+*At the top of Mount Bondcliff, known for its dramatic cliffs.*
 </div>
 
 From Bondcliff, we trekked the 1.2 miles to Mount Bond. The ridgeline connecting them was like a postcard. Post-climb, we descended to Guyot Tentsite, where the alpine woods and afternoon glow cast a magical hue over moss and trees.
@@ -81,12 +85,14 @@ From Bondcliff, we trekked the 1.2 miles to Mount Bond. The ridgeline connecting
 By 6pm, after hiking for almost 7 hours, we arrived at Guyot Tentsite. To our relief, one tent platform spot was still available. With the cold creeping in and darkness by 7pm, we cocooned into our sleeping bags by 8:30pm. An hour later, sporadic muscle cramps served as a reminder of our long trek – and the importance of stretching more.
 
 <div class="side-by-side">
-  [image pemi-loop-2023/tent-platform-at-guyot-tentsite]
-  [image pemi-loop-2023/refilling-water-at-guyot-tentsite]
+  ![A pyramid tent set on a wooden platform, surrounded by trees and rocks.](http://default/files/cache/pemi-loop-2023/tent-platform-at-guyot-tentsite-640w.jpg)
+*The tent platform at Guyot Tentsite. Guyot Tentsite is located in an area where the natural terrain is rocky and has a significant incline.*
+  ![A close-up of a water bottle being filled from a stream.](http://default/files/cache/pemi-loop-2023/refilling-water-at-guyot-tentsite-640w.jpg)
+*Refilling our water bottles at Guyot Tentsite. When we changed our plans, we were not sure about Guyot Tentsite having water. Thankfully it did!*
 </div>
 
 <section class="note">
-  <h4>Day 1: Lincoln Woods trailhead → Guyot Tentsite</h4>
+  <h3>Day 1: Lincoln Woods trailhead → Guyot Tentsite</h3>
 
 - Peaks:
   1. Bond Mountain (4,698 feet / 1,432 meter)
@@ -99,13 +105,14 @@ By 6pm, after hiking for almost 7 hours, we arrived at Guyot Tentsite. To our re
 
 </section>
 
-### Day 2: From a cold tent to a cozy hut
+## Day 2: From a cold tent to a cozy hut
 
 I woke up shivering in my sleeping bag as temperatures had dropped to just above freezing. I reached for my phone to check the time, and it felt like an ice block.
 
 As I put on the same clothes from the day before, I daydreamed about how much I'd love to put on a clean pair of underwear and a clean t-shirt. But on hikes like these, every ounce counts. Daily clean clothes aren't an option.
 
-[image pemi-loop-2023/gourmet-meal]
+![A person filtering water and pouring it into a pot on a camp stove.](http://default/files/cache/pemi-loop-2023/gourmet-meal-640w.jpg)
+*Waking up to a gourmet meal: boiled creek water meets dried delicacies!*
 
 Thanks to our added push the day before, today's hike was pretty short. Our destination, Galehead Hut, was roughly 3.4 miles from Guyot Tentsite, and the trail would lead us over just one 4,000+ peak.
 
@@ -114,7 +121,7 @@ Starting from the tentsite, we took the Twinway Trail, guiding us to South Twin 
 Galehead Hut, managed by the [Appalachian Mountain Club](https://www.outdoors.org/) (AMC), offers hikers full-service accommodations. Here, "full-service" translates to bunk rooms and water, but no luxuries like electricity or heating. Nevertheless, the hut proved to be a fantastic half-way point, providing not only delicious food but also a lively atmosphere to refuel for the second half of our journey.
 
 <section class="note">
-  <h4>Day 2: Tentsite → Galehead Hut</h4>
+  <h3>Day 2: Tentsite → Galehead Hut</h3>
 
 - Peak: South Twin Mountain (4,902 feet / 1,494 meter)
 - Distance covered: 3.4 miles / 5.6 kilometer
@@ -125,9 +132,10 @@ Galehead Hut, managed by the [Appalachian Mountain Club](https://www.outdoors.or
 
 </section>
 
-### Day 3: On the edge of surrender
+## Day 3: On the edge of surrender
 
-[image pemi-loop-2023/galehead-hut-bunk-bed]
+![A backpack resting next to a wooden bunk bed.](http://default/files/cache/pemi-loop-2023/galehead-hut-bunk-bed-640w.jpg)
+*My cozy bunk at the Galehead Hut.*
 
 After a restful night in a bunk bed and a hearty breakfast, we felt refreshed. And let's be honest, slipping into the first and only clean pair of underwear for the trip added to that invigorating feeling.
 
@@ -136,8 +144,10 @@ Excitement and jitters bubbled within us. Today was the big day of our trek: 10 
 Leaving the comfort of Galehead Hut, we set course to Mount Garfield. About two laborious hours later, the summit greeted us with a panoramic view that seemed to stretch endlessly.
 
 <div class="large">
-  [image pemi-loop-2023/garfield-ridge-trail]
-  [image pemi-loop-2023/refilling-water-on-garfield-ridge-trail]
+  ![A hiker with a large backpack ascending a trail with large rocks in between trees.](http://default/files/cache/pemi-loop-2023/garfield-ridge-trail-640w.jpg)
+*Making our way up to Garfield Ridge Trail toward Garfield Mountain. Because the trail can be steep and requires careful footing, it slowed down our pace.*
+  ![A hiker filling a water bottle from a small stream.](http://default/files/cache/pemi-loop-2023/refilling-water-on-garfield-ridge-trail-640w.jpg)
+*Refilling our water supplies at a stream on Garfield Ridge Trail. On many stretches, you won't find fresh water for miles, so you have to plan ahead and carry 2 or 3 liters of water \(4-6 pounds\).*
 </div>
 
 As we ate a snack at the summit, we gazed at our next obstacle, Mount Lafayette, which stood prominently before us. From our vantage point, it appeared both distant and daunting. And that is precisely what it was: a 3.9 mile hike with a hefty 1,200 foot elevation gain.
@@ -149,7 +159,8 @@ But with this transition also came a steeper and more difficult incline, putting
 It was a sobering moment because we also realized that, after 7 hours of hiking, we hadn't even reached Mount Lafayette's summit yet. To make matters even more daunting, there were still two 4,000+ footers to conquer after Lafayette before we'd arrive at our tentsite for the night.
 
 <div class="large">
-  [image pemi-loop-2023/resting-near-mount-lafayette]
+  ![A hiker seated on the ground, looking deflated, eating some food to regain energy.](http://default/files/cache/pemi-loop-2023/resting-near-mount-lafayette-640w.jpg)
+*On the edge of giving up, just half a mile shy of Mount Lafayette's peak \(shown in background\).*
 </div>
 
 We had only covered 6.6 miles in those 7 hours. The rugged terrain had slowed our pace to less than a mile an hour. It was already 3:30pm and with another 3.8 miles to go, the math was against us; if we continued at this pace, we'd be setting up camp in the dark.
@@ -159,14 +170,17 @@ The thought of giving up and hiking out to the nearest road or exit point crosse
 I never imagined that such a combination could work wonders, but it did. It felt as though my legs were reborn. With this newfound determination, we made the unanimous decision to press forward and aim for Liberty Spring Tentsite. We were determined; giving up wasn't an option.
 
 <div class="side-by-side">
-  [image pemi-loop-2023/peanut-butter-cup-and-electrolyte-tablet]
-  [image pemi-loop-2023/at-the-summit-of-mount-lafayette]
+  ![A peanut butter cup next to a cup containing water with an electrolyte tablet.](http://default/files/cache/pemi-loop-2023/peanut-butter-cup-and-electrolyte-tablet-640w.jpg)
+*Electrolyte tablets and peanut butter cups to the rescue.*
+  ![A wooden signpost indicating various trail directions.](http://default/files/cache/pemi-loop-2023/at-the-summit-of-mount-lafayette-640w.jpg)
+*At the summit of Mount Lafayette after 6.6 miles of hiking. Just 3.8 miles to Liberty Spring Tentsite.*
 </div>
 
 As we soldiered on, the ridge connecting Mount Lafayette, Mount Lincoln, and Little Haystack Mountain, was nothing short of breathtaking. The views, the sheer drop-offs, and the rugged beauty made every step on this ridge a memorable one. It ended up being my favorite part of the entire Pemi Loop.
 
 <div class="large">
-  [image pemi-loop-2023/franconia-ridge]
+  ![A hiker trekking on a ridge towards a mountain peak.](http://default/files/cache/pemi-loop-2023/franconia-ridge-640w.jpg)
+*Klaas hikes from Mount Lafayette to Mount Lincoln along Franconia Ridge, with one of our next peaks looming behind Mount Lincoln.*
 </div>
 
 With the daylight waning and the terrain being relatively easier, we even picked up our pace, determined to cover as much ground as possible. We also agreed that we'd be ready to sleep on the trail if necessary. Fortunately, we reached the tentsite by 7pm. We set up our tent in the dark with the help of headlamps, prepared dinner and turned in for the night at 8:30pm.
@@ -174,7 +188,7 @@ With the daylight waning and the terrain being relatively easier, we even picked
 As I layed in our tent, listening to the nocturnal sounds of the forest (read: Klaas gently snoring), I felt a mix of exhaustion and pride. I was glad we hadn't given up. The trail from Galehead Hut to Liberty Springs Tentsite wasn't just a hike; it was an experience, and proof that I could push my limits.
 
 <section class="note">
-  <h4>Day 3: Galehead Hut → Lincoln Woods trailhead</h4>
+  <h3>Day 3: Galehead Hut → Lincoln Woods trailhead</h3>
 
 - Peaks:
   1. Garfield Mountain (4,500 feet / 1,372 meter)
@@ -189,11 +203,12 @@ As I layed in our tent, listening to the nocturnal sounds of the forest (read: K
 
 </section>
 
-### Day 4: From rain to reward
+## Day 4: From rain to reward
 
 We woke up to rain gently tapping our tent, realizing this was the last day of our hike. Somehow, the last day always seems easy, but reality often sings a different tune. I had to remind myself we still had to conquer two 4,000-footers.
 
-[image pemi-loop-2023/metal-food-box-at-liberty-springs-tentsite]
+![A large metal container with a sign that reads "Bears visit this campsite!".](http://default/files/cache/pemi-loop-2023/metal-food-box-at-liberty-springs-tentsite-640w.jpg)
+*Liberty Springs Tentsite provides metal boxes for food storage to prevent bears from accessing the food. Funny enough, humans find them just as puzzling to open.*
 
 We had a pact to treat ourselves to a delicious burger with a cold, refreshing beer when we reached the finish line. Plus, the thought of a warm shower to wash away four days' worth of sweat was practically a siren's call. It's remarkable how these basic luxuries can become the things we look forward to the most.
 
@@ -204,7 +219,7 @@ Soon after, it was Mount Flume's turn. Going down its slopes brought a sense of 
 By 3pm, we triumphantly reached the Lincoln Trailhead, the very place where our journey began. We gave each other a high five, followed by a sweaty but heartfelt hug, and headed straight to Black Mountain Burger, just a few miles down the road. There, the beer and the burger tasted incredible, a well-deserved treat after our incredible adventure.
 
 <section class="note">
-  <h4>Day 4: Liberty Springs Tentsite → Lincoln Woods trailhead</h4>
+  <h3>Day 4: Liberty Springs Tentsite → Lincoln Woods trailhead</h3>
 
 - Peaks:
   1. Liberty Mountain (4,459 feet / 1,359 meter)
@@ -217,8 +232,9 @@ By 3pm, we triumphantly reached the Lincoln Trailhead, the very place where our 
 
 </section>
 
-### Conclusion
+## Conclusion
 
-[image pemi-loop-2023/south-twin-mountain-selfie]
+![A selfie of two happy hikers on top of a mountain.](http://default/files/cache/pemi-loop-2023/south-twin-mountain-selfie-640w.jpg)
+*Klaas and I standing on the summit of South Twin Mountain.*
 
 As I sit down to write this blog post, I'm filled with a mix of happiness and fulfillment. At the same time, there is a touch of sadness that our adventure has come to an end. The Pemi Loop was an incredible adventure. It tested my physical and mental strength, even when completed in four days. But pain is forgotten, and experiences will live on forever. The moments shared with Klaas during this challenge were truly unique, and they're memories I'll always hold dear. We crushed life for four days.

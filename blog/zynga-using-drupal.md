@@ -19,4 +19,4 @@ id: 2591
 
 Drupal isn't only for work: it's also for play, as "FarmVille" creator [Zynga](http://www.zynga.com) proves. While their games usually appear as apps on social networks such as Facebook, its main site is on [Drupal](https://www.drupal.org). It's a terrific example of how Drupal is used in the entertainment industry. After all, Zynga's annual revenue in 2010 was almost a billion US dollars, and is aiming for an initial public offering that values the company at $15-20 billion.
 
-[image drupal/zynga]
+![Zynga website homepage featuring "Words with Friends" promotion, a play button, and a list of featured games.](http://default/files/cache/drupal/zynga-640w.jpg)

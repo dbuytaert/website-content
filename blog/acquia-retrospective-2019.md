@@ -19,9 +19,11 @@ id: 4961
 
 # Acquia retrospective 2019
 
+![Acquia 2018 business metrics](http://default/files/cache/acquia/business-metrics-2019-640w.png)
+
 Wow, what a year 2019 was for Acquia!
 
-[image acquia/business-metrics-2019]
+![Acquia 2018 business metrics](http://default/files/cache/acquia/business-metrics-2019-640w.png)
 
 At the beginning of every year, I like to publish a retrospective to look back and take stock of how far [Acquia](https://www.acquia.com/) has come over the past 12 months. I take the time to write these retrospectives because I want to keep a record of the changes we've gone through as a company and how my personal thinking is evolving from year to year.
 
@@ -29,7 +31,7 @@ If you'd like to read my previous retrospectives, they can be found here: [2018]
 
 Our product strategy remained steady in 2019. We continued to invest heavily in (1) our Web Content Management solutions, while (2) accelerating our move into the broader Digital Experience Platform market. Let's talk about both.
 
-### Acquia's continued focus on Web Content Management
+## Acquia's continued focus on Web Content Management
 
 In 2019, for the sixth year in a row, Acquia was recognized as [a Leader in the Gartner Magic Quadrant for Web Content Management](https://dri.es/acquia-a-leader-in-2019-gartner-magic-quadrant-for-web-content-management). Our tenure as a top vendor is a strong endorsement for the "Web Content Management in the Cloud" part of our strategy.
 
@@ -47,7 +49,7 @@ At the end of 2019, Gartner announced it is ending their Magic Quadrant for Web 
 
 Gartner's decision to drop the Web Content Management Magic Quadrant is consistent with the second part of our product strategy; a transition from Web Content Management to Digital Experience Management.
 
-### Acquia's expansion into Digital Experience Management
+## Acquia's expansion into Digital Experience Management
 
 We started our expansion from Web Content Management to the Digital Experience Platform market five years ago, in 2014. We believed, and still believe, that [just having a website is no longer sufficient](https://dri.es/from-content-management-to-digital-experience-management): customers expect to interact with brands through their websites, email, chat and more. The real challenge for most organizations is to drive personalized customer experiences across all these different channels and to make those customer experiences highly relevant.
 
@@ -61,12 +63,12 @@ In addition to organic growth, we also made two strategic acquisitions to accele
 We have a clear vision for how to redefine a Digital Experience Platform such that it is free of any silos.
 
 <div class="large">
-  [image acquia/dxp-no-siloes-animation]
+  ![A diagram shows how Acquia solutions unify experience creation, content and user data across different platforms.](http://default/files/cache/acquia/dxp-no-siloes-animation-640w.gif)
 </div>
 
 In 2020, expect us to integrate the data and experience layers of Lift, Mautic and AgilOne, but still offer each capability on its own aligned with our best-of-breed approach. We believe that this will benefit not only our customers, but also our agency partners.
 
-### Momentum
+## Momentum
 
 Demand for our Open Digital Experience Platform continued to grow among the world's most well-known brands. New customers include Liverpool Football Club, NEC Corporation, TDK Corporation, L'Oreal Group, Jewelers Mutual Insurance, Chevron Phillips Chemical, Lonely Planet, and GOL Airlines among hundreds of others.
 
@@ -74,11 +76,11 @@ We ended the year with more than 1,050 Acquians working around the globe with of
 
 We continued to introduce Acquia to more people in 2019. Our [takeover of the Kendall Square subway station](https://dri.es/acquia-takes-over-a-subway-station) near MIT in Cambridge, Massachusetts, in April, for instance, helped introduce more than 272,000 daily commuters to our company. In addition to posters on every wall of the station, the campaign – in which photographs of fellow Acquians were prominently featured – included Acquia branding on entry turnstiles, 75 digital live boards, and geo-targeted mobile ads.
 
-[video bbXIv2wmHY0]
+https://www.youtube.com/watch?v=bbXIv2wmHY0
 
 Last but not least, we continued our tradition of "Giving back more", a core part of our DNA or values. We sponsored 250 kids in the [Wonderfund Gift Drive](https://www.wonderfundma.org/) (an increase of 50 from 2018), raised money to help 1,000 kids in India to get back to school after the floods in Kolhapur, raised more than $10,000 for [Girls Who Code](https://girlswhocode.com/), $10,000 for [Cancer Research UK](https://www.cancerresearchuk.org/), and more.
 
-### Some personal reflections
+## Some personal reflections
 
 With such a strong focus on product and engineering, 2019 was one of the busiest years for me personally. We grew our R&amp;D organization by about 100 employees in 2019. This meant I spent a lot of time restructuring, improving and scaling the R&amp;D organization to make sure we could handle the increased capacity, and to help make sure all our different initiatives remain on track.
 
@@ -90,7 +92,7 @@ There were also some low-lights in 2019. On Christmas, Acquia's SVP of Engineeri
 
 If I have one regret for 2019, it is that I was almost entirely internally focused. I missed hitting the road – either to visit employees, customers or Drupal and Mautic community members around the world. I hope to find a better balance in 2020.
 
-### Thank you
+## Thank you
 
 2019 was a busy year, but also a very rewarding year. I remain very excited about Acquia's long-term opportunity, and believe we've steered the company to be positioned at the right place at the right time. All of this is not to say 2020 will be easy. Quite the contrary, as we have a lot of work ahead of us in 2020, including [the release of Drupal 9](https://dri.es/plan-for-drupal-9). 2020 should be another exciting year for us!
 

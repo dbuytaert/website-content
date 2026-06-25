@@ -27,5 +27,7 @@ In my State of Drupal presentation in Chicago I outlined what I believe should b
 
 I plan to blog more about each of these topics in the next couple of months. In the mean time, let's continue all the conversations and let's start work. *Woot!*
 
-[image drupalcon-chicago-2011/drupal-8-branch-1]
-[image drupalcon-chicago-2011/drupal-8-branch-2 resize=false]
+![Two men on stage, standing behind a laptop on a pedestal, typing Git commands as they are displayed on a large screen behind them.](http://default/files/cache/drupalcon-chicago-2011/drupal-8-branch-1-640w.jpg)
+*Sam Boyer and me creating the Drupal 8 branch on stage at DrupalCon Chicago.*
+![A terminal screenshot showing Git commands used to create and push the Drupal 8 branch to a repository.](http://default/files/images/drupalcon-chicago-2011/drupal-8-branch-2.jpg)
+*A screenshot of my screen after we created the Drupal 8 branch.*

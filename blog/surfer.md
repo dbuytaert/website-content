@@ -17,4 +17,6 @@ id: 109
 
 # Surfer
 
+![A person in a wetsuit and shorts pulls a surfboard through shallow water near the shore.](http://default/files/cache/knokke-heist-2006/surfer-640w.jpg)
+
 

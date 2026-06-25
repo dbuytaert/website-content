@@ -24,4 +24,4 @@ My DrupalCon Barcelona keynote is focused on having a realistic, open and honest
 
 In addition, here are three related blog posts I wrote about the [future of decoupled Drupal](https://dri.es/the-future-of-decoupled-drupal), [having to pick a JavaScript framework for Drupal](https://dri.es/should-we-decouple-drupal-with-a-client-side-framework), and a [proposal for how to evolve our development process](https://dri.es/always-be-shippable), which will allow us to ship new features every 6 months rather than every 4-5 years.
 
-[video 7v_rv346qmM]
+https://www.youtube.com/watch?v=7v_rv346qmM

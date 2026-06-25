@@ -18,4 +18,6 @@ id: 1976
 
 # Playing in the leafs
 
+![A young child in a blue jacket sits among fallen autumn leaves, smiling and looking up at the camera.](http://default/files/cache/winchester-2010/stan-leafs-640w.jpg)
+
 

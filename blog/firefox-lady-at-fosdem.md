@@ -17,4 +17,6 @@ id: 222
 
 # Firefox lady at FOSDEM
 
+![A woman in a Firefox T-shirt sits at a booth with stickers and buttons, promoting Mozilla at FOSDEM.](http://default/files/cache/miscellaneous-2007/firefox-lady-at-fosdem-640w.jpg)
+
 

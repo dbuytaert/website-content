@@ -17,6 +17,8 @@ id: 4711
 
 # Refreshing the Drupal administration UI
 
+![A screenshot of the spacing guidelines of Drupal 8's Carlo theme](http://default/files/cache/drupal/carlo-spacing-640w.png)
+
 Last year, I talked to nearly one hundred Drupal agency owners to understand what is preventing them from selling Drupal. One of the most common responses raised is that Drupal's administration UI looks outdated.
 
 This critique is not wrong. Drupal's current administration UI was originally designed almost ten years ago when we were working on Drupal 7. In the last ten years, the world did not stand still; design trends changed, user interfaces became more dynamic and end-user expectations have changed with that.
@@ -24,7 +26,8 @@ This critique is not wrong. Drupal's current administration UI was originally de
 To be fair, Drupal's administration UI has received numerous improvements in the past ten years; Drupal 8 shipped with a new toolbar, an updated content creation experience, more WYSIWYG functionality, and even some design updates.
 
 <div class="large">
-  [image drupal/drupal-7-vs-drupal-8-administration-ui]
+  ![A visual comparison of Drupal 7 and Drupal 8's administration UI](http://default/files/cache/drupal/drupal-7-vs-drupal-8-administration-ui-640w.png)
+*A comparison of the Drupal 7 and Drupal 8 content creation screen to highlight some of the improvements in Drupal 8.*
 </div>
 
 While we made important improvements between Drupal 7 and Drupal 8, the feedback from the Drupal agency owners doesn't lie: we have not done enough to keep Drupal's administration UI modern and up-to-date.
@@ -36,12 +39,14 @@ We are [introducing a new design system](https://www.drupal.org/project/ideas/is
 In the short term, we plan on updating the existing administration UI with the new design system. Longer term, we are working on [creating a completely new JavaScript-based administration UI](https://dri.es/working-toward-a-javascript-driven-drupal-administration-interface).
 
 <div class="large">
-  [image drupal/carlo-content-administration]
+  ![A screenshot of the content administration using Drupal 8's Carlo theme](http://default/files/cache/drupal/carlo-content-administration-640w.png)
+*The content administration screen with the new design system.*
 </div>
 
 As you can see on Drupal.org, [community feedback on the proposal is overwhelmingly positive](https://www.drupal.org/project/ideas/issues/3017785#comment-12880593) with comments like <q>Wow! Such an improvement!</q> and <q>Well done! High contrast and modern look.</q>.
 
-[image drupal/carlo-spacing]
+![A screenshot of the spacing guidelines of Drupal 8's Carlo theme](http://default/files/cache/drupal/carlo-spacing-640w.png)
+*Sample space sizing guidelines from the new design system.*
 
 I also ran the new design system by a few people who spend their days selling Drupal and they described it as "clean" with "good use of space" and a design they would be confident showing to prospective customers.
 
@@ -57,7 +62,7 @@ Administration themes must meet large and varied use cases. For example, [access
 
 Acquia has committed to being an early adopter of the theme through [the Acquia Lightning distribution](https://www.drupal.org/project/lightning), broadening the potential base of projects that can test and provide feedback on the refresh. Hopefully other organizations and projects will do the same.
 
-### How can I help?
+## How can I help?
 
 The team is looking for more designers and frontend developers to get involved. You can attend the weekly meetings on #javascript on Drupal Slack Mondays at 16:30 UTC and on #admin-ui on Drupal Slack Wednesdays at 14:30 UTC.
 

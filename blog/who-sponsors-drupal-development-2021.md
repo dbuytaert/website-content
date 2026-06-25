@@ -19,6 +19,8 @@ id: 5241
 
 # Who sponsors Drupal development? (2020-2021 edition)
 
+![Bar chart comparing contributions to Drupal by individuals and organizations from 2018 to 2021, showing higher individual participation.](http://default/files/cache/drupal/contributions-by-individuals-vs-organizations-2021-640w.png)
+
 For the past few years, I've examined Drupal.org's contribution data to understand how the Drupal project works. Who develops Drupal? How diverse is the Drupal community? How much of Drupal's maintenance and innovation is sponsored? Where do sponsorships come from?
 
 The report might be of interest even if you don't use Drupal. It provides insights into the inner workings of one of the largest Open Source projects in the world.
@@ -33,29 +35,30 @@ This year's report shows that:
 
 For comparison, you can also look at the [2016 report](https://dri.es/who-sponsors-drupal-development), [2017 report](https://dri.es/who-sponsors-drupal-development-2017), [2018 report](https://dri.es/who-sponsors-drupal-development-2018), [2019 report](https://dri.es/who-sponsors-drupal-development-2019), and the [2020 report](https://dri.es/who-sponsors-drupal-development-2020).
 
-### Methodology
+## Methodology
 
-#### What data did I analyze?
+### What data did I analyze?
 
 I looked at all Drupal.org issues marked "closed" or "fixed" in the 12-month period from July 1, 2020 to June 30, 2021. This is across issues in Drupal Core and all contributed projects, including all major versions of Drupal.
 
-#### What are Drupal.org issues?
+### What are Drupal.org issues?
 
 Each "Drupal.org issue" tracks an idea, feature request, bug report, task, or more. It's similar to "issues" in GitHub or "tickets" in Jira. See <https://www.drupal.org/project/issues> for the list of all issues.
 
-#### What are Drupal.org credits?
+### What are Drupal.org credits?
 
 In the spring of 2015, [I proposed some ideas for how to give credit to Drupal contributors](https://dri.es/a-method-for-giving-credit-to-organizations-that-contribute-code-to-open-source). A year later, Drupal.org added the ability for contributors to [attribute their work](https://www.drupal.org/drupalorg/blog/a-guide-to-issue-credits-and-the-drupal.org-marketplace) to an organization or customer sponsor, or mark it the result of volunteer efforts.
 
-[image drupal/example-issue-credit-on-drupal-org-2016 resize=false]
+![A Drupal.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
+*A screenshot of an issue comment on Drupal.org. You can see that jamadar worked on this patch as a volunteer, but also as part of his day job working for TATA Consultancy Services on behalf of their customer, Pfizer.*
 
 Drupal.org's credit system is unique and groundbreaking within the Open Source community. It provides unprecedented insights into the inner workings of a large Open Source project. There are a few limitations with this approach, which I'll address at the end of this report.
 
-### How is the Drupal community doing?
+## How is the Drupal community doing?
 
 In the 12-month period between July 1, 2020 and June 30, 2021, Drupal.org's credit system received contributions from 7,420 different individuals and 1,186 different organizations. We saw a 10% decline in individual contributors, and a 2% decrease in organizational contributors.
 
-[image drupal/contributions-by-individuals-vs-organizations-2021]
+![Bar chart comparing contributions to Drupal by individuals and organizations from 2018 to 2021, showing higher individual participation.](http://default/files/cache/drupal/contributions-by-individuals-vs-organizations-2021-640w.png)
 
 For this report's time period, 23,882 issues were marked "closed" or "fixed", a 23% decline from the 2019-2020 period. This averages out to 65 issues marked "closed" or "fixed" each day.
 
@@ -100,9 +103,9 @@ In total, the Drupal community worked on 3,779 different Drupal.org projects thi
  </tr>
 </table>
 
-### Understanding the slowdown in contribution
+## Understanding the slowdown in contribution
 
-#### Individual contributors slowed down
+### Individual contributors slowed down
 
 To understand the slowdown, I looked at the behavior of the top 1,000 contributors:
 
@@ -115,7 +118,7 @@ While we can't compare Open Source projects like Drupal to commercial companies,
 
 The big takeaway is that the top individual and organizational contributors aren't leaving Drupal. They just became less active in 2020-2021.
 
-#### Organizational contributors also slowed down
+### Organizational contributors also slowed down
 
 Next, I looked at the behavior of the top 250 organizations:
 
@@ -125,7 +128,7 @@ Next, I looked at the behavior of the top 250 organizations:
 
 The top Drupal agencies remain very committed to Drupal. While many agencies contributed less, very few agencies stopped contributing to Drupal altogether.
 
-#### Why are individuals and organizations contributing less?
+### Why are individuals and organizations contributing less?
 
 As part of my research, I reached out to some of the top contributing Drupal agencies. The main reason why they are contributing less is that they are too busy growing:
 
@@ -150,7 +153,7 @@ Other than being too busy with client work, the following secondary reasons were
 
 There is no doubt that COVID has accelerated a lot of digital transformation projects, but it has also slowed down contribution. Parents are busy home-schooling their children, people have Zoom-fatigue, some families may have lost income, etc. COVID added both stress and extra work to people's lives. For many, this made contribution more difficult or less possible.
 
-#### Drupal Super Cycle
+### Drupal Super Cycle
 
 Drupal agencies provided many valid reasons for why contribution is down. In addition to those, I believe a *Drupal Super Cycle* might exist. The Drupal Super Cycle is a new concept that I have not talked about before. In fact, this is just a *theory* – and only time will tell if it is valid.
 
@@ -158,7 +161,8 @@ The Drupal Super Cycle is a recognition that Drupal's development cycle ebbs and
 
 Major Drupal releases only happen every 2 or 3 years. When a major release is close, contributors work on making their projects compatible. This requires extra development work, such as adopting new APIs, subsystems, libraries, and more. Once projects are compatible, the work often shifts from active development to maintenance work.
 
-[image drupal/drupal-super-cycle-2021]
+![A visual representation of the Drupal Super Cycle; contribution accelerates just before a major release and slows down after.](http://default/files/cache/drupal/drupal-super-cycle-2021-640w.png)
+*A slide from the <a href="https://dri.es/state-of-drupal-presentation-october-2021">my DrupalCon Europe 2021 keynote</a> where I explain the Drupal Super Cycle theory.*
 
 The last major Drupal release was Drupal 9, [released in June of 2020](https://dri.es/drupal-9-released). Last year's report analyzed contribution activity between July 1, 2019 and June 30, 2020. This period includes the 11-month period leading up to the Drupal 9 release, the Drupal 9 release itself, and 1 month after the Drupal 9 release. It's the "busy period" of the Super Cycle because the Drupal community is getting thousands of contributed modules ready for Drupal 9.
 
@@ -166,21 +170,21 @@ This year's report analyzes contribution data starting 1 month *after* the Drupa
 
 If the Drupal Super Cycle concept is valid, we should see increased activity in next year's report, assuming we remain on track for a Drupal 10 release in June of 2022. Time will tell!
 
-### What is the community working on?
+## What is the community working on?
 
 Contribution credits decreased across all project types, but increased for Drupal Core.
 
-[image drupal/contributions-by-project-type-1-2021]
+![A graph showing the year over year growth of contributions per project type: only contributions to core grew](http://default/files/cache/drupal/contributions-by-project-type-1-2021-640w.png)
 
 Core contributions saw a 7% year-over-year increase in credits, while work on contributed projects – modules, themes and distributions – are all down compared to last year.
 
-### Who are Drupal's top individual contributors?
+## Who are Drupal's top individual contributors?
 
 The top 30 individual contributors between July 1, 2020 and June 30, 2021 are:
 
 <div class="side-by-side">
-  [image drupal/top-30-individuals-unweighted-2021]
-  [image drupal/top-30-individuals-weighted-2021]
+  ![A graph showing the top 30 individual contributors ranked by the quantity of their contributions.](http://default/files/cache/drupal/top-30-individuals-unweighted-2021-640w.png)
+  ![A graph showing the top 30 individual contributors ranked by the impact of their contributions.](http://default/files/cache/drupal/top-30-individuals-weighted-2021-640w.png)
 </div>
 
 For the weighted ranking, I weighed each credit based on the adoption of the project the credit is attributed to. For example, each contribution credit to Drupal Core is given a weight of 10, because Drupal Core has about 1 million active installations. Credits to the [Webform module](https://www.drupal.org/project/webform), which has over 450,000 installations, get a weight of 4.5. And credits to [Drupal's Commerce project](https://www.drupal.org/project/commerce) get 0.5 points, as it is installed on around 50,000 sites.
@@ -195,25 +199,25 @@ No matter how you look at the data, all of these individuals put an incredible a
 
 It's important to recognize that most of the top contributors are sponsored by an organization. We value the organizations that sponsor these remarkable individuals. Without their support, [it could be more challenging for these individuals to contribute](https://dri.es/the-privilege-of-free-time-in-open-source).
 
-### How much of the work is sponsored?
+## How much of the work is sponsored?
 
 When people contribute to Drupal, they can tag their contribution as a "volunteer contribution" or a "sponsored contribution". Contributions can be marked both volunteer and sponsored at the same time (shown in jamadar's screenshot near the top of this post). This could be the case when a contributor does paid work for a customer, in addition to using unpaid time to add extra functionality or polish.
 
 For those credits with attribution details, 16% were "purely volunteer" (7,034 credits). This is in stark contrast to the 68% that were "purely sponsored" (29,240 credits). Put simply, roughly two-thirds of all contributions are "purely sponsored". Even so, volunteer contribution remains very important to Drupal.
 
-[image drupal/contributions-by-volunteer-vs-sponsored-2021]
+![A graph showing how many of the contributions are volunteered vs sponsored.](http://default/files/cache/drupal/contributions-by-volunteer-vs-sponsored-2021-640w.png)
 
 Volunteers contribute across all areas of the project. A lot of volunteer time and energy goes towards non-product related contributions such as event organization, mentoring, and more. Non-code contributions like these are very valuable, yet they are under-recognized in many Open Source communities.
 
-[image drupal/contributions-by-project-type-2-2021]
+![Bar chart showing Drupal contributions by project type, categorized as volunteer, sponsored, both, or not attributed.](http://default/files/cache/drupal/contributions-by-project-type-2-2021-640w.png)
 
-### Who are Drupal's top organizational contributors?
+## Who are Drupal's top organizational contributors?
 
 Similar to the individual contributors, I've ranked organizations by both "unweighted contributions" and "weighted contributions". Unweighted scores are based solely on volume of contributions, while weighted scores also try to take into account both the effort and impact of each contribution.
 
 <div class="side-by-side">
-  [image drupal/top-30-organizations-unweighted-2021]
-  [image drupal/top-30-organizations-weighted-2021]
+  ![A graph showing the top 30 organizational contributors ranked by the quantity of their contributions.](http://default/files/cache/drupal/top-30-organizations-unweighted-2021-640w.png)
+  ![A graph showing the top 30 organizational contributors ranked by the impact of their contributions.](http://default/files/cache/drupal/top-30-organizations-weighted-2021-640w.png)
 </div>
 
 If you are an end user looking for a company to work with, these are some of the companies I'd work with first. Not only do they know Drupal best, but they also [help improve your investment in Drupal](https://dri.es/shop-local-to-fuel-the-open-source-dividend). If you are a Drupal developer looking for work, these are some of the companies I'd apply to first.
@@ -258,29 +262,30 @@ A few observations:
 - We only saw 1 end user in the top 30 this year: Thunder (815 credits). Many end users contribute though: European Commission (152 credits), Pfizer (147 credits), bio.logis (111 credits), Johnson &amp; Johnson (93 credits), University of British Columbia (105 credits), Georgia Institute of Technology (75 credits), United States Department of Veterans Affairs (51 credits), NBCUniversal (45 credits), Princeton University (43 credits), Estée Lauder (38 credits), University of Texas at Austin (22 credits), and many more.
 
 <div class="side-by-side">
-  [image drupal/contributions-by-hosting-companies-2021]
-  [image drupal/contributions-by-system-integrators-2021]
+  ![A graph showing that Acquia is by far the number one contributing hosting company.](http://default/files/cache/drupal/contributions-by-hosting-companies-2021-640w.png)
+  ![A graph showing that CI&T is by far the number one contributing system integrator.](http://default/files/cache/drupal/contributions-by-system-integrators-2021-640w.png)
 </div>
 
 I often recommend end users to [mandate contributions from their partners](https://dri.es/shop-local-to-fuel-the-open-source-dividend). Pfizer, for example, [*only* works with agencies that contribute back to Drupal](https://dri.es/why-large-organizations-are-choosing-to-contribute-to-drupal). The [State of Georgia started doing the same](https://www.youtube.com/watch?v=dN_zar8J2G0); they made Open Source contribution a vendor selection criteria. If more end users took this stance, it could have a big impact on Drupal. We'd see many more digital agencies, hosting companies, and system integrators contributing to Drupal.
 
 While we should encourage more organizations to sponsor Drupal contributions, we should also understand and respect that some organizations can give more than others – and that some might not be able to give back at all. Our goal is not to foster an environment that demands what and how others should give back. Instead, we need to help foster an environment worthy of contribution. This is clearly laid out in [Drupal's Values and Principles](https://www.drupal.org/about/values-and-principles).
 
-### How diverse is Drupal?
+## How diverse is Drupal?
 
 Supporting diversity and inclusion is essential to the health and success of Drupal. The people who work on Drupal should reflect the diversity of people who use the web.
 
 I looked at both the gender and geographic diversity of Drupal.org contributors.
 
-#### Gender diversity
+### Gender diversity
 
 While Drupal is slowly becoming more diverse, less than 9% of the recorded contributions were made by contributors who do not identify as men. The gender imbalance in Drupal remains profound. We need to continue fostering diversity and inclusion in our community.
 
-[image drupal/contributions-by-gender-1-2021]
+![A graph showing contributions by gender: 67% of the contributions come from people who identify as male.](http://default/files/cache/drupal/contributions-by-gender-1-2021-640w.png)
 
 A few years ago I wrote a post about [the privilege of free time in Open Source](https://dri.es/the-privilege-of-free-time-in-open-source). I made the case that Open Source is *not* a meritocracy. Not everyone has equal amounts of free time to contribute. For example, research shows that women still spend more than double the time as men doing unpaid domestic work, such as housework or childcare. This makes it more difficult for women to contribute to Open Source on an unpaid, volunteer basis. Organizations capable of giving back should consider financially sponsoring individuals from underrepresented groups to contribute to Open Source.
 
-[image drupal/contributions-by-gender-2-2021]
+![A graph that shows that compared to males, female contributors do more sponsored work, and less volunteer work.](http://default/files/cache/drupal/contributions-by-gender-2-2021-640w.png)
+*Compared to men, women do more sponsored work, and less volunteer work. We believe this is because men have the privilege of more free time.*
 
 Free time being a privilege is just one of the reasons why Open Source projects suffer from a lack of diversity.
 
@@ -288,25 +293,26 @@ The gender diversity chart above shows that there is a growing number of individ
 
 Today, over 100,000 individuals have filled out the new "Big 8/Big 10" demographics field. The new demographics field allows for more axes of representation, but is also somewhat non-specific within each axis. Here are the results:
 
-[image drupal/big8-big10-2021]
+![A graph showing different axes of diversity in Drupal](http://default/files/cache/drupal/big8-big10-2021-640w.png)
 
-#### Diversity in leadership
+### Diversity in leadership
 
 Drupal.org recently introduced the ability for contributors to [identify what contributor roles they fulfill](https://www.drupal.org/drupalorg/blog/recognizing-people-who-hold-key-contributor-roles-in-the-drupal-community). The people who hold these key contribution roles can be thought of as the leaders of different aspects of our community, whether they are local community leaders, event organizers, project maintainers, etc. As more users begin to fill out this data, we can use it to build a picture of the key contributor roles in our community. Perhaps most importantly, we can look at the diversity of individuals who hold these key contributor roles. In next year's report we will provide a focused picture of diversity in these leadership positions.
 
-#### Geographic diversity
+### Geographic diversity
 
 We saw individual contributors from 6 continents and 121 countries. Consistent with the trends described above, most countries contributed less compared to a year earlier. Here are the top countries for 2020-2021:
 
-[image drupal/contributions-by-country-2021]
+![A graph showing the top 20 contributing countries in 2021.](http://default/files/cache/drupal/contributions-by-country-2021-640w.png)
+*The top 20 countries from which contributions originate. The data is compiled by aggregating the countries of all individual contributors behind each issue. Note that the geographical location of contributors doesn't always correspond with the origin of their sponsorship. Wim Leers, for example, works from Belgium, but his funding comes from Acquia, which has the majority of its customers in North America. Wim's contributions count towards Belgium as that is his country of residence.*
 
 Europe contributes more than North America. However, contribution from Europe continues to decline, while all other continents have become more active contributors.
 
-[image drupal/contributions-by-continent-2021]
+![A graph that shows most contributions in 2021 come from Europe and North America.](http://default/files/cache/drupal/contributions-by-continent-2021-640w.png)
 
 Asia, South America, and Africa remain big opportunities for Drupal; their combined population accounts for 6.3 billion out of 7.5 billion people in the world.
 
-### Limitations of the credit system
+## Limitations of the credit system
 
 It is important to note a few of the current limitations of Drupal.org's credit system:
 
@@ -316,7 +322,7 @@ It is important to note a few of the current limitations of Drupal.org's credit 
 
 Because of these limitations, the actual number of contributions and contributors could be much higher than what we report.
 
-### Conclusions
+## Conclusions
 
 While we have fewer contributions and fewer contributors compared to last year, it is not something to be worried about. We can attribute this to various things, such as COVID-19, agency growth, and the Drupal Super Cycle.
 

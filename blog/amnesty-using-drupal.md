@@ -20,7 +20,7 @@ id: 368
 
 [Rob Purdie](http://importantprojects.com/archives/000132.php) just announced that [Amnesty International](http://amnesty.org) relaunched on [Drupal](https://www.drupal.org). Check it out at <http://amnesty.org> ...
 
-[image drupal/amnesty-international]
+![Amnesty International website homepage displaying human rights news, campaigns, and ways to take action against global abuses.](http://default/files/cache/drupal/amnesty-international-640w.jpg)
 
 It looks like Drupal's localization (l10n) and internationalization (i18n) features were used to translate the website into 3 languages; [an Arabic translation](https://www.amnesty.org/ar/) is available as well. (Arabic is written predominantly right-to-left which, frankly, is funny to watch but hard to implement in a CMS.)
 

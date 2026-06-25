@@ -17,6 +17,8 @@ id: 4966
 
 # Happy nineteenth birthday, Drupal
 
+![Large white "19" over a blue mosaic of small photos, celebrating Drupal's nineteenth birthday.](http://default/files/cache/drupal/happy-nineteenth-birthday-640w.jpg)
+
 Nineteen years ago today, I released Drupal 1.0.0. Every day, for the past nineteen years, the [Drupal community](https://www.drupal.org/) has collaborated on providing the world with an Open Source CMS and making a difference on how the web is built and run.
 
 It's easy to forget that software is written one line of code at the time. And that adoption is driven one website at the time. I look back on nearly two decades of [Drupal](https://www.drupal.org/), and I'm incredibly proud of our community, and how we've contributed to a more open, independent internet.

@@ -18,4 +18,6 @@ id: 1256
 
 # Monty Python using Drupal
 
+![A decorative webpage celebrating Monty Python's 40th anniversary, featuring a framed video with the phrase "and now for something completely different.](http://default/files/cache/drupal/monty-python-640w.jpg)
+
 Time to bring up your favorite Monty Python quotes, because Monty Python is using [Drupal](https://www.drupal.org)! Check it out at [http://pythonline.com](http://pythonline.com/). Good example of a community website built with Drupal.

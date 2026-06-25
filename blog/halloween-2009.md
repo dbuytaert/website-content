@@ -17,5 +17,6 @@ id: 1166
 
 # Halloween
 
-[image beverly-farms-2009/halloween-druplicon]
-[image beverly-farms-2009/axl-elephant]
+![Two glowing jack-o'-lanterns on a porch, one carved with the Druplicon logo, surrounded by smaller pumpkins.](http://default/files/cache/beverly-farms-2009/halloween-druplicon-640w.jpg)
+*Spot the Druplicon! See also, <a href="https://dri.es/album/beverly-farms-2009/halloween-druplicon-making-of">the making of</a>.*
+![A young child in a fuzzy elephant costume looks down while holding the costume's trunk with both hands.](http://default/files/cache/beverly-farms-2009/axl-elephant-640w.jpg)

@@ -17,6 +17,8 @@ id: 4321
 
 # The letter that released the World Wide Web technology into the public domain
 
+![Official CERN document from 1993 declaring the release of World Wide Web software into the public domain.](http://default/files/cache/blog/www-public-domain-640w.jpg)
+
 Twenty-five years ago, CERN released the World Wide Web technology into the public domain. Below is the document that officially put the World Wide Web into the public domain on 30 April 1993. I love the "no warranty" disclaimer!
 
-[image blog/www-public-domain]
+![Official CERN document from 1993 declaring the release of World Wide Web software into the public domain.](http://default/files/cache/blog/www-public-domain-640w.jpg)

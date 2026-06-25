@@ -21,4 +21,4 @@ Mark your agendas because the [Drupal project](https://www.drupal.org) got a dev
 
 Our goal is to use the developer room to meet, discuss, and talk about Drupal. Right now, we're looking for speakers so let us know in the [FOSDEM 2009 group](https://groups.drupal.org/fosdem-2009) if you want to give a presentation. Or, if you want me to present about a specific topic, you can let me know in the comments of this post. I'm always looking for good ideas. *Hope to see you at FOSDEM 2009!*
 
-[image blog/fosdem-2009-banner resize=false]
+![Banner for FOSDEM 2009, an event in Brussels, Belgium, on February 7-8, with a website link.](http://default/files/images/blog/fosdem-2009-banner.jpg)

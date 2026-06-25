@@ -17,4 +17,6 @@ id: 56
 
 # Rake
 
+![A rusty rake lies on the dirt, its metal tines caught in roots and debris.](http://default/files/cache/miscellaneous-2006/rake-640w.jpg)
+
 

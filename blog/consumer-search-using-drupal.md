@@ -22,4 +22,4 @@ id: 541
 
 ConsumerSearch.com gets about 5.5M unique visitors each month (and growing). I don't know what server infrastructure they run on, but with the help from Jeremy at [Tag1 Consulting](https://www.tag1consulting.com/), they configured Drupal to rely heavily on [memcached](http://www.danga.com/memcached/) and [Drupal's built-in aggressive caching mode](https://dri.es/drupal-5-performance). Knowing Jeremy, they are probably trying to serve cached pages from disk, rather than from the database.
 
-[image drupal/consumer-search]
+![A consumer review website homepage with a search bar, product categories, and featured LCD TV recommendations.](http://default/files/cache/drupal/consumer-search-640w.jpg)

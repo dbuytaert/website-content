@@ -19,6 +19,8 @@ id: 4801
 
 # How to remove YouTube tracking
 
+![A waterfall diagram that shows requests and load times before replacing youtube.com with youtube-nocookie.com](http://default/files/cache/blog/webpagetest-youtube-embed-2019-before-640w.png)
+
 I don't use Google Analytics or any other web analytics service on [dri.es](https://dri.es). Why not? Because I don't desire to know how many people visit my site, where they come from, or what operating system they use.
 
 Because I don't have a compelling reason to track my site's visitors, I don't have to bother anyone with a "cookies consent" popup either. That is a nice bonus because the web is littered with those already. I like that [dri.es](https://dri.es) is clutter-free.
@@ -38,11 +40,13 @@ In addition to improving privacy, this change also makes my site faster. I used 
 Before:
 
 <div class="large">
-  [image blog/webpagetest-youtube-embed-2019-before]
+  ![A waterfall diagram that shows requests and load times before replacing youtube.com with youtube-nocookie.com](http://default/files/cache/blog/webpagetest-youtube-embed-2019-before-640w.png)
+*When embedding a video using <code>youtube.com</code>, Google uses DoubleClick to track your users \(yellow bar\). A total of 22 files were loaded, and the total time to load the page was 4.4 seconds \(vertical blue line\). YouTube makes your pages slow, as the vast majority of requests and load time is spent on loading the YouTube video.*
 </div>
 
 After:
 
 <div class="large">
-  [image blog/webpagetest-youtube-embed-2019-after]
+  ![A waterfall diagram that shows requests and load times after replacing youtube.com with youtube-nocookie.com](http://default/files/cache/blog/webpagetest-youtube-embed-2019-after-640w.png)
+*When using <code>youtube-nocookie.com</code>, Google no longer uses DoubleClick to track your users. No HTTP cookie was sent, "only" 18 files were loaded, and the total page load time was significantly faster at 2.9 seconds \(vertical blue line\). Most of the load time is still the result of embedding a single YouTube video.*
 </div>

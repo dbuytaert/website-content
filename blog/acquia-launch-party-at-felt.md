@@ -18,9 +18,10 @@ id: 411
 
 At DrupalCon Boston, [Acquia](https://www.acquia.com) sponsored a launch party at the [Felt club in Boston](http://www.feltclubboston.com/). Jeff Robbins from [Lullabot](https://lullabot.com) performed live with its former rock band [Orbit](http://www.orbitband.com/), and Acquia's Jay Batson took the crowd deep into the night with progressive house and trance music. *Great parteeh!*
 
-[image drupalcon-boston-2008/billiard-marketing-1] 
-[image drupalcon-boston-2008/jeff-robbins-from-orbit-4]
-[image drupalcon-boston-2008/dj-jay]
-[image drupalcon-boston-2008/acquians]
+![A person plays billiards on a red pool table with a "DrupalCon Boston 2008" logo projected onto it.](http://default/files/cache/drupalcon-boston-2008/billiard-marketing-1-640w.jpg) 
+![A person in a red shirt sings into a microphone on stage, with a dark background.](http://default/files/cache/drupalcon-boston-2008/jeff-robbins-from-orbit-4-640w.jpg)
+![A DJ wearing headphones and glasses smiles while performing, with speakers and equipment in the background.](http://default/files/cache/drupalcon-boston-2008/dj-jay-640w.jpg)
+![A group of Acquia employees smiling and holding drinks at the company's launch party in Boston.](http://default/files/cache/drupalcon-boston-2008/acquians-640w.jpg)
+*Some of the Acquia employees at the Acquia launch party at the Felt in Boston.*
 
 More pictures are available in my [DrupalCon Boston gallery](https://dri.es/album/drupalcon-boston-2008/).

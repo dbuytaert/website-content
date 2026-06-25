@@ -28,6 +28,7 @@ We've only started working on Drupal Commons a few weeks ago, so we obviously ha
 
 Drupal Commons is also a good response to some of the [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt) that [Jive Software](http://www.jivesoftware.com) has been spreading about Open Source software, and Drupal in particular. The screenshot below, taken from a Jive Software whitepaper, shows how they position themselves against Drupal, and how they justify [charging million dollar license fees](https://www.jivesoftware.com/news/releases/2010/4/jive-announces-record-first-quarter) to their customers. I don't know about you, but we'd love to show how Drupal can run circles around Jive SBS for a lot less money.
 
-[image drupal/jive-drupal-fud resize=false]
+![A screenshot from a Jive Software whitepaper comparing Jive Social Business Software to Drupal, highlighting perceived advantages.](http://default/files/images/drupal/jive-drupal-fud.jpg)
+*A screenshot from Jive Software's whitepaper called: "The unique advantage of Jive Social Business Software over Open Source Software".*
 
 Last but not least, [I've been supporting and championing distributions since 2006](https://dri.es/drupal-distributions), and [I still firmly believe Drupal distributions will be critical to Drupal's success](https://dri.es/8-steps-for-drupal-8). Without Drupal distributions, we won't be able to successfully compete with commercial vendors. Drupal distributions have great potential, but we have to do them right, and we have to figure out how to make them sustainable. By building a distribution ourselves, I hope to learn a lot, both on the technical side and on the business side. We already have a number of ideas, and will be announcing some of these shortly. Stay tuned!

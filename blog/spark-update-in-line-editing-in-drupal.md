@@ -26,7 +26,7 @@ Members of [Acquia](https://www.acquia.com/)'s design team spent time analyzing 
 
 The following 5-minute video walks through the HTML/JS prototype, and also provides a bit of background on the Spark project:
 
-[video a53Wcq31LmY]
+https://www.youtube.com/watch?v=a53Wcq31LmY
 
 Our goal is to deliver this functionality in a contributed module for Drupal 7 first and foremost, which will live at the [In-Place Editing project on drupal.org](https://www.drupal.org/project/ipe). This module will be bundled into the [Spark distribution](https://www.drupal.org/project/spark). Depending on how it is received, I hope we can also target this functionality for Drupal 8 core.
 

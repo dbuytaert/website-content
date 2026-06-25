@@ -13,4 +13,4 @@ id: 488
 
 # An anthropological introduction to YouTube
 
-[video TPAO-lZ4_hU]
+https://www.youtube.com/watch?v=TPAO-lZ4_hU

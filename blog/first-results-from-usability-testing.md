@@ -24,7 +24,8 @@ id: 410
 
 Two weeks ago, we conducted [formal usability testing](https://en.wikipedia.org/wiki/Usability_testing) for [Drupal](https://www.drupal.org) at the [University of Minnesota Office for Information Technology's usability lab](http://1help.umn.edu/usability/lab.html). As [I wrote earlier](https://dri.es/drupal-usability-testing), the university has a professional usability lab that allowed us to [record eye-tracking data and video](http://1help.umn.edu/usability/gallery.html#gazeplot).
 
-[image drupal/eye-tracking-hot-spot-map]
+![A heat map of Drupal's admin page shows where users looked and clicked within the first five seconds.](http://default/files/cache/drupal/eye-tracking-hot-spot-map-640w.jpg)
+*The heat map shows where the users look the first 5 seconds after landing on Drupal's main administration page. The red X's show where the users clicked.*
 
 <video width="640" controls>
   <source src="https://dri.es/files/usability-testing-minnesota-2.mov">

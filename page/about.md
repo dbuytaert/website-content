@@ -14,6 +14,8 @@ id: 1
 
 # About
 
+![Dries sitting on a sofa, looking sideways](http://default/files/cache/press-photos/ua-2016-5-640w.jpg)
+
 <div class="h-card vcard">
 <section id="introduction" class="resume">
 
@@ -33,9 +35,9 @@ I try to [live by a set of simple principles](https://dri.es/principles-for-life
 </section>
 
 <section id="passions" class="resume">
-  [image press-photos/ua-2016-4]
+  ![Dries holding his glasses in front of him](http://default/files/cache/press-photos/ua-2016-4-640w.jpg)
 
-### My passions
+## My passions
 
 I really like building things; companies, software, and more. Creating and learning is what makes me happy.
 

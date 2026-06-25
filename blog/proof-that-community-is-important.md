@@ -15,4 +15,4 @@ id: 447
 
 # Proof that community is important
 
-[video LU8DDYz68kM]
+https://www.youtube.com/watch?v=LU8DDYz68kM

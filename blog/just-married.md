@@ -17,4 +17,6 @@ id: 263
 
 # Just married
 
+![A newlywed couple smiles and celebrates outside a brick building, surrounded by floating bubbles.](http://default/files/cache/miscellaneous-2007/just-married-640w.jpg)
+
 

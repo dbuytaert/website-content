@@ -18,4 +18,6 @@ id: 751
 
 # Stan four weeks old
 
+![A newborn baby sleeps on a soft surface, wearing a blue shirt with printed text and graphics.](http://default/files/cache/stan-2009/stan-4-weeks-old-640w.jpg)
+
 Stan is exactly four weeks old today.

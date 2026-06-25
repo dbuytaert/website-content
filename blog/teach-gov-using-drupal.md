@@ -20,6 +20,8 @@ id: 1871
 
 # Teach.gov using Drupal
 
+![A teacher speaks in a classroom, gesturing with his hands while explaining a concept.](http://default/files/cache/drupal/teach-gov-640w.jpg)
+
 The U.S. Department of Education just launched a new micro-site built on [Drupal](https://www.drupal.org): teach.gov. At [teach.gov](http://teach.gov) you can learn what it's like to be a teacher and get the tools you need to launch your own career in education.
 
 The site looks surprisingly crisp and modern for a government site, don't you think?

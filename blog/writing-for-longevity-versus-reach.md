@@ -16,6 +16,8 @@ id: 5881
 
 # Writing for longevity versus reach
 
+![Three men stand together, smiling and talking.](http://default/files/cache/foocamp-2007/jeff-robbins-larry-page-and-evan-williams-640w.jpg)
+
 I see so much social media content vanish into an algorithmic black hole.
 
 Post a photo on Instagram and hundreds of people see it. Tweet a thought and it spreads across the internet in minutes. But that same content becomes invisible within days, buried beneath the constant scroll.
@@ -24,7 +26,8 @@ Six years ago, [I deleted my Facebook account](https://dri.es/pulling-the-plug-o
 
 It's a bittersweet. I started using Twitter in 2007 after Evan Williams, one of Twitter's co-founders, personally introduced it to me at FooCamp. I loved what it stood for then.
 
-[image foocamp-2007/jeff-robbins-larry-page-and-evan-williams]
+![Three men stand together, smiling and talking.](http://default/files/cache/foocamp-2007/jeff-robbins-larry-page-and-evan-williams-640w.jpg)
+*Jeff Robbins \(co-founder Lullabot + former rockstar\), Larry Page \(co-founder Google\) and Evan Williams \(co-founder Blogger.com, co-founder Twitter\) at FooCamp 2007.*
 
 I still post on LinkedIn now and then, but LinkedIn has gone backwards too, with so many shallow, click-baity posts.
 

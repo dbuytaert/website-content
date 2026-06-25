@@ -17,4 +17,6 @@ id: 41
 
 # Greve in Chianti
 
+![A well-lit triangular piazza in Greve in Chianti at night, featuring an old church and parked cars.](http://default/files/cache/tuscany-2006/greve-in-chianti-640w.jpg)
+
 

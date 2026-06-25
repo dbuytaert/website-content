@@ -18,6 +18,8 @@ id: 5441
 
 # The evolution of Drupal's composability: from the command line to the browser
 
+![A hero image featuring the logos of two Drupal initiatives: Automatic Updates and Project Browser.](http://default/files/cache/drupal/evolution-drupal-composability-640w.png)
+
 Drupal's modularity allows developers to combine and reuse modules, themes, and libraries to create custom solutions. This modularity is one of the key ingredients that makes Drupal a [composable platform](https://dri.es/a-composable-digital-experience-manifesto). The [original motivation](https://dri.es/the-assembled-web) behind Drupal's modularity was to accelerate the pace of innovation and democratize the experience of site building.
 
 This blog post has two main goals.
@@ -28,7 +30,7 @@ Second, we'll provide a retrospective on the past 10+ years of decisions that ha
 
 Let's start!
 
-### 2011
+## 2011
 
 Drupal 7 was released, and introduced the "Update Manager". Derek Wright (3281d Consulting), Jacob Singh (Acquia), and Joshua Rogers (Acquia) had begun developing the Update Manager feature starting in 2009.
 
@@ -40,11 +42,12 @@ Interestingly, fifteen years after its development started, Drupal 10 still uses
 
 The Update Manager has several drawbacks: modules can conflict with each other, updates are applied directly to your live site, and if something goes wrong, there is no way to recover.
 
-[image drupalcon-chicago-2011/drupal-8-branch-1]
+![Two men on stage, standing behind a laptop on a pedestal, typing Git commands as they are displayed on a large screen behind them.](http://default/files/cache/drupalcon-chicago-2011/drupal-8-branch-1-640w.jpg)
+*Sam Boyer and me creating the Drupal 8 branch on stage at DrupalCon Chicago.*
 
 In March 2011, we started working on Drupal 8, and later that year, in August, we agreed to adopt components from the [Symfony project](https://symfony.com/). This decision was made to help reduce the amount of code we had to build and maintain ourselves.
 
-### 2012
+## 2012
 
 The Symfony project was using [Composer](http://getcomposer.org/). Composer is a PHP package management system similar to [npm](https://www.npmjs.com/). With Composer, developers can define the dependencies required by their PHP application in a file called `composer.json`. Then, Composer will automatically download and install the required components and their dependencies.
 
@@ -56,7 +59,7 @@ This approach is still used today. Drupal Core Committers maintain `composer.jso
 
 Looking back, it is easy to see how embracing both Symfony components and Composer was a defining moment for Drupal. It made Drupal more powerful, more flexible, and more modular. It also helped us focus. But as will become clear in the remainder of this blog post, it also changed how end users install and manage Drupal. While it brought benefits, there were also drawbacks: it increased the maintenance, integration, and testing workload for end users. For many, it made Drupal more complex and challenging to maintain.
 
-### 2013
+## 2013
 
 We decided that [Drupal Core would adopt semantic versioning](https://www.drupal.org/project/drupal/issues/2135189). This marked a massive shift in [Drupal's innovation model](https://dri.es/the-transformation-of-drupal-8-for-continuous-innovation), moving away from long and unpredictable release cycles that broke backward compatibility between major releases.
 
@@ -68,13 +71,13 @@ When a new version is released, semantic versioning requires that the version nu
 
 This versioning system makes it easy to know when an automatic update is safe. For example, if a Drupal site is running version 10.0.2 and a security update is released as version 10.0.3, it's safe to automatically update to version 10.0.3. But if a major release is made as version 11.0.0, the site owner will need to manually update, as it likely contains changes that aren't compatible with their current version. In other words, the introduction of semantic versioning laid the groundwork for safe, easy Drupal updates.
 
-### 2015
+## 2015
 
 Drupal 8 was released. It came with big changes on all the fronts mentioned above: a shift towards object-oriented programming, support for Composer, the introduction of Symfony components, semantic versioning, and an unwavering commitment to simplifying upgrades for users.
 
 Unfortunately, the reaction to Composer was mixed. Many Drupal contributors greatly appreciated the introduction of Composer, as it made it easier to share and utilize code with others. On the other hand, site owners often found it difficult to use Composer. Composer necessitates using the command line, something typically used by more advanced technical users. Moreover, unexpected failures during a Composer update can be complex to resolve for both developers and non-developers alike.
 
-### 2016
+## 2016
 
 The Drupal Association's engineering team, together with members of the community, launched the "Composer Façade". This meant that all Drupal.org hosted projects automatically became available as packages that could be installed by Composer.
 
@@ -82,7 +85,7 @@ There was some behind-the-scenes magic going on to help the Drupal community tra
 
 Over the coming months and years, additional features would be added to Composer Façade, including solutions to help manage compatibility issues, sub-modules, and namespace collisions.
 
-### 2017
+## 2017
 
 Because Drupal has users with different levels of technical sophistication and different technical environments, we supported multiple distribution methods: zip files, tarballs, and Composer.
 
@@ -92,11 +95,12 @@ For example, the Drupal Association engineering team started building zip files 
 
 Separately, we also introduced new ways to install Drupal Core via Composer, such as using a new `drupal/core-recommended` project template. This template specifies the exact dependencies used to test a particular version of Drupal Core. Drupal Core is only released when all tests pass, so using `drupal/core-recommended` helps to prevent any problems caused by using different versions of the dependencies.
 
-[image drupalcon-vienna-2017/automatic-updates-timeline resize=false]
+![A timeline that shows the progression from manual updates to automatic updates, with Drush updates, Update Manager and Composer as key milestones.](http://default/files/cache/drupalcon-vienna-2017/automatic-updates-timeline-640w.png)
+*A slide from <a href="https://dri.es/state-of-drupal-presentation-september-2017">my keynote at DrupalCon Vienna 2017</a> where I introduced the Automatic Updates initiative. My speaker notes read: "Maybe Composer can be used under the hood to develop an automatic updates feature?".*
 
 Lastly, in my [DrupalCon Vienna keynote](https://dri.es/state-of-drupal-presentation-september-2017), I declared the need for automatic updates, and made it a top priority for the Drupal community based on community surveys and interviews. This led to the formation of the Automatic Updates Initiative. The basic idea was to make updating Drupal sites easier by making Composer invisible to most users, thus empowering more people, regardless of their technical expertise.
 
-### 2018
+## 2018
 
 From 2017 into 2018, David Strauss (Pantheon) and Peter Wolanin (SciShield) took the lead on planning out the Automatic Updates Initiative, and presented [possible architectural approaches at DrupalCon Nashville](https://www.youtube.com/watch?v=wmhD6lA3PRs).
 
@@ -108,7 +112,7 @@ Later that year, at the Midwest Developer Summit organized by Michael Hess (Univ
 
 This work continued at Drupal Europe in Darmstadt, when the Automatic Updates Initiative team met with contributors from the Composer Initiative to compare needs and goals.
 
-### 2019
+## 2019
 
 In 2019, with sponsorship from the European Commission (EC), the Drupal Association contracted additional developers to build the first iteration of the Automatic Updates concept.
 
@@ -118,9 +122,9 @@ On the client-side, the funding resulted in a contributed module for Drupal 7. D
 
 In my [DrupalCon Amsterdam keynote](https://dri.es/state-of-drupal-presentation-october-2019) in late 2019, I provided an update on the Automatic Updates initiative with the assistance of Tim Lehnen from the Drupal Association:
 
-[video 46KwI8ufOKQ]
+https://www.youtube.com/watch?v=46KwI8ufOKQ
 
-### 2020
+## 2020
 
 Up until 2020, contributed modules used version numbers like `8.x-2.1`. This example meant the module was compatible with Drupal 8, and that it was major version 2 with patch level 1. In other words, we supported major and patch level releases, but no minor releases.
 
@@ -128,7 +132,8 @@ We finally updated Drupal.org to [enable semantic versioning for contributed mod
 
 Composer Façade continued to support modules that had not adopted semantic versioning.
 
-[image drupalcon-global-2020/drupal-10-automated-updates resize=false]
+![The Automativ Updates initiative requires integrity checks for Drupal core, Composer 2, package signing and a custom bootloader.](http://default/files/cache/drupalcon-global-2020/drupal-10-automated-updates-640w.png)
+*A slide from <a href="https://dri.es/state-of-drupal-presentation-july-2020">my keynote at DrupalCon Global 2020</a> where I gave an update on the Automatic Updates initiative. The slide shows the four major architectural building blocks of the Automatic Updates initiative.*
 
 Meanwhile, work on Automatic Updates continued. Because we had already embraced Composer, it seemed obvious that we would use Composer under the hood to power Automatic Updates. However, there was one feature we identified as missing from the existing Composer/Packagist ecosystem: package signing.
 
@@ -148,10 +153,11 @@ We decided that the required changes to support this would be too disruptive to 
 
 While not perfectly atomic in the way that a [blue-green deployment](https://en.wikipedia.org/wiki/Blue-green_deployment) would have been, the key advantage to this approach is that it didn't require any changes to Drupal Core's file structure, which meant that it could also be easily adopted by other PHP projects. Travis Carden (Acquia) began implementing this approach as the [Composer Stager](https://github.com/php-tuf/composer-stager) library.
 
-### 2021
+## 2021
 
 <div class="large">
-  [image drupal/automatic-updates-2021 resize=false]
+  ![A design proposal for Automatic Updates.](http://default/files/cache/drupal/automatic-updates-2021-640w.png)
+*A design proposal for Automatic Updates. There are updates available for different modules. You can upgrade them immediately using the user interface, or you can let the scheduler run to do it for you.*
 </div>
 
 The second iteration of the Automatic Updates module was released as a beta. Unlike the first iteration sponsored by the European Commission, this version worked for Composer-based projects by leveraging the newly created Composer Stager library.
@@ -162,10 +168,11 @@ With that in mind, I proposed the [Project Browser Initiative](https://www.drupa
 
 This dovetailed nicely with the Automatic Updates initiative. The combination of Automatic Updates and Project Browser would give Drupal the equivalent of an 'app store', making it easy for anyone to discover, install, and update a module and its components.
 
-### 2022
+## 2022
 
 <div class="large">
-  [image drupal/project-browser-2022 resize=false]
+  ![A design proposal for the Project Browser.](http://default/files/cache/drupal/project-browser-2022-640w.png)
+*A design proposal for the Project Browser. Users can filter modules by category, development status, security policy and more. Users can also page through results or sort the results by the number of active installs.*
 </div>
 
 In 2022, we began work on making Automatic Updates' Composer functionality available for Project Browser, so that module installs and updates are handled in the same seamless, robust way. The new [Package Manager](https://www.drupal.org/project/drupal/issues/3346707) (a sub-module of Automatic Updates) provides this functionality for both Automatic Updates and Project Browser, and will be the cornerstone of Drupal's install and update functionality.
@@ -176,7 +183,7 @@ While work was ongoing on the client side of both Automatic Updates and the Proj
 
 Drupal Association team member Fran Garcia-Linares also started work on new Drupal.org endpoints that will feed the necessary data for the Project Browser. These endpoints were built on modern Drupal, with JSON:API, and will be deployed to production in the first half of 2023.
 
-### 2023
+## 2023
 
 That brings us to today. [Project Browser](https://www.drupal.org/about/core/strategic-initiatives/project-browser) and [Automatic Updates](https://www.drupal.org/about/core/strategic-initiatives/automatic-updates) are still two of the biggest initiatives for Drupal. Chris Wells (Redfin Solutions) and Leslie Glynn (Redfin Solutions) are leading the Project Browser initiative, and Ted Bowman (Acquia) and Tim Lehnen (Drupal Association) are leading the Automatic Updates initiatives.
 
@@ -190,7 +197,7 @@ We have built key parts of our solution in such a way that they can easily be ad
 
 Our goal is to have both Automatic Updates and Project Browser included in Drupal Core, making them out-of-the-box features for all end users. I'm hopeful we can take the final steps to flush out the remaining bugs, finalize the Drupal.org services and APIs, and move these modules to Drupal Core in the second half of 2023.
 
-### Conclusion
+## Conclusion
 
 Getting Automatic Updates and Project Browser into Drupal Core will be the result of 10+ years of hard work.
 

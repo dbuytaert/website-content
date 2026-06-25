@@ -20,4 +20,4 @@ It's been a while since I wrote about [Acquia Cloud](https://www.acquia.com/prod
 
 All that capacity served over 18 billion requests in May, with many more requests served via our CDN partnerships. Compared to last year, Acquia Cloud's traffic is up 200%. We also served over 232 terabytes of data in May. This astounding growth solidifies the scalability of Acquia Cloud. And it's only going to grow faster as Acquia is signing up larger websites.
 
-[image acquia/acquia-cloud-may-2013 resize=false]
+![](http://default/files/images/acquia/acquia-cloud-may-2013.jpg)

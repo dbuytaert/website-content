@@ -25,6 +25,7 @@ With 850 Drupalistas attending DrupalCon Paris, I wasn't able to talk to all of 
 
 As always, DrupalCon is largely driven by volunteers, and many of them have a full-time job. It takes a lot to coordinate an event like this and it is not something we should take for granted. Everyone involved – from the local volunteers to the Drupal Association to the event planning staff – has my thanks! *Great times!*
 
-[image drupalcon-paris-2009/drupalcon-10]
-[image drupalcon-paris-2009/drupalcon-4]
-[image drupalcon-paris-2009/drupalcon-5]
+![A large group of DrupalCon attendees gathers in a grand hall, waving, with a person in a Drupal mascot costume.](http://default/files/cache/drupalcon-paris-2009/drupalcon-10-640w.jpg)
+![A speaker on stage hugs a large blue Drupal mascot holding large scissors while an audience takes photos.](http://default/files/cache/drupalcon-paris-2009/drupalcon-4-640w.jpg)
+*At DrupalCon Paris 2009, we cut a ribbon. Druplicon was holding rather large scissors. The photo was taken at exactly the wrong moment, but it's still one of my favorite Drupal photos.*
+![A man in a hat enthusiastically raises his hand in a crowded conference audience.](http://default/files/cache/drupalcon-paris-2009/drupalcon-5-640w.jpg)

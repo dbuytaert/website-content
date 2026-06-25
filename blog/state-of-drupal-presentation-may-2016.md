@@ -30,4 +30,4 @@ There is much more data hidden in the raw survey results, so if you'd like to do
 
 Take a look, and as always feel free to leave your opinions in the comments!
 
-[video Ksp5JVFryEg]
+https://www.youtube.com/watch?v=Ksp5JVFryEg

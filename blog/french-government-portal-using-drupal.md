@@ -22,4 +22,4 @@ After the [French Ministry for Health, Youth and Sport using Drupal started usin
 
 The site was built by the French Government Multimedia Team and [Adyax Experts](http://www.adyax.com) (an [Acquia partner](https://www.acquia.com/partners)). About 10 persons worked on it for several months. Most of the work was spent on building custom migration tools to switch from SPIP Agora to Drupal.
 
-[image drupal/french-government-portal]
+![French government website homepage featuring election campaign information, news about the Prime Minister, and public policy categories.](http://default/files/cache/drupal/french-government-portal-640w.jpg)

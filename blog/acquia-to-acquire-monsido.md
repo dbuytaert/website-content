@@ -20,10 +20,12 @@ id: 5516
 
 # Acquia to acquire Monsido
 
+![Logo of Acquia and Monsido with the tagline "Acquia to acquire Monsido".](http://default/files/cache/acquia/acquia-acquires-monsido-640w.png)
+
 I'm pleased to announce that [Acquia](https://www.acquia.com/) has signed a definitive agreement to acquire [Monsido](https://monsido.com/), a leading platform for monitoring and optimizing website accessibility, content quality, search engine optimization, data privacy, and performance.
 
 <div class="large">
-  [image acquia/acquia-acquires-monsido resize=false]
+  ![Logo of Acquia and Monsido with the tagline "Acquia to acquire Monsido".](http://default/files/cache/acquia/acquia-acquires-monsido-640w.png)
 </div>
 
 I have many reasons to be really excited about this acquisition. Born out of [Drupal](https://www.drupal.org/), Acquia has always had a deep love for the web. This acquisition reaffirms and strengthens our foundational commitment to the web. It directly supports Acquia's mission to help build a better digital future – one where experiences are inclusive, accessible, and where we set new benchmarks for performance and quality.
@@ -35,9 +37,9 @@ The Monsido platform offers a range of powerful features to help with this:
 - **Ensure brand and content consistency:** Monsido ensures website content complies with brand guidelines and content policies. For example, help your content teams use preferred terminology, avoid non-inclusive language, or write content that does not align with your brand values.
 - **Manages user consent:** Monsido can help manage user consent for cookies and other tracking technologies, supporting compliance with privacy regulations such as GDPR and CCPA.
 
-[video aNOhS5WxKZo]
+https://www.youtube.com/watch?v=aNOhS5WxKZo
 
-### Web accessibility is essential
+## Web accessibility is essential
 
 The World Health Organization's [2019 World Report on Vision](https://www.who.int/publications/i/item/world-report-on-vision) revealed that more than 2.2 billion people, a quarter of the world's population, have a vision impairment. For some of those people, screen readers often become a necessity to navigate the web.
 
@@ -47,7 +49,7 @@ Over the years, we learned that there are a number of obstacles to building acce
 
 It is why we are excited to make all of that easier. In addition to helping with accessibility, Monsido can also help improve content quality, brand and content compliance, technical SEO, user consent management, and more. Monsido brings all these tools together in one place, so you don't need to juggle multiple tools, multiple logins, etc.
 
-### The most complete digital experience optimization solution
+## The most complete digital experience optimization solution
 
 Acquia is also excited to announce strategic partnerships with two industry-leading platforms: Conductor and VWO.
 

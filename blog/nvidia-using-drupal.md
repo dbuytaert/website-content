@@ -24,4 +24,4 @@ id: 1376
 
 NVidia came to [Acquia](https://www.acquia.com) to help them get the site built. Development was done by [Chapter Three](https://chapterthree.com) (an Acquia partner) and [Wiredcraft](https://wiredcraft.com/), while Acquia hosts the site on the [Acquia Hosting](https://www.acquia.com/products-services/acquia-managed-cloud) platform and provides 24x7 monitoring and support. They are also using [Mollom](https://mollom.com) to protect their site against spammers.
 
-[image drupal/nvidia-tegra]
+![NVIDIA Tegra Developer Zone webpage highlighting mobile web processor features, development resources, and project links for developers.](http://default/files/cache/drupal/nvidia-tegra-640w.jpg)

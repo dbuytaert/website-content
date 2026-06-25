@@ -21,4 +21,4 @@ id: 665
 
 Jacksonville, the largest city in Florida, is using [Drupal](https://www.drupal.org) (and [Mollom](https://mollom.com)) at <http://jacksonville.com>. The Florida Times-Union is the major daily newspaper in Jacksonville and [Jacksonville.com](http://jacksonville.com) is its official website. *Cool!*
 
-[image drupal/jacksonville]
+![Screenshot of a news website, Jacksonville.](http://default/files/cache/drupal/jacksonville-640w.jpg)

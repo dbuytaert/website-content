@@ -18,6 +18,8 @@ id: 5566
 
 # Satoshi Nakamoto's Drupal adventure
 
+![Email from Satoshi Nakamoto to Martti Malmi, dated December 2009, about Bitcoin's new Drupal site going online and being an improvement over the old bitcoin.org page.](http://default/files/cache/drupal/satoshi-martti-drupal-1-640w.png)
+
 Martti Malmi, an early contributor to the Bitcoin project, recently shared a fascinating piece of internet history: an [archive of private emails between himself and Satoshi Nakamoto](https://mmalmi.github.io/satoshi/), Bitcoin's mysterious founder.
 
 The identity of Satoshi Nakamoto remains one of the biggest mysteries in the technology world. Despite extensive investigations, speculative reports, and numerous claims over the years, the true identity of Bitcoin's creator(s) is still unknown.
@@ -30,15 +32,15 @@ Satoshi and Martti worked together on a variety of different things, including t
 
 And to my surprise, the emails reveal they chose [Drupal](https://www.drupal.org/) as their preferred CMS! (Thanks to [Jeremy Andrews](https://www.drupal.org/u/jeremy) for making me aware.)
 
-[image drupal/satoshi-martti-drupal-1 resize=false schema=false]
+![Email from Satoshi Nakamoto to Martti Malmi, dated December 2009, about Bitcoin's new Drupal site going online and being an improvement over the old bitcoin.org page.](http://default/files/cache/drupal/satoshi-martti-drupal-1-640w.png)
 
 The emails detail Satoshi's hands-on involvement, from installing Drupal themes, to configuring Drupal's `.htaccess` file, to exploring Drupal's multilingual capabilities.
 
-[image drupal/satoshi-martti-drupal-2 resize=false schema=false]
+![Email from Satoshi Nakamoto to Martti Malmi, dated November 2009, discussing Drupal themes installation and comparing Drupal and Joomla!.](http://default/files/cache/drupal/satoshi-martti-drupal-2-640w.png)
 
 At some point in the conversation, Satoshi expressed reservations about Drupal's forum module.
 
-[image drupal/satoshi-martti-drupal-3 resize=false schema=false]
+![Email from Satoshi Nakamoto to Martti Malmi, dated November 2009, about preferring Drupal as a CMS over a Wiki, and expressing that Drupal's forum capabilities are not ideal but better than Wikis.](http://default/files/cache/drupal/satoshi-martti-drupal-3-640w.png)
 
 For what it is worth, this proves that I'm *not* Satoshi Nakamoto. Had I been, I'd have picked Drupal right away, and I would never have questioned Drupal's forum module.
 

@@ -24,4 +24,4 @@ Steve has been involved in Open Source for over 20 years, and has had the unique
 
 Watch the video to hear Steve's personal story about how Drupal influenced his career, in addition to influencing MongoDB, Docker and Go. I don't often get emotional, but I had to wipe a few tears away during his presentation. Thanks for telling your story and being an inspiration, Steve!
 
-[video EJo9tPXGPo8]
+https://www.youtube.com/watch?v=EJo9tPXGPo8

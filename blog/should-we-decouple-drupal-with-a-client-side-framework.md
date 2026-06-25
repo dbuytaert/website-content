@@ -28,9 +28,10 @@ In recent years, the emergence of decoupled architectures with client-side frame
 
 Here is my current thinking: in the short term, Drupal should work toward a next-generation user experience under [progressive decoupling](https://dri.es/the-future-of-decoupled-drupal) for both the administration layer and the end user experience. At the same time, we should enable fully decoupled end-user and administrative experiences to be built on Drupal too. In my view, the best way to achieve this is to formally standardize on a full-featured MV\* *framework* (e.g. [Angular](https://angularjs.org/), [Ember](https://emberjs.com/), [Backbone](https://backbonejs.org/), and [Knockout](http://knockoutjs.com/)) or a component-based view *library* (e.g. [React](https://reactjs.org/), [Vue](http://vuejs.org), and [Riot](http://riotjs.com/)). In this blog post, I want to kick off the discussion and walk you through my current position in some more detail.
 
-### Should we decouple Drupal itself?
+## Should we decouple Drupal itself?
 
-[image drupal/should-we-decouple-drupal-framework-responsibility resize=false]
+![Diagram comparing Drupal's current state, progressive decoupling, and full decoupling, showing backend and frontend responsibilities.](http://default/files/images/drupal/should-we-decouple-drupal-framework-responsibility.jpg)
+*A framework can assume responsibility over very little, such as with Backbone, or a great deal of the stack, including the rendering process.*
 
 The question we have to answer is: do we stand to benefit from decoupling Drupal? In this context, *decoupled Drupal* refers to a separation between the Drupal back end and one or more front ends. In a decoupled architecture, the back end is built in a server-side language like PHP, the front end is built using a client-side framework written in JavaScript, and data is transferred between the two. Decoupling your content management system gives front-end developers greater control over an application or site's rendered markup and user experience, and using a client-side framework gives them better tools to build application-like experiences.
 
@@ -113,9 +114,10 @@ The third option is what I call *progressive decoupling*, where Drupal renders t
  </table>
 </small>
 
-### How should Drupal decouple its user experience?
+## How should Drupal decouple its user experience?
 
-[image drupal/should-we-decouple-drupal-front-end-experiences resize=false]
+![A diagram comparing coupled, fully decoupled, and progressively decoupled Drupal front-end experiences for users, editors, and site builders.](http://default/files/images/drupal/should-we-decouple-drupal-front-end-experiences.jpg)
+*This diagram shows some of the possible front-end experiences that could rely on a single Drupal back-end. In full decoupling, a custom application built using a client-side framework encompasses the entire front-end. In progressive decoupling, JavaScript manipulates an initial state already provided by the theme layer.*
 
 Drupal's *administration layer* (content editor and site builder experience) is effectively an application. Fully decoupling may be the appropriate call to achieve the best possible user experience for creating, managing and presenting content. However, rewriting the administration layer from the ground up is a monumental task, especially since its modules provide powerful interfaces that allow site builders to build robust, complex sites without a line of code.
 
@@ -125,7 +127,7 @@ For both the administration layer and the end-user experience, I believe the Dru
 
 Nonetheless, we should empower people building fully decoupled sites and applications. Depending on the use case, Drupal 8 is a good match for decoupled applications but we should improve and extend Drupal's REST API, enhance contributed modules such as [Services](https://www.drupal.org/project/services), and shore up new features such as [GraphQL](https://www.drupal.org/project/graphql) ([demo video](https://www.youtube.com/watch?v=ZjDYg6NrAys)) so more functionality can be decoupled. Front-end developers can then use any framework of their choice – whether it is Angular, Ember, React, or something else – to build a fully decoupled administrative application.
 
-### Should Drupal standardize on a single framework?
+## Should Drupal standardize on a single framework?
 
 All things considered, I do believe Drupal should standardize on a single client-side framework, but it should only make such an explicit recommendation for progressively decoupled Drupal, not fully decoupled architectures. It would result in a more seamless user experience, better compatibility across interactive components in modules, maximum code reuse, a more consistent front-end developer experience, more maintainable code, and better performance as we don't have to load multiple frameworks.
 
@@ -135,7 +137,7 @@ For instance, [Backbone](https://backbonejs.org/), with its underlying library [
 
 To deal with the fast-evolving nature of the front-end landscape, we need to be thoughtful about which framework we choose, to reassess our choice from time to time, and to make sure we can migrate fairly easily if we so decide.
 
-### What client-side framework should Drupal standardize on?
+## What client-side framework should Drupal standardize on?
 
 Assuming we agree that embracing a single client-side framework makes sense for Drupal, there are actually three additional questions: what framework to standardize on, how to do it, and when to decide.
 
@@ -145,7 +147,7 @@ The second question – how to standardize on a framework – I can help answer.
 
 The last question, when to standardize on a framework, is important too. I would recommend we experiment with possible directions as soon as possible in order to decide on a final vision sooner rather than later.
 
-### Conclusion
+## Conclusion
 
 I believe that, for now, it makes more sense to progressively decouple Drupal sites and their administration layer by first building our pages with Drupal. Once the page is loaded, we can let a unified client-side framework take over as much of the page as needed to foster a next-generation user experience without reinventing the wheel or alienating developers.
 

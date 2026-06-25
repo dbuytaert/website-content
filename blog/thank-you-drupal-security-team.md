@@ -20,6 +20,8 @@ id: 5956
 
 # Thank you, Drupal Security Team
 
+![A blue heart](http://default/files/cache/drupal/blue-hearts-1-640w.jpg)
+
 Today is Thanksgiving in the US. I know it's not a global holiday, but it has me thinking about gratitude, and specifically about a team that rarely gets the recognition it deserves: the [Drupal Security Team](https://www.drupal.org/drupal-security-team).
 
 As Drupal's project lead, I'm barely involved in our security work. And you know what? That is a sign that things are working really well.

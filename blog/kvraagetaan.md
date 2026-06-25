@@ -16,6 +16,6 @@ id: 212
 
 # Kvraagetaan
 
-[video jyJ6BmkS694]
+https://www.youtube.com/watch?v=jyJ6BmkS694
 
 Music from the [Fixkes](http://www.fixkes.be/), brimming with sentimental memories of my own childhood. (Hat tip: [Pietel](http://pietel.be/))

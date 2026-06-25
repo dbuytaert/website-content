@@ -17,9 +17,11 @@ id: 4916
 
 # Acquia acquires Cohesion to simplify building Drupal sites
 
+![An animated GIF showing how to edit styles with Cohesion.](http://default/files/cache/acquia/cohesion-editing-styles-640w.gif)
+
 I'm excited to announce that [Acquia](https://www.acquia.com/) has acquired Cohesion, the creator of [DX8](https://www.cohesiondx.com/), a software-as-a-service (SaaS) visual Drupal website builder made for marketers and designers. With Cohesion DX8, users can create and design Drupal websites without having to write PHP, HTML or CSS, or know how a Drupal theme works. Instead, you can create designs, layouts and pages using a drag-and-drop user interface.
 
-[video fNsYoG8eE_s]
+https://www.youtube.com/watch?v=fNsYoG8eE_s
 
 Amazon founder and CEO [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos) is often asked to predict what the future will be like in 10 years. One time, he famously answered that predictions are the wrong way to go about business strategy. Bezos said that the secret to business success is to focus on the things that will *not* change. By focusing on those things that won't change, you know that all the time, effort and money you invest today is still going to be paying you dividends 10 years from now. For Amazon's e-commerce business, he knows that in the next decade people will still want [faster shipping and lower shipping costs](https://dri.es/relentlessly-eliminating-barriers-to-growth).
 
@@ -29,8 +31,10 @@ Acquia's acquisition of Cohesion is a direct response to this trend, empowering 
 
 Here is a quick look at some of my favorite features:
 
-[image acquia/cohesion-editing-styles resize=false]
+![An animated GIF showing how to edit styles with Cohesion.](http://default/files/cache/acquia/cohesion-editing-styles-640w.gif)
+*An easy-to-use “style builder” enables designers to create templates from within the browser. The image illustrates how easy it is to modify styles, in this case a button design.*
 
-[image acquia/cohesion-editing-pages resize=false]
+![An animated GIF showing how to edit a page with Cohesion.](http://default/files/cache/acquia/cohesion-editing-pages-640w.gif)
+*In-context editing makes it really easy to modify content on the page and even change the layout from one column to two columns and see the results immediately.*
 
 I'm personally excited to work with the Cohesion team on unlocking the power of Drupal for more organizations worldwide. I'll share more about Cohesion DX8's progress in the coming months. In the meantime, welcome to the team, Cohesion!

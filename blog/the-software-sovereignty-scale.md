@@ -22,7 +22,7 @@ id: 6091
 
 # The Software Sovereignty Scale
 
-[image blog/software-sovereignty-scale priority=true]
+![A five-level digital sovereignty scale ranked from A to E. A represents copyleft open source with no relicensing risk, B copyleft open source with relicensing risk, C permissive open source, D European proprietary software, and E foreign proprietary software. Higher grades indicate greater control and sovereignty.](http://default/files/cache/blog/software-sovereignty-scale-640w.png)
 
 "Buy European" is becoming Europe's rallying cry for digital sovereignty. The logic is intuitive: if you want independence from American technology, buy from European companies instead.
 
@@ -85,7 +85,7 @@ The most important distinction in the scale is between Open Source and proprieta
 </table>
 </div>
 
-### Jurisdictional obligations change with ownership
+## Jurisdictional obligations change with ownership
 
 At the bottom, **grade E**, is foreign proprietary software: no source code, no right to modify, and no alternative if the vendor changes terms. Your vendor is subject to its home government's jurisdiction, and by extension, so is your data.
 
@@ -95,7 +95,7 @@ At the bottom, **grade E**, is foreign proprietary software: no source code, no 
 
 So ownership and jurisdiction matter, but they're not enough. A European company can be acquired tomorrow. Open Source offers something more important: it separates the code from any single company or country.
 
-### Not all Open Source is equally sovereign
+## Not all Open Source is equally sovereign
 
 Open Source is what makes real sovereignty possible. At the same time, Open Source sovereignty exists on a spectrum. The level of protection comes down to two legal levers: the *license* itself, and the *copyright ownership*, which determines who has the power to change the license.
 
@@ -123,20 +123,21 @@ Finally, **grade A** is copyleft Open Source with no relicensing risk. This typi
 
 Of course, copyleft projects with fewer independent contributors and less history could be easier to relicense. There are simply fewer people whose consent would be required to change the license.
 
-### Sovereignty is a long-term commitment
+## Sovereignty is a long-term commitment
 
 Moving from E to D is progress. Moving from D to C is what really matters. Above C, the scale highlights smaller but still important tradeoffs, so when governments choose a lower grade, they do so knowingly rather than unknowingly.
 
 An Open Source project that loses important funding often needs investment to remain viable. But unlike acquisition or relicensing, funding risk is largely within the EU's control through [government procurement](https://dri.es/digital-sovereignty-requires-open-source-procurement) and [public investment](https://dri.es/funding-open-source-like-public-infrastructure). 
 
-### Recommendation for the European Commission
+## Recommendation for the European Commission
 
 Sovereignty involves many things: data location, supply chains, technical talent, and standards. Licensing and copyright form the structural foundation because they determine whether legal independence is even possible. 
 
 The [European Commission's Cloud Sovereignty Framework](https://commission.europa.eu/document/download/09579818-64a6-4dd5-9577-446ab6219113_en?filename=Cloud-Sovereignty-Framework.pdf) reflects this broader view. It evaluates cloud software across eight sovereignty objectives, each scored and weighted into a composite sovereignty score. Technology Sovereignty (SOV-6), the objective that covers open licensing, accounts for 15% of that composite. Within it, open licensing is one contributing factor among four, alongside open standards, architectural transparency, and EU computing independence.
 
 <div class="large">
-[image blog/eu-cloud-sovereignty-framework-sov6 resize=false schema=false]
+![A table from the European Commission's Cloud Sovereignty Framework showing the four contributing factors for Technology Sovereignty \(SOV-6\): integration through open APIs and standards, software accessible under open licenses, visibility into design and architecture, and EU independence in high-performance computing.](http://default/files/cache/blog/eu-cloud-sovereignty-framework-sov6-640w.png)
+*The four contributing factors within Technology Sovereignty \(SOV-6\). Open licensing is one among four. Source: <a href="https://commission.europa.eu/document/download/09579818-64a6-4dd5-9577-446ab6219113\_en?filename=Cloud-Sovereignty-Framework.pdf">Cloud Sovereignty Framework</a>, version 1.2.1, October 2025.*
 </div>
 
 This dramatically underweights what matters most: Open Source. Open standards, transparency, and computing independence are capabilities that proprietary software can also provide. They can change if a vendor is acquired or shifts strategy.

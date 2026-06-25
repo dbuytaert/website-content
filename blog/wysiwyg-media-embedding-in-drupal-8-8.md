@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/wysiwyg-media-embedding-in-drupal-8-8'
-title: 'WYSIWYG media embedding in Drupal 8.8 '
+title: 'WYSIWYG media embedding in Drupal 8.8'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -13,11 +13,11 @@ published: true
 id: 4921
 ---
 
-# WYSIWYG media embedding in Drupal 8.8 
+# WYSIWYG media embedding in Drupal 8.8
 
 I'm excited to share that when Drupal 8.8 drops in December, Drupal's WYSIWYG editor will allow media embedding.
 
-[video sTc2JJzs9iU]
+https://www.youtube.com/watch?v=sTc2JJzs9iU
 
 You may wonder: <q>Why is that worth announcing on your blog? It's just one new button in my WYSIWYG editor.</q>.
 

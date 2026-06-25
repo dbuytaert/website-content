@@ -21,4 +21,5 @@ Like so many Drupal contributers, Steven works on Drupal completely as a volunte
 
 One great thing about the Drupal community is seeing people grow into new roles and take more responsibility upon themselves. This is certainly the case for [Addison Berry](https://www.drupal.org/user/65088) (add1sun), who in her two years working with Drupal has become involved with virtually every aspect of the Drupal project. Lately Addi has been more and more active with the documentation team, making her a clear choice in my mind to carry on where Steven left off. I'm therefore very happy to announce that Addison Berry, aka add1sun, is the new documentation team leader, effective immediately. *Keep up the great work, Addi!*
 
-[image drupalcon-sunnyvale-2007/addison-berry]
+![A person with glasses and dark hair looks to the side at DrupalCon Yahoo! in Sunnyvale, 2007.](http://default/files/cache/drupalcon-sunnyvale-2007/addison-berry-640w.jpg)
+*Addison Berry at DrupalCon Yahoo! in Sunnyvale, 2007.*

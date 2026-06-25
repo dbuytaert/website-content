@@ -24,7 +24,7 @@ Apple basically cloned [Flipboard](http://flipboard.com) to create News. Flipboa
 
 But forget about Apple's impact on Flipboard for a minute. The release of the News app signifies a more important shift in the evolution of the web, the web content management industry, and the publishing industry.
 
-### Impact on content management platforms
+## Impact on content management platforms
 
 Why is Apple's News app a big deal for content management platforms? When you can read all the news you are interested in in News, you no longer have to visit websites for it. It's a big deal because there are half a billion active iOS devices and Apple will ship its News app to every single one of them. It will accelerate the fact that websites are becoming less relevant as an end-point destination.
 
@@ -38,7 +38,7 @@ When content is "pushed" to you by smart aggregators, using a regular web browse
 
 I don't know about your content management platform, but [Drupal](https://drupal.com) is ready for it. It was designed for a content-first mentality while many competitive content management systems continue to rely on a dated page-centric content model. It was also designed to be a content repository capable of outputting content in multiple formats to multiple end-points.
 
-### Impact on publishing industry
+## Impact on publishing industry
 
 Forget the impact on Flipboard or on content management platforms, the impact on the publishing world will even be more significant. The risk for publishers is that they are being disintermediated as the distribution channel and that their brands become less useful. It marks a powerful transformation that could de-materialize and de-monetize much of the current web and publishing industry.
 
@@ -48,6 +48,6 @@ This doesn't mean that online news media have lost. Maybe it can actually save t
 
 In a "push economy" where a publisher's brand is devalued and news is selected by smart aggregators, the best content could win; not just the content that is associated with the most well-known publishing brands with the biggest marketing budgets. Publishers will be incentivized to create more high-quality content – content that is highly customized to different target audiences, rather than generic content that appeals to large groups of people. Success will likely rely on Apple's ability to [use data](https://dri.es/the-future-of-software-is-data-driven) to [match the right content to each user](https://dri.es/from-content-management-to-digital-experience-management).
 
-### Conclusion
+## Conclusion
 
 This isn't necessarily bad. In my opinion, the web isn't dead, it's just getting started. We're well into the post-PC era, and now Apple is helping to move consumers beyond the browser. It's hard to not be cautiously optimistic about the long-term implications of these developments.

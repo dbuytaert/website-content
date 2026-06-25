@@ -17,5 +17,6 @@ id: 202
 
 I received an interesting little book on blogging from [Skynet Blogs](http://www.skynetblogs.be/), a hosted weblog service in Belgium. I especially liked the market research and the statistics about the Belgian blogosphere. *Well done [Skynet](http://www.skynet.be/) and thanks [Clo](http://www.bnox.be/)!*
 
-[image blog/skynet-1]
-[image blog/skynet-2]
+![](http://default/files/cache/blog/skynet-1-640w.jpg)
+*A personalized cover!*
+![](http://default/files/cache/blog/skynet-2-640w.jpg)

@@ -16,5 +16,5 @@ id: 1461
 
 # Hanging out
 
-[image axl-2010/hanging-out-1]
-[image axl-2010/hanging-out-2]
+![A man smiles while playfully holding a young child upside down by the legs indoors.](http://default/files/cache/axl-2010/hanging-out-1-640w.jpg)
+![A man wearing glasses smiles while playfully holding a young child upside down over his shoulder.](http://default/files/cache/axl-2010/hanging-out-2-640w.jpg)

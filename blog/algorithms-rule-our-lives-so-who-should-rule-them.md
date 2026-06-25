@@ -21,7 +21,7 @@ Volkswagen's recent [emissions scandal](https://www.nytimes.com/2015/09/24/opini
 
 A solution could be to model regulation of the software industry after the [US Food and Drug Administration](https://www.fda.gov/)'s oversight of the food and drug industry. The parallels are closer than you might think.
 
-### The case for tighter regulation
+## The case for tighter regulation
 
 When Volkswagen was exposed for programming its emissions-control software to fool environmental regulators, many people called for more transparency and oversight over the technology.
 
@@ -33,7 +33,7 @@ Research by the [American Institute for Behavioral Research and Technology](http
 
 The same problem applies to the algorithms used in DNA testing, breathalyzer tests and facial recognition software. Many defense attorneys have requested access to the source code for these tools to verify the algorithms' accuracy. But [in many cases](http://www.slate.com/blogs/future_tense/2015/10/06/defendants_should_be_able_to_inspect_software_code_used_in_forensics.html), these requests are denied, since the companies that produce the proprietary criminal justice algorithms fear a threat to their businesses' bottom line. Yet clearly we need some way to ensure the accuracy of software that could put people behind bars.
 
-### What we can learn from the FDA
+## What we can learn from the FDA
 
 So how exactly could software take a regulatory page from the FDA in the United States? Before the 20th century, the government made [several attempts](https://www.fda.gov/AboutFDA/WhatWeDo/History/) to regulate food and medicine, but abuse within the system was still rampant. Food contamination caused widespread illness and death, particularly within the meatpacking industry.
 

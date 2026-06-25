@@ -20,6 +20,8 @@ id: 5576
 
 # Two years later: is my Web3 website still standing?
 
+![Two people on a platform observe a decentralized web of nodes.](http://default/files/cache/blog/web3-exploration-640w.jpg)
+
 Two years ago, [I launched a simple Web3 website](https://dri.es/my-first-web3-webpage) using [IPFS](https://ipfs.io/) (InterPlanetary File System) and [ENS](https://ens.domains/) (Ethereum Name Service). Back then, Web3 tools were getting a lot of media attention and I wanted to try it out.
 
 Since I set up my Web3 website two years ago, I basically forgot about it. I didn't update it or pay attention to it for two years. But now that we hit the two-year mark, I'm curious: is my Web3 website still online?
@@ -28,7 +30,7 @@ At that time, I also stated that Web3 was not fit for hosting modern web applica
 
 I was also curious to explore the evolution of Web3 technologies to see if they became more applicable for website hosting.
 
-### My original Web3 experiment
+## My original Web3 experiment
 
 In my original blog post, I documented the process of setting up what could be called the "Hello World" of Web3 hosting. I stored an HTML file on IPFS, ensured its availability using "pinning services", and made it accessible using an ENS domain.
 
@@ -41,7 +43,7 @@ For those with a basic understanding of Web3, here is a summary of the steps I t
 
 If the four steps above are confusing to you, I recommend reading [my original post](https://dri.es/my-first-web3-webpage). It is over 2,000 words, complete with screenshots and detailed explanations of the steps above.
 
-### Checking the pulse of various Web3 services
+## Checking the pulse of various Web3 services
 
 As the first step in my check-up, I wanted to verify if the various services I referenced in my original blog post are still operational.
 
@@ -106,7 +108,7 @@ The two main technologies – ENS and IPFS – are both actively maintained and 
 </tr>
 </table>
 
-### Is my Web3 website still up?
+## Is my Web3 website still up?
 
 Seeing all these Web3 services operational is encouraging, but the ultimate test is to check if my Web3 webpage, `dries.eth`, remained live. It's one thing for these services to work, but another for my site to function properly. Here is what I found in a detailed examination:
 
@@ -119,7 +121,7 @@ The verdict? Not only are these Web3 services still operational, but my webpage 
 
 This is particularly noteworthy given that I haven't logged in to these services, didn't perform any maintenance, or didn't pay any hosting fees for two years (the pinning services I'm using have a free tier).
 
-### Visit my Web3 page yourself
+## Visit my Web3 page yourself
 
 For anyone interested in visiting my Web3 page (perhaps your first Web3 visit?), there are several methods to choose from, each with a different level of Web3-ness.
 
@@ -127,7 +129,7 @@ For anyone interested in visiting my Web3 page (perhaps your first Web3 visit?),
 - **Install a Web3 browser extension:** If your favorite browser does not support Web3 out of the box, adding a browser extension like [MetaMask](https://metamask.io/) can help you access Web3 applications. MetaMask works with Chrome, Firefox, and Edge. It enables you to use `.eth` domains for doing Ethereum transactions or for accessing content on IPFS.
 - **Access through an ENS gateway:** For those looking for the simplest way to access Web3 content without installing anything new, using an ENS gateway, such as [eth.limo](https://eth.limo/), is the easiest method. This gateway maps ENS domains to DNS, offering direct navigation to Web3 sites like mine at <https://dries.eth.limo/>. It serves as a simple bridge between Web2 (the conventional web) and Web3.
 
-### Streamlining content updates with IPNS
+## Streamlining content updates with IPNS
 
 In [my original post](https://dri.es/my-first-web3-webpage), I highlighted various challenges, such as the limitations for hosting dynamic applications, the cost of updates, and the slow speed of these updates. Although these issues still exist, my initial analysis was conducted with an incomplete understanding of the available technology. I want to delve deeper into these limitations, and refine my previous statements.
 
@@ -157,7 +159,7 @@ With IPNS, updating content involves:
 
 Although IPNS is a faster and more cost-effective approach compared to the original method, it still carries a level of complexity. There is also a minor runtime delay due to the extra redirection step. However, I believe this tradeoff is worth it.
 
-### Updating my Web3 site to use IPNS
+## Updating my Web3 site to use IPNS
 
 With this newfound knowledge, I decided to use IPNS for my own site. I generated an IPNS hash using both the IPFS desktop application (see screenshot) and IPFS' command line tools:
 
@@ -166,17 +168,20 @@ $ ipfs name publish /ipfs/bafybeibbkhmln7o4ud6an4qk6bukcpri7nhiwv6pz6ygslgtsrey2
 > Published to k51qzi5uqu5dgy8mzjtcqvgr388xjc58fwprededbb1fisq1kvl34sy4h2qu1a: /ipfs/bafybeibbkhmln7o4ud6an4qk6bukcpri7nhiwv6pz6ygslgtsrey2c3o3q
 ```
 
-[image blog/publish-to-ipns-from-ipfs-desktop resize=false schema=false]
+![A screenshot of the IPFS Desktop application displaying an HTML file with a drop-down menu option to 'Publish to IPNS'.](http://default/files/cache/blog/publish-to-ipns-from-ipfs-desktop-640w.png)
+*The IPFS Desktop application showing my <code>index.html</code> file with an option to 'Publish to IPNS'.*
 
 After generating the IPNS hash, I was able to visit my site in Brave using the IPFS protocol at `ipfs://bafybeibbkhmln7o4ud6an4qk6bukcpri7nhiwv6pz6ygslgtsrey2c3o3q`, or via the IPNS protocol at `ipns://k51qzi5uqu5dgy8mzjtcqvgr388xjc58fwprededbb1fisq1kvl34sy4h2qu1a`.
 
-[image blog/brave-ipns resize=false schema=false]
+![A browser window displaying a simple "Hello world!" webpage on IPNS.](http://default/files/cache/blog/brave-ipns-640w.png)
+*My Web3 site in Brave using IPNS.*
 
 Next, I updated the ENS record for `dries.eth` to link to my IPNS hash. This change cost me 0.0011 ETH (currently $4.08 USD), as shown in the [Etherscan transaction](https://etherscan.io/tx/0xfc8be3add432e7440478897726eced850087cb8a1f79dcdeb926e575c31e3f8c). Once the transaction was processed, `dries.eth` began directing to the new IPNS address.
 
-[image blog/ipns-record-on-ethereum-name-service resize=false schema=false]
+![A screen confirming an updated content hash for 'dries.eth' on the Ethereum Name Service, with a link to view the transaction on Etherscan.](http://default/files/cache/blog/ipns-record-on-ethereum-name-service-640w.png)
+*A transaction confirmation on the <a href="https://ens.domains/">ENS website</a>, showing a successful update for <code>dries.eth</code>.*
 
-### Rolling back my IPNS record in ENS
+## Rolling back my IPNS record in ENS
 
 Unfortunately, my excitement was short-lived. A day later, `dries.eth` stopped working. IPNS records, it turns out, need to be kept alive – a lesson learned the hard way.
 
@@ -194,7 +199,7 @@ Ultimately, I decided to switch my ENS record back to the original IPFS link. Th
 
 Although IPNS works, or can work, it just didn't work for me. Despite the setback, the whole experience was a great learning journey.
 
-### Web3 remains too complex for most people
+## Web3 remains too complex for most people
 
 Over the past two years, Web3 hosting hasn't disrupted the mainstream website hosting market. Despite the allure of Web3, mainstream website hosting is simple, reliable, and meets the needs of nearly all users.
 
@@ -202,7 +207,7 @@ Despite a significant upgrade of the Ethereum network that [reduced energy consu
 
 As I went through the check-up, I discovered islands of innovation and progress. Wallets and ENS domains got easier to use. However, the overall process of creating a basic website with IPFS and ENS remains relatively complex compared to the simplicity of Web2 hosting.
 
-### The need for a SQL-compatible Web3 database
+## The need for a SQL-compatible Web3 database
 
 Modern web applications like those built with [Drupal](https://www.drupal.org/) and [WordPress](https://wordpress.org/) rely on a technology stack that includes a file system, a domain name system (e.g. DNS), a database (e.g. MariaDB or MySQL), and a server-side runtime environment (e.g. PHP).
 
@@ -212,7 +217,7 @@ A major breakthrough would be the development of a decentralized database that i
 
 After all, blockchains, as decentralized databases, have been in development for over a decade, yet lack support for the SQL language and fall short in speed and efficiency required for dynamic websites.
 
-### The need for a distributed runtime
+## The need for a distributed runtime
 
 Another critical component for modern websites is the runtime environment, which executes the server-side logic of web applications. Traditionally, this has been the domain of PHP, Python, Node.js, Java, etc.
 
@@ -222,13 +227,13 @@ However, when WASM runs on the client-side – i.e. in the browser – it can't 
 
 So for now, Web3's applications are quite limited. While it's possible to host static websites on IPFS, dynamic applications requiring database interactions and server-side processing are difficult to transition to Web3.
 
-### Bridging the gap between Web2 and Web3
+## Bridging the gap between Web2 and Web3
 
 In the short term, the most likely path forward is blending decentralized and traditional technologies. For example, a website could store its static files on IPFS while relying on traditional Web2 solutions for its dynamic features.
 
 Looking to the future, initiatives like [OrbitDB's peer-to-peer database](https://orbitdb.org/), which integrates with IPFS, show promise. However, OrbitDB lacks compatibility with SQL, meaning applications would need to be redesigned rather than simply transferred.
 
-### Web3 site hosting remains niche
+## Web3 site hosting remains niche
 
 Even the task of hosting static websites, which don't need a database or server-side processing, is relatively niche within the Web3 ecosystem.
 
@@ -240,7 +245,7 @@ The key to broader acceptance of new technologies, like Web3, hinges on either d
 
 The popularity of SaaS platforms underscores this point. They dominate not because they're the most resilient or robust options, but because they're the most convenient. Despite the benefits of resilience and autonomy offered by Web3, most individuals opt for less resilient but more convenient SaaS solutions.
 
-### Conclusion
+## Conclusion
 
 Despite the billions invested in Web3 and notable progress, its use for website hosting still has significant limitations.
 

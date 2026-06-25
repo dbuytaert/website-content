@@ -18,12 +18,15 @@ id: 5496
 
 # Acquia's vision and strategy: an integrated ecosystem of world-class products
 
+![Shown on the left are Acquia's marketing products: Campaign Studio, DAM and CDP. Shown on the right are Acquia's IT products: Cloud Platform, CMS and Site Factory.](http://default/files/cache/acquia/product-portfolio-2023-640w.png)
+
 In my previous blog post, I discussed [my vision for the future of marketing technology stacks](https://dri.es/the-future-of-marketing-technology-platforms-plus-point-solutions). I highlighted the growing importance of central content and data stores in delivering relevant customer experiences. Today, I'll delve a bit deeper into how [Acquia](https://www.acquia.com/)'s strategy aligns with these ideas.
 
 Acquia, [the company I co-founded](https://dri.es/acquia-my-drupal-startup), provides a Digital Experience Platform (DXP) to its customers. A DXP is a collection of products that helps you create relevant digital experiences. Acquia's DXP includes a Content Management System (CMS), Digital Asset Management (DAM) solution, Customer Data Platform (CDP), a Marketing Automation solution, and more.
 
 <div class="large">
-  [image acquia/product-portfolio-2023 resize=false]
+  ![Shown on the left are Acquia's marketing products: Campaign Studio, DAM and CDP. Shown on the right are Acquia's IT products: Cloud Platform, CMS and Site Factory.](http://default/files/cache/acquia/product-portfolio-2023-640w.png)
+*Acquia's product portfolio in 2023.*
 </div>
 
 In the world of DXPs, organizations usually don't purchase all the products in a DXP at once. Instead, it's more common to acquire one product at a time, and to acquire them as needed.

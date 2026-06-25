@@ -28,7 +28,7 @@ When you develop Drupal sites locally, Activepieces Cloud can't reach them. You 
 
 Instead, we can run an open source copy of Activepieces locally using [Docker](https://www.docker.com/). This gives you a fully configured Activepieces instance that can communicate directly with your local [Drupal](https://www.drupal.org/) site. You can get up and running in just a few minutes with a single command.
 
-### Contributing to the Drupal Piece
+## Contributing to the Drupal Piece
 
 In Activepieces, a *Piece* is an integration that connects to an external application or service. I helped build the original [Drupal Piece](https://www.activepieces.com/pieces/drupal), which now ships with Activepieces out of the box. It lets you create workflows that move data between Drupal and other applications.  
 
@@ -38,7 +38,7 @@ To make changes to Activepieces, including the Drupal Piece, you'll need to [set
 
 However, if your goal is simply to run Activepieces locally and connect it to your Drupal site, the Docker setup below is all you need.  
 
-### Run Activepieces locally with Docker 
+## Run Activepieces locally with Docker 
 
 This one-line command will download and run Activepieces on your computer:
 
@@ -58,7 +58,7 @@ This might take a couple of minutes to boot up the container and get Activepiece
 
 To start using Activepieces with your Drupal site, you still need to connect them. See my guide on [connecting Drupal with Activepieces](https://dri.es/connecting-drupal-with-activepieces).
 
-### Upgrading the Activepieces Docker container
+## Upgrading the Activepieces Docker container
 
 Activepieces regularly releases new versions. The Docker instance on your local machine does not update itself automatically, so you'll want to manually upgrade it from time to time.
 

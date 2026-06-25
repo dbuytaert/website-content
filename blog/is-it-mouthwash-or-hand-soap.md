@@ -25,7 +25,8 @@ The Yale Club of NYC with its twenty-two stories is without doubt the most impre
 
 This was the location for the first [Drupal Business Summit run by Acquia](http://revolution2010.acquia.com/). The Summit brought together business leaders from many leading companies, including a number of CIOs and Vice Presidents from public companies.
 
-[image new-york-2010/drupal-business-summit-reception-1]
+![A group of people in business attire networking and conversing at a reception in a library setting.](http://default/files/cache/new-york-2010/drupal-business-summit-reception-1-640w.jpg)
+*Picture taken in the library of the Yale Club at the reception of the Drupal Business Summit.*
 
 Despite my *faux pas* while washing my hands, the event was a nice reminder for me that Drupal has made its way to many large global organizations and is on the radar for business executives in a way it has never been before.
 

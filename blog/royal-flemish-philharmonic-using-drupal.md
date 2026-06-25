@@ -20,4 +20,4 @@ id: 283
 
 The website of the [Royal Flemish Philharmonic](http://defilharmonie.be) is now using Drupal. The concept and design work was done by [Internet Architects](https://www.internetarchitects.be/), the implementation itself by [dotProjects](http://www.dotprojects.be/). *Another Belgian Drupal site!*
 
-[image drupal/defilharmonie]
+![A website for deFilharmonie promotes the 07/08 concert season, featuring classical music performances and subscription options.](http://default/files/cache/drupal/defilharmonie-640w.jpg)

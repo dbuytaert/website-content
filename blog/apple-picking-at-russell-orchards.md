@@ -20,6 +20,6 @@ id: 1081
 
 We had our very first apple picking experience today. We went to [Russell Orchards](https://www.russellorchards.com/) and saw a 1,000 pound pig (no kidding, the biggest pig I have ever seen), picked apples, ate some amazing home-made cider donuts, played in the play garden and took a hayride. *Couldn't have been any nicer!*
 
-[image beverly-farms-2009/russell-orchards-apple-picking-2]
-[image beverly-farms-2009/russell-orchards-apple-picking-4]
-[image beverly-farms-2009/russell-orchards-apple-picking-3]
+![A ripe red apple hanging from a tree branch, surrounded by green leaves at an orchard.](http://default/files/cache/beverly-farms-2009/russell-orchards-apple-picking-2-640w.jpg)
+![A young child reaches for a ripe apple on a tree while apple picking at Russell Orchards.](http://default/files/cache/beverly-farms-2009/russell-orchards-apple-picking-4-640w.jpg)
+![Two ripe, dark red apples hanging from a tree branch with green leaves at an orchard.](http://default/files/cache/beverly-farms-2009/russell-orchards-apple-picking-3-640w.jpg)

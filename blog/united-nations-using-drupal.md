@@ -18,4 +18,6 @@ id: 158
 
 # United Nations using Drupal
 
+![United nations fight hunger](http://default/files/images/drupal/united-nations-fight-hunger.jpg)
+
 [Fight Hunger](https://www.fighthunger.org/) is an initiative organized by the [United Nations](http://en.wikipedia.org/wiki/United_Nations) and its partners. Their goal is to end child hunger by 2015. Jose A. Reyero, a long-time Drupal developer, is part of [the Fight Hunger team](https://www.fighthunger.org/about_team) and helps them with their Drupal site at [fighthunger.org](https://fighthunger.org).

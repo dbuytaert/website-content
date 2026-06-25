@@ -21,7 +21,7 @@ id: 4956
 
 I decided to use the holiday break to do a link audit for [my personal blog](https://dri.es). I found hundreds of links that broke and hundreds of links that now redirect. This wasn't a surprise, as I haven't spent much time maintaining links in the 13 years I've been blogging.
 
-### Broken links
+## Broken links
 
 Some of the broken links were internal, but the vast majority were external.
 
@@ -33,7 +33,7 @@ For example, in 2007 [I thanked Sun Microsystems for donating a Sun Fire X4200 s
 
 Some sites that I link to have since been hijacked by porn sites. The URL used for Hillary Clinton's 2008 campaign website now points to a porn site, for example. This is unfortunate so I simply removed those links.
 
-### Redirects
+## Redirects
 
 Some of the external links now have [URL redirects](https://en.wikipedia.org/wiki/URL_redirection). I found what I call "obvious redirects" and "less obvious redirects".
 
@@ -41,7 +41,7 @@ An example of an "obvious redirect" was a link to Apple's pressroom. In my [2015
 
 The more interesting case is what I call "less obvious redirects". For example, in 2012 I blogged about how the [White House contributed to Drupal](https://dri.es/white-house-contributes-to-drupal). It was the first time in history that the White House contributed to Open Source, and Drupal in particular. It's something that many of us in the Drupal community are very proud of. In my blog post, I linked to `http://www.whitehouse.gov/blog/2012/08/23/open-sourcing-we-the-people`, a page on `whitehouse.gov` explaining their decision to contribute. That link now redirects to `http://obamawhitehouse.archives.gov/blog/2012/08/23/open-sourcing-we-the-people`, a permanent archive of the Obama administration's White House website. For me, it is less obvious what to do about this link: updating the link future proofs my site, but at the cost of losing some of its significance and historic value. For now, I left the original `whitehouse.gov` link in place.
 
-### How to best care for old links?
+## How to best care for old links?
 
 I'm not entirely sure why I picked the Wikipedia link over archive.org when I updated the Sun Fire X4200 blog post, or why I left the original whitehouse.gov link in place. I also left many broken links in place because I'm undecided about what to do with them.
 

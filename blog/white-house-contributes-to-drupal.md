@@ -27,10 +27,10 @@ White House Director of Digital Strategy Macon Phillips explains the move in [a 
 
 In October of 2009, [WhiteHouse.gov was relaunched on Drupal](https://dri.es/whitehouse-gov-using-drupal). Two years later, the White House launched [We the People](https://www.whitehouse.gov/petitions) on [Drupal](https://www.drupal.org), a big step forward for Open Government. While governments haven't traditionally recognized the importance of the grassroots, word of mouth organizing that thrives on the Internet, [We the People](https://www.whitehouse.gov/petitions) encourages grassroots citizen engagement.
 
-[image drupal/we-the-people]
+![A government website encouraging citizens to create and sign petitions on important issues.](http://default/files/cache/drupal/we-the-people-640w.jpg)
 
 Even more exciting is that if you are an Open Source developer, you can get involved with improving how your government actually works. Needless to say, I'm thrilled to see Open Source and Drupal changing the world in a positive, powerful way.
 
 The newly released code is packaged as a [Drupal install profile](https://dri.es/drupal-distributions). The profile is currently tailored to the White House's website but every Github member can issue pull requests to make it more generally useful. The [Petition install profile](https://github.com/whitehouse/petition) can be cloned, forked or downloaded from the [White House's Github repository](https://github.com/WhiteHouse).
 
-[image drupal/whitehouse-github]
+![GitHub repository for the White House petition system using Drupal, showing recent commits and project files.](http://default/files/cache/drupal/whitehouse-github-640w.jpg)

@@ -22,6 +22,8 @@ id: 365
 
 # Acquia, my Drupal startup
 
+![Acquia.com's homepage as captured in March 2008.](http://default/files/cache/acquia/acquia-com-march-2008-640w.jpg)
+
 Big news today! I'm doing a Drupal startup.
 
 The [Drupal community](https://www.drupal.org) does an incredible job building the Drupal technology and making sure that Drupal is on the forefront of the technical innovation. The [Drupal Association](https://association.drupal.org) does a great job supporting and protecting that community by improving our server infrastructure, by organizing Drupal conferences, by helping to protect the Drupal trademark. Last but not least, the Drupal consultants do an outstanding job developing websites and training people to use Drupal. Together we managed to create an incredibly successful project.
@@ -30,7 +32,7 @@ However, one piece is missing. Before we go there, let me provide a little more 
 
 I've been spending a lot of time thinking about the future of the web, and the future of Drupal in particular. I've also increasingly been spending time on what I want to do after I'm done with [my PhD work](https://dri.es/tag/phd-research). Since the two of those are coming together shortly, it's time for me to start blogging about the next stages of Drupal, and my life.
 
-### The vision
+## The vision
 
 First, Drupal 6 and Drupal 7 should be all about [reaching out to more and different people](https://dri.es/reaching-out-with-drupal-6). Making Drupal easier to use, easier to theme, easier to translate, and easier to develop for. Drupal 6 will do exactly that, and with Drupal 7 we should [maintain that strategy](https://dri.es/suggestions-for-drupal-core). We want to make Drupal the best web content management platform; "the Linux of the web".
 
@@ -40,7 +42,7 @@ Second, with the rise of [Facebook](http://facebook.com), [Open Social](https://
 
 Third, when I examine the landscape of Open Source projects that have had big impact on the technology industry, I've concluded that projects which have had the biggest impact (usually) have a well-capitalized company behind them. Jboss, Linux and MySQL have all benefited not only technically, but the presence of a well-capitalized provider for those projects has made those projects palatable to users who might not have otherwise tried the software.
 
-### The company
+## The company
 
 So what is missing? It's two things: (i) a company that supports me in providing leadership to the Drupal community in exploring the vision I described above, and (ii) a company that is to Drupal what Ubuntu or RedHat are to Linux. If we want Drupal to grow by at least a factor of 10, keeping Drupal a hobby project as it is today, and taking a regular programming job at a big Belgian bank is clearly not going to cut it.
 
@@ -48,7 +50,7 @@ Thus, I'm starting a Drupal company whose current working name is 'Acquia'. Acqu
 
 I was fortunate enough to meet an experienced CEO, Jay Batson, that I have come to like and trust, who managed to translate this vision into a business plan and who can complement my technical strength and community management skills with business experience in running Open Source software companies. (The last company Jay started was [Pingtel](http://www.pingtel.com), and Open Source enterprise-scale IP PBX, recently acquired by [Bluesocket](http://www.bluesocket.com).) Jay has been invaluable so far.
 
-### The inevitable fear
+## The inevitable fear
 
 Well, fear not.
 
@@ -60,7 +62,7 @@ Furthermore, I'm expressly permitted to make decisions within the Drupal project
 
 The community has my heart and respect, and that won't change. Fear not.
 
-### Conclusions
+## Conclusions
 
 So rather than working on Drupal in my spare time, I will soon have the time and resources to provide the leadership it takes to help get Drupal to the next level. I'm looking forward to leading the many thousands of you to the next step of this incredible adventure. It's been a little bit hard for me to not say anything about this before - mostly because I'm so excited about it. But it didn't make business sense to speak about this effort until it was for-real. Now that it is, I'm much happier that I can talk about it, because I want to think together with all of you about how we can make it a really really good thing for Drupal.
 

@@ -20,4 +20,4 @@ id: 352
 
 The [official website from Avril Lavigne](https://avrillavigne.com/) is now using [Drupal](https://www.drupal.org). The website was built by her label [RCA records](https://www.rcarecords.com/), which is part of [Sony BMG Music Entertainment](http://sonybmg.com).
 
-[image drupal/avril-lavigne]
+![A website featuring Avril Lavigne with a banner image, merchandise, and a video still of her performing.](http://default/files/cache/drupal/avril-lavigne-640w.jpg)

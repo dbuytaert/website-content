@@ -15,6 +15,6 @@ id: 2901
 
 # Coldplay - Fix you
 
-[video SKrceZxL8r8]
+https://www.youtube.com/watch?v=SKrceZxL8r8
 
 This is another powerful and tearful song from Coldplay that is [a favorite of mine](/tag/favorite-music). One of the most beautiful lyrics ever written.

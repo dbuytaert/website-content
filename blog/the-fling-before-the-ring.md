@@ -18,5 +18,5 @@ id: 36
 
 Two pictures taken at my bachelor party last weekend. It was a blast! Thanks for the memorable day guys! Talking to some of you, it looks like we all felt totally wiped out the day after. Hope you all feel a little livelier by now. I might post more pictures from my bachelor party **after** she said 'yes'. ;)
 
-[image miscellaneous-2006/my-bachelor-party-1]
-[image miscellaneous-2006/my-bachelor-party-2]
+![A blindfolded man in a red sequined outfit raises one arm and smiles during his bachelor party.](http://default/files/cache/miscellaneous-2006/my-bachelor-party-1-640w.jpg)
+![Three men in suits stand outside, laughing together during a bachelor party.](http://default/files/cache/miscellaneous-2006/my-bachelor-party-2-640w.jpg)

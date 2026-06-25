@@ -24,5 +24,5 @@ Notable was also that quite a few people that I have talked to feel somewhat dis
 
 All in all, I had a great time in Brisbane! I'm in Melbourne now for meetings (and writing this blog post in between two meetings), and later this week I'll be in Sydney too. All meetings combined, it should give me a good take on the state of Drupal in Oz. I'll keep you posted.
 
-[image australia-2011/drupal-downunder-conference-1]
-[image australia-2011/drupal-downunder-conference-2]
+![A large audience attentively listens during the Drupal Downunder conference in Australia, 2011.](http://default/files/cache/australia-2011/drupal-downunder-conference-1-640w.jpg)
+![People wearing conference badges are gathered at outdoor tables, eating and talking during the Drupal Downunder conference in 2011.](http://default/files/cache/australia-2011/drupal-downunder-conference-2-640w.jpg)

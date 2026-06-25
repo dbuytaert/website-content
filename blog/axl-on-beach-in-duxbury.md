@@ -19,4 +19,6 @@ id: 2171
 
 # Axl on beach in Duxbury
 
+![A young child in a jacket and boots stands on a sandy beach, smiling near the water.](http://default/files/cache/miscellaneous-2011/axl-on-beach-in-duxbury-640w.jpg)
+
 

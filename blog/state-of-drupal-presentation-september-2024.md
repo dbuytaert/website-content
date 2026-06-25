@@ -22,20 +22,23 @@ id: 5686
 
 # State of Drupal presentation (September 2024)
 
+![Opening slide of my keynote presentation. The slide reads "DriesNote, DrupalCon Barcelona, September 24th 2024".](http://default/files/cache/drupalcon-barcelona-2024/driesnote-640w.png)
+
 Approximately 1,100 Drupal enthusiasts gathered in Barcelona, Spain, last week for DrupalCon Europe. As per tradition, I delivered my [State of Drupal](https://dri.es/tag/state-of-drupal) keynote, often referred to as the "DriesNote".
 
 If you missed it, you can [watch the video](https://www.youtube.com/watch?v=nhPiL4g972A) or [download my slides](https://dri.es/files/state-of-drupal-september-2024.pdf) (177 MB).
 
-[video nhPiL4g972A]
+https://www.youtube.com/watch?v=nhPiL4g972A
 
 In my keynote, I gave an update on [Drupal Starshot](https://dri.es/tag/drupal-starshot), an ambitious initiative we launched at [DrupalCon Portland 2024](https://dri.es/state-of-drupal-presentation-may-2024). Originally called Drupal Starshot, inspired by [President Kennedy's Moonshot challenge](https://en.wikipedia.org/wiki/We_choose_to_go_to_the_Moon), the product is now officially named [Drupal CMS](https://dri.es/drupal-cms-the-official-name-for-drupal-starshot).
 
 The goal of Drupal CMS is to set the standard for no-code website building. It will allow non-technical users, like marketers, content creators, and site builders, to create digital experiences with ease, without compromising on the power and flexibility that Drupal is known for.
 
-### A four-month progress report
+## A four-month progress report
 
 <div class="large">
-  [image drupalcon-barcelona-2024/drupal-org-preview]
+  ![A screenshot of the new Drupal.org's front page.](http://default/files/cache/drupalcon-barcelona-2024/drupal-org-preview-640w.png)
+*A preview of Drupal.org's front page with the updated Drupal brand and content.*
 </div>
 
 While Kennedy gave NASA eight years, I set a goal to deliver the first version of Drupal CMS in just eight months. It's been four months since DrupalCon Portland, which means we're halfway through.
@@ -64,7 +67,7 @@ Attendees were especially excited about the AI capabilities, Experience Builder,
 
 Many of these features are designed with non-developers in mind. Our goal is to broaden Drupal's reach beyond its traditional user base and reach more people than ever before.
 
-### Release schedule
+## Release schedule
 
 Our launch plan targets Drupal CMS's release on Drupal's upcoming birthday: January 15, 2025. It's also just a couple of weeks after the [Drupal 7 End of Life](https://www.drupal.org/association/blog/drupal-7-end-of-life-officially-announced-for-5-january-2025), marking the end of one era and the beginning of another.
 
@@ -72,11 +75,11 @@ The next milestone is [DrupalCon Singapore](https://events.drupal.org/singapore2
 
 Now that we're back from DrupalCon and have key milestone dates set, there is a lot to coordinate and plan in the coming weeks, so stay tuned for updates.
 
-### Call for contribution
+## Call for contribution
 
 Ambitious? Yes. But achievable if we work together. That's why I'm calling on all of you to get involved with Drupal CMS. Whether it's building recipes, enhancing the Experience Builder, creating AI agents, writing tests, improving documentation, or conducting usability testing – there are countless ways to contribute and make a difference. If you're ready to get involved, visit <https://drupal.org/starshot> to learn how to get started.
 
-### Thank you
+## Thank you
 
 This effort has involved so many people that I can't name them all, but I want to give a huge thank you to the Drupal CMS Leadership Team, who I've been working with closely every week: [Cristina Chumillas](https://www.drupal.org/u/ckrina) (Lullabot), [Gábor Hojtsy](https://www.drupal.org/u/g%C3%A1bor-hojtsy) (Acquia), [Lenny Moskalyk](https://www.drupal.org/u/lenny-moskalyk) (Drupal Association), [Pamela Barone](https://www.drupal.org/u/pameeela) (Technocrat), [Suzanne Dergacheva](https://www.drupal.org/u/pixelite) (Evolving Web), and [Tim Plunkett](https://www.drupal.org/u/timplunkett) (Acquia).
 

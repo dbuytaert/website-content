@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/birdy-skinny-love'
-title: 'Birdy - Skinny love '
+title: 'Birdy - Skinny love'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -13,8 +13,8 @@ published: true
 id: 2681
 ---
 
-# Birdy - Skinny love 
+# Birdy - Skinny love
 
-[video aNzCDt2eidg]
+https://www.youtube.com/watch?v=aNzCDt2eidg
 
 One of my favorite songs of the past 6 months. So pure.

@@ -18,6 +18,8 @@ id: 6076
 
 # Drupal CMS 2.0 released
 
+![Graphic with the text "Drupal CMS 2.0 released" next to the Drupal logo in bold colors.](http://default/files/cache/blog/drupal-cms-2-released-640w.png)
+
 Today we released Drupal CMS 2.0. I've been looking forward to this release for a long time!
 
 If [Drupal is 25 years old](https://dri.es/25-years-of-drupal-what-i-have-learned), why only version 2.0? Because [Drupal Core](https://www.drupal.org/project/drupal) is the same powerful platform you've known for years, now at version 11. [Drupal CMS](https://www.drupal.org/project/cms) is a product built on top of it, packaging best-practice solutions and extra features to help you get started faster.  It was launched a year ago as part of [Drupal Starshot](https://dri.es/introducing-drupal-starshot-product-strategy).

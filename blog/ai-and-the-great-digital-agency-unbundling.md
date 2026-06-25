@@ -22,6 +22,8 @@ id: 5846
 
 # AI and the great digital agency unbundling
 
+![Two small figures watch a massive vessel launch, symbolizing digital agencies witnessing the AI transformation of their industry.](http://default/files/cache/blog/great-digital-agency-unbundling-640w.jpg)
+
 > "To misuse a woodworking metaphor, I think we're experiencing a shift from hand tools to power tools. You still need someone who understands the basics to get good results from the tools, but they're not chiseling fine furniture by hand anymore. They're throwing heaps of wood through the tablesaw instead. More productive, but more likely to lose a finger if you're not careful."
 > – mrmincent, [Hacker News comment on Claude Code](https://news.ycombinator.com/item?id=44431095), via [Simon Willison](https://simonwillison.net/2025/Jul/1/mrmincent/)
 
@@ -41,7 +43,7 @@ If you are feeling uncertain about where this is heading, you are not alone.
 
 <section class="note">This post is a companion to <a href="https://dri.es/ai-and-the-great-cms-unbundling">AI and the great CMS unbundling</a>. That post looks at AI's impact on <em>content management systems</em> and <em>digital experience platforms</em>. This one looks at the same unbundling pattern in the <em>digital agency market</em>.</section>
 
-### Why I am writing this
+## Why I am writing this
 
 I am _not_ writing this to be an alarmist. I actually feel a mix of emotions. I am excited about the possibilities AI offers, but also concerned about the risks and uneasy about the speed and scale of change.
 
@@ -59,7 +61,7 @@ But this post isn't just for the Drupal community. It's for anyone working in or
 
 If you are thinking about how AI is affecting your work, whether in the Drupal ecosystem or elsewhere, I would love to hear from you. The more we share ideas, concerns, and experiments, the better prepared we will all be to shape this next chapter together.
 
-### The current downturn is real, but will pass
+## The current downturn is real, but will pass
 
 Before diving into AI, I'd be remiss not to acknowledge the current economic situation. Agencies across all platforms, not just those working with Drupal, are experiencing challenging market conditions, especially in the US and parts of Europe.
 
@@ -67,7 +69,7 @@ While much of the industry is focused on AI, the immediate pain many agencies ar
 
 As difficult as this is, it is not new. Economic cycles and political uncertainty have always come and gone. What makes this moment different is not the current downturn, but what comes next.
 
-### AI will transform the industry at an accelerating pace
+## AI will transform the industry at an accelerating pace
 
 AI has not yet reshaped agency work in a meaningful way, but that change is knocking at the door. At the current pace of progress, web development and digital agency work are on the verge of the most significant disruption since the rise of the internet.
 
@@ -91,7 +93,7 @@ Adding to the challenge, adopting AI requires investment at a moment when many a
 
 Still, moments like this can create major opportunities. In past downturns, technology shifts made room for new players and helped established firms reinvent themselves. The key is recognizing that this is not just about learning new tools. It is about positioning yourself where human judgment, relationships, and accountability for outcomes remain essential, even as AI takes on more of the execution.
 
-### The diminishing value of platform expertise alone
+## The diminishing value of platform expertise alone
 
 For years, CMS-focused agencies have built their businesses on deep platform expertise. Clients relied on them for custom development, performance tuning, security, and infrastructure. This specialized knowledge commanded a premium.
 
@@ -105,7 +107,7 @@ In other words, AI erodes the commercial value of platform expertise by making m
 
 AI is raising the bar again. Once more, agencies need to move further up the stack. And they need to do it faster than before.
 
-### The pattern of professional survival
+## The pattern of professional survival
 
 This is not the first time professionals have faced a major shift. Throughout history, every significant technological change has required people to adapt.
 
@@ -121,7 +123,7 @@ I have lived through multiple waves of technological change. I witnessed the ris
 
 Each transition brought real uncertainty. In the moment, the risks felt immediate and the disruption felt personal. But over time, these shifts consistently led to new forms of prosperity, new kinds of work, and new ways to create value.
 
-### The great agency unbundling
+## The great agency unbundling
 
 AI can help agencies streamline how they work today, but when major technology shifts happen, success rarely comes from becoming more efficient at yesterday's model.
 
@@ -133,7 +135,7 @@ AI is now _unbundling_ that model. It separates work based on what can be automa
 
 At the same time, it is _rebundling_ services around different principles, such as speed, specialization, measurable outcomes, accountability, and the value of human judgment.
 
-### The accountability gap
+## The accountability gap
 
 As AI automates routine tasks, execution becomes commoditized. But human expertise takes on new dimensions. Strategic vision, domain expertise, and cross-industry insights remain difficult to automate.
 
@@ -145,7 +147,7 @@ The tools may be automated, but responsibility for mistakes and results remains 
 
 This accountability gap between what AI can produce and what organizations will accept liability for creates lasting space for human expertise.
 
-### The rise of orchestration platforms
+## The rise of orchestration platforms
 
 Beyond human judgment, a new architectural pattern is emerging. Traditional Digital Experience Platforms (DXPs) excel at managing complex content, workflows, and integrations within a unified system. But achieving sophisticated automation often requires significant custom development, long implementation cycles, and deep platform expertise.
 
@@ -155,13 +157,13 @@ But moving from prototype to production requires deep expertise. It involves arc
 
 This orchestration capability represents a new technical high ground. Agencies that master this expanded stack can deliver solutions faster while maintaining the reliability and scalability that enterprises require.
 
-### Six strategies for how agencies could evolve
+## Six strategies for how agencies could evolve
 
 Agencies need two types of strategies: ways to compete better in today's model and ways to position for the restructured system that's emerging.
 
 The strategies that follow are not mutually exclusive. Many agencies will combine elements from several based on their strengths, clients, and markets.
 
-#### Competing in today's market
+### Competing in today's market
 
 **1. Become AI-augmented, not AI-resistant.** To stay competitive, agencies should explore how AI can improve efficiency across their entire operation. Developers should experiment with code assistants, project managers should use AI to draft updates and reports, and sales teams should apply it to lead qualification or proposal writing. The goal is not to replace people, but to become more effective at handling fast-paced, low-cost work while creating more space for strategic, value-added thinking.
 
@@ -169,7 +171,7 @@ The strategies that follow are not mutually exclusive. Many agencies will combin
 
 **3. Sell through consultation, not execution.** As technology changes faster than most clients can keep up with, agencies have a chance to step into a more consultative role. Instead of just delivering projects, they can help clients understand their problems and shape the right solutions. Agencies that combine technical know-how with business insight can become trusted partners, especially as clients look for clarity and results.
 
-#### Positioning for what comes next
+### Positioning for what comes next
 
 **4. Become the layer between AI and clients.** Don't just use AI tools to build websites faster. Position yourself as the essential layer that connects AI capabilities with real client needs. This means building quality control systems that review AI-generated code before deployment and becoming the trusted partner that translates AI possibilities into measurable results. Train your team to become "AI translators" who can explain technical capabilities in business terms and help clients understand What is worth automating versus what requires human judgment.
 
@@ -181,7 +183,7 @@ For example, a website might automatically generate social media posts from new 
 
 This opportunity feels significant. As marketing stacks grow more complex and AI capabilities expand, someone needs to coordinate how these systems work together in a structured and intelligent way. This is not just about connecting APIs. It is about designing responsive, event-driven systems using low-code orchestration tools, automation platforms, and AI agents.
 
-### Open Source needs agencies, proprietary platforms don't
+## Open Source needs agencies, proprietary platforms don't
 
 Every AI feature a technology platform adds potentially takes work off the agency's plate. Whether the platform is Open Source or proprietary, each new capability reduces the need for custom development.
 
@@ -199,7 +201,7 @@ This creates a fundamental difference in how platforms may evolve.  Proprietary 
 
 For digital agencies, one key question stands out: do you want to work with platforms that grow by replacing you, or with platforms that grow by supporting you?
 
-### Looking ahead
+## Looking ahead
 
 Digital agencies face a challenging but exciting transition. While some platform expertise is becoming commoditized, entirely new categories of value are emerging.
 

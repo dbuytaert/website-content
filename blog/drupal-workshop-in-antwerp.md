@@ -21,5 +21,7 @@ Two pictures taken at the [free Drupal workshop in Antwerp](https://dri.es/my-fi
 
 As one of the teachers, I had good fun and actually learned a lot about teaching Drupal. It gave me fresh perspectives on how we can continue to improve the Drupal experience. *We have work to do!*
 
-[image drupal-workshop-antwerp-2007/fresh-converts]
-[image drupal-workshop-antwerp-2007/roel-de-meester]
+![Three people sit at a table with laptops, attentively discussing something on the screen during a workshop.](http://default/files/cache/drupal-workshop-antwerp-2007/fresh-converts-640w.jpg)
+*Fresh converts!*
+![A man with dark curly hair speaks while looking ahead in an indoor setting.](http://default/files/cache/drupal-workshop-antwerp-2007/roel-de-meester-640w.jpg)
+*Organizer and co-teacher, Roel De Meester.*

@@ -20,4 +20,4 @@ id: 455
 
 RTBF, the national broadcasting organization of the French-speaking part of Belgium, switched to [Drupal](https://www.drupal.org). See <http://www.rtbf.be>. Personally, I'm not a huge fan of the design but it must be one of the biggest Drupal deployments in Belgium. The site was built by [One Agency](https://www.ausy.be/). (Hat tip: [Kristof De Jaeger](https://realize.be/blog/rtbf-drupal).)
 
-[image drupal/rtbf]
+![A news website homepage featuring headlines, images, and videos about protests in Brussels, politics, and international events.](http://default/files/cache/drupal/rtbf-640w.jpg)

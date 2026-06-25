@@ -20,6 +20,8 @@ id: 6131
 
 # What it costs to run Drupal's infrastructure
 
+![Silhouette of a person standing before a large circular portal surrounded by glowing screens and cables, suggesting complex digital infrastructure.](http://default/files/cache/blog/complex-infrastructure-640w.jpg)
+
 Yesterday I wrote about [how Open Source infrastructure across many ecosystems is fragile and underfunded](https://dri.es/open-source-infrastructure-deserves-a-business-model). 
 
 Drupal is no exception.

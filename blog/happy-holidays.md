@@ -17,4 +17,6 @@ id: 194
 
 # Happy holidays
 
+![A person taking a photo is reflected in a shiny gold Christmas ornament hanging on a decorated tree.](http://default/files/cache/miscellaneous-2006/happy-holidays-640w.jpg)
+
 

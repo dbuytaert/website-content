@@ -16,6 +16,6 @@ id: 1716
 
 # Moving boxes
 
-[image boston-move-2010/boxes-2]
-[image boston-move-2010/lamps]
-[image boston-move-2010/boxes-1]
+![Stacked and labeled moving boxes in a dimly lit space, prepared for relocation.](http://default/files/cache/boston-move-2010/boxes-2-640w.jpg)
+![Two metal floor lamps with adjustable necks stand in front of a green padded background.](http://default/files/cache/boston-move-2010/lamps-640w.jpg)
+![Stacked moving boxes labeled with contents like clothes, books, and bathroom supplies, marked with numbers for organization.](http://default/files/cache/boston-move-2010/boxes-1-640w.jpg)

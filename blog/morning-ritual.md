@@ -20,4 +20,6 @@ id: 358
 
 # Morning ritual
 
+![A baby lies between two parents on a bed, holding their hands and looking at the camera.](http://default/files/cache/axl-2007/morning-ritual-640w.jpg)
+
 

@@ -20,19 +20,20 @@ id: 3816
 
 Last week Acquia announced a partnership with Magento. I wanted to use this opportunity to explain why I am excited about this. I also want to take a step back and share what I see is a big opportunity for both Drupal, Acquia and commerce platforms.
 
-### State of the commerce market
+## State of the commerce market
 
 First, it is important to understand what is one of the most important market trends in online commerce: consumers are demanding better experiences when they shop online. In particular, commerce teams are looking to leverage vastly greater levels of content throughout the customer's shopping journey - editorials, lookbooks, tutorials, product demonstration videos, mood videos, testimonials, etc.
 
-[image blog/content-and-commerce-1 resize=false]
+![Two computer screens compare old commerce, showing a shoe catalog, with new content-driven commerce featuring a branded lifestyle image.](http://default/files/cache/blog/content-and-commerce-1-640w.gif)
 
 At the same time, commerce platforms have not added many tools for rich content management. Instead they have been investing in capabilities needed to compete in the commerce market; order management systems (OMS), omnichannel shopping (point of sale, mobile, desktop, kiosk, etc), improved product information management (PIM) and other vital commerce capabilities. The limited investment in content management capabilities has left merchants looking for better tools to take control of the customer experience, something that Drupal addresses extremely well.
 
 To overcome the limitations that today's commerce platforms have with building content-rich shopping experiences, organizations want to integrate their commerce platform with a content management system (CMS). Depending on the situation, the combined solution is architected for either system to be "the glass", i.e. the driver of the shopping experience.
 
-[image blog/content-and-commerce-2 resize=false]
+![Lush.](http://default/files/cache/blog/content-and-commerce-2-640w.gif)
+*Lush.com is a nice example of a content-rich shopping experience built with Drupal and Drupal Commerce.*
 
-### Drupal's unique advantage for commerce
+## Drupal's unique advantage for commerce
 
 Drupal is unique in its ability to easily integrate into ambitious commerce architectures in precisely the manner the brand prefers. We are seeing this first hand at Acquia. We have helped many customers implement a "Content for Commerce" strategy where Acquia products and Drupal were integrated with an existing commerce platform. Those integrations spanned commerce platforms including IBM WebSphere Commerce, Demandware, Oracle/ATG, SAP/hybris, Magento and even custom transaction platforms. Check out Quicken (Magento), Puma (Demandware), Motorola (Broadleaf Commerce), Tesla (custom to order a car, and Shopify to order accessories) as great examples of Drupal working with commerce platforms.
 
@@ -44,7 +45,7 @@ This year's "State of Retailing Online" series asked retailers and brands to pri
 
 The market trends, customer use cases and survey data make me believe that (1) there are hundreds of thousands of existing commerce sites that would prefer to have a better shopping experience and (2) that many of those organizations prefer to keep their commerce backend untouched while swapping out the shopping experience.
 
-### Acquia's near-term commerce strategy
+## Acquia's near-term commerce strategy
 
 There is a really strong case to be made for a best-of-breed approach where you choose and integrate the best software from different vendors. Countless point solutions exist that are optimized for narrow use cases (e.g. mobile commerce, marketplaces and industry specific solutions) as well as solutions optimized for different technology stacks (e.g. Reaction Commerce is JavaScript-based, Magento is PHP-based, Drupal Commerce is Drupal-based).
 
@@ -54,7 +55,7 @@ There are over 250,000 commerce sites built with Magento and many of these organ
 
 We're keen to partner with other commerce platforms as well. In fact, Acquia has existing partnerships with SAP/hybris, Demandware, Elastic Path and Commerce Tools.
 
-### Conclusion
+## Conclusion
 
 Global brands are seeing increased opportunity to sell direct to consumers and want to build content-rich shopping journeys, and merchants are looking for better tools to take control of the customer experience.
 

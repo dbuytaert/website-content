@@ -48,7 +48,7 @@ vendor/bin/rector process web/modules/custom \
   --config drupal-digests/rector/all.php --dry-run
 ```
 
-### Example
+## Example
 
 Take Drupal's modernization of the [`$entity->original` property](https://www.drupal.org/node/3571065), which exposed the unchanged copy of an entity. Drupal 11.2 deprecated the property in favor of explicit `$entity->getOriginal()` and `$entity->setOriginal()` methods. The old property will be removed in Drupal 12 so various module maintainers have to update their code.
 

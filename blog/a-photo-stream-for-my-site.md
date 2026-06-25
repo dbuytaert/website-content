@@ -21,6 +21,8 @@ id: 5381
 
 # A photo stream for my site
 
+![A underground subway tunnel with an incoming train.](http://default/files/cache/miscellaneous-2022/train-1-640w.jpg)
+
 It's no secret that I don't like using Facebook, Instagram or Twitter as my primary platform for sharing photos and status updates. I don't trust these platforms with my data, and I don't like that they track my friends and family each time I post something.
 
 For those reasons, I set a personal challenge in 2018 to [take back control over my social media, photos and more](https://dri.es/taking-control-of-my-data-and-social-media). As a result, [I quit Facebook](https://dri.es/pulling-the-plug-on-facebook) and stopped using [Twitter](https://twitter.com/Dries) for personal status updates. I still use Twitter for [Drupal](https://www.drupal.org/)-related updates.

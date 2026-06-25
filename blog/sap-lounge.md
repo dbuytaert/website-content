@@ -18,4 +18,6 @@ id: 149
 
 # SAP Lounge
 
+![A row of red flowers in wall-mounted vases leads to three colorful refrigerators under a chandelier.](http://default/files/cache/drupalcon-brussels-2006/sap-lounge-1-640w.jpg)
+
 

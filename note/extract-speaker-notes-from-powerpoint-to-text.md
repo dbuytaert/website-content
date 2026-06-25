@@ -25,7 +25,7 @@ Since I use Apple Keynote or Google Slides rather than Microsoft PowerPoint, I f
 
 If you've ever needed to pull speaker notes from a presentation for review, editing or blogging, here is my script and how to use it.
 
-### Speaker notes extractor script
+## Speaker notes extractor script
 
 Save this code as `powerpoint-to-text.py`:
 
@@ -80,7 +80,7 @@ if __name__ == "__main__":
 
 The script uses the `python-pptx` library to read PowerPoint files. This library understands the internal structure of .pptx files (which are zip archives containing XML). It provides a clean Python interface to access slides and their speaker notes. The script loops through each slide, checks if it has notes, and writes them to a text file.
 
-### Usage
+## Usage
 
 I like to use [uv](https://github.com/astral-sh/uv) to run Python code. `uv` is a fast, modern Python package manager that handles dependencies automatically:
 

@@ -18,9 +18,10 @@ id: 328
 
 I asked more than 1,000 Drupal users what they are good at and what skills they'd like to invest in. The results are provided below, and might be of interest for [upcoming Drupal book authors](https://dri.es/wanted-drupal-book-authors), the Drupal documentation team, or those of us who want to flatten the [Drupal learning curve](https://dri.es/drupal-learning-curve).
 
-[image drupal/community-skills resize=false]
+![Bar chart showing the number of people with expert, little, or no experience, and those wanting to learn Drupal-related skills.](http://default/files/images/drupal/community-skills.jpg)
+*The Y-axis shows the number of people that selected the given skill.*
 
-### We are good at
+## We are good at
 
 1. HTML
 2. Administering Drupal
@@ -28,7 +29,7 @@ I asked more than 1,000 Drupal users what they are good at and what skills they'
 4. PHP
 5. System administration
 
-### We suck at
+## We suck at
 
 1. Flash/Flex
 2. Module development
@@ -36,7 +37,7 @@ I asked more than 1,000 Drupal users what they are good at and what skills they'
 4. Marketing/evangelizing
 5. JavaScript/JQuery
 
-### We want to get better at
+## We want to get better at
 
 1. Module development
 2. Theme development

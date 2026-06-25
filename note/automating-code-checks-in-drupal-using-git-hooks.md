@@ -48,7 +48,7 @@ fi
 
 The script runs 1 (PHP Code Beautifier and Fixer) for code formatting and 1 (a static analysis tool for PHP) for identifying bugs. Should these tools find any issues, the commit is blocked.
 
-### Installing `phpcbf` and `phpstan`
+## Installing `phpcbf` and `phpstan`
 
 Drupal does *not* ship with `phpcbf` or `phpstan` out-of-the-box, so these tools need to be installed. They can be installed individually using [Composer](https://getcomposer.org/):
 

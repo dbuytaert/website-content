@@ -26,7 +26,7 @@ While I was an early advocate for adding web services to Drupal 8 five years ago
 
 In fact, I believe that this functionality is so crucial to the success of Drupal, that for several years now, [Acquia](https://acquia.com) has sponsored one or more full-time software developers to contribute to Drupal's web service APIs, in addition to funding different community contributors. Today, two Acquia developers work on Drupal web service APIs full time.
 
-### Drupal core's REST API
+## Drupal core's REST API
 
 While Drupal 8.0 shipped with a basic REST API, the community has worked hard to improve its capabilities, robustness and test coverage. Drupal 8.5 shipped 5 months ago and included [new REST API features and significant improvements](https://wimleers.com/blog/api-first-drupal-8.5). Drupal 8.6 will ship in September with a new batch of improvements.
 
@@ -34,7 +34,7 @@ One Drupal 8.6 improvement is the move of the API-first code to the individual m
 
 Another improvement we've made to the REST API in Drupal 8.6 is [support for file uploads](https://www.drupal.org/node/2941420). If you want to understand how much thought and care went into REST support for file uploads, check out [API-first Drupal: file uploads](https://wimleers.com/blog/api-first-drupal-file-uploads). It's hard work to make file uploads secure, support large files, optimize for performance, and provide a good developer experience.
 
-### JSON API
+## JSON API
 
 Adopting the [JSON API module](https://www.drupal.org/project/jsonapi) into core is important because JSON API is increasingly common in the JavaScript community.
 
@@ -48,7 +48,7 @@ The Drupal community has been eager for these improvements, and the usage of the
 
 As excited as I am about this growth in adoption, the rapid pace of development, and the maturity of the JSON API module, [we have decided not to add JSON API as an experimental module to Drupal 8.6](https://wimleers.com/blog/state-of-jsonapi-2018-07). Instead, we plan to commit it to Drupal core early in the Drupal 8.7 development cycle and ship it as stable in Drupal 8.7.
 
-### GraphQL
+## GraphQL
 
 For more than two years [I've advocated that we consider adding GraphQL to Drupal core](https://dri.es/advancing-drupal-web-services).
 
@@ -58,13 +58,13 @@ I'm also excited that the GraphQL specification has finally seen a [new edition]
 
 Admittedly, I don't know yet if the GraphQL module maintainers are on board with my recommendation to add GraphQL to core. We purposely postponed these conversations until we stabilized the REST API and added JSON API support. I'd still love to see the GraphQL module added to a future release of Drupal 8. Regardless of what we decide, GraphQL is an important component to an API-first Drupal, and I'm excited about its progress.
 
-### OAuth 2.0
+## OAuth 2.0
 
 A web services API update would not be complete without touching on the topic of authentication. Last year, I explained [how the OAuth 2.0 module would be another logical addition to Drupal core](https://dri.es/improving-drupal-8-api-first-json-api-oauth2).
 
 Since then, the [OAuth 2.0 module](https://www.drupal.org/project/simple_oauth) was revised to exclude its own OAuth 2.0 implementation, and to adopt [The PHP League's OAuth 2.0 Server](https://oauth2.thephpleague.com/) instead. That implementation is widely used, with over 5 million installs. Instead of having a separate Drupal-specific implementation that we have to maintain, we can leverage a de facto standard implementation maintained by others.
 
-### API-first ecosystem
+## API-first ecosystem
 
 While I've personally been most focused on the REST API and JSON API work, with GraphQL a close second, it's also encouraging to see that many other API-first modules are being developed:
 
@@ -73,7 +73,7 @@ While I've personally been most focused on the REST API and JSON API work, with 
 - [JSON-RPC](https://www.drupal.org/project/jsonrpc), for help with executing common Drupal site administration actions, for example clearing the cache
 - ... and [many more](https://www.drupal.org/project/project_module?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=im_vid_3%3A186018&f%5B3%5D=drupal_core%3A7234&f%5B4%5D=sm_field_project_type%3Afull&f%5B5%5D=&f%5B6%5D=&text=&solrsort=iss_project_release_usage+desc&op=Search)
 
-### Conclusion
+## Conclusion
 
 Hopefully, you are as excited for the upcoming release of Drupal 8.6 as I am, and all of the web service improvements that it will bring. I am very thankful for all of the contributions that have been made in our continued efforts to make Drupal API-first, and for the incredible momentum these projects and initiatives have achieved.
 

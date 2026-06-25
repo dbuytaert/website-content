@@ -19,6 +19,8 @@ id: 4011
 
 # Entertainment Tonight using Drupal
 
+![A news website homepage featuring celebrity entertainment stories, including Taylor Swift's music video, VMAs highlights, and TV show updates.](http://default/files/cache/drupal/entertainment-tonight-640w.jpg)
+
 Entertainment Tonight is the number one entertainment news magazine in the world, and has been on the air for over 30 years. Fans around the world rely on Entertainment Tonight to receive news and updates on their favorite celebrities and stars. I recently discovered that the newest star featured on Entertainment Tonight was Drupal 8!
 
 Entertainment Tonight's new Drupal 8 website, [ETOnline.com](http://www.etonline.com), receives 19 million monthly unique visitors, making it the second most visited entertainment news website.

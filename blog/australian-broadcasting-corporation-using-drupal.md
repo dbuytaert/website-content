@@ -24,4 +24,4 @@ The ABC is Australia's national broadcaster, a public owned enterprise funded by
 
 It's really great to see the Drupal market in Australia breaking open! One day I should make it to Australia too. ;-)
 
-[image drupal/abc-digital-music]
+![ABC Dig Music website homepage displaying featured artists, music news, and ways to listen to digital radio.](http://default/files/cache/drupal/abc-digital-music-640w.jpg)

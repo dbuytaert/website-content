@@ -17,4 +17,6 @@ id: 435
 
 # Acquia is a Red Herring finalist
 
+![Logo for "Red Herring Finalist 100 North America", featuring bold text and a globe icon inside the number zero.](http://default/files/images/acquia/red-herring-finalist-100.jpg)
+
 [Acquia](https://www.acquia.com) (my company) is part of an exceptional group of companies vying for the [2008 Red Herring 100 North America award](http://www.herringevents.com/northamerica08/index.html). The award recognizes the top 100 privately held companies in North America. This is big because previous winners included companies like Google, Yahoo!, Skype, Netscape, Salesforce.com, and YouTube. It is still early days for Acquia but it is good to get noticed early on. The winners will be announced in May so fingers crossed ...

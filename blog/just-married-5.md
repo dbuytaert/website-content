@@ -17,4 +17,6 @@ id: 641
 
 # Just married
 
+![The bride and groom walk arm in arm, smiling, as they head toward the altar with flower girls nearby.](http://default/files/cache/wedding-hans-and-evelien-2009/walking-to-the-altar-640w.jpg)
+
 Hans and Evelien, some of my best friends, got married yesterday. More pictures are available in [my photo gallery](https://dri.es/album/wedding-hans-and-evelien-2009/). *Congratulations!*

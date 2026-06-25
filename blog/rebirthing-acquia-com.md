@@ -19,18 +19,18 @@ If you're a regular visitor to [the Acquia website](https://www.acquia.com), you
 
 Although this design represents the most profound website changes in the company's history, it's not the first time we've done this. Here is what our initial website looked like in 2008:
 
-[image acquia/acquia-com-march-2008]
+![Acquia.com's homepage as captured in March 2008.](http://default/files/cache/acquia/acquia-com-march-2008-640w.jpg)
 
 ... and in 2009:
 
-[image acquia/acquia-com-july-2009]
+![Acquia.com's homepage as captured in July 2009.](http://default/files/cache/acquia/acquia-com-july-2009-640w.jpg)
 
 ... and until this week:
 
-[image acquia/acquia-com-june-2011]
+![Acquia.com's homepage as captured in June 2011.](http://default/files/cache/acquia/acquia-com-june-2011-640w.jpg)
 
 Finally, here it is today:
 
-[image acquia/acquia-com-july-2011]
+![Acquia.com's homepage as captured in July 2011.](http://default/files/cache/acquia/acquia-com-july-2011-640w.jpg)
 
 Aside from obvious visual changes, we've tried to explain Acquia's products and services better. The experiences of the last three and a half years have shown us what people want from us, what we do well, and how to best match the two. I don't think we could have made our site so clear a year ago, and can only imagine what refinements future revisions will bring.

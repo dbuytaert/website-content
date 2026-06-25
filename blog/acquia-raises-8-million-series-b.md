@@ -22,7 +22,7 @@ The [Securities and Exchange Commission (SEC)](https://en.wikipedia.org/wiki/U.S
 
 Raising this additional money is no small thing, especially in the current global economy. It is a testament to the hard work and dedication of all the Acquians and the momentum we have achieved.
 
-[image acquia/series-b-fundraising]
+![A video call shows a business meeting where people discuss fundraising, with presentation slides visible on the screen.](http://default/files/cache/acquia/series-b-fundraising-640w.jpg)
 
 But how will the money of our series B funding be used, you ask?
 

@@ -20,4 +20,4 @@ I finally had some time to take out my copy of [Lullabot's Understanding Drupal 
 
 Lullabot also promised to make a donation to the [Drupal Association](https://association.drupal.org) for every copy sold. *Thanks 'bots!*
 
-[image drupal/lullabot-understanding-drupal-dvd]
+![A handwritten note on paper next to a DVD labeled "Lullabot Understanding Drupal" in an open case.](http://default/files/cache/drupal/lullabot-understanding-drupal-dvd-640w.jpg)

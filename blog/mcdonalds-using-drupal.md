@@ -20,4 +20,4 @@ id: 1786
 
 The website of [McDonald's Australia](http://mcdonalds.com.au) is using [Drupal](https://www.drupal.org). *I'm lovin' it!*
 
-[image drupal/mcdonalds-australia]
+![McDonald's Australia website featuring promotional images of Angus beef and chicken burgers, breakfast wraps, and a Maltesers sundae.](http://default/files/cache/drupal/mcdonalds-australia-640w.jpg)

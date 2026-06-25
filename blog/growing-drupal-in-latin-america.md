@@ -18,6 +18,8 @@ id: 3331
 
 # Growing Drupal in Latin America
 
+![A live rock band performs on an outdoor stage at night, with a crowd gathered to watch.](http://default/files/cache/brazil-2011/open-source-rock-1-640w.jpg)
+
 When I visited Brazil in 2011, I was so impressed by the Latin American Drupal community and how active and passionate the people are. The region is fun and beautiful, with [some of the most amazing sites](https://dri.es/album/brazil-2011/) I have seen anywhere in the world. It also happens to be a strategic region for the project.
 
 Latin American community members are doing their part to grow the project and the Drupal community. In 2014, the region hosted 19 Global Training Day events to recruit newcomers, and community leaders coordinated many Drupal camps to help convert those new Drupal users into skilled talent. Members of the Latin American community help promote Drupal at local technology and Open Source events, visiting events like [FISL](http://softwarelivre.org/fisl14?lang=en) (7,000+ participants), [Consegi](http://www.consegi.gov.br/?set_language=en) (5,000+ participants) and [Latinoware](https://latinoware.org/) (4,500+ participants).

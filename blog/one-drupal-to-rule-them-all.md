@@ -25,7 +25,7 @@ For most organizations, one tool cannot get the job done, so they keep multiple 
 
 It can be a complete mess.
 
-[image drupal/fragmented-cms-situation-2 resize=false]
+![Diagram showing a fragmented CMS setup with interconnected platforms, including Drupal, WordPress, Joomla, and various technologies.](http://default/files/images/drupal/fragmented-cms-situation-2.jpg)
 
 CIOs are now waking up; they're realizing that the cost of running twenty different content management systems on twenty different stack configurations is an expensive, unnecessary burden for the organization. They can see that there are cost savings to be made if they standardize. What they want is something more than a content management system: they need a single *platform* that meets their needs. They need [Drupal](https://www.drupal.org).
 

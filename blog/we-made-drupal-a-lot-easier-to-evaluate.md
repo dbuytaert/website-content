@@ -17,6 +17,8 @@ id: 4521
 
 # We made Drupal a lot easier to evaluate
 
+![Slide listing improvements for the Drupal technical evaluation process, including better discovery, documentation, demos, and modern administration.](http://default/files/cache/drupal/improve-technical-evaluator-experience-2018-640w.jpg)
+
 Seven months ago, [Matthew Grasmick](https://www.drupal.org/u/grasmash) published an article describing [how hard it is to install Drupal](http://matthewgrasmick.com/compare-php-frameworks). His article included the following measurements for creating a new application on his local machine, across four different PHP frameworks:
 
 <table>
@@ -51,11 +53,11 @@ Seven months ago, [Matthew Grasmick](https://www.drupal.org/u/grasmash) publishe
 
 The results from Matthew's blog were clear: Drupal is too hard to install. It required more than 15 minutes and 20 clicks to create a simple site.
 
-[video 9E34hSVFE94]
+https://www.youtube.com/watch?v=9E34hSVFE94
 
 Seeing these results prompted me to launch a number of initiatives to improve the evaluator experience at DrupalCon Nashville. Here is the slide from [my DrupalCon Nashville presentation](https://dri.es/state-of-drupal-presentation-april-2018):
 
-[image drupal/improve-technical-evaluator-experience-2018 resize=false]
+![Slide listing improvements for the Drupal technical evaluation process, including better discovery, documentation, demos, and modern administration.](http://default/files/cache/drupal/improve-technical-evaluator-experience-2018-640w.jpg)
 
 A lot has happened between then and now:
 
@@ -67,7 +69,7 @@ A lot has happened between then and now:
 
 You can see the result of that work in this video:
 
-[video 7k1Ub-MJMCU]
+https://www.youtube.com/watch?v=7k1Ub-MJMCU
 
 Thanks to this progress, here is the updated table:
 

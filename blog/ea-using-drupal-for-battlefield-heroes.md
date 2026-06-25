@@ -21,6 +21,6 @@ Computer and video game developer [Electronic Arts](http://www.ea.com) (EA) is u
 
 According to the trailer, they have big plans for their website. They want to use it to host a *long-running territorial conflict meta-game*. Curious to learn if that will be built in Drupal too.
 
-[image drupal/battlefield-heroes]
+![A promotional webpage for \*Battlefield Heroes\* features a soldier holding a weapon and a tank in the background.](http://default/files/cache/drupal/battlefield-heroes-640w.jpg)
 
-[video KYQP-uBijWg]
+https://www.youtube.com/watch?v=KYQP-uBijWg

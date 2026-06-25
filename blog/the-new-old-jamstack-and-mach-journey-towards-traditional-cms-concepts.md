@@ -20,13 +20,15 @@ id: 5531
 
 # The new old: Jamstack and MACH's journey towards traditional CMS concepts
 
+![An African-American scientist analyzes converting technologies in a futuristic, cryptopunk setting.](http://default/files/cache/drupal/jamstack-mach-traditional-cms-640w.jpg)
+
 In recent years, new architectures like [MACH](https://machalliance.org/) and [Jamstack](https://jamstack.org/) have emerged in the world of Content Management Systems (CMS) and Digital Experience Platforms (DXP).
 
 In some way, they have challenged traditional models. As a result, people sometimes ask for my take on MACH and Jamstack. I've mostly refrained from sharing my perspective to avoid controversy.
 
 However, recognizing the value of diverse viewpoints, I've decided to share some of my thoughts. I hope it contributes positively to the ongoing evolution of these technologies.
 
-### The Jamstack is embracing its inner CMS
+## The Jamstack is embracing its inner CMS
 
 [Jamstack](https://jamstack.org/), born in 2015, began as an approach for building static sites. The term <dfn>Jamstack</dfn> stands for <u>J</u>avaScript, <u>A</u>PIs and <u>M</u>arkup. Jamstack is an architectural approach that decouples the web experience layer from content and business logic. The web experience layer is often pre-rendered as static pages (markup), served via a Content Delivery Network (CDN).
 
@@ -40,7 +42,7 @@ This expansion reflects a natural progression in technology, where software tend
 
 I believe the Jamstack will continue adding traditional CMS features such as menu management, translation workflows, and marketing technology integrations until they more closely resemble traditional CMSes.
 
-### Wake-up call: CMSes are hybrid now
+## Wake-up call: CMSes are hybrid now
 
 The Jamstack is starting to look more like traditional CMSes, not only in features, but also in architecture. Traditional CMSes can work in two main ways: "coupled" or "integrated", where they separate the presentation layer from the business logic using an approach called [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) (MVC), or "decoupled", where the front-end and back-end are split using web service APIs, like the Jamstack does.
 
@@ -50,7 +52,7 @@ This combination of both methods is known as "hybrid". Most traditional CMSes ha
 
 Asserting that traditional CMSes are "monolithic" and "outdated" is a narrow-minded view held by people who have overlooked their evolution. In reality, today's choice is between a purely Headless or a Hybrid CMS.
 
-### Redefining "Jamstack" beyond overstated claims
+## Redefining "Jamstack" beyond overstated claims
 
 As the Jamstack becomes more versatile, the original "Jamstack" name and definition feel restrictive. The essence of Jamstack, once centered on creating faster, secure websites with a straightforward deployment process, is changing.
 
@@ -63,7 +65,7 @@ In short, Jamstack, initially known for its static site generation and simplicit
 
 Last but not least, this shift is making Jamstack more similar to MACH, leading to my opinion on the latter.
 
-### The key difference between MACH and traditional CMSes
+## The key difference between MACH and traditional CMSes
 
 Many readers, especially people in the Drupal community, might be unaware of [MACH](https://machalliance.org/). <dfn>MACH</dfn> is an acronym for <u>M</u>icroservices, <u>A</u>PI-first, <u>C</u>loud-native SaaS, <u>H</u>eadless. It specifies an architectural approach where each business function is a distinct cloud service, often created and maintained by separate vendors and integrated by the end user.
 
@@ -73,7 +75,7 @@ At first glance, that doesn't look too different from Drupal or WordPress. Platf
 
 At a glance, this modular approach seems similar to MACH. Yet, there is a distinct contrast: Drupal and WordPress extend their capabilities by adding modules to a "core platform", while MACH is a collection of independent services, operating without relying on an underlying core platform.
 
-### MACH could benefit from "monolithic" features
+## MACH could benefit from "monolithic" features
 
 Many in the MACH community applaud the lack of a core platform, often criticizing it as "monolithic". Calling a CMS like Drupal "monolithic" is, in my opinion, a misleading and simplistic marketing strategy. From a technical perspective, Drupal's core platform is exceptionally modular, allowing all components to be swapped.
 
@@ -91,7 +93,7 @@ Efforts are already underway to streamline the MACH user experience with "Digita
 
 Traditional CMSes like Drupal can also take cues from Jamstack and MACH, particularly in their approaches to web services. For instance, while Drupal effectively separates business logic from the presentation layer using the MVC pattern, it primarily relies on internal APIs. A shift towards more public web service APIs could enhance Drupal's flexibility and innovation potential.
 
-### Conclusions
+## Conclusions
 
 In recent years, we've witnessed a variety of technical approaches in the CMS/DXP landscape, with MACH, Jamstack, decoupled, and headless architectures each carving out their paths.
 

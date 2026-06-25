@@ -18,4 +18,4 @@ id: 355
 
 The [Macworld Conference and Expo](http://www.macworldexpo.com/) is using [Drupal](https://www.drupal.org)!
 
-[image drupal/macworld]
+![Macworld Conference & Expo 2008 website with event details, blog updates, and registration information for attendees.](http://default/files/cache/drupal/macworld-640w.jpg)

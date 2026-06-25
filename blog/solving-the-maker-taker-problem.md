@@ -23,6 +23,8 @@ id: 5691
 
 # Solving the Maker-Taker problem
 
+![A scale with blocks next to it](http://default/files/cache/blog/open-source-makers-and-takers-6-640w.jpg)
+
 Recently, a [public dispute](https://lwn.net/SubscriberLink/991906/e5bc182f5602ffca/) has emerged between WordPress co-founder Matt Mullenweg and hosting company WP Engine. Matt has accused WP Engine of misleading users through its branding and profiting from WordPress without adequately contributing back to the project.
 
 As the Founder and Project Lead of [Drupal](https://www.drupal.org/), another major Open Source Content Management System (CMS), I hesitated to weigh in on this debate, as this could be perceived as opportunistic. In the end, I decided to share my perspective because this conflict affects the broader Open Source community.
@@ -40,7 +42,7 @@ These issues could discourage entrepreneurs from starting Open Source businesses
 
 This post explores the "Maker-Taker problem" in Open Source, using Drupal's contribution credit system as a model for fairly incentivizing and recognizing contributors. It suggests how WordPress and other Open Source projects could benefit from adopting a similar system. While this is unsolicited advice, I believe this approach could help the WordPress community heal, rebuild trust, and advance Open Source productively for everyone.
 
-### The Maker-Taker problem
+## The Maker-Taker problem
 
 At the heart of this issue is the Maker-Taker problem, where creators of Open Source software ("Makers") see their work being used by others, often service providers, who profit from it without contributing back in a meaningful or fair way ("Takers").
 
@@ -54,7 +56,7 @@ In that post, I also explain how Takers can harm Open Source projects. By not co
 
 Solving the Maker-Taker challenge is one of the biggest remaining hurdles in Open Source. Successfully addressing this could lead to the creation of tens of thousands of new Open Source businesses while also improving the sustainability, growth, and competitiveness of Open Source. It would make such a positive impact on the world.
 
-### Drupal's approach: the Contribution Credit System
+## Drupal's approach: the Contribution Credit System
 
 In Drupal, we've adopted a positive approach to encourage organizations to become Makers rather than relying on punitive measures. Our approach stems from a key insight, also explained in [my Makers and Takers blog post](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source): customers are a "common good" for an Open Source project, not a "public good".
 
@@ -70,7 +72,8 @@ To address these needs and solve the Maker-Taker problem in Drupal, I proposed a
 
 We've since implemented this system in partnership with the [Drupal Association](https://www.drupal.org/association), our non-profit organization. The Drupal Association transparently tracks contributions from both individuals and organizations. Each contribution earns credits, and the more you contribute, the more visibility you gain on [Drupal.org](https://www.drupal.org/) (visited by millions monthly) and at events like [DrupalCon](https://dri.es/tag/drupalcon) (attended by thousands). You can earn credits by contributing code, submitting case studies, organizing events, writing documentation, financially supporting the Drupal Association, and more.
 
-[image drupal/example-issue-credit-on-drupal-org-2016 resize=false]
+![A Drupal.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
+*A screenshot of an issue comment on Drupal.org. You can see that jamadar worked on this patch as a volunteer, but also as part of his day job working for TATA Consultancy Services on behalf of their customer, Pfizer.*
 
 Drupal's credit system is unique and groundbreaking within the Open Source community. The Drupal contribution credit system serves two key purposes: it helps us identify who our Makers and Takers are, and it allows us to guide end users towards doing business with our Makers.
 
@@ -81,10 +84,11 @@ Here is how we accomplish this:
 - We encourage end users to require Open Source contributions from their vendors. Drupal users like Pfizer and the State of Georgia only allow Makers to apply in their vendor selection process.
 
 <div class="large">
-  [image drupalcon-barcelona-2024/certified-partner-contributions]
+  ![A slide showing a grid of 14 projects, each labeled with the name of the individual and their organization responsible for building the corresponding recipe.](http://default/files/cache/drupalcon-barcelona-2024/certified-partner-contributions-640w.png)
+*A slide from my recent <a href="https://dri.es/state-of-drupal-presentation-september-2024">DrupalCon Barcelona State of Drupal keynote</a> showcasing key contributors to Drupal Starshot. This slide showcases how we recognize and celebrate Makers in our community, encouraging active participation in the project.*
 </div>
 
-### Governance and fairness
+## Governance and fairness
 
 To make sure the contribution credit system is fair, it benefits from the oversight from an independent, neutral party.
 
@@ -100,7 +104,7 @@ Drupal's credit system certainly isn't perfect. It is hard to accurately track a
 
 As a result, Drupal's credit system has evolved significantly [since I first proposed it ten years ago](https://dri.es/a-method-for-giving-credit-to-organizations-that-contribute-code-to-open-source). The Drupal Association continually works to improve the system, aiming for a credit structure that genuinely drives positive behavior.
 
-### Recommendations for WordPress
+## Recommendations for WordPress
 
 WordPress has already taken steps to address the Maker-Taker challenge through initiatives like the [Five for the Future](https://wordpress.org/five-for-the-future/) program, which encourages organizations to contribute 5% of their resources to WordPress development.
 
@@ -113,7 +117,7 @@ Building on this foundation, I believe WordPress could benefit from adopting a c
 
 This approach addresses both key challenges highlighted in the introduction: it balances contributions by incentivizing major involvement, and it creates an environment where Open Source businesses of all sizes can compete fairly based on their contributions to the community.
 
-### Conclusion
+## Conclusion
 
 Addressing the Maker-Taker challenge is essential for the long-term sustainability of Open Source projects. Drupal's approach may provide a constructive solution not just for WordPress, but for other communities facing similar issues.
 

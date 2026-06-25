@@ -18,13 +18,16 @@ id: 5861
 
 # Acquia appoints Chris Tranquill as CEO
 
+![Steve Reny shakes hands with a partner on stage at Acquia Engage London.](http://default/files/cache/acquia/steve-reny-at-acquia-engage-640w.jpg)
+
 Today we are announcing that [Chris Tranquill](https://www.linkedin.com/in/ctranq/) has been appointed CEO of [Acquia](https://www.acquia.com/), succeeding [Steve Reny](https://www.linkedin.com/in/stephen-reny-0a2a0a163/). Steve will be stepping down after nearly seven years with Acquia, including almost three as CEO.
 
 I feel a mix of emotions. Sadness, because Steve has been a valued leader and colleague. Gratitude, for everything he has done for Acquia and our community. Optimism, because he is leaving Acquia in a strong position. And happiness, knowing he has been looking forward to spending more time with his family and dedicating himself to giving back after an incredible 40-year career.
 
 Steve worked incredibly hard, cared deeply about customers, and built genuine relationships with so many people across the company. Under his leadership, Acquia became more efficient, launched new products, strengthened its Open Source commitment, and grew with financial discipline. He created a strong foundation for our future, and I want to sincerely thank him for his leadership.
 
-[image acquia/steve-reny-at-acquia-engage schema=false]
+![Steve Reny shakes hands with a partner on stage at Acquia Engage London.](http://default/files/cache/acquia/steve-reny-at-acquia-engage-640w.jpg)
+*Steve Reny congratulating a partner at Acquia Engage.*
 
 At the same time, I am very excited to welcome Chris Tranquill as our new CEO. Chris brings more than 25 years of experience in enterprise software and customer experience. Most recently he was CEO of Khoros, and before that he co-founded Topbox, which was later acquired by Khoros.
 

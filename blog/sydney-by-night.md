@@ -19,4 +19,6 @@ id: 2151
 
 # Sydney by night
 
+![The Sydney Opera House is illuminated at night, reflecting on the water, with a dock and buildings nearby.](http://default/files/cache/australia-2011/opera-house-640w.jpg)
+
 

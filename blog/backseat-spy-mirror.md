@@ -19,4 +19,6 @@ id: 1726
 
 # Backseat spy mirror
 
+![A car's rearview mirror reflects a child in a car seat reaching out, with adults in the front seats.](http://default/files/cache/ipswich-2010/backseat-spy-mirror-640w.jpg)
+
 Have you seen this before? It's a built-in spy mirror to watch your kids on the backseat. Nifty.

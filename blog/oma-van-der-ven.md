@@ -18,4 +18,5 @@ id: 208
 
 Our grandmother, Oma van der Ven, aged 87 years, passed away in her sleep last night. She will be sadly missed and always remembered ...
 
-[image miscellaneous-2007/oma-van-der-ven]
+![An elderly woman with white hair and glasses looks at a wedding photo album while sitting in a chair.](http://default/files/cache/miscellaneous-2007/oma-van-der-ven-640w.jpg)
+*Oma van der Ven looking at our wedding pictures.*

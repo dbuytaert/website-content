@@ -18,4 +18,6 @@ id: 145
 
 # Ted and Madonna
 
+![A person in a red shirt takes a photo of Michelangelo's Madonna and Child statue inside a church.](http://default/files/cache/drupalcon-brussels-2006/ted-and-madonna-640w.jpg)
+
 

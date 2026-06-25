@@ -19,5 +19,5 @@ id: 31
 
 While shopping in Antwerp this afternoon, we bumped into this old *wasserette* (laundromat). Very fifties, I might add.
 
-[image miscellaneous-2006/wasserette-1]
-[image miscellaneous-2006/wasserette-2]
+![A laundromat with rows of stainless steel washing machines and dryers, one machine door open in the center.](http://default/files/cache/miscellaneous-2006/wasserette-1-640w.jpg)
+![A vending machine displays laundry detergent and fabric softener packets for purchase.](http://default/files/cache/miscellaneous-2006/wasserette-2-640w.jpg)

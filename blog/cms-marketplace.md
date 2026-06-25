@@ -16,4 +16,6 @@ id: 250
 
 # CMS marketplace
 
+![A bubble chart comparing commercial and FLOSS CMSs by install base and revenue, showing larger bubbles for FLOSS CMSs.](http://default/files/images/drupal/cms-marketplace.jpg)
+
 What is wrong with this picture? *Brain teaser.*

@@ -16,6 +16,8 @@ id: 5176
 
 # Securing my email with SPF, DKIM and DMARC
 
+![A screenshot of my email headers showing that SPF, DKIM, and DMARC all pass](http://default/files/cache/blog/email-headers-2021-640w.png)
+
 I use my own domain name for email. Unfortunately, I received a few emails about `dries@buytaert.net` being used for phishing attacks. It's not the first time, but hopefully it will be the last!
 
 I finally added SPF, DKIM and DMARC protection to my domains:
@@ -24,7 +26,8 @@ I finally added SPF, DKIM and DMARC protection to my domains:
 - [Domain Keys Identified Mail](http://dkim.org/) (DKIM) uses [public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) to make sure that my email isn't tampered with. My mail server keeps a private cryptographic key. When I send an email, my mail server uses the private key to embed a digital signature into my emails. In turn, your mail server/client validates the signature using the corresponding public key. The public key is made available through a DNS record associated with my domain name. (I use [Google Workspace](https://workspace.google.com/) as my mail server, and it was easy to enable DKIM.)
 - [Domain-based Message Authentication, Reporting and Conformance](https://dmarc.org/) (DMARC) allows me specify how emails that fail the SPF or DKIM test should be handled. I can set policies to reject or quarantine spoofed emails.
 
-[image blog/email-headers-2021]
+![A screenshot of my email headers showing that SPF, DKIM, and DMARC all pass](http://default/files/cache/blog/email-headers-2021-640w.png)
+*In Gmail, click 'Show Original' to see what email protection is in place.*
 
 Many data breaches and financial losses start with a phishing email. If you use your own domain name for email, take five minutes to check how well you're protected. You can use one of the many checkers. Here are some of the checkers I used:
 

@@ -20,4 +20,4 @@ id: 300
 
 Tori Amos moves to Drupal: <http://toriamos.com>. Another high-profile Drupal user, but unfortunately, the template design is not exactly my cup of tea ... it reminds of web design in the late nineties.
 
-[image drupal/tori-amos]
+![A website homepage featuring Tori Amos with multiple portraits, a welcome message, and navigation links for news, music, and events.](http://default/files/cache/drupal/tori-amos-640w.jpg)

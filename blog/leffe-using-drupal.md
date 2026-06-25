@@ -20,4 +20,4 @@ id: 1696
 
 Leffe, one of my favorite Belgian abbey beers, is now using [Drupal](https://www.drupal.org) for their main website: <http://leffe.com>. *Cheers to that!*
 
-[image drupal/leffe]
+![A promotional webpage for Leffe beer featuring a culinary workshop invitation and food pairing suggestions with beer bottles and glasses.](http://default/files/cache/drupal/leffe-640w.jpg)

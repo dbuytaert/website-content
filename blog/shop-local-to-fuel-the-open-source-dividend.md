@@ -17,7 +17,9 @@ id: 4996
 
 # Shop local to fuel the Open Source dividend
 
-[image blog/shop-local]
+![A sign that reads 'Open Source dividends'](http://default/files/cache/blog/open-source-dividends-640w.png)
+
+![A window of a shop with a 'shop local' sign.](http://default/files/cache/blog/shop-local-640w.jpg)
 
 In the small town where I live, some of the local businesses have "shop local" signs on their windows, and even out on the curbs. They are reminders to support local businesses instead of going to large supermarkets and department stores.
 
@@ -29,9 +31,9 @@ There are three important things that we know for a fact:
 
 All of this applies to Open Source: we need sustained public education to encourage end users to "shop local" and to support those organizations and individuals that contribute to Open Source. This has a real, meaningful impact on Open Source sustainability and growth.
 
-### The Open Source dividend
+## The Open Source dividend
 
-[image blog/open-source-dividends]
+![A sign that reads 'Open Source dividends'](http://default/files/cache/blog/open-source-dividends-640w.png)
 
 Open Source ecosystems have a built-in *dividend system*. The concept is straightforward:
 

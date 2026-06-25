@@ -22,7 +22,7 @@ For some, *configuration management* is a bit of an abstract term. In short, it 
 
 To enable all of the above in a modern and elegant way, we need to make a number of changes to Drupal. These changes will be worked on as part of the *Configuration Management Initiative* for Drupal 8 core.
 
-### Greg Dunlap (and David Strauss)
+## Greg Dunlap (and David Strauss)
 
 Also in my DrupalCon keynote in Chicago, I outlined changes to the Drupal development process. Each of the Drupal 8 initiatives will have an *Initiative Owner* that reports to me, and that acts as a project manager and/or technical lead.
 

@@ -19,13 +19,15 @@ id: 3616
 
 # How should you decouple Drupal?
 
+![Flowchart explaining different approaches to decoupling Drupal, from coupled to fully decoupled, based on functionality needs.](http://default/files/cache/drupal/how-to-decouple-drupal-in-2017-flowchart-full-640w.jpg)
+
 **Update:** A more up-to-date version of this blog post is available at [How to decouple Drupal in 2019](https://dri.es/how-to-decouple-drupal-in-2019).
 
 With [RESTful web services in Drupal 8 core](https://www.drupal.org/docs/8/core/modules/rest/overview), Drupal can function as an API-first back end serving browser applications, native applications on mobile devices, in-store displays, even in-flight entertainment systems (Lufthansa is doing so in Drupal 8!), and much more. When building a new website or web application in 2016, you may ask yourself: how should I decouple Drupal? Do I build my website with Drupal's built-in templating layer or do I use a JavaScript framework? Do I need Node.js?
 
 There is a lot of hype around decoupled architectures, so before embarking on a project, it is important to make a balanced analysis. Your choice of architecture has implications on your budget, your team, time to launch, the flexibility for content creators, the ongoing maintenance of your website, and more. In this blog post, I'd like to share a flowchart that can help you decide when to use what technology.
 
-[image drupal/how-to-decouple-drupal-in-2017-flowchart-full resize=false]
+![Flowchart explaining different approaches to decoupling Drupal, from coupled to fully decoupled, based on functionality needs.](http://default/files/cache/drupal/how-to-decouple-drupal-in-2017-flowchart-full-640w.jpg)
 
 This flowchart shows three things:
 
@@ -39,7 +41,7 @@ It's worth noting that over time we are likely to see better integrations betwee
 
 To be performant, fully decoupled websites using JavaScript [employ Node.js on the server to improve initial performance](https://dri.es/a-history-of-javascript-across-the-stack), but in the case of Drupal this is not necessary, as Drupal can do the server-side pre-rendering for you. Many JavaScript developers opt to use Node.js for the convenience of shared rendering across server and client rather than for the specific things that Node.js excels in, like real-time push, concurrent connections, and bidirectional client-server communication. In other words, most Drupal websites don't need Node.js.
 
-[image drupal/decoupled-delivery-architectures resize=false]
+![Diagram comparing coupled, progressively decoupled, and fully decoupled Drupal architectures with server-client interactions and JavaScript usage.](http://default/files/images/drupal/decoupled-delivery-architectures.jpg)
 
 In practice, I believe many organizations want to use all of these content delivery options. In certain cases, you want to let your content management system render the experience so you can take full advantage of its features with minimal or no development effort (coupled architecture). But when you need to build a website that needs a much more interactive experience or that integrates with unique devices (i.e. on in-store touch screens), you should be able to use that same content management system's content API (decoupled architecture). Fortunately, Drupal allows you to use either. The beauty of choosing from the spectrum of fully decoupled Drupal, progressively decoupled Drupal, and coupled Drupal is that you can do what makes the most sense in each situation.
 

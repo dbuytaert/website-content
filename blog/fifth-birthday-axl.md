@@ -18,4 +18,6 @@ id: 2731
 
 # Fifth birthday Axl
 
+![A young child wearing a handmade paper crown sits on the floor next to wrapped birthday presents.](http://default/files/cache/birthday-axl-2012/axl-birthday-with-grandma-640w.jpg)
+
 Happy birthday, Axl! I can't believe you turned five today. I can't be with you today but it was nice to Skype this morning. Great to see you with one of mommy's famous birthday hats.

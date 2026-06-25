@@ -21,6 +21,8 @@ id: 5961
 
 # The freedom to leave is what makes customers stay
 
+![A glowing blue doorway opens into a lush, colorful forest.](http://default/files/cache/acquia/acquia-source-door-640w.jpg)
+
 When I tell people that [Acquia Source](https://dri.es/the-product-we-should-not-have-killed) will let customers export their _entire_ website and leave our platform anytime, I usually get puzzled looks. 
 
 We really mean the entire site: the underlying Drupal code, theme, configuration, content, and data. The export gives you a complete, working Drupal site that you can run on any infrastructure you choose.

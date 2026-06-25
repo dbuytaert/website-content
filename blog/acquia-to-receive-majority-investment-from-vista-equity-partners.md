@@ -17,9 +17,11 @@ id: 4936
 
 # Acquia to receive majority investment from Vista Equity Partners
 
+![Acquia partners with Vista Equity Partners](http://default/files/cache/acquia/acquia-vista-640w.png)
+
 Today, we announced that [Acquia](https://www.acquia.com/) has agreed [to receive a substantial majority investment from Vista Equity Partners](https://www.bloomberg.com/news/articles/2019-09-24/vista-is-said-to-buy-majority-stake-in-acquia-in-1-billion-deal). This means that Acquia has a new investor that owns more than 50 percent of the company, and who is invested in our future success. Attracting a well-known partner like [Vista](https://www.vistaequitypartners.com/) is a tremendous validation of what we have been able to achieve. I'm incredibly proud of that, as so many Acquians worked so hard to get to this milestone.
 
-### Our mission remains the same
+## Our mission remains the same
 
 Our mission at Acquia is to help our customers and partners build amazing digital experiences by offering them the best digital experience platform.
 
@@ -29,7 +31,7 @@ For years, people have rumored about Acquia going public. It still is a great op
 
 We will continue to direct all of our energy to what we have done for so long: provide our customers and partners with leading solutions to build, operate and optimize digital experiences. We have a lot of work to do to help more businesses see and understand the power of Open Source, cloud delivery and data-driven customer experiences.
 
-### We'll keep giving back to Open Source
+## We'll keep giving back to Open Source
 
 This investment should be great news for the [Drupal](https://www.drupal.org) and [Mautic](https://www.mautic.org/) communities as we'll have the right resources to compete against other solutions, and our deep commitment to Drupal, Mautic and Open Source will be unchanged. In fact, we will continue to increase our current level of investment in Open Source as we grow our business.
 
@@ -42,7 +44,7 @@ In talking with Vista, who has a long history of [promoting diversity and equali
 
 We will provide more details soon.
 
-### I continue in my role
+## I continue in my role
 
 I've been at Acquia for 12 years, most of [my professional career](https://dri.es/about).
 
@@ -54,7 +56,7 @@ We have a lot of work left to do to help businesses see and understand the power
 
 The work we do at [Acquia](https://www.acquia.com/) is interesting, impactful, and, in a positive way, challenging. Working at Acquia means I have a chance to change the world in a way that impacts hundreds of thousands of people. There is nowhere else I'd want to work.
 
-### Thank you to our early investors
+## Thank you to our early investors
 
 As part of this transaction, Vista will buy out our initial investors. I want to provide a special shoutout to Michael Skok ([North Bridge Venture Partners](https://www.northbridge.com/) + [Underscore](https://underscore.vc/)) and John Mandile ([Sigma Prima Ventures](http://www.sigmaprime.com)). I fondly remember [Jay Batson and I raising money](https://dri.es/acquia-raises-7-million-series-a) from Michael and John in 2007. They made a big bet on me – at the time, a college student living in Belgium when Open Source was everything but mainstream.
 

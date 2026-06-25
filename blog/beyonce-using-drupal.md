@@ -20,4 +20,4 @@ id: 533
 
 [Beyonce's official website](http://www.beyonceonline.com/) is now using [Drupal](https://www.drupal.org). *Oh oh oh!*
 
-[image drupal/beyonce]
+![A black-and-white website features Beyoncé promoting her album "I Am.](http://default/files/cache/drupal/beyonce-640w.jpg)

@@ -23,7 +23,7 @@ In 2017, the reported data showed that only 6 percent of recorded code contribut
 
 I recently spoke with Tara to learn more about the Drupal Diversity and Inclusion Contribution Team. I quickly discovered that Tara's leadership exemplifies various [Drupal Values and Principles](https://dri.es/defining-drupal-values-and-principles); especially [Principle 3](https://www.drupal.org/about/values-and-principles#foster-a-learning-environment) (Foster a learning environment), [Principle 5](https://www.drupal.org/about/values-and-principles#everyone-has-something-to-contribute) (Everyone has something to contribute) and [Principle 6](https://www.drupal.org/about/values-and-principles#choose-to-lead) (Choose to lead). Inspired by Tara's work, I wanted to spotlight what the DDI Contribution Team has accomplished so far, in addition to how the team is looking to help grow diversity and inclusion in the future.
 
-### A mentorship program to help underrepresented groups
+## A mentorship program to help underrepresented groups
 
 <p class="pullquote">Supporting diversity and inclusion within Drupal is essential to the health and success of the project.</p>
 
@@ -33,17 +33,17 @@ The mission of the Drupal Diversity &amp; Inclusion Contribution Team is to incr
 
 What I loved most in my conversation with Tara is the various examples of growth she gave. For example, [Angela McMahon](https://www.drupal.org/u/angelamnr) is a full-time Drupal developer at Iowa State. Angela been working with her mentor, [Caroline Boyden](https://www.drupal.org/u/cboyden), on the [External Link Module](https://www.drupal.org/project/extlink). Due to her participation with the DDI Contribution Team, Angela has now been credited on 4 fixed issues in the past year.
 
-### Improving the reporting around diversity and inclusion
+## Improving the reporting around diversity and inclusion
 
 In addition to mentoring, another primary area of focus of the DDI Contribution Team is to improve reporting surrounding diversity and inclusion. For example, in partnership with the [Drupal Association](https://www.drupal.org/association) and the [Open Demographics Project](http://nikkistevens.com/open-demographics//), the DDI Contribution Team is working to implement best practices for data collection and privacy surrounding gender demographics. During the mentored code sprints at DrupalCon Nashville, the DDI Contribution Team built the [Gender Field Module](https://www.drupal.org/project/gender), which [we hope to deploy on Drupal.org](https://dri.es/offering-more-inclusive-user-demographic-forms).
 
 The development of the Gender Field Module is exciting, as it establishes a system to improve reporting on diversity demographics. I would love to use this data in future iterations of the 'Who sponsors Drupal development' report, because it would allow us to better measure progress on improving Drupal's diversity and inclusion against community goals.
 
-### One person can make a difference
+## One person can make a difference
 
 What I love about the story of the DDI Contribution Team is that it demonstrates how one person can make a significant impact on the Drupal project. The DDI Contribution Team has grown from Tara's passion and curiosity to see what would happen if she challenged the status quo. Not only has Tara gotten to see one of her own community goals blossom, but she now also leads a team of mentors and mentees and is a co-maintainer of the Drupal 8 version of the [Gender Field Module](https://www.drupal.org/project/gender). Last but not least, she is building a great example for how other Open Source projects can increase contributions from underrepresented groups.
 
-### How you can get involved
+## How you can get involved
 
 If you are interested in getting involved with the DDI Contribution Team, there are a number of ways you can participate:
 

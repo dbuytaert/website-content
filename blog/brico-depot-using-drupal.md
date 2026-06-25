@@ -19,4 +19,4 @@ id: 606
 
 All of our French friends know [Brico Depot](http://www.bricodepot.fr) as a big chain of DIY stores. Well, they are using [Drupal](https://www.drupal.org) now!
 
-[image drupal/brico-depot]
+![Brico Dépôt website homepage featuring promotions, product categories, store location, and upcoming arrivals for construction and home improvement materials.](http://default/files/cache/drupal/brico-depot-640w.jpg)

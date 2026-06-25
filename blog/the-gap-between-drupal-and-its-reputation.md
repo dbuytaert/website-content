@@ -22,6 +22,8 @@ id: 6186
 
 # The gap between Drupal and its reputation
 
+![A figure in a red jacket walks up a hillside against a flow of glowing blue petals carried on the wind.](http://default/files/cache/blog/walking-upstream-640w.jpg)
+
 I saw two thoughtful posts in my LinkedIn feed over the last week that I wanted to reshare here before the LinkedIn feed buried them. Both were spot on, honest, and deserve a longer shelf life.
  
 The first was from [Hynek Naceradsky](https://www.linkedin.com/feed/update/urn:li:activity:7460624673861586944/):

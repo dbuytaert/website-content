@@ -17,4 +17,6 @@ id: 425
 
 # Anders Bals
 
+![A smiling young child with a scarf and jacket sits on a yellow slide, looking happy.](http://default/files/cache/miscellaneous-2008/anders-bals-640w.jpg)
+
 

@@ -19,4 +19,4 @@ id: 255
 
 The new [Greenpeace UK website](https://www.greenpeace.org.uk/) relaunched using [Drupal](https://www.drupal.org/) today. Check it out at <http://www.greenpeace.org.uk> or read up on [some background information](http://importantprojects.com/archives/000084.php). *Looks beautiful!*
 
-[image drupal/greenpeace resize=false]
+![A Greenpeace webpage showing a deforested area with cut logs and a campaign against logging in the Congo rainforest.](http://default/files/images/drupal/greenpeace.jpg)

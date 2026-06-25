@@ -17,4 +17,6 @@ id: 278
 
 # Photo booth fun
 
+![Three people pose closely together for a photo booth picture with a colorful, high-contrast filter applied.](http://default/files/cache/miscellaneous-2007/photo-booth-fun-640w.jpg)
+
 

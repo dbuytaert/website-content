@@ -49,4 +49,5 @@ DrupalCon San Francisco ended a few days ago, so once again I'm sitting here wit
 - A big thank you for Jennifer Lea Lampton, Stephanie Canon, Lauren Nicole Roth and Matt Cheney and hundreds of other people that helped.
 - Two new Drupal conferences announced; one in Copenhagen, one in Chicago.
 
-[image drupalcon-san-francisco-2010/organizers resize=false]
+![A projected image shows four DrupalCon San Francisco 2010 organizers standing together on stage during the closing session.](http://default/files/cache/drupalcon-san-francisco-2010/organizers-640w.jpg)
+*The main organizers of DrupalCon San Francisco: Lauren Nicole Roth, Stephanie Canon, Jennifer Lea Lampton and Matt Cheney. Picture of a projection screen, taken during the closing session of the conference.*

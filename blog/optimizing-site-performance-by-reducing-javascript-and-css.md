@@ -27,7 +27,7 @@ A faster site is more accessible, and therefore more inclusive for people visiti
 For those reasons, I decided to see if I could improve the performance of my site. I used the excellent <https://webpagetest.org> to benchmark a simple blog post <https://dri.es/relentlessly-eliminating-barriers-to-growth>.
 
 <div class="large">
-  [image blog/webpagetest-no-images-february-2019-before resize=false]
+  ![A waterfall diagram that shows requests and load times before making performance improvements](http://default/files/cache/blog/webpagetest-no-images-february-2019-before-640w.png)
 </div>
 
 The image above shows that it took a browser 0.722 seconds to download and render the page (see blue vertical line):
@@ -77,7 +77,7 @@ Because the new JavaScript and CSS files are significantly smaller, it takes the
 After a new <https://webpagetest.org> test run, you can clearly see that the bars for the CSS and JavaScript files became visually shorter:
 
 <div class="large">
-  [image blog/webpagetest-no-images-february-2019-after resize=false]
+  ![A waterfall diagram that shows requests and load times after making performance improvements](http://default/files/cache/blog/webpagetest-no-images-february-2019-after-640w.png)
 </div>
 
 To optimize the user experience of my site, I want it to be fast. I hope that others will see that bloated websites can come at a great cost, and will consider using tools like <https://webpagetest.org> to make their sites more performant.

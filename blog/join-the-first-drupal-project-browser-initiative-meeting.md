@@ -19,7 +19,7 @@ When I ask people why they fell in love with Drupal, most often they talk about 
 
 With that in mind, I proposed [a new Project Browser initiative](https://www.drupal.org/project/ideas/issues/2940733) in [my DrupalCon North America keynote](https://dri.es/state-of-drupal-presentation-april-2021). A Project Browser makes it easy for site builders to find and install modules. You shouldn't need to use the command line!
 
-[video Qjo5ledXDIg]
+https://www.youtube.com/watch?v=Qjo5ledXDIg
 
 Making module discovery and module installation easier is long overdue. It's time to kick off this initiative! I will host the first meeting on [May 24th between 14:30 UTC and 15:15 UTC](https://time.is/1430_24_May_2021_in_UTC). We'll share a Zoom-link on the [Project Browser Slack channel](https://drupal.slack.com/archives/C01UHB4QG12) before the meeting starts. Join our Slack channel and mark your calendars.
 

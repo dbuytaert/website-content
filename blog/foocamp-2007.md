@@ -26,4 +26,4 @@ And now FooCamp. I've never seen a line-up of people this impressive. Some of th
 
 Despite the incredibly interesting audience at FooCamp, the opportunities, the desire to evangelize Drupal, the quest for what to do after my PhD, and the many friends I have in San Francisco, I can't help but feel out of place already. Maybe this feeling stems from the fact that I have to leave my pregnant wife behind for a couple days, I don't know. One thing is for sure: life has been a chain of unexpected and often incredible events that keep taking me by surprise. I'm grateful for that. :)
 
-[video swIKGLqIitI]
+https://www.youtube.com/watch?v=swIKGLqIitI

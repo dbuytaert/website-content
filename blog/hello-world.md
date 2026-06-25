@@ -18,4 +18,6 @@ id: 226
 
 # Hello world
 
+![Ultrasound image showing a developing fetus inside the womb.](http://default/files/cache/miscellaneous-2007/hello-world-640w.jpg)
+
 Because [subtlety doesn't always work](https://dri.es/cashew-nut) ... ;-)

@@ -19,13 +19,13 @@ id: 213
 
 With the release of Drupal 5, you might be wondering which version of Drupal is faster – the latest release in the Drupal 4 series, or the new Drupal 5?
 
-### Experimental setup
+## Experimental setup
 
 I setup a Drupal 4.7 site with 2,000 users, 5,000 nodes, 5,000 path aliases, 10,000 comments and 250 vocabulary terms spread over 15 vocabularies.
 
 Next, I configured the main page to show 10 nodes, enabled some blocks in both the left and the right sidebar, setup some primary links, and added a search function at the top of the page. I also setup a contact page using Drupal's contact module. The image below depicts how my final main page was configured.
 
-[image drupal/drupal-4.7-main-page resize=false]
+![Drupal 7 main page showing blog posts, recent comments, user login form, and navigation links.](http://default/files/cache/drupal/drupal-4.7-main-page-640w.jpg)
 
 Furthermore, I made an exact copy of the Drupal 4.7 site and upgraded it to the latest Drupal 5 release. The result is two identical websites; one using Drupal 4.7 and one using Drupal 5.
 
@@ -33,7 +33,7 @@ Benchmarks were conducted on a 3 year old Pentium IV 3Ghz with 2 GB of RAM runni
 
 Apache's [ab2](http://httpd.apache.org/docs/2.0/programs/ab.html) with 20 concurrent clients was used to compute how many requests per second the above setup was capable of serving.
 
-### Drupal page caching
+## Drupal page caching
 
 Drupal has a page cache mechanism that stores dynamically generated web pages in the database. By caching a web page, Drupal does not have to create the page each time it is requested. Only pages requested by *anonymous visitors* (users that have not logged on) are cached. Once users have logged on, caching is disabled for them since the pages are personalized in various ways. On some websites, like this weblog, everyone but me is an anonymous visitor, while on other websites there might be a good mix of both anonymous and *authenticated visitors*.
 
@@ -43,15 +43,17 @@ Furthermore, a Drupal 5 installation has two caching modes: *normal database cac
 
 Through contributed modules, Drupal also supports *file caching* which should outperform *aggressive database caching*. I have not looked at file caching or any other caching strategies that are made available through contributed modules.
 
-### Results
+## Results
 
-[image drupal/drupal-5-performance-1 resize=false]
+![Bar chart comparing Drupal performance, showing requests per second for different versions and caching levels.](http://default/files/images/drupal/drupal-5-performance-1.jpg)
+*The number of pages Drupal can serve per second. Higher bars are better.*
 
 The figure above shows that generating a page in Drupal 5 is 3% slower than in Drupal 4.7. However, when serving a cached page using the normal database cache, Drupal 5 is 73% faster than Drupal 4.7, and 268% faster when the aggressive database cache is used.
 
 What does this mean when looking at the overall performance of a Drupal 5 website? Well, the effectiveness of Drupal's page cache depends on a number of parameters like your cache expiration time, the number of authenticated users, access patterns, etc. To emulate different Drupal configurations, we modified Drupal 4.7 and Drupal 5 so we could look at performance for a range of page cache miss rates.
 
-[image drupal/drupal-5-performance-2 resize=false]
+![Bar chart showing Drupal 5's performance improvement over Drupal 4.](http://default/files/images/drupal/drupal-5-performance-2.jpg)
+*The relative performance improvement of Drupal 5's normal database caching compared to Drupal 4.7's database caching. A miss rate of 0% means that all page requests result in a cache hit and that all pages can be served from the database cache. A miss rate of 100% means that all page requests result in a cache miss, and that we had to dynamically generate all pages.*
 
 The figure above shows the relative performance improvement of Drupal 5 compared to Drupal 4.7. We observe that Drupal sites with relatively few cache misses (typically static Drupal websites accessed by anonymous users) will be significantly faster with Drupal 5. However, Drupal sites where more than 1 out of 2 page requests results in a cache miss (typically dynamic Drupal websites with a lot of authenticated users) will be slightly slower compared to an identical Drupal 4.7 website.
 

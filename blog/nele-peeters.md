@@ -17,4 +17,6 @@ id: 117
 
 # Nele Peeters
 
+![A woman lifts her sunglasses slightly and looks at the camera with a subtle smile.](http://default/files/cache/miscellaneous-2006/nele-peeters-640w.jpg)
+
 

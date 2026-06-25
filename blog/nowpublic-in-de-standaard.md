@@ -22,6 +22,9 @@ As my photos illustrate, professional journalists and media companies need to lo
 
 *(Disclosure: I am an [advisor](http://www.nowpublic.com/node/161612) to NowPublic.)*
 
-[image nowpublic/standaard-1]
-[image nowpublic/standaard-2]
-[image nowpublic/standaard-3]
+![A newspaper article in De Standaard discusses NowPublic and citizen journalism, highlighting its impact on traditional media.](http://default/files/cache/nowpublic/standaard-1-640w.jpg)
+*The one page article about <a href="http://nowpublic.com">NowPublic</a> and citizen journalism as published in the August 4 edition of <a href="http://standaard.be">De Standaard</a>. The article has good things to say about NowPublic.*
+![A newspaper article discusses the lack of amateur journalists in Belgium and the competition between city blogs and major news outlets.](http://default/files/cache/nowpublic/standaard-2-640w.jpg)
+*<a href="http://www.mict.be/personeel/dr-steve-paulussen">Steve Paulussen</a> \(post-doctoral fellow at <a href="http://ugent.be">Ghent University</a>\) states that Belgian's most popular city blog, <a href="http://gentblogt.be">Gentblogt</a>, can't compete with <a href="http://standaard.be">De Standaard's online news outlet</a>. Steve argues that Belgium doesn't have enough amateur journalists.*
+![Close-up of a newspaper article discussing the credibility of citizen journalism compared to professional journalism.](http://default/files/cache/nowpublic/standaard-3-640w.jpg)
+*Pol Deltour, secretary of the <a href="http://www.agjpb.be/vvj/">Flemish Association of Journalists</a> claims that citizen journalism is less credible and not as trustworthy as professional journalism. He argues that <a href="http://nowpublic.com">NowPublic</a> does not have the resources to verify the correctness of their correspondents' footage.*

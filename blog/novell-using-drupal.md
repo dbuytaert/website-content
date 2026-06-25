@@ -18,4 +18,4 @@ id: 367
 
 Novell recently announced the launch of a number of community websites built with Drupal: <http://www.novell.com/communities/>.
 
-[image drupal/novell]
+![Novell Communities webpage with a red banner saying "interact together" and sections for community resources, support, and solutions.](http://default/files/cache/drupal/novell-640w.jpg)

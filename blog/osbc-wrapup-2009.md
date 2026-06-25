@@ -26,4 +26,4 @@ I've talked to many Open Source business leaders in the last few days. I shared 
 
 Compared to the traditional, more developer-oriented, Open Source conferences like OSCON, FOSDEM, and Froscon, it all felt a bit like a "parallel universe". Open Source, all day, all the time, yet a different audience. One difference was that I didn't notice many representatives from our other sister CMS projects. I feel pretty strongly, though, that it's important for us to continue pushing the envelope in our evangelization of Drupal and that conferences like this produce many unexpected benefits. Attending OSBC helped put – or will keep – Drupal on the radar screens of many of the key players in our industry. Kudos to Tom, Jay and Bryan – my colleagues at [Acquia](https://www.acquia.com) – to help spread the Drupal word at OSBC.
 
-[image acquia/osbc-2009]
+![Four men on a panel discussion sit with microphones, listening attentively to someone off-camera.](http://default/files/images/acquia/osbc-2009.jpg)

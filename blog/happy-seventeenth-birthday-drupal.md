@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/happy-seventeenth-birthday-drupal'
-title: 'Happy seventeenth birthday Drupal '
+title: 'Happy seventeenth birthday Drupal'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -15,7 +15,7 @@ published: true
 id: 4131
 ---
 
-# Happy seventeenth birthday Drupal 
+# Happy seventeenth birthday Drupal
 
 Seventeen years ago today, I open-sourced the software behind Drop.org and released Drupal 1.0.0. When [Drupal](https://www.drupal.org) was first founded, Google was in its infancy, the mobile web didn't exist, and JavaScript was a very unpopular word among developers.
 
@@ -23,7 +23,7 @@ Over the course of the past seventeen years, I've witnessed the nature of the we
 
 While the course of my career has evolved, Drupal has always remained a constant. It's what inspires me every day, and the impact that Drupal continues to make energizes me. Millions of people around the globe depend on Drupal to deliver their business, mission and purpose. Looking at the Drupal users in the video below gives me goosebumps.
 
-[video iHpPGGpxBEA]
+https://www.youtube.com/watch?v=iHpPGGpxBEA
 
 Drupal's success is not only marked by the organizations it supports, but also by our community that makes the project [more than just the software](https://dri.es/state-of-drupal-presentation-september-2016). While there were hurdles in 2017, there were plenty of milestones, too:
 

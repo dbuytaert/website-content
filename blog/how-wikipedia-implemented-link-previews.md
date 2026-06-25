@@ -17,9 +17,11 @@ id: 4326
 
 # How Wikipedia implemented link previews
 
+![A Wikipedia page about Drupal with a link preview showing a blog-related entry overlapping the text.](http://default/files/cache/blog/wikipedia-link-previews-640w.jpg)
+
 You might have noticed that [Wikipedia recently started enabling link previews](https://medium.com/freely-sharing-the-sum-of-all-knowledge/wikipedia-page-previews-738cddac7a21); when you hover over a link, it displays a card with more information about the linked page.
 
-[image blog/wikipedia-link-previews resize=false]
+![A Wikipedia page about Drupal with a link preview showing a blog-related entry overlapping the text.](http://default/files/cache/blog/wikipedia-link-previews-640w.jpg)
 
 My first reaction was: what took them so long? Link previews help to solve an important usability problem of having to open many articles, often in multiple browser tabs. However, after I started to read more about how [Wikipedia](https://www.wikipedia.org/) implemented the link previews, I was reminded of how hard it is to do things at the scale Wikipedia requires.
 

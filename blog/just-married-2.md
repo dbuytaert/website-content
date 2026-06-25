@@ -17,4 +17,6 @@ id: 340
 
 # Just married
 
+![A bride and groom walk hand in hand outdoors, smiling.](http://default/files/cache/wedding-joris-and-caroline-2007/wedding-8-640w.jpg)
+
 

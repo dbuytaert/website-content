@@ -21,4 +21,4 @@ Drupal continues to [rock the newspaper and magazine world](https://vimeo.com/97
 
 Edipresse is known to use [eZ publish](https://ez.no/) for many of the group's websites. In fact, [Femina](http://femina.ch) used to run on eZ publish as well. I don't know the details but maybe more Edipresse websites will be Drupal-ized?
 
-[image drupal/femina]
+![A French-language magazine website with articles on fashion, beauty, lifestyle, and blogs, featuring images and advertisements.](http://default/files/cache/drupal/femina-640w.jpg)

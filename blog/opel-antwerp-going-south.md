@@ -18,4 +18,6 @@ id: 1412
 
 # Opel Antwerp going south
 
+![Close-up of an Opel steering wheel, showing the logo and textured surface, with dashboard controls slightly visible in the background.](http://default/files/cache/miscellaneous-2010/opel-going-south-640w.jpg)
+
 Taken with my Panasonic GF1 and the Lumix 20mm f1.7 pancake lens while I was waiting in our car for my wife to buy some ham and cheese. Handheld, no flash, but edited in Adobe Lightroom. I love the camera's shallow depth of field.

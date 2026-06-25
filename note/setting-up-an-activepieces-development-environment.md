@@ -58,7 +58,7 @@ When you make changes to the code, they're automatically compiled and hot-reload
 
 To complete your setup, see my guide on [connecting Drupal with Activepieces](https://dri.es/connecting-drupal-with-activepieces).
 
-### Troubleshooting common issues
+## Troubleshooting common issues
 
 I've run into a few issues while working with the Activepieces development environment. Here is what usually fixes them.
 

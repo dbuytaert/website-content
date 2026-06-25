@@ -19,9 +19,11 @@ id: 5351
 
 # Acquia, what is in a name?
 
+![Text reads: "ah-kwe-eh" in bold blue letters, followed by "Delivering the universal platform for the world's greatest digital experiences" on a patterned background.](http://default/files/cache/acquia/ah-kwe-eh-640w.png)
+
 [Acquia](https://www.acquia.com/) recently turned 15. Over the past 15 years, I've heard [the name "Acquia" pronounced in all sorts of different ways](https://youtu.be/IXkgf_HYgqg).
 
-[video IXkgf_HYgqg]
+https://www.youtube.com/watch?v=IXkgf_HYgqg
 
 It was Jay Batson, my co-founder, who came up with the name "Acquia". Please blame Jay for the difficult name. ;)
 

@@ -23,4 +23,4 @@ R.E.M is using [Drupal](https://www.drupal.org) for their new [tour website](htt
 
 I don't know who built the site, but it is a good social publishing showcase. They actively encourage all R.E.M. fans to share and catalog the content they've created. They show the most recent tweets, Flickr photos, YouTube mashups, concert footage, etc. *All very cool!*
 
-[image drupal/rem-tour]
+![Screenshot of the REM Tour 2008 website displaying tour dates, fan content instructions, videos, tweets, and recent comments.](http://default/files/cache/drupal/rem-tour-640w.jpg)

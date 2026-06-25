@@ -24,4 +24,4 @@ It's also clear that Reuters is very interested in experimentation with "new med
 
 Let's think through this again. The world's largest international news agency uses Drupal to highlight the innovative features and applications they think they may want to deploy in the future. I don't know about you, but I like the way that sentence sounds.
 
-[image drupal/reuters-labs]
+![Reuters Labs webpage showcasing new product innovations, including a news app, community platform, and semantic web service.](http://default/files/cache/drupal/reuters-labs-640w.jpg)

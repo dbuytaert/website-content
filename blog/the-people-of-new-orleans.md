@@ -18,20 +18,22 @@ id: 3676
 
 # The people of New Orleans
 
+![A man wearing a New Orleans cap looks directly at the camera with a neutral expression.](http://default/files/cache/new-orleans-2016/street-life-2-640w.jpg)
+
 I love street photography. Walking and shooting. Walking, talking and shooting. Slightly pushing me out of my comfort zone looking for that one great photo.
 
-[image new-orleans-2016/street-life-7]
-[image new-orleans-2016/sunrise-3]
+![A bearded man with blue eyes looks directly at the camera on a city street.](http://default/files/cache/new-orleans-2016/street-life-7-640w.jpg)
+![A person balances on a wooden post by the water at sunrise, arms outstretched.](http://default/files/cache/new-orleans-2016/sunrise-3-640w.jpg)
 
 <div class="large">
-  [image new-orleans-2016/street-life-2]
+  ![A man wearing a New Orleans cap looks directly at the camera with a neutral expression.](http://default/files/cache/new-orleans-2016/street-life-2-640w.jpg)
 </div>
 
 Street photography is all fun and games until someone pulls out a handgun. The anarchy sign in the background makes these shots complete.
 
 <div class="side-by-side">
-  [image new-orleans-2016/gun-2]
-  [image new-orleans-2016/gun-3]
+  ![A man in tactical clothing sits against a graffiti-covered post, holding a gun in his hand.](http://default/files/cache/new-orleans-2016/gun-2-640w.jpg)
+  ![A person in camouflage pants sits on a wooden surface, holding a handgun with a gloved hand.](http://default/files/cache/new-orleans-2016/gun-3-640w.jpg)
 </div>
 
 For more photos, check out the [entire album](https://dri.es/album/new-orleans-2016/).

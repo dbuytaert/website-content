@@ -20,4 +20,6 @@ id: 3996
 
 # Niagara Falls by night
 
+![Niagara Falls glows with pink and purple lights at night, with a city skyline in the background.](http://default/files/cache/niagara-on-the-lake-2017/niagara-falls-by-night-1-640w.jpg)
+
 I had a chance to visit the Niagara Falls last week on a family trip. If you like nature, it's a must see – both during the day and at night when they lit up the falls. I love this photo but it still doesn't capture the majesty and beauty of the Niagara Falls.

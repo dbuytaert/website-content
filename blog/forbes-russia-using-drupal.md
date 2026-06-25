@@ -19,4 +19,4 @@ id: 1231
 
 The website of the [Russian Forbes magazine](http://forbesrussia.ru) was recently redesigned using [Drupal](https://www.drupal.org). *Ypa, ypa, ypa!*
 
-[image drupal/forbes-russia]
+![Screenshot of the Forbes Russia website featuring news headlines, a luxury-themed article, and an advertisement comparing business success.](http://default/files/cache/drupal/forbes-russia-640w.jpg)

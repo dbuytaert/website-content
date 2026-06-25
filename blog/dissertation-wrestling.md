@@ -17,4 +17,6 @@ id: 325
 
 # Dissertation wrestling
 
+![A printed academic paper with handwritten feedback and corrections from an advisor, including circled text and margin notes.](http://default/files/cache/miscellaneous-2007/dissertation-wrestling-640w.jpg)
+
 

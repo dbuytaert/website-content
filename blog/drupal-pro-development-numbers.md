@@ -23,6 +23,6 @@ Well, [John VanDyk](https://www.sysarchitects.com/blog), co-author of the [Pro D
 
 Without a doubt, these numbers are truly amazing. It is simply astounding to think that in a few short months one book has given the world 10,000 new or greatly improved Drupal developers. It blows my mind.
 
-[image drupal/book-pro-drupal-development-2007-1]
+![Close-up of the book cover "Pro Drupal Development" with bold yellow text on a black background.](http://default/files/cache/drupal/book-pro-drupal-development-2007-1-640w.jpg)
 
 I guess this explains why [publishers are looking for Drupal book authors](https://dri.es/wanted-drupal-book-authors). And in case you are wondering, there is still [room for more Drupal books](https://dri.es/drupal-community-skills).

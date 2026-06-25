@@ -19,6 +19,8 @@ id: 1946
 
 # Tate using Drupal
 
+![A webpage for Turbinegeneration at Tate displays an art project with a large glowing sun installation and silhouetted visitors.](http://default/files/cache/drupal/turbinegeneration-tate-640w.jpg)
+
 [Turbinegeneration](http://turbinegeneration.tate.org.uk) is a new online community that allows students in schools around the world to contribute, comment and rate each other's artwork. The goal is to invite art students worldwide to make a work of art specifically for [Tate Modern](http://www.tate.org.uk/modern), one of the most-visited modern art galleries in the world.
 
 The site is based on [Drupal](https://www.drupal.org). Web design firm [BrightLemon London](http://www.brightlemon.com) was chosen to build the online community.

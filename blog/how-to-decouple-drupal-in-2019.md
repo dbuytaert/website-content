@@ -20,6 +20,8 @@ id: 4721
 
 # How to decouple Drupal in 2019
 
+![A flowchart of how to decouple Drupal in 2019](http://default/files/cache/drupal/how-to-decouple-drupal-in-2019-flowchart-full-640w.png)
+
 The pace of innovation in content management has been accelerating – driven by both the number of channels that content management systems need to support (web, mobile, social, chat) as well as the need to support JavaScript frameworks in the traditional web channel. As a result, we've seen headless or decoupled architectures emerge.
 
 Decoupled Drupal has seen adoption from all corners of the Drupal community. In response to the trend towards decoupled architectures, I wrote blog posts in [2016](https://dri.es/how-should-you-decouple-drupal) and [2018](https://dri.es/how-to-decouple-drupal-in-2018) for architects and developers about how and when to decouple Drupal. In the time since my last post, the surrounding landscape has evolved, Drupal's web services have only gotten better, and new paradigms such as static site generators and the [JAMstack](https://jamstack.org/) are emerging.
@@ -27,10 +29,10 @@ Decoupled Drupal has seen adoption from all corners of the Drupal community. In 
 Time to update my recommendations for 2019! As we did a year ago, let's start with the 2019 version of the flowchart in full. (At the end of this post, there is also [an accessible version of this flowchart described in words](https://dri.es/how-to-decouple-drupal-in-2019#accessible-flowchart).)
 
 <div class="large">
-  [image drupal/how-to-decouple-drupal-in-2019-flowchart-full resize=false]
+  ![A flowchart of how to decouple Drupal in 2019](http://default/files/cache/drupal/how-to-decouple-drupal-in-2019-flowchart-full-640w.png)
 </div>
 
-### Different ways to decouple Drupal
+## Different ways to decouple Drupal
 
 I want to revisit some of the established ways to decouple Drupal as well as discuss new paradigms that are seeing growing adoption. As I've written previously, the three most common approaches to Drupal architecture from a decoupled standpoint are *traditional* (or *coupled*), *progressively decoupled*, and *fully decoupled*. The different flavors of decoupling Drupal exist due to varying preferences and requirements.
 
@@ -42,10 +44,10 @@ Up until this year, **fully decoupled Drupal** was a single category of decouple
 
 Over the last year, fully decoupled Drupal has branched into two separate paradigms due to the increasing complexity of JavaScript development. The so-called *JAMstack* (JavaScript, APIs, Markup) introduces a new approach: **fully decoupled static sites**. The primary reason for static sites is improved performance, security, and reduced complexity for developers. A static site generator like [Gatsby](https://www.gatsbyjs.org/) will retrieve content from Drupal, generate a static website, and deploy that static site to a CDN, usually through a specialized cloud provider such as [Netlify](https://www.netlify.com/).
 
-### What do you intend to build?
+## What do you intend to build?
 
 <div class="large">
-  [image drupal/how-to-decouple-drupal-in-2019-flowchart-top-section resize=false]
+  ![The top section of the flowchart showing how to decouple Drupal in 2019](http://default/files/cache/drupal/how-to-decouple-drupal-in-2019-flowchart-top-section-640w.png)
 </div>
 
 The essential question, as always, is what you're trying to build. Here is updated advice for architects exploring decoupled Drupal in 2019:
@@ -58,10 +60,10 @@ What makes Drupal so powerful is that it supports all of these use cases. Drupal
 
 In addition to technical requirements, **organizational factors** often come into play as well. For instance, if it is proving difficult to find talented front-end Drupal developers with Twig knowledge, it may make more sense to hire more affordable JavaScript developers instead and build a fully decoupled implementation.
 
-### Are there things you can't live without?
+## Are there things you can't live without?
 
 <div class="large">
-  [image drupal/how-to-decouple-drupal-in-2019-flowchart-middle-section resize=false]
+  ![The middle section of the flowchart showing how to decouple Drupal in 2019](http://default/files/cache/drupal/how-to-decouple-drupal-in-2019-flowchart-middle-section-640w.png)
 </div>
 
 As I wrote last year, the most important aspect of any decision when it comes to decoupling Drupal is the list of features your project requires; the needs of editors and developers have to be carefully considered. It is a critical step in your evaluation process to weigh the different advantages and disadvantages. Every project should embark on a clear-eyed assessment of its organization-wide needs.
@@ -72,17 +74,18 @@ In recent years, the developer experience has also become an important considera
 
 This balancing act between the requirements that developers prioritize and those that editors prioritize will guide you to the correct approach for your needs. If you are part of an organization that is mostly editorial, decoupled Drupal could be problematic, because it reduces the amount of control editors have over the presentation of their content. By the same token, if you are part of an organization with more developer resources, fully decoupled Drupal could potentially accelerate progress, with the warning that many mission-critical editorial features disappear.
 
-### Current and future trends to consider
+## Current and future trends to consider
 
 <div class="large">
-  [image drupal/how-to-decouple-drupal-in-2019-spectrum-diagram resize=false]
+  ![A diagram showing a spectrum of site building solution; low-code solutions on the left and high-code solutions on the right](http://default/files/cache/drupal/how-to-decouple-drupal-in-2019-spectrum-diagram-640w.png)
+*Over the past year, JavaScript frameworks have become more complex, while static site generators have become less complex.*
 </div>
 
 One of the common complaints I have heard about the JavaScript landscape is that it shows fragmentation and a lack of cohesion due to increasing complexity. This has been a driving force for static site generators. Whereas two years ago, most JavaScript developers would have chosen a fully functional framework like Angular or Ember to create even simple websites, today they might choose a static site generator instead. A static site generator still allows them to use JavaScript, but it is simpler because performance considerations and build processes are offloaded to hosted services rather than the responsibility of developers.
 
 I predict that static site generators will gain momentum in the coming year due to the positive developer experience they provide. Static site generators are also attracting a middle ground of both more experienced and less experienced developers.
 
-### Conclusion
+## Conclusion
 
 Drupal continues to be an ideal choice for decoupled CMS architectures, and it is only getting better. The API-first initiative is making good progress on preparing the [JSON:API module](https://www.drupal.org/project/jsonapi) for inclusion in Drupal core, and the Admin UI and JavaScript Modernization initiative is working to dogfood Drupal's web services with [a reinvented administrative interface](https://dri.es/working-toward-a-javascript-driven-drupal-administration-interface). Drupal's support for GraphQL continues to improve, and now there is even [a book on the subject of decoupled Drupal](https://dri.es/a-book-for-decoupled-drupal-practitioners). It's clear that developers today have a wide range of ways to work with the rich features Drupal has to offer for decoupled architectures.
 
@@ -109,14 +112,14 @@ If your answer to the previous question was "No", then you should build a *fully
 
 Both editorial and developer needs are things that projects cannot live without, and here are the questions you need to ask about your project:
 
-#### Editorial needs
+### Editorial needs
 
 - Do editors need to manipulate page content and layout without a developer?
 - Do editors need in-context tools like in-place editing, contextual links, and toolbar?
 - Do editors need to preview unpublished content without custom development?
 - Do editors need content to be accessible by default like in Drupal's HTML?
 
-#### Developer needs
+### Developer needs
 
 - Do developers need to have control over visual presentation instead of editors?
 - Do developers need server-side rendering or Node.js build features?

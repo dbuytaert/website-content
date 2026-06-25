@@ -19,7 +19,9 @@ id: 3581
 
 # A history of JavaScript across the stack
 
-[image blog/javascript-powered-multichannel]
+![Universal JavaScript](http://default/files/images/blog/universal-javascript.jpg)
+
+![Illustration of a computer screen labeled "JS Tips" connected to multiple devices, representing JavaScript-powered multichannel communication.](http://default/files/cache/blog/javascript-powered-multichannel-640w.gif)
 
 Did you know that JavaScript was created in 10 days? In May 1995, [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich) wrote the first version of JavaScript in 10 days while working at Netscape.
 
@@ -41,6 +43,7 @@ In 2013, [Airbnb was the first](http://nerds.airbnb.com/isomorphic-JavaScript-fu
 
 The biggest advantage Airbnb's JavaScript isomorphism had over Twitter's approach is the notion of a *completely reusable rendering system*. Because the client-side framework is executed the same way on both server and client, rendering becomes much more manageable and debuggable in that the primary distinction between the server-side and client-side renders is not the language or templating system used, but rather what data is provisioned by the server and how.
 
-[image blog/universal-javascript resize=false]
+![Universal JavaScript](http://default/files/images/blog/universal-javascript.jpg)
+*In a universal JavaScript approach utilizing shared rendering, Node.js executes a framework \(in this case Angular\), which then renders an initial application state in HTML. This initial state is passed to the client side, which also loads the framework to provide further client-side rendering that is necessary, particularly to “rehydrate” or update the server-side render.*
 
 From a prototype written in 10 days to being used across the stack by some of the largest websites in the world, long gone are the days of clunky browser implementations whose APIs changed depending on whether you were using Netscape or Internet Explorer. It took JavaScript 20 years, but it is finally considered an equal partner to traditional, well-established server-side languages.

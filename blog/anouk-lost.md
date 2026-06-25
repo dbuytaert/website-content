@@ -15,6 +15,6 @@ id: 2606
 
 # Anouk - Lost
 
-[video s6uP3ggOcrg]
+https://www.youtube.com/watch?v=s6uP3ggOcrg
 
 I just love this song.

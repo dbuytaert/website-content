@@ -18,4 +18,6 @@ id: 153
 
 # Airport express
 
+![A train labeled "Airport Express" is stopped at a platform, with passengers waiting nearby.](http://default/files/cache/drupalcon-budapest-2006/airport-express-640w.jpg)
+
 

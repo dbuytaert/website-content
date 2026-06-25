@@ -19,4 +19,4 @@ I don't always like Coldplay, but when I do, I like them a lot. To me, this song
 
 I like the imperfect and acoustic version that I embedded below, but you may want to check out [the official version](https://www.youtube.com/watch?v=W0uqLM1uj_k).
 
-[video f_bGqzCXri0]
+https://www.youtube.com/watch?v=f_bGqzCXri0

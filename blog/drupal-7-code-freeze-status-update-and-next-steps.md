@@ -19,7 +19,7 @@ It was a close race to the finish – or rather the beginning – of the [Drupal
 
 First and foremost, I know that both Angie (my Drupal 7 co-maintainer) and I want to express how excited we are about how everyone really pulled together as a team at the end, and who, by working together, got a lot of great stuff in before the deadline for the "code slush" passed. Of the exceptions we had previously noted (see [slides for details](https://dri.es/files/drupal-7-code-freeze-plan.pdf)), eight of the ten made it in. The two stated exceptions that didn't are (1) allowing user profiles to use the field API, and (2) the administrative overlay (see screenshot). Since the overlays patch got incredibly close, Angie and I are committed to having this as part of the final release. There is now a further exception for getting overlays in, and I encourage everyone to keep [working on it](https://www.drupal.org/node/610234) as fast as possible.
 
-[image drupal/drupal-7-overlay]
+![A Drupal content management overlay displaying filtering and update options with no available content listed.](http://default/files/cache/drupal/drupal-7-overlay-640w.jpg)
 
 Other than changes necessary for the overlay, and a few left-over patches that were ready by the 10/15 deadline, we have now entered the next phase of the code freeze: no more API changes and no additional features. At this point, we focus exclusively on usability, accessibility, and performance. (If a performance, accessibility, or usability patch requires an API change, webchick and I will make a decision on a patch by patch basis.) This current phase was originally said to be four weeks from API freeze, but we're extending it to six weeks instead. The new deadline is December 1st, instead of November 15th.
 

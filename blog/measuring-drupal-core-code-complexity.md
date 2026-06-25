@@ -20,6 +20,8 @@ id: 6036
 
 # Measuring Drupal Core code complexity
 
+![A laptop open on a small table inside a van, showing code on the screen, with a bowl of cereal and a mug of coffee beside it.](http://default/files/cache/miscellaneous-2025/vibe-coding-van-640w.jpg)
+
 I built a dashboard that tracks [Drupal Core](https://www.drupal.org/project/drupal)'s code quality over time, across major releases from Drupal 7 through Drupal 11. It measures lines of code, cyclomatic complexity, maintainability index, anti-patterns, and API surface area. Think of it as a health report for Drupal's codebase. 
 
 The dashboard updates automatically and is available at <a href="https://dbuytaert.github.io/drupal-core-metrics/">https://dbuytaert.github.io/drupal-core-metrics/</a>.

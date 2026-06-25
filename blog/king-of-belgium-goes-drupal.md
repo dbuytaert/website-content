@@ -20,4 +20,4 @@ id: 1276
 
 Following hot on the heels of [US President Barack Obama](https://dri.es/whitehouse-gov-using-drupal), Albert II, King of the Belgians, just relaunched his website on [Drupal](https://www.drupal.org). Check it out at <http://www.monarchie.be>. The site was built by [Connexion](https://www.connexion.eu/) and [Internet Architects](http://www.internetarchitects.be%20).
 
-[image drupal/belgian-monarchy]
+![A group of people, including Belgian royalty, pose at the Royal Palace for a Christmas concert event.](http://default/files/cache/drupal/belgian-monarchy-640w.jpg)

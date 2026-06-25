@@ -23,5 +23,7 @@ Participants were led through a set of scenario driven exercises using a system 
 
 Interesting to see how social software tools (i.e. Drupal) are used by institutions such as NATO, and glad to see that we help make the world a better place ...
 
-[image drupal/nato-using-drupal]
-[image drupal/pfp-drupal-training]
+![NATO's Partnership for Peace website, built with Drupal, provides training and collaboration resources for member countries.](http://default/files/cache/drupal/nato-using-drupal-640w.jpg)
+*A <a href="http://www.nato.int/issues/pfp/index.html">Partnership for Peace \(PfP\)</a> website using Drupal.*
+![A presenter leads a Drupal training session in a computer lab with participants following along on their screens.](http://default/files/cache/drupal/pfp-drupal-training-640w.jpg)
+*Drupal training at a <a href="http://www.nato.int/issues/pfp/index.html">Partnership for Peace \(PfP\) Training Centers</a>. &copy; <a href="http://www.exposur3.com/">Chrys</a>.*

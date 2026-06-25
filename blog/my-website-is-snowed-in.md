@@ -18,13 +18,16 @@ id: 6016
 
 # My website is snowed in
 
+![A solar panel on a rooftop during sunset with a city skyline in the background.](http://default/files/cache/miscellaneous-2024/solar-panel-on-roofdeck-640w.jpg)
+
 My [solar-powered website](https://dri.es/my-solar-powered-and-self-hosted-website) just crossed 500 days of uptime. It took the biggest snowstorm in nearly three years to put that streak at risk.
 
 Winter storm Devin is burying the Northeast of the United States right now. There is over five inches of snow in Boston. Thousands of flights are cancelled, thousands more delayed.
 
 I'm writing this from Schiphol airport in Amsterdam, my own flight home delayed. I can't see whether the solar panel on our roof deck is buried in snow or still catching a little light. All I can do is watch [my solar dashboard](https://dri.es/sensors/solar) from across the ocean and wait.
 
-[image blog/snowed-in-website]
+![A grid of hourly battery levels shows green squares fading to red over recent days.](http://default/files/cache/blog/snowed-in-website-640w.png)
+*The view from Schiphol airport.*
 
 The dashboard says the battery is below 15%. It's still night in Boston and well below freezing. Even when the sun comes up, the charge controller won't recharge the battery if it is too cold.
 

@@ -23,7 +23,7 @@ The goal of Drupal 8's Web Service Initiative is to make Drupal equally good at 
 
 HTML5 is obviously a big part of such a future as well, however, for that I'll setup a dedicated initiative. I believe both can be worked on (mostly) in parallel and by different people. I'm still talking to different people about the HTML5 initiative. Both initiatives combined should get us in a great position with Drupal 8.
 
-### Larry Garfield
+## Larry Garfield
 
 I've decided to make [Larry Garfield](https://www.garfieldtech.com) (aka [Crell](https://www.drupal.org/user/26398)) the *Initiative Owner* for the Web Services Initiative in Drupal 8. As the Initiative Owner Larry will act as the project manager and/or technical lead. In this role, Larry and myself will work closely together on defining the architecture and approach. This means I don't need to be involved in every small conversation myself, but that I still need to sign off on the approach and implementation.
 

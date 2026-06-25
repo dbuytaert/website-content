@@ -19,6 +19,7 @@ id: 473
 
 When people sign up to protect their website against spam with [Mollom](https://mollom.com), they are asked to categorize each of their sites. So far, almost 2,000 Drupal sites have been categorized. The available categories are: a company website (22%), a site built for a customer (7%), a non-profit website (27%) or a personal website (44%).
 
-[image mollom/volume-segmentation resize=false]
+![Pie chart showing Mollom usage: 44% personal websites, 27% non-profits, 22% company websites, and 7% customer websites.](http://default/files/images/mollom/volume-segmentation.jpg)
+*Based on a sample of roughly 2,000 Drupal sites that use Mollom.*
 
 It is only one data point and a relatively small sample so I don't know if it is safe to generalize, but I figured it was an interesting nugget that could help us understand Drupal's install base.

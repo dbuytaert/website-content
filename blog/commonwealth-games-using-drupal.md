@@ -18,4 +18,6 @@ id: 1901
 
 # Commonwealth Games using Drupal
 
+![A webpage for the 2010 Commonwealth Games in Delhi shows event details, news, results, and a medal tally.](http://default/files/cache/drupal/commonwealth-games-delhi-2010-640w.jpg)
+
 Though the games have only one more day to go (they were from October 3rd to October 14th this month), the [XIX Commonwealth Games](http://www.cwgdelhi2010.org/) website runs on [Drupal](https://www.drupal.org), and looks great. This 2010 Commonwealth Games were held in Delhi, and is the largest multi-sport event conducted to date in Delhi and India. Certainly a big win for Drupal!

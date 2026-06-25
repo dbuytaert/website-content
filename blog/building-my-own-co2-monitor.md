@@ -19,6 +19,8 @@ id: 5596
 
 # Building my own CO2 monitor
 
+![An ESP32-S3 development board is linked to an SCD41 CO2 and temperature sensor. For scale, a coin and pen are included. The SCD41 sensor is roughly equivalent in size to the coin, and the ESP32-S3 board is about twice the coin's diameter.](http://default/files/cache/blog/esp32-s3-with-scd41-640w.jpg)
+
 For years, I have worried about the [CO<sub>2</sub>](https://en.wikipedia.org/wiki/Carbon_dioxide) levels in our kids' bedroom. Until recently, our two sons shared a small bedroom in our apartment. Every night, they insisted on shutting the door to block out light and noise. Yet, once they fell asleep, I'd quietly open the door to make sure they had enough fresh air to fuel their dreams.
 
 As we breathe, our bodies naturally expel CO<sub>2</sub> (carbon dioxide). When CO<sub>2</sub> reacts with water within our body it becomes [carbonate](https://en.wikipedia.org/wiki/Carbonate), which can subtly shift our body's internal balance. That is why high CO<sub>2</sub> levels, like in sealed bedrooms, can be harmful.
@@ -34,7 +36,8 @@ It did require a deep dive into CO<sub>2</sub> sensors, which led me to the Sens
 > The SCD4x series is based on photoacoustic NDIR technology. The technology exploits the characteristic property of CO<sub>2</sub> molecules to strongly absorb infra-red (IR) light with wavelengths around 4.2 µm. When shining light of this wavelength through a gas sample, the CO<sub>2</sub> concentration can thus be calculated from the proportion of light that is absorbed.
 
 <div class="large">
-  [image blog/esp32-s3-with-scd41]
+  ![An ESP32-S3 development board is linked to an SCD41 CO2 and temperature sensor. For scale, a coin and pen are included. The SCD41 sensor is roughly equivalent in size to the coin, and the ESP32-S3 board is about twice the coin's diameter.](http://default/files/cache/blog/esp32-s3-with-scd41-640w.jpg)
+*A development board with an ESP32-S3 chip \(left\) connected to a Sensirion SCD41 sensor on the right, which measures CO2 levels and temperature.*
 </div>
 
 My ESP32 device measures CO<sub>2</sub> levels every few minutes, connects to WiFi and sends this data to my web service endpoint at `https://dri.es/sensors`. This endpoint processes and visualizes the data. Unlike [our basement temperature](https://dri.es/sensors/basement-belgium), I've chosen to keep the CO<sub>2</sub> data private and not available to the public.
@@ -45,7 +48,8 @@ Once I got everything working, I sneaked my project into our bedroom, sidesteppi
 
 The next morning, I was met with some surprising data: CO<sub>2</sub> levels had spiked to 2,500 ppm! This was unexpected as we always sleep with the door slightly open and a ceiling fan on low.
 
-[image blog/co2-bedroom-before resize=false]
+![Color-coded chart that illustrates gradually increasing CO2 concentrations during sleep.](http://default/files/cache/blog/co2-bedroom-before-640w.png)
+*A chart from my CO<sub>2</sub> monitor that displays hourly air quality over four consecutive days. Each row is a day, and each square is an hour. Green squares mean normal CO<sub>2</sub> levels and clean air; red squares mean high CO<sub>2</sub> levels that can affect sleep and focus. Every day, the squares shift from green to red, showing air quality decreases during sleep.*
 
 Such high CO<sub>2</sub> levels, as highlighted in Harvard University's research, can adversely impact sleep quality and cognitive functions.
 
@@ -55,7 +59,8 @@ Armed with a few days of data, I presented my discoveries to Vanessa. Initially 
 
 The graph below shows how using the air cycling mode on our thermostat significantly improved CO<sub>2</sub> levels in our bedroom. It proved to be much more effective than just keeping the door open and relying on a ceiling fan. What took me several nights to construct and analyze, Vanessa remedied in under a minute.
 
-[image blog/co2-bedroom-after resize=false]
+![Color-coded chart indicating stable, healthy CO2 levels throughout the night.](http://default/files/cache/blog/co2-bedroom-after-640w.png)
+*A chart from my CO<sub>2</sub> monitor that displays hourly air quality over four consecutive days. Each row is a day, and each square is an hour. Green squares mean normal CO<sub>2</sub> levels and clean air; red squares mean high CO2 levels that can affect sleep and focus. The chart shows that CO<sub>2</sub> levels remain healthy after we turned on the Nest's air cycling feature.*
 
 Of course, opening a window is a simple method to improve indoor air quality and would likely reduce CO<sub>2</sub> levels more effectively than the Nest's air cycling mode. However, I'm told that living in a city and having white curtains makes us hesitant to do so.
 
@@ -63,7 +68,7 @@ Nevertheless, this project highlights how a bit of curiosity and creativity can 
 
 Starting your own CO<sub>2</sub> monitor project can be an exciting and rewarding endeavor. In the rest of this blog post, I'll help you get started. I've detailed my hardware setup and provided the client-side code. As mentioned, the backend code builds on [my thermometer project](https://dri.es/building-my-own-temperature-and-humidity-monitor), so please consult that for further details.
 
-### Hardware used
+## Hardware used
 
 For this project, I bought:
 
@@ -72,11 +77,12 @@ For this project, I bought:
 3. [3.7v 500mAh battery](https://www.adafruit.com/product/1578): A small and portable power source.
 4. [STEMMA QT / Qwiic JST SH 4-pin cable](https://www.adafruit.com/product/4399): To connect the sensor to the board without soldering.
 
-### Client code
+## Client code
 
 What I also love about [Sensirion](https://sensirion.com/) is that they have Arduino libraries for their sensors, including for the SCD4x series (<https://github.com/Sensirion/arduino-i2c-scd4x>). These can easily be installed through Adafruit IDE.
 
-[image blog/sensirion-scd4x-installation-arduino-ide schema=false resize=false]
+![A screenshot of the Arduino IDE with a dialog box for installing the 'Sensirion Core' dependency for the 'Sensirion I2C SCD4x' library.](http://default/files/cache/blog/sensirion-scd4x-installation-arduino-ide-640w.png)
+*Installing the Sensirion SCD4x library via the Arduino IDE.*
 
 Once installed, incorporating it into your project is straightforward–simply include `#include "SensirionI2CScd4x.h"` in your code.
 

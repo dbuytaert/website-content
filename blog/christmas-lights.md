@@ -18,4 +18,6 @@ id: 5092
 
 # Christmas lights
 
+![Vanessa hanging the lights in the Christmas tree](http://default/files/cache/miscellaneous-2020/christmas-tree-lights-640w.jpg)
+
 While preparing for a *different* Christmas this year, some things won't change: we're putting up a Christmas tree. It adds a little sparkle.

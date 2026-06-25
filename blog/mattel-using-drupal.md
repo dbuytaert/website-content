@@ -20,4 +20,4 @@ id: 1006
 
 Mattel, the world's largest toy company, just relaunched [Mattel.com](http://mattel.com) on [Drupal](https://www.drupal.org). The site was built by Vancouver-based [work \[at\] play](http://www.workatplay.com/). Mattel products include Barbie dolls, Hot Wheels, Matchbox cars, Masters of the Universe, and [much more](https://en.wikipedia.org/wiki/Mattel#Products). *For once, my kids and family will understand what I'm talking about. ;-)*
 
-[image drupal/mattel]
+![Homepage of Mattel's website featuring Barbie, Hot Wheels, Fisher-Price, and other toy brands with a colorful design.](http://default/files/cache/drupal/mattel-640w.jpg)

@@ -16,4 +16,6 @@ id: 2486
 
 # Moonlight
 
+![A crescent moon shines over calm water, casting a bright reflection, with trees framing the night sky.](http://default/files/cache/vinalhaven-2011/moonlight-640w.jpg)
+
 

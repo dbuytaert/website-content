@@ -20,9 +20,12 @@ id: 5771
 
 # Keeping your Raspberry Pi online with watchdogs
 
+![A Raspberry Pi 4 with an RS485 CAN HAT in a waterproof enclosure, surrounded by cables, screws and components.](http://default/files/cache/blog/raspberry-pi-4-enclosure-640w.jpg)
+
 A while back, I built a [solar-powered, self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website). Running a website entirely on renewable energy felt like a win, until my Raspberry Pi Zero 2 W started *ghosting* me.
 
-[image miscellaneous-2024/solar-panel-on-roofdeck lazy=false priority=true]
+![A solar panel on a rooftop during sunset with a city skyline in the background.](http://default/files/cache/miscellaneous-2024/solar-panel-on-roofdeck-640w.jpg)
+*My solar panel and Raspberry Pi Zero 2 are set up on our rooftop deck for testing.*
 
 Every few weeks, it just disappears from the network: no ping, no SSH. Completely unreachable, yet the power LED stays on. The SD card has plenty of free space.
 
@@ -30,13 +33,14 @@ The solar panel and battery aren't the problem either. In fact, [my solar dashbo
 
 Every time my Raspberry Pi goes offline, I have to go through the same frustrating ritual: get on the roof, open the waterproof enclosure, disconnect the Pi, pull the SD card, go to my office, reformat it, reinstall the OS and reconfigure everything. Then climb back up and put everything back together.
 
-[image blog/raspberry-pi-4-enclosure]
+![A Raspberry Pi 4 with an RS485 CAN HAT in a waterproof enclosure, surrounded by cables, screws and components.](http://default/files/cache/blog/raspberry-pi-4-enclosure-640w.jpg)
+*A Raspberry Pi 4 with an attached RS485 CAN HAT module is being installed in a waterproof enclosure.*
 
 A month ago, I was back on the roof deck, battling Boston winter. My fingers were numb, struggling with tiny screws and connectors. This had to stop.
 
 The Raspberry Pi Zero 2 W is a great device for IoT projects, but only if it can run unattended for years.
 
-### Watchdogs: a safety net for when things go wrong
+## Watchdogs: a safety net for when things go wrong
 
 Enter **watchdogs**: tools that detect failures and trigger automatic reboots. There are two types:
 
@@ -45,7 +49,7 @@ Enter **watchdogs**: tools that detect failures and trigger automatic reboots. T
 
 Running both ensures the Raspberry Pi can recover from minor issues (like a dropped connection) and system crashes (where everything becomes unresponsive).
 
-### Hardware watchdog
+## Hardware watchdog
 
 The hardware watchdog is a timer built into the Raspberry Pi's Broadcom chip. The operating system must reset or *pet* the timer regularly. If it fails to do so within a set interval, the watchdog assumes the system has frozen and forces a reboot.
 
@@ -71,7 +75,7 @@ Once restarted, `systemd` starts petting the hardware watchdog timer. If it ever
 
 To ensure full recovery, set all critical services to restart automatically. For example, my web server starts by itself, bringing [my solar-powered website](https://solar.dri.es/) back online without any manual work.
 
-### Software watchdog
+## Software watchdog
 
 The hardware watchdog catches complete system freezes, while the software watchdog monitors network connectivity, CPU load and other metrics.
 
@@ -119,7 +123,7 @@ $ sudo systemctl start watchdog
 
 *Enabling* the watchdog makes sure it launches automatically on every boot, while *starting* it activates it immediately without requiring a restart.
 
-### Debugging watchdog reboots
+## Debugging watchdog reboots
 
 When a watchdog triggers a reboot, system logs can help uncover what went wrong. To view all recent system boots, run:
 
@@ -145,7 +149,7 @@ $ journalctl -b -1 -n 50 --no-pager
 - `-n 50` – Displays the last 50 log entries before that reboot.
 - `--no-pager` – Prevents logs from being paginated.
 
-### Progress, but the mystery remains
+## Progress, but the mystery remains
 
 Since installing these watchdogs, my Raspberry Pi has remained accessible. It has not gone offline indefinitely. Fingers crossed it stays that way.
 

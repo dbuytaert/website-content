@@ -20,4 +20,4 @@ id: 395
 
 Flip Kowlier, a Belgian singer-songwriter, is using Drupal for his website at <http://www.flipkowlier.be/>.
 
-[image drupal/flip-kowlier]
+![A webpage about Flip Kowlier features news, a newsletter signup, and a YouTube video of his new music clip.](http://default/files/cache/drupal/flip-kowlier-640w.jpg)

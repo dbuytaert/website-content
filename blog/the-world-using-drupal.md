@@ -19,4 +19,6 @@ id: 161
 
 # The world using Drupal
 
+![Screenshot of "The World" news website, featuring international news stories, images, and links to listen to radio segments.](http://default/files/images/drupal/theworld.jpg)
+
 

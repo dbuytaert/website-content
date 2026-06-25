@@ -16,4 +16,6 @@ id: 179
 
 # Waterfall
 
+![Water flows down multiple rock ledges, with fallen branches and leaves scattered across the surface.](http://default/files/cache/miscellaneous-2006/waterfall-640w.jpg)
+
 

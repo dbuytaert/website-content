@@ -23,7 +23,7 @@ OK, I begged for it. I really liked the t-shirt so I asked Jacob if I could buy 
 
 The t-shirt design itself was made by [Andrew Stevenson](http://www.squidgystudios.com/), famous for his [many great Drupal paintings](http://www.thelifeofme.com/category/drupal).
 
-[image drupal/drupalcamp-nyc-1]
-[image drupal/drupalcamp-nyc-2]
-[image drupal/drupalcamp-nyc-3]
-[image drupal/drupalcamp-nyc-4]
+![A mailing envelope with a Drupalcamp NYC sticker and handwritten address details, placed on a dark surface.](http://default/files/cache/drupal/drupalcamp-nyc-1-640w.jpg)
+![](http://default/files/cache/drupal/drupalcamp-nyc-2-640w.jpg)
+![Brown Drupalcamp NYC T-shirt with a graphic of a climber and two Drupal-themed buttons on fabric.](http://default/files/cache/drupal/drupalcamp-nyc-3-640w.jpg)
+![A postcard with a handwritten message about DrupalCamp NYC and two blue Drupal logo buttons placed on it.](http://default/files/cache/drupal/drupalcamp-nyc-4-640w.jpg)

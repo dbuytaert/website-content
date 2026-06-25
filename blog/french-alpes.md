@@ -17,5 +17,5 @@ id: 2336
 
 # French Alpes
 
-[image miscellaneous-2011/french-alpes-1]
-[image miscellaneous-2011/french-alpes-2]
+![A car drives on a two-lane road toward snow-capped mountains in the French Alps under a clear sky.](http://default/files/cache/miscellaneous-2011/french-alpes-1-640w.jpg)
+![A winding mountain road in the French Alps, surrounded by rocky cliffs and snow-covered peaks under a clear sky.](http://default/files/cache/miscellaneous-2011/french-alpes-2-640w.jpg)

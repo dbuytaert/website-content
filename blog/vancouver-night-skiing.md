@@ -23,4 +23,6 @@ id: 23
 
 # Vancouver night skiing
 
+![Snow-covered ski slope at night with city lights visible in the distance from Cypress Mountain, Vancouver.](http://default/files/cache/vancouver-2006/night-skiing-640w.jpg)
+
 

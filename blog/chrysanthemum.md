@@ -16,4 +16,6 @@ id: 88
 
 # Chrysanthemum
 
+![Close-up of a chrysanthemum flower in sepia tone, showing detailed petals and textured center against a blurred background.](http://default/files/cache/miscellaneous-2006/chrysanthemum-640w.jpg)
+
 

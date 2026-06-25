@@ -16,5 +16,5 @@ id: 1046
 
 # West Beach in Beverly Farms
 
-[image beverly-farms-2009/west-beach-beverly-farms]
-[image beverly-farms-2009/old-pier]
+![Wooden pilings stand in the wet sand as small waves reach the shore.](http://default/files/cache/beverly-farms-2009/west-beach-beverly-farms-640w.jpg)
+![Close-up of a weathered wooden pier post with rusted metal bolts, with more pier structures blurred in the background.](http://default/files/cache/beverly-farms-2009/old-pier-640w.jpg)

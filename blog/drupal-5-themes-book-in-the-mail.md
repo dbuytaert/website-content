@@ -22,6 +22,6 @@ Ric Shreves has written a [Drupal 5 themes book](https://www.packtpub.com/produc
 
 I don't have a design background but it looks like a good book that explains the workings of the Drupal theme system and Drupal's PHPTemplate engine, that explains you how to build a theme, and that provides practical solutions to common problems during that process. If you are a hardcore developer, this book might not be for you.
 
-[image drupal/book-packt-drupal5-themes-1]
-[image drupal/book-packt-drupal5-themes-2]
-[image drupal/book-packt-drupal5-themes-3]
+![A book titled "Drupal 5 Themes" by Ric Shreves, published by Packt, placed on a dark surface.](http://default/files/cache/drupal/book-packt-drupal5-themes-1-640w.jpg)
+![Open book showing a guide on configuring themes in Drupal 5, with text and screenshots explaining theme settings.](http://default/files/cache/drupal/book-packt-drupal5-themes-2-640w.jpg)
+![A book page showing PHP code defining theme regions for a Drupal 5 template, including sidebar, content, header, and footer.](http://default/files/cache/drupal/book-packt-drupal5-themes-3-640w.jpg)

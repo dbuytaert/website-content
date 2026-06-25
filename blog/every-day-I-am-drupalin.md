@@ -17,4 +17,4 @@ id: 4271
 
 It's a few years old, but I don't think I've seen [this Drupal rap video](https://www.youtube.com/embed/PWjcqE3QKBg) yet:
 
-[video PWjcqE3QKBg]
+https://www.youtube.com/watch?v=PWjcqE3QKBg

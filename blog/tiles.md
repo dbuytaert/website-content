@@ -19,4 +19,6 @@ id: 91
 
 # Tiles
 
+![Close-up of red patterned tiles next to a mirror reflecting a person holding a camera.](http://default/files/cache/miscellaneous-2006/tiles-640w.jpg)
+
 

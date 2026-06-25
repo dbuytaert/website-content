@@ -21,4 +21,4 @@ You know when a piece of software is mature when it starts being adopted by fina
 
 During the initial launch of the project, ING had no one that knew Drupal, MySQL or PHP. They brought in external help to do the site development. Today, they have an in-house team to develop upcoming Drupal sites. Many large organizations follow exactly this trajectory.
 
-[image drupal/ing-us]
+![A financial services website featuring an "Unsung Heroes" program recognizing teachers, retirement planning, and customer support options.](http://default/files/cache/drupal/ing-us-640w.jpg)

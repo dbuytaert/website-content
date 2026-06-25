@@ -20,4 +20,4 @@ id: 293
 
 *Eclipse Live is your source of multi-media material about Eclipse projects and Eclipse-based products. Register for a live webinar or browse and view webinars and podcasts from our extensive library.*
 
-[image drupal/eclipse resize=false]
+![A webpage displaying Eclipse Live webinars and podcasts, featuring upcoming and featured events with descriptions and schedules.](http://default/files/images/drupal/eclipse.jpg)

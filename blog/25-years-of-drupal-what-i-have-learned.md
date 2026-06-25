@@ -7,6 +7,7 @@ author:
 date: '2026-01-14T23:06:33-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Drupal began as a hobby and became part of the web’s infrastructure. Looking back after 25 years, here are the lessons I learned about people, scale, leadership, and building something that lasts.'
 tags:
   - Drupal
   - Birthday
@@ -21,6 +22,8 @@ id: 6056
 
 # 25 years of Drupal: what I've learned
 
+![A speaker on stage hugs a large blue Drupal mascot holding large scissors while an audience takes photos.](http://default/files/cache/drupalcon-paris-2009/drupalcon-4-640w.jpg)
+
 Drupal turns 25 today. A quarter of a century.
 
 What started as a hobby became a community, and then, somehow, a pillar of the web's infrastructure. 
@@ -30,7 +33,8 @@ Looking back, the most important things I learned weren't really about software.
 Twenty-five years, twenty-five lessons.
 
 <div class="large">
-[image drupalcon-paris-2009/drupalcon-4]
+![A speaker on stage hugs a large blue Drupal mascot holding large scissors while an audience takes photos.](http://default/files/cache/drupalcon-paris-2009/drupalcon-4-640w.jpg)
+*At DrupalCon Paris 2009, we cut a ribbon. Druplicon was holding rather large scissors. The photo was taken at exactly the wrong moment, but it's still one of my favorite Drupal photos.*
 </div>
 
 **1. You can do well and do good**
@@ -77,7 +81,7 @@ The Drupal community was not just built on good vibes. It was built in the weeks
 
 For Drupal to last, leadership had to move beyond me, and for that to happen I had to let go. That meant stepping back from decisions I cared deeply about and trusting others to take the project in directions I might not have chosen. There were moments when I felt sidelined in the project I started, which was nobody's fault, but not easy. Letting go was not always easy, but it is one of the reasons Drupal is still here.
 
-**12. Open source is not a meritocracy**
+**12. Open Source is not a meritocracy**
 
 I used to say that the only real limitation to contributing was your willingness to learn. I was wrong. Free time is a privilege, not an equal right. Some people have jobs, families, or responsibilities that leave no room for unpaid work. You can only design for equity when you [stop pretending that Open Source is a meritocracy](https://dri.es/the-privilege-of-free-time-in-open-source).
 
@@ -133,7 +137,8 @@ Sometimes the path forward seems clear. An individual can see a direction, but a
 
 When I released Drupal 1.0.0, I knew almost nothing. For much of the journey, I felt out of my depth. I was often nervous, sometimes intimidated. I didn't know how to scale software, how to build a community, or how to lead. I kept shipping anyway. You don't become ready by waiting. You become ready by doing.
 
-[image drupalcon-seattle-2019/group-photo]
+![Areal photo of DrupalCon Seattle 2019 attendees.](http://default/files/cache/drupalcon-seattle-2019/group-photo-640w.jpg)
+*A group photo taken at DrupalCon Seattle in 2019.*
 
 For those who have been here for years, these lessons will feel familiar. We learned them together, sometimes slowly, sometimes through debate, and often the hard way.
 

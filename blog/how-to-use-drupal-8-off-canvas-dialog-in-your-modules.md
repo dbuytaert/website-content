@@ -18,11 +18,13 @@ id: 4241
 
 # How to use Drupal 8's off-canvas dialog in your modules
 
+![Animated GIF of Drupal off-canvas dialog tutorial](http://default/files/cache/drupal/drupal-off-canvas-dialog-tutorial-640w.gif)
+
 The goal of this tutorial is to show how to use [Drupal 8.5's new off-canvas dialog](https://dri.es/drupal-8-5-0-released) in your own Drupal modules.
 
 The term "off-canvas" refers to the ability for a dialog to slide in from the side of the page, in addition to resizing the page so that no part of it is obstructed by the dialog. You can see the off-canvas dialog in action in this animated GIF:
 
-[image drupal/drupal-off-canvas-dialog-tutorial resize=false]
+![Animated GIF of Drupal off-canvas dialog tutorial](http://default/files/cache/drupal/drupal-off-canvas-dialog-tutorial-640w.gif)
 
 This new Drupal 8.5 feature allows us to improve the content authoring and site building experience by [turning Drupal outside-in](https://dri.es/tag/outside-in). We can use the off-canvas dialog to enable the content creator or site builder to seamlessly edit content or configuration in-place, and see any changes take effect immediately. There is no need to navigate to the administrative backend to make edits. As you'll see in this tutorial, it's easy to use the off-canvas dialog in your own Drupal modules.
 
@@ -30,7 +32,7 @@ I use a custom album module on <https://dri.es> for managing [my photo albums](h
 
 So how did I do that?
 
-### Step 1: Create your form, the Drupal way
+## Step 1: Create your form, the Drupal way
 
 Every image on <https://dri.es> has its own unique path:
 
@@ -42,7 +44,7 @@ I can edit my images at:
 
 For example, <https://dri.es/album/niagara-on-the-lake-2017/niagara-falls-by-night-1> gives you the image of the Niagara Falls. If you have the right permissions you could edit the image at `https://dri.es/album/niagara-on-the-lake-2017/niagara-falls-by-night-1/edit` (you don't ?). Because you don't have the right permissions, I'll show you a screenshot of the edit form instead:
 
-[image drupal/drupal-off-canvas-dialog-tutorial-form resize=false]
+![Drupal off-canvas dialog tutorial: regular Drupal form](http://default/files/cache/drupal/drupal-off-canvas-dialog-tutorial-form-640w.jpg)
 
 I created those paths (or routes), using Drupal's routing system, and I created the form using Drupal's regular Drupal form API. I'm not going to explain how to create a Drupal form in this post, but you can read more about this at the [routing system documentation](https://www.drupal.org/docs/8/api/routing-system) and the [form API](https://www.drupal.org/docs/8/api/form-api). Here is the code for creating the form:
 
@@ -111,11 +113,11 @@ class ImageEditForm extends FormBase {
 
 ```
 
-### Step 2: Add an edit link to my images
+## Step 2: Add an edit link to my images
 
 First, I want to overlay an "Edit"-button over my image:
 
-[image drupal/drupal-off-canvas-dialog-tutorial-edit resize=false]
+![Drupal off-canvas dialog tutorial: "Edit"-link](http://default/files/cache/drupal/drupal-off-canvas-dialog-tutorial-edit-640w.jpg)
 
 If you were to look at the HTML code, the image link uses the following &lt;a href&gt; tag:
 
@@ -127,7 +129,7 @@ If you were to look at the HTML code, the image link uses the following &lt;a hr
 
 Clicking the link doesn't open the off-canvas dialog yet. The `class="edit-button"` is used to style the button with CSS and to overlay it on top of the image.
 
-### Step 3: Opening the off-canvas dialog
+## Step 3: Opening the off-canvas dialog
 
 Next, we have to tell Drupal to open the form in the off-canvas dialog when the "Edit"-link is clicked. To open the form in the off-canvas dialog, extend that &lt;a href&gt; tag to:
 
@@ -140,7 +142,7 @@ Next, we have to tell Drupal to open the form in the off-canvas dialog when the 
 
 Some extra HTML in the &lt;a href&gt; tag is all it took; it took my regular Drupal form, showed it in an off-canvas dialog, and even styled it! As I wrote above, it is easy to use the off-canvas dialog in your own modules. Hopefully you'll be inspired to take advantage of this new functionality.
 
-[image drupal/drupal-off-canvas-dialog-tutorial-open resize=false]
+![Drupal off-canvas dialog tutorial: open dialog](http://default/files/cache/drupal/drupal-off-canvas-dialog-tutorial-open-640w.jpg)
 
 There are several things being added though, so let's break it down. First we add the a class called `use-ajax`:
 
@@ -178,7 +180,7 @@ $elements['link'] = [
 
 Because the dialog functionality might not be needed on every page, Drupal won't load it unless needed. We use the `#attached` element to tell Drupal that we want the JavaScript dialog system to be loaded for this page. It's a bit more work, but it keeps Drupal efficient.
 
-### Improving the developer experience
+## Improving the developer experience
 
 Applying the off-canvas dialog to my blog and writing this tutorial uncovered several opportunities to improve the developer experience. It seems unnecessary to set `class' => ['use-ajax']` when `data-dialog-type` is set. Why do I need to specify both a `data-dialog-type` and a `data-dialog-renderer`? And why can't Drupal automatically attach `core/drupal.dialog.ajax` when `data-dialog-type` is set?
 

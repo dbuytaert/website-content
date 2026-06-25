@@ -28,7 +28,7 @@ Improving Drupal's user experience is a topic near and dear to my heart. Drupal'
 
 It took me a bit longer than planned, but I wanted to take the time to address some of the concerns and share more of my thoughts about improving Drupal's UX (and JavaScript frameworks).
 
-### To iterate or to disrupt?
+## To iterate or to disrupt?
 
 In [his post](http://lewisnyman.co.uk/blog/should-drupal-add-another-js-framework-into-core-not-in-the-name-of-ux/), Lewis writes that the issues facing Drupal's UX "go far deeper than code" and that many of [the biggest problems found during the Drupal 8 usability study](https://www.drupal.org/node/2497361) last year are not resolved with a JavaScript framework. This is true; [the results of the Drupal 8 usability study](https://www.youtube.com/watch?v=E31e5hzHMOE) show that Drupal can confuse users with its complex mental models and terminology, but it also shows how modern features like real-time previews and in-page block insertion are increasingly assumed to be available.
 
@@ -38,7 +38,7 @@ I think we need to recognize that while some of the [documented usability proble
 
 At this point, to get ahead and lead, I believe we have to do both. We have to iterate *and* disrupt.
 
-### From inside-out to outside-in
+## From inside-out to outside-in
 
 Let's forget about Drupal for a second and observe the world around us. Think of all the web applications you use on a regular basis, and consider the interaction patterns you find in them. In popular applications like Slack, the user can perform any number of operations to edit preferences (such as color scheme) and [modify content](https://www.youtube.com/watch?v=LFzM4fw8C38) (such as in-place editing) without incurring a single full page refresh. Many elements of the page can be changed without the user's flow being interrupted. Another example is Trello, in which [users can create new lists on the fly and then add cards to them](https://www.youtube.com/watch?v=xky48zyL9iA) without ever having to wait for a server response.
 
@@ -46,7 +46,7 @@ Contrast this with Drupal's approach, where any complex operation requires the u
 
 Drupal 8's in-place editing feature is actually a good start at this; it enables the user to edit what they see without an interrupted workflow, with faster previews and without needing to find what thing it is before they can start editing.
 
-### Making it real with content modeling
+## Making it real with content modeling
 
 Eight years ago in 2007, [I wrote about a database product called DabbleDB](https://dri.es/dabbledb-cck-views-twelve-duvels). I shared my belief that it was important to move CCK and Views into Drupal's core and learn from DabbleDB's integrated approach. DabbleDB was acquired by Twitter in 2010 but you can still find [an eight-year-old demo video on YouTube](https://www.youtube.com/watch?v=6wZmYMWKLkY). While the focus of DabbleDB is different, and the UX is obsolete, there is still a lot we can learn from it today: (1) it shows a more integrated experience between content creation, content modeling, and creating views of content, (2) it takes more of an outside-in approach, (3) it uses a lot less intimidating terminology while offering very powerful capabilities, and (4) it uses a lot of in-place editing. At a minimum, DabbleDB could give us some inspiration for what a better, integrated content modeling experience could look like, with the caveat that the UX should be as effortless as possible to match modern standards.
 

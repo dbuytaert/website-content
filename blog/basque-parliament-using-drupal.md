@@ -18,6 +18,8 @@ id: 2136
 
 # Basque Parliament using Drupal
 
+![Officials in the Basque Parliament are seated around a table, actively discussing legislative matters during a meeting.](http://default/files/cache/drupal/basque-parliament-640w.jpg)
+
 The [Basque Parliament](https://en.wikipedia.org/wiki/Basque_Parliament) has recently replaced a portion of its older site with a new Drupal site that can be seen at <http://www.parlamentovasco.euskolegebiltzarra.org>.
 
 This continues the trend of various government bodies around the world using Open Source software – and especially Drupal to power their official websites.

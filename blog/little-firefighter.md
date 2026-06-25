@@ -19,4 +19,6 @@ id: 1721
 
 # Little firefighter
 
+![A young child holds a green garden hose, spraying water onto the grass.](http://default/files/cache/ipswich-2010/little-firefighter-640w.jpg)
+
 

@@ -23,4 +23,4 @@ Most universities have had dozens of Drupal sites at the departmental level for 
 
 It is great to see corporations, universities and governments endorse and adopt Drupal on a global scale!
 
-[image drupal/duke]
+![Two actors perform an emotional scene on stage, with one embracing the other.](http://default/files/cache/drupal/duke-640w.jpg)

@@ -20,7 +20,7 @@ id: 2176
 
 Tesla Motors is using Drupal for their website: <http://www.teslamotors.com>. Really beautiful design.
 
-[image drupal/tesla-motors]
+![A red Tesla Roadster drives on a snowy road with skis mounted on the back.](http://default/files/cache/drupal/tesla-motors-640w.jpg)
 
 Tesla went public last year; it is the first American automaker to go public since Ford Motor's IPO more than 50 years ago.
 
@@ -28,4 +28,4 @@ Last month, Acquia employees (including myself) got to ride a Tesla Roadster Spo
 
 Impressive car, impressive company and impressive website. :)
 
-[image acquia/tesla-roadster-2010]
+![A group of people poses around a black Tesla Roadster with an "Acquia" sign on the side.](http://default/files/cache/acquia/tesla-roadster-2010-640w.jpg)

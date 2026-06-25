@@ -19,4 +19,4 @@ id: 1637
 
 [Forrester Research](http://forrester.com), one of the most prestigious analyst and market research firms, is using [Drupal](https://www.drupal.org) for [their corporate blogs](http://blogs.forrester.com). *Flattered!*
 
-[image drupal/forrester-blogs]
+![Blog post on Forrester Blogs announcing leadership transition at Polycom, with Andy Miller replacing Robert Hagerty as CEO.](http://default/files/cache/drupal/forrester-blogs-640w.jpg)

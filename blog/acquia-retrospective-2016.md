@@ -22,7 +22,7 @@ As my loyal blog readers know, at the beginning of every year I publish a retros
 
 The process of pulling together this annual retrospective is very rewarding for me as it gives me a chance to reflect with some perspective; a rare opportunity among the hustle and bustle of the day-to-day. Trends and cycles only reveal themselves over time, and I continue to learn from this annual period of reflection.
 
-### Crossing the chasm
+## Crossing the chasm
 
 If I were to give Acquia a headline for 2016, it would be the year in which we crossed the proverbial "chasm" from startup to a true leader in our market. Acquia is now entering its ninth full year of operations (we began commercial operations in the fall of 2008). We've raised $186 million in venture capital, opened offices around the world, and now employ over 750 people. However, crossing the "chasm" is more than achieving a revenue target or other benchmarks of size.
 
@@ -32,7 +32,7 @@ I think future retrospectives will endorse my opinion that Acquia crossed the ch
 
 When Tom (my business partner and Acquia CEO) and I spoke together at Acquia's annual customer conference in November, we talked about the two founding pillars that have served Acquia well over its history: open source and cloud. In 2008, we made a commitment to build a company based on open source and the cloud, with its products and services offered through a subscription model rather than a perpetual license. At the time, our industry was skeptical of this forward-thinking combination. It was a bold move, but we have always believed that this combination offers significant advantages over proprietary software because of its faster rate of innovation, higher quality, freedom from vendor lock-in, greater security, and lower total cost of ownership.
 
-### Creating digital winners
+## Creating digital winners
 
 Acquia has continued its evolution from a content management company to a company that offers a more complete digital experience platform. This transition inspired an internal project to update our vision and mission accordingly.
 
@@ -42,7 +42,7 @@ We increasingly find ourselves at the center of our customer's technology and di
 
 The focus on any and every part of their digital business is important and sets us apart from our competitors. Nearly all of our competitors offer single-point solutions for marketers, customer service, online commerce or for portals. An open source model allows customers to integrate systems together through open APIs, which enables our technology to fit into any part of their existing environment. It gives them the freedom to pursue a best-of-breed strategy outside of the confines of a proprietary "marketing cloud".
 
-### Business momentum
+## Business momentum
 
 We continued to grow rapidly in 2016, and it was another record year for revenue at Acquia. We focused on the growth of our recurring revenue, which includes new customers and the renewal and expansion of our work with existing customers. Ever since we started the company, our corporate emphasis on customer success has fueled both components. Successful customers mean renewals and references for new customers. Customer satisfaction remains extremely high at 96 percent, an achievement I'm confident we can maintain as we continue to grow.
 
@@ -54,17 +54,18 @@ Digital transformation is happening everywhere. Only a few years ago, the majori
 
 To support our growth, we opened a new sales office in Munich (Germany), and we expanded our global support facilities in Brisbane (Queensland, Australia), Portland (Oregon, USA) and Delhi (India). In total, we now have 14 offices around the world. Over the past year we have also seen our remote workforce expand; 33 percent of Acquia's employees are now remote. They can be found in 225 cities worldwide.
 
-[image acquia/office-locations-2016]
+![A world map showing Acquia office locations, highlighting existing offices and those opened or expanded in 2016.](http://default/files/cache/acquia/office-locations-2016-640w.jpg)
 
 We've also seen an evolution in our partner ecosystem. In addition to working with traditional Drupal businesses, we started partnering with the world's most elite digital agencies and system integrators to deliver massive projects that span dozens of languages and countries. Our partners are taking Acquia and Drupal into some of the world's most impressive brands, new industries and into new parts of the world.
 
-### Growing pains and challenges
+## Growing pains and challenges
 
 I enjoy writing these retrospectives because they allow me to chronicle Acquia's incredible journey. But I also write them for you, because you might be able to learn a thing or two from my experiences. To make these retrospectives useful for everyone, I try to document both milestones and difficulties. To grow an organization, you must learn how to overcome your challenges and growing pains.
 
 Rapid growth does not come without cost. In 2016 we made several leadership changes that will help us continue to grow. We added new heads of revenue, European sales, security, IT, talent acquisition and engineering. I'm really proud of the team we built. We exited 2016 in the market for new heads of finance and marketing.
 
-[image acquia-offsite-july-2016/the-lobster-pool-5]
+![A group of people from the Acquia leadership team share a meal at an outdoor restaurant by the water.](http://default/files/cache/acquia-offsite-july-2016/the-lobster-pool-5-640w.jpg)
+*Part of the Acquia leadership team at The Lobster Pool restaurant in Rockport, MA.*
 
 We adjusted our business levers to adapt to changes in the financial markets, which in early 2016 shifted from valuing companies almost solely focused on growth to a combination of growth and free cash flow. This is easier said than done, and required a significant organizational mindshift. We changed our operating plan, took a closer look at expanding headcount, and postponed certain investments we had planned. All this was done in the name of "fiscal fitness" to make sure that we don't have to raise more money down the road. Our efforts to cut our burn rate are paying off, and we were able to beat our targets on margin (the difference between our revenue and operating expenses) while continuing to grow our top line.
 
@@ -72,9 +73,9 @@ We now manage 17,000+ AWS instances within Acquia Cloud. What we once were able 
 
 Lastly, 2016 was the first full year of Drupal 8 availability (it was [formally released in November 2015](https://dri.es/drupal-8-released)). As expected, it took time for developers and the Drupal community to become familiar with its vast array of changes and new capabilities. This wasn't a surprise; in [my DrupalCon keynotes](https://dri.es/tag/state-of-drupal) I shared that I expected Drupal 8 to really take off in Q4 of 2016. Through the [MAP program](https://dri.es/a-map-for-accelerating-drupal-8-adoption) we committed over $1M in funds and engineering hours to help module creators upgrade their modules to Drupal 8. All told, Acquia invested about $2.5 million in Drupal code contributions in 2016 alone (excluding our contributions in marketing, events, etc). This is the most we have ever invested in Drupal and something is I'm personally very proud of.
 
-### Product milestones
+## Product milestones
 
-[image acquia/product-overview-2016 resize=false]
+![A diagram showing Acquia's product overview, including experience assembly, content, orchestration, insights, profile, and experience delivery solutions.](http://default/files/cache/acquia/product-overview-2016-640w.jpg)
 
 Acquia remains an amazing place for engineers who want to build great products. We achieved some big milestones over the course of the year.
 
@@ -88,13 +89,13 @@ Acquia has also set a precedent of [contributing significantly to Drupal](https:
 
 Our core product, Acquia Cloud, received a major reworking of its user interface. That new UI is a more modern, faster and responsive user interface that simplifies interaction for developers and administrators.
 
-[image acquia/acquia-cloud-ui-2016]
+![Acquia Cloud UI showing website environment management options and recent deployment activities in the activity log.](http://default/files/cache/acquia/acquia-cloud-ui-2016-640w.jpg)
 
 Our focus on security reached new levels in 2016. In January we secured certification that we complied with ISO 27001: the international security and compliance standard for enterprise cloud frameworks. In April we were awarded our FedRAMP ATO from the U.S. Department of Treasury after we were judged compliant with the U.S. federal standards for cloud security and risk management practices. Today we have the most secure, reliable and agile cloud platform available.
 
 We ended the year with an exciting partnership with commerce platform Magento that will help us advance [our vision of content and commerce](https://dri.es/content-and-commerce-a-big-opportunity-for-drupal). Existing commerce platforms have focused primarily on the transactions (cart systems, payment processing, warehouse/supply chain integration, tax compliance, customer credentials, etc.) and neglected the customer's actual shopping experience. We've demonstrated with numerous customers that a better brand experience can be delivered with Drupal and Acquia Lift alongside these existing commerce platforms.
 
-### The wind in our sales (pun intended)
+## The wind in our sales (pun intended)
 
 Entering 2017, I believe that Acquia is positioned for long-term success. Here are a few reasons why:
 

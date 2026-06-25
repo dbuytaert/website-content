@@ -21,4 +21,4 @@ Yahoo! launched another [Drupal](https://www.drupal.org) site: [Yahoo! Style Gui
 
 I'm blogging this from the car so I'm going to leave it at that.
 
-[image drupal/yahoo-style-guide]
+![Screenshot of the Yahoo! Style Guide webpage, featuring a book cover and text about writing and editing best practices.](http://default/files/cache/drupal/yahoo-style-guide-640w.jpg)

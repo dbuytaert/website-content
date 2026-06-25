@@ -18,4 +18,6 @@ id: 4201
 
 # Relaxing makes me write and writing makes me relax
 
+![People wade in the ocean while others float on an inflatable, with the sun setting and a sailboat nearby.](http://default/files/cache/grand-cayman-2018/caribbean-sunset-1-640w.jpg)
+
 Spending a few days at the Cayman Islands, where the WiFi is weak and the rum is strong. When I relax, I become creative and reflective. Writing helps me develop these creative thoughts and deepens my personal reflection. It's a virtuous cycle, because when I see my world, myself and my ideas more clearly, it helps me relax even more. Relaxing makes me write and writing makes me relax.

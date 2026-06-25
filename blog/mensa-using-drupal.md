@@ -18,4 +18,4 @@ id: 1546
 
 More proof that [Drupal](https://www.drupal.org) is for smart people: [Mensa](http://mensa.org) is using it for their main website.
 
-[image drupal/mensa]
+![Screenshot of the Mensa International website, featuring a welcome message, navigation menu, and information about the high IQ society.](http://default/files/cache/drupal/mensa-640w.jpg)

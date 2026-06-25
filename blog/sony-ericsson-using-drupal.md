@@ -21,4 +21,4 @@ Sony Ericsson's first [Drupal](https://www.drupal.org) web site was officially l
 
 The site was designed and implemented by [NodeOne](http://nodeone.se) in [462 hours with a team of five persons](http://nodeone.se/blogg/drupal/sony-ericsson-using-drupal). *Impressive!*
 
-[image drupal/labs-sony-ericsson]
+![A person holds a Sony Ericsson phone displaying a map, promoting the TweetMe app for live location-based tweets.](http://default/files/cache/drupal/labs-sony-ericsson-640w.jpg)

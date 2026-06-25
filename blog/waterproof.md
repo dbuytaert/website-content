@@ -16,4 +16,6 @@ id: 1086
 
 # Waterproof
 
+![Black shoes and blue jeans standing in moving water, creating small splashes around the feet.](http://default/files/cache/beverly-farms-2009/shoes-in-water-640w.jpg)
+
 

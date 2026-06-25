@@ -16,6 +16,8 @@ id: 4266
 
 # Father's Day drawing from Stan
 
+![A child's drawing of a bearded man with spiky hair, wearing a blue striped shirt with text and symbols.](http://default/files/cache/miscellaneous-2018/father-day-drawing-stan-640w.jpg)
+
 Yesterday was Father's Day in Belgium. As a gift, Stan drew me this picture. In addition to the thoughtful gesture, I love learning more about the way our kids see us. For me, it's special that Stan understands two important communities in my life.
 
-[image miscellaneous-2018/father-day-drawing-stan]
+![A child's drawing of a bearded man with spiky hair, wearing a blue striped shirt with text and symbols.](http://default/files/cache/miscellaneous-2018/father-day-drawing-stan-640w.jpg)

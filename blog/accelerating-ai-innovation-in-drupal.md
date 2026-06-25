@@ -18,7 +18,9 @@ id: 5821
 
 # Accelerating AI innovation in Drupal
 
-[video UFoUci-Gqp0]
+![Screenshot of a Google Hangout video call with nine smiling participants, the founding members of the Drupal AI initiative.](http://default/files/cache/drupal/drupal-ai-founding-members-640w.png)
+
+https://www.youtube.com/watch?v=UFoUci-Gqp0
 
 Imagine a marketer opening Drupal and with a clear goal in mind: launch a campaign for an upcoming event.
 
@@ -30,7 +32,7 @@ Using Drupal's built-in support for the Model Context Protocol (MCP), the AI age
 
 Every change is tracked. The marketer can review, approve, revert, or adjust anything. They stay in control, even as the system takes on more of the routine work.
 
-### Why it matters
+## Why it matters
 
 AI is changing how websites are built and managed faster than most people expected. The digital experience space is shifting from manual workflows to outcome-driven orchestration. Instead of building everything from scratch, users will set goals, and AI will help deliver results.
 
@@ -40,7 +42,7 @@ The path forward won't be perfect. Change is never easy, and there are still man
 
 The question is not whether AI will change how we build websites, but how we as a community will shape that change.
 
-### A coordinated push forward
+## A coordinated push forward
 
 Drupal already has a head start in AI. At [DrupalCon Barcelona 2024](https://dri.es/state-of-drupal-presentation-september-2024), I showed how Drupal's AI tools help a site creator market wine tours. Since then, we have seen a growing ecosystem of AI modules, active integrations, and a vibrant community pushing boundaries. Today, about 1,000 people are sharing ideas and collaborating in the `#ai` channel on [Drupal Slack](https://www.drupal.org/join-slack).
 
@@ -50,7 +52,7 @@ Since then, this team has been meeting regularly, almost every day. I've been wo
 
 The Drupal AI Initiative builds on the momentum in our community by bringing structure and shared direction to the work already in progress. By aligning around a common strategy, we can accelerate innovation.
 
-### What we're launching today
+## What we're launching today
 
 The Drupal AI Initiative is closely aligned with the broader [Drupal CMS strategy](https://www.drupal.org/about/starshot), particularly in its focus on making site building both faster and easier. At the same time, this work is not limited to Drupal CMS. It is also intended to benefit people building custom solutions on Drupal Core, as well as those working with alternative distributions of Drupal.
 
@@ -64,9 +66,10 @@ To support this initiative, we are announcing:
 
 For more details, read the full announcement on the [Drupal AI Initiative page on Drupal.org](https://www.drupal.org/ai/).
 
-### Founding members and early support
+## Founding members and early support
 
-[image drupal/drupal-ai-founding-members]
+![Screenshot of a Google Hangout video call with nine smiling participants, the founding members of the Drupal AI initiative.](http://default/files/cache/drupal/drupal-ai-founding-members-640w.png)
+*Some of the founding members of the Drupal AI initiative during our launch call on Google Hangouts.*
 
 Over the past few months, we've invested hundreds of hours shaping our AI strategy, defining structure, and taking first steps.
 
@@ -87,7 +90,7 @@ These individuals, along with the companies supporting them, have already contri
 
 I also want to thank the staff at the [Drupal Association](https://www.drupal.org/association) and the [Drupal CMS leadership team](https://www.drupal.org/about/starshot) for their support and collaboration.
 
-### What comes next
+## What comes next
 
 I'm glad the Drupal AI Initiative is now underway. The [Drupal AI strategy is published](https://dri.es/files/drupal-ai-strategy-june-2025.pdf), the structure is in place, and multiple work tracks are open and moving forward. We'll share more details and updates in the coming weeks.
 

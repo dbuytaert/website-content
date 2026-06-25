@@ -19,17 +19,19 @@ id: 4111
 
 # Evolving Acquia.com
 
-[image acquia/acquia-com-december-2017-computer resize=false]
+![A skier moves through snow, with text promoting digital experience management and solutions by Acquia.](http://default/files/cache/acquia/acquia-com-december-2017-640w.jpg)
+
+![A computer screen shows the Acquia website with a slogan about building and managing digital experiences.](http://default/files/cache/acquia/acquia-com-december-2017-computer-640w.jpg)
 
 At Acquia, our mission is to deliver "the universal platform for the greatest digital experiences" and we want to lead by example. This year, Acquia's marketing team has been working hard to redesign [Acquia.com](https://www.acquia.com). We launched the new Acquia.com last week. The new site is not only intuitive and engaging, but "practices what we preach", so to speak.
 
 Over the course of our first decade, Acquia's website has seen a few iterations:
 
-[image acquia/acquia-com-overview-first-decade resize=false]
+![A laptop screen shows Acquia's website evolution from 2007 to 2017, highlighting design and content updates over time.](http://default/files/cache/acquia/acquia-com-overview-first-decade-640w.gif)
 
 The new site places a greater emphasis on taking advantage of our own products. We wanted to show (not tell) the power of the Acquia Platform. For example, [Acquia Lift](https://dri.es/personalization-takes-flight-with-the-new-acquia-lift) delivers visitors personalized content throughout the site. It was also important to take advantage of Acquia's own resources and partner ecosystem. We worked in partnership with digital agency, [HUGE](https://www.hugeinc.com), to create the new design and navigation.
 
-[image acquia/acquia-com-december-2017-before-and-after resize=false]
+![A side-by-side comparison of the Acquia website before and after design changes, highlighting layout and visual updates.](http://default/files/cache/acquia/acquia-com-december-2017-before-and-after-640w.gif)
 
 In the spirit of sharing, the marketing team [documented their challenges and insights](https://www.acquia.com/blog/building-new-acquiacom/03/08/2017/3308686) along the way, and reported on everything from content migration to agile development.
 

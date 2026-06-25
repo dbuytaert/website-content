@@ -17,4 +17,6 @@ id: 1931
 
 # Boston sailing on the Charles River
 
+![Several small sailboats with numbered sails glide across the Charles River, with a city skyline in the background.](http://default/files/cache/winchester-2010/charles-river-sailing-640w.jpg)
+
 

@@ -17,11 +17,13 @@ id: 5026
 
 # Mautic 3 released (and other important changes)
 
+![](http://default/files/cache/mautic/mautic-3-released-640w.png)
+
 A year ago, [Acquia acquired Mautic](https://dri.es/acquia-acquires-mautic-to-create-the-open-digital-experience-platform). [Mautic](https://www.mautic.org/) is an Open Source marketing automation and campaign management platform.
 
 Some of you have been wondering: <q>What has been going on since the acquisition?</q>. It's high time for an update!
 
-### Mautic 3 released
+## Mautic 3 released
 
 Mautic 3 was released last night. It is the first major release in four years, and a big milestone!
 
@@ -29,7 +31,7 @@ I'd like to extend a big thank you to everyone who contributed to Mautic 3. I'm 
 
 For me personally, it was nice to see some long-term Drupal developers contribute to Mautic 3. When Acquia acquired Mautic, I hoped to see cross-pollination between Drupal and Mautic.
 
-### A streamlined release model for Mautic 4
+## A streamlined release model for Mautic 4
 
 The Mautic 3 release was mostly an "under the hood" release. The focus was on upgrading and modernizing Mautic's underlying frameworks (e.g. [Symfony](https://symfony.com/) and other dependencies).
 
@@ -39,7 +41,7 @@ The Drupal community went through [a similar transformation](https://dri.es/the-
 
 A quarterly release cycle creates a healthy heartbeat for an Open Source project. You can expect [Mautic](https://www.mautic.org/) to deliver improvements more frequently and predictably moving forward.
 
-### A streamlined governance model
+## A streamlined governance model
 
 As a young Open Source project, [Mautic](https://www.mautic.org/) was lacking clearly defined roles and responsibilities. For example, it was unclear to many (including me) how the Open Source project and Mautic, Inc., the for-profit company, best collaborated.
 
@@ -49,7 +51,7 @@ One of the first things [Acquia](https://www.acquia.com/) did post-acquisition w
 
 Mautic's new governance model defines different teams and working groups, how the community and Acquia collaborate, and more. With roles and responsibilities more clearly defined, we can go faster together.
 
-### A new project lead
+## A new project lead
 
 I'm also excited to share that [Ruth Cheesley](https://www.linkedin.com/in/ruthcheesley) is Mautic's new Project Lead.
 
@@ -57,6 +59,6 @@ Ruth has been involved with Mautic for a long time, and prior to Mautic, was on 
 
 Ruth has the full support of Acquia, Mautic's community leadership team, and DB Hurley, Mautic's founder and previous Project Lead. A big thank you to DB for his leadership and having guided Mautic thus far – getting an Open Source project off the ground and to this stage is no small feat.
 
-### Conclusions
+## Conclusions
 
 With a new governance model, leadership structure, as well as a new release and innovation model for Mautic, we're set up well to accelerate and innovate for the long run.

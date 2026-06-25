@@ -20,6 +20,8 @@ id: 5226
 
 # Life update - September 2021
 
+![Eating dinner outside overlooking the ocean](http://default/files/cache/summer-in-boston-2021/dinner-640w.jpg)
+
 Blogging sometimes feels like talking to an imaginary friend. It's an interesting comparison because it could [help me write more regularly.](https://dri.es/wanted-a-new-blogging-routine) For example: I can picture myself going to dinner with my imaginary friend. Once we sit down, what would we talk about? What would I share?
 
 I'd share that I've been doing well the past year.
@@ -32,7 +34,8 @@ Over the course of two years, I've created a home office setup that is more comf
 
 Despite having a great home office setup, I'd like to work more from interesting locations. I'm writing this blog post from an island on Lake Winnipesaukee in New Hampshire where we have a management offsite. Working from an island is as awesome as it sounds. The new hybrid work arrangement provides that extra flexibility.
 
-[image summer-in-boston-2021/rattlesnake-island-lake-winnipesaukee]
+![A chair with a view of Lake Winnipesaukee](http://default/files/cache/summer-in-boston-2021/rattlesnake-island-lake-winnipesaukee-640w.jpg)
+*Overlooking Lake Winnipesaukee in New Hampshire. Coffee and laptop for morning blogging.*
 
 When not working, I've been enjoying the summer in Boston. We moved from the suburbs to the city this year, and have been busy exploring our new neighborhood. We love it!
 
@@ -40,7 +43,10 @@ I've been very happy with our decision to move to the city, except for one thing
 
 Last but not least, we spent some time at Cape Cod this summer, and traveled to Iceland for a weekend. I'll tie off this blog post with a few photos of those trips.
 
-[image summer-in-boston-2021/red-moon]
-[image summer-in-boston-2021/dinner]
-[image summer-in-boston-2021/smores]
-[image iceland-summer-2021/gerlingadalur-volcano-2]
+![An American flag waving in the light of the moon](http://default/files/cache/summer-in-boston-2021/red-moon-640w.jpg)
+*A red moon over the water in Cape Cod.*
+![Eating dinner outside overlooking the ocean](http://default/files/cache/summer-in-boston-2021/dinner-640w.jpg)
+*Dinner at Cape Cod.*
+![A marshmallow roasting over a campfire.](http://default/files/cache/summer-in-boston-2021/smores-640w.jpg)
+*S'mores on the beach.*
+![Three hikers walk along a rocky path beside hardened lava at Gerlingadalur volcano in Iceland.](http://default/files/cache/iceland-summer-2021/gerlingadalur-volcano-2-640w.jpg)

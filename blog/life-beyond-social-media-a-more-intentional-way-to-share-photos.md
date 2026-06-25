@@ -21,6 +21,8 @@ id: 5886
 
 # Life beyond social media: a more intentional way to share photos
 
+![A person standing on a rock, arms wide open, overlooking a vast landscape.](http://default/files/cache/isle-of-skye-2024/exploring-the-quiraing-640w.jpg)
+
 Several years ago, [I built a photo stream](https://dri.es/a-photo-stream-for-my-site) on my website and pretty much stopped posting on Instagram.
 
 I didn't like how Instagram made me feel, or the fact that it tracks my friends and family when they look at my photos. And while it was a nice way to stay in touch with people, I never found a real sense of community there.

@@ -19,4 +19,4 @@ id: 579
 
 Nokia is using [Drupal](https://www.drupal.org) at <http://research.nokia.com>!
 
-[image drupal/nokia-research]
+![Screenshot of the Nokia Research Center website, showcasing research topics, news, and downloadable technology insight papers.](http://default/files/cache/drupal/nokia-research-640w.jpg)

@@ -19,4 +19,6 @@ id: 424
 
 # Axl and Karlijn
 
+![A smiling baby in the foreground with a woman behind them, looking down and smiling warmly.](http://default/files/cache/miscellaneous-2008/axl-and-karlijn-640w.jpg)
+
 

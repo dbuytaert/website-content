@@ -19,7 +19,7 @@ Setting up a new computer or device for secure, password-free logins not only st
 
 Because I keep forgetting how to set this up, I decided to document the steps for future reference.
 
-### Step 1: Generate an SSH key on your control machine
+## Step 1: Generate an SSH key on your control machine
 
 If you don't already have an SSH key, create one with this command:
 
@@ -29,7 +29,7 @@ $ ssh-keygen -t rsa -b 2048
 
 This will generate a 2048-bit RSA key. Follow the prompts to specify a file location and password.
 
-### Step 2: Copy your public key to the target machine
+## Step 2: Copy your public key to the target machine
 
 Transfer your public key to the target machine, which is the computer you want to log into:
 
@@ -41,7 +41,7 @@ This command appends your public key to the `~/.ssh/authorized_keys` file on the
 
 Replace `user` with your username and `machine.local` with the target machine's hostname or IP address.
 
-### Step 3: Configure `sshd` for passwordless logins
+## Step 3: Configure `sshd` for passwordless logins
 
 Disable password authentication and enable public key authentication for the ssh deamon on the target machine. First, log into the target machine, then edit the SSH configuration file, typically located at `/etc/ssh/sshd_config`. Ensure the following lines are set correctly:
 
@@ -58,7 +58,7 @@ sudo systemctl restart sshd
 
 **Note:** Ensure your public key has been correctly set up on the target machine before making these changes. Failure to do so may result in being unable to log in.
 
-### Step 4: Load the key into your SSH agent
+## Step 4: Load the key into your SSH agent
 
 To automate authentication and avoid having to enter your password, we need to load the SSH key into the SSH agent. The SSH agent securely stores your keys and handles the authentication process, streamlining your workflow:
 

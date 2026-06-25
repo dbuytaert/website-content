@@ -21,4 +21,4 @@ With the help from [pingVision](http://pingv.com/), [Popular Science](http://pop
 
 According to a [recent press release](http://www.vignette.com/portal/site/us/menuitem.62215d74e262b2ba32189210180141a0/?vgnextoid=af1ebf03318a7110VgnVCM1000005610140aRCRD&vgnext-selected-menuitem=191626ff2f7512e8fb3d8010180141a0&gbl-vcmprguid=af1ebf03318a7110VgnVCM1000005610140aRCRD), Vignette's revenue for 2007 was down 3% compared to 2006, and their licensing revenue was down more than 15%. One data point doesn't constitute a trend, but to me, it is further proof that Open Source content management systems are gaining market share. Just last year, Drupal grew by more than 200%.
 
-[image drupal/popsci]
+![A man holds a DIY mercury arc lamp flashlight, shining a bright beam of light in a dark environment.](http://default/files/cache/drupal/popsci-640w.jpg)

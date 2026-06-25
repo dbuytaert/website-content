@@ -16,5 +16,5 @@ id: 1861
 
 # Farmers market in Winchester
 
-[image winchester-2010/farmers-market-1]
-[image winchester-2010/farmers-market-2]
+![A wooden crate filled with fresh red chili peppers at a farmers market.](http://default/files/cache/winchester-2010/farmers-market-1-640w.jpg)
+![Fresh vegetables, including eggplants, zucchini, and squash, displayed in wooden crates at a farmers market.](http://default/files/cache/winchester-2010/farmers-market-2-640w.jpg)

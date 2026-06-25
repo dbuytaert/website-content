@@ -26,7 +26,7 @@ Because Nara came only five weeks after DrupalCon Vienna, I didn't prepare a tra
 
 I like the Q&A format because it makes space for more natural questions and more candid answers than a prepared keynote allows.
 
-[video nzJ9O7Ly6C0]
+https://www.youtube.com/watch?v=nzJ9O7Ly6C0
 
 We covered a lot: the momentum behind Drupal CMS, the upcoming Drupal Canvas launch, [our work on a site template marketplace](https://dri.es/exploring-a-marketplace-for-drupal-site-templates), [how AI is reshaping digital agencies](https://dri.es/ai-and-the-great-digital-agency-unbundling), why governments are leaning into open source for digital sovereignty, and more.
 

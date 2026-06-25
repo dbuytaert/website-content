@@ -18,6 +18,8 @@ id: 5006
 
 # Drupal 2020 product survey
 
+![A sample of the last product survey showing that we should focus on content authors](http://default/files/cache/drupal/product-survey-2016-640w.png)
+
 In my [DrupalCon Amsterdam keynote](https://dri.es/state-of-drupal-presentation-october-2019) last October, I shared my thoughts on what I believe is important for the future of [Drupal](https://www.drupal.org/).
 
 Today it is your turn.
@@ -26,7 +28,8 @@ After every major release of Drupal, we distribute a survey to get the community
 
 The last time we conducted such a survey was four years ago, after the [release of Drupal 8](https://dri.es/drupal-8-released). The results were the basis for [defining Drupal 8 product initiatives](https://dri.es/state-of-drupal-presentation-may-2016), organized on the [Drupal 8 mountain](https://dri.es/drupal-long-term-growth-obstacles) that I've been using for the past few years.
 
-[image drupal/product-survey-2016]
+![A sample of the last product survey showing that we should focus on content authors](http://default/files/cache/drupal/product-survey-2016-640w.png)
+*An example result from the <a href="https://dri.es/state-of-drupal-presentation-may-2016">2016 Drupal product survey</a>. The result shows that in 2016 we decided to focus on "content authors" as the most important persona. Since that survey, we improved Drupal's authoring workflows, media management, layout building, and more.*
 
 In a similar way, this new survey will help lay the groundwork for the strategic direction of the Drupal project over the next 3–5 years.
 

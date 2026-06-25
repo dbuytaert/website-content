@@ -19,4 +19,6 @@ id: 2511
 
 # Paris by night
 
+![The Eiffel Tower glows at night, reflecting on the Seine River, with streetlights illuminating the surrounding area.](http://default/files/cache/paris-2011/paris-by-night-640w.jpg)
+
 

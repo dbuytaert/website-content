@@ -20,4 +20,5 @@ During my keynote presentation at DrupalCon Szeged this week, I announced that [
 
 The main reasons for electing webchick is her interest in usability, test-driven development and custom content types. Plus, she knows how to bring people on board and how to set them up for success. She is a massive asset for Drupal, and a role model of what a Drupal community member can be.
 
-[image drupal/keynote-drupalcon-szeged]
+![A speaker at a podium smiles while presenting, with a large projected face behind them.](http://default/files/cache/drupal/keynote-drupalcon-szeged-640w.jpg)
+*Photo credit: Chrys.*

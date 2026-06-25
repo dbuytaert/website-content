@@ -25,4 +25,5 @@ Well, not anymore! Yesterday, we gave them a surprise visit and stopped by their
 
 So without further ado, one of the Drupal faces behind The Onion:
 
-[image foocamp-2007/michael-greer]
+![A man with glasses and a green shirt smiles while sitting outdoors on a sunny day.](http://default/files/cache/foocamp-2007/michael-greer-640w.jpg)
+*Michael Greer, Director of Web Technology at <a href="http://theonion.com">The Onion</a>.*

@@ -21,7 +21,7 @@ id: 6191
 
 Last week at [Drupal South](https://drupalsouth.org/), [Pamela Barone](https://www.drupal.org/u/pameeela) delivered [a keynote on Drupal CMS](https://www.youtube.com/watch?v=tT5xOX-GRnI). Her talk is one of the clearest articulations I've seen of what Drupal CMS is, why it exists, and where it's headed. That shouldn't come as a surprise because Pam is the Product Lead for Drupal CMS.
 
-[video tT5xOX-GRnI]
+https://www.youtube.com/watch?v=tT5xOX-GRnI
 
 Pam quoted a familiar Drupal saying: <q>Drupal makes hard things possible, but it also makes easy things hard.</q>. The room laughed because it's true.
 

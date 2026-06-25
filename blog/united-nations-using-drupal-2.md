@@ -25,4 +25,4 @@ Glad to see that the United Nations are good (Drupal) community players. ;)
 
 It is great to help make a product that many people like, but it is even better when that product helps improve the world a little bit!
 
-[image drupal/endpoverty]
+![A group of smiling children raise their hands, promoting the End Poverty 2015 Millennium Campaign against global poverty.](http://default/files/cache/drupal/endpoverty-640w.jpg)

@@ -16,7 +16,9 @@ id: 2846
 
 # Patriots
 
-[image patriots-game-2012/patriots-game-10]
-[image patriots-game-2012/patriots-game-16]
+![A Patriots player wearing jersey number 75 flexes his arms during a game in the rain.](http://default/files/cache/patriots-game-2012/patriots-game-10-640w.jpg)
+
+![A Patriots player wearing jersey number 75 flexes his arms during a game in the rain.](http://default/files/cache/patriots-game-2012/patriots-game-10-640w.jpg)
+![New England Patriots players huddle on the field during a rainy game, wearing helmets and uniforms.](http://default/files/cache/patriots-game-2012/patriots-game-16-640w.jpg)
 
 Went to watch my first Patriot game at Gillette Stadium last night. It was cold and wet but fun but we got field access which made it pretty special. Check out [all the photos in the album](https://dri.es/album/patriots-game-2012/).

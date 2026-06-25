@@ -20,7 +20,7 @@ I just got back from the "Fields in core" code sprint that I helped organize. Ou
 
 It was a very productive week. For 14 hours a day, we discussed CCK, aligned our visions, [tackled important design questions](https://dri.es/album/acquia/fields-in-core-code-sprint-2), wrestled with terminology, wrote code, and hit some important milestones. We can, for example, "field-enable" any object using a clean API. As a prototype, we've field-enabled both users and nodes. While the new Fields API isn't in core yet, a lot of progress has been made and I'm confident that we'll get something in core soon. Work continues now we're all home. To learn more about the current status, or to help drive this home, please consult the [fields in core group](https://groups.drupal.org/fields-core). Expect to see more detailed and technical write-ups from participants to appear within the next couple of weeks.
 
-[image acquia/fields-in-core-code-sprint-1]
+![](http://default/files/cache/acquia/fields-in-core-code-sprint-1-640w.jpg)
 
 All things considered, this sprint was a big success, and I'm now toying with organizing a "drupal.org upgrade" sprint at [Acquia](https://www.acquia.com) during the last week of January. The goal would be to upgrade drupal.org from Drupal 5 to Drupal 6, and make progress on the drupal.org redesign work. Is anyone interested in participating in or helping fund this sprint? If so, more soon.
 

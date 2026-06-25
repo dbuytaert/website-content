@@ -16,4 +16,6 @@ id: 93
 
 # Little boy
 
+![A young boy in a blue shirt looks out from a camper window, holding the frame with both hands.](http://default/files/cache/miscellaneous-2006/little-boy-640w.jpg)
+
 

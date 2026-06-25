@@ -16,11 +16,13 @@ id: 5661
 
 # Drupal 11 released
 
+![Drupal logo with the text "Eleven" and a rocket launch in the background.](http://default/files/cache/drupal/drupal-11-launch-640w.png)
+
 Today is a big day for [Drupal](https://www.drupal.org/) as we officially released Drupal 11!
 
 In recent years, we've seen an uptick in innovation in Drupal. Drupal 11 continues this trend with many new and exciting features. You can see an overview of these improvements in the video below:
 
-[video Dw6_fBZ6D5Y]
+https://www.youtube.com/watch?v=Dw6_fBZ6D5Y
 
 Drupal 11 has been out for less than six hours, and updating my personal site was my first order of business this morning. I couldn't wait! Dri.es is now running on Drupal 11.
 

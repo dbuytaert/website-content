@@ -19,6 +19,8 @@ id: 4931
 
 # Balancing Makers and Takers to scale and sustain Open Source
 
+![A scale that is in balance](http://default/files/cache/blog/open-source-makers-and-takers-1-640w.jpg)
+
 In many ways, Open Source has won. Most people know that Open Source provides better quality software, at a lower cost, without vendor lock-in. But despite Open Source being widely adopted and more than 30 years old, scaling and sustaining Open Source projects remains challenging.
 
 Not a week goes by that I don't get asked a question about Open Source sustainability. How do you get others to contribute? How do you get funding for Open Source work? But also, how do you protect against others monetizing your Open Source work without contributing back? And what do you think of [MongoDB](https://www.mongodb.com/), [Cockroach Labs](https://www.cockroachlabs.com/) or [Elastic](https://www.elastic.co/) changing their license away from Open Source?
@@ -29,7 +31,7 @@ This blog post talks about how we can make it easier to scale and sustain Open S
 - There are three models for scaling and sustaining Open Source projects: *self-governance*, *privatization*, and *centralization*. All three models aim to reduce *coordination failures*, but require Open Source communities to embrace forms of *monitoring*, *rewards* and *sanctions*. While this thinking is controversial, it is supported by decades of research in adjacent fields.
 - Open Source communities would benefit from experimenting with new governance models, coordination systems, license innovation, and incentive models.
 
-### Some personal background
+## Some personal background
 
 Scaling and sustaining Open Source projects and Open Source businesses has been the focus of most of [my professional career](https://dri.es/about).
 
@@ -43,7 +45,7 @@ This article is *not* about Drupal or Acquia; it's about scaling Open Source pro
 
 I'm interested in how to make Open Source production more sustainable, more fair, more egalitarian, and more cooperative. I'm interested in doing so by redefining the relationship between end users, producers and monetizers of Open Source software through a combination of technology, market principles and behavioral science.
 
-### Why it must be easier to scale and sustain Open Source
+## Why it must be easier to scale and sustain Open Source
 
 We need to make it easier to scale and sustain both Open Source projects and Open Source businesses:
 
@@ -52,7 +54,7 @@ We need to make it easier to scale and sustain both Open Source projects and Ope
 
 The alternative is that we are stuck in the world we live in today, where proprietary software dominates most facets of our lives.
 
-### Disclaimers
+## Disclaimers
 
 This article is focused on Open Source governance models, but there is more to growing and sustaining Open Source projects. Top of mind is the need for Open Source projects to become more diverse and inclusive of underrepresented groups.
 
@@ -60,9 +62,9 @@ Second, I understand that the idea of systematizing Open Source contributions wo
 
 Lastly, this post is long and dense. I'm 700 words in, and I haven't started yet. Given that this is a complicated topic, there is an important role for more considered writing and deeper thinking.
 
-### Defining Open Source Makers and Takers
+## Defining Open Source Makers and Takers
 
-#### Makers
+### Makers
 
 Some companies are born out of Open Source, and as a result believe deeply and invest significantly in their respective communities. With their help, Open Source has revolutionized software for the benefit of many. Let's call these types of companies *Makers*.
 
@@ -72,7 +74,7 @@ Our definition of a Maker assumes intentional and meaningful contributions and e
 
 I use the term Makers to refer to anyone who purposely and meaningfully invests in the maintenance of Open Source software, i.e. by making engineering investments, writing documentation, fixing bugs, organizing events, and more.
 
-#### Takers
+### Takers
 
 Now that Open Source adoption is widespread, lots of companies, from technology startups to technology giants, monetize Open Source projects without contributing back to those projects. Let's call them *Takers*.
 
@@ -82,9 +84,9 @@ I understand and respect that some companies can give more than others, and that
 
 Organizations can be both Takers and Makers at the same time. For example, [Acquia](https://www.acquia.com/), my company, is a Maker of Drupal, but a Taker of [Varnish Cache](http://varnish-cache.org/). We use Varnish Cache extensively but we don't contribute to its development.
 
-[image blog/open-source-makers-and-takers-2]
+![A scale that is not in balance](http://default/files/cache/blog/open-source-makers-and-takers-2-640w.jpg)
 
-### Takers hurt Makers
+## Takers hurt Makers
 
 To be financially successful, many Makers mix Open Source contributions with commercial offerings. Their commercial offerings usually take the form of proprietary or closed source IP, which may include a combination of premium features and hosted services that offer performance, scalability, availability, productivity, and security assurances. This is known as the [Open Core business model](https://en.wikipedia.org/wiki/Open-core_model). Some Makers offer professional services, including maintenance and support assurances.
 
@@ -97,7 +99,7 @@ When a Maker has $1 million to invest in R&amp;D, they might choose to invest $5
 When a Taker has $1 million to invest in R&amp;D, nearly all of their resources go to the development of proprietary IP behind their commercial offerings. They might invest $950k in their commercial offerings that compete with the Maker's, and $50k towards Open Source contribution. Furthermore, the $50k is usually focused on self-promotion rather than being directed at improving the Open Source project itself.
 
 <div class="large">
-  [image blog/open-source-makers-and-takers-3]
+  ![A visualization of the Maker and Taker math](http://default/files/cache/blog/open-source-makers-and-takers-3-640w.jpg)
 </div>
 
 Effectively, the Taker has put itself at a competitive advantage compared to the Maker:
@@ -109,7 +111,7 @@ In other words, Takers reap the benefits of the Makers' Open Source contribution
 
 <p class="pullquote">Takers harm Open Source projects. An aggressive Taker can induce Makers to behave in a more selfish manner and reduce or stop their contributions to Open Source altogether. Takers can turn Makers into Takers.</p>
 
-### Open Source contribution and the Prisoner's Dilemma
+## Open Source contribution and the Prisoner's Dilemma
 
 The example above can be described as a [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma). The Prisoner's Dilemma is a standard example of [game theory](https://en.wikipedia.org/wiki/Game_theory), which allows the study of strategic interaction and decision-making using mathematical models. I won't go into detail here, but for the purpose of this article, it helps me simplify the above problem statement. I'll use this simplified example throughout the article.
 
@@ -153,12 +155,12 @@ A real-life example of the Prisoner's Dilemma that many people can relate to is 
 
 Fortunately, the problem of individually rational actions leading to collectively adverse outcomes is not new or unique to Open Source. Before I look at potential models to better sustain Open Source projects, I will take a step back and look at how this problem has been solved elsewhere.
 
-### Open Source: a public good or a common good?
+## Open Source: a public good or a common good?
 
 In economics, the concepts of [public goods](https://en.wikipedia.org/wiki/Public_good) and [common goods](https://en.wikipedia.org/wiki/Common_good) are decades old, and have similarities to Open Source.
 
 <div class="large">
-  [image blog/open-source-makers-and-takers-4]
+  ![Examples of common goods \(fishing grounds, oceans, parks\) and public goods \(lighthouses, radio, street lightning\)](http://default/files/cache/blog/open-source-makers-and-takers-4-640w.jpg)
 </div>
 
 Public goods and common goods are what economists call [non-excludable](https://en.wikipedia.org/wiki/Non-excludable) meaning it's hard to exclude people from using them. For example, everyone can benefit from fishing grounds, whether they contribute to their maintenance or not. Simply put, public goods and common goods have *open access*.
@@ -179,7 +181,7 @@ However, when the success of an Open Source project depends largely on one or mo
 
 <p class="pullquote">Both volunteer-driven and sponsorship-driven Open Source communities should encourage <em>software free-riders</em>, but sponsorship-driven Open Source communities should discourage <em>customer free-riders</em>.</p>
 
-### Lessons from decades of Common Goods management
+## Lessons from decades of Common Goods management
 
 Hundreds of research papers and books have been written on public good and common good governance. Over the years, I have read many of them to figure out what Open Source communities can learn from successfully managed public goods and common goods.
 
@@ -208,7 +210,7 @@ Interestingly, all successfully managed commons studied by Ostrom switched at so
 
 Once access is closed, explicit rules need to be established to determine how resources are shared, who is responsible for maintenance, and how self-serving behaviors are suppressed. In all successfully managed commons, the regulations specify (1) who has access to the resource, (2) how the resource is shared, (3) how maintenance responsibilities are shared, (4) who inspects that rules are followed, (5) what fines are levied against anyone who breaks the rules, (6) how conflicts are resolved and (7) a process for collectively evolving these rules.
 
-### Three patterns for long-term sustainable Open Source
+## Three patterns for long-term sustainable Open Source
 
 Studying the work of Garrett Hardin (*Tragedy of the Commons*), the Prisoner's Dilemma, Mancur Olson (*Collective Action*) and Elinor Ostrom's core design principles for self-governance, a number of shared patterns emerge. When applied to Open Source, I'd summarize them as follows:
 
@@ -218,7 +220,7 @@ Studying the work of Garrett Hardin (*Tragedy of the Commons*), the Prisoner's D
 
 Next, let's see how these three concepts – centralization, privatization and self-governance – could apply to Open Source.
 
-### Model 1: Self-governance in Open Source
+## Model 1: Self-governance in Open Source
 
 For small Open Source communities, self-governance is very common; it's easy for its members to communicate, learn who they can trust, share norms, agree on how to collaborate, etc.
 
@@ -240,9 +242,9 @@ Needless to say, this gets even more difficult in a scenario where there are mor
 
 The concept of major projects growing out of self-governed volunteer communities is not new to the world. The first trade routes were ancient trackways which citizens later developed on their own into roads suited for wheeled vehicles. Privatization of roads improved transportation for all citizens. Today, we certainly appreciate that our governments maintain the roads.
 
-[image blog/open-source-makers-and-takers-5]
+![The roads system evolving from self-governance to privatization, and from privatization to centralization](http://default/files/cache/blog/open-source-makers-and-takers-5-640w.jpg)
 
-### Model 2: Privatization of Open Source governance
+## Model 2: Privatization of Open Source governance
 
 In this model, Makers are rewarded unique benefits not available to Takers. These exclusive rights provide Makers a commercial advantage over Takers, while simultaneously creating a positive social benefit for all the users of the Open Source project, Takers included.
 
@@ -252,7 +254,7 @@ Another example is [Automattic](https://automattic.com/), the company behind Wor
 
 Recently, there have been examples of Open Source companies like [MongoDB](https://techcrunch.com/2018/10/16/mongodb-switches-up-its-open-source-license/), [Redis](https://techcrunch.com/2019/02/21/redis-labs-changes-its-open-source-license-again/), [Cockroach Labs](https://www.cockroachlabs.com/blog/oss-relicensing-cockroachdb/) and others adopting stricter licenses because of perceived (and sometimes real) threats from public [cloud companies that behave as Takers](https://onezero.medium.com/open-source-betrayed-industry-leaders-accuse-amazon-of-playing-a-rigged-game-with-aws-67177bc748b7). The ability to change the license of an Open Source project is a form of privatization.
 
-### Model 3: Centralization of Open Source governance
+## Model 3: Centralization of Open Source governance
 
 Let's assume a government-like central authority can monitor Open Source companies A and B, with the goal to reward and penalize them for contribution or lack thereof. When a company follows a cooperative strategy (*being a Maker*), they are rewarded $25 and when they follow a defect strategy (*being a Taker*), they are charged a $25 penalty. We can update the pay-off matrix introduced above as follows:
 
@@ -286,15 +288,16 @@ The money for rewards could come from various fundraising efforts, including mem
 
 One way to implement this is Drupal's credit system. Drupal's non-profit organization, the [Drupal Association](https://www.drupal.org/association) [monitors who contributes what](https://dri.es/a-method-for-giving-credit-to-organizations-that-contribute-code-to-open-source). Each contribution earns you credits and the credits are used to provide visibility to Makers. The more you contribute, the more visibility you get on [Drupal.org](https://www.drupal.org) (visited by 2 million people each month) or at Drupal conferences (called DrupalCons, visited by thousands of people each year).
 
-[image drupal/example-issue-credit-on-drupal-org-2016 resize=false]
+![A Drupal.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
+*A screenshot of an issue comment on Drupal.org. You can see that jamadar worked on this patch as a volunteer, but also as part of his day job working for TATA Consultancy Services on behalf of their customer, Pfizer.*
 
 While there is a lot more the Drupal Association could and should do to balance its Makers and Takers and achieve a more optimal equilibrium for the Drupal project, it's an emerging example of how an Open Source non-profit organization can act as a regulator that monitors and maintains the balance of Makers and Takers.
 
 The big challenge with this approach is the accuracy of the monitoring and the reliability of the rewarding (and sanctioning). Because Open Source contribution comes in different forms, tracking and valuing Open Source contribution is a very difficult and expensive process, not to mention full of conflict. Running this centralized government-like organization also needs to be paid for, and that can be its own challenge.
 
-### Concrete suggestions for scaling and sustaining Open Source
+## Concrete suggestions for scaling and sustaining Open Source
 
-#### Suggestion 1: Don't just appeal to organizations' self-interest, but also to their fairness principles
+### Suggestion 1: Don't just appeal to organizations' self-interest, but also to their fairness principles
 
 If, like most economic theorists, you believe that organizations act in their own self-interest, we should appeal to that self-interest and better explain the benefits of contributing to Open Source.
 
@@ -312,7 +315,7 @@ It can be difficult to understand the consequences of our own actions within Ope
 
 Make no mistake though: most organizations won't care about fairness principles and will only contribute when they have to. For example, most people would not voluntarily redistribute 25-50% of their income to those who need it. However, most of us agree to redistribute money by paying taxes, but only so long as all others have to do so as well and the government enforces it.
 
-#### Suggestion 2: Encourage end users to offer selective benefits to Makers
+### Suggestion 2: Encourage end users to offer selective benefits to Makers
 
 We talked about Open Source projects giving selective benefits to Makers (e.g. Automattic, Mozilla, etc), but end users can give selective benefits as well. For example, end users can mandate Open Source contributions from their partners. We have some successful examples of this in the Drupal community:
 
@@ -321,7 +324,7 @@ We talked about Open Source projects giving selective benefits to Makers (e.g. A
 
 If more end users of Open Source took this stance, it could have a very big impact on Open Source sustainability. For governments, in particular, this seems like a very logical thing to do. Why would a government *not* want to put every dollar of IT spending back in the public domain? For Drupal alone, the impact would be measured in tens of millions of dollars each year.
 
-#### Suggestion 3: Experiment with new licenses
+### Suggestion 3: Experiment with new licenses
 
 I believe we can create licenses that support the creation of Open Source projects with sustainable communities and sustainable businesses to support it.
 
@@ -335,7 +338,7 @@ I'd love to see new licenses that encourage *software free-riding* (sharing and 
 
 If, like me, you believe there could be future licenses that are *more* "Open Source"-friendly, not less, it would be smart to implement a *contributor license agreement* for your Open Source project; it allows Open Source projects to relicense if/when better licenses arrive. At some point, current Open Source licenses will be at a disadvantage compared to future Open Source licenses.
 
-### Conclusions
+## Conclusions
 
 As Open Source communities grow, volunteer-driven, self-organized communities become harder to scale. Large Open Source projects should find ways to balance Makers and Takers or the Open Source project risks not innovating enough under the weight of Takers.
 

@@ -18,11 +18,13 @@ id: 5521
 
 # Drupal at Web Summit
 
+![A presenter at Web Summit with a screen behind her listing tech terms like 'Composable', 'Headless', 'AI powered', 'multi-lingual' and more.](http://default/files/images/drupal/baddy-at-web-summit-2023.jpg)
+
 For the first time in over 20 years, [Drupal](https://www.drupal.org/) has a significant appearance at Web Summit, one of the largest and most influential technology conferences, attracting over 70,000 attendees.
 
 [Baddy Sonja Breidert](https://www.linkedin.com/in/baddysonja/), the previous chair of the [Drupal Association](https://www.drupal.org/association), delivered a keynote on Drupal:
 
-[image drupal/baddy-at-web-summit-2023]
+![A presenter at Web Summit with a screen behind her listing tech terms like 'Composable', 'Headless', 'AI powered', 'multi-lingual' and more.](http://default/files/images/drupal/baddy-at-web-summit-2023.jpg)
 
 In the photo above, Baddy is on stage, in front of a slide with words like headless, accessible, API-first, etc. She made the point that Drupal has consistently been a pioneer in implementing the latest technologies to improve the web for builders and end users alike. Always innovating, always ahead.
 

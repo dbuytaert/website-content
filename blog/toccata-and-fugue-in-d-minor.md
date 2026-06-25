@@ -17,6 +17,6 @@ id: 251
 
 An intriguing visualization of [Johann Sebastian Bach ](https://en.wikipedia.org/wiki/Bach)'s [Toccata and Fugue in D minor](https://en.wikipedia.org/wiki/Toccata_and_Fugue_in_D_minor):
 
-[video ipzR9bhei_o]
+https://www.youtube.com/watch?v=ipzR9bhei_o
 
 Makes you appreciate Bach's musical genius.

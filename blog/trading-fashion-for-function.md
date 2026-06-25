@@ -16,6 +16,8 @@ id: 4341
 
 # Trading fashion for function
 
+![The Sport Loop is the most comfortable band for the Apple Watch](http://default/files/cache/blog/apple-watch-cargo-khaki-sport-loop-2018-640w.jpg)
+
 I've been using my new Apple Watch 3 for several months, and recently I've been in the market for a new band. Previously, I was using a standard synthetic rubber band. I'd come home from work, and the first thing I wanted to do was take my Apple Watch off. I didn't like the clammy feel of the band, and the fit was either too loose or too tight. This week, I decided to try the new Sport Loop.
 
 I'm currently in Chicago visiting our Acquia office, and it's pretty warm out. The Sport Loop has proven to been a great alternative. It is made out of woven nylon, it's breathable and it has a little bit of stretch. It's not going to win fashion awards, but it is comfortable enough to wear all day and I no longer feel the urge to take off my watch in the evening.

@@ -16,4 +16,6 @@ id: 160
 
 # Sunday morning, 6:33am
 
+![A digital clock displays 6:33 AM in red numbers in a dark room.](http://default/files/cache/miscellaneous-2006/sunday-6-33-am-640w.jpg)
+
 

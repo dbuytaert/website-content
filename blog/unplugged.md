@@ -16,4 +16,6 @@ id: 181
 
 # Unplugged
 
+![An old electrical box with an open door, a disconnected plug, and fallen leaves covering its surface.](http://default/files/cache/miscellaneous-2006/unplugged-640w.jpg)
+
 

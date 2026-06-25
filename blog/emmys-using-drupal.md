@@ -23,4 +23,4 @@ Emmys.com was previously a static HTML website, with a few custom PHP components
 
 The new Emmys.com is a joint project of volunteers from the Academy's television industry leadership, its staff, and Emmy magazine – they built the site with the help of [Metal Toad Media](http://metaltoad.com). In addition to migrating their main website, emmys.com, they're also in the progress of converting some of their other related properties.
 
-[image drupal/emmys-2009]
+![Two presenters stand on stage at the Emmy Awards, smiling and speaking into a microphone.](http://default/files/cache/drupal/emmys-2009-640w.jpg)

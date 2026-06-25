@@ -17,6 +17,8 @@ id: 5651
 
 # Announcing the Drupal Starshot Advisory Council
 
+![A group of people in a futuristic setting having a meeting in an open forum with a space background.](http://default/files/cache/drupal/starshot-council-640w.jpg)
+
 I'm excited to announce the formation of the Drupal Starshot Advisory Council. When I [announced Starshot's Leadership Team](https://dri.es/announcing-the-drupal-starshot-leadership-team), I explained that we are innovating on the leadership model by adding a team of advisors. This council will provide strategic input and feedback to help ensure [Drupal Starshot](https://www.drupal.org/about/starshot) meets the needs of key stakeholders and end-users.
 
 The Drupal Starshot initiative represents an ambitious effort to expand Drupal's reach and impact. To guide this effort, we've established a diverse Advisory Council that includes members of the Drupal Starshot project team, Drupal Association staff and Board of Directors, representatives from Drupal Certified Partners, Drupal Core Committers, and last but not least, individuals representing the target end-users for Drupal Starshot. This ensures a wide range of perspectives and expertise to inform the project's direction and decision-making.

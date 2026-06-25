@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/join-the-drupal-starshot-team-as-a-track-lead'
-title: 'Join the Drupal Starshot team as a track lead '
+title: 'Join the Drupal Starshot team as a track lead'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -16,15 +16,17 @@ published: true
 id: 5656
 ---
 
-# Join the Drupal Starshot team as a track lead 
+# Join the Drupal Starshot team as a track lead
+
+![A pilot races a spacecraft along a curved track in space.](http://default/files/cache/drupal/starshot-tracks-640w.jpg)
 
 The [Drupal Starshot](https://www.drupal.org/starshot) initiative has been making significant progress behind the scenes, and I'm excited to share some updates with the community.
 
-### Leadership team formation and product definition
+## Leadership team formation and product definition
 
 Over the past few months, we've been working diligently on [Drupal Starshot](https://www.drupal.org/starshot). One of our first steps was to [appoint a leadership team](https://dri.es/announcing-the-drupal-starshot-leadership-team) to guide the project. With the leadership team in place as well as the new [Starshot Advisory Council](https://dri.es/announcing-the-drupal-starshot-advisory-council), we shifted our focus to defining the product. We've made substantial progress on this front and will be sharing more details about the product strategy in the coming weeks.
 
-### Introducing Drupal Starshot tracks
+## Introducing Drupal Starshot tracks
 
 We already started to break down the initiative into manageable components, and are introducing the concept of "tracks". Tracks are smaller, focused parts of the Drupal Starshot project that allow for targeted development and contributions. We've already published the first set of tracks on the [Drupal Starshot issue queue on Drupal.org](https://www.drupal.org/project/starshot/issues/3454529).
 
@@ -36,7 +38,7 @@ Example tracks include:
 
 While many tracks are technical and need help from developers, most of the tracks need contribution from designers, UX experts, marketers, testers and site builders.
 
-### Recruiting more track leads
+## Recruiting more track leads
 
 Several tracks already have track leads and have made significant progress:
 
@@ -48,7 +50,7 @@ However, we need many additional track leads to drive our remaining tracks to co
 
 We're now accepting applications for [track lead positions](https://www.drupal.org/node/3461550). Interested individuals and organizations can apply by completing our [application form](https://docs.google.com/forms/d/e/1FAIpQLSdsylj5n2iPm3fcmnp3e-nNLwmaE-BiONcLU8HrPdP_jhw8WQ/viewform). The application window closes on July 31st, two weeks from today.
 
-### Key responsibilities of a track lead
+## Key responsibilities of a track lead
 
 Track leads can be individuals, teams, or organizations, including [Drupal Certified Partners](https://www.drupal.org/association/become-a-drupal-certified-partner). While technical expertise is beneficial, the role primarily focuses on strategic coordination and project management. Key responsibilities include:
 
@@ -58,13 +60,13 @@ Track leads can be individuals, teams, or organizations, including [Drupal Certi
 - Collaborating with key stakeholders, including the Drupal Starshot leadership team, module maintainers, the marketing team, etc.
 - Communicating progress to the community (e.g. blogging).
 
-### Track lead selection and announcement
+## Track lead selection and announcement
 
 After the application deadline, the Drupal Starshot Leadership Team will review the applications and appoint track leads. We expect to announce the selected track leads in the first week of August.
 
 While the application period is open, we will be available to answer any questions you may have. Feel free to reach out to us through the Drupal.org issue queue, or join us in an upcoming zoom meeting (details to be announced / figured out).
 
-### Looking ahead to DrupalCon Barcelona
+## Looking ahead to DrupalCon Barcelona
 
 Our goal is to make significant progress on these tracks by [DrupalCon Barcelona](https://events.drupal.org/barcelona2024), where we plan to showcase the advancements we've made. We're excited about the momentum building around Drupal Starshot and can't wait to see the contributions from the community.
 

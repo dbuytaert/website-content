@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/open-source-infrastructure-deserves-a-business-model'
-title: 'Open Source infrastructure deserves a business model '
+title: 'Open Source infrastructure deserves a business model'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -19,7 +19,9 @@ featured: true
 id: 6126
 ---
 
-# Open Source infrastructure deserves a business model 
+# Open Source infrastructure deserves a business model
+
+![A person stands before a massive circular machine with cracks forming inside it, suggesting infrastructure under pressure.](http://default/files/cache/blog/open-source-infrastructure-cracks-640w.jpg)
 
 Open Source software is free to download. But the infrastructure that makes it usable is not.
 
@@ -31,7 +33,7 @@ But it is not free. Someone has to operate the servers, pay for bandwidth, respo
 
 Much of the modern software ecosystem depends on these services working reliably. And yet the organizations operating them are almost always scrambling to fund them.
 
-### A patchwork of fragile arrangements
+## A patchwork of fragile arrangements
 
 Every large Open Source project has found some way to keep its infrastructure running. Usually that means a mix of donated services, sponsorships, fundraising, cross-subsidy, or patronage from a single company.
 
@@ -113,7 +115,7 @@ When the economics break, the consequences become visible. In February 2026, [GN
 
 Taken together, these examples point to the same underlying problem. Most Open Source infrastructure does not have a real business model. It survives through donations, corporate sponsorship, and community fundraising, rather than revenue tied to the value it delivers.
 
-### From steward to service provider
+## From steward to service provider
 
 One direction that makes sense to me is a simple _value exchange_: keep core infrastructure free for individuals and small projects, while organizations using it at scale help pay for what they consume. Not as a donation, but as payment for the infrastructure their software depends on.
 
@@ -129,7 +131,7 @@ In Open Source, what looks like fairness often is not. Free for everyone sounds 
 
 If the problem is that costs are disconnected from usage, the obvious place to start is linking them. Exactly how that would work in practice is a separate design question, and the answer will likely differ from one Open Source project to another. One possible approach is usage-based fees, tiered by download volume or API consumption. Questions about measurement, thresholds, and enforcement would need careful community discussion.
 
-### Governance is downstream of funding
+## Governance is downstream of funding
 
 If infrastructure funding models need to change, the obvious question is who decides. In Open Source, questions like this ultimately belong to the community.
 

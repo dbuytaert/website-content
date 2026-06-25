@@ -22,13 +22,13 @@ There are many ways you can invest in growth. I'm here to argue that hiring a Dr
 
 In fact, [Chapter Three just announced that they hired Alex Pott](https://www.chapterthree.com/blog/joining-chapter-three), a Drupal 8 core maintainer, to work full-time on Drupal core. I couldn't be more thrilled. Great for Alex, great for Drupal, and great for Chapter Three! And a good reason to actually write down some of my thoughts.
 
-### The value of having a Drupal core contributor on staff
+## The value of having a Drupal core contributor on staff
 
 When Drupal 8 launches it will bring with it [many big changes](https://dri.es/why-the-big-architectural-changes-in-drupal-8). Having someone within your company with first-hand knowledge of these changes is invaluable on a number of fronts. He or she can help train or support your technical staff on the changes coming down the pipe, can help your sales team answer customer questions, and can help your marketing team with blog posts and presentations to establish you as a thought-leader on Drupal. I believe these things take less than 20% of a Drupal core contributor's time, which leaves more than 80% of time to contribute to Drupal.
 
 But perhaps most importantly, it is a crucial contribution that helps ensure the future of the Drupal project itself and help us all avoid falling into the [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons). While some core contributors have some amount of funding – ranging from 10% time from their employers to full-time employment (for example, most of [Acquia's Office of the CTO](https://dri.es/announcing-the-office-of-the-cto-at-acquia) are full-time core contributors) – most core contribution happens thanks to great personal sacrifice of the individuals involved. As the complexity and adoption of Drupal grows, there is [a growing need for full-time Drupal contributors](https://dri.es/the-commercialization-of-a-volunteer-driven-open-source-project). Additionally, distributing employment of core contributors across multiple Drupal organizations can be healthy for Drupal; it ensures institutional independence, diversified innovation and resilience.
 
-### Measuring the impact of a Drupal core contributor on your business
+## Measuring the impact of a Drupal core contributor on your business
 
 While that sounds nice, the proof is in the numbers. So when I heard about [Chapter Three hiring Alex Pott](https://www.chapterthree.com/blog/joining-chapter-three), I immediately called Chapter Three to congratulate them, but I also asked them to track Alex's impact on Chapter Three in terms of sales. If we can actually prove that hiring a Drupal core contributor is a great business investment, it could provide a really important breakthrough in making Drupal core development scalable.
 
@@ -42,11 +42,11 @@ Even more impressive, [Kevin O'Leary](https://www.drupal.org/user/627430) has do
 
 [Gábor Hojtsy](https://www.drupal.org/user/4166) regularly spends some of his time on sales calls and helped close several $500k+ deals. [Moshe Weitzman](https://www.drupal.org/user/23) occasionally travels to customers and helped renew several large deals. Moshe also wrote a blog post around [Drupal 8's improved upgrade process using Migrate module](https://www.acquia.com/blog/d8migrate). We aren't able to track all the details yet (working on it), but I'm sure some of the more than 3,200 unique viewers translated in to sales for us.
 
-### Conclusion: investment returned, and then some
+## Conclusion: investment returned, and then some
 
 Obviously, your results may vary. Acquia has an amazing sales and marketing engine behind these core contributor, driving the results. I hope Chapter Three tracks the impact of hiring Alex Pott and that they share the results publicly so we can continue to build the business case for employing full-time Drupal contributors. If we can show that is not just good for Drupal, but also good for business, we can scale Drupal development to new highs. I hope more Drupal companies will start to think this way.
 
-### Footnotes
+## Footnotes
 
 <sup id="fn1">\#1</sup> I assumed that of the 30 people, 25 are billable and 5 are non-billable. I also assumed an average fully-loaded cost per employee of $125k per head and gross revenue per head of around $180k. The basic math works out as follows: (25 employees x $180k) - (30 employees x $125k) = $750k in profit.
 

@@ -19,4 +19,4 @@ id: 78
 
 Been spreading the [Drupal Cool-Aid](https://www.drupal.org/) in Brussels today. Great fun!
 
-[image drupal/barcamp-brussels-tshirt]
+![Black T-shirt with "BarCamp May 2006 - Brussels" printed on it, along with a handwritten name tag.](http://default/files/cache/drupal/barcamp-brussels-tshirt-640w.jpg)

@@ -15,7 +15,7 @@ id: 5306
 
 # Incoming train
 
-[image miscellaneous-2022/train-1]
-[image miscellaneous-2022/train-2]
+![A underground subway tunnel with an incoming train.](http://default/files/cache/miscellaneous-2022/train-1-640w.jpg)
+![A train moves quickly through a dimly lit underground tunnel, leaving streaks of light in its path.](http://default/files/cache/miscellaneous-2022/train-2-640w.jpg)
 
 Snapped these photos on my commute home. I love both the detail and the motion.

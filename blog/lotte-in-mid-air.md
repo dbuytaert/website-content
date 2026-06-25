@@ -18,4 +18,6 @@ id: 104
 
 # Lotte in mid air
 
+![A person is upside down in mid-air with arms extended and legs bent against a clear blue sky.](http://default/files/cache/miscellaneous-2006/lotte-in-mid-air-640w.jpg)
+
 

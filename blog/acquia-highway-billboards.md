@@ -17,4 +17,4 @@ id: 4671
 
 If you're driving into Boston, you might notice something new on [I-90](https://en.wikipedia.org/wiki/Interstate_90). Acquia has placed ads on two local billboards; more than 120,000 cars drive past these billboards everyday. This is the first time in Acquia's eleven years that we've taken out a highway billboard, and dipped our toes in more traditional media advertising. Personally, I find that exciting, because it means that more and more people will be introduced to Acquia. If you find yourself on the [Mass Pike](https://en.wikipedia.org/wiki/Massachusetts_Turnpike), keep an eye out!
 
-[image acquia/billboard-2018-1]
+![A billboard displays the text "We scale your digital experiences faster.](http://default/files/cache/acquia/billboard-2018-1-640w.jpg)

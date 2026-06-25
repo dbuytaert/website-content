@@ -24,4 +24,4 @@ The new investor.gov is a good looking site that also seems to be 508 compliant 
 
 All in all, the site is great example of how governments can leverage Drupal to create beautiful and accessible sites. *Nice work SEC!*
 
-[image drupal/investor-gov]
+![A financial education website promoting investment safety, fraud awareness, and market basics with resources and news updates.](http://default/files/cache/drupal/investor-gov-640w.jpg)

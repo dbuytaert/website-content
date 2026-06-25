@@ -16,5 +16,7 @@ id: 4571
 
 # The magic of flying in a window seat
 
-[image miscellaneous-2018/colors-from-the-plane-1]
-[image miscellaneous-2018/colors-from-the-plane-2]
+![Raindrops on an airplane window with a blurred view of the wing and a colorful sky in the background.](http://default/files/cache/miscellaneous-2018/colors-from-the-plane-1-640w.jpg)
+
+![Raindrops on an airplane window with a blurred view of the wing and a colorful sky in the background.](http://default/files/cache/miscellaneous-2018/colors-from-the-plane-1-640w.jpg)
+![Airplane engine reflecting warm sunlight with clouds below and a colorful sky in the background.](http://default/files/cache/miscellaneous-2018/colors-from-the-plane-2-640w.jpg)

@@ -20,7 +20,8 @@ After a lot of discussion and testing, we decided to adopt the [Aloha Editor](ht
 
 Here is a screenshot of our latest designs of how we envision integrating the Aloha Editor in Spark on a mobile device:
 
-[image drupal/aloha-spark-mobile]
+![A mobile rich text editor displays a toolbar with formatting options and an on-screen keyboard for text input.](http://default/files/images/drupal/aloha-spark-mobile.jpg)
+*By tapping into a rich text field such as Body, a toolbar comes up with two tabs with editor buttons below: Format \(containing buttons such as Bold, Italic, Left/Right Align, and Lists\) and Insert \(for Links, Images, and the like\).*
 
 I also wanted to give a big thank you to [Haymo Meran](https://twitter.com/draftkraft), creator of Aloha Editor and Director of Product Experience at [Gentics Software GmbH](https://www.gentics.com/), both for hosting a [Drupal/Aloha collaboration sprint](https://wimleers.com/blog/aloha-drupal-spark-sprint-report) at his company's offices in Vienna last month, and also for [changing the license of Aloha Editor](https://www.alohaeditor.org/license.php) to GPLv2+ (from AGPLv3) so that it could be used with [Drupal](https://www.drupal.org)!
 

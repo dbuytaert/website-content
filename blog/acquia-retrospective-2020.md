@@ -19,11 +19,13 @@ id: 5131
 
 # Acquia retrospective 2020
 
+![Shown on the left: Drupal Cloud. Shown on the right: Marketing Cloud.](http://default/files/cache/acquia/product-portfolio-2020-640w.png)
+
 At the beginning of every year, I like to publish a retrospective to look back and take stock of how far [Acquia](https://www.acquia.com/) has come over the past 12 months. I take the time to write these retrospectives because I want to keep a record of the changes we've gone through as a company. It also helps me track my thinking and personal growth year over year.
 
 If you'd like to read my previous retrospectives, you can find them here: [2019](https://dri.es/acquia-retrospective-2019), [2018](https://dri.es/acquia-retrospective-2018), [2017](https://dri.es/acquia-retrospective-2017), [2016](https://dri.es/acquia-retrospective-2016), [2015](https://dri.es/acquia-retrospective-2015), [2014](https://dri.es/acquia-retrospective-2014), [2013](https://dri.es/acquia-retrospective-2013), [2012](https://dri.es/acquia-retrospective-2012), [2011](https://dri.es/acquia-retrospective-2011), [2010](https://dri.es/acquia-retrospective-2010), [2009](https://dri.es/acquia-retrospective-2009). This year marks the publishing of my twelfth retrospective. When read together, these posts provide a comprehensive overview of Acquia's trajectory.
 
-### COVID-19
+## COVID-19
 
 2020 was a strange year. Since March 2020, I've only been in an Acquia office twice. Despite the changes the pandemic brought upon us all, Acquia did well in 2020. We continued our unbroken, 14-year growth streak.
 
@@ -33,7 +35,7 @@ We were proud to help many of our customers cope with COVID-19. A few notable ex
 - [King Arthur Baking Company](https://www.acquia.com/about-us/newsroom/press-releases/acquia-powers-king-arthur-flours-digital-brand-transformation) attracted a new digital audience of pandemic bakers that led to a 200% year-over-year growth in e-commerce sales.
 - When stores first closed, [Godiva](https://www.acquia.com/resources/case-study/godiva) used Acquia Customer Data Platform (CDP) to double email-open rates and nearly triple click-through rates. Their website traffic was up 63%.
 
-### Execution on product vision
+## Execution on product vision
 
 Open Source, digital transformation, cloud computing and data-driven marketing are powerful tailwinds transforming how every company does business. 2020 only accelerated these trends, which Acquia benefited from.
 
@@ -41,14 +43,15 @@ While COVID-19 changed some of Acquia's 2020 plans, our vision and strategy didn
 
 Throughout 2020 we continued to invest decisively in our Web Content Management solutions while accelerating our move into the broader Digital Experience Platform market. "Decisively", because we grew our Marketing Cloud engineering team by 65% and our Drupal Cloud engineering team by 35% – a testament to the strength of our company amidst a pandemic.
 
-[video 29Dx5UqzGMw]
+https://www.youtube.com/watch?v=29Dx5UqzGMw
 
 The best way to learn about what Acquia has been working on is to [watch the recording of my Acquia Engage keynote](https://dri.es/acquia-engage-keynote-2020). The presentation is only two months old, and in 30 minutes I cover 10 major product updates. Rather than repeat them here, [take a look at the video](https://dri.es/acquia-engage-keynote-2020).
 
 Our product portfolio is organized in two lines of business: the Drupal Cloud and Marketing Could. *Content* is at the core of the Drupal Cloud, and *data* is at the core of the Marketing Cloud.
 
 <div class="large">
-  [image acquia/product-portfolio-2020 resize=false]
+  ![Shown on the left: Drupal Cloud. Shown on the right: Marketing Cloud.](http://default/files/cache/acquia/product-portfolio-2020-640w.png)
+*Acquia's product portfolio in 2020.*
 </div>
 
 Acquia's Drupal Cloud remains the number one Drupal platform in the enterprise with 40% of Fortune 100 companies as our customers. Acquia is the number one vendor in terms of performance, scalability, security and compliance. Across our customers, we served more than 500 billion HTTP requests in 2020.
@@ -63,23 +66,25 @@ At the beginning of 2018, shortly after [Mike Sullivan joined Acquia as our CEO]
 
 The success that Acquia earned during 2020 was not just driven by our strategy and roadmap execution. They are also the result of our unique culture and how we continued to support our teams throughout the pandemic. We were recognized in [Great Places to Work UK](https://www.greatplacetowork.co.uk/awards/uks-best-workplaces-in-tech/uks-best-workplaces-in-tech-2020/) and [Excellence in Wellbeing](https://www.greatplacetowork.co.uk/culture-consulting/excellence-in-wellbeing-recipients/excellence-in-wellbeing-2020); [Great Places to Work and Top IT Companies India](https://www.greatplacetowork.in/great/profile/it-best-20/Acquia-India); and were named a [Boston Globe Top Place to Work](https://www.acquia.com/about-us/newsroom/press-releases/boston-globe-names-acquia-top-place-work-2020).
 
-### Contributing to Open Source
+## Contributing to Open Source
 
 Drupal did well in 2020. After five years of work, [Drupal 9 was released](https://dri.es/drupal-9-released), bringing many important improvements. In 2020, Drupal received contributions from more than 8,000 different individuals and more than 1,200 different organizations. The total number of contributions to Drupal increased year over year. For example, the [Drupal community](https://www.drupal.org/) worked on 4,195 different Drupal.org projects in 2020 – a large 20% year-over-year increase compared to 2019.
 
 Acquia remained the [the top commercial contributor to Drupal in 2020](https://dri.es/who-sponsors-drupal-development-2020):
 
-[image acquia/acquia-top-contributor-2020 resize=false]
+![A chart showing that Acquia contributes much more than Pantheon, Platform.sh, Rackspace, Bluehost and DigitalOcean](http://default/files/cache/acquia/acquia-top-contributor-2020-640w.png)
+*The contribution gap between Acquia and other PaaS and hosting companies is very large. According to Drupal.org's credit system, Acquia contributes 15x more than Pantheon and 80x more than Platform.sh.*
 
 One specific contribution that I'm extra proud of is that [Acquia](https://www.acquia.com/) bought advertising on [Drupal.org](https://www.drupal.org/), and used said advertising to highlight the 10 Acquia partners who contribute back to Drupal the most. It's always important to [promote the organizations that contribute to Drupal](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source), but in an economic downturn, it's even more important.
 
 <div class="large">
-  [image acquia/drupal-org-advertising-2020 resize=false]
+  ![Drupal.org advertising paid for by Acquia](http://default/files/cache/acquia/drupal-org-advertising-2020-640w.png)
+*The Acquia-paid banner that was on Drupal.org for most of 2020. It promotes Third and Gove, Acro Media, Mediacurrent, QED42, CI&T, FFW, Palantir.net, Lullabot, Four Kitchens, Phase2 and Srijan.*
 </div>
 
 We also contributed to [Mautic](https://www.mautic.org/): we helped evolve Mautic's governance, release Mautic 3, and organize the first ever MautiCon. The Mautic project made 13 releases over the past year compared to only 3 releases in 2019 before [Acquia acquired Mautic](https://dri.es/acquia-acquires-mautic-to-create-the-open-digital-experience-platform). We're also seeing a steady growth in community members and active contributors.
 
-### A year of personal growth
+## A year of personal growth
 
 Acquia started off 2020 as [a new member of the Vista portfolio](https://dri.es/acquia-to-receive-majority-investment-from-vista-equity-partners). I've been learning a lot from working with Vista and implementing [the best practices Vista is famous for](https://www.wsj.com/articles/billionaires-secret-buyout-formula-110-instructions-and-an-intelligence-test-1531151197). From a personal growth perspective, I wouldn't trade the experience for anything.
 
@@ -89,6 +94,6 @@ Early in 2020, I organized my team into 4 groups: Drupal Cloud, Marketing Cloud,
 
 I did quite a few virtual speaking engagements in 2020, including my keynotes at [DrupalCon Global](https://dri.es/state-of-drupal-presentation-july-2020), [DrupalCon Europe](https://dri.es/state-of-drupal-presentation-july-2020) and [Web Summit](https://dri.es/defending-the-open-web). With COVID-19, it was uncertain if DrupalCon would happen, but I'm glad it still did. Virtual events are not the same as in-person events though; I miss the travel experience, direct attendee feedback and personal interactions. In-person events give me energy; virtual events don't.
 
-### Thank you
+## Thank you
 
 As I mentioned at the beginning of this post, 2020 was a strange year. On days like today, when looking back at the past year, I am reminded of how lucky I am. I'm fortunate to be working at a healthy and growing company during these uncertain times. I hope that 2021 brings good health, predictability and stability for everyone.

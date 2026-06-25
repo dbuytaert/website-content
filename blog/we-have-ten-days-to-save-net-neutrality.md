@@ -20,6 +20,8 @@ id: 4091
 
 # We have 10 days to save net neutrality
 
+![](http://default/files/cache/blog/cable-squeeze-640w.jpg)
+
 Last month, the Chairman of the Federal Communications Commission, Ajit Pai, released a draft order that would soften net neutrality regulations. He wants to overturn the restrictions that make paid prioritization, blocking or throttling of traffic unlawful. If approved, this order could drastically alter the way that people experience and access the web. Without net neutrality, Internet Service Providers could determine what sites you can or cannot see.
 
 The proposed draft order is disheartening. Millions of Americans are trying to save net neutrality; the FCC has received over 5 million emails, [750,000 phone calls](https://www.battleforthenet.com), and 2 million comments. Unfortunately this public outpouring has not altered the FCC's commitment to dismantling net neutrality.
@@ -28,13 +30,13 @@ The commission will vote on the order on December 14th. We have 10 days to save 
 
 Although [I have written about net neutrality before](https://dri.es/the-reason-why-acquia-supports-net-neutrality), I want to explain the consequences and urgency of the FCC's upcoming vote.
 
-### What does Pai's draft order say?
+## What does Pai's draft order say?
 
 Chairman Pai has long been an advocate for ["light touch" net neutrality regulations](https://www.vox.com/2017/5/3/15537762/ajit-pai-fcc-net-neutrality-internet-service-providers-donald-trump-recode-podcast), and claims that repealing net neutrality will allow *"the federal government to stop micromanaging the Internet"*.
 
 Specifically, Pai aims to scrap the protection that classifies ISPs as common carriers under Title II of the Communications Act of 1934. Radio and phone services are also protected under Title II, which prevents companies from charging unreasonable rates or restricting access to services that are critical to society. Pai wants to treat the internet differently, and proposes that the FCC should simply require ISPs *"to be transparent about their practices"*. The responsibility of policing ISPs would also be transferred to the Federal Trade Commission. Instead of maintaining the FCC's clear-cut and rule-based approach, the FTC would practice case-by-case regulation. This shift could be problematic as a case-by-case approach could make the FTC [a weak consumer watchdog](https://www.wsj.com/articles/the-people-who-police-the-internet-are-changing-1511976390).
 
-### The consequences of softening net neutrality regulations
+## The consequences of softening net neutrality regulations
 
 At the end of the day, frail net neutrality regulations mean that ISPs are free to determine how users access websites, applications and other digital content.
 
@@ -42,7 +44,7 @@ It is clear that depending on ISPs to be "transparent" [will not protect against
 
 The way I see it, implementing "fast lanes" could alter the technological, economic and societal impact of the internet we know today. Unfortunately it seems that the chairman is prioritizing the interests of ISPs over the needs of consumers.
 
-### What can you can do today
+## What can you can do today
 
 Chairman Pai's draft order could dictate the future of the internet for years to come. In the end, net neutrality affects how people, including you and me, experience the web. I've dedicated [both my spare time and my professional career](https://dri.es/about) to the open web because I believe the web has the power to change lives, educate people, create new economies, disrupt business models and make the world smaller in the best of ways. Keeping the web open means that these opportunities can be available to everyone.
 

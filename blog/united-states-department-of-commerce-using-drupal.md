@@ -23,4 +23,4 @@ According to Wikipedia, the Department of Commerce has more than 140,000 employe
 
 It is great to see them take advantage of Drupal's social capabilities like blogging and commenting, as well as to see integration with social media like Twitter, YouTube and Facebook. It all helps provide greater transparency.
 
-[image drupal/commerce-gov]
+![Secretary Locke speaks at an event announcing the opening of the CommerceConnect office, with another official standing beside him.](http://default/files/cache/drupal/commerce-gov-640w.jpg)

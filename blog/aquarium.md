@@ -18,5 +18,5 @@ id: 1781
 
 Visited the Boston Aquarium on Axl's birthday.
 
-[image boston-aquarium-2010/jellyfish]
-[image boston-aquarium-2010/sardines]
+![A jellyfish with long, flowing tentacles drifts through dark water, illuminated by soft light.](http://default/files/cache/boston-aquarium-2010/jellyfish-640w.jpg)
+![A large school of sardines swims closely together in an aquarium, reflecting light as they move.](http://default/files/cache/boston-aquarium-2010/sardines-640w.jpg)

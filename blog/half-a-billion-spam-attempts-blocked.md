@@ -22,4 +22,5 @@ Furthermore, Mollom is currently protecting close to 50,000 active websites, tha
 
 It's sad that our websites get bombarded by idiots. But the fact that Mollom blocked half a billion of their attempts, actually makes me feel a lot better!
 
-[image mollom/statistics-august-2011 resize=false]
+![](http://default/files/images/mollom/statistics-august-2011.jpg)
+*Screenshot of the scorecard section on Molom.com.*

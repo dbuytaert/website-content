@@ -19,4 +19,6 @@ id: 2141
 
 # Melbourne by night
 
+![Aerial view of Melbourne at night, showing illuminated buildings, roads, and a river reflecting city lights.](http://default/files/cache/australia-2011/melbourne-by-night-640w.jpg)
+
 

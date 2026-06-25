@@ -29,4 +29,4 @@ Twitter is a curious case. On its face Twitter only has to do one thing – deli
 
 In the end, that is what good developer communities are all about. Developers are like molecules, vibrating with intensity and vigor. Their individual movements can seem random. But together in the right environment, they can form waves – or snowflakes. Nurturing a community in which both are possible is the challenge every software project faces; I'd like to think that Twitter, through Drupal, is creating the right environment.
 
-[image drupal/dev-twitter-com]
+![Twitter Developers webpage with options to get started, create an app, and discuss API integration for building applications.](http://default/files/cache/drupal/dev-twitter-com-640w.jpg)

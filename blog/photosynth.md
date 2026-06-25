@@ -17,6 +17,6 @@ id: 280
 
 # Photosynth
 
-[video 4LxlhoemR3A]
+https://www.youtube.com/watch?v=4LxlhoemR3A
 
 This video blew my mind. More information at <http://phototour.cs.washington.edu/> and <http://labs.live.com/photosynth/>.

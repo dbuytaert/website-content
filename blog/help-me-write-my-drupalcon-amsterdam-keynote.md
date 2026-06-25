@@ -16,7 +16,7 @@ id: 3186
 
 # Help me write my DrupalCon Amsterdam keynote
 
-[video 4DdiL6YbX7g]
+https://www.youtube.com/watch?v=4DdiL6YbX7g
 
 For my DrupalCon Amsterdam keynote, I want to try something slightly different. Instead of coming up with the talk track myself, I want to "crowdsource" it. In other words, I want the wider Drupal community to have direct input on the content of the keynote. I feel this will provide a great opportunity to surface questions and ideas from the people who make [Drupal](https://www.drupal.org) what it is.
 

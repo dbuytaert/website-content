@@ -21,8 +21,12 @@ Funny anecdote: I was waiting backstage to go on stage for my [TR35 elevator pit
 
 Either way, it is a great testament for all of us who work on Drupal that MIT recognizes Drupal as an important emerging technology, and that we are now on the radar of even more great technology leaders. *Rock on!*
 
-[image emtech-2008/cloud-computing-panel]
-[image emtech-2008/future-of-mobile-panel]
-[image emtech-2008/craig-mundie]
-[image emtech-2008/tr35]
-[image emtech-2008/mit]
+![A panel of six experts discusses cloud computing on stage at the EmTech 2008 conference.](http://default/files/cache/emtech-2008/cloud-computing-panel-640w.jpg)
+*From left to right: Dan Farber \(Editor in Chief, CNET\), David P. Anderson \(Professor, University of Berkeley, SETI@home\), Matthew Glotzbach \(Product Management Director, Google\), Parker Harris \(Executive Vice President Technology, Salesforce.com\), Mendel Rosenblum, \(Chief Scientist and Cofounder, VMware\), and Werner Vogels \(Chief Technology Officer, Amazon\).*
+![Panelists discuss the future of mobile technology on stage at EmTech 2008, with a speaker shown on screen.](http://default/files/cache/emtech-2008/future-of-mobile-panel-640w.jpg)
+*From left to right: Erika Jonietz \(Senior Editor, Technology Review\), Elizabeth Altman \(Vice President of Strategy and Business Development, Motorola Mobile Devices\), Kevin Lynch \(Chief Technology Officer, Adobe Systems\), Masaaki Maeda \(President and CEO, DoCoMo\), and Rich Miner \(Group Manager, Mobile Platforms and Android, Google\).*
+![Craig Mundie, Microsoft's Chief Research and Strategy Officer, speaks on stage at EmTech 2008.](http://default/files/cache/emtech-2008/craig-mundie-640w.jpg)
+*Craig Mundie, Microsoft's Chief Research and Strategy Officer.*
+![A poster from MIT's EmTech 2008 highlights the TR35 list of young innovators under 35 and their technological contributions.](http://default/files/cache/emtech-2008/tr35-640w.jpg)
+![The entrance of an MIT building with tall columns, large windows, and people walking up and down the steps.](http://default/files/cache/emtech-2008/mit-640w.jpg)
+*Massachusetts Institute of Technology \(MIT\)*

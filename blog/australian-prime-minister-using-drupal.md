@@ -20,4 +20,4 @@ id: 851
 
 The website of Kevin Michael Rudd, the Prime Minister of Australia is using [Drupal](https://www.drupal.org): see <http://www.pm.gov.au>. *Go Aussies!*
 
-[image drupal/prime-minister-australia-2009]
+![A government website featuring news and updates about the Australian Prime Minister, including speeches, policies, and community engagement.](http://default/files/cache/drupal/prime-minister-australia-2009-640w.jpg)

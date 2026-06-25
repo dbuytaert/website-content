@@ -17,4 +17,6 @@ id: 3421
 
 # Seb Van Stichel
 
+![An elderly man in a checkered shirt holds a newborn baby wrapped in a blanket, looking down at them.](http://default/files/cache/miscellaneous-2015/seb-van-stichel-1-640w.jpg)
+
 Today the world welcomed a healthy baby boy: Seb Van Stichel. Congratulations to my sister, Mien, and my brother-in-law, Johan. My Opa, the oldest member of our family at 94 years old, is holding his great-grandson, the youngest member of the family. I'm honored to be Seb's godfather; my Christmas budget will be going up. :-)

@@ -22,4 +22,4 @@ id: 2596
 
 Big news! The world's most visited art museum in the world is now using [Drupal](https://www.drupal.org) for its website: [http://louvre.fr](http://www.louvre.fr). *Très cool!*
 
-[image drupal/louvre]
+![Exhibition page for "Au Royaume d'Alexandre le Grand" at the Louvre, featuring an ancient Macedonian helmet with a gold mask.](http://default/files/cache/drupal/louvre-640w.jpg)

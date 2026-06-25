@@ -24,7 +24,7 @@ I am confident that adopting a client-side framework through [progressive decoup
 
 With that in mind, I tasked a small team made up of various experts from the Drupal and various JavaScript communities with putting together a list of criteria and a comparison matrix to help us decide on the most appropriate client-side framework for progressive decoupling in Drupal.
 
-### JavaScript framework comparison matrix
+## JavaScript framework comparison matrix
 
 After a hundred hours of work, we came up with a [criteria document and comparison matrix](https://docs.google.com/document/d/1eDnJ-NpJBjicxVkrZgCwMHewSZUUePVY6LCVPS_swAw/pub) ([PDF version](https://dri.es/files/javascript-framework-comparison-january-2016.pdf)).
 
@@ -40,7 +40,7 @@ Finally, have we drawn the right conclusions against these criteria? In other wo
 
 I'm sharing the initial comparison matrix on my blog for maximum reach; I want both the Drupal community and the JavaScript framework communities, as well as the broader front-end community, to take note. After three installments on my blog (["The future of decoupled Drupal"](https://dri.es/the-future-of-decoupled-drupal), ["Should we decouple Drupal with a client-side framework?"](https://dri.es/should-we-decouple-drupal-with-a-client-side-framework)), it's time to move the technical conversation to drupal.org. There is now [an issue in the core issue queue on drupal.org](https://www.drupal.org/node/2645250) to iterate on the matrix.
 
-### Preliminary conclusions
+## Preliminary conclusions
 
 At the moment, the most promising candidates in the comparison matrix appear to be Angular 2, Ember, and React, given their technical robustness, relative suitability for progressively decoupled Drupal, and their strong levels of community support and broader adoption. Given that Backbone is already in core and several modules already rely on it, we have included it too.
 
@@ -54,7 +54,7 @@ Angular 2 is a complete rewrite of Angular 1 to address issues with that version
 
 In addition to being at a slight technical disadvantage to Ember, the legal concerns with React and Angular make me believe Ember might be our best bet. But I'm not a lawyer nor a JavaScript expert, so I can't make this decision alone; I'm looking for lots of feedback, particularly from JavaScript experts, to determine the best option for Drupal.
 
-### Conclusion
+## Conclusion
 
 Whatever the result of the debate around which client-side framework to adopt, I believe that Drupal needs to move quickly to embrace a framework that will aid development of a progressively decoupled architecture and corresponding user experience improvements. By providing some baseline criteria and including our accomplished community, I have no doubt we can reach this decision quickly but also intelligently.
 

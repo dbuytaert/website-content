@@ -20,4 +20,4 @@ id: 655
 
 After [CSAIL started using Drupal](https://dri.es/mit-using-drupal) (the group where [Tim-Berners Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) works), the [MIT Media Lab](http://soon.media.mit.edu/) also switched to [Drupal](https://www.drupal.org). Check out there Drupal site at <http://media.mit.edu>. As a former academic and a long term admirer of the MIT Media Lab, I think that is just really cool!
 
-[image drupal/mit-media-lab]
+![Screenshot of the MIT Media Lab website featuring a banner on smart sustainable cities and a futuristic car concept.](http://default/files/cache/drupal/mit-media-lab-640w.jpg)

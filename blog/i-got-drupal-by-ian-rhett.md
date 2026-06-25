@@ -16,6 +16,6 @@ id: 628
 
 # "I Got Drupal" by Ian Rhett
 
-[video 7SLb5c5GUl8]
+https://www.youtube.com/watch?v=7SLb5c5GUl8
 
 Yeah baby! *(Hat tip: [Robert Douglass](http://www.robshouse.net/))*

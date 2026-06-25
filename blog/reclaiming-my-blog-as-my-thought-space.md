@@ -19,6 +19,8 @@ id: 4151
 
 # Reclaiming my blog as my thought space
 
+![A megaphone projects ideas as icons of blogging, communication, and global reach spread outward.](http://default/files/cache/blog/my-blog-as-my-thought-space-640w.jpg)
+
 Last week, I shared [my frustration with using social media websites](https://dri.es/taking-control-of-my-data-and-social-media) like Facebook or Twitter as my primary platform for sharing photos and status updates. As an advocate of the open web, this has bothered me for some time so I made a commitment to prioritize publishing photos, updates and more to my own site.
 
 I'm excited to share my plan for how I'd like to accomplish this, but before I do, I'd like to share two additional challenges I face on my blog. These struggles factor into some of the changes I'm considering implementing, so I feel compelled to share them with you.

@@ -22,4 +22,4 @@ id: 236
 
 [Talking about Bill Gates](https://dri.es/de-morgen-interview), their [second blog post](http://blog.debatte.welt.de/node/8) coincidentally talks about Bill Gates and Drupal – but in an informative way. They seem proud to be using Drupal.
 
-[image drupal/die-welt]
+![A webpage from "Welt Debatte" discussing the history of computing, featuring an article about Bill Gates' 1976 letter on software payments.](http://default/files/images/drupal/die-welt.jpg)

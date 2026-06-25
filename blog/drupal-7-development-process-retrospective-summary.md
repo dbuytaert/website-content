@@ -22,7 +22,7 @@ I have been thinking about a number of solutions, or experiments, that I would l
 
 In the mean time, below is my summary of the most notable items.
 
-### Improvements made in the Drupal 7 development cycle (compared to Drupal 6 development cycle)
+## Improvements made in the Drupal 7 development cycle (compared to Drupal 6 development cycle)
 
 - The long release cycle was beneficial for many customers;
 - Providing regular development snapshots helped in organizing the work;
@@ -44,7 +44,7 @@ In the mean time, below is my summary of the most notable items.
 - It's a good idea that we plan to try to backport some changes from Drupal 8 to Drupal 7; and
 - The fact that we are doing an official post-mortem makes this all even better. :)
 
-### Problems and difficulties observed during the Drupal 7 development cycle
+## Problems and difficulties observed during the Drupal 7 development cycle
 
 - We should provide more attention to contributed module upgrades;
 - It would be useful to make the release cycle shorter for developers and customers;

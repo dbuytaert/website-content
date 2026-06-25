@@ -21,4 +21,4 @@ In total, Drupal 8 has had more than 3,200 contributors and 15,000 committed pat
 
 Historically, the adoption of Drupal has roughly doubled with each new release. We expect no different from Drupal 8, a release I believe positions Drupal most strongly for the future. We've undergone some big architectural changes to get more people using Drupal, and to prepare ourselves for the future. I can't wait to see what the community does with Drupal 8. It's time to start building!
 
-[image drupal/drupal-8-rc1 resize=false]
+![Blue hexagon with "RC1 October 7th, 2015" text next to a colorful thumbs-up illustration.](http://default/files/images/drupal/drupal-8-rc1.jpg)

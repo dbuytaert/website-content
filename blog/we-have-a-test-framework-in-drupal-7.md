@@ -20,7 +20,7 @@ Every major Drupal release we should ask ourselves what steps we can take to dou
 
 I spent the weekend in Paris where we had a two day code sprint. Our main accomplishment was getting Drupal's test framework into Drupal core – the culmination of three years of hard work carried out by many people and companies in the Drupal community.
 
-[image drupalcamp-paris-2008/writing-tests-for-drupal]
+![A whiteboard displays "Writing Tests for Drupal!" in red marker, scheduled for 16:30 at DrupalCamp Paris 2008.](http://default/files/cache/drupalcamp-paris-2008/writing-tests-for-drupal-640w.jpg)
 
 Here is why a strong investment in testing will help double the capacity of our community:
 

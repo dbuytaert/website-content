@@ -19,6 +19,8 @@ id: 4691
 
 # Drupal's long-term growth obstacles
 
+![A mountain images with 5 product strategy tracks leading to the top](http://default/files/cache/drupal/product-strategy-mountain-december-2018-640w.jpg)
+
 Drupal 8 has been growing 40 to 50 percent year over year. It's a healthy growth rate. Regardless, it is always worth exploring how we can continue to accelerate that growth.
 
 Earlier this week, I wrote about [the power of removing obstacles to growth](https://dri.es/relentlessly-eliminating-barriers-to-growth), and shared how Amazon approaches its own growth blockers. Amazon identified at least two blockers for long-term growth: (1) shipping costs and (2) shipping times. For more than a decade, Amazon has been focused on eliminating both. They have spent an unbelievable amount of creativity, effort, time, and money to eliminate them.
@@ -34,16 +36,17 @@ In that blog post, I promised to share my thoughts around Drupal's own growth ba
 For those that have read my blog or watched [my DrupalCon keynote presentations](https://dri.es/tag/state-of-drupal), none of these will come as a surprise. Just like [Amazon's examples](https://dri.es/relentlessly-eliminating-barriers-to-growth), fixing these obstacles have been, and will be, multi-year efforts.
 
 <div class="large">
-  [image drupal/product-strategy-mountain-december-2018 resize=false]
+  ![A mountain images with 5 product strategy tracks leading to the top](http://default/files/cache/drupal/product-strategy-mountain-december-2018-640w.jpg)
+*Drupal's five product strategy tracks. A number of current initiatives is shown on each track.*
 </div>
 
-### 1. Make Drupal easy to evaluate and adopt
+## 1. Make Drupal easy to evaluate and adopt
 
 We need to make it easy for more people to try Drupal. To help evaluators explore Drupal's possibilities, [we improved the download and installation experience, and included a demonstration site with core](https://dri.es/we-made-drupal-a-lot-easier-to-evaluate). We made fantastic progress on this in 2018.
 
 Now that we have improved the evaluator experience, I'd love to see us focus on the "new user" experience. When you put yourself in the shoes of a new Drupal user, you'd still find it hard to set up a local development environment. There are too many options, too little direction, and no one official way for how to get started with Drupal. The "new user" is not receiving enough attention, and that slows adoption so I'd love to see us focus on that in 2019.
 
-### 2. Make Drupal easy for content creators and site builders
+## 2. Make Drupal easy for content creators and site builders
 
 One of the most powerful trends I've noticed time and time again is that [simplicity wins](https://dri.es/friduction-the-internets-unstoppable-drive-to-eliminate-friction). People expect software to be functionally powerful and easy to use. This is especially true for content creators and site builders.
 
@@ -51,7 +54,7 @@ To make Drupal easier to use for content creators and site builders, we've intro
 
 A lot of these initiatives add tools to the UI that empower content creators and site builders to do more with less code. Long term, I believe that we need to [add more of these "no-code" or "low-code" capabilities to Drupal](https://dri.es/the-assembled-web).
 
-### 3. Reduce the total cost of ownership for developers and site owners
+## 3. Reduce the total cost of ownership for developers and site owners
 
 Developers want to be agile, fast and deliver high quality projects that add value for their organization. Developers don't want their tools to get in the way.
 
@@ -63,7 +66,7 @@ In addition, [we're working on improving Drupal's Composer support](https://dri.
 
 Longer term, improved Composer support could act as a stepping stone towards automated updates, which would be one of the most effective ways to free up a developer's time.
 
-### 4. Keep Drupal relevant and impactful
+## 4. Keep Drupal relevant and impactful
 
 The innovation in the Drupal ecosystem happens thanks to Drupal contributors. We need to attract new contributors to Drupal, and keep existing contributors excited. This means we have to keep Drupal relevant and impactful.
 
@@ -71,7 +74,7 @@ To keep Drupal relevant, we've been investing in [making Drupal an API-first pla
 
 Drupal developers can now do unprecedented things with Drupal that weren't available before. JavaScript and mobile application developers have been familiarizing themselves with Drupal due to its improved API-first capabilities. All of this keeps Drupal relevant, ensures that Drupal has high impact, and that we attract new developers to Drupal.
 
-### 5. Promote Drupal and help Drupal agencies win
+## 5. Promote Drupal and help Drupal agencies win
 
 While Drupal is well-known as an Open Source project, there isn't a deep understanding of how Drupal is evolving or how Drupal compares to its competitors.
 
@@ -93,6 +96,6 @@ Just like all open source contribution, it takes many to move things forward. So
 
 Educating the world about how Drupal is evolving, the amazing use cases we support, and how Drupal compares to old and new competitors will go a very long way towards raising awareness of the project and growing the businesses built on and around Drupal.
 
-### Final thoughts
+## Final thoughts
 
 After talking to hundreds of Drupal users and would-be users, as well as dozens of agency owners, I believe we're working on the right things. Overcoming these growth obstacles are multi-year efforts. While the various initiatives might change, I believe we'll keep working on these five tracks for the next decade. We've been making steady progress the last few years but need to remain both patient and committed to driving them home. Just like Amazon continues to work on their growth obstacles after more than a decade, I expect we'll be working on these four obstacles for many years to come.

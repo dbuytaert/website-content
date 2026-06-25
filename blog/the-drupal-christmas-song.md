@@ -17,4 +17,4 @@ id: 2071
 
 Jon Stieglitz sent me the following Drupal Christmas song! *Ho ho ho!*
 
-[video CdHfAMPyn0c]
+https://www.youtube.com/watch?v=CdHfAMPyn0c

@@ -19,6 +19,8 @@ id: 6136
 
 # Never submit code you don't understand
 
+![Blue and red graphic with a white star and the text: "Never submit code you don't understand."](http://default/files/cache/blog/never-submit-code-you-dont-understand-640w.png)
+
 Years ago, in the early Drupal days, you would see a mantra everywhere: "Don't hack core".
 
 It showed up in issue queues, conference talks, support channels, stickers, and even on T-shirts. It was short and memorable, and it solved a real problem: too many people were modifying Drupal Core instead of extending it properly.

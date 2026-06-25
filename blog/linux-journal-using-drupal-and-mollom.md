@@ -27,4 +27,4 @@ To give you an idea of how much pain spammers can inflict (and how much Mollom c
 
 Linux Journal was the first magazine to be published about Linux, and has been an important contributor to Linux' adoption. I started reading Linux Journal back in 1997, and I still read it today. We want these kind of publications to be wildly successful in promoting Open Source software. So on rainy Mondays like today, it is stories like this, that motivate me to work on [Drupal](https://www.drupal.org) and [Mollom](https://mollom.com), and that make me hate spammers even more.
 
-[image drupal/linux-journal]
+![A Linux Journal webpage featuring articles, tutorials, and news about Linux, including a section on learning with GCompris.](http://default/files/cache/drupal/linux-journal-640w.jpg)

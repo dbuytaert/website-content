@@ -17,6 +17,8 @@ id: 124
 
 # Anders Bals
 
+![A newborn baby sleeps peacefully, wrapped in a soft blanket, with his hands resting near his face.](http://default/files/cache/miscellaneous-2006/anders-bals-640w.jpg)
+
 Last night, [Joke](/40-weeks) gave birth to Anders Bals. Klaas and Joke are now the happy parents of a beautiful boy, and I'm honored to be his godfather.
 
 This picture was taken at 1:00am this morning when Anders was two hours old.

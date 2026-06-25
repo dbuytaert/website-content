@@ -17,4 +17,6 @@ id: 21
 
 # Raf
 
+![A newborn baby lies on a soft surface, touching their face with a tiny hand while gazing slightly upward.](http://default/files/cache/raf-2006/raf-1-640w.jpg)
+
 Only two days old. Click [here](/album/raf-2006/) for more pictures.

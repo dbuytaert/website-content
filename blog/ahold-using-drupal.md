@@ -20,4 +20,4 @@ id: 582
 
 [AHOLD](http://www.ahold.com), the holding of [Albert Heijn](https://www.ah.nl/), a major Dutch retailer with 100.000 employees worldwide, is using [Drupal](https://www.drupal.org) for their main website: <http://ahold.com>. *(Hat tip: George Moses and [Bert Boerland](http://willy.boerland.com/myblog/ahold_using_drupal))*
 
-[image drupal/ahold]
+![A woman in a beige blazer stands next to the text "Financial Overview" on a corporate webpage for Ahold.](http://default/files/cache/drupal/ahold-640w.jpg)

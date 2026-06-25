@@ -20,7 +20,8 @@ id: 3586
 
 Earlier this week I returned from DrupalCon Asia, which took place at IIT Bombay, one of India's premier engineering universities. I wish I could have bottled up all the energy and excitement to take home with me. From dancing on stage, to posing for what felt like a million selfies, to a motorcycle giveaway, this DrupalCon was unlike any I've seen before.
 
-[image mumbai-2016/drupalcon-group-photo]
+![A large group of people in an auditorium cheer and raise their hands, some wearing orange headbands.](http://default/files/cache/mumbai-2016/drupalcon-group-photo-640w.jpg)
+*A little over 1,000 people attended the first DrupalCon in India. For 82% of the attendees, it was their first DrupalCon. There was also much better gender diversity than at other DrupalCons.*
 
 The excitement and interest around Drupal has been growing fast [since I last visited in 2011](https://dri.es/drupal-india-opportunity). DrupalCamp attendance in both Delhi and Mumbai has exceeded 500 participants. There have also been DrupalCamps held in Hyderabad, Bangalore, Pune, Ahmedabad Jaipur, Srinagar, Kerala and other areas.
 

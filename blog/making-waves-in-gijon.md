@@ -17,4 +17,6 @@ id: 527
 
 # Making waves in Gijón
 
+![Waves crash against the shore in Gijón, with a city skyline in the background during sunset.](http://default/files/cache/miscellaneous-2008/waves-in-gijon-640w.jpg)
+
 I'm here in [Gijón](http://en.wikipedia.org/wiki/Gij%C3%B3n) (Spain) to present at the [W3C's Web Fundamentals conference](http://www.fundamentosweb.org). I went for a walk last night to ponder about [Drupal](https://www.drupal.org), [web standards](http://w3c.org), the semantic web, and what to talk about in my session today. Good thing I carried my camera because it is stunning out here.

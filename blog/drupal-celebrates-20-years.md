@@ -18,30 +18,35 @@ id: 5136
 
 # Drupal celebrates 20 years!
 
+![Birthday cup cakes](http://default/files/cache/drupal/happy-twentieth-birthday-640w.jpg)
+
 On January 15, 2001, exactly 20 years ago, I released Drupal 1.0.0 into the world. I was 22 years old, and just finished college. At the time, I had no idea that Drupal would someday power 1 in 35 websites, and impact so many people globally.
 
 As with anything, there are things Drupal did right, and things we could have done differently. I recently spoke about this in [my DrupalCon Europe 2020 keynote](https://dri.es/state-of-drupal-presentation-december-2020), but I'll summarize some thoughts here.
 
-### Why I'm still working on Drupal after 20 years
+## Why I'm still working on Drupal after 20 years
 
-[image miscellaneous-2000/student-room]
+![Student room](http://default/files/cache/miscellaneous-2000/student-room-640w.jpg)
+*Me, twenty years ago, in the dorm room where I started Drupal. I'd work on Drupal sitting in that chair.*
 
 I started Drupal to build something for myself. As Drupal grew, my "why", or reasons for working on Drupal, evolved. I began to care more about its impact on end users and even non-users of Drupal. Today, I care about everyone on the [Open Web](https://dri.es/tag/open-web).
 
 Optimizing for impact means creating [software that works for everyone](https://dri.es/defining-drupal-values-and-principles). In recent years, our community has [prioritized accessibility](https://dri.es/drupal-commitment-to-accessibility) for users with disabilities, and features like [lazy loading of images](https://web.dev/browser-level-image-lazy-loading/) that help users with slower internet connections. Drupal's priority is to continue to foster diversity and inclusion within our community so all voices are represented in building an Open Web.
 
-### Three birthday wishes for Drupal
+## Three birthday wishes for Drupal
 
-[image vancouver-2004/drupal-presentation]
+![Dries giving a presentation on Drupal](http://default/files/cache/vancouver-2004/drupal-presentation-640w.jpg)
+*Me in 2004, giving my first ever Drupal presentation, wearing my first ever Drupal t-shirt.*
 
 Drupal's 20th birthday got me thinking about things I'm hoping for in the future. Here are a few of those birthday wishes.
 
-#### Birthday wish 1: Never stop evolving
+### Birthday wish 1: Never stop evolving
 
 Only 7% of the world's population had internet access when I released Drupal 1 in 2001. Smartphones or the mobile web didn't exist. Many of the largest and most prominent internet companies were either startups (e.g. Google) or had not launched yet (e.g. Facebook, Twitter).
 
 <div class="large">
-  [image drupal/20-year-timeline resize=false]
+  ![A timeline with key technology events that impacted Drupal. Examples include the first mobile browser, social media, etc.](http://default/files/cache/drupal/20-year-timeline-640w.png)
+*A list of technology events that came after Drupal, and that directly or indirectly impacted Drupal. To stay relevant, Drupal had to adjust to many of them.*
 </div>
 
 Why has Drupal stayed relevant and thrived all these years?
@@ -52,13 +57,13 @@ Second, we made Drupal easy to adopt (which is inherent to Open Source), and kep
 
 The great thing about Drupal is that [we will never stop evolving and innovating](https://drupalhistory.org/).
 
-#### Birthday wish 2: Continue our growing focus on ease-of-use
+### Birthday wish 2: Continue our growing focus on ease-of-use
 
 For the longest time I was focused on the technical purity of Drupal and neglected its user experience. My focus attracted more like-minded people. This resulted in Drupal's developer-heavy user experience, and poor usability for less technical people, such as content authors.
 
 I wish I had spent more time thinking about the less technical end user from the start. Today, we've made the transition, and are much more focused on Drupal's ease-of-use, out-of-the-box experience, and more. We will continue to focus on this.
 
-#### Birthday wish 3: Economic systems to sustain and scale Open Source
+### Birthday wish 3: Economic systems to sustain and scale Open Source
 
 In the early years of the Open Source movement, commercial involvement was often frowned upon, or even banned. Today it's easy to see the positive impacts of sponsored contributions on Drupal's growth: [two-thirds of all contributions](https://dri.es/who-sponsors-drupal-development-2020) come from Drupal's roughly 1,200 commercial contributors.
 
@@ -74,8 +79,9 @@ The alternative is that we are stuck in the world we live in today, where propri
 
 In another decade, I predict Drupal's [incentive models for Makers](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source) will be a world-class example of Open Source sustainability. We will help figure out how to make Open Source more sustainable, more fair, more egalitarian, and more cooperative. And in doing so, Drupal will help remove the last hurdle that prevents Open Source from taking over the world.
 
-### Thank you
+## Thank you
 
-[image drupalcon-seattle-2019/group-photo]
+![Areal photo of DrupalCon Seattle 2019 attendees.](http://default/files/cache/drupalcon-seattle-2019/group-photo-640w.jpg)
+*A group photo taken at DrupalCon Seattle in 2019.*
 
 Drupal wouldn't be where it is today without the Drupal community. The community and its growth continues to energize and inspire me. I'd like to thank everyone who helped improve and build Drupal over the past two decades. I continue to learn from you all. Happy 20th birthday [Drupal](https://www.drupal.org/)!

@@ -19,4 +19,4 @@ id: 497
 
 [24 heures](http://24heures.ch), a Swiss newspaper published daily by [Edipresse](http://www.edipresse.com) relaunched on [Drupal](https://www.drupal.org) recently. With more than 200 titles, [Edipresse](http://www.edipresse.com) is one of Europe's biggest media and communications companies. According to Pierre-Jean Duvivie from Edipresse, [24 heures](http://24heures.ch) has more than 70,000 visitors a day and according to Wikipedia it has a readership of 245,000. Other Drupal sites from Edipress are <http://www.tdg.ch>, <http://www.femina.ch> ([covered before](https://dri.es/femina-using-drupal)), and <http://www.lesquotidiennes.com>. *Cool!*
 
-[image drupal/24heures]
+![Screenshot of the "24heures" news website featuring headlines on Swiss football, Georgian politics, and a website update.](http://default/files/cache/drupal/24heures-640w.jpg)

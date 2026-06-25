@@ -23,6 +23,8 @@ id: 5726
 
 # State of Drupal presentation (December 2024)
 
+![Opening slide of my keynote presentation. The slide reads "DriesNote, DrupalCon Singapore, December 9th 2024".](http://default/files/cache/drupalcon-singapore-2024/driesnote-640w.png)
+
 At DrupalCon Asia in Singapore a few weeks ago, I delivered my traditional [State of Drupal keynote](https://dri.es/tag/state-of-drupal). This event marked DrupalCon's return to Asia after an eight-year hiatus, with the last one being [DrupalCon Mumbai in 2016](https://dri.es/state-of-drupal-presentation-february-2016).
 
 It was so fun to reconnect with the Drupal community across Asia and feel the passion and enthusiasm for [Drupal](https://www.drupal.org/). The positive energy was so contagious that three weeks later, I still feel inspired by it.
@@ -30,7 +32,7 @@ It was so fun to reconnect with the Drupal community across Asia and feel the pa
 If you missed the keynote, you can [watch the video](https://youtu.be/dnfQ8G-haXs) below, or [download my slides](https://dri.es/files/state-of-drupal-december-2024.pdf) (196 MB).
 
 <div class="large">
-  [video dnfQ8G-haXs]
+  https://www.youtube.com/watch?v=dnfQ8G-haXs
 </div>
 
 I talked about the significant progress we've made on Drupal CMS (code name [Drupal Starshot](https://dri.es/tag/drupal-starshot)) since [DrupalCon Barcelona](https://dri.es/state-of-drupal-presentation-september-2024) just a few months ago.
@@ -40,60 +42,62 @@ Our vision for Drupal CMS is clear: to set the standard for no-code website buil
 For more background on Drupal CMS, I recommend reading our [three-year strategy document](https://dri.es/introducing-drupal-starshot-product-strategy). We're about a quarter of the way through, time-wise, and as you'll see from my keynote, we're making very fast progress.
 
 <div class="large">
-  [image drupalcon-singapore-2024/certified-partner-contributions]
+  ![A slide showing a grid of 19 projects, each labeled with the name of the individual and their organization responsible for building the corresponding recipe.](http://default/files/cache/drupalcon-singapore-2024/certified-partner-contributions-640w.png)
+*A slide from my recent <a href="https://dri.es/state-of-drupal-presentation-december-2024">DrupalCon Singapore State of Drupal keynote</a> showcasing key contributors to Drupal CMS. This slide showcases how we recognize and celebrate Makers in our community, encouraging active participation in the project.*
 </div>
 
 Below are some of the key improvements I showcased in my keynote, highlighted in short video segments. These videos demonstrate just 7 recipes, but we have nearly 20 in development.
 
 Watching these demos, it will become very clear how much time and effort Drupal CMS can save for both beginners and experienced developers. Manually assembling these features would take weeks for a Drupal expert and months for a novice. These recipes pack a wealth of expertise and best practices. What once took a Drupal expert weeks can now be done by a novice in hours.
 
-### AI support in Drupal
+## AI support in Drupal
 
 We're integrating AI agents into Drupal to assist with complex site-building tasks, going far beyond just content creation. Users can choose to have AI complete tasks automatically or provide step-by-step guidance, helping them learn Drupal as they go.
 
-[video tEfCoTb4e2Q]
+https://www.youtube.com/watch?v=tEfCoTb4e2Q
 
-### Search
+## Search
 
 We're including enhanced search functionality that includes autocomplete and faceted search, delivering enterprise-grade functionality out-of-the-box.
 
-[video 4xvmjZMx0vY]
+https://www.youtube.com/watch?v=4xvmjZMx0vY
 
-### Privacy
+## Privacy
 
 With increasing global privacy regulations, marketers need robust compliance solutions, yet very few content management systems offer this out-of-the-box. I demonstrated how Drupal CMS will offer a user-centric approach to privacy and consent management, making compliance easier and more effective.
 
-[video tYQBh8N3QJU]
+https://www.youtube.com/watch?v=tYQBh8N3QJU
 
-### Media management
+## Media management
 
 Our improved media management tools now include features like focal point control and image style presets, enabling editors to handle visual content efficiently while maintaining accessibility standards.
 
-[video pPo2Ehfd7RI]
+https://www.youtube.com/watch?v=pPo2Ehfd7RI
 
-### Accessibility tools
+## Accessibility tools
 
 Our accessibility tools provide real-time feedback during content creation, helping identify and resolve potential issues that could affect the user experience for visually-impaired visitors.
 
-[video TywCsZYEXY4]
+https://www.youtube.com/watch?v=TywCsZYEXY4
 
-### Analytics
+## Analytics
 
 Analytics integration streamlines the setup of Google Analytics and Tag Manager, something that 75% of all marketers use.
 
-[video Ywrl9pMCHBo]
+https://www.youtube.com/watch?v=Ywrl9pMCHBo
 
-### Experience Builder
+## Experience Builder
 
 Drupal's new Experience Builder will bring a massive improvement in visual page building. It combines drag-and-drop simplicity with an enterprise-grade component architecture. It looks fantastic, and I'm really excited for it!
 
-[video D7xBZSI0O5M]
+https://www.youtube.com/watch?v=D7xBZSI0O5M
 
-[video cEuC7FRaLgk]
+https://www.youtube.com/watch?v=cEuC7FRaLgk
 
-### Conclusion
+## Conclusion
 
-[image drupalcon-singapore-2024/accelerate-innovation]
+![A bar graph showing organization credits for Drupal CMS strategic initiatives, increasing from 54,089 in 2019 to a projected 151,475 in 2024.](http://default/files/cache/drupalcon-singapore-2024/accelerate-innovation-640w.png)
+*Drupal CMS has been a catalyst for innovation and collaboration, driving strong growth in organizational credits. Development of Drupal CMS began in 2024, and we expect a significant increase in contributions this year. Credits have tripled from 2019 to 2024, demonstrating our growing success in driving strategic innovation in Drupal.*
 
 In addition to our progress on Drupal CMS, the product, we've made real strides in other areas, such as marketing, modernizing Drupal.org, and improving documentation. These are all important parts of the [Drupal Starshot](https://dri.es/tag/drupal-starshot) initiative.
 

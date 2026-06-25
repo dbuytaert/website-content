@@ -19,4 +19,4 @@ id: 556
 
 Oh my. Pearl Jam, [one of my favorite bands](https://dri.es/pearl-jam-black), relaunched its official band website using [Drupal](https://www.drupal.org). Check it out at <http://www.pearljam.com>. *Rock!*
 
-[image drupal/pearl-jam]
+![A Pearl Jam fan website homepage featuring news, photos, videos, and music updates about the band.](http://default/files/cache/drupal/pearl-jam-640w.jpg)

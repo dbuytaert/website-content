@@ -21,6 +21,8 @@ id: 3291
 
 # Business model innovation beats technical innovation
 
+![A person frames a view with their hands, overlaid with a city skyline, symbolizing vision and innovation.](http://default/files/cache/blog/business-model-innovation-640w.jpg)
+
 Business model innovation is usually more powerful than technical innovation; it is more disruptive and harder to copy than technical innovation. And yet, so many companies are focused on technical innovation to compete.
 
 Consider Airbnb. What makes them so successful is not a technical advantage, but [a business model advantage that provides them near-zero marginal cost](https://dri.es/the-end-of-ownership-the-zero-marginal-cost-economy). For a traditional hotel chain to increase its capacity, it needs to build more physical space at significant cost. Instead of shouldering that setup cost, Airbnb can add another room to its inventory at almost no cost by enabling people to share their existing houses. That is a business model innovation. Furthermore, it is extremely difficult for the traditional hotel chain to switch its business model to match Airbnb's.

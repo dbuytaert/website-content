@@ -17,4 +17,6 @@ id: 111
 
 # Kite surfer
 
+![A kite surfer glides over the waves near the shore, with a large kite flying high above.](http://default/files/cache/knokke-heist-2006/kite-surfer-640w.jpg)
+
 

@@ -15,4 +15,4 @@ id: 333
 
 # Beatboxing the Super Mario theme with a flute
 
-[video crfrKqFp0Zg]
+https://www.youtube.com/watch?v=crfrKqFp0Zg

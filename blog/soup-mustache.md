@@ -17,5 +17,5 @@ id: 1392
 
 # Soup mustache
 
-[image axl-2010/soup-mustache-1]
-[image axl-2010/soup-mustache-2]
+![A child in a green sweater drinks soup directly from an orange bowl, with soup stains on their face and bib.](http://default/files/cache/axl-2010/soup-mustache-1-640w.jpg)
+![A young child with a messy face and bib has soup smeared around their mouth, forming a "mustache.](http://default/files/cache/axl-2010/soup-mustache-2-640w.jpg)

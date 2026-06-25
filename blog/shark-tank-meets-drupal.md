@@ -19,6 +19,8 @@ id: 5451
 
 # Shark Tank meets Drupal: pitch your best innovation ideas
 
+![A hero image with the word "Pitch-burgh" in large font, a play on words related to the city of Pittsburgh.](http://default/files/cache/drupal/pitch-burgh-640w.png)
+
 In just a few months, the Drupal community will be gathering for [DrupalCon Pittsburgh](https://events.drupal.org/pittsburgh2023). I've started planning my opening keynote, and decided to focus it on innovation. Specifically, I want to discuss how we might increase innovation.
 
 To keep things fresh and engaging, I've come up with an exciting idea. During the keynote, I'll be dedicating a portion towards [an innovation contest called Pitch-burgh](https://www.drupal.org/association/pitch-burgh-innovation-contest%20), loosely inspired by [Shark Tank](https://abc.com/shows/shark-tank).
@@ -39,7 +41,7 @@ The deadline for video submissions is May 25th. A panel of judges (see below) wi
 
 For more information, check out [the official Pitch-Burgh innovation contest page](https://www.drupal.org/association/pitch-burgh-innovation-contest) on [Drupal.org](https://www.drupal.org/).
 
-### Pitch guidelines
+## Pitch guidelines
 
 To make it easy for anyone in the Drupal community to participate, submissions for Pitch-burgh should be in the form of a video, with a maximum length of 2 minutes and 30 seconds.
 
@@ -64,14 +66,14 @@ In addition to these structural guidelines, we would like to provide some additi
 
 Remember, the goal of your Pitch-burgh submission is to convince the judges and potential funders in the Drupal community that your idea is innovative, impactful, and worthy of support. Be creative and convincing.
 
-### Evaluation criteria
+## Evaluation criteria
 
 We're looking for innovative and impactful ideas that have the potential to make a difference in the Drupal community. Judges will be asked to select the top pitches based on the following two criteria:
 
 1. **Potential impact** – Judges will assess the potential impact of the idea on Drupal, and how it can contribute to the growth and improvement of Drupal or the Drupal community.
 2. **Likelihood of success** – Judges will assess the potential for the idea and team to succeed by considering various factors, including their qualifications and experience, the feasibility of the proposed concept, the realism of the funding requirements, etc.
 
-### Judges
+## Judges
 
 I currently have secured three judges for Pitch-burgh:
 
@@ -81,6 +83,6 @@ I currently have secured three judges for Pitch-burgh:
 
 We're still looking for more judges and want to ensure that we have a diverse group of judges who can offer a variety of perspectives and feedback to participants.
 
-### Conclusion
+## Conclusion
 
 I'm thrilled to see what innovative ideas the Drupal community will come up with and look forward to featuring them in my keynote at DrupalCon Pittsburgh. Above all, I hope to see more people get paid to develop impactful features for Drupal.

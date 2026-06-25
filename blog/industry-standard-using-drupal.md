@@ -22,4 +22,4 @@ The Industry Standard, aka [thestandard.com](http://thestandard.com), is using [
 
 Like most big Drupal sites, they use CCK, Views, memcache, and a master-slave database configuration. Two noteworthy items are the fact that they use Apache Solr for search, and [Mollom](https://mollom.com) as their spam deterrent.
 
-[image drupal/industry-standard]
+![A news website homepage features technology and business headlines, industry predictions, and Intel product advertisements.](http://default/files/cache/drupal/industry-standard-640w.jpg)

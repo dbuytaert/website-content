@@ -27,9 +27,9 @@ Professional publishing is one of the industries that has faced the most extensi
 
 The following video gives an overview of the Thunder approach:
 
-[video cnT8dycXnMU]
+https://www.youtube.com/watch?v=cnT8dycXnMU
 
-### Custom features for publishers
+## Custom features for publishers
 
 Thunder adds a range of publisher-centric Drupal modules to Drupal 8 core. Specifically, Burda added integrations with audience "circulation" counting tools and ad servers, as well as single sign-on (SSO) support across multiple sites. They've also developed a theme which implements infinite scrolling.
 
@@ -39,7 +39,7 @@ Thunder users also benefit from a range of channel- and feature-specific enhance
 - [nexx.tv](http://www.nexx.tv) offers a video CMS and their video player. And Microsoft will support the video solution with 100,000 free video streamings per month through their Azure cloud.
 - [Facebook](http://facebook.com) will provide a module for integrated publishing to their Instant Articles, exclusively for Thunder users.
 
-### Smart collaboration
+## Smart collaboration
 
 I admire the approach Burda is taking to bring publishers, partners and developers together from throughout the industry to develop the best open-source CMS platform for publishers.
 
@@ -47,7 +47,7 @@ At the core is a team of publishing experts and developers led by Ingo Rübe, CT
 
 Under Thunder's policy, all features provided by industry partners must be offered for free or with a freemium model; in other words, a significant part of the functionality has to be provided at no cost at all. Smaller publishers will likely benefit from this approach, as they will be able to use a full-fledged publishing solution that is continuously enhanced and maintained by larger partners.
 
-### Big brands are already using Thunder
+## Big brands are already using Thunder
 
 Although Thunder is still in public beta, Burda has migrated three brands to Thunder. The German edition of Playboy (about 2M monthly visits) was the first to move at the end of 2015. The fashion brand InStyle (about 1.8M monthly visits) and gardening website "Mein schöner Garten" (about 1.5M monthly visits) are also running on Thunder. Most of the other German Burda brands are planning to adopt Thunder in the next 12 months. This includes at least 20 brands such as Elle.de and Bunte.de, which have more than 20 million monthly visits each.
 

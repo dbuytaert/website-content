@@ -20,6 +20,8 @@ id: 4751
 
 # Headless CMS: REST vs JSON:API vs GraphQL
 
+![An abstract image of three boxes](http://default/files/cache/drupal/rest-vs-jsonapi-graphql-comparison-640w.jpg)
+
 The web used to be server-centric in that web content management systems managed data and turned it into HTML responses. With the rise of *headless architectures* [a portion of the web is becoming server-centric for data but client-centric for its presentation](https://dri.es/a-history-of-javascript-across-the-stack); increasingly, data is rendered into HTML in the browser.
 
 This shift of responsibility has given rise to JavaScript frameworks, while on the server side, it has resulted in the development of JSON:API and GraphQL to better serve these JavaScript applications with content and data.
@@ -92,7 +94,7 @@ If you're not familiar with JSON:API or GraphQL, I recommend you watch the follo
 - A 3-minute [demo of Drupal's GraphQL implementation](https://youtu.be/Gm6fkwXrCP8).
 - A 5-minute [demo of Drupal's JSON:API implementation](https://youtu.be/zEsNlAeYRn8).
 
-### <a id="request-efficiency">Request efficiency</a>
+## <a id="request-efficiency">Request efficiency</a>
 
 Most REST APIs tend toward the simplest implementation possible: a resource can only be retrieved from one URI. If you want to retrieve article 42, you have to retrieve it from `https://example.com/article/42`. If you want to retrieve article 42 and article 72, you have to perform two requests; one to `https://example.com/article/42` and one to `https://example.com/article/72`. If the article's author information is stored in a different content type, you have to do two additional requests, say to `https://example.com/author/3` and `https://example.com/author/7`. Furthermore, you can't send these requests until you've requested, retrieved and parsed the article requests (you wouldn't know the author IDs otherwise).
 
@@ -138,7 +140,7 @@ JSON:API solves this with the concept of *sparse fieldsets* or lists of desired 
 </tbody>
 </table>
 
-### <a id="api">Documentation, API explorability and schema</a>
+## <a id="api">Documentation, API explorability and schema</a>
 
 As a developer working with web services, you want to be able to discover and understand the API quickly and easily: what kinds of resources are available, what fields does each of them have, how are they related, etc. But also, if this field is a date or time, what machine-readable format is the date or time specified in? Good documentation and API exploration can make all the difference.
 
@@ -178,7 +180,7 @@ GraphQL has superior API exploration thanks to [GraphiQL](https://github.com/gra
 
 On the other hand, JSON:API is more self-explanatory: APIs can be explored with nothing more than a web browser. From within the browser, you can browse from one resource to another, discover its fields, and more. So, if you just want to debug or try something out, JSON:API is usable with nothing more than [cURL](https://en.wikipedia.org/wiki/CURL) or your browser. Or, you can use [Postman](https://www.getpostman.com/downloads/) (demonstrated in the video above) – a standalone environment for developing on top of an *any* HTTP-based API. Constructing complex queries requires some knowledge, however, and that is where GraphQL's GraphiQL shines compared to JSON:API.
 
-### <a id="operational-efficiency">Operational simplicity</a>
+## <a id="operational-efficiency">Operational simplicity</a>
 
 We use the term *operational simplicity* to encompass how easy it is to install, configure, run, scale and secure each of the solutions.
 
@@ -216,7 +218,7 @@ The table should be self-explanatory, but we want to provide some more details a
 </tbody>
 </table>
 
-### <a id="writing-data">Writing data</a>
+## <a id="writing-data">Writing data</a>
 
 For most REST APIs and JSON:API, writing data is as easy as fetching it: if you can read information, you also know how to write it. Instead of using the `GET` HTTP request type you use `POST` and `PATCH` requests. JSON:API improves on typical REST APIs by eliminating differences between implementations. There is just one way to do things and that enabled better, generic tooling and less time spent on server-side details.
 
@@ -244,7 +246,7 @@ On the other hand, the GraphQL specification supports bulk/batch operations auto
 </tbody>
 </table>
 
-### <a id="drupal-considerations">Drupal-specific considerations</a>
+## <a id="drupal-considerations">Drupal-specific considerations</a>
 
 Up to this point we have provided an architectural and CMS-agnostic comparison; now we also want to highlight a few Drupal-specific implementation details. For this, we can look at the ease of installation, automatically generated documentation, integration with Drupal's entity and field-level access control systems and decoupled filtering.
 
@@ -298,7 +300,7 @@ Most projects using GraphQL that cannot grant this permission use persisted quer
 </tbody>
 </table>
 
-### What does this mean for Drupal's roadmap?
+## What does this mean for Drupal's roadmap?
 
 Drupal grew up as a traditional web content management system but has since [evolved for this API-first world](https://dri.es/drupal-is-api-first-not-api-only) and industry analysts are [praising us for it](https://dri.es/acquia-a-leader-in-the-2018-forrester-wave-for-web-content-management-systems).
 

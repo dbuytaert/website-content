@@ -17,6 +17,9 @@ id: 4396
 
 # Frontend United keynote
 
+![Frontend United keynote](http://default/files/cache/miscellaneous-2018/frontend-united-keynote-640w.jpg)
+
 Keynoted at [Frontend United](https://www.frontendunited.org) in The Netherlands about [our work on Drupal's web services APIs](https://dri.es/drupal-is-api-first-not-api-only) and [our work toward a JavaScript-driven Drupal administration interface](https://dri.es/working-toward-a-javascript-driven-drupal-administration-interface). Great event with lots of positive energy!
 
-[image miscellaneous-2018/frontend-united-keynote]
+![Frontend United keynote](http://default/files/cache/miscellaneous-2018/frontend-united-keynote-640w.jpg)
+*&copy; Christoph Breidert*

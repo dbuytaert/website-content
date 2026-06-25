@@ -19,4 +19,4 @@ id: 1377
 
 The website of Bruce Golding, the Prime Minister of Jamaica is using [Drupal](https://www.drupal.org): see <http://www.opm.gov.jm>. *Ya man!*
 
-[image drupal/prime-minister-jamaica-2010]
+![Website of the Jamaican Prime Minister's Office featuring Bruce Golding's photo, government programs, and news updates.](http://default/files/cache/drupal/prime-minister-jamaica-2010-640w.jpg)

@@ -20,6 +20,8 @@ id: 6046
 
 # When backward compatibility became an advantage
 
+![Line chart showing Drupal's production code and test code from 2012 to 2026. Test code grows from near zero to over 650,000 lines; production code grows from 90,000 to 300,000 lines.](http://default/files/cache/drupal/test-coverage-2026-640w.png)
+
 Twenty years ago, I argued passionately that [breaking backward compatibility](https://dri.es/backward-compatibility) was one of Drupal's core values:
 
 > The only viable long-term strategy is to focus exclusively on getting the technology right. The only way to stay competitive is to have the best product. [...] If you start dragging baggage along, your product will, eventually, be replaced by something that offers the same functionality but without the baggage. 
@@ -35,7 +37,8 @@ So what changed?
 In 2006, [Drupal](https://www.drupal.org/) had almost no automated tests. We couldn't commit to backward compatibility because we had no way to know when we broke it. Two years later in 2008, [we embraced test-driven development](https://dri.es/embracing-test-driven-development). 
 
 <div class="large">
-[image drupal/test-coverage-2026 resize=false schema=false]
+![Line chart showing Drupal's production code and test code from 2012 to 2026. Test code grows from near zero to over 650,000 lines; production code grows from 90,000 to 300,000 lines.](http://default/files/cache/drupal/test-coverage-2026-640w.png)
+*Drupal's test code now exceeds production code by more than two to one. Source: <a href="https://dbuytaert.github.io/drupal-core-metrics/">Drupal Core Metrics</a>.*
 </div>
 
 By 2013, we had built up some test coverage, and with that foundation we [adopted semantic versioning](https://www.drupal.org/node/2135189) and committed to backward compatibility. It transformed [how we innovate in Drupal](https://dri.es/the-transformation-of-drupal-8-for-continuous-innovation). We can mark old code for removal and clear it out every two years with each major release. The baggage I feared never really accumulated.

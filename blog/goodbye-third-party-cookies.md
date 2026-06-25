@@ -18,6 +18,8 @@ id: 5561
 
 # Goodbye third-party cookies
 
+![A male business person working on a laptop in a futuristic, cryptopunk setting.](http://default/files/cache/drupal/cookieless-future-640w.jpg)
+
 For nearly three decades, **third-party cookies** have been a major privacy concern on the web. They allow organizations, such as advertisers, to track users' browsing activities across multiple websites, often without explicit consent.
 
 Unlike third-party cookies, **first-party cookies** are restricted to the website you are on. They are often used to improve the user experience, such as keeping you logged in, remembering what is in your shopping cart, and more.

@@ -24,5 +24,7 @@ Armed with a set of cameras, Noel wants to profile the [Drupal community](https:
 
 Last night, on its way from Paris to Amsterdam, Noel stopped by in my home town Antwerp and [couchsurfed](https://www.couchsurfing.com/) here for one night. He just left this morning, and is on its way to Amsterdam to meet with [Andy Smith](http://an9.org/) (aka [termie](https://www.flickr.com/photos/termie/tags/theandyface/)) ...
 
-[image miscellaneous-2007/noel-noneck-1]
-[image miscellaneous-2007/noel-noneck-2]
+![A bearded man wearing a straw hat and a button-up shirt sits on a terrace, looking directly at the camera.](http://default/files/cache/miscellaneous-2007/noel-noneck-1-640w.jpg)
+*Noel Noneck \(aka Noel Hidalgo\) on a terrace in Antwerp.*
+![A person wearing a straw hat and backpack takes a photo of colorful graffiti in a subway station.](http://default/files/cache/miscellaneous-2007/noel-noneck-2-640w.jpg)
+*Noel Noneck \(aka Noel Hidalgo\) in a subway station in Antwerp.*

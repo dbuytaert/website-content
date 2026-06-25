@@ -17,6 +17,8 @@ id: 5601
 
 # Evolving Drupal's Layout Builder to an Experience Builder
 
+![A person interacting with a futuristic holographic display with graphs and interface components.](http://default/files/cache/drupal/experience-builder-announcement-640w.jpg)
+
 Imagine a world where installing [Drupal](https://www.drupal.org/) instantly offers a creative experience that allows you to build and style pages right out of the box, without any need for additional modules or configuration.
 
 The introduction of [Drupal's Layout Builder](https://dri.es/why-drupal-layout-builder-is-so-unique-and-powerful) in 2018 was an important milestone toward this vision, but it was just the first step. Layout Builder provides site builders with a powerful drag-and-drop interface for creating and arranging content within customizable layouts.

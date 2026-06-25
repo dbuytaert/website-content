@@ -15,6 +15,6 @@ id: 504
 
 # Pearl Jam - Black
 
-[video AFVlJAi3Cso]
+https://www.youtube.com/watch?v=AFVlJAi3Cso
 
 I must have listened to this Pearl Jam song a million times. This video chills up my spine and makes me want to be a rock star. Eddie Vedder's raw passion comes straight from his heart and his soul and can bring a grown man to its knees. *Powerful stuff!*

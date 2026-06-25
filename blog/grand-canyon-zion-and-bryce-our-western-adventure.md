@@ -21,6 +21,8 @@ id: 5841
 
 # Grand Canyon, Zion and Bryce: our Western adventure
 
+![A family sits around a fire pit at a campsite in the high desert outside Bryce, Utah.](http://default/files/cache/grand-canyon-zion-bryce-2025/bryce-glamping-1-640w.jpg)
+
 *We just got back from a family vacation exploring the Grand Canyon, Zion, and Bryce Canyon. As usual, I planned to write about [our travels](https://dri.es/tag/travel), but Vanessa, my wife, beat me to it.*
 
 *She doesn't have a blog, but something about this trip inspired her to put pen to paper. When she shared her writing with me, I knew right away her words captured our vacation better than anything I could write.*
@@ -35,7 +37,8 @@ As it turned out, we didn't fully avoid the fire season. When we arrived at the 
 
 We kicked things off with a couple of nights in Las Vegas. The boys had never been, and it felt like a rite of passage. But after two days of blinking lights, slot machines, and entertainment, we were ready for something quieter. The highlight was seeing *O* by Cirque du Soleil at the Bellagio. The production had us wondering how many crew members it takes to make synchronized underwater acrobatics look effortless.
 
-[image grand-canyon-zion-bryce-2025/hoover-dam]
+![A large concrete dam spanning a deep canyon.](http://default/files/cache/grand-canyon-zion-bryce-2025/hoover-dam-640w.jpg)
+*When the Hoover Dam was built, they used an enormous amount of concrete. If they had poured it all at once, it would have taken over a century to cool and harden. Instead, they poured it in blocks and used cooling pipes to manage the heat. Even today, the concrete is still hardening through a process called hydration, so the dam keeps getting stronger over time.*
 
 On the Fourth of July, we picked up our rental car and headed to the Hoover Dam for a guided tour. We learned it wasn't originally built to generate electricity, but rather to prevent downstream flooding from the Colorado River. Built in the 1930s, it's still doing its job. And fun fact: the concrete is still curing after nearly a century. It takes about 100 years to fully cure.
 
@@ -48,7 +51,8 @@ The next morning, we hiked the Bright Angel Trail to the 3-mile resthouse. Range
 Next up: Zion. We stopped at [Horseshoe Bend](https://en.wikipedia.org/wiki/Horseshoe_Bend_(Arizona)) on the way, a worthy detour with dramatic views of the Colorado River. By the time we entered Zion National Park, we were in total disbelief. The landscape was so perfectly sculpted it didn't look real. Towering red cliffs, hanging gardens, and narrow slot canyons surrounded us. I told Dries, "It's like we're driving through Disneyland", and I meant that in the best way.
 
 <div class="large">
-  [image grand-canyon-zion-bryce-2025/horseshoe-bend]
+  ![A view of a wide, U-shaped bend in the Colorado River surrounded by steep red rock cliffs.](http://default/files/cache/grand-canyon-zion-bryce-2025/horseshoe-bend-640w.jpg)
+*We visited Horseshoe Bend, a dramatic curve in the Colorado River near the Grand Canyon. A quiet reminder of what time and a patient river can carve out together.*
 </div>
 
 After a long drive, we jumped in the shared pool at our rental house and met other first-time visitors who were equally blown away. That night, we celebrated our six year wedding anniversary with tacos and cocktails at a cantina inside a converted gas station. Nothing fancy, but a good memory.
@@ -58,36 +62,45 @@ One thing that stood out in Zion was the deer. They roamed freely through the ne
 The next morning, we hiked The Narrows, wading through the Virgin River in full gear. Our guide shared stories and trail history, and most importantly, brought a charcuterie board. We hike for snacks, after all. Learning how indigenous communities thrived in these canyons for thousands of years gave us a deeper connection to the land, especially for me, as someone with Native heritage.
 
 <div class="large">
-  [image grand-canyon-zion-bryce-2025/zion-narrows-canyon]
+  ![A small group walking through water into the Narrows, a narrow canyon with glowing rock walls in Zion National Park.](http://default/files/cache/grand-canyon-zion-bryce-2025/zion-narrows-canyon-640w.jpg)
+*We hiked 7.5 miles through the Narrows in Zion National Park. Most of the hike is actually in the river itself, with towering canyon walls rising all around you. One of my favorite hikes ever.*
 </div>
 
 <div class="side-by-side">
-  [image grand-canyon-zion-bryce-2025/zion-narrows-looking-up]<br>
-  [image grand-canyon-zion-bryce-2025/zion-narrows-wading-forward]
+  ![A person standing on a rock in the Narrows at Zion National Park, looking up at the tall canyon walls.](http://default/files/cache/grand-canyon-zion-bryce-2025/zion-narrows-looking-up-640w.jpg)
+*Taking a moment to look up and take it all in.*<br>
+  ![Three people walking up the river with their boots in the water in the Narrows at Zion National Park.](http://default/files/cache/grand-canyon-zion-bryce-2025/zion-narrows-wading-forward-640w.jpg)
+*Wading forward together through the Narrows in Zion.*
 </div>
 
 The following day was for rappelling, scrambling, and hiking. The boys were hyped, memories of rappelling in Spain had them convinced there would be waterfalls. Spoiler: there weren't. It hadn't rained in Zion for months. But dry riverbeds didn't dull the excitement. We even found shell fossils embedded in the sandstone. Proof the area was once underwater.
 
 <div class="large">
-  [image grand-canyon-zion-bryce-2025/zion-helping-hands]
+  ![Two young adults reaching down to help a parent climb up a steep sandstone wall in Zion National Park.](http://default/files/cache/grand-canyon-zion-bryce-2025/zion-helping-hands-640w.jpg)
+*Time has a way of flipping the roles.*
 </div>
 
 <div class="side-by-side">
-  [image grand-canyon-zion-bryce-2025/zion-rapelling-down-1]<br>
-  [image grand-canyon-zion-bryce-2025/zion-slot-canyon-hiking]
+  ![A woman wearing a helmet and sunglasses, smiling while rappelling in Zion National Park.](http://default/files/cache/grand-canyon-zion-bryce-2025/zion-rapelling-down-1-640w.jpg)
+*Getting ready to rappel in Zion, and enjoying every moment of it.*<br>
+  ![A person carefully walking along a narrow sandstone slot canyon in Zion National Park.](http://default/files/cache/grand-canyon-zion-bryce-2025/zion-slot-canyon-hiking-640w.jpg)
+*Making our way through the narrow slots in Zion.*
 </div>
 
 From Zion, we headed to Bryce Canyon. The forecast promised cooler temperatures, and we couldn't wait. We stayed at [Under Canvas](https://www.undercanvas.com/), a glamping site set in open range cattle territory. Canvas tents with beds and private bathrooms, but no electricity or WiFi. Cue the family debate: "Is this camping or hoteling?" Dries, Axl and Stan voted for "hoteling". I stood alone on "team camping". (Spoiler: it is camping when there are no outlets.) Without our usual creature comforts, we slowed down. We read. We played board games. We played cornhole. We watched sunsets and made s'mores.
 
-[image grand-canyon-zion-bryce-2025/bryce-glamping-1]
+![A family sits around a fire pit at a campsite in the high desert outside Bryce, Utah.](http://default/files/cache/grand-canyon-zion-bryce-2025/bryce-glamping-1-640w.jpg)
+*Glamping in the high desert outside Bryce, Utah. Even in summer, the high elevation brings cool evenings, and the fire felt perfect after a day on the trail.*
 
 The next day, we hiked the Fairyland Loop, eight miles along the rim with panoramic views into Bryce's otherworldly amphitheater of hoodoos. The towering spires and sculpted rock formations gave the park an almost storybook quality, as if the landscape had been carved by imagination rather than erosion. Though the temperature was cooler, the sun still packed a punch, so we were glad to finish before the midday heat. At night, the temperature dropped quickly once the sun went down. We woke up to 45°F (about 7°C) mornings, layering with whatever warm clothes we had packed, which, given we planned for desert heat, wasn't much.
 
 One of our most memorable mornings came with a 4:30 am wake-up call to watch the sunrise at Sunrise Point. We had done something similar with the boys at Acadia in 2018. It's a tough sell at that hour, but always worth it. As the sun broke over the canyon, the hoodoos lit up in shades of orange and gold unlike anything we'd seen the day before. Afterward, we hiked Navajo Loop and Queen's Garden and were ready for a big breakfast at the lodge.
 
 <div class="side-by-side">
-  [image grand-canyon-zion-bryce-2025/bryce-sunrise-at-amphitheater]<br>
-  [image grand-canyon-zion-bryce-2025/bryce-navajo-loop-hike-2]
+  ![A young adult wearing a hoodie overlooking the hoodoos at sunrise in Bryce Canyon National Park.](http://default/files/cache/grand-canyon-zion-bryce-2025/bryce-sunrise-at-amphitheater-640w.jpg)
+*Up before sunrise to watch the hoodoos glow at Bryce Canyon in Utah. Cold and early, but unforgettable.*<br>
+  ![A woman with trekking poles hiking down a switchback trail among tall orange hoodoos in Bryce Canyon National Park.](http://default/files/cache/grand-canyon-zion-bryce-2025/bryce-navajo-loop-hike-2-640w.jpg)
+*Vanessa making her way down through the hoodoos on the Navajo Loop in Bryce Canyon.*
 </div>
 
 Later that day, we visited Mossy Cave Trail. We followed the stream, poked around the waterfall, and hunted for fossils. Axl and I were on a mission, cracking open sandstone rocks in hopes of finding hidden treasures. Mostly, we just made a mess (of ourselves). I did stumble upon a tiny sliver of geode ... nature's way of rewarding persistence, I suppose.

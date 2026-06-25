@@ -22,4 +22,4 @@ Last week at [DrupalCon Szeged](https://dri.es/drupalcon-szeged) I gave my tradi
 
 The presentation discusses the results of [the recent survey that I conducted](https://dri.es/state-of-drupal-2008-survey); the survey ran for 30+ days and collected more than 1300 responses so it should provide a good idea of the community's current thinking. I'll provide more color and details about the survey results in a number of follow-up posts.
 
-[video dfcPXIzj_lM]
+https://www.youtube.com/watch?v=dfcPXIzj_lM

@@ -17,4 +17,6 @@ id: 146
 
 # Kwak
 
+![A Kwak beer in its signature glass with a wooden stand, surrounded by bottles and hands holding drinks.](http://default/files/cache/drupalcon-brussels-2006/kwak-640w.jpg)
+
 

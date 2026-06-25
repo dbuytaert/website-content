@@ -19,4 +19,4 @@ id: 274
 
 [Forbes](https://www.forbes.com/) just launched a video-sharing site built with the [GoingOn platform](http://goingon.com/), which uses a modified Drupal at its core. Check out the *YouTube of Corporate America* at <http://officepranks.forbes.com>.
 
-[image drupal/forbes]
+![Forbes webpage featuring an "Office Pranks" section, inviting users to upload and vote on prank videos.](http://default/files/cache/drupal/forbes-640w.jpg)

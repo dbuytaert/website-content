@@ -20,4 +20,4 @@ id: 301
 
 The specialty film division of [20th Century Fox](https://www.foxmovies.com/) is using Drupal for [Fox Searchlight](http://foxsearchlight.com). *Tres cool!*
 
-[image drupal/fox-searchlight]
+![A Fox Searchlight website page featuring the movie "Sunshine", with news feeds, videos, and a promotional banner.](http://default/files/cache/drupal/fox-searchlight-640w.jpg)

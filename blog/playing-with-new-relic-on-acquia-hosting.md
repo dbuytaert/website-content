@@ -30,7 +30,11 @@ New Relic requires a small 'agent' to be installed on your web server. The agent
 
 I've only used it on my personal site, which currently runs on a regular Drupal 6. However, I'm quite keen to unleash it on a Drupal 7 installation to see what we can learn. In the mean time, I'm including some screenshots of what my personal blog looks like according to New Relic. If you're interested in improving the performance of your site and are a profiling geek like me, you should give New Relic a try.
 
-[image new-relic/announcement-1 resize=false]
-[image new-relic/announcement-2 resize=false]
-[image new-relic/announcement-3 resize=false]
-[image new-relic/announcement-4 resize=false]
+![](http://default/files/images/new-relic/announcement-1.jpg)
+*New Relic uses <a href="http://en.wikipedia.org/wiki/Apdex">Apdex</a>, an industry standard for measuring the satisfaction of a user of an application or service.*
+![](http://default/files/images/new-relic/announcement-2.jpg)
+*New Relic conveniently separates database performance from PHP performance. On a busy system, that makes it easy to pinpoint bottlenecks.*
+![](http://default/files/images/new-relic/announcement-3.jpg)
+*New Relic tries to annotate performance problems to 'controllers' rather than to specific URLs. Thus, it automatically extracts 'Drupal page callbacks'. This is nice because when an application has thousands of unique URLs \(<code>/article/11/19/why-mysql-is-cool</code> and <code>/article/11/19/postgres-is-cool</code> and so on\) that are all handled by the same controller \(e.g. <code>node\_page\_view\(\)</code>\).*
+![](http://default/files/images/new-relic/announcement-4.jpg)
+*This graph shows that most of my database time is spent reading and writing to the <code>accesslog</code> MySQL table. By disabling the access log feature in Drupal, I could reduce my database load roughly in half.*

@@ -21,7 +21,8 @@ id: 3436
 
 Of all the trends in the web community, few are spreading more rapidly than decoupled (or "headless") content management systems (CMS). The evolution from websites to more interactive web applications and the need for multi-channel publishing suggest that moving to a decoupled architecture that leverages client-side frameworks is a logical next step for Drupal. For the purposes of this blog post, the term *decoupled* refers to a separation between the back end and one or more front ends instead of the traditional notion of service-oriented architecture.
 
-[image drupal/future-decoupled-drupal-traditional-vs-decoupled resize=false]
+![Diagram comparing traditional \(monolithic\) and decoupled \(headless\) Drupal architectures, showing front end separation in decoupled approach.](http://default/files/images/drupal/future-decoupled-drupal-traditional-vs-decoupled.jpg)
+*Traditional \("monolithic"\) versus fully decoupled \("headless"\) architectural paradigm.*
 
 Decoupling your content management system enables front-end developers to fully control an application or site's rendered markup and user experience. Furthermore, the use of client-side frameworks helps developers give websites application-like behavior with smoother interactivity (there is never a need to hit refresh, because new data appears automatically), optimistic feedback (a response appears before the server has processed a user's query), and [non-blocking user interfaces](http://www.callumhart.com/blog/non-blocking-uis-with-interface-previews) (the user can continue to interact with the application while portions are still loading).
 
@@ -31,9 +32,10 @@ Still, it's important to temper the hype around decoupled content management wit
 
 To be clear, I'm not arguing against decoupled architectures *per se*. Rather, I believe that decoupling needs to be motivated through ample research. Since it is still quite early in the evolution of this architectural paradigm, we need to be conscious about how and in what scenarios we decouple. In this blog post, we examine different decoupled architectures, discuss why a fully decoupled architecture is not ideal for all use cases, and present "progressive decoupling", a better approach for which Drupal 8 is well-equipped. Today, Drupal 8 is ready to deliver pages quickly and offers developers the flexibility to enhance user experience through decoupled interactive components.
 
-### Fully decoupled is not usually the best solution
+## Fully decoupled is not usually the best solution
 
-[image drupal/future-decoupled-drupal-traditional-vs-fully-decoupled resize=false]
+![Diagram comparing traditional and fully decoupled Drupal architectures, showing direct rendering versus multiple endpoints for content delivery.](http://default/files/images/drupal/future-decoupled-drupal-traditional-vs-fully-decoupled.jpg)
+*In a fully decoupled architecture, the theme layer is often ignored altogether, and many content management capabilities are lost, though many clients ingesting data are possible.*
 
 Traditionally, CMSes have focused on making websites rather than web applications, but the line between them continues to blur. For example, let's imagine we are building a site delivering content-rich curated music reviews alongside an interaction-rich ticketing interface for live shows. In the past, this ticketing interface would have been a multi-step flow, but here we aim to keep visitors on the same page as they browse and purchase ticket options.
 
@@ -43,7 +45,7 @@ Using Drupal to build a content-rich site delivering music reviews is very easy 
 
 In a *fully* decoupled architecture, our losses from having to rebuild what Drupal gives us for free outweigh the wins from client-side frameworks. With a fully decoupled front end, we lose important aspects of the theme layer (which is tightly intertwined with Drupal APIs) such as theme hook suggestions, Twig templating, and, to varying degrees, the render pipeline. We lose content preview and nuances of creating, curating, and composing content such as layout management tools. We lose all of the advancements in accessibility and user experience that make Drupal 8 websites a great tool for both end users and site builders, like ARIA roles, improved system messages, and, most visibly, the fully integrated Drupal toolbar on non-administrative pages. Moreover, where there is elaborate interactivity, security vulnerabilities are easily introduced.
 
-### Progressive rendering with BigPipe
+## Progressive rendering with BigPipe
 
 Fully decoupled architectures can also have a performance disadvantage. We want users to see the information they want as soon as possible (*time to first paint*) and be able to perform a desired action as soon as possible (*time to interaction*). A well-architected CMS will have the advantage over a client-side framework.
 
@@ -51,7 +53,7 @@ Much of the content we want to send for our music website is cacheable and mostl
 
 What we really need is a means of selectively processing those expensive components later and sending the less intensive bits earlier. With [BigPipe](https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919), an approach for client-side dynamic content substitution, we can render our pages progressively, where the skeleton of the page loads first, then expensive components such as "songs I listened to most in the last week" or "currently playing" are sent to the browser later and fill out placeholders. This component-driven approach gives us the best of both worlds: non-blocking user interfaces with a brisk time to first interaction and rapid piecemeal loading of complete Drupal pages that leverage the theme layer.
 
-[video JwzX0Qv6u3A]
+https://www.youtube.com/watch?v=JwzX0Qv6u3A
 
 Currently, Drupal 8 is the only CMS with BigPipe deeply integrated across the board for both core and contributed modules–they merely have to provide some [cacheability metadata](https://www.drupal.org/docs/8/api/cache-api/cache-api) and need no awareness of the technical minutiae. Drupal 8's [Dynamic Page Cache](https://www.drupal.org/docs/8/core/modules/dynamic-page-cache/overview) module ensures that the page skeleton is already cached and can thus be sent immediately. For example, as menus are identical for many users, we can reuse the menu for those users that can access the same menu links, so Dynamic Page Cache is able to cache those as part of the page skeleton. On the other hand, a personalized block with a user's most played songs is less effective to cache and will therefore be rendered after the page skeleton is sent. This cacheability is built into core, and every contributed module is required to provide the necessary metadata for it.
 
@@ -59,9 +61,10 @@ For a fully decoupled site to load more rapidly than a highly personalized Drupa
 
 Client-side frameworks encounter some [critical and inescapable drawbacks](http://www.quirksmode.org/blog/archives/2015/01/angular_and_tem.html#link1) of conducting all rendering on the client side. On slow connections such as on mobile devices, client-side rendering slows down performance, depletes batteries faster, and forces the user to wait. Because most developers test locally and not in real-world network conditions on actual devices, it's easy to forget that real risks of sluggishness and unreliability, especially due to spotty connectivity, continue to confront any fully decoupled site – Drupal or otherwise.
 
-### Progressive decoupling is the future
+## Progressive decoupling is the future
 
-[image drupal/future-decoupled-drupal-progressive-decoupling resize=false]
+![Diagram comparing traditional, fully decoupled, and progressively decoupled Drupal, showing how the CMS renders and delivers content.](http://default/files/images/drupal/future-decoupled-drupal-progressive-decoupling.jpg)
+*Under progressive decoupling, the CMS renderer still outputs the skeleton of the page.*
 
 As we've seen, fully decoupling eliminates crucial CMS functionality and BigPipe rendering. But what if we could decouple while still having both? What if we could keep things like layout management, security, and accessibility when decoupling while still enjoying all the benefits an interaction-rich single-page application would give us? More importantly, what if we could take advantage of BigPipe to leverage shortened times to interaction and lowered obstacles for heavily personalized content? The answer lies in decoupled components, or *progressive decoupling*. Instead of decoupling the entire page, why not decouple only portions of it, like individual blocks?
 
@@ -73,9 +76,10 @@ Drupal 8 is ahead of the competition and is your go-to platform for building dec
 
 With Drupal 8, an exciting *spectrum* opens up beyond just the two extremes of fully decoupling and traditional Drupal. As we've seen, fully decoupling opens the door to a Drupal implementation providing content to a broad range of one or more clients ("many-headed" Drupal), such as mobile applications, interactive kiosks, and television sets. But progressive decoupling goes a step further, since you can fully decouple *and* progressively decouple a single Drupal site with all the tools to assemble content still intact.
 
-### What is next for decoupling in Drupal?
+## What is next for decoupling in Drupal?
 
-[image drupal/future-decoupled-drupal-progressively-decoupled-many-heads resize=false]
+![A diagram compares traditional Drupal with progressively decoupled Drupal, showing how pages and components interact with the CMS.](http://default/files/images/drupal/future-decoupled-drupal-progressively-decoupled-many-heads.jpg)
+*In the case of many-headed Drupal, fully decoupled applications can live alongside progressively decoupled pages, whose skeletons are rendered through the CMS.*
 
 Although Drupal has made huge strides in the last few years and is ahead of the competition, there is still work to do. Traditional Drupal, fully decoupled Drupal, and progressively decoupled Drupal can all coexist. With improved decoupling tools, Drupal can be an even better hub for many heads: a collection of applications and sites linked and supported by a single backend.
 
@@ -87,7 +91,7 @@ Beyond performance and endpoint management, developer experience also suffers un
 
 Decoupling thus reveals the need to investigate better ways of exposing data to the client side. As our pages and applications become ever more component-driven, the complexity of the queries we must perform and our demands on their performance increase. What if we could extract only the data we need by writing queries that are efficient and performant by default? Sebastian Siemssen [proposes](https://www.zensations.at/blog/headless-drupal-cake-lie) using Facebook's [GraphQL](http://graphql.org) (see [demo video](https://www.youtube.com/watch?v=p3gMSnaZrp8) and [project on drupal.org](https://www.drupal.org/project/graphql)) due to the client's explicit definition of what schema to return and the use of consolidated queries which break apart into smaller calls and recombine for the response, thereby minimizing round trips.
 
-[video ZjDYg6NrAys]
+https://www.youtube.com/watch?v=ZjDYg6NrAys
 
 I like GraphQL's approach for both fully and progressively decoupled front-ends. It means that decoupled sites will enjoy better overall performance and give front-end developers a better experience: very few round trips to the server, no need for custom endpoints, no need for versioning, and no dependence on back-end developers. (I even wonder if GraphQL could be the basis for a future version of Views.)
 
@@ -95,7 +99,7 @@ In addition, work on rendering improvements such as BigPipe should continue in o
 
 A great deal is being done, but we could always use more help; please [get in touch](https://dri.es/contact) if you're interested in contributing code or funding our work. After all, the potential impact of progressive rendering on the future of decoupled Drupal is huge.
 
-### Conclusion
+## Conclusion
 
 Decoupled content management is a rapidly evolving trend that has the potential to upend existing architectural paradigms. Nonetheless, we need to be cautious when approaching decoupled projects due to the loss of functionality and performance.
 

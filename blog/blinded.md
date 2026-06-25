@@ -17,4 +17,6 @@ id: 361
 
 # Blinded
 
+![A man with a beanie pulled over his eyes smiles slightly, covering his vision.](http://default/files/cache/miscellaneous-2007/blinded-640w.jpg)
+
 

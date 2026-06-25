@@ -19,4 +19,4 @@ id: 229
 
 People who live in Berchem/Borgerhout can probably tell you that, on a sunny day, you can find this macaw sitting on his tree in the Gitschotellei (shopping street). *World famous in Berchem!*
 
-[image miscellaneous-2007/street-macaw]
+![A blue-and-yellow macaw perched on a branch in an urban setting, looking to the side.](http://default/files/cache/miscellaneous-2007/street-macaw-640w.jpg)

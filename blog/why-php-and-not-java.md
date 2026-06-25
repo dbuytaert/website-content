@@ -18,6 +18,8 @@ id: 60
 
 # Why PHP (and not Java)?
 
+![Illustration of a strong blue figure labeled "PHP" facing a smaller red figure labeled "Java" with "vs.](http://default/files/cache/blog/php-vs-java-640w.jpg)
+
 Almost every week or so, someone asks me: <q>Why PHP? Apparently, you are doing Java too. So why not Java? Do you regret the fact that you wrote Drupal in PHP?</q>
 
 The answer?

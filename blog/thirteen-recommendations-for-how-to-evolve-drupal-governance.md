@@ -19,6 +19,8 @@ id: 4611
 
 # Thirteen recommendations for how to evolve Drupal's governance
 
+![If you want to go quickly, go alone. If you want to go far, go together.](http://default/files/cache/blog/go-far-go-together-640w.jpg)
+
 Drupal exists because of its community. What started from humble beginnings has grown into one of the largest Open Source communities in the world. This is due to the collective effort of thousands of community members.
 
 What distinguishes Drupal from other Open Source projects is both the size and diversity of our community, and the many ways in which thousands of contributors and organizations give back. It's a community I'm very proud to be a part of.
@@ -31,7 +33,8 @@ Throughout 2017, we did a lot of listening. We organized both in-person and virt
 
 In 2018, we transitioned from listening to planning. Earlier this year, I chartered the Drupal Governance Task Force. The goal of the task force was to draft a set of recommendations for how to evolve and strengthen Drupal's governance based on all of the feedback we received. Last week, after months of work and community collaboration, the task force shared [thirteen recommendations](https://www.drupal.org/community/blog/introducing-the-drupal-governance-task-force-2018-proposal) ([PDF](https://dri.es/files/drupal-governance-task-force-proposal-2018.pdf)).
 
-[image drupal/drupal-governance-task-force-2018-proposal]
+![The proposal from the Drupal Governance Task Force](http://default/files/cache/drupal/drupal-governance-task-force-2018-proposal-640w.jpg)
+*Me reviewing the Drupal Governance proposal on a recent trip.*
 
 Before any of us jump to action, the Drupal Governance Task Force recommended a thirty-day, open commentary period to give community members time to read the proposal and to provide more feedback. After the thirty-day commentary period, I will work with the community, various stakeholders, and the Drupal Association to see how we can move these recommendations forward. During the thirty-day open commentary period, you can then get involved by collaborating and responding to each of the individual recommendations below:
 

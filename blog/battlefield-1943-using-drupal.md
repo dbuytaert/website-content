@@ -18,4 +18,6 @@ id: 811
 
 # Battlefield 1943 using Drupal
 
+![A military aircraft takes off from an aircraft carrier while other planes fly in formation over the ocean.](http://default/files/cache/drupal/battlefield-1943-640w.jpg)
+
 Battlefield 1943 is out and the website is using [Drupal](https://www.drupal.org): see <http://battlefield1943.com/>.

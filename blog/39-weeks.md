@@ -17,5 +17,5 @@ id: 661
 
 # 39 weeks
 
-[image miscellaneous-2009/39-weeks-2]
-[image miscellaneous-2009/39-weeks-1]
+![A close-up of a pregnant person's belly at 39 weeks, covered by a fitted olive-green shirt.](http://default/files/cache/miscellaneous-2009/39-weeks-2-640w.jpg)
+![Side view of a pregnant person at 39 weeks, wearing a fitted olive-green top in an indoor setting.](http://default/files/cache/miscellaneous-2009/39-weeks-1-640w.jpg)

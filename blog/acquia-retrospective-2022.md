@@ -19,11 +19,13 @@ id: 5416
 
 # Acquia retrospective 2022
 
+![A hero image that reads "Acquia retrospective".](http://default/files/cache/acquia/retrospective-640w.png)
+
 At the beginning of each year, I publish a retrospective that looks back on the prior year at [Acquia](https://www.acquia.com/). I write these both to reflect on the year, and to keep a record of things that happen at the company. I've been doing this for the past 14 years.
 
 If you'd like to read my previous retrospectives, you can find them here: [2021](https://dri.es/acquia-retrospective-2021), [2020](https://dri.es/acquia-retrospective-2020), [2019](https://dri.es/acquia-retrospective-2019), [2018](https://dri.es/acquia-retrospective-2018), [2017](https://dri.es/acquia-retrospective-2017), [2016](https://dri.es/acquia-retrospective-2016), [2015](https://dri.es/acquia-retrospective-2015), [2014](https://dri.es/acquia-retrospective-2014), [2013](https://dri.es/acquia-retrospective-2013), [2012](https://dri.es/acquia-retrospective-2012), [2011](https://dri.es/acquia-retrospective-2011), [2010](https://dri.es/acquia-retrospective-2010), [2009](https://dri.es/acquia-retrospective-2009).
 
-### Reflecting on my retrospectives
+## Reflecting on my retrospectives
 
 As Acquia has grown, it has become increasingly challenging for me to share updates on the company's progress in a way that feels authentic and meaningful.
 
@@ -37,9 +39,9 @@ Because of that I have come to realize that my retrospectives have gradually tra
 
 As I continue to share my thoughts and progress through these annual retrospectives, I aim to strike a balance between transparency, enthusiasm, and sensitivity to the current environment. It is my hope that my updates provide valuable insights and serve as historical markers on the state of Acquia each year. Thank you for taking the time to read them.
 
-[video awZBuoWObj4]
+https://www.youtube.com/watch?v=awZBuoWObj4
 
-### Acquia business momentum
+## Acquia business momentum
 
 When writing my 2022 update, it's impossible to ignore the macroeconomic situation.
 
@@ -59,10 +61,11 @@ I attribute Acquia's growth to the fact that demand for our products hasn't slow
 
 In short, we ended the year in our strongest financial position yet – both at the top line and the bottom line. It feels good to be a growing, profitable company in the current economic climate. I'm grateful that Acquia is thriving.
 
-### Can you clarify exactly what Acquia does?
+## Can you clarify exactly what Acquia does?
 
 <div class="large">
-  [image acquia/vision-and-mission-2022 resize=false]
+  ![A screenshot of a slide with Acquia's vision and mission statement. Acquia's vision statement reads: "To make it possible for dreamers and doers to craft the digital world." Acquia's mission statement says: "To deliver the universal platform for the world's greatest digital experiences.".](http://default/files/cache/acquia/vision-and-mission-2022-640w.png)
+*Acquia's vision and mission statement has been unchanged the last 8+ years.*
 </div>
 
 Frequently, I am asked: <q>Can you clarify exactly what Acquia does?</q>. Often, people only have a general understanding of our business. They vaguely know it has something to do with Drupal.
@@ -84,28 +87,31 @@ In 2022, outdoor retailer [Sun &amp; Ski Sports](https://www.acquia.com/resource
 A third area of focus for Acquia is helping our customers manage their digital content more broadly, beyond just their website content. For example, [Autodesk](https://www.acquia.com/resources/case-studies/autodesk) undertook a global rebrand. Their goal was <q>to go from a house of brands to a branded house</q>. This meant Autodesk had to update many digital assets such as images and videos across websites, newsletters, presentations, and even printed materials. Using Acquia DAM, Autodesk redesigned the process of packaging, uploading, and releasing their digital assets to their 14,000 global employees, partners, and the public.
 
 <div class="large">
-  [image acquia/unified-content-data-orchestration-composition-and-delivery resize=false]
+  ![A diagram that shows how content, data, experience orchestration, and experience delivery needs to be unified across different systems such as content management systems, email marketing platforms, commerce solutions and more.](http://default/files/cache/acquia/unified-content-data-orchestration-composition-and-delivery-640w.png)
+*Experiences need to be personalized and orchestrated across all digital channels. To deliver the best digital experiences, user profile data needs to be unified across all systems. To make experience delivery easy, all content and digital assets need to be reusable across channels.*
 </div>
 
 When people ask me what Acquia does, they usually know we do something with Drupal. But they often don't realize how much more we do. Initially known exclusively for our Drupal-in-the-cloud offering, we have since expanded to provide a comprehensive Open Digital Experience Platform. This shift has allowed us to offer a more comprehensive solution to help our customers be *digital winners*.
 
-#### Customer validation
+### Customer validation
 
 At our customer and partner conference, Acquia Engage, we shared the stage with some of our customers, including ABInBev, Academy Mortgage, the American Medical Association, Autodesk, Bayer, Burn Boot Camp, Japan Airlines, Johnson Outdoors, MARS, McCormick, Novavax, Omron, Pearl Musical Instruments, Phillips 66, Sony Pictures, Stanley Black &amp; Decker, and Sun &amp; Ski Sports. Listening to their success stories was a highlight of the year for me.
 
 <div class="large">
-  [image acquia/customer-logos-2022 resize=false]
+  ![Acquia customer logos in 2022, including Cigna, Novartis, Lowe's, Barnes & Noble, Best Buy, Panasonic and more.](http://default/files/cache/acquia/customer-logos-2022-640w.png)
+*Some of Acquia's customers in 2022: Cigna, Novartis, Lowe's, Barnes & Noble, Best Buy, Panasonic and more.*
 </div>
 
 I'm also particularly proud of the fact that in 2022, our customers recognized us across two of the most popular B2B software review sites, TrustRadius and G2. Acquia earned [Top Rated designation on TrustRadius](https://www.acquia.com/newsroom/press-releases/acquia-widen-trustradius-awards) four times over, and was named a [Leader by G2](https://www.acquia.com/newsroom/press-releases/acquia-named-leader-g2) users in 20 areas.
 
 <div class="large">
-  [image acquia/customer-ratings-2022 resize=false]
+  ![G2 and TrustRadius badges recognize Acquia products based on functionality and market presence.](http://default/files/cache/acquia/customer-ratings-2022-640w.png)
+*Customers and partners rated our products very highly on <a href="https://www.g2.com/">G2</a> and <a href="https://www.trustradius.com/">TrustRadius</a>.*
 </div>
 
 The results prove that customers want what we're building, which is a great feeling. I'm proud of what our team has accomplished.
 
-#### Analyst validation
+### Analyst validation
 
 We also received validation on our product strategy from some of the industry's top analyst firms, including "Leader" placements in [The Forrester Wave: Digital Asset Management For Customer Experience, Q1 2022 Report](https://www.acquia.com/resources/reports/forrester-wave-digital-asset-management), as well as in the [2022 Gartner Magic Quadrant for Digital Experience Platforms](https://www.acquia.com/resources/report/gartner-dxp-magic-quadrant).
 
@@ -113,7 +119,7 @@ In addition, Acquia advanced to become a "Leader" in the [Omdia Digital Experien
 
 Analyst reports are important to our customers and prospects because these firms take into account customer feedback, a deep understanding of the market, and each vendor's product strategy and roadmap.
 
-### Executing on our product vision
+## Executing on our product vision
 
 In October, I published a [Composable Digital Experience Manifesto](https://dri.es/a-composable-digital-experience-manifesto), a comprehensive 3,500-word update on Acquia's product strategy.
 
@@ -138,10 +144,10 @@ For a more detailed explanation of these concepts, I encourage you to read my ma
 While there are six principles, there are four fundamental blocks to creating and delivering exceptional digital customer experiences: (1) managing content and digital assets, (2) managing user data, (3) personalized experience orchestration using machine learning, and (4) multi-experience composition and delivery across digital touchpoints. In the next sections, I'll talk a bit more about each of these four.
 
 <div class="large">
-  [image acquia/relevant-customer-experience-delivery resize=false]
+  ![A diagram that shows how user data and content can be used to deliver the best next experience.](http://default/files/cache/acquia/relevant-customer-experience-delivery-640w.png)
 </div>
 
-#### Managing content and digital assets
+### Managing content and digital assets
 
 Given the central role of content in any digital experience, content management is a core capability of any DXP. Our content management capabilities are centered around Drupal and Acquia DAM.
 
@@ -155,7 +161,7 @@ Providing our customers with strong content management capabilities is essential
 
 The combination of Drupal and Acquia DAM allows us to assist our customers in managing a wide range of digital content, including website content, images, videos, PDFs, and product information.
 
-#### Managing user data
+### Managing user data
 
 We have been investing in experience personalization since [2013](https://dri.es/announcing-acquia-lift), and over the past eight years, the market has continued to move toward data-driven, personalized experiences. IDC predicts that the Customer Data Platform (CDP) market will [grow about 20% per year, reaching $3.2 billion by 2025](https://www.idc.com/getdoc.jsp?containerId=US48054421).
 
@@ -165,7 +171,7 @@ In order to deliver great customer experiences, it is essential that our custome
 
 With Snowflake serving as our shared data layer, our customers now have easy and direct access to all of their customer data. This allows them to leverage that data across multiple applications within the Acquia product portfolio and connect to other relevant applications as part of their complete digital experience platform (DXP) solutions. I believe that our shared data layer sets us apart in the market and gives us a competitive advantage.
 
-#### Personalized experience orchestration using machine learning
+### Personalized experience orchestration using machine learning
 
 In 2022, we also focused on establishing [integrations between Acquia CDP and other systems](https://www.acquia.com/newsroom/press-releases/acquia-partners-workato-power-enterprise-connectivity-acquia-cdp), and we added to the [extensive set of machine learning models](https://www.acquia.com/newsroom/press-releases/acquia-introduces-retail-machine-learning-models-increase-customer-lifetime) available for use with Acquia CDP. These improvements provide non-technical marketers, or "citizen data scientists", with more options for understanding and leveraging their customer data.
 
@@ -173,7 +179,7 @@ Our machine learning models allow our customers to use predictive marketing to i
 
 One of the primary reasons that companies purchase CDPs is to respect their customers' privacy preferences. A major benefit of a CDP is that it helps customers comply with regulations such as GDPR and CCPA. In June, we enhanced Acquia CDP to make it even easier for our customers to [comply with subject data requests and privacy laws](https://www.acquia.com/newsroom/press-releases/acquia-adds-data-subject-deletion-request-features-acquia-cdp).
 
-#### Multi-experience composition and delivery across digital touchpoints
+### Multi-experience composition and delivery across digital touchpoints
 
 According to [a Gartner report from Q4 2022](https://www.gartner.com/en/newsroom/press-releases/2022-10-31-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-reach-nearly-600-billion-in-2023), global end-user spending on public cloud services is expected to increase by 20.7% in 2023, reaching a total of $591.8 billion.
 
@@ -187,11 +193,11 @@ The past few years, our cloud platform has undergone [a major technical upgrade 
 
 In 2022, we also introduced a new product called Acquia Code Studio. In partnership with GitLab, we offer a fully managed continuous integration/continuous delivery (CI/CD) pipeline optimized for Drupal. I have been using Acquia Code Studio myself and have [documented my experience in deploying Drupal sites with Acquia Code Studio](https://dri.es/my-drupal-deployment-workflow). In my more than 20 years of working with Drupal, I believe that Acquia Code Studio offers the best Drupal development and deployment workflow I have encountered.
 
-#### Acquisitions
+### Acquisitions
 
 A key part of delivering on our vision is acquisitions. One disappointment for me was that we were unable to complete any acquisitions in 2022, despite our eagerness to do so. We looked at various potential acquisition targets, but ultimately didn't move forward with any. We remain open to and enthusiastic about acquiring other companies to become part of the Acquia family. This will continue to be a key focus for me in 2023.
 
-### The number one trend to watch: AI tools
+## The number one trend to watch: AI tools
 
 The ever-growing amount of content on the internet shows no signs of slowing down. With the advent of "AI creation tools" like [ChatGPT](https://openai.com/blog/chatgpt/) (for text creation) and [DALL·E 2](https://openai.com/dall-e-2/) (for image creation), the volume of content will only increase at an accelerated rate.
 
@@ -203,13 +209,13 @@ In the future, ChatGPT and similar AI tools may pose a threat to traditional web
 
 At Acquia, we will need to consider how these AI tools fit into our product strategy and be mindful of the ethical implications of their use. I will be closely monitoring this trend and plan to write more about it in the future.
 
-### Give back more
+## Give back more
 
 In the spirit of our ["Give Back More"](https://www.acquia.com/careers/culture) values, the Acquia team sponsored 200 kids in the annual [Wonderfund Gift Drive](https://wonderfundma.org), contributing gifts both in person and online. We also donated to [The Pedigree Foundation](https://www.pedigreefoundation.org/) and [UNICEF](https://www.unicef.org/). Acquians also participated in collective volunteerism such as the [Urmi Project](https://sevasahayog.org/key-programs/urmi/) (India), [Camp Mohawk](https://www.campmohawk.org.uk/) (UK), and at [Cradles to Crayons](https://www.cradlestocrayons.org/) (Boston).
 
 Acquia also launched its own [Environmental, Social, and Governance (ESG) stewardship](https://www.acquia.com/esg) as a company and joined the Vista Climate Pledge. This is important, not just for me personally, but also for many of our customers, as it aligns with their values and expectations for socially responsible companies.
 
-### Conclusion
+## Conclusion
 
 In some respects, 2022 was more "normal" than the previous few years, as I had the opportunity to reconnect with colleagues, Open Source contributors, and customers at various in-person events and meetings.
 

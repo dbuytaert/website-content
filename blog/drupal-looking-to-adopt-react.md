@@ -20,11 +20,13 @@ id: 4036
 
 # Drupal looking to adopt React
 
+![Drupal logo with a speech bubble containing the React logo, representing integration or interaction between Drupal and React.](http://default/files/cache/blog/drupal-react-640w.jpg)
+
 Last week at DrupalCon Vienna, I proposed adding a modern JavaScript framework to Drupal Core. After the keynote, I met with core committers, framework managers, JavaScript subsystem maintainers, and JavaScript experts in the Drupal community to discuss next steps. In this blog post, I look back on how things have evolved, since the last time we explored adding a new JavaScript framework to Drupal Core two years ago, and what we believe are the next steps after DrupalCon Vienna.
 
 As a group, we agreed that we had learned a lot from watching the JavaScript community grow and change since our initial exploration. We agreed that today, React would be the most promising option given its expansive adoption by developers, its unopinionated and component-based nature, and its well-suitedness to building new Drupal interfaces in an incremental way. Today, I'm formally proposing that the Drupal community adopt React, after discussion and experimentation has taken place.
 
-### Two years ago, it was premature to pick a JavaScript framework
+## Two years ago, it was premature to pick a JavaScript framework
 
 Three years ago, I developed several convictions related to "headless Drupal" or "decoupled Drupal". I believed that:
 
@@ -38,7 +40,7 @@ By September 2015, I had built up enough conviction to write several long blog p
 
 At the time, the Drupal community didn't like the idea of picking a JavaScript framework. The overwhelming reactions were these: it's too early to tell which JavaScript framework is going to win, the risk of picking the wrong JavaScript framework is too big, picking a single framework would cause us to lose users that favor other frameworks, etc. In addition, there were a lot of different preferences for a wide variety of JavaScript frameworks. While I'd have preferred to make a bold move, the community's concerns were valid.
 
-### Focusing on Drupal's web services instead
+## Focusing on Drupal's web services instead
 
 By May of 2016, after listening to the community, I changed my approach; instead of adding a specific JavaScript framework to Drupal, I decided we should double down on improving [Drupal's web service APIs](https://dri.es/tag/web-services). Instead of being opinionated about what JavaScript framework to use, we would allow people to use their JavaScript framework of choice.
 
@@ -46,7 +48,7 @@ I did a deep dive on [the state of Drupal's web services in early 2016](https://
 
 The end result? Drupal's web service APIs have progressed significantly the past year. Ed Faulkner of Ember told us: <q>I'm impressed by how fast Drupal made lots of progress with its REST API and the JSON API contrib module!"</q>. It's a good sign when a core maintainer of one of the leading JavaScript frameworks acknowledges Drupal's progress.
 
-### The current state of JavaScript in Drupal
+## The current state of JavaScript in Drupal
 
 Looking back, I'm glad we decided to focus first on improving Drupal's web services APIs; we discovered that there was a lot of work left to stabilize them. Cleanly integrating a JavaScript framework with Drupal would have been challenging 18 months ago. While there is still [more work to be done](https://www.drupal.org/node/2905563), Drupal 8's available web service APIs have matured significantly.
 
@@ -62,7 +64,7 @@ One trend we are now seeing is that traditional MV\* frameworks are giving way t
 
 Several years later, we still don't know what JavaScript framework will win, if any, and I'm willing to bet that waiting two more years won't give us any more clarity. JavaScript frameworks will continue to evolve and take new shapes. Picking a single one will always be difficult and to some degree "premature". That said, I see React having the most momentum today.
 
-### My recommendations at DrupalCon Vienna
+## My recommendations at DrupalCon Vienna
 
 Given that it's been almost two years since I last suggested adding a JavaScript framework to core, I decided to bring the topic back in [my DrupalCon Vienna keynote presentation](https://dri.es/state-of-drupal-presentation-september-2017). Prior to my keynote, there had been some [renewed excitement and momentum](https://www.drupal.org/node/2645250) behind the idea. Two years later, here is what I recommended we should do next:
 
@@ -71,7 +73,7 @@ Given that it's been almost two years since I last suggested adding a JavaScript
 - **Pick a framework for Drupal's own administrative user interfaces.** Drupal should pick a JavaScript framework for its own administrative interface. I'm not suggesting we abandon our stable base of PHP code; I'm just suggesting that we leverage JavaScript for the things that JavaScript is great at by moving relevant parts of our code from PHP to JavaScript. Specifically, Drupal's authoring and site building experience could benefit from user experience improvements. A JavaScript framework could make our content modeling, content listing, and configuration tools faster and more application-like by using instantaneous feedback rather than submitting form after form. Furthermore, using a decoupled administrative interface would allow us to dogfood our own web service APIs.
 - **Let's start small by redesigning and rebuilding one or two features.** Instead of rewriting the entirety of Drupal's administrative user interfaces, let's pick one or two features, and rewrite their UIs using a preselected JavaScript framework. This allows us to learn more about the pros and cons, allows us to dogfood some of our own APIs, and if we ultimately need to switch to another JavaScript framework or approach, it won't be very painful to rewrite or roll the changes back.
 
-### Selecting a JavaScript framework for Drupal's administrative UIs
+## Selecting a JavaScript framework for Drupal's administrative UIs
 
 In my keynote, I proposed a new strategic initiative to test and research how Drupal's administrative UX could be improved by using a JavaScript framework. The feedback was very positive.
 
@@ -86,9 +88,10 @@ There was unanimous agreement that:
 
 We created [an issue on the Drupal Core queue](https://www.drupal.org/node/2913321) to discuss this more.
 
-### Conclusion
+## Conclusion
 
-[image blog/drupal-supporting-different-javascript-front-ends resize=false]
+![Drupal supporting different JavaScript front ends](http://default/files/cache/blog/drupal-supporting-different-javascript-front-ends-640w.jpg)
+*Drupal should support a variety of JavaScript libraries on the user-facing front end while relying on a single shared framework as a standard across Drupal administrative interfaces.*
 
 In short, I continue to believe that adopting more JavaScript is important for the future of Drupal. My original recommendation to include a modern JavaScript framework (or JavaScript libraries) for Drupal's administrative user interfaces still stands. I believe we should allow developers to use their JavaScript framework of choice to build front-end applications on top of Drupal and that we can start small with one or two administrative user interfaces.
 

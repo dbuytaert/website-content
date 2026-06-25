@@ -23,11 +23,11 @@ This note is mostly for my future self, in case I need to set this up again. I'm
 
 For context: I [switched to Markdown](https://dri.es/switching-to-markdown-after-20-years-of-html) and then [open-sourced my blog content](https://dri.es/i-open-sourced-my-blog-content) by exporting it to GitHub. Every day, my Drupal site exports its content as Markdown files and commits any changes to [github.com/dbuytaert/website-content](https://github.com/dbuytaert/website-content). New posts appear automatically, and so do edits and deletions.
 
-### Creating the GitHub repository
+## Creating the GitHub repository
 
 Create a new [GitHub](https://github.com/) repository. I called mine `website-content`.
 
-### Giving your server access to GitHub
+## Giving your server access to GitHub
 
 For your server to push changes to GitHub automatically, you need SSH key authentication.
 
@@ -73,7 +73,7 @@ ssh -T git@github.com
 
 You should see: `You've successfully authenticated, but GitHub does not provide shell access.`
 
-### The export script
+## The export script
 
 I created the following export script:
 
@@ -111,7 +111,7 @@ The two-day delay (`--end-date="2 days ago"`) gives me time to catch typos befor
 
 The `git add -A` stages everything including deletions, so if I remove a post from my site, it disappears from GitHub too (though Git's history preserves it).
 
-### Scheduling the export
+## Scheduling the export
 
 On a traditional server, you'd add this script to [Cron](https://en.wikipedia.org/wiki/Cron) to run daily. My site runs on [Acquia Cloud](https://dri.es/acquia-cloud-next-a-journey-in-platform-modernization), which is Kubernetes-based and automatically scales pods up and down based on traffic. This means there is no single server to put a crontab on. Instead, Acquia Cloud provides a scheduler that runs jobs reliably across the infrastructure. 
 

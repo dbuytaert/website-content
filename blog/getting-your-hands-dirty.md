@@ -18,4 +18,6 @@ id: 54
 
 # Getting your hands dirty
 
+![A close-up of a dirty, rough-skinned hand with a silver ring on one finger.](http://default/files/cache/miscellaneous-2006/hand-640w.jpg)
+
 

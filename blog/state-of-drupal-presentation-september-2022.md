@@ -23,17 +23,19 @@ id: 5361
 
 # State of Drupal presentation (September 2022)
 
+![Opening slide of my keynote presentation. The slide reads "DriesNote DrupalCon Prague 2022".](http://default/files/cache/drupalcon-prague-2022/driesnote-640w.png)
+
 Last week, over 1,200 Drupalists gathered in Prague for DrupalCon Europe. It was great to see everyone together in person.
 
 In good tradition, I delivered [my State of Drupal keynote](/tag/state-of-drupal). You can [watch the video of my keynote](https://youtu.be/Hmit4ET-l3Q) or [download my slides](https://dri.es/files/state-of-drupal-september-2022.pdf) (380 MB).
 
-[video Hmit4ET-l3Q]
+https://www.youtube.com/watch?v=Hmit4ET-l3Q
 
 <div class="large">
-  [image drupalcon-prague-2022/protect-the-open-web resize=false]
+  ![Text on slide reads "We have to do everything we can to protect the Open Web".](http://default/files/cache/drupalcon-prague-2022/protect-the-open-web-640w.png)
 </div>
 
-### Why the Open Web should win
+## Why the Open Web should win
 
 Today the web is ingrained in every aspect of our daily lives. We use it for work, to socialize, to pay our bills, get healthcare, and gain access to information.
 
@@ -44,10 +46,10 @@ When people are excluded from being able to access online experiences, they are 
 For those reasons, we need to do everything we can to protect and grow the [Open Web](https://dri.es/tag/open-web).
 
 <div class="large">
-  [image drupalcon-prague-2022/caring-drupal-caring-open-web resize=false]
+  ![Text on slide reads "Caring about Drupal equals caring about the Open Web".](http://default/files/cache/drupalcon-prague-2022/caring-drupal-caring-open-web-640w.png)
 </div>
 
-### Caring about Drupal is caring about the Open Web
+## Caring about Drupal is caring about the Open Web
 
 In my keynote, I made the point that [Drupal](https://www.drupal.org/) is an important player in the preservation and growth of the Open Web.
 
@@ -65,19 +67,19 @@ All of these are reasons why I want both Drupal and the Open Web to win. We don'
 
 Making security, privacy, accessibility, multilingual capabilities, usability, and ease of maintenance top priorities is hard work work, but it's worth it. Caring about Drupal is the same as caring about the Open Web.
 
-### Drupal's growth and influence
+## Drupal's growth and influence
 
-[image drupalcon-prague-2022/ambitious-site-builders]
+![Text reads "Drupal is a powerful platform for ambitious site builders".](http://default/files/cache/drupalcon-prague-2022/ambitious-site-builders-640w.png)
 
 The good news is that Drupal has grown into a powerful platform for [ambitious site builders](https://dri.es/drupal-is-for-ambitious-site-builders). Drupal empowers millions of ambitious site builders to create Open Web experiences.
 
 However, we have to get better at promoting what we're good at to ensure more people understand how powerful and influential Drupal is. That influence becomes really clear when you look at [Drupal's end users](https://youtu.be/9avEUpdvI1Q).
 
 <div class="large">
-  [video 9avEUpdvI1Q]
+  https://www.youtube.com/watch?v=9avEUpdvI1Q
 </div>
 
-### Making Drupal's high bar easier to achieve
+## Making Drupal's high bar easier to achieve
 
 Because of Drupal's impact on the digital landscape, we keep a high bar with regards to stability, reliability, accessibility, security, backwards compatibility, and more. With great impact comes great responsibility.
 
@@ -87,9 +89,9 @@ Unfortunately, we can't lower the bar. However, we can make it easier to achieve
 
 GitLab streamlines and automates various steps of the contribution process. Check out the [Drupal.org GitLab video](https://youtu.be/e6BvC-JJyHM) from the [Drupal Association](https://www.drupal.org/association) for an update.
 
-[video e6BvC-JJyHM]
+https://www.youtube.com/watch?v=e6BvC-JJyHM
 
-### Welcoming more people to Drupal 10
+## Welcoming more people to Drupal 10
 
 Another way to accelerate innovation is to grow our capacity and attract more people to Drupal.
 
@@ -107,29 +109,32 @@ Each of these initiatives is significant because they make Drupal and the Open W
 
 In addition, the [Project Browser initiative](https://youtu.be/RnSgNo_tYxI) and [Automatic Updates initiative](https://youtu.be/4DcrBlq6la0) saw tremendous progress. Videos below.
 
-[video RnSgNo_tYxI]
+https://www.youtube.com/watch?v=RnSgNo_tYxI
 
-[video 4DcrBlq6la0]
+https://www.youtube.com/watch?v=4DcrBlq6la0
 
 To learn more about Drupal's strategic initiatives, you can watch the [Drupal Core Initiative Leads keynote](https://youtu.be/13hyoDAFP9E). Highly recommended for those that want to contribute.
 
-### Upgrading to Drupal 10
+## Upgrading to Drupal 10
 
 Drupal 10 is scheduled to be released in mid-December. And after the Drupal 10 release, users will have 11 months to upgrade from Drupal 9 to Drupal 10. Drupal 10 will require PHP 8.1, something to plan for as well.
 
-[image drupalcon-prague-2022/drupal-10-timeline]
+![A timeline that shows the Drupal 10 release date and the Drupal 9 end-of-life date.](http://default/files/cache/drupalcon-prague-2022/drupal-10-timeline-640w.png)
+*Drupal 10 will be released on December 14, 2022. This gives site owners until November 2023 to update from Drupal 9 to Drupal 10.*
 
 Luckily, the upgrade path has never been easier. In the video below, we compare the upgrade path from Drupal 8 to Drupal 9 to the upgrade from Drupal 9 to Drupal 10. As you can see, the Drupal 9 to 10 upgrade is much more automated. It will be the easiest yet!
 
-[video 0NNWnMApwfo]
+https://www.youtube.com/watch?v=0NNWnMApwfo
 
 The update to Drupal 10 is required because some of Drupal 9's third-party dependencies will reach end-of-life. If you don't upgrade within 11 months, you will be running a site with unmaintained third-party dependencies.
 
-[image drupalcon-prague-2022/drupal-10-upgrade-easiest-yet]
+![A pie chart that shows that many modules are ready, or close to ready, for Drupal 10.](http://default/files/cache/drupalcon-prague-2022/drupal-10-upgrade-easiest-yet-640w.png)
+*We recently released the first Drupal 10 beta release. At the time we released Drupal 10 beta-1, 3 times as many modules were ready compared to when we released Drupal 9 beta-1. More than a 1,000 modules are already ready for Drupal 10!*
 
-[image drupalcon-prague-2022/drupal-getting-easier]
+![A bell curve chart that shows Drupal getting easier to use and maintain. Drupal 9 and Drupal 10 are easier than Drupal 8.](http://default/files/cache/drupalcon-prague-2022/drupal-getting-easier-640w.png)
+*Thanks to various focused initiatives, Drupal is starting to get easier. Drupal 8 was peak difficulty.*
 
-### Thank you
+## Thank you
 
 I hope we can all find ways to care about building the web we want to see for the future. Making Drupal better means making the [Open Web](https://dri.es/tag/open-web) better.
 

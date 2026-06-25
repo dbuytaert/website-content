@@ -20,7 +20,7 @@ id: 2482
 
 Three weeks ago, at DrupalCon London, I gave my traditional State of Drupal presentation. In good tradition, you can [download a copy of my slides](https://dri.es/files/state-of-drupal-august-2011.pdf) (PDF, 37 MB) or you can [watch a video recording of my keynote](https://youtu.be/6mK45xCxTI0).
 
-[video 6mK45xCxTI0]
+https://www.youtube.com/watch?v=6mK45xCxTI0
 
 My presentation was based on the results of the [State of Drupal survey](https://dri.es/state-of-drupal-2011-survey), which got over 3,000 responses from people all over the world. Because I didn't have time to talk about all the survey questions in my keynote, I've decided to make [a summary of all the survey results](https://dri.es/files/state-of-drupal-survey-2011-summary.pdf) (PDF, 160 KB) available as well. It gives a more complete view on the survey results.
 

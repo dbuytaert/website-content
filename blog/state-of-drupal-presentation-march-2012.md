@@ -20,11 +20,11 @@ id: 2671
 
 Last week at DrupalCon Denver, I gave my traditional state of Drupal presentation. A total of 3000 were present at DrupalCon. A lot of people asked me for my slides. So in good tradition, you can [download a copy of my slides](https://dri.es/files/state-of-drupal-march-2012.pdf) (PDF, 21 MB) or you can [watch a video recording of my keynote](https://youtu.be/RddJvlbSY88).
 
-[video RddJvlbSY88]
+https://www.youtube.com/watch?v=RddJvlbSY88
 
-[image drupalcon-denver-2012/drupalcon-denver-keynote-1]
-[image drupalcon-denver-2012/drupalcon-denver-keynote-2]
+![View from a keynote speaker's podium with two laptops displaying DrupalCon Denver 2012 content in a large auditorium.](http://default/files/cache/drupalcon-denver-2012/drupalcon-denver-keynote-1-640w.jpg)
+![A large audience watches a keynote speaker on stage at DrupalCon Denver 2012, with many using laptops.](http://default/files/cache/drupalcon-denver-2012/drupalcon-denver-keynote-2-640w.jpg)
 
-[video hoKUswQe0Xg]
+https://www.youtube.com/watch?v=hoKUswQe0Xg
 
-[video ywUHDT5Xos0]
+https://www.youtube.com/watch?v=ywUHDT5Xos0

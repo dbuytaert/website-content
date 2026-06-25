@@ -15,6 +15,6 @@ id: 1551
 
 # Milow - Born in the eighties
 
-[video YSTvyik1FeE]
+https://www.youtube.com/watch?v=YSTvyik1FeE
 
 One of my favorite songs of the past 2 years. Milow, is a Belgian singer-songwriter.

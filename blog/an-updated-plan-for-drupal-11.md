@@ -17,11 +17,14 @@ id: 5481
 
 # An updated plan for Drupal 11
 
+![A man is leading a brainstorming session, pointing to sticky notes as he guides the discussion.](http://default/files/cache/drupal-core-committer-offsite-2023/lauri-eskola-640w.jpg)
+
 During [DrupalCon Portland 2022](https://dri.es/state-of-drupal-presentation-april-2022), I shared [my initial vision and strategy for Drupal 11](https://dri.es/a-plan-for-drupal-11). The overarching goal of this strategy is to establish Drupal as the preferred tool for [ambitious site builders on the Open Web](https://dri.es/drupal-open-web-manifesto).
 
 A few months ago, the Core Committer Team (myself included) met in person for three full days. We agreed that we wanted to help clarify Drupal's strategy and roadmap. [Lauri Eskola](https://www.drupal.org/u/lauriii), a newly appointed Product Manager for Drupal, took the action to build on my DrupalCon Portland 2022 keynote, in order to update and evolve our plans for Drupal 11.
 
-[image drupal-core-committer-offsite-2023/lauri-eskola]
+![A man is leading a brainstorming session, pointing to sticky notes as he guides the discussion.](http://default/files/cache/drupal-core-committer-offsite-2023/lauri-eskola-640w.jpg)
+*Lauri leading a session to discuss what it means to be an <a href="https://dri.es/drupal-is-for-ambitious-site-builders">Ambitious Site Builder</a>.*
 
 The result is [an updated plan for Drupal 11](https://www.drupal.org/about/core/blog/roadmap-for-drupal-102-103-and-beyond). The plan stays in line with [the original plan for Drupal 11](https://dri.es/a-plan-for-drupal-11) but includes more details and is organized around three focus areas.
 
@@ -31,7 +34,8 @@ Our second priority centers on **easier-to-use tools for content editors**. We a
 
 Finally, we are working on **making Drupal easier to upgrade and maintain**. With the goal to reduce complexity and ensure affordability, we are developing an [Automatic Updates](https://www.drupal.org/about/core/strategic-initiatives/automatic-updates) feature that will automatically apply security and patch updates for Core and contributed modules.
 
-[image drupal-core-committer-offsite-2023/remote-participants-2]
+![A man sits on a sofa with a laptop on his head, while a group of people gather around sticky notes in the background, working together.](http://default/files/cache/drupal-core-committer-offsite-2023/remote-participants-2-640w.jpg)
+*Gábor holding a laptop on his head, making sure remote attendees could see and participate in the activities.*
 
 For more details, I encourage you to read [the detailed plan for Drupal 11](https://www.drupal.org/about/core/blog/roadmap-for-drupal-102-103-and-beyond). I am thrilled that we are so focused on [Ambitious Site Builders](https://dri.es/drupal-is-for-ambitious-site-builders), and invite all contributors and users to join us on this journey.
 

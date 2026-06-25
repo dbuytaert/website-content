@@ -25,7 +25,8 @@ The good news is that thanks to the hard work of many people in the community, a
 
 The more important trend, however, is that after years of tireless evangelizing, the Drupal community is starting to value usability increasingly more. Today, the Drupal Usability Team is more involved in the patch review process than ever before – for example, [Bojhan](http://www.bojhan.nl), a usability expert active in Drupal's usability team, has even learned how to create patches so that he can help make simple changes. Another good example, is that in the Drupal 7 development cycle, we have raised money to do [formal usability testing](https://dri.es/usability-work-at-drupalcon-dc). These efforts illustrate a fundamental underlying desire to get better at usability, so I expect to see even more great things in the months to come.
 
-[image drupal/vertical-tabs resize=false]
+![A screenshot of the node edit form showing the new 'vertical tabs' feature.](http://default/files/images/drupal/vertical-tabs.jpg)
+*The current node edit form in Drupal 7, the next major version of Drupal that is currently under development. Note the improved text format selector and the vertical tabs near the bottom. The "vertical tabs" show different groups of settings along with a summary.*
 
 All this is great work that helps address some of Drupal's fundamental problems; however, a lot of these improvements are incremental – making incremental improvements is what the Drupal community excels at. Making the drastic over-arching improvements to Drupal's ease of use that we really need for Drupal to grow its audience requires one to step back, take a fresh look at the big picture, interview people, analyze problems, and propose more radical changes that incorporate piles of feedback and ideas. Needless to say, this is a long and expensive process, and not something we'd be able to get to using incremental changes. An objective without strategy remains a dream so as [I announced in February 2009](https://dri.es/mark-boulton-to-help-with-drupal-7), I thought it would be right for [Acquia](https://www.acquia.com/) to finance [Mark Boulton](https://markboulton.co.uk/) and [Leisa Reichelt](http://www.disambiguity.com/) to help the Drupal community with exactly this.
 
@@ -35,7 +36,8 @@ Mark and Leisa's work is being done in an open, collaborative, and transparent w
 
 Some of the activities to date have included some 'blue sky design workshops' with community members at DrupalCon DC, one-on-one interviews with members of the the Drupal community and potential future Drupal users, and more. As the work has progressed they have [shared work in progress on Flickr](https://www.flickr.com/groups/drupalredesign), conducted user testing on those prototypes, and much more.
 
-[image drupal/mbd-header-mockup]
+![A mockup of a potential new navigation menu for Drupal administrators and editors.](http://default/files/images/drupal/mbd-header-mockup.jpg)
+*A Mark Boulton mockup of the "header" that we might see in Drupal 7.*
 
 In addition to paying Mark and Leisa, [Acquia](https://www.acquia.com) has contributed some of its own internal engineering resources. Jeff Noyes, Jason Reed (both senior designers) and myself traveled to meet with Mark and Leisa in London – we flew in [Yoroy](https://www.yoroy.com/), a key contributor to Drupal usability, to attend as well. We locked ourselves in a room for two days, and discussed and validated early design prototypes. You can read a [summary of the visit](http://www.jeffnoyes.com/content/d7ux-brainstorming-london) on Jeff Noyes's site. Returning home from London, I couldn't be happier, because the designs and prototypes started to live up my vision and expectations of how easy to use Drupal could be.
 

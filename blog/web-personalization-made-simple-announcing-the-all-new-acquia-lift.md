@@ -28,6 +28,6 @@ We started working on the new version of Acquia Lift in early 2018, well over a 
 
 You can see all of the new features in action in this [5-minute Acquia Lift demo video](https://youtu.be/I9LSCq_9zVw):
 
-[video I9LSCq_9zVw]
+https://www.youtube.com/watch?v=I9LSCq_9zVw
 
 The new Acquia Lift offers the best web personalization solution in Acquia's history, and definitely the best tool for [Drupal](https://www.drupal.org/).

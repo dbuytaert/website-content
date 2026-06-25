@@ -25,7 +25,7 @@ CDPs pull customer data from multiple sources, clean it up and combine it to cre
 
 For the past 12 months, I've been watching the CDP space closely and have talked to a dozen CDP vendors. I believe that every organization will need a CDP (although most organizations don't realize it yet).
 
-### Why AgilOne?
+## Why AgilOne?
 
 According to independent research firm [The CDP Institute](https://www.cdpinstitute.org/), CDPs are a part of a rapidly growing software category that is expected to exceed $1 billion in revenue in 2019. While the CDP market is relatively new and small, a plethora of CDPs exist in the market today.
 
@@ -35,7 +35,7 @@ For example, [lululemon](https://www.agilone.com/lululemon-and-agilone-case-stud
 
 Another example is [TUMI](https://www.agilone.com/tumi-and-agilone-case-study), a manufacturer of high-end suitcases. TUMI turned to AgilOne and AI to personalize outbound marketing (like emails, push notifications and one-to-one chat), smarten its digital advertising strategy, and improve the customer experience and service. The results? TUMI sent 40 million fewer emails in 2017 and made more money from them. Before AgilOne, TUMI's e-commerce revenue decreased. After they implemented AgilOne, it increased sixfold.
 
-### Fundamentally improving the customer experience
+## Fundamentally improving the customer experience
 
 Having a great customer experience is more important than ever before – it's what sets competitors apart from one another. Taxis and Ubers both get people from point A to B, but Uber's customer experience is usually superior.
 
@@ -46,17 +46,17 @@ The real challenge for most organizations is not to redesign their website with 
 I've long maintained that the two fundamental building blocks to delivering great digital experiences are (1) content and (2) user data. This is consistent with the diagram I've been using in presentations and on my blog for many years where "user profile" and "content repository" represent two systems of record (though updated for the AgilOne acquisition).
 
 <div class="large">
-  [image acquia/dxp-get-best-next-experience-2019 resize=false]
+  ![A graphic that shows how to create the 'best next experience' by combining user data from AgilOne with content from Drupal.](http://default/files/cache/acquia/dxp-get-best-next-experience-2019-640w.png)
 </div>
 
-### To drive results, wrangling data is not optional
+## To drive results, wrangling data is not optional
 
 To dramatically improve customer experiences, organizations need to understand their customers: what they are interested in, what they purchased, when they last interacted with the support organization, how they prefer to consume information, etc.
 
 But as an organization's technology stack grows, user data becomes siloed within different platforms:
 
 <div class="large">
-  [image acquia/dxp-silos-2019 resize=false]
+  ![A graphic that displays separate systems for the website, email marketing, online commerce, social media, and customer management. They are not connected, each with its own content, user profile data, and experiences creation tools.](http://default/files/cache/acquia/dxp-silos-2019-640w.png)
 </div>
 
 When an organization doesn't have a 360º view of its customers, it can't deliver a great experience to its customers. We have all interacted with a help desk person that didn't know what you recently purchased, is asking you questions you've answered multiple times before, or isn't aware that you already got some help troubleshooting through social media.
@@ -64,15 +64,15 @@ When an organization doesn't have a 360º view of its customers, it can't delive
 Hence, the need for integrating all your backend systems and creating a unified customer profile. AgilOne addresses this challenge, and has helped many of the world's largest brands understand and engage better with their customers.
 
 <div class="large">
-  [image acquia/dxp-shared-user-data-2019 resize=false]
+  ![A graphic that displays separate systems for the website, email marketing, online commerce, social media, and customer management, all linked by a shared data layer that unifies user profiles.](http://default/files/cache/acquia/dxp-shared-user-data-2019-640w.png)
 </div>
 
-### Acquia's strategy and vision
+## Acquia's strategy and vision
 
 It's easy to see how AgilOne is an important part of Acquia's vision to deliver the industry's only open digital experience platform. Together, with Drupal, Lift and Mautic, AgilOne will allow us to redefine the customer experience stack. Everything is based on Open Source and open APIs, and designed from the ground up to make it easier for marketers to create relevant, personal campaigns across a variety of channels.
 
 <div class="large">
-  [image acquia/dxp-no-siloes-2019 resize=false]
+  ![A graphic showing different systems for a website, email marketing, online commerce, and social media, all connected together. This allows them to share content and user profile data, and enables the creation of connected experiences across all platforms.](http://default/files/cache/acquia/dxp-no-siloes-2019-640w.png)
 </div>
 
 Welcome to the team, AgilOne! You are a big part of Acquia's future.

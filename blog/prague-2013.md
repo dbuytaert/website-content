@@ -17,9 +17,11 @@ id: 3041
 
 # Prague
 
-[image prague-2013/prague-27]
-[image prague-2013/prague-32]
-[image prague-2013/prague-24]
-[image prague-2013/prague-37]
+![Ornate historic buildings with red roofs line a curved street with tram tracks in Prague during golden hour.](http://default/files/cache/prague-2013/prague-27-640w.jpg)
+
+![Ornate historic buildings with red roofs line a curved street with tram tracks in Prague during golden hour.](http://default/files/cache/prague-2013/prague-27-640w.jpg)
+![Passengers sit inside a tram with scratched windows, silhouetted against the setting sun in Prague.](http://default/files/cache/prague-2013/prague-32-640w.jpg)
+![Row of historic buildings with ornate facades along a stone walkway in Prague, illuminated by warm sunlight.](http://default/files/cache/prague-2013/prague-24-640w.jpg)
+![A window view of an antique shop displaying framed paintings, sculptures, and decorative items inside a well-lit room.](http://default/files/cache/prague-2013/prague-37-640w.jpg)
 
 For more photos, check out the [entire album](https://dri.es/album/prague-2013/).

@@ -20,4 +20,4 @@ id: 384
 
 [Mike Bloomberg](https://en.wikipedia.org/wiki/Mike_Bloomberg), the mayor of New York City, is using Drupal for his website at <https://www.mikebloomberg.com/>.
 
-[image drupal/mike-bloomberg]
+![Screenshot of a website featuring Mike Bloomberg, with a speech announcement and information about his political initiatives.](http://default/files/cache/drupal/mike-bloomberg-640w.jpg)

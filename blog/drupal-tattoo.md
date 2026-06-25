@@ -17,4 +17,4 @@ id: 1271
 
 As part of my annual Drupal prediction, I was going to predict that in 2010, someone would get a Drupal tattoo. Of course, [Kristof De Jaeger](http://realize.be) (aka [swentel](https://www.drupal.org/user/107403)), fast as always, would get one just before the start of the new year. Who else has a Drupal tattoo?
 
-[image drupal/druplicon-puzzle-tattoo]
+![A tattoo on a forearm features four puzzle pieces with different logos, including the Drupal Druplicon symbol.](http://default/files/cache/drupal/druplicon-puzzle-tattoo-640w.jpg)

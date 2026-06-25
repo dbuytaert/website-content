@@ -21,4 +21,4 @@ id: 218
 
 The site is run by [Ivan Raszl](http://raszl.net) and was built with the help from the [Drupal ninjas at 2bits.com](https://2bits.com).
 
-[image drupal/adsoftheworld resize=false]
+![A webpage from "Ads of the World" displays advertisements featuring children and textured stone surfaces.](http://default/files/images/drupal/adsoftheworld.jpg)

@@ -19,7 +19,7 @@ Our paper [Javana: a system for building customized Java program analysis tools]
 
 Good news because [OOPSLA](http://oopsla.org/), which is short for *ACM conference on object-oriented programming, systems, languages, and applications* has incubated many state-of-the-art technologies, including design patterns, refactoring, aspect-oriented software development, dynamic compilation and optimization, the Unified Modeling Language, and more.
 
-### Paper abstract
+## Paper abstract
 
 Understanding the behavior of applications running on high-level language virtual machines, as is the case in Java, is non-trivial because of the tight entanglement at the lowest execution level between the application and the virtual machine. This paper proposes Javana, a system for building Java program analysis tools. Javana provides an easy-to-use instrumentation infrastructure that allows for building customized profiling tools very quickly.
 

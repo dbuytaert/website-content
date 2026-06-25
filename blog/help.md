@@ -16,4 +16,6 @@ id: 139
 
 # Help
 
+![Two hands with fingers spread press against a wet, foggy glass surface, partially obscured by condensation and water droplets.](http://default/files/cache/miscellaneous-2006/help-640w.jpg)
+
 

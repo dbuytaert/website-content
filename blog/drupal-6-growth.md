@@ -17,6 +17,8 @@ id: 625
 
 # Drupal 6 growth
 
+![Line graph showing the steady growth of active Drupal 6 sites from July 2008 to January 2010.](http://default/files/images/drupal/drupal-6-growth.jpg)
+
 The graph above is made based on the project usage statistics collected on drupal.org. As ever with statistics of this sort, they don't tell the whole story. This is because only sites running the *update status module* report data back to drupal.org. This module is part of Drupal 6 and the installer prompts the user to enable the module when Drupal is first installed. It is not required to enable this module. People upgrading from Drupal 5 aren't even prompted to enable it. Plus, many Drupal sites are hidden behind corporate firewalls. As a result, we don't really know how many Drupal 6 sites there are.
 
 Either way, based on the growth data that we do have available, we can predict that we will near 240,000 Drupal 6 sites by January 2010. See the black trendline on the graph. The R-square represents the variability in the data set that is accounted for by the prediction model. Its value indicates how likely the predicted values are – the closer to 1.0, the better. If Drupal 6 continues to grow like it did the past 9 months, our prediction should be pretty accurate. It would mean that the number of Drupal 6 sites will double over the next 9 months. Not bad.

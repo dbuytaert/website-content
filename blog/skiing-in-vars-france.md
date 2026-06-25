@@ -22,4 +22,4 @@ While I love photography, I never really got into video. Because I'm not the guy
 
 Below is my first attempt at shooting and editing video. The French Alps are stunning and that alone is reason to watch the video. No doubt I have to hone my skills – both shooting and in the editing room – and it wouldn't hurt if I could pull off a flip on my skis either. ;-)
 
-[video A7o-MNtYP6Y]
+https://www.youtube.com/watch?v=A7o-MNtYP6Y

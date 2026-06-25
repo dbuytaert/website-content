@@ -18,4 +18,6 @@ id: 2006
 
 # Chicago by night
 
+![Chicago skyline at night with illuminated skyscrapers, a lit bridge, and city lights reflecting on the river.](http://default/files/cache/miscellaneous-2010/chicago-by-night-640w.jpg)
+
 

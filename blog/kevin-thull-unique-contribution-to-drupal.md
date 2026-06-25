@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/kevin-thull-unique-contribution-to-drupal'
-title: "Kevin Thull's unique contribution to Drupal "
+title: "Kevin Thull's unique contribution to Drupal"
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -15,7 +15,9 @@ published: true
 id: 4446
 ---
 
-# Kevin Thull's unique contribution to Drupal 
+# Kevin Thull's unique contribution to Drupal
+
+![Kevin Thull recording kit](http://default/files/cache/drupal/kevin-thull-recording-kit-2018-640w.jpg)
 
 If you've ever watched a Drupal Camp video to learn a new Drupal skill, technique or hack, you most likely have [Kevin Thull](https://www.drupal.org/u/kthull) to thank. To date, Kevin has traveled to more than 30 Drupal Camps, recorded more than 1,000 presentations, and has shared them all on YouTube for thousands of people to watch. By recording and posting hundreds of Drupal Camp presentations online, Kevin has has spread knowledge, awareness and a broader understanding of the Drupal project.
 
@@ -25,7 +27,8 @@ Kevin began recording sessions during the first community events he helped organ
 
 After these initial attempts, Kevin sought a different approach for recording sessions. He ended up developing a [recording kit](http://www.bluedropshop.com/blog/drupal-camp-session-recordings-year-review), which is a bundle of the equipment and technology needed to record a presentation. After researching various options, he discovered a lightweight, low cost and foolproof solution. Kevin continued to improve this process after he tweeted that if you sponsored his travel, he would record Drupal Camp sessions. It's no surprise that numerous camps took Kevin up on his offer. With more road experience, Kevin has consolidated the recording kits to include just a screen recorder, audio recorder and corresponding cables. With this approach, the kit records a compressed mp4 file that can be uploaded directly to YouTube. In fact, Kevin often finishes uploading all presentation videos to YouTube before the camp is over!
 
-[image drupal/kevin-thull-recording-kit-2018]
+![Kevin Thull recording kit](http://default/files/cache/drupal/kevin-thull-recording-kit-2018-640w.jpg)
+*This is one of Kevin Thull's recording kits used to record hundreds of Drupal presentations around the world. Each kit runs at about <a href="https://www.amazon.com/gp/registry/wishlist/3LYB2AEXU3CC0/">$450 on Amazon</a>.*
 
 Most recently, Kevin has been buying and building more recording kits thanks to financial contributions from various Drupal Camps. He has started to send recording kits and documentation around the world for local camp organizers to use. Not only has Kevin recorded hundreds of sessions himself, he is now sharing his expertise and teaching others how to record and share sessions.
 

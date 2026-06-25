@@ -25,11 +25,13 @@ id: 3771
 
 # Traveling through Tuscany
 
+![The Ponte Vecchio in Florence, a historic bridge with shops, spans the Arno River under a partly cloudy sky.](http://default/files/cache/tuscany-2016/ponte-vecchio-florence-640w.jpg)
+
 Four weeks ago we went on a vacation in Tuscany. I finally had some time to process the photos and write down our memories from the trip.
 
-### Day 1
+## Day 1
 
-[image tuscany-2016/al-magrini-farmhouse-1]
+![Ceramic house number sign reading "14" with an illustration of a man smoking a pipe, labeled "Al Magrini.](http://default/files/cache/tuscany-2016/al-magrini-farmhouse-1-640w.jpg)
 
 We booked a last-minute house in a vineyard called Fattoria di Fubbiano. The vineyard has been producing wine and olive oil since the 14th century. On the eastern edge of the estate, is [Al Magrini](https://dri.es/album/tuscany-2016/al-magrini-farmhouse-1), a Tuscan farmhouse surrounded by vines and olive trees.
 
@@ -39,9 +41,9 @@ While it was full of natural beauty, it was also very simple. We quickly realize
 
 We had dinner in a great little restaurant in the middle of nowhere. We ate some local, traditional food called "tordelli lucchesi". Nearly every restaurant in Lucca serves a version of this traditional Lucchesan dish. Tordelli look like ravioli, but that is where the resemblance ends. The filling is savory rather than cheesy, and the cinnamon- and sage-infused ragù with which the tordelli are served is distinctly Tuscan. The food was exceptional.
 
-### Day 2
+## Day 2
 
-[image tuscany-2016/swimming-pool-2]
+![Two children wearing snorkel masks sit back-to-back on a green inflatable float in a swimming pool.](http://default/files/cache/tuscany-2016/swimming-pool-2-640w.jpg)
 
 We were woken up by loud screaming from Stan: "Axl got hurt! He fell out of the window!". Our hearts skipped several beats because the bedrooms were on the second floor and we told them they couldn't go downstairs in the morning.
 
@@ -55,9 +57,9 @@ In the late afternoon, we had [snacks and prosecco](https://dri.es/album/tuscany
 
 Vanessa did our first load of laundry which needed to dry in the sun. The clothes were a little crunchy, but there was something fulfilling about the simplicity of it.
 
-### Day 3
+## Day 3
 
-[image tuscany-2016/hike-up-the-hill-3]
+![Two children walk up a dry, grassy hill while an adult follows closely behind.](http://default/files/cache/tuscany-2016/hike-up-the-hill-3-640w.jpg)
 
 In good tradition, I made coffee in the morning. As I head downstairs [the morning light](https://dri.es/album/tuscany-2016/shadows-mug) peeks through all the cracks of the house, and highlights the old brick and stone walls. The coffee machine is charmingly old school. We had to wait 20 minutes or so for the whole pot to brew.
 
@@ -75,9 +77,9 @@ We really felt we're all connecting. We even had an [outdoor dance party](https:
 
 Every evening we would shower to wash off the bug spray, because mosquitoes were everywhere. When it was finally my time to shower, we ran out of water – just when I was all soaped up. Fortunately, we had a bottle of Evian that I could use to rinse off (just like the Kardashians).
 
-### Day 4
+## Day 4
 
-[image tuscany-2016/italian-house]
+![A rustic Italian building with green wooden shutters, open windows, and a brick facade, viewed from below.](http://default/files/cache/tuscany-2016/italian-house-640w.jpg)
 
 We set the alarm for 7:30am so we could head to Lucca, a small city 30 minutes from our house – 15 minutes of that is spent getting out of the vineyard and mountain trails. We were so glad we rented "Renny", our 4x4 Jeep Renegade, as there are no real paved roads in the vineyard.
 
@@ -87,17 +89,17 @@ When we got back from Lucca, we fired up the grill and drank our daily bottle of
 
 Axl and Stan enjoyed the yard. When they weren't playing soccer or hunting for salamanders, they played [ninjas using broomsticks](https://dri.es/album/tuscany-2016/poison-ivy-and-bamboo-sham). Axl was "Poison Ivy" and Stan was "Bamboo Sham". Apparently, they each have special moves that they can use once every battle.
 
-### Day 5
+## Day 5
 
-[image tuscany-2016/wine-tasting-fattoria-di-fubbiano-8]
+![Close-up of ripe purple grapes hanging from a vine, surrounded by green leaves in a vineyard.](http://default/files/cache/tuscany-2016/wine-tasting-fattoria-di-fubbiano-8-640w.jpg)
 
 Today we went wine tasting at our vineyard, [Fattoria di Fubbiano](https://dri.es/album/tuscany-2016/wine-tasting-fattoria-di-fubbiano-1), and got [a tour of the cellar](https://dri.es/album/tuscany-2016/wine-tasting-fattoria-di-fubbiano-2). It was great that the tour was in "inglese". We learned that they manage 45 hectares and produce 100,000 bottle of wine annually. We bought 21 of them and shipped them home so there is only 99,979 left. The best part? We could walk home afterwards. :)
 
 Our charcoal reserves are running low; a sign of a great vacation.
 
-### Day 6
+## Day 6
 
-[image tuscany-2016/funicular-montecatini-alto-4]
+![A red funicular railway car travels up a hillside surrounded by green vegetation near Montecatini Alto, Italy.](http://default/files/cache/tuscany-2016/funicular-montecatini-alto-4-640w.jpg)
 
 We visited Montecatini Alto, about a 40 minute drive from our house. To get to Montecatini Alto, we took [a funicular built in 1898](https://dri.es/album/tuscany-2016/funicular-montecatini-alto-1). They claim it is the oldest working cable car in the world. I believe them.
 
@@ -111,15 +113,15 @@ When we got back to our vineyard, [we spotted wild horses](https://dri.es/album/
 
 In the evening we had dinner in a nearby family restaurant called "Da Mi Pa". The boys had tordelli lucchesi and then tiramisu for dessert. Chances are slim but I hope that they will remember those family dinners. They talked about the things that are most important in life, as well as their passions (computer programming for Axl and soccer for Stan). The conversations were so fulfilling and a highlight of the vacation.
 
-### Day 7
+## Day 7
 
-[image tuscany-2016/leaning-tower-of-pisa-1]
+![The Leaning Tower of Pisa stands at an angle beside a historic cathedral, with tourists walking nearby.](http://default/files/cache/tuscany-2016/leaning-tower-of-pisa-1-640w.jpg)
 
 Spontaneous last minute decision on what to do today. We came up with a list of things to do and Axl came up with a voting system. We decided to visit the [Leaning Tower of Pisa](https://dri.es/album/tuscany-2016/leaning-tower-of-pisa-1). We were all surprised how much the tower actually leans and of course we did the goofy photos to prove we were there. These won't be published.
 
-### Day 8
+## Day 8
 
-[image tuscany-2016/ponte-vecchio-florence]
+![The Ponte Vecchio in Florence, a historic bridge with shops, spans the Arno River under a partly cloudy sky.](http://default/files/cache/tuscany-2016/ponte-vecchio-florence-640w.jpg)
 
 Last day of the vacation. We're all a bit sad to go home. The longer we stay, the happier we get. Happier not because of where we were, but about how we connected.
 

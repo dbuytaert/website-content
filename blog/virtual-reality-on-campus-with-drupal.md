@@ -24,11 +24,11 @@ At [Acquia Labs](https://dri.es/think-beyond-with-acquia-labs), we wanted to rem
 
 The demo video below features a high school student, Jordan, who is interested in learning more about Massachusetts State University (a fictional university). From the comfort of his couch, Jordan is able to take a virtual tour directly from the university's website. After placing his phone in a VR headset, Jordan can move around the university campus, explore buildings, and view program resources, videos, and pictures within the context of his tour.
 
-[video jX4mFkp9vXg]
+https://www.youtube.com/watch?v=jX4mFkp9vXg
 
 All of the content and media featured in the VR tour is stored in the Massachusetts State University's Drupal site. Site administrators can upload media and position hotspots directly from within Drupal backend. The React frontend pulls in information from Drupal using JSON API. In the video below, Chris Hamper (Acquia) further explains how the decoupled React VR application takes advantage of new functionality available in Drupal 8.
 
-[video t_5ZaC8YQ_8]
+https://www.youtube.com/watch?v=t_5ZaC8YQ_8
 
 It's exciting to see how Drupal's power and flexibility can be used beyond traditional web pages. If you are interesting in working with Acquia on virtual reality applications, don't hesitate to [contact the Acquia Labs team](https://www.acquia.com/resources/acquia-labs).
 

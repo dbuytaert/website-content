@@ -18,4 +18,5 @@ id: 791
 
 The demand for Drupal talent continues to exceed the supply! What will we do about it?
 
-[image drupal/job-trends-july-2009]
+![Job trends graph showing Drupal, Joomla, and WordPress job growth from 2005 to 2009, with Drupal leading significantly.](http://default/files/images/drupal/job-trends-july-2009.jpg)
+*Source: <a href="http://www.indeed.com/jobtrends?q=drupal,joomla,wordpress&l=&relative=1">Indeed.com</a>.*

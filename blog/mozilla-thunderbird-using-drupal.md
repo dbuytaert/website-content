@@ -20,4 +20,4 @@ id: 531
 
 Mozilla launched [spreadthunderbird.com](http://spreadthunderbird.com) this week. Spread Thunderbird is the volunteer-run Thunderbird advocacy site where community marketing activities are organized to raise awareness and to promote the adoption of [Thunderbird](https://www.thunderbird.net/), Mozilla's Open Source e-mail application. The Spread Thunderbird site is powered by [Drupal](https://www.drupal.org) and uses the [Acquia Marina theme](https://www.drupal.org/project/acquia_marina). They are also using [Mollom](https://mollom.com) to protect their site against spam. Hopefully the site will be as big a success as [spreadfirefox.com](http://www.spreadfirefox.com), which has been a Drupal site for many years.
 
-[image drupal/spread-thunderbird]
+![A webpage promoting the Spread Thunderbird campaign, featuring login fields, navigation links, and a Thunderbird button for affiliates.](http://default/files/cache/drupal/spread-thunderbird-640w.jpg)

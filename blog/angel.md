@@ -17,4 +17,6 @@ id: 39
 
 # Angel
 
+![A carved angel ornament with a smiling face and wings inside the Duomo di Siena.](http://default/files/cache/tuscany-2006/siena-dome-angel-640w.jpg)
+
 

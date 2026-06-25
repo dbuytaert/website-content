@@ -25,4 +25,4 @@ The [Stand Up Against Poverty site](https://www.standagainstpoverty.org/) was de
 
 It is great to help make a product that many people like, but it is even better when that product helps improve the world a little bit!
 
-[image drupal/stand-against-poverty]
+![A campaign webpage reports over 116 million people participated in the 2008 "Stand Up Take Action" event against poverty.](http://default/files/cache/drupal/stand-against-poverty-640w.jpg)

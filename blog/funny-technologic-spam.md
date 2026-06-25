@@ -18,4 +18,4 @@ id: 345
 
 Gregory Lienard from [Technologic.be](http://technologic.be) sent me unsolicited e-mail trying to sell me their [iPower content management system](https://www.ipower.be/). *Funny!*
 
-[image drupal/technologic-be-spam resize=false]
+![An email with the "Technologic" logo promoting a website management tool, featuring a clickable link for more information.](http://default/files/images/drupal/technologic-be-spam.jpg)

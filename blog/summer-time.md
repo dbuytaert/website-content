@@ -16,4 +16,6 @@ id: 95
 
 # Summer time
 
+![An open Coca-Cola can sits on the grass, surrounded by green blades in bright sunlight.](http://default/files/cache/miscellaneous-2006/summer-time-640w.jpg)
+
 

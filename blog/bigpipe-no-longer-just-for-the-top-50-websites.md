@@ -22,7 +22,7 @@ I discussed BigPipe on my blog before: first when I wrote about [making Drupal 8
 
 When a very high-profile, very high-traffic, highly personalized site like LinkedIn uses the same technique as Drupal 8, that solidifies my belief in Drupal 8.
 
-[video JwzX0Qv6u3A]
+https://www.youtube.com/watch?v=JwzX0Qv6u3A
 
 LinkedIn [supports both server-side and client-side rendering](https://github.com/brikis98/ping-play#client-side-vs-server-side-rendering). While Drupal 8 does server-side rendering, we're still missing explicit support for client-side rendering. The advantage of client-side rendering versus server-side rendering is debatable. I've touched upon it in my blog post on [progressive decoupling](https://dri.es/the-future-of-decoupled-drupal), but I'll address the topic of client-side rendering in a future blog post.
 

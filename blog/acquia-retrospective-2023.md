@@ -23,11 +23,13 @@ id: 5546
 
 # Acquia retrospective 2023
 
+![A slide titled "The Open DXP" detailing its four core principles: integrations that support customization without vendor lock-in, empowerment for user-driven development, accessibility for all backgrounds and abilities, and a focus on safety with security and compliance.](http://default/files/cache/acquia/open-dxp-2023-640w.png)
+
 At the beginning of every year, I publish a retrospective that looks back at the previous year at [Acquia](https://www.acquia.com/). I also discuss the changing dynamics in our industry, focusing on Content Management Systems (CMS) and Digital Experience Platforms (DXP).
 
 If you'd like, you can read all of my retrospectives for the past 15 years: [2022](https://dri.es/acquia-retrospective-2022), [2021](https://dri.es/acquia-retrospective-2021), [2020](https://dri.es/acquia-retrospective-2020), [2019](https://dri.es/acquia-retrospective-2019), [2018](https://dri.es/acquia-retrospective-2018), [2017](https://dri.es/acquia-retrospective-2017), [2016](https://dri.es/acquia-retrospective-2016), [2015](https://dri.es/acquia-retrospective-2015), [2014](https://dri.es/acquia-retrospective-2014), [2013](https://dri.es/acquia-retrospective-2013), [2012](https://dri.es/acquia-retrospective-2012), [2011](https://dri.es/acquia-retrospective-2011), [2010](https://dri.es/acquia-retrospective-2010), [2009](https://dri.es/acquia-retrospective-2009).
 
-### Resilience and growth amid market turbulence
+## Resilience and growth amid market turbulence
 
 At the beginning of 2023, interest rates were 4.5%. Technology companies, investors, and PE firms were optimistic, anticipating modest growth. However, as inflation persisted and central banks raised rates more than expected, this optimism dwindled.
 
@@ -39,9 +41,9 @@ One of our main objectives for 2023 was to expand our platform through M&amp;A. 
 
 In November, we announced [Acquia's plan to acquire Monsido](https://dri.es/acquia-to-acquire-monsido), a platform for improving website accessibility, content quality, SEO, privacy, and performance. The acquisition closed last Friday. I'm excited about expanding the value we offer to our customers and look forward to welcoming Monsido's employees to Acquia.
 
-### Working towards a safer, responsible and inclusive digital future
+## Working towards a safer, responsible and inclusive digital future
 
-[image acquia/market-trends-2023]
+![Image with panels showcasing various digital trends: one emphasizes inclusivity with a woman in a wheelchair at a workstation, and another shows a man interacting with an AI robot, illustrating human-AI collaboration.](http://default/files/cache/acquia/market-trends-2023-640w.jpg)
 
 Looking ahead to 2024, I anticipate these to be the dominant trends in the CMS and DXP markets:
 
@@ -66,7 +68,7 @@ It also means that more content may transition into secure areas such as newslet
 
 All this bodes well for CMSes, Customer Data Platforms (CDPs), personalization software, Account-Based Marketing (ABM), etc. By utilizing these platforms, marketing teams can better engage with individuals and offer more meaningful experiences. Acquia is well-positioned based on these trends.
 
-### Reaffirming our DXP strategy, with a focus on openness
+## Reaffirming our DXP strategy, with a focus on openness
 
 On a personal front, my title expanded from CTO to CTO &amp; Chief Strategy Officer. Since Acquia's inception, I've always played a key role in shaping both our technology and business strategies. This title change reflects my ongoing responsibilities.
 
@@ -81,7 +83,8 @@ Being "Open" means we actively promote integrations with third-party vendors. Wh
 However, our definition of "Open" extends far beyond mere integrations. It's also about creating an inclusive environment where everyone is empowered to participate and contribute to meaningful digital experiences in a safe and secure manner. Our updated strategy, while still focused on the DXP ecosystem, champions empowerment, inclusivity, accessibility, and safety.
 
 <div class="large">
-  [image acquia/open-dxp-2023 resize=false]
+  ![A slide titled "The Open DXP" detailing its four core principles: integrations that support customization without vendor lock-in, empowerment for user-driven development, accessibility for all backgrounds and abilities, and a focus on safety with security and compliance.](http://default/files/cache/acquia/open-dxp-2023-640w.png)
+*A slide from our strategy presentation, summarizing our definition of an Open DXP. The definition is the cornerstone of Acquia's "Why"-statement.*
 </div>
 
 People who have followed me for a while know that I've long advocated for an [Open Web](https://dri.es/tag/open-web), promoting inclusivity, accessibility, and safety. It's inspiring to see Acquia fully embrace these principles, a move I hope will inspire not just me, but our employees, customers, and partners too. It's not just a strategy; it's a reflection of our core values.
@@ -94,22 +97,24 @@ Needless to say, our strategy update is about much more than a commitment to ope
 - **Expanding partnerships, empowering co-creation:** Our partnership program is well-established with [Drupal](https://www.drupal.org/), and we're actively expanding partnerships for Digital Asset Management (DAM), CDP, and marketing automation. We aim to go beyond a standard partner program by engaging more deeply in co-creation with our partners, similar to what we do in the Open Source community. The goal is to foster an open ecosystem where everyone can contribute to developing customer solutions, embodying our commitment to empowerment and collaboration. We've already launched a marketplace in 2023, [Acquia Exchange](https://www.acquia.com/integrations), featuring more than 100 co-created solutions, with the goal of expanding to 500 by the end of 2024.
 - **Be an AI-fueled organization:** In 2023, we launched numerous AI features and we anticipate introducing even more in 2024. Acquia already adheres to [responsible AI principles](https://www.acquia.com/solutions/ai#ai-statement). This aligns with our definition of "Open", emphasizing accountability and safety for the AI systems we develop. We want to continue to be a leader in this space.
 
-### Stronger together
+## Stronger together
 
 We've always been very focused on our greatest asset: our people. This year, we welcomed exceptional talent across the organization, including two key additions to our Executive Leadership Team (ELT): [Tarang Patel](https://www.linkedin.com/in/tarangdpatel/), leading Corporate Development, and [Jennifer Griffin Smith](https://www.linkedin.com/in/jennifergriffinsmith/), our Chief Market Officer. Their expertise has already made a significant impact.
 
 <div class="large">
-  [image acquia/best-places-to-work-2023 resize=false]
+  ![Eight logos in a row with different '2023 Best Places to Work' awards.](http://default/files/cache/acquia/best-places-to-work-2023-640w.png)
+*Eight awards for "Best Places to Work 2023" in various categories such as IT, mid-size workplaces, female-friendly environments, wellbeing, and appeal for millennials, across India, the UK, and the USA.*
 </div>
 
 In 2023, we dedicated ourselves to redefining and enhancing the Acquia employee experience, committing daily to its principles through all our programs. This focus, along with our strong emphasis on diversity, equity, and inclusion (DEI), has cultivated a culture of exceptional productivity and collaboration. As a result, we've seen not just record-high employee retention rates but also remarkable employee satisfaction and engagement. Our efforts have earned us various prestigious "Best Place to Work" awards.
 
-### Customer-centric excellence, growth, and renewals
+## Customer-centric excellence, growth, and renewals
 
 Our commitment to delivering great customer experiences is evident in the awards and recognition we received, many of which are influenced by customer feedback. These accolades include recognition on platforms like [TrustRadius](https://www.trustradius.com/) and [G2](https://www.g2.com/), as well as the prestigious [2023 CODiE Award](https://siia.net/codie/).
 
 <div class="large">
-  [image acquia/customer-ratings-2023 resize=false]
+  ![A list of 32 awards across various products for 2023, including 'Leader' and 'High Performer' from G2, 'Best Of,' 'Best Feature Set,' 'Best Value for Price,' and 'Best Relationship' from TrustRadius, and the '2023 SIIA CODiE Winner' recognition, all highlighting top customer ratings.](http://default/files/cache/acquia/customer-ratings-2023-640w.png)
+*Acquia received 32 awards for leadership in various categories across its products.*
 </div>
 
 As mentioned earlier, we delivered consistently excellent, and historically high, renewal rates throughout 2023. It means our customers are voting with their feet (and wallets) to stay with Acquia.
@@ -127,7 +132,7 @@ Many of the notable customer stories for 2023 came from some of the world's most
 
 I'm proud of outcomes like this: it show how valuable our DXP is to our customers.
 
-### Product innovation
+## Product innovation
 
 In 2023, we remained focused on solving problems for our current and future customers. We use both quantitative and qualitative data to assess areas of opportunities and run hypothesis-driven experiments with design prototypes, hackathons, and proofs-of-concept. This approach has led to hundreds of improvements across our products, both by our development teams and through partnerships. Below are some key innovations that have transformed the way our customers operate:
 
@@ -144,7 +149,7 @@ In 2023, we remained focused on solving problems for our current and future cust
 - With the acquisition of [Monsido](https://monsido.com/) and new partnerships with [VWO](https://vwo.com/) (tools for optimizing website engagement and conversions) and [Conductor](https://www.conductor.com/) (SEO platform), Acquia DXP now offers an unparalleled suite of tools for experience optimization. Acquia already provided the best tools to build, manage and operate websites. With these additions, Acquia DXP also offers the best solution for experience optimization.
 - Acquia also launched [Acquia TV](https://www.acquia.com/tv), a one-stop destination for all things digital experience. It features video podcasts, event highlights, product breakdowns, and other content from a diverse collection of industry voices. This is a great example of how we use our own technology to connect more powerfully with our audiences. It's something our customers strive to do everyday.
 
-### Conclusion
+## Conclusion
 
 In spite of the economic uncertainties of 2023, Acquia had a remarkable year. We achieved our objectives, overcame challenges, and delivered outstanding results. I'm grateful to be in the position that we are in.
 

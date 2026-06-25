@@ -19,4 +19,4 @@ id: 1201
 
 The legendary singer, guitarist, songwriter and composer [Eric Clapton](http://www.ericclapton.com) is using Drupal for his website <http://www.ericclapton.com>.
 
-[image drupal/eric-clapton]
+![A website featuring Eric Clapton with a black-and-white image of him playing guitar and news about his music.](http://default/files/cache/drupal/eric-clapton-640w.jpg)

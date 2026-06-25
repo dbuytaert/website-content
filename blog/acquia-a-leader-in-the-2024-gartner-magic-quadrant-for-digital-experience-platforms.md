@@ -20,6 +20,8 @@ id: 5571
 
 # Acquia a Leader in the 2024 Gartner Magic Quadrant for Digital Experience Platforms
 
+![A graph showing the state of the Digital Experience Platforms in 2024. Vendors are plotted on a grid based on their ability to execute and completeness of vision. Acquia is placed in the 'Leaders' quadrant, indicating strong performance in both vision and execution.](http://default/files/cache/acquia/gartner-magic-quadrant-for-digital-experience-platforms-2024-640w.png)
+
 For the fifth year in a row, [Acquia](https://www.acquia.com/) has been named a *Leader* in the [Gartner Magic Quadrant for Digital Experience Platforms (DXP)](https://www.acquia.com/resources/report/gartner-dxp-magic-quadrant).
 
 Acquia received this recognition from [Gartner](https://www.gartner.com/) based on both the completeness of product vision and ability to execute.

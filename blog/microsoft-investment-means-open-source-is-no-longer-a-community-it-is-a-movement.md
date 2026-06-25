@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/microsoft-investment-means-open-source-is-no-longer-a-community-it-is-a-movement'
-title: "Microsoft's investment means Open Source is no longer a community, it is a movement "
+title: "Microsoft's investment means Open Source is no longer a community, it is a movement"
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -14,7 +14,7 @@ published: true
 id: 2686
 ---
 
-# Microsoft's investment means Open Source is no longer a community, it is a movement 
+# Microsoft's investment means Open Source is no longer a community, it is a movement
 
 For many years now, developers around the world have celebrated and promoted the numerous benefits that open source has to offer IT and business communities. Despite the flare for technology innovation and bringing new offerings to market, the real value of the open source community is the culture of the people that represent it. A shared ethos, coupled with a collaborative working model and mutual respect has delivered and will continue to deliver cutting edge software offerings that are increasingly competing with traditional proprietary vendors.
 

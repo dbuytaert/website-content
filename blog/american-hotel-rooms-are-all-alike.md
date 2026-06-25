@@ -17,4 +17,6 @@ id: 27
 
 # American hotel rooms are all alike
 
+![A Holy Bible placed inside a wooden hotel nightstand drawer.](http://default/files/cache/vancouver-2006/holy-bible-640w.jpg)
+
 

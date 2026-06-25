@@ -18,4 +18,5 @@ id: 142
 
 Between June 15th and July 15th, [SitePoint](https://www.sitepoint.com/) and [Ektron](http://www.ektron.com/) conducted a survey about the state of web development. In total 5,000 web professionals took the survey and the [results are made available in a yearly report](https://www.sitepoint.com/report2006/). One of the questions was: *for your web projects, what is the primary type of web content management system (CMS) you use?*
 
-[image drupal/sitepoint-cms-usage resize=false]
+![Pie chart showing CMS usage: 37% homegrown, 28% none, 24% open source, and 11% commercial.](http://default/files/images/drupal/sitepoint-cms-usage.jpg)
+*Source: 2006 State of Web Development, SitePoint Pty Ltd. and Ektron, Inc., August 2006.*

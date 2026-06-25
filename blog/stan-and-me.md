@@ -18,4 +18,6 @@ id: 672
 
 # Stan and me
 
+![A tired-looking man sits on a couch, holding a newborn baby resting on his chest.](http://default/files/images/stan-2009/stan-and-dries-2.jpg)
+
 

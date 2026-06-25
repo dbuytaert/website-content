@@ -18,4 +18,4 @@ id: 3711
 
 The Gotthard Base Tunnel, under construction for the last 17 years, was officially opened last week. This is the world's longest and deepest railroad tunnel, spanning 57 kilometers from Erstfeld to Bolio, Switzerland, underneath the Swiss Alps. To celebrate its opening, Switzerland also launched [a multi-lingual multimedia website](http://www.gottardo2016.ch/en) to celebrate the project's completion. I was excited to see they chose to build their site on Drupal 8! The site is a fitting digital tribute to an incredible project and launch event. Congratulations to the Gotthard Base Tunnel team!
 
-[image drupal/gottardo]
+![A worker in an orange uniform stands in front of a large tunnel boring machine with Swiss tunnel promotion text.](http://default/files/cache/drupal/gottardo-640w.jpg)

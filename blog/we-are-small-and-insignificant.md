@@ -24,4 +24,5 @@ In other words, you better believe there are aliens out there.
 
 Or as Douglas Adams put it in The Hitchhiker's Guide to the Galaxy: <q>Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it is. I mean, you may think it is a long way down the road to the chemist's, but that is just peanuts to space.</q>
 
-[image blog/space resize=false]
+![Space](http://default/files/cache/blog/space-640w.jpg)
+*View <a href="https://dri.es/files/images/blog/space.jpg">large version</a>. &copy; unknown.*

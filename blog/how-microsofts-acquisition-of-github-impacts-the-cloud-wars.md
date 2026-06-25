@@ -20,6 +20,8 @@ id: 4406
 
 # How Microsoft's acquisition of GitHub impacts the cloud wars
 
+![Microsoft acquires GitHub](http://default/files/cache/blog/microsoft-acquires-github-640w.jpg)
+
 Today, [Microsoft announced it is buying GitHub in a deal that will be worth $7.5 billion](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/). GitHub hosts 80 million source code repositories, and is used by almost 30 million [software developers](https://youtu.be/Vhh_GeBPOhs) around the world. It is one of the most important tools used by software organizations today.
 
 As [the leading cloud infrastructure platforms](https://dri.es/unlike-marketing-efforts-capex-does-not-lie) – Amazon, Google, Microsoft, etc – mature, they will likely become functionally equivalent for the vast majority of use cases. In the future, it won't really matter whether you use Amazon, Google or Microsoft to deploy most applications. When that happens, platform differentiators will shift from functional capabilities, such as multi-region databases or serverless application support, to an increased emphasis on ease of use, the out-of-the-box experience, price, and performance.

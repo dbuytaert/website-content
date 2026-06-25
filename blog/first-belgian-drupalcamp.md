@@ -19,6 +19,7 @@ id: 691
 
 Next weekend, on Saturday June 27, the French-speaking Drupal community in Belgium is organizing Belgium's very first DrupalCamp. The event takes place in Louvain-la-Neuve which makes it pretty accessible for both Dutch and French-speaking Belgians. Details are available on <http://drupalfr.be>. Due to the work of [Gilles Bailleux](https://bailleux.be/), the event got some great press in this weekend's edition of the Belgian newspaper, La Libre Belgique. Both a screenshot and a PDF are provided below.
 
-[image drupal/la-libre-belgique-2009 resize=false]
+![Newspaper article about Drupal, highlighting its free and open-source nature, with Gilles Bailleux organizing a discovery event.](http://default/files/cache/drupal/la-libre-belgique-2009-640w.jpg)
+*&copy; La Libre Belgique. <a href="https://dri.es/files/la-libre-belgique-2009.pdf">Download PDF version</a>.*
 
 It's always great to meet Drupal people, so I currently plan to go to [Utrecht on Friday](https://dri.es/drupal-7-usability-code-sprint-in-the-netherlands), to Louvain-la-Neuve on Saturday, and back to Utrecht on Sunday to help with the [Drupal 7 usability code sprint](https://dri.es/drupal-7-usability-code-sprint-in-the-netherlands). It's just great to see so many community events being organized – we've gotten to a point where there are often Drupal events happening at the same time in different places in the world.

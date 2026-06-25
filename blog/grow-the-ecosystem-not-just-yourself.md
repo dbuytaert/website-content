@@ -20,6 +20,8 @@ id: 6196
 
 # Grow the ecosystem, not just yourself
 
+![Two figures with walking sticks stand at the entrance of a glowing cave, looking toward a bright path ahead.](http://default/files/cache/blog/threshold-together-640w.jpg)
+
 In Open Source software, competition works differently than in proprietary software. 
 
 Companies compete through their own products and services, but they all depend on the same commons: the software, the community, the project's reputation, and the shared work that helps people trust and adopt it.
@@ -28,7 +30,7 @@ That shared foundation creates a different kind of responsibility: sharing a com
 
 The Open Source companies I admire most show up in two ways. They compete on the merits of their own products: features, support, and price. And they help sustain the commons: through code, documentation, security, marketing, events, education, sponsorships, and more.
 
-### Judge companies by what they do
+## Judge companies by what they do
 
 Over the past year, Pantheon, one of Acquia's competitors in the Drupal market, has focused much of its messaging on attacking Acquia, including making our private equity ownership part of its story.
 
@@ -40,7 +42,7 @@ Customers don't choose a platform because of an ownership model. They choose it 
 
 Customers, partners, community members, and end users are not helped by vendor attacks. They are helped when companies build better products, contribute to Drupal, and help more people adopt it.
 
-### License permits, stewardship grows
+## License permits, stewardship grows
 
 For an Open Source company, the test is not only what they build for themselves. It is what they help build for everyone.
 
@@ -52,7 +54,7 @@ Stewardship is what companies choose to do beyond the license: contribute code, 
 
 Drupal thrives because people and organizations honor the social contract and choose to do more than the license requires.
 
-### Contribution is one measure of stewardship
+## Contribution is one measure of stewardship
 
 Drupal.org credit is one public signal of that commitment. Acquia is the largest single corporate contributor to Drupal, but the wider community contributes far more than any one company.
 
@@ -62,7 +64,7 @@ These contributions are good for Acquia, for Drupal, and for every organization 
 
 In the same period, Pantheon earned 243 weighted issue credits, plus 2 security credits. Credits don't capture every form of contribution, and Pantheon contributes in other ways too. Even so, the gap is substantial.
 
-### What we let pass becomes the social contract
+## What we let pass becomes the social contract
 
 I don't usually write publicly about competitors. It's not how I want to spend my voice.
 
@@ -78,7 +80,7 @@ I'm not writing this believing it will change anyone's marketing and sales tacti
 
 Communities like ours evolve their social contract through moments like this, when we say in public what we expect of each other. If this post contributes to a healthier social contract taking hold, I'm happy.
 
-### Compete on merit, but grow the commons
+## Compete on merit, but grow the commons
 
 Every company that builds on Drupal depends on the same commons. Every company has a choice about whether to help sustain it, and how much. Drupal gets stronger when more of us invest in it.
 

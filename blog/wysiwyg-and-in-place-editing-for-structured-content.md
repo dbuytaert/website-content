@@ -15,7 +15,7 @@ id: 2961
 
 # WYSIWYG and in-place editing for structured content
 
-Karen McGrane gave a great keynote at DrupalCon Portland on [future-friendly content with Drupal](http://karenmcgrane.com/2013/05/23/drupalcon-keynote-video-and-talk-notes/). It's worth watching the [video recording](http://karenmcgrane.com/2013/05/23/drupalcon-keynote-video-and-talk-notes/). I agree with Karen's vision for the future. With the proliferation of different devices, screen sizes and input devices, there is a growing need for structured content that can be reused in multiple channels.
+Karen McGrane gave a great keynote at DrupalCon Portland on [future-friendly content with Drupal](http://karenmcgrane.com/2013/05/23/drupalcon-keynote-video-and-talk-notes/). It's worth watching the https://www.youtube.com/watch?v=recording(http://karenmcgrane.com/2013/05/23/drupalcon-keynote-video-and-talk-notes/). I agree with Karen's vision for the future. With the proliferation of different devices, screen sizes and input devices, there is a growing need for structured content that can be reused in multiple channels.
 
 From the early days, Drupal has been doing structured content and content reuse better than most competitors. Drupal's node system was introduced in Drupal 3 in 2001, and was ahead of its time compared to the "page tree"-model used by most competitors. With every release, Drupal has gotten better and better at structured content and content reuse, leading to things like CCK and Views in core. Still to date, Drupal is one of the leaders in modeling structured content and content reuse. It is is one of the primary reasons we've seen so much growth. It was great to see that recognized by Karen.
 

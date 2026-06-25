@@ -20,7 +20,7 @@ I'd like to discuss some observations the technology analysis company [Gartner G
 
 The [Gartner](https://www.gartner.com/technology/research/methodologies/hype-cycle.jsp) [hype cycle](https://en.wikipedia.org/wiki/Hype_cycle) is a model that posits five market stages for all emerging technologies. It looks like this:
 
-[image drupal/development-cycle-1 resize=false]
+![A graph showing the development cycle with stages: Technology Trigger, Peak of Expectations, Disillusionment, Enlightenment, and Productivity.](http://default/files/images/drupal/development-cycle-1.jpg)
 
 Here is how I think the hype cycle's stages played out for Drupal 7's development cycle.
 

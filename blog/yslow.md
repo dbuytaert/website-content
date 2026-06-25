@@ -24,7 +24,8 @@ Yahoo! released [YSlow](https://developer.yahoo.com/yslow/), a [Firefox](https:/
 
 YSlow analyzes the front-end performance of your website and tells you why it might be slow. For each component of a page (images, scripts, stylesheets) it checks its size, whether it was gzipped, the *Expires*-header, the *ETag*-header, etc. YSlow takes all this information into account and computes a performance grade for the page you are analyzing.
 
-[image drupal/yslow resize=false]
+![A YSlow performance report for Drupal.](http://default/files/images/drupal/yslow.jpg)
+*The current <a href="http://developer.yahoo.com/yslow/">YSlow</a> score for the <a href="http://drupal.org">drupal.org front page</a> is 74 \(C\). YSlow suggests that we reduce the number of CSS background images using <a href="http://alistapart.com/articles/sprites">CSS sprites</a>, that we use a Content Delivery Network \(CDN\) like <a href="http://akamai.com">Akamai</a> for delivering static files, and identifies an Apache configuration issue that affects the <em>Entity Tags</em> or <em>ETags</em> of static files. The problem is that, by default, Apache constructs ETags using attributes that make them unique to a specific server. A stock Apache embeds <em>inode numbers</em> in the ETag which dramatically reduces the odds of the validity test succeeding on web sites with multiple servers; the ETags won't match when a browser gets the original component from server A and later tries to validate that component on server B.*
 
 Here are some other YSlow scores (higher is better):
 

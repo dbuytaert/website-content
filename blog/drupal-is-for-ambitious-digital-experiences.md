@@ -21,7 +21,7 @@ What feelings does the name Drupal evoke? Perceptions vary from person to person
 
 If you ask different people what Drupal is for, you'll get many different answers. This isn't a surprise because over the years, the answers to this fundamental question have evolved. Drupal started as a tool for hobbyists building community websites, but over time it has evolved to support large and sophisticated use cases.
 
-### Perception is everything
+## Perception is everything
 
 Perception is everything; it sets expectations and guides actions and inactions. We need to better communicate Drupal's identity, demonstrate its true value, and manage its perceptions and misconceptions. Words do lead to actions. Spending the time to capture what Drupal is for could energize and empower people to make better decisions when adopting, building and marketing Drupal.
 
@@ -29,7 +29,7 @@ Truth be told, I've been reluctant to define what Drupal is for, as it requires 
 
 For example, because Drupal evolved from a simple tool for hobbyists to a more powerful digital experience platform, many people believe that Drupal is now "for the enterprise". While I agree that Drupal is a great fit for the enterprise, I personally never loved that categorization. It's not just large organizations that use Drupal. Individuals, small startups, universities, museums and non-profits can be equally ambitious in what they'd like to accomplish and Drupal can be an incredible solution for them.
 
-### Defining what Drupal is for
+## Defining what Drupal is for
 
 Rather than using "for the enterprise", I thought "for ambitious digital experiences" was a good phrase to describe what people can build using Drupal. I say "digital experiences" because I don't want to confine this definition to traditional browser-based websites. As I've stated in [my Drupalcon New Orleans keynote](https://dri.es/state-of-drupal-presentation-may-2016), Drupal is used to power mobile applications, digital kiosks, [conversational user experiences](https://dri.es/cross-channel-user-experiences-with-drupal), and more. Today I really wanted to focus on the word "ambitious".
 

@@ -20,7 +20,7 @@ When I started working on [Drupal](https://www.drupal.org/) in my college dormit
 
 I co-founded [Acquia](https://www.acquia.com/) six years ago to support the growing number of organizations that rely on Drupal, and also co-founded [Mollom](https://mollom.com) to solve the spam moderation challenges for website owners. Six years later, Mollom was acquired, and Acquia has almost 400 employees. As I've encountered challenges every step of the way. Here are three lessons learned.
 
-### 1. Think big
+## 1. Think big
 
 So often I meet entrepreneurs who are working on a startup concept. They have a great idea and a business plan to bring it to market, but they're thinking too small about what they're trying to do.
 
@@ -28,7 +28,7 @@ I believe companies are most successful when they have a mission to change the w
 
 Being shortsighted can be a big barrier to success, because you can easily miss the window to capitalize on an opportunity. It's why I founded Acquia in the United States; I immediately had access to a larger market. We moved quickly to be a global company to maximize our opportunity, and it's made all the difference.
 
-### 2. Fail fast
+## 2. Fail fast
 
 "Fail fast, succeed faster" is a philosophy that's been adopted across the company at Acquia. It's perhaps counter intuitive, but the idea is that in building a startup, you're going to fail. There will be problems, and the faster you run into them, the faster you can learn, adjust, and grow.
 
@@ -36,7 +36,7 @@ Implied in the fail-fast philosophy is that you'll be open to failure, and that 
 
 In the initial business plan for Acquia, we expected to support a specific distribution of Drupal that we'd closely manage. Early prospects told us repeatedly it was a great strategy, yet when we took our offer to market, the buyers weren't there. We realized very fast that our business plan needed a big change, that we needed to support Drupal in whole. It was a terrifying proposition at that stage of our business, but we realized that was what the market needed most. We made the change, and it quickly put us on a successful course.
 
-### 3. Passion makes the difference
+## 3. Passion makes the difference
 
 I think some people get inspired to launch a startup because of its potential rewards, but launching a successful business starts with having a passion to solve a problem. I was passionate about building websites; it was my biggest hobby before it was ever a business opportunity.
 

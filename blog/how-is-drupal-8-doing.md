@@ -27,7 +27,7 @@ Drupal 8 is the middle of an [interesting point in its adoption cycle](https://d
 
 A few weeks ago I launched the [Drupal 2016 product survey](https://dri.es/state-of-drupal-2016-survey) to take pulse of the Drupal community. I plan to talk about the survey results in my DrupalCon keynote in New Orleans on May 10th but in light of this blog post I felt the results to one of the questions is worth sharing and commenting on sooner:
 
-[image drupal/survey-drupal-8-adoption resize=false]
+![Bar chart showing reasons for not migrating to Drupal 8, with most waiting for modules or themes \(60%\).](http://default/files/cache/drupal/survey-drupal-8-adoption-640w.jpg)
 
 Over 1,800 people have answered that question so far. People were allowed to pick up to 3 answers for the single question from a list of answers. As you can see in the graph, the top two reasons people say they haven't upgraded to Drupal 8 yet are (1) the fact that they are waiting for contributed modules to become available and (2) they are still learning Drupal 8. The results from the survey confirm what we see every release of Drupal; it takes time for the ecosystem, both the technology and the people, to come along.
 

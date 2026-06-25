@@ -20,6 +20,8 @@ id: 5966
 
 # Drupal Canvas 1.0 released
 
+![A futuristic illustration of bikers merged with a screenshot of the Drupal Canvas visual page builder interface.](http://default/files/cache/blog/drupal-canvas-1-released-640w.png)
+
 When we launched [Drupal CMS 1.0](https://dri.es/drupal-cms-1-released) eleven months ago, I posted the announcement on Reddit. Brave of me, I know. But I wanted non-Drupal people to actually try it.
 
 There were a lot of positive reactions, but there was also honest feedback. The most common? "Wake me up when your new experience builder is ready". The message was clear: make page building easier and editing more visual.
@@ -32,7 +34,7 @@ Today we released [Drupal Canvas 1.0](https://www.drupal.org/blog/drupal-canvas-
 
 Watch the video below. Better yet, show it to someone who thinks they know what Drupal looks like. I bet their first reaction will be: "Wait, is that Drupal?". That reaction is exactly what we have been working toward.  It makes Drupal feel more modern and less intimidating. 
 
-[video g60glSkADlM]
+https://www.youtube.com/watch?v=g60glSkADlM
 
 I also want to set expectations. Drupal Canvas 1.0 helps us catch up with other page builders more than it helps us leap ahead. We had to start there.
 

@@ -35,7 +35,7 @@ This is not an academic benchmark, and a single answer from a single agent shoul
 
 I plan to rerun the same prompt once a year. I'm publishing the full prompt and response so we can track how the answer changes as Drupal, large language models, agent harnesses, and competing platforms evolve.
 
-### The prompt
+## The prompt
 
 ```text
 You are an AI coding agent that helps users set up, configure,
@@ -67,7 +67,7 @@ honestly. Keep the full answer under 700 words.
    often when …"
 ```
 
-### The answer
+## The answer
 
 ```text
 Answering directly as an AI coding agent — no skill applies here,
@@ -148,7 +148,7 @@ interface — so we're reasoning about real state instead of guessing at
 YAML from stale training data.
 ```
 
-### My takeaways
+## My takeaways
 
 The agent saw Drupal's strengths, but it also saw too many ways to get stuck. What held Drupal back was not capability. It was what the agent called "session-time risk".
 

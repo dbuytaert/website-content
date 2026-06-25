@@ -16,7 +16,7 @@ id: 642
 
 # Playing for Change = amazing
 
-[video Us-TVg40ExM]
+https://www.youtube.com/watch?v=Us-TVg40ExM
 
 This video will bring a smile on your face.
 

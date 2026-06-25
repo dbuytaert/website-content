@@ -22,6 +22,8 @@ id: 5426
 
 # Artificial Intelligence, the future of Content Management and the Web
 
+![An artistic rendering of an endless amount of servers stretching into the horizon.](http://default/files/cache/blog/endless-server-power-640w.jpg)
+
 I recently bought a [Peloton bike](https://en.wikipedia.org/wiki/Peloton_Interactive) as a Christmas gift for my wife. The Peloton was for our house in Belgium. Because Peloton does not deliver to Belgium yet, I had to find a way to transport one from Germany to Belgium. It was a bit of a challenge as the bike is quite large, and I wasn't sure if it would fit in the back of our car.
 
 I tried measuring the trunk of my car, along with another Peloton. I wasn't positive if it would fit in the car. I tried Googling the answer but search engines aren't great at answering these types of questions today. Being both uncertain of the answer and too busy (okay, let's be real – lazy) to figure it out myself, I decided to ship the bike with a courier. When in doubt, outsource the problem.
@@ -30,13 +32,14 @@ To my surprise, when Microsoft [launched their Bing and ChatGPT integration](htt
 
 After watching the event, I asked ChatGPT, and it turns out the Peloton would have fit. That is, assuming we can trust the correctness of ChatGPT's answer.
 
-[image blog/chatgpt-peloton-in-volkswagen-california resize=false]
+![Chatgpt peloton in volkswagen california](http://default/files/cache/blog/chatgpt-peloton-in-volkswagen-california-640w.png)
+*A screenshot of ChatGPT answering the question: "Does a Peloton bike fit in the back of a Volkwsagen California T6.1?".*
 
 What is interesting about the Peloton example is that it combines data from multiple websites. Combining data from multiple sources is often more helpful than the traditional search method, where the user has to do the aggregating and combining of information on their own.
 
 Examples like this affirm my belief that AI tools are one of the next big leaps in the internet's progress.
 
-### AI disintermediates traditional search engines
+## AI disintermediates traditional search engines
 
 Since its commercial debut in the early 90s, the internet has repeatedly upset the established order by [slowly, but certainly, eliminating middlemen](https://dri.es/drupal-and-eliminating-middlemen). Book stores, photo shops, travel agents, stock brokers, bank tellers and music stores are just a few examples of the kinds of intermediaries who have already been disrupted by their online counterparts.
 
@@ -44,7 +47,7 @@ Since its commercial debut in the early 90s, the internet has repeatedly upset t
 
 Many people have talked about how AI could even destroy Google. Personally, I think that is overly dramatic. Google will have to change and transform itself, and it's been doing that for years now. In the end, I believe Google will be just fine. AI disintermediates traditional search engines, but search engines obviously won't go away.
 
-### The Big Reverse of the Web marches on
+## The Big Reverse of the Web marches on
 
 The automatic combining of data from multiple websites is consistent with what I've called the [Big Reverse of the Web](https://dri.es/the-big-reverse-of-the-web), a slow but steady evolution towards a push-based web; a web where information comes to us versus the current search-dominant web. As I wrote in 2015:
 
@@ -54,7 +57,7 @@ Facebook was an early example of what a push-based experience looks like. Facebo
 
 A similar dynamic happens when AI search engines give us the answers to our questions rather than redirecting us to a variety of different websites. I no longer have to "pull" the answer from these websites; it is "pushed" to me instead. Trying to figure out if a package fits in the back of my car is the perfect example of this.
 
-### Unlocking the short term potential of Generative AI for CMS
+## Unlocking the short term potential of Generative AI for CMS
 
 While it might take a while for AI search to work out some early kinks, in the near term, Generative AI will lead to an increasing amount of content being produced. It's bad news for the web as a lot of that content will likely end up being spam. But it also is good news for CMSs, as there will be a lot more legitimate content to manage as well.
 
@@ -62,14 +65,15 @@ I was excited to see that [Kevin Quillen](https://www.linkedin.com/in/kevinquill
 
 For example, the video below shows how the power of Generative AI can be used from within Drupal to help content creators generate fresh ideas and produce content that resonates with their audience.
 
-[video ZtpJ3EC-pI4]
+https://www.youtube.com/watch?v=ZtpJ3EC-pI4
 
 Similarly, AI integrations can be used to translate content into different languages, suggest tags or taxonomy terms, help optimize content for search engines, summarize content, match your content's tone to an organizational standard, and much more.
 
 The screenshot below shows how some of these use cases have been implemented in Drupal:
 
 <div class="large">
-  [image blog/chatgpt-drupal-integration resize=false]
+  ![A screenshot of Drupal's editorial UI that shows a few integrations with ChatGPT.](http://default/files/cache/blog/chatgpt-drupal-integration-640w.png)
+*A screenshot of Drupal's editorial UI that shows a few integrations with ChatGPT in the sidebar. The ability to suggest similar titles, summarize content and recommend taxonomy terms.*
 </div>
 
 The Drupal modules behind the video and screenshot are Open Source: see the [OpenAI project on Drupal.org](https://www.drupal.org/project/openai). Anyone can experiment with these modules and use them as a foundation for their own exploration. Sidenote: another example of how Open Source innovation wins every single time.
@@ -78,7 +82,7 @@ If you look at the source code of these modules, you can see that it is relative
 
 In short, you can expect many text fields to become "AI-enhanced" in the next 18 months.
 
-### Boost your website's visibility by optimizing for AI crawlers
+## Boost your website's visibility by optimizing for AI crawlers
 
 Another short-term change is that marketers will seek to better promote their content to AI bots, just like they currently do with search engines.
 
@@ -88,7 +92,8 @@ Right now, in AI search engines, attribution is a problem. It's often impossible
 
 I also expect that more websites will explicitly license their content, and specify the ways that search engines, crawlers, and chatbots can use, remix, and adopt their content.
 
-[image blog/schema-org-image-license-markup resize=false]
+![Schema org image license markup](http://default/files/cache/blog/schema-org-image-license-markup-640w.png)
+*The HTML code for an image on my blog. Schema.org metadata is used to programmatically specify that my photo is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</a>. This license encourages others to copy, remix, and redistribute my photos, as long it is for noncommercial purposes and appropriate credit is given.*
 
 As can be seen from the screenshot above, I specify a license for [all 10,000+ photos on my site](https://dri.es/photos). I make them available under [Creative Commons](https://creativecommons.org/). The license is specified in the HTML code, and can be programmatically extracted by a crawler. I do something very similar for my blog posts.
 
@@ -98,7 +103,7 @@ If a website has high-quality content, and AI tools give credit to their sources
 
 All things considered, my base case is that AI bots will become an increasingly important channel for digital experience delivery, and that websites will be the main source of input for chatbots. I suspect that websites will only need to make small, incremental changes to optimize their content for AI tools.
 
-### Predicting the longer term impact of AI tools on websites
+## Predicting the longer term impact of AI tools on websites
 
 Longer term, AI tools will likely bring significant changes to digital marketing and content management.
 
@@ -114,11 +119,11 @@ My more speculative and long-term case is that AI chatbots will become *the* mos
 
 Without proper regulations and policies, that evolution will be tumultuous at best, and dangerous at worst. As I've been shouting from the rooftops since 2015 now: ["When algorithms rule our lives, who should rule them?"](https://dri.es/algorithms-rule-our-lives-so-who-should-rule-them). I continue to believe that algorithms with significant effects on society require regulation and policies, just like the Food and Drug Administration (FDA) in the U.S. or the European Medicines Agency (EMA) in Europe oversee the food and drug industry.
 
-### The impact of AI on website development
+## The impact of AI on website development
 
 Of course, the advantages of Generative AI extend beyond content creation and content delivery. The advantages also include software development, such as writing code ([46% of all new code on GitHub is generated by GitHub's Copilot](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/)), identifying security vulnerabilities ([ChatGPT finds two times as many security vulnerabilities as a professional software security scanner](https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411)), and more. The impact of AI on software development is a complex topic that warrants a separate blog post. In the meantime, here is [a video demonstrating how to use ChatGPT to build a Drupal module](https://youtu.be/ZtpJ3EC-pI4).
 
-### The risks and challenges of Generative AI
+## The risks and challenges of Generative AI
 
 Even though I'm optimistic about the potential of AI, I would be neglectful if I failed to discuss some of the potential challenges associated with it.
 
@@ -130,7 +135,7 @@ Although Generative AI is really good at some tasks, like [writing a sincere let
 
 The above issues related to legal authorship, misinformation, and bias have also given rise to a host of ethical concerns.
 
-### My personal strategy
+## My personal strategy
 
 Disruptive changes can be polarizing: they come with some real downsides, while bringing new opportunities.
 
@@ -142,7 +147,7 @@ While some individuals and organizations advocate against the use of AI altogeth
 
 I also expect that organizations will use their own data to train their custom AI bots. This would eliminate many concerns, and let organizations take advantage of AI for applications like marketing and customer success. Simon Willison shows that in a couple of hours of work, he was able to [train his own model](https://til.simonwillison.net/llms/training-nanogpt-on-my-blog) based on his website content. Time permitting, I'd like to experiment with that myself.
 
-### Conclusion
+## Conclusion
 
 I'm both intrigued, wary, and inspired as to where AI will take the web in the days, months, and years to come.
 

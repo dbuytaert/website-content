@@ -23,7 +23,7 @@ While 2011 was only Acquia's third full year in business (i.e. revenue-bearing y
 
 In this post, I'll provide some more detail on what Acquia accomplished in 2011; I'll discuss our business as a whole, our products, our relation with the Drupal community and my role within the company. I have a [separate blog post](https://dri.es/drupal-2011-retrospective-and-2012-predictions) to reflect on how Drupal fared in 2011.
 
-### Acquia business retrospective
+## Acquia business retrospective
 
 In 2011 we saw record bookings and continued momentum. We finished the year with 11 consecutive quarters of revenue growth and beating our plan.
 
@@ -41,7 +41,7 @@ Despite our success in growing our staff, the availability of quality candidates
 
 We've also grown Acquia through the acquisition of companies started by talented people within the Drupal community. This year, [Acquia acquired two Drupal companies](https://techcrunch.com/2011/08/16/acquia-expands-drupal-product-suite-with-purchases-of-cyrve-growing-venture-solutions/): security specialist [Growing Venture Solutions](http://growingventuresolutions.com/category/penny-stocks/) and migration expert Cyrve. We wanted to do these acquisitions because they create a [win-win-win situation](https://dri.es/why-acquia-acquired-cyrve-and-gvs) for the Drupal community, our partners, and our customers.
 
-### Acquia product retrospective
+## Acquia product retrospective
 
 On the product side, Acquia achieved everything in line with the [product strategy and vision that I outlined in early 2011](https://dri.es/acquia-product-strategy-and-vision). If you're not already familiar with Acquia's products, it's worth reading that post first for context.
 
@@ -59,7 +59,7 @@ We also did a lot of other things; from [relaunching Acquia.com on Drupal 7](htt
 
 All in all, 2011 was a very productive year for our engineers and product managers.
 
-### Community and Acquia
+## Community and Acquia
 
 In everything we do, we try to raise the tide for the Drupal community at large. In 2011, we continued our long track record of giving back to the larger Drupal community.
 
@@ -81,7 +81,7 @@ Acquia is in a position where not only can we give back, we *want* to give back.
 
 Acquia also gives back to the greater good. We raised $31,223 for men's health awareness as part of Movember's Team Drupal, and ranked #19 nationally for our contribution.
 
-### On a more personal note
+## On a more personal note
 
 As Acquia and the Drupal community have grown, so have the demands on my time. Acquia's growing at a phenomenal rate; we're creating a product portfolio with multiple product lines; the Drupal Association is undergoing major changes; Drupal 8 development is underway; I'm traveling around the world evangelizing Drupal 7; and more. To meet all of these demands, I needed to create more time. To do so, I created [Acquia's Office of the CTO](https://dri.es/announcing-the-office-of-the-cto-at-acquia) (OCTO).
 
@@ -89,7 +89,7 @@ I made some amazing hires to be part of OCTO. It is kind of a dream team to work
 
 This was definitely a highlight for me, as it has allowed much more velocity around these important aspects of what I do. We hope to extend OCTO in 2012 with additional people.
 
-### In summary
+## In summary
 
 In general, I'm very optimistic about Acquia's future in 2012. The decisions we've made early in the company's life, despite skepticism by some, have proven to be correct. Enterprises want commercial-grade support and cloud computing. Open Source, Software as a Service (SaaS) and Platform as a Services (PaaS) continues to be on the rise. More than ever, I'm convinced that Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS) will become the de-facto standard for building and hosting web applications, especially in combination with Open Source web applications. The question is not if it will happen, but when and how fast. When it happens, Acquia will be in a great spot.
 

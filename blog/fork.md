@@ -16,4 +16,6 @@ id: 130
 
 # Fork
 
+![Close-up of a metallic fork with a blurred background, captured in high contrast and blue-toned lighting.](http://default/files/cache/miscellaneous-2006/fork-640w.jpg)
+
 

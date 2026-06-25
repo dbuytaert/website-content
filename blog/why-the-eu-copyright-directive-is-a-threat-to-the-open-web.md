@@ -19,6 +19,8 @@ id: 4761
 
 # Why the EU Copyright Directive is a threat to the Open Web
 
+![An image of a copyright sign](http://default/files/cache/blog/copyright-640w.jpg)
+
 After much debate, [the EU Copyright Directive is now moving to a final vote in the European Parliament](https://www.theverge.com/2019/2/13/18223815/eu-copyright-directive-article-11-13-trilogues-finished-final-vote-parliament). The directive, if you are not familiar, was created to prohibit spreading copyrighted material on internet platforms, protecting the rights of creators (for example, many musicians have supported this overhaul).
 
 The overall idea behind the directive – compensating creators for their online works – makes sense. However, the implementation and execution of the directive could have a very negative impact on the [Open Web](https://dri.es/tag/open-web). I'm surprised more has not been written about this within the web community.

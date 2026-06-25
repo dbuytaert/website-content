@@ -19,4 +19,6 @@ id: 5216
 
 # Boston skyline gazing
 
+![Axl staring at the Boston skyline, waiting for the Fourth of July fireworks to start.](http://default/files/cache/summer-in-boston-2021/4th-of-july-2-640w.jpg)
+
 

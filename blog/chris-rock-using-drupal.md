@@ -23,4 +23,4 @@ But don't think for a moment that Drupal's losing any ground in other areas. I w
 
 In the entertainment industry, comedian [Chris Rock](http://chrisrock.com) recently moved his website to [Drupal](https://www.drupal.org) and [Acquia Dev Cloud](https://www.acquia.com/products-services/acquia-dev-cloud) with the help of [SuperStar Media](http://superstarmedia.com). We have a post with more details on the [Acquia.com blog](https://www.acquia.com/blog) at <https://www.acquia.com/blog/acquia-dev-cloud-rocks>.
 
-[image drupal/chris-rock]
+![A promotional webpage for Chris Rock featuring a theater production advertisement and links to videos, news, and social media.](http://default/files/cache/drupal/chris-rock-640w.jpg)

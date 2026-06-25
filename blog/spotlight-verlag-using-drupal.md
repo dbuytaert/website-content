@@ -25,4 +25,4 @@ When asked, Udo told me that CCK, Views and Panels were the main reasons for usi
 
 They use a multi-site install with a single master user database (every login in the different Drupal instances is checked against one central user database, so users share the same login data for different websites in their network). This master database is also connected to their magazine subscriber database. The multi-site setup makes it easier for them to roll out and maintain the additional Drupal sites that they have in the pipeline.
 
-[image drupal/business-spotlight]
+![A business news website featuring an article on the American car industry, language learning tools, and a login section.](http://default/files/cache/drupal/business-spotlight-640w.jpg)

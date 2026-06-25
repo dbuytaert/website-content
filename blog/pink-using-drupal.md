@@ -20,8 +20,10 @@ id: 427
 
 # Pink using Drupal
 
+![A singer performs on stage with a microphone, promoting a live concert DVD release.](http://default/files/cache/drupal/pink-640w.jpg)
+
 Pink is using [Drupal](https://www.drupal.org) for [her official website](http://www.pinkspage.com/). She also began using [Mollom](https://mollom.com) to protect her site's content, and we've blocked thousands of spam attempts since. The site was built by her label [Sony BMG](http://sonybmg.com). *Yay!*
 
 Call me soft, but my favorite Pink song is "I have seen the rain", a song written by her father while he was stationed in Vietnam. You can watch the YouTube video below ...
 
-[video mJrftgq6KKw]
+https://www.youtube.com/watch?v=mJrftgq6KKw

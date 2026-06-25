@@ -18,11 +18,13 @@ id: 5246
 
 # Acquia Engage Keynote 2021
 
+![Text reading "Acquia Engage Innovation Showcase" on a gradient background with geometric patterns.](http://default/files/cache/acquia/innovation-showcase-engage-2021-640w.png)
+
 [Acquia Engage](https://engage.acquia.com/), now in its eighth year, was an all-virtual event this year. In my keynote, I talked about how the Acquia Digital Experience Platform (DXP) helps with many of the biggest challenges in the world of websites and digital experiences.
 
 If you want to see what [Acquia](https://www.acquia.com/) has been up to, [watch the recording of my keynote](https://youtu.be/xUo-mxZJPUs). It's packed full of short product demos. You can also [download a copy of my slides](https://dri.es/files/acquia-engage-innovation-showcase-2021.pdf) (47 MB), but you'd miss out on all the demos.
 
-[video xUo-mxZJPUs]
+https://www.youtube.com/watch?v=xUo-mxZJPUs
 
 My keynote focused on how we are fixing broken, disconnected digital workflows across marketing and IT. By fixing these workflows, we can accelerate the delivery and optimization of new digital experiences.
 

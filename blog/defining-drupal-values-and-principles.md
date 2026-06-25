@@ -19,6 +19,8 @@ id: 4291
 
 # Defining Drupal's values and principles
 
+![A person holds strings as glowing balloons float away, transforming into birds against a cloudy sky.](http://default/files/cache/drupal/values-and-principles-balloons-640w.jpg)
+
 Since its founding, Drupal has grown a great deal, and today there are thousands of contributors and organizations that make up our community. Over the course of seventeen years, we have spent a great amount of time and effort scaling our community. As a result, Drupal has evolved into one of the largest Open Source projects in the world.
 
 Today, the Drupal project serves as a role model to many other Open Source projects; from our governance and funding models, to how we work together globally with thousands of contributors, to our 3,000+ person conferences. However, the work required to scale our community is a continuous process.
@@ -36,7 +38,8 @@ Capturing our values and principles as accurately as I could was challenging wor
 I shared both the values and the principles on [Drupal.org as version 1.0-alpha](https://www.drupal.org/principles) ([archived PDF](https://dri.es/files/drupal-values-principles-1-0-alpha.pdf)). I labeled it alpha, because the principles and values aren't necessarily complete. While I have strong conviction in each of the Drupal principles and corresponding values, some of our values and principles are hard to capture in words, and by no means will I have described them perfectly. However, I arrived at a point where I wanted to share what I have drafted, open it up to the community for feedback, and move the draft forward more collaboratively.
 
 <div class="large">
-  [image drupal/values-and-principles-1-0-alpha resize=false]
+  ![Values and principles alpha](http://default/files/cache/drupal/values-and-principles-1-0-alpha-640w.jpg)
+*An overview of Drupal's values with supporting principles.*
 </div>
 
 While this may be the first time I've tried to articulate our values and principles in one document, many of these principles have guided the project for a very long time. If communicated well, these principles and values should inspire us to be our best selves, enable us to make good decisions fast, and guide us to work as one unified community.

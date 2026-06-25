@@ -18,4 +18,6 @@ id: 375
 
 # Axl's first veggies
 
+![A baby with a blue bib eats mashed vegetables from a spoon, with some food smeared on their face.](http://default/files/cache/axl-2007/first-veggies-640w.jpg)
+
 

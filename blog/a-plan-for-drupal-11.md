@@ -16,23 +16,25 @@ id: 5331
 
 # A plan for Drupal 11
 
+![Drupal 11 to focus on a Composable Core, helped by Project Browser, Starter Templates and Automated Updates](http://default/files/cache/drupalcon-portland-2022/drupal-11-composable-core-640w.png)
+
 Two weeks later, I'm still feeling the energy from our first in-person DrupalCon in two years!
 
 This blog post is Part 3 of my DrupalCon keynote recap. In case you missed it, you can read up on [Part 1](https://dri.es/state-of-drupal-presentation-april-2022) and [Part 2](https://dri.es/drupal-is-for-ambitious-site-builders). Part 1 focused on [Drupal 10 updates](https://dri.es/state-of-drupal-presentation-april-2022). Part 2 talked about [our new vision statement](https://dri.es/drupal-is-for-ambitious-site-builders).
 
 In my keynote, I also mapped out a potential strategy for Drupal 11. In this blog post, I explain Drupal 11's strategy, and how it aligns with our updated vision statement.
 
-[image drupalcon-portland-2022/drupal-11-composable-core]
+![Drupal 11 to focus on a Composable Core, helped by Project Browser, Starter Templates and Automated Updates](http://default/files/cache/drupalcon-portland-2022/drupal-11-composable-core-640w.png)
 
 Drupal 11's strategy is focused on (1) empowering ambitious site builders and (2) accelerating innovation in our contributed modules repository.
 
 To accomplish these two goals, Drupal will have to double down on "composability", which is reflected by the six proposed initiatives below. I'm code-naming the two-year strategy for Drupal 11 "Composable Core".
 
 <div class="large">
-  [image drupalcon-portland-2022/drupal-11-strategy resize=false]
+  ![Six focus areas for Drupal 11](http://default/files/cache/drupalcon-portland-2022/drupal-11-strategy-640w.png)
 </div>
 
-### Project Browser
+## Project Browser
 
 In Drupal 9, we have over 8,000 modules and themes. In those 8,000 projects are some amazing innovations. But right now, it's hard for site builders to find them.
 
@@ -44,9 +46,9 @@ Under the hood, modules are still installed with [Composer](https://getcomposer.
 
 Check out this video to learn more about Project Browser:
 
-[video ZL5WfAsE1MQ]
+https://www.youtube.com/watch?v=ZL5WfAsE1MQ
 
-### Starter Templates
+## Starter Templates
 
 While Project Browser would help site builders discover and install individual modules, it is not unusual to use 30+ contributed modules to build a site. It can take a lot of work to find and configure these modules, and to make sure they all work well together.
 
@@ -54,27 +56,27 @@ This is where the new Starter Templates concept comes in. Starter Templates are 
 
 This concept bears a lot of resemblance with Drupal's 15-year-old concept of [Drupal distributions](https://dri.es/tag/drupal-distributions). The goal of Starter Templates, however, is to be a lot easier to build and maintain than distributions.
 
-[image drupalcon-portland-2022/drupal-site-starter-templates]
+![Drupal site starter templates compared to distributions; starter templates are easier to implement and maintain](http://default/files/cache/drupalcon-portland-2022/drupal-site-starter-templates-640w.png)
 
 We don't know yet how exactly we'd implement Starter Templates, but we have [some initial ideas](https://www.drupal.org/project/ideas/issues/3274999). Join the [\#distributions-starter-templates Slack channel](https://drupal.slack.com/archives/C2THUBAVA) if you're interested in contributing.
 
-### Automated Updates
+## Automated Updates
 
 For Drupal 11, we will continue our work on the [Automated Updates Initiative](https://www.drupal.org/about/core/strategic-initiatives/automatic-updates), which is meant to make updates to Drupal much easier.
 
 Check out the video below for an update on Drupal's Automated Updates initiative:
 
-[video mH2THdCRuJI]
+https://www.youtube.com/watch?v=mH2THdCRuJI
 
-### GitLab Initiative
+## GitLab Initiative
 
 Accelerating innovation by empowering contributors continues to be a key priority for Drupal. We will keep working on the [GitLab Initiative](https://www.drupal.org/drupalorg/roadmap/gitlab-acceleration) to bring better collaboration and development tools to Drupal contributors.
 
 Check out this video for the latest on the GitLab Initiative:
 
-[video 5hTKuNVSPfU]
+https://www.youtube.com/watch?v=5hTKuNVSPfU
 
-### The Great Module Migration
+## The Great Module Migration
 
 This proposed initiative focuses on making Drupal Core smaller. How? By *responsibly* moving more modules from core to contrib. This mean less code to maintain in core, so that Drupal can focus on innovation. Certain modules can also innovate faster as a contributed module.
 
@@ -84,11 +86,11 @@ Based on this early ranking system, we found that we could remove approximately 
 
 We believe it's safe to make core smaller, especially with a strong focus on Project Browser, Starter Templates and Automatic Updates.
 
-### Drupal 11 readiness
+## Drupal 11 readiness
 
 As a part of Drupal 11 readiness, we will continue to manage our third-party dependencies to keep Drupal secure.
 
-### Should we do more?
+## Should we do more?
 
 I'd love to see us do more in Drupal 11. I wish we could invest in embracing web components, building a decoupled administration backend, modernizing Views, and much more.
 
@@ -100,6 +102,6 @@ I covered this concept in past blog posts, such as [the privilege of free time i
 
 In the next year, the [Drupal Association](https://www.drupal.org/association) will start taking additional steps towards incentivizing larger contributions. Needless to say, I'm very excited about that. Stay tuned for more on that topic.
 
-### Let's get building
+## Let's get building
 
 The early planning phases of a new release are an exciting time to discuss Drupal's potential for the future, and focus on ideas that will make the most impact for our users. I'm excited for us all to collaborate on Drupal 11 in the coming years.

@@ -17,4 +17,6 @@ id: 121
 
 # 40 weeks
 
+![Low-angle view of a pregnant person standing outside, wearing a t-shirt and loose pants, with the sky above.](http://default/files/cache/miscellaneous-2006/40-weeks-1-640w.jpg)
+
 

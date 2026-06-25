@@ -19,4 +19,4 @@ id: 379
 
 The website of [Rock Band](http://rockband.com), a music video game for the Xbox 360 and the Playstation 3 is using [Drupal](https://www.drupal.org). The game was developed by Harmonix Music Systems, published by MTV Games, and distributed by Electronic Arts Partners, but who built the website?
 
-[image drupal/rock-band]
+![A virtual guitarist plays an electric guitar on a stage in the Rock Band video game interface.](http://default/files/cache/drupal/rock-band-640w.jpg)

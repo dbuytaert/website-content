@@ -19,4 +19,6 @@ id: 107
 
 # Karlijn in mid air
 
+![A person jumps in mid-air with arms and legs extended against a blue sky with scattered clouds.](http://default/files/cache/miscellaneous-2006/karlijn-in-mid-air-640w.jpg)
+
 

@@ -17,4 +17,6 @@ id: 99
 
 # Anchovy
 
+![A person holds up a small cooked anchovy between their fingers at a restaurant.](http://default/files/cache/san-francisco-2006/anchovy-640w.jpg)
+
 

@@ -19,6 +19,8 @@ id: 327
 
 # DrupalCon Barcelona wrapup
 
+![An airport departure board displaying flight times, destinations, and statuses at Terminal A in Barcelona.](http://default/files/cache/drupalcon-barcelona-2007/departure-640w.jpg)
+
 Executive summary: DrupalCon Barcelona blew my socks off.
 
 I have yet to process all the inputs but these are some of the highlights:

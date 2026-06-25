@@ -19,6 +19,6 @@ id: 1851
 
 The fall in New England brings a number traditions: [apple picking](https://dri.es/apple-picking-at-russell-orchards) being one of them, [pumpkin carving](https://dri.es/pumpkin-carving) being another. I'm also adding warm cider donuts to that list of traditions – given that they are made of apples, they must be full of vitamins, don't you think?
 
-[image winchester-2010/apple-picking-1]
-[image winchester-2010/apple-picking-2]
-[image winchester-2010/apple-picking-3]
+![Close-up of two ripe apples hanging from a tree branch, surrounded by green leaves.](http://default/files/cache/winchester-2010/apple-picking-1-640w.jpg)
+![A young child reaches for an apple while standing among green branches in an orchard.](http://default/files/cache/winchester-2010/apple-picking-2-640w.jpg)
+![A young child holds freshly picked apples while standing near an apple tree in an orchard.](http://default/files/cache/winchester-2010/apple-picking-3-640w.jpg)

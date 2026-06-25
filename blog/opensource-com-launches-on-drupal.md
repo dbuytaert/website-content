@@ -22,4 +22,4 @@ id: 1371
 
 Red Hat came to [Acquia](https://www.acquia.com) to help them get the site built. Development was done by our friends at [Palantir](https://www.palantir.net/) (an Acquia partner), while Acquia provides support and hosting.
 
-[image drupal/redhat-opensource-com]
+![A webpage from OpenSource.](http://default/files/cache/drupal/redhat-opensource-com-640w.jpg)

@@ -19,4 +19,4 @@ id: 348
 
 Just when I wrote that [more and more universities start to embrace Drupal](https://dri.es/upei-goes-drupal), the smart people at [Harvard's Science and Engineering department](http://harvardscience.harvard.edu/) relaunched on [Drupal](https://www.drupal.org). *Looks sharp!*
 
-[image drupal/harvard-science-and-engineering]
+![A Harvard Science and Engineering webpage featuring research topics, breaking news, and an image of a scientist holding a specimen.](http://default/files/cache/drupal/harvard-science-and-engineering-640w.jpg)

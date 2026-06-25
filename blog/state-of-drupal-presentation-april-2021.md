@@ -19,25 +19,27 @@ id: 5206
 
 # State of Drupal presentation (April 2021)
 
+![A Drupal robot staring in the distance along with a call to action to focus on the site builder experience](http://default/files/cache/drupalcon-north-america-2021/site-builders-experience-640w.png)
+
 Last week, Drupalists around the world gathered virtually for DrupalCon North America 2021.
 
 In good tradition, I delivered my [State of Drupal keynote](https://dri.es/tag/state-of-drupal). You can [watch the video of my keynote](https://youtu.be/IIxbaT-jmNc?t=1165), [download my slides](https://dri.es/files/state-of-drupal-april-2021.pdf) (244 MB), or read the brief summary below.
 
 I gave a Drupal 9 and Drupal 10 update, talked about going back to our site builder roots, and discussed the need to improve Drupal's contributor experience.
 
-[video IIxbaT-jmNc]
+https://www.youtube.com/watch?v=IIxbaT-jmNc
 
-### Drupal 9 update
+## Drupal 9 update
 
 People are adopting Drupal 9 at a record pace. We've gone from 0 to 60,000 websites in only one month. In contrast, it took us seven months to reach the same milestone with Drupal 7, and three months for Drupal 8.
 
-[image drupalcon-north-america-2021/drupal-9-adoption]
+![A chart that shows that Drupal 9 adoption is much faster than Drupal 7's and Drupal 8's](http://default/files/cache/drupalcon-north-america-2021/drupal-9-adoption-640w.png)
 
 With Drupal 8, after about 1.5 years, only a third of the top 50 Drupal modules were ready for Drupal 8. Now, only 10 months after the release of Drupal 9, a whopping 90% of top 50 modules are Drupal 9 ready. 
 
-[image drupalcon-north-america-2021/drupal-9-module-readinesss]
+![A chart that shows the Drupal 9 module ecosystem is pretty much ready](http://default/files/cache/drupalcon-north-america-2021/drupal-9-module-readinesss-640w.png)
 
-### Drupal 10 update
+## Drupal 10 update
 
 Next, I spoke about the [five big initiatives for Drupal 10](https://dri.es/state-of-drupal-presentation-july-2020), which are making progress:
 
@@ -49,12 +51,12 @@ Next, I spoke about the [five big initiatives for Drupal 10](https://dri.es/stat
 
 I then covered some key dates for Drupal 9 and 10:
 
-[image drupalcon-north-america-2021/drupal-9-and-drupal-10-dates]
+![A timeline that shows Drupal 9.3 will be released in December 2021 and Drupal 10.0.0 in June 2022](http://default/files/cache/drupalcon-north-america-2021/drupal-9-and-drupal-10-dates-640w.png)
 
-### Improving the site builder experience with a project browser
+## Improving the site builder experience with a project browser
 
 <div class="large">
-  [image drupalcon-north-america-2021/site-builders-experience]
+  ![A Drupal robot staring in the distance along with a call to action to focus on the site builder experience](http://default/files/cache/drupalcon-north-america-2021/site-builders-experience-640w.png)
 </div>
 
 When I ask people why they fell in love with Drupal, most often they talk about feeling empowered to build [ambitious websites](https://dri.es/drupal-is-for-ambitious-digital-experiences) with little or no code. In fact, the journey of many Drupalists started with Drupal's low-code approach to site building. It's how they got involved with Drupal.
@@ -63,9 +65,9 @@ This leads me to believe that we need to focus more on the site builder persona.
 
 If you're interested in helping, check out the [Project Browser initiative](https://www.drupal.org/project/ideas/issues/2940733) and join the [Project Browser Slack channel](https://drupal.slack.com/archives/C01UHB4QG12).
 
-### Modernizing Drupal.org's collaboration tools with GitLab
+## Modernizing Drupal.org's collaboration tools with GitLab
 
-[image drupalcon-north-america-2021/gitlab-journey]
+![A small vessel sailing towards a large GitLab boat](http://default/files/cache/drupalcon-north-america-2021/gitlab-journey-640w.png)
 
 Drupal has [one of the largest and most robust development communities](https://dri.es/who-sponsors-drupal-development-2020). And Drupal.org's collaboration tools have been key to that success.
 
@@ -75,29 +77,29 @@ Today, most Open Source communities have standardized on tools like [GitHub](htt
 
 For example, here is a quick video that shows of how easy it is to contribute to [Symfony](https://symfony.com/) using GitHub:
 
-[video h_mWXYRb68w]
+https://www.youtube.com/watch?v=h_mWXYRb68w
 
 Next, I showed how people contribute to Drupal. As you can see in the video below, the process takes much longer and the steps are not as clear cut.
 
-[video Ic_x-QxKw30]
+https://www.youtube.com/watch?v=Ic_x-QxKw30
 
 *(This is an abridged version of the full experience; you can also [watch the full video](https://youtu.be/ae1qI3DdCBc).)*
 
 To improve Drupal's contributor experience, the [Drupal Association](https://www.drupal.org/association) is modernizing our collaboration tools with GitLab. So far, this has resulted in some great new features. However, more work is required to give new Drupalists an easier path to start contributing.
 
-[video DQCaHUCFuZM]
+https://www.youtube.com/watch?v=DQCaHUCFuZM
 
 Please reach out to [Heather Rocker](mailto:heather@association.drupal.org), the Executive Director at Drupal Association, if you want to help support our GitLab work. We are looking for ways to expand the Drupal Association's engineering team so we can accelerate this work.
 
 <div class="large">
-  [image drupalcon-north-america-2021/gitlab-feedback]
+  ![Drupal.org's goals for Gitlab along with positive attendee feedback in chat](http://default/files/cache/drupalcon-north-america-2021/gitlab-feedback-640w.png)
 </div>
 
-### Thank you
+## Thank you
 
 I'd like to wrap up with a thank you to the people and organizations who have contributed since we released Drupal 9 last June. It's been pretty amazing to see the momentum!
 
 <div class="side-by-side">
-  [image drupalcon-north-america-2021/individual-contributors]
-  [image drupalcon-north-america-2021/organizational-contributors]
+  ![The names of the 1,152 individuals that contributed to Drupal 9 so far](http://default/files/cache/drupalcon-north-america-2021/individual-contributors-640w.png)
+  ![The logos of the 365 organizations that contributed to Drupal 9 so far](http://default/files/cache/drupalcon-north-america-2021/organizational-contributors-640w.png)
 </div>

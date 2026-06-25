@@ -21,9 +21,12 @@ id: 4791
 
 # The Open Web can still win
 
+![Tim Berners-Lee sitting in front of a computer showing the first website](http://default/files/cache/blog/tim-berners-lee-640w.jpg)
+
 Today, the world wide web celebrates its 30th birthday. In 1989, Sir Tim Berners-Lee [ invented the world wide web](https://webfoundation.org/2019/02/save-the-date-world-wide-web-turns-30-on-march-12/) and changed the lives of millions of people around the globe, including mine.
 
-[image blog/tim-berners-lee]
+![Tim Berners-Lee sitting in front of a computer showing the first website](http://default/files/cache/blog/tim-berners-lee-640w.jpg)
+*<a href="https://en.wikipedia.org/wiki/Tim\_Berners-Lee">Tim Berners-Lee</a>, inventor of the World Wide Web, in front of the early web.*
 
 Milestones like this get me thinking about the positive impact a free and Open Web has had on society. Without the web, billions of people would not have been able to connect with one another, be entertained, start businesses, exchange ideas, or even save lives. Open source communities like [Drupal](https://www.drupal.org/) would not exist.
 

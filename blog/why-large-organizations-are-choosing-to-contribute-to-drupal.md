@@ -19,7 +19,7 @@ id: 4441
 
 During my [DrupalCon Nashville keynote](https://dri.es/state-of-drupal-presentation-april-2018), I shared a brief video of Mike Lamb, the Senior Director of Architecture, Engineering &amp; Development at Pfizer. Today, I wanted to share an extended version of my interview with Mike, where he explains why the development team at Pfizer has ingrained Open Source contribution into the way they work.
 
-[video SA1hC08i7X8]
+https://www.youtube.com/watch?v=SA1hC08i7X8
 
 Mike had some really interesting and important things to share, including:
 

@@ -23,4 +23,4 @@ IFRA has 3,000 members from the newspaper industry in about 80 countries. Beside
 
 Their main website, <http://www.ifra.com>, is already using Drupal. The migration to Drupal is still a work in progress, but according to [Berger Schmidt](http://www.berger-schmidt.de), IFRA is switching all of its websites from Lotus Notes to Drupal this year.
 
-[image drupal/ifra]
+![Website screenshot of IFRA featuring an article on advertising business strategies and a notice about the XMA competition deadline.](http://default/files/cache/drupal/ifra-640w.jpg)

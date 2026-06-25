@@ -13,26 +13,26 @@ id: 5251
 
 # Colophon
 
-<h3 id="privacy">Privacy</h3>
+<h2 id="privacy">Privacy</h2>
 
 This website doesn't collect any information about you. It aspires to the privacy of printed works.
 
-<h3 id="accessibility">Accessibility</h3>
+<h2 id="accessibility">Accessibility</h2>
 
 This website aims to provide digital accessibility for people with disabilities. It ranks in [the top 1% most accessible sites in the world](https://webaim.org/projects/million/lookup?domain=dri.es).
 
-<h3 id="monetization">Monetization</h3>
+<h2 id="monetization">Monetization</h2>
 
 This website is not monetized, intentionally. There are no ads or affiliate links.
 
-<h3 id="carbon">Carbon footprint</h3>
+<h2 id="carbon">Carbon footprint</h2>
 
 This website aims to have [an extremely low carbon footprint](https://digitalbeacon.co/report/dri-es). I plant trees to offset its carbon emission.
 
-<h3 id="license">License</h3>
+<h2 id="license">License</h2>
 
 All content on this site, including photos, is licensed under [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/). You're free to copy, remix, share and build upon it, even commercially, as long as you credit the source.
 
-<h3 id="software">Software</h3>
+<h2 id="software">Software</h2>
 
 This website is built with [Drupal](https://www.drupal.org/) and hosted by [Acquia](https://www.acquia.com).

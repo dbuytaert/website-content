@@ -20,4 +20,4 @@ id: 346
 
 Britney Spears' official website just relaunched using Drupal. Check it out at <http://britney.com>. The site was built by her record label, [Sony BMG](http://www.sonybmg.com/). *Oops! We did it again!*
 
-[image drupal/britney]
+![Black and white image of a woman in a white hat holding a phone, with bold text reading "Britney TO GO!.](http://default/files/cache/drupal/britney-640w.jpg)

@@ -19,11 +19,13 @@ id: 5836
 
 # The web's broken deal with AI companies
 
+![An astronaut \(Cloudflare\) facing giant glowing structures \(crawlers\) drawing energy in an alien sunset landscape.](http://default/files/cache/blog/cloudflare-vs-crawlers-640w.jpg)
+
 AI is rewriting the rules of how we work and create. Expert developers can now build faster, non-developers can build software, research is accelerating, and human communication is improving. In the next 10 years, we'll probably see a 1,000x increase in AI demand. That is why [Drupal is investing heavily in AI](https://dri.es/accelerating-ai-innovation-in-drupal).
 
 But at the same time, AI companies are breaking the web's fundamental economic model. This problem demands our attention.
 
-### The AI extraction problem
+## The AI extraction problem
 
 For 25 years, we built the [Open Web](https://dri.es/tag/open-web) on an implicit agreement: search engines could index our content because they sent users back to our websites. That model helped sustain blogs, news sites, and even Open Source projects.
 
@@ -42,7 +44,7 @@ This "zero-click" phenomenon reinforces the shift I described in my 2015 post, [
 
 However, the picture isn't entirely negative. Some companies find that visitors from AI tools, while small in volume, convert at much higher rates. At [Acquia](https://www.acquia.com/), the company I co-founded, traffic from AI chatbots makes up less than 1 percent of total visitors but converts at over 6 percent, compared to typical rates of 2 to 3 percent. We are still relatively early in the AI adoption cycle, so time will tell how this trend evolves, how marketers adapt, and what new opportunities it might create.
 
-### Finding a new equilibrium
+## Finding a new equilibrium
 
 There is a reason this trend has taken hold: users love it. AI-generated answers provide instant, direct information without extra clicks. It makes traditional search engines look complicated by comparison.
 
@@ -54,7 +56,7 @@ We should design systems that share value more fairly among users, AI companies,
 
 Some might worry it is already too late, since large AI companies have massive scraped datasets and can generate [synthetic data](https://en.wikipedia.org/wiki/Synthetic_data) to fill gaps. But I'm not so sure. The web will keep evolving for decades, and no model can stay truly relevant without fresh, high-quality content.
 
-### From voluntary rules to enforcement
+## From voluntary rules to enforcement
 
 We have [`robots.txt`](https://en.wikipedia.org/wiki/Robots.txt), a simple text file that tells crawlers which parts of a website they can access. But it's purely voluntary. [Creative Commons](https://creativecommons.org) launched [CC Signals](https://creativecommons.org/2025/06/25/introducing-cc-signals-a-new-social-contract-for-the-age-of-ai/) last week, allowing content creators to signal how AI can reuse their work. But both `robots.txt` and CC Signals are "social contracts" that are hard to enforce.
 
@@ -66,7 +68,7 @@ However, most content creators, like you and I, can do neither.
 
 Cloudflare's actions establish a crucial principle: AI training data has a price, and creators deserve to share in the value AI generates from their work.
 
-### The missing piece: content licensing marketplaces
+## The missing piece: content licensing marketplaces
 
 Accessible enforcement infrastructure is step one, and Cloudflare now provides that. Step two would be a content licensing marketplace that helps broker deals between AI companies and content creators at any scale. This would move us from simply blocking to creating a fair economic exchange.
 
@@ -78,7 +80,7 @@ Today, only large platforms like Reddit can negotiate direct licensing deals wit
 
 This would transform the dynamic from adversarial blocking to collaborative value creation. Creators get compensated. AI companies get legal, high-quality training data. Users benefit from better AI tools built on ethically sourced content.
 
-### Making the Open Web sustainable
+## Making the Open Web sustainable
 
 We built the [Open Web](https://dri.es/tag/open-web) to democratize access to knowledge and online publishing. AI advances this mission of democratizing knowledge. But we also need to ensure the people who write, record, code, and share that knowledge aren't left behind.
 

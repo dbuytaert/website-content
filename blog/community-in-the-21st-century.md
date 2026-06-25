@@ -16,7 +16,7 @@ id: 187
 
 # Community in the 21st century
 
-[video NorfgQlEJv8]
+https://www.youtube.com/watch?v=NorfgQlEJv8
 
 [Eben Moglen](https://en.wikipedia.org/wiki/Eben_Moglen) (Professor of Law and General Counsel for the [Free Software Foundation](https://www.fsf.org/)) delivered an incredibly interesting keynote at the Plone conference.
 

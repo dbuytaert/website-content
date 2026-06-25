@@ -18,13 +18,17 @@ id: 5126
 
 # Can someone add some more HTML tags, please?
 
+![The markup for Tim Berners-Lee's Wikipedia page; it's complex and inconsistent](http://default/files/images/blog/wikipedia-timbl-markup.png)
+
 Every day, millions of new web pages are added to the internet. Most of them are unstructured, uncategorized, and nearly impossible for software to understand. It irks me.
 
 Look no further than [Sir Tim Berners-Lee's Wikipedia page](https://en.wikipedia.org/wiki/Tim_Berners-Lee):
 
 <div class="side-by-side">
-  [image blog/wikipedia-timbl-markup resize=false]
-  [image blog/wikipedia-timbl-page resize=false]
+  ![The markup for Tim Berners-Lee's Wikipedia page; it's complex and inconsistent](http://default/files/images/blog/wikipedia-timbl-markup.png)
+*What Wikipedia editors write \(<a href="https://en.wikipedia.org/w/index.php?title=Tim\_Berners-Lee&action=edit">source</a>\).*
+  ![The browser output for Tim Berners-Lee's Wikipedia page](http://default/files/images/blog/wikipedia-timbl-page.png)
+*What visitors of Wikipedia see.*
 </div>
 
 At first glance, there is [no rhyme or reason to Wikipedia's markup](http://blog.spencermounta.in/2019/wikipedias-in-trouble/index.html). (Wikipedia also has [custom markup for hieroglyphs](https://en.wikipedia.org/wiki/Help:WikiHiero_syntax), which admittedly *is* pretty cool.)
@@ -34,8 +38,10 @@ The problem? Wikipedia is the world's largest source of knowledge. It's a top 10
 I bet it irks Sir Tim Berners-Lee too.
 
 <div class="side-by-side">
-  [image blog/wikipedia-timbl-markup resize=false]
-  [image blog/wikipedia-timbl-html resize=false]
+  ![The markup for Tim Berners-Lee's Wikipedia page; it's complex and inconsistent](http://default/files/images/blog/wikipedia-timbl-markup.png)
+*What Wikipedia editors write \(<a href="https://en.wikipedia.org/w/index.php?title=Tim\_Berners-Lee&action=edit">source</a>\).*
+  ![The generated HTML code for Tim Berners-Lee's Wikipedia page; it could be more semantic](http://default/files/images/blog/wikipedia-timbl-html.png)
+*What the browser sees; the HTML code Wikipedia \(MediaWiki\) generates.*
 </div>
 
 It's not just Wikipedia. Every site is still messing around with custom `<div>`s for a table of contents, footnotes, logos, and more. I could think of a dozen new HTML tags that would make web pages, including Wikipedia, easier to write and reuse: `<footnote>`, `<logo>`, `<place>`, and many more.

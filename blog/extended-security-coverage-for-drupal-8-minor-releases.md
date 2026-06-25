@@ -18,11 +18,14 @@ id: 4516
 
 # Extended security coverage for Drupal 8 minor releases
 
+![New Drupal 8 security policy for minor releases](http://default/files/cache/drupal/new-drupal-8-security-policy-for-minor-releases-640w.jpg)
+
 Since the launch of Drupal 8.0, we have successfully launched a new minor release on schedule every six months. I'm very proud of the community for this achievement. Prior to Drupal 8, most significant new features were only added in *major releases* like Drupal 6 or Drupal 7. Thanks to our new release cadence we now consistently and predictably ship great new features twice a year in *minor releases* (e.g. [Drupal 8.6 comes with many new features](https://dri.es/drupal-8-6-0-released)).
 
 However, only the most recent minor release has been actively supported for both bug fixes and security coverage. With the release of each new minor version, we gave a one-month window to upgrade to the new minor. In order to give site owners time to upgrade, we would not disclose security issues with the previous minor release during that one-month window.
 
-[image drupal/old-drupal-8-security-policy-for-minor-releases resize=false]
+![Old Drupal 8 security policy for minor releases](http://default/files/cache/drupal/old-drupal-8-security-policy-for-minor-releases-640w.jpg)
+*Illustration of the security policy since the launch of Drupal 8.0 for minor releases, demonstrating that previous minor releases receive one month of security coverage.Source: <a href="https://www.drupal.org/project/drupal/issues/2909665">Drupal.org issue #2909665: Extend security support to cover the previous minor version of Drupal</a> and Drupal Europe DriesNote.*
 
 Over the past three years, we have learned that users find it challenging to update to the latest minor in one month. Drupal's minor updates can include dependency updates, internal API changes, or features being transitioned from contributed modules to core. It takes time for site owners to prepare and test these types of changes, and a window of one month to upgrade isn't always enough.
 
@@ -30,13 +33,14 @@ At DrupalCon Nashville [we declared that we wanted to extend security coverage f
 
 I'm pleased to share that the trial was a success! As a result, we have extended the security coverage of minor releases to six months. Instead of one month, site owners now have six months to upgrade between minor releases. It gives teams time to plan, prepare and test updates. Releases will have six months of normal bug fix support followed by six months of security coverage, for a total lifetime of one year. This is a huge win for Drupal site owners.
 
-[image drupal/new-drupal-8-security-policy-for-minor-releases resize=false]
+![New Drupal 8 security policy for minor releases](http://default/files/cache/drupal/new-drupal-8-security-policy-for-minor-releases-640w.jpg)
+*Illustration of the new security policy for minor releases, demonstrating that the security coverage for minor releases is extended to six months. Source: <a href="https://www.drupal.org/project/drupal/issues/2909665">Drupal.org issue #2909665: Extend security support to cover the previous minor version of Drupal</a> and the Drupal Europe DriesNote.*
 
 It's important to note that this new policy only applies to Drupal 8 core starting with Drupal 8.5, and only applies to security issues. Non-security bug fixes will still only be committed to the actively supported release.
 
 While the new policy will provide extended security coverage for Drupal 8.5.x, site owners will need to update to an upcoming release of Drupal 8.5 to be correctly notified about their security coverage.
 
-### Next steps
+## Next steps
 
 We still have some user experience issues we'd like to address around how site owners are alerted of a security update. We have not yet handled all of the potential edge cases, and we want to be very clear about the potential actions to take when updating.
 

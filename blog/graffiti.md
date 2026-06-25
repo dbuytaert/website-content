@@ -18,4 +18,6 @@ id: 33
 
 # Graffiti
 
+![Bright graffiti with bold purple, blue, and yellow shapes painted on a brick wall.](http://default/files/cache/miscellaneous-2006/graffiti-1-640w.jpg)
+
 

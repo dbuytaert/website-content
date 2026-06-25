@@ -19,4 +19,4 @@ id: 273
 
 [MensHealth](http://www.menshealth.com), the publisher of one of the largest men's lifestyle magazines in the world, is now using [Drupal](https://www.drupal.org/) for their German community website. Check it out at <http://community.menshealth.de/>. *Brings health and dating tips closer to male Drupal developers! ;-)*
 
-[image drupal/menshealth resize=false]
+![A German Men's Health website page featuring articles on fitness, health, diet, and lifestyle, with a focus on jet lag remedies.](http://default/files/images/drupal/menshealth.jpg)

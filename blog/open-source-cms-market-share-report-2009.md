@@ -21,10 +21,12 @@ The [2009 Open Source CMS market share report](https://www.cmswire.com/downloads
 
 Despite the rather lengthy nature of the survey, more than 600 persons completed the question set. The demographic data gathered shows the survey group to be primarily composed of senior IT professionals working in smaller organizations of 1 to 5 people. More than 80% of the participants had heard about Joomla!, WordPress and Drupal, though most of them were more familiar with WordPress and Joomla!.
 
-[image drupal/osscms-report-2009-brand-familiarity resize=false]
+![Bar chart showing survey results on familiarity with open-source CMS platforms, with WordPress, Joomla, and Drupal ranking highest.](http://default/files/images/drupal/osscms-report-2009-brand-familiarity.jpg)
+*&copy; 2009 Open Source CMS market share report by Water & Stone and CMSWire.*
 
 Last year's report found little to differentiate the three systems, at least in terms of market share. This year it appears that Joomla! gained a lot of market share relative to WordPress and Drupal. For example, the report shows that Joomla! has more books in print than Drupal or WordPress, and that Joomla! is used more than WordPress and Drupal – at least by the participants in the survey. The results also show that Drupal has the highest abandonment rate of the three, that is, the rate at which systems are tried, then abandoned in favor of another system. The survey concludes that while the race is far from won, it does seem like Joomla! is starting to take the leadership position. On the flip side, the survey participants seems to be more positive about WordPress and Drupal, than they are about Joomla!. All things combined, the data suggest we should be able to win over many users if we improve the Drupal experience.
 
-[image drupal/osscms-report-2009-brand-sentiment resize=false]
+![Bar chart showing positive and negative sentiment for various CMS platforms, with WordPress and Drupal having mostly positive feedback.](http://default/files/images/drupal/osscms-report-2009-brand-sentiment.jpg)
+*&copy; 2009 Open Source CMS market share report by Water & Stone and CMSWire.*
 
 All in all [an interesting report](https://www.cmswire.com/downloads/cms-market-share/) that matches my perspective on the market. It is great to see Drupal come out strongly, but it also suggests that we have a lot of work to do. I'm very bullish about Drupal's future – I think Drupal 7 can change the game for Drupal, especially combined with other successes like [Whitehouse.gov using Drupal](https://dri.es/whitehouse-gov-using-drupal), [Drupal being promoted to Gartner's 'visionaries' quadrant](https://dri.es/gartner-puts-drupal-in-visionaries-quadrant), as well as important initiatives as the [Drupal.org redesign](https://dri.es/drupal-org-redesign-code-sprints), [Drupal Gardens](http://drupalgardens.com), [Buzzr](http://buzzr.com) and more. *Exciting times!*

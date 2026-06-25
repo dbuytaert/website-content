@@ -17,4 +17,6 @@ id: 108
 
 # Buick
 
+![A vintage green Buick is parked on a city street, showing its rear design, chrome details, and tail lights.](http://default/files/cache/san-francisco-2006/buick-640w.jpg)
+
 

@@ -17,4 +17,4 @@ id: 1221
 
 Want to see me dance on tables? No problem. Fill me up with gin and tonic, and play "We come one" from [Faithless](http://faithless.co.uk/). One of my all time favorite party songs.
 
-[video 65EfTFUFDwI]
+https://www.youtube.com/watch?v=65EfTFUFDwI

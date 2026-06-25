@@ -19,4 +19,6 @@ id: 1676
 
 # Bath time
 
+![Two young children sit in a small plastic tub filled with water, enjoying an outdoor bath on the grass.](http://default/files/cache/miscellaneous-2010/bath-time-640w.jpg)
+
 

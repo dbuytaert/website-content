@@ -17,4 +17,4 @@ id: 85
 
 I have a new toy: the Sigma 30mm f/1.4 EX DC HSM. It is bit heavy, but otherwise looks like a fast, quiet and sharp lens. I can see this becoming my new favorite prime lens.
 
-[image miscellaneous-2006/sigma-30mm-f1.4]
+![A close-up of a camera lens.](http://default/files/cache/miscellaneous-2006/sigma-30mm-f1.4-640w.jpg)

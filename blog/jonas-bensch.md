@@ -17,4 +17,6 @@ id: 259
 
 # Jonas Bensch
 
+![A young man with dark hair and facial hair looks to the side against a dark background.](http://default/files/cache/vars-2007/jonas-1-640w.jpg)
+
 

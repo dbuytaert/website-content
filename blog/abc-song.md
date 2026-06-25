@@ -19,7 +19,7 @@ id: 1856
 
 Axl only started school 5 weeks ago so it is pretty amazing to see how fast he has picked up English. Not only can he sing some songs, he is actually getting pretty good at expressing himself in English. It is fascinating to watch.
 
-[video 085fLUxHca0]
+https://www.youtube.com/watch?v=085fLUxHca0
 
 Note that according to Axl, it is *zee* and not *zed*. Just in case you were wondering. ;-)
 

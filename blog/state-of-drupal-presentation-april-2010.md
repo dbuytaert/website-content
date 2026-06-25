@@ -21,5 +21,7 @@ id: 1606
 
 Two weeks ago at DrupalCon San Francisco I gave my traditional state of Drupal presentation. A total of 6000 people watched my keynote live; 3000 were present at DrupalCon, and another 3000 watched the live video stream. Nonetheless, a lot of people asked me for my slides. So in good tradition, you can [download a copy of my slides](https://dri.es/files/state-of-drupal-april-2010.pdf) (PDF, 48 MB) or you can [watch a video recording of my keynote on archive.org](http://archive.org/details/TheStateOfDrupal_100).
 
-[image drupalcon-san-francisco-2010/keynote-backstage-1]
-[image drupalcon-san-francisco-2010/keynote-view]
+![People working at computer stations backstage, managing technical equipment and screens before a keynote presentation at DrupalCon 2010.](http://default/files/cache/drupalcon-san-francisco-2010/keynote-backstage-1-640w.jpg)
+*Picture taken backstage while waiting to go on stage for my keynote.*
+![A laptop on a podium displays a "Thank you!" slide, overlooking an empty conference hall after a keynote speech.](http://default/files/cache/drupalcon-san-francisco-2010/keynote-view-640w.jpg)
+*Picture taken after my keynote just before packing up my laptop.*

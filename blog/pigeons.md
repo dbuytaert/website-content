@@ -17,4 +17,6 @@ id: 46
 
 # Pigeons
 
+![Two pigeons flying with wings spread wide, casting distinct shadows on the ground.](http://default/files/cache/tuscany-2006/pigeons-640w.jpg)
+
 

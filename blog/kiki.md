@@ -17,4 +17,6 @@ id: 67
 
 # Kiki
 
+![A small white beach hut named 'Kiki' with closed doors and windows, facing the sandy shore.](http://default/files/cache/miscellaneous-2006/kiki-640w.jpg)
+
 

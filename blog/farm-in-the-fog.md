@@ -17,4 +17,6 @@ id: 1066
 
 # Farm in the fog
 
+![A white barn and smaller buildings sit in a misty field with trees in the background at sunrise.](http://default/files/cache/beverly-farms-2009/farm-640w.jpg)
+
 

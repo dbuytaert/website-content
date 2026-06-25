@@ -17,4 +17,6 @@ id: 49
 
 # Roofs
 
+![A view of old tiled rooftops in a Tuscan town, showing chimneys, antennas, and weathered surfaces.](http://default/files/cache/tuscany-2006/roofs-640w.jpg)
+
 

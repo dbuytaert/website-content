@@ -17,4 +17,6 @@ id: 5116
 
 # Brussels sprouts in Brussels
 
+![Brussels sprouts with Brussels' skyline in the background](http://default/files/cache/miscellaneous-2020/brussels-sprouts-in-brussels-640w.jpg)
+
 We went on a holiday walk with my sister, and stumbled upon a Brussels sprout field that overlooks Brussels' skyline. *Meta!*

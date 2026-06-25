@@ -18,7 +18,7 @@ One of the fun things about [moving](https://dri.es/moving-to-boston-for-two-yea
 
 For example, I found this old paycheck from 1997 when I was 19 years old. I was working part-time for a Belgian internet service provider called *Planet Internet* to help support my way through college.
 
-[image miscellaneous-2010/first-paycheck]
+![A printed payslip labeled "First Paycheck", showing earnings and deductions for December 1997 to January 1998.](http://default/files/cache/miscellaneous-2010/first-paycheck-640w.jpg)
 
 As you can see from the picture above, I was making 296 BEF/hour, which in today's world is 7.4 EUR/hour or 8.8 USD/hour. The best part of the job was the free flat-fee internet subscription which would otherwise have cost me 300 EUR/year (or 360 USD/year).
 

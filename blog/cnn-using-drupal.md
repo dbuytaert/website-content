@@ -22,4 +22,4 @@ Cable news network CNN just released [CNNgo.com](http://cnngo.com) into beta, fu
 
 As a traditional publisher, you have to figure out how to turn audiences into participants because it opens the doors for better advertising and new monetization opportunities. I think [CNNgo.com](http://cnngo.com) is a great example of how companies like CNN can use the power of Drupal to implement a social media strategy through an add-on site.
 
-[image drupal/cnngo]
+![CNNGo website homepage featuring travel articles, a highlighted hotel in Mumbai, and an advertisement for Novotel.](http://default/files/cache/drupal/cnngo-640w.jpg)

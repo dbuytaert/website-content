@@ -18,4 +18,5 @@ id: 1911
 
 Last week, our servers at [Mollom](https://mollom.com) have been actively tracking a spike in spam traffic across the 30,000 sites that we actively protect. And when I say "spike", I should say "three-fold increase". Fortunately, Mollom blocked all the pesky comment spam. As promptly as it came, the spike suddenly went away. Something is going on out there ...
 
-[image mollom/text-analysis-october-2010 resize=false]
+![](http://default/files/images/mollom/text-analysis-october-2010.jpg)
+*The Y-axis shows the number of requests per second. The X-axis shows the day of the month. The graph is for one Mollom server only.*

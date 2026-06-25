@@ -18,4 +18,6 @@ id: 113
 
 # Elevator
 
+![A woman with sunglasses on her head looks at the camera in an elevator, with her reflection visible.](http://default/files/cache/miscellaneous-2006/karlijn-in-elevator-640w.jpg)
+
 

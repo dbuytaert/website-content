@@ -19,7 +19,7 @@ id: 3631
 
 At [DrupalCon Mumbai](https://dri.es/state-of-drupal-presentation-february-2016) I sat down for several hours with the Drupal team at Pfizer to understand the work they have been doing on improving Drupal content management features. They built a set of foundational modules that help advance Drupal's content workflow capabilities; from content staging, to multi-site content staging, to better auditability, offline support, and several key user experience improvements like full-site preview, and more. In this post, I want to point a spotlight on some of Pfizer's modules, and kick-off an initial discussion around the usefulness of including some of these features in core.
 
-### Use cases
+## Use cases
 
 Before jumping to the technical details, let's talk a bit more about the problems these modules are solving.
 
@@ -30,7 +30,7 @@ Before jumping to the technical details, let's talk a bit more about the problem
 5. **Content recovery** – Even with confirmation dialogs, people delete things they didn't want to delete. This case is about giving users the ability to "undelete" or recover content that has been deleted from their database.
 6. **Audit logs** – For compliance reasons, some organizations need all content revisions to be logged, with the ability to review content that has been deleted and connect each action to a specific user so that employees are accountable for their actions in the CMS.
 
-### Technical details
+## Technical details
 
 All these use cases share a few key traits:
 
@@ -47,43 +47,45 @@ Much of this started as a single module: [Deploy](https://www.drupal.org/project
 - [RELAXed Web Services](https://www.drupal.org/project/relaxed)
 - [Trash](https://www.drupal.org/project/trash)
 
-[image blog/pfizer-content-workflow-improvements-modules]
+![Diagram comparing two Pfizer content workflow improvements, showing staging site deployment with multiversion, replication, and workspaces.](http://default/files/cache/blog/pfizer-content-workflow-improvements-modules-640w.jpg)
 
-#### Multiversion
+### Multiversion
 
 This module does three things: (1) it adds revision support for all content entities in Drupal, not just nodes and block content as provided by core, and (2) it introduces the concept of parent revisions so you can create different branches of your content or site, and (3) it keeps track of conflicts in the revision tree (e.g. when two revisions share the same parent). Many of these features complement the [ongoing improvements to Drupal's Entity API](https://www.drupal.org/node/2635070).
 
-#### Replication
+### Replication
 
 Built on top of Multiversion module, this lightweight module reads revision information stored by Multiversion, and uses that to determine what revisions are missing from a given location and lets you replicate content between a source and a target location. The next two modules, Workspace and RELAXed Web Services depend on replication module.
 
-#### Workspace
+### Workspace
 
 This module enables single site content staging and full-site previews. The UI lets you create workspaces and switch between them. With Replication module different workspaces on the same site can behave like different editorial environments.
 
-#### RELAXed Web Services
+### RELAXed Web Services
 
 This module facilitates cross-site content staging. It provides a more extensive REST API for Drupal with support for UUIDs, translations, file attachments and parent revisions – all important to solve unique challenges with content staging (e.g. UUID and revision information is needed to resolve merge conflicts). The RELAXed Web Services module extends the Replication module and makes it possible to replicate content from local workspaces to workspaces on remote sites using this API.
 
 In short, Multiversion provides the "storage plumbing", whereas Replication, Workspace, and RELAXed Web Services, provide the "transport plumbing".
 
-#### Deploy
+### Deploy
 
 Historically Deploy module has taken care of everything from bottom to top related to content staging. But for Drupal 8 Deploy has been rewritten to just provide a UI on-top of the Workspace and Replication modules. This UI lets you manage content deployments between workspaces on a single site, or between workspaces across sites (if used together with RELAXed Web Services module). The maintainers of the Deploy module have put together a marketing site with more details on what it does: <http://www.drupaldeploy.org>.
 
-#### Trash
+### Trash
 
 To handle use case #5 (content recovery) the Trash module was implemented to restore entities marked as deleted. Much like a desktop trash or recycle bin, the module displays all entities from all supported content types where the default revision is flagged as deleted. Restoring creates a newer revision, which is not flagged as deleted.
 
-#### Synchronizing sites with a battle-tested API
+### Synchronizing sites with a battle-tested API
 
 When a Drupal site installs and enables RELAXed Web Services it will look and behave like the REST API from [CouchDB](http://couchdb.apache.org). This is a pretty clever trick because it enables us to leverage the CouchDB ecosystem of tools. For example, you can use [PouchDB](https://pouchdb.com/), a JavaScript implementation of CouchDB, to provide a fully-decoupled offline database in the web browser or on a mobile device. Using the same API design as CouchDB also gives you "streaming replication" with instant updates between the backend and frontend. This is how Pfizer implements off-line browse and publish.
 
-[image blog/pfizer-content-workflow-improvements-workspaces resize=false]
+![An animated GIF showing a user switching between workspaces in Drupal and previewing site content changes.](http://default/files/images/blog/pfizer-content-workflow-improvements-workspaces.gif)
+*This animated gif shows how a content creator can switch between multiple workspaces and get a full-site preview on a single site. In this example the Live workspace is empty, while there has been a lot of content addition on the Stage workspace in.*
 
-[image blog/pfizer-content-workflow-improvements-deploy resize=false]
+![An animated GIF showing a Drupal workspace being deployed from 'Stage' to 'Live,' starting with an empty Live workspace.](http://default/files/images/blog/pfizer-content-workflow-improvements-deploy.gif)
+*This animated gif shows how a workspace is deployed from 'Stage' to 'Live' on a single site. In this example the Live workspace is initially empty.*
 
-### Conclusion
+## Conclusion
 
 Drupal 8.0 core packed many great improvements, but we didn't focus much on advancing Drupal's content workflow capabilities. As we think about Drupal 8.x and beyond, it might be good to move some of our focus to features like content staging, better audit-ability, off-line support, full-site preview, and more. If you are a content manager, I'd love to hear what you think about better supporting some or all of these use cases. And if you are a developer, I encourage you to take a look at these modules, try them out and let us know what you think.
 

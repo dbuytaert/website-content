@@ -17,6 +17,8 @@ id: 1632
 
 # Beschuit met muisjes
 
+![A piece of Dutch rusk with butter and blue-and-white sugar sprinkles on a polka-dotted napkin.](http://default/files/cache/miscellaneous-2010/beschuit-met-muisjes-640w.jpg)
+
 We spent the afternoon in Amsterdam visiting [the newborn Sebas](https://dri.es/album/miscellaneous-2010/sebas-snijder). The above is what the Dutch serve to celebrate the birth of a baby. Can you imagine?
 
 It's called *"beschuit met muisjes"* (pronunciation: bəˈsxœyt mɛt ˈmœyʃəs, literal: "biscuits with little mice"). It is toast with butter and sugared anise seeds – a tradition that goes back to the 17th century.

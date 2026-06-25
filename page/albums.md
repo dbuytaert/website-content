@@ -14,7 +14,7 @@ id: 3
 # Photo albums
 
 <section id="2026">
-  <h3>2026</h3>
+  <h2>2026</h2>
 
 - [East Coast camping trip](/album/east-coast-2026/)
 - [Bath, UK](/album/bath-2026/)
@@ -25,7 +25,7 @@ id: 3
 </section>
 
 <section id="2025">
-  <h3>2025</h3>
+  <h2>2025</h2>
 
 - [Japan](/album/japan-2025/)
 - [Hiking La Tournette near Annecy, France](/album/la-tournette-2025/)
@@ -38,7 +38,7 @@ id: 3
 </section>
 
 <section id="2024">
-  <h3>2024</h3>
+  <h2>2024</h2>
 
 - [Isle of Skye, Scotland](/album/isle-of-skye-2024/)
 - [Normandy, France](/album/normandy-2024/)
@@ -52,7 +52,7 @@ id: 3
 </section>
 
 <section id="2023">
-  <h3>2023</h3>
+  <h2>2023</h2>
 
 - [Hiking in New Hampshire](/album/pemi-loop-2023/)
 - [Turkey](/album/turkey-2023/)
@@ -67,7 +67,7 @@ id: 3
 </section>
 
 <section id="2022">
-  <h3>2022</h3>
+  <h2>2022</h2>
 
 - [Faymonville, Belgium](/album/faymonville-2022/)
 - [Woodstock, New Hampshire](/album/woodstock-2022/)
@@ -87,7 +87,7 @@ id: 3
 </section>
 
 <section id="2021">
-  <h3>2021</h3>
+  <h2>2021</h2>
 
 - [Iceland (Winter)](/album/iceland-winter-2021/)
 - [Iceland (Summer)](/album/iceland-summer-2021/)
@@ -97,7 +97,7 @@ id: 3
 </section>
 
 <section id="2020">
-  <h3>2020</h3>
+  <h2>2020</h2>
 
 - [Normandy, France](/album/normandy-2020/)
 - [Camping at Hermit Island, Maine](/album/hermit-island-2020/)
@@ -107,7 +107,7 @@ id: 3
 </section>
 
 <section id="2019">
-  <h3>2019</h3>
+  <h2>2019</h2>
 
 - [Sprimont, Belgium](/album/sprimont-2019/)
 - [Hiking in Wales](/album/hiking-in-wales-2019/)
@@ -119,7 +119,7 @@ id: 3
 </section>
 
 <section id="2018">
-  <h3>2018</h3>
+  <h2>2018</h2>
 
 - [Drupal Europe Darmstadt](/album/drupal-europe-darmstadt-2018/)
 - [Maine](/album/maine-2018/)
@@ -132,7 +132,7 @@ id: 3
 </section>
 
 <section id="2017">
-  <h3>2017</h3>
+  <h2>2017</h2>
 
 - [Australia](/album/australia-2017/)
 - [Niagara-on-the-Lake, Canada](/album/niagara-on-the-lake-2017/)
@@ -145,7 +145,7 @@ id: 3
 </section>
 
 <section id="2016">
-  <h3>2016</h3>
+  <h2>2016</h2>
 
 - [Japan](/album/japan-2016/)
 - [New York](/album/new-york-2016/)
@@ -167,7 +167,7 @@ id: 3
 </section>
 
 <section id="2015">
-  <h3>2015</h3>
+  <h2>2015</h2>
 
 - [New Year's Eve in Belgium](/album/new-years-eve-2015/)
 - [Christmas in Belgium](/album/christmas-2015/)
@@ -182,7 +182,7 @@ id: 3
 </section>
 
 <section id="2014">
-  <h3>2014</h3>
+  <h2>2014</h2>
 
 - [New Year's Eve in Belgium](/album/new-years-eve-2014/)
 - [Christmas in Belgium](/album/christmas-2014/)
@@ -206,7 +206,7 @@ id: 3
 </section>
 
 <section id="2013">
-  <h3>2013</h3>
+  <h2>2013</h2>
 
 - [New Year's Eve in Belgium](/album/new-years-eve-2013/)
 - [Christmas in Belgium](/album/christmas-2013/)
@@ -221,7 +221,7 @@ id: 3
 </section>
 
 <section id="2012">
-  <h3>2012</h3>
+  <h2>2012</h2>
 
 - [New Year's Eve in Belgium](/album/new-years-eve-2012/)
 - [Christmas in Belgium](/album/christmas-2012/)
@@ -253,7 +253,7 @@ id: 3
 </section>
 
 <section id="2011">
-  <h3>2011</h3>
+  <h2>2011</h2>
 
 - [New Year's Eve in Belgium](/album/new-years-eve-2011/)
 - [Christmas in Belgium](/album/christmas-2011/)
@@ -278,7 +278,7 @@ id: 3
 </section>
 
 <section id="2010">
-  <h3>2010</h3>
+  <h2>2010</h2>
 
 - [Washington](/album/washington-2010/)
 - [New York](/album/new-york-2010/)
@@ -296,7 +296,7 @@ id: 3
 </section>
 
 <section id="2009">
-  <h3>2009</h3>
+  <h2>2009</h2>
 
 - [Beverly Farms, Boston, Massachusetts](/album/beverly-farms-2009/)
 - [Sailing in Kortgene, The Netherlands](/album/kortgene-2009/)
@@ -313,7 +313,7 @@ id: 3
 </section>
 
 <section id="2008">
-  <h3>2008</h3>
+  <h2>2008</h2>
 
 - [London, UK](/album/london-2008/)
 - [DrupalCon Szeged 2008](/album/drupalcon-szeged-2008/)
@@ -330,7 +330,7 @@ id: 3
 </section>
 
 <section id="2007">
-  <h3>2007</h3>
+  <h2>2007</h2>
 
 - [Montreal, Canada](/album/montreal-2007/)
 - [Birth of Axl](/album/axl-2007/)
@@ -344,7 +344,7 @@ id: 3
 </section>
 
 <section id="2006">
-  <h3>2006</h3>
+  <h2>2006</h2>
 
 - [Portland](/album/portland-2006/)
 - [DrupalCon Hungary](/album/drupalcon-budapest-2006/)
@@ -363,7 +363,7 @@ id: 3
 </section>
 
 <section id="2005">
-  <h3>2005</h3>
+  <h2>2005</h2>
 
 - [Barcelona](/album/barcelona-2005/)
 - [DrupalCon Amsterdam](/album/drupalcon-amsterdam-2005/)
@@ -380,7 +380,7 @@ id: 3
 </section>
 
 <section id="2004">
-  <h3>2004</h3>
+  <h2>2004</h2>
 
 - [Vancouver](/album/vancouver-2004/)
 - [Wedding Arik and Ameike](/album/wedding-arik-ameike-2004/) (part 1)
@@ -394,7 +394,7 @@ id: 3
 </section>
 
 <section id="2003">
-  <h3>2003</h3>
+  <h2>2003</h2>
 
 - [Weekend in Milan](/album/milan-2003/)
 - [Quad driving in Latinne](/album/latinne-2003/)
@@ -413,7 +413,7 @@ id: 3
 </section>
 
 <section id="2002">
-  <h3>2002</h3>
+  <h2>2002</h2>
 
 - [Slotted waveguide antennas](/album/waveguide-2002/)
 - [Survival weekend in Florenville](/album/florenville-2002/)
@@ -428,7 +428,7 @@ id: 3
 </section>
 
 <section id="2001">
-  <h3>2001</h3>
+  <h2>2001</h2>
 
 - [Sailing in Croatia](/album/croatia-2001/)
 - [LAN party Klaas and Dries](/album/lan-party-klaas-dries-2001/)
@@ -442,7 +442,7 @@ id: 3
 </section>
 
 <section id="2000">
-  <h3>2000</h3>
+  <h2>2000</h2>
 
 - [Sailing in Greece](/album/greece-2000/)
 - [Puenting in Ardennes](/album/puenting-2000/)
@@ -451,224 +451,224 @@ id: 3
 </section>
 
 <section id="1999">
-  <h3>1999</h3>
+  <h2>1999</h2>
 
 - [Sailing in Greece](/album/greece-1999/)
 
 </section>
 
 <section id="1998">
-  <h3>1998</h3>
+  <h2>1998</h2>
 
 - [Sailing in Turkey](/album/turkey-1998/)
 
 </section>
 
 <section id="1997">
-  <h3>1997</h3>
+  <h2>1997</h2>
 
 - [Sailing in Greece](/album/greece-1997/)
 
 </section>
 
 <section id="1996">
-  <h3>1996</h3>
+  <h2>1996</h2>
 
 - [Skiing in Meribel](/album/france-1996/)
 
 </section>
 
 <section id="1994">
-  <h3>1994</h3>
+  <h2>1994</h2>
 
 - [Miscellaneous 1994](/album/miscellaneous-1994/)
 
 </section>
 
 <section id="1990">
-  <h3>1990</h3>
+  <h2>1990</h2>
 
 - [Miscellaneous 1990](/album/miscellaneous-1990/)
 
 </section>
 
 <section id="1989">
-  <h3>1989</h3>
+  <h2>1989</h2>
 
 - [Miscellaneous 1989](/album/miscellaneous-1989/)
 
 </section>
 
 <section id="1987">
-  <h3>1987</h3>
+  <h2>1987</h2>
 
 - [Miscellaneous 1987](/album/miscellaneous-1987/)
 
 </section>
 
 <section id="1986">
-  <h3>1986</h3>
+  <h2>1986</h2>
 
 - [Miscellaneous 1986](/album/miscellaneous-1986/)
 
 </section>
 
 <section id="1985">
-  <h3>1985</h3>
+  <h2>1985</h2>
 
 - [Miscellaneous 1985](/album/miscellaneous-1985/)
 
 </section>
 
 <section id="1983">
-  <h3>1983</h3>
+  <h2>1983</h2>
 
 - [Miscellaneous 1983](/album/miscellaneous-1983/)
 
 </section>
 
 <section id="1982">
-  <h3>1982</h3>
+  <h2>1982</h2>
 
 - [Miscellaneous 1982](/album/miscellaneous-1982/)
 
 </section>
 
 <section id="1981">
-  <h3>1981</h3>
+  <h2>1981</h2>
 
 - [Miscellaneous 1981](/album/miscellaneous-1981/)
 
 </section>
 
 <section id="1980">
-  <h3>1980</h3>
+  <h2>1980</h2>
 
 - [Miscellaneous 1980](/album/miscellaneous-1980/)
 
 </section>
 
 <section id="1979">
-  <h3>1979</h3>
+  <h2>1979</h2>
 
 - [Miscellaneous 1979](/album/miscellaneous-1979/)
 
 </section>
 
 <section id="1978">
-  <h3>1978</h3>
+  <h2>1978</h2>
 
 - [Miscellaneous 1978](/album/miscellaneous-1978/)
 
 </section>
 
 <section id="1975">
-  <h3>1975</h3>
+  <h2>1975</h2>
 
 - [Miscellaneous 1975](/album/miscellaneous-1975/)
 
 </section>
 
 <section id="1974">
-  <h3>1974</h3>
+  <h2>1974</h2>
 
 - [Miscellaneous 1974](/album/miscellaneous-1974/)
 
 </section>
 
 <section id="1972">
-  <h3>1972</h3>
+  <h2>1972</h2>
 
 - [Miscellaneous 1972](/album/miscellaneous-1972/)
 
 </section>
 
 <section id="1966">
-  <h3>1966</h3>
+  <h2>1966</h2>
 
 - [Miscellaneous 1966](/album/miscellaneous-1966/)
 
 </section>
 
 <section id="1965">
-  <h3>1965</h3>
+  <h2>1965</h2>
 
 - [Miscellaneous 1965](/album/miscellaneous-1965/)
 
 </section>
 
 <section id="1964">
-  <h3>1964</h3>
+  <h2>1964</h2>
 
 - [Miscellaneous 1964](/album/miscellaneous-1964/)
 
 </section>
 
 <section id="1962">
-  <h3>1962</h3>
+  <h2>1962</h2>
 
 - [Miscellaneous 1962](/album/miscellaneous-1962/)
 
 </section>
 
 <section id="1960">
-  <h3>1960</h3>
+  <h2>1960</h2>
 
 - [Miscellaneous 1960](/album/miscellaneous-1960/)
 
 </section>
 
 <section id="1959">
-  <h3>1959</h3>
+  <h2>1959</h2>
 
 - [Miscellaneous 1959](/album/miscellaneous-1959/)
 
 </section>
 
 <section id="1957">
-  <h3>1957</h3>
+  <h2>1957</h2>
 
 - [Miscellaneous 1957](/album/miscellaneous-1957/)
 
 </section>
 
 <section id="1956">
-  <h3>1956</h3>
+  <h2>1956</h2>
 
 - [Miscellaneous 1956](/album/miscellaneous-1956/)
 
 </section>
 
 <section id="1955">
-  <h3>1955</h3>
+  <h2>1955</h2>
 
 - [Miscellaneous 1955](/album/miscellaneous-1955/)
 
 </section>
 
 <section id="1954">
-  <h3>1954</h3>
+  <h2>1954</h2>
 
 - [Miscellaneous 1954](/album/miscellaneous-1954/)
 
 </section>
 
 <section id="1951">
-  <h3>1951</h3>
+  <h2>1951</h2>
 
 - [Miscellaneous 1951](/album/miscellaneous-1951/)
 
 </section>
 
 <section id="1927">
-  <h3>1927</h3>
+  <h2>1927</h2>
 
 - [Miscellaneous 1927](/album/miscellaneous-1927/)
 
 </section>
 
 <section id="unknown">
-  <h3>Unknown</h3>
+  <h2>Unknown</h2>
 
 - [To be classified](/album/old-photos-without-date/)
 

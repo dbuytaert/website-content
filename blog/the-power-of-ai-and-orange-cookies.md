@@ -17,14 +17,16 @@ id: 5411
 
 # The power of artificial intelligence (and orange cookies)
 
+![A baking sheet holds freshly baked orange cookies.](http://default/files/cache/miscellaneous-2022/orange-cookies-640w.jpg)
+
 Navigated to [OpenAI](https://chat.openai.com/), an artificial intelligence (AI) research platform:
 
-[image blog/openai-orange-cookies resize=false]
+![I asked OpenAI to write a letter to my wife begging her to make orange cookies.](http://default/files/cache/blog/openai-orange-cookies-640w.png)
 
 Twenty-four hours later:
 
 <div class="large">
-  [image miscellaneous-2022/orange-cookies caption=false]
+  ![A baking sheet holds freshly baked orange cookies.](http://default/files/cache/miscellaneous-2022/orange-cookies-640w.jpg)
 </div>
 
 What an incredible time to be alive. Happy holidays!

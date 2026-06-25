@@ -18,9 +18,9 @@ id: 258
 
 About a week ago the new [Pro Drupal Development book](http://drupalbook.com/) started shipping, and today, the book cracked the Amazon Top 100. And we're not talking about the top 100 computer books here, we're talking about *the* top 100 bestsellers.
 
-[image drupal/drupal-pro-amazon-rank-1 resize=false]
+![Amazon sales rank of a Drupal-related book is #87 in the Books category.](http://default/files/images/drupal/drupal-pro-amazon-rank-1.jpg)
 
-[image drupal/drupal-pro-amazon-rank-2 resize=false]
+![Amazon listing for "Pro Drupal Development" book, showing price, discount, rating, and pre-order options.](http://default/files/cache/drupal/drupal-pro-amazon-rank-2-640w.jpg)
 
 I'm still waiting for my copy to arrive, and rumor has it that [Apress](https://www.apress.com/), the publisher, already started making arrangements for a reprint.
 

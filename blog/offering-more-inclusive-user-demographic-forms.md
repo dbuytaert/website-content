@@ -19,6 +19,8 @@ id: 4336
 
 # Offering more inclusive user demographic forms
 
+![How the Open Demographics Initiative recommends you ask for gender information](http://default/files/cache/blog/open-demographics-gender-identification-2018-640w.jpg)
+
 Last week, [Nikki Stevens](https://www.drupal.org/u/drnikki) presented ["Other, Please Specify"](https://youtu.be/3P97-uiYWXU) for TEDx at Arizona State University. In her TED Talk, Nikki shares the story behind the [Open Demographics Initiative](https://drnikki.github.io/open-demographics/), which is developing a recommended set of questions that anyone can use to ask online community members about their demographics.
 
 Nikki demonstrates how a majority of demographic surveys require users to conform to restrictive identity fields, which can alienate minority or underrepresented groups. The Open Demographics Initiative wants to develop forms that are more inclusive, in addition to giving people more control over the data and information they chose to disclose.

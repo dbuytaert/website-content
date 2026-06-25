@@ -17,4 +17,6 @@ id: 58
 
 # Jasmina
 
+![A person with blue eyes wears a colorful headscarf, covering most of their face, and looks directly at the camera.](http://default/files/cache/vars-2006/jasmina-640w.jpg)
+
 

@@ -16,6 +16,8 @@ id: 4366
 
 # National Geographic's brilliant cover
 
+![National Geographic's "Planet or plastic?" cover](http://default/files/cache/blog/national-geographic-planet-or-plastic-cover-640w.jpg)
+
 One of the best covers I've seen. *Iconic!*
 
-[image blog/national-geographic-planet-or-plastic-cover]
+![National Geographic's "Planet or plastic?" cover](http://default/files/cache/blog/national-geographic-planet-or-plastic-cover-640w.jpg)

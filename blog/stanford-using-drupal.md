@@ -19,7 +19,7 @@ id: 1101
 
 I've been around the web long enough to know a good-looking site when I see one – <http://shc.stanford.edu> is a good looking site. It is the home page of the [Stanford Humanities Center](http://shc.stanford.edu), and it uses [Drupal](https://www.drupal.org).
 
-[image drupal/stanford-humanities-center]
+![Screenshot of the Stanford Humanities Center website, featuring a project on mapping historical knowledge exchange and various academic resources.](http://default/files/cache/drupal/stanford-humanities-center-640w.jpg)
 
 And there is more. A quick glance at <https://opensource.stanford.edu/knowledgetopics/drupal/sites-using-drupal-stanford> reveals a list of over fifty Drupal sites currently active at Stanford. As far as I saw on the ones I clicked on, each site is different.
 

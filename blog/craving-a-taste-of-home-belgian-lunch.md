@@ -23,11 +23,11 @@ When we arrived in Belgium this weekend, my mother prepared us lunch. It tasted 
 
 Which foods do you miss from your home country or home town?
 
-[image antwerp-2011/lunch-1]
-[image antwerp-2011/lunch-2]
-[image antwerp-2011/lunch-3]
-[image antwerp-2011/lunch-4]
-[image antwerp-2011/lunch-5]
-[image antwerp-2011/lunch-6]
-[image antwerp-2011/lunch-7]
-[image antwerp-2011/lunch-8]
+![An assortment of spreads, cheese, and condiments on a table, ready for lunch.](http://default/files/cache/antwerp-2011/lunch-1-640w.jpg)
+![A table set for lunch with bread rolls, spreads, jam, and packets of sauce on a tray.](http://default/files/cache/antwerp-2011/lunch-2-640w.jpg)
+![A basket filled with various types of bread, including sliced whole grain and soft white rolls, on a table.](http://default/files/cache/antwerp-2011/lunch-3-640w.jpg)
+![A basket filled with croissants and bread rolls on a colorful napkin, ready to be served for lunch.](http://default/files/cache/antwerp-2011/lunch-4-640w.jpg)
+![A bottle of curry ketchup is in focus on a table with plates, cups, and food in the background.](http://default/files/cache/antwerp-2011/lunch-5-640w.jpg)
+![A container of "Sirop de Liège" fruit spread sits on a table, likely part of a meal.](http://default/files/cache/antwerp-2011/lunch-6-640w.jpg)
+![A bread roll with orange spread and small white pearl onions on a plate, with a knife and glasses nearby.](http://default/files/cache/antwerp-2011/lunch-7-640w.jpg)
+![A young child in an orange shirt holds a piece of bread with chocolate spread while sitting at the table.](http://default/files/cache/antwerp-2011/lunch-8-640w.jpg)

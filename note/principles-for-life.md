@@ -31,7 +31,7 @@ This page started as an email that I sent to my kids in 2013:
 > 
 > Dad
 
-### Principles to live by daily
+## Principles to live by daily
 
 - Exercise your brain continuously: keep it busy. Play [chess](https://dri.es/tag/chess) or other strategy games. Write a journal. Keep your brain buzzing.
 - Travel as much as you can. My first trip to [India](https://dri.es/tag/india) blew my mind and changed me forever. Let's go anywhere together, especially if it gives us an opportunity to learn something new.

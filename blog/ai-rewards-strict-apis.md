@@ -22,11 +22,13 @@ id: 6171
 
 # AI rewards strict APIs
 
+![An astronaut explores a surreal landscape beneath rainbow-colored planetary rings, symbolizing the journey into AI's transformative potential for Drupal.](http://default/files/cache/blog/drupal-ai-advantage-640w.jpg)
+
 Every framework's API surface sits on a spectrum, from strict (typed interfaces, schemas, service containers) to loose (string keys, naming conventions, untyped hooks). Strict APIs cost more upfront: more boilerplate, more to learn before writing code. Loose APIs shift that cost later: more ambiguity, more reliance on naming conventions, and more bugs that are harder to detect and fix.
 
 AI changes who pays. Boilerplate and learning curves don't slow agents down. What slows them down is missing feedback: code that runs but does the wrong thing, errors that don't point to the cause, conventions that have to be guessed. Magic-name binding, untyped hooks, unvalidated configuration, and conventions the code doesn't enforce produce exactly those failure modes.
 
-### Magic strings break the loop
+## Magic strings break the loop
 
 For example, both Drupal and WordPress have long used magic-string hooks. In Drupal, you write a function like `mymodule_user_login`. WordPress uses a related pattern: a string action name passed to `add_action()`. In both cases, the binding is a string the language can't validate.
 
@@ -40,7 +42,7 @@ For AI agents, this keeps the feedback loop tight instead of turning it into tri
 
 At DrupalCon Chicago this March, AI coding tools migrated a [Lovable-generated site into Drupal](https://dri.es/state-of-drupal-presentation-march-2026) in hours. The strict APIs kept the agent on track.
 
-### A bet made before AI existed
+## A bet made before AI existed
 
 This didn't start with AI. Drupal 8, which we shipped in 2015, introduced Symfony's routing, services, and event dispatcher, replacing large parts of the procedural hook system. Since then, we've kept reducing magic hooks. The attribute-based approach (`#[Hook('user_login')]`) landed in Drupal 11.1 and helps remove more of the remaining procedural-only paths.
 
@@ -54,7 +56,7 @@ Meanwhile, WordPress made a different bet, prioritizing backward compatibility o
 
 Those trade-offs now determine how efficiently AI agents can work with each platform.
 
-### What was style is now speed
+## What was style is now speed
 
 What used to be a stylistic choice is now a speed and cost problem. Loose APIs mean more debugging and guesswork. Strict APIs mean faster, more precise feedback. This was always true for humans. It's now also true for AI agents. But today that cost shows up in tokens.
 

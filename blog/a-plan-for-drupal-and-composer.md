@@ -17,6 +17,8 @@ id: 4416
 
 # A plan for Drupal and Composer
 
+![The Composer Initiative for Drupal](http://default/files/cache/drupal/drupal-composer-initiative-640w.jpg)
+
 At DrupalCon Nashville, we launched a strategic initiative to improve support for [Composer](https://getcomposer.org/) in Drupal 8. To learn more, you can [watch the recording of my DrupalCon Nashville keynote](https://dri.es/state-of-drupal-presentation-april-2018) or read the [Composer Initiative issue on Drupal.org](https://www.drupal.org/project/ideas/issues/2958021).
 
 While Composer isn't required when using Drupal Core, many Drupal site builders use it as the preferred way of assembling websites (myself included). A growing number of contributed modules also require the use of Composer, which increases the need to make Composer easier to use with Drupal.

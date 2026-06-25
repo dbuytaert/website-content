@@ -18,4 +18,4 @@ id: 554
 
 Koen Vervloesem interviewed me about [Mollom](https://mollom.com) for [Datanews](http://datanews.knack.be/ict/?origin=datanews.be&destination=/), a weekly Belgian IT magazine. We're featured as the "start-up of the week" in the December 5 issue. If you understand Dutch, you can [read the article online](http://www.datanews.be/nl/news/90-112-21395/mollom-beschermt-internet-tegen-rommel.html).
 
-[image mollom/datanews-2008-1]
+![A newspaper article about Mollom, a startup that protects the internet from spam and unwanted content.](http://default/files/cache/mollom/datanews-2008-1-640w.jpg)

@@ -17,4 +17,6 @@ id: 1981
 
 # Ebay using Drupal
 
+![EBay Classifieds Group homepage with a welcome message highlighting its global online classifieds network and local community connections.](http://default/files/cache/drupal/ebay-classifieds-group-640w.jpg)
+
 Ebay is using [Drupal](https://www.drupal.org) for <http://www.ebayclassifiedsgroup.com>. *Cool!*

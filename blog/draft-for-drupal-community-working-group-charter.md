@@ -24,15 +24,15 @@ As a first step towards implementing this proposed governance structure, we set 
 
 With the help of Randy Fay, Greg Dunlap, David Strauss, George DeMet, Donna Benjamin, Jeremy Thorson, Jennifer Hodgdon, Angela Byron and others, we drafted a charter for the Community Working Group. Before we officially launch this group, I would like to get your feedback. We'll iterate on the draft charter based on all your feedback. *Thanks!*
 
-### Community Working Group Charter (DRAFT)
+## Community Working Group Charter (DRAFT)
 
-#### Mission
+### Mission
 
 The mission of the Community Working Group (CWG) is to maintain a friendly and welcoming community for the Drupal project on the different drupal.org websites, official IRC channels, and mailing lists.
 
 The CWG acts as a *group* to defuse tense situations, to keep discussions productive, and to act as a point of escalation and final arbitration for intractable conflicts within the Drupal community.
 
-#### Scope / duties / responsibilities
+### Scope / duties / responsibilities
 
 The goal of of the CWG is to facilitate discussion, provide conflict mediation assistance, and (if all else fails) punitive action against individuals/groups who are not able to resolve conflicts by themselves. Its scope extends to Drupal community members, regardless of medium (e.g. Drupal.org, IRC, Twitter) or location (e.g. local meetup, DrupalCon).
 
@@ -51,7 +51,7 @@ The following items are not within the scope of the CWG's charter:
 - The CWG cannot make technical policy decisions (this is the responsibility of the Technical Working Group) or community-wide governance decisions (this is the responsibility of the Governance Working Group)
 - The CWG cannot change or extend its own charter; at present that authority lies solely with Dries Buytaert.
 
-#### Process
+### Process
 
 The CWG aims to be as transparent as possible by documenting its decisions publicly when possible. In sensitive situations, however, the group may omit details out of respect for the privacy of involved individuals.
 
@@ -59,6 +59,6 @@ If any of the involved parties feels a decision of the CWG is unreasonable, they
 
 Only Dries Buytaert can make changes to the CWG's charter, and he can make changes at any time. At least once a year, the charter for the CWG meets with Dries Buytaert to review the charter.
 
-#### Membership
+### Membership
 
 For now, Dries Buytaert will appoint and remove members to this group as needed. In the future, the charter may be revised to adopt a more formal process.

@@ -20,6 +20,8 @@ id: 4656
 
 # Drupal's commitment to accessibility
 
+![A figure opening doors, lit from behind with a bright light.](http://default/files/cache/blog/figure-opening-doors-640w.jpg)
+
 Last week, [WordPress Tavern](https://wptavern.com/) picked up [my blog post about Drupal 8's upcoming Layout Builder](https://dri.es/why-drupal-layout-builder-is-so-unique-and-powerful).
 
 While I'm grateful that WordPress Tavern covered Drupal's Layout Builder, it is not surprising that the majority of [WordPress Tavern's blog post](https://wptavern.com/drupal-8-7-to-introduce-layout-builder-contributors-face-accessibility-challenges) alludes to the potential challenges with accessibility. After all, [Gutenberg's lack of accessibility has been a big topic of debate](https://wptavern.com/wordpress-accessibility-team-delivers-sobering-assessment-of-gutenberg-we-have-to-draw-a-line), and a point of frustration in the WordPress community.

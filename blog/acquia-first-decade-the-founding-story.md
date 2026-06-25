@@ -21,7 +21,7 @@ id: 3956
 
 This week marked Acquia's 10th anniversary. In 2007, Jay Batson and I set out to build a software company based on open source and Drupal that we would come to call Acquia. In honor of our tenth anniversary, I wanted to share some of the milestones and lessons that have helped shape Acquia into the company it is today. I haven't shared these details before so I hope that my record of Acquia's founding not only pays homage to our incredible colleagues, customers and partners that have made this journey worthwhile, but that it offers honest insight into the challenges and rewards of building a company from the ground up. If you like this story, I also encourage you to read [Jay's side of story](http://www.startupdj.com/blog/acquias-10-year-anniversary).
 
-### A Red Hat for Drupal
+## A Red Hat for Drupal
 
 In 2007, I was attending the University of Ghent working on my [PhD dissertation](https://dri.es/tag/phd-research). At the same time, Drupal was gaining momentum; I will never forget when MTV called me seeking support for their new Drupal site. I remember being amazed that a brand like MTV, an institution I had grown up with, had selected Drupal for their website. I was determined to make Drupal successful and helped MTV free of charge.
 
@@ -33,7 +33,7 @@ If you're curious as to how the Navajo Code Talker Dictionary fits into all of t
 
 [newsletter blog]
 
-### Breakfast in Sunnyvale
+## Breakfast in Sunnyvale
 
 In March of 2007, I flew from Belgium to California to attend [Yahoo's Open Source CMS Summit](https://dri.es/open-source-cms-summit-at-yahoo), where I also helped host DrupalCon Sunnyvale. It was at DrupalCon Sunnyvale where Jay first introduced himself to me. He explained that he was interested in building a company that could provide enterprise organizations supplementary services and support for a number of open source projects, including Drupal and Apache Solr. Initially, I was hesitant to meet with Jay. I was focused on getting Drupal 5 released, and I wasn't ready to start a company until I finished my PhD. Eventually I agreed to breakfast.
 
@@ -43,11 +43,11 @@ We spent the next few months talking about a vision for the business, eliminated
 
 On June 25th, 2007, Jay filed the paperwork to incorporate Acquia and officially register the company name. We had no prospective customers, no employees, and no formal product to sell. In the summer of 2007, we received a convertible note from North Bridge. This initial seed investment gave us the capital to create a business plan, travel to pitch to other investors, and hire our first employees. Since meeting Jay in Sunnyvale, I had gotten to know Michael Skok who also became an influential mentor for me.
 
-[image acquia/wired-interview-1]
+![Two men sitting on outdoor concrete stairs, both smiling at the camera.](http://default/files/images/acquia/wired-interview-1.jpg)
 
 Throughout this period, I remained hesitant about committing to Acquia as I was devoted to completing my PhD. Eventually, Jay and Michael convinced me to get on board while finishing my PhD, rather than doing things sequentially.
 
-### Acquia, my Drupal startup
+## Acquia, my Drupal startup
 
 Soon thereafter, Acquia received a Series A term sheet from North Bridge, with Michael Skok leading the investment. We also selected Sigma Partners and Tim O'Reilly's OATV from all of the interested funds as co-investors with North Bridge; Tim had become both a friend and an advisor to me.
 
@@ -57,19 +57,19 @@ In many ways we were an unusual startup. Acquia itself didn't have a product to 
 
 In November 2007, [we officially announced Acquia to the world](https://dri.es/acquia-my-drupal-startup). We weren't ready but a reporter had caught wind of our stealth startup, and forced us to unveil Acquia's existence to the Drupal community with only 24 hours notice. We scrambled and worked through the night on [a blog post](https://dri.es/acquia-my-drupal-startup). Reactions were mixed, but generally very supportive. I shared in that first post my hopes that Acquia would accomplish two things: (i) form a company that supported me in providing leadership to the Drupal community and achieving my vision for Drupal and (ii) establish a company that would be to Drupal what Ubuntu or Red Hat were to Linux.
 
-[image acquia/acquia-com-march-2008]
+![Acquia.com's homepage as captured in March 2008.](http://default/files/cache/acquia/acquia-com-march-2008-640w.jpg)
 
-### The importance of enduring values
+## The importance of enduring values
 
 It was at an offsite in late 2007 where we determined our corporate values. I'm proud to say that we've held true to those values that were scribbled onto our whiteboard 10 years ago. The leading tenant of our mission was to build a company that would "empower everyone to rapidly assemble killer websites".
 
-[image acquia/acquia-vision-2007]
+![A whiteboard displays handwritten notes outlining Acquia's mission, vision, and values, emphasizing collaboration, accessibility, and innovation.](http://default/files/cache/acquia/acquia-vision-2007-640w.jpg)
 
 In January 2008, we had six people on staff: Gábor Hojtsy (Principal Acquia engineer, Drupal 6 branch maintainer), Kieran Lal (Acquia product manager, key Drupal contributor), Barry Jaspan (Principal Acquia engineer, Drupal core developer) and Jeff Whatcott (Vice President of Marketing). Because I was still living in Belgium at the time, many of our meetings took place screen-to-screen:
 
-[image acquia/typical-work-day]
+![A video call with four participants; one takes a photo, another makes a playful gesture, and others engage.](http://default/files/cache/acquia/typical-work-day-640w.jpg)
 
-### Opening our doors for business
+## Opening our doors for business
 
 We spent a majority of the first year building our first products. Finally, in September of 2008, we officially [opened our doors for business](https://dri.es/acquia-out-of-beta). We publicly announced commercial availability of the Acquia Drupal distribution and the Acquia Network. The Acquia Network would offer subscription-based access to commercial support for all of the modules in Acquia Drupal, our free distribution of Drupal. This first product launched closely mirrored the Red Hat business model by prioritizing enterprise support.
 
@@ -77,7 +77,7 @@ We quickly learned that in order to truly embrace Drupal, customers would need s
 
 This was our first major turning point; supporting "everything Drupal" was a big shift at the time. Selling support for Acquia Drupal exclusively was not appealing to customers, however, we were unsure that we could financially sustain support for every Drupal module. As a startup, you have to be open to modifying and revising your plans, and to failing fast. It was a scary transition, but we knew it was the right thing to do.
 
-### Building a new business model for open source
+## Building a new business model for open source
 
 Exiting 2008, we had launched Acquia Drupal, the Acquia Network, and had committed to supporting all things Drupal. While we had generated a respectable pipeline for Acquia Network subscriptions, we were not addressing Drupal's biggest adoption challenges; usability and scalability.
 
@@ -87,21 +87,21 @@ In October of 2008, our team gathered for a strategic offsite. Tom Erickson, who
 
 **Solving for usability:** In 2008, WordPress and Ning made it really easy for people to start blogging or to set up a social network. At the time, Drupal didn't encourage this same level of adoption for non-technical audiences. Acquia Gardens was created to offer an easy on-ramp for people to experience the power of Drupal, without worrying about installation, hosting, and upgrading. It was one of the first times we developed an operational model that would offer "Drupal-as-a-service".
 
-[image acquia/acquia-roadmap-2009]
+![Diagram showing Acquia's roadmap with Acquia Gardens, Subscriptions, and Acquia Fields, all connected through Acquia Network for support.](http://default/files/images/acquia/acquia-roadmap-2009.jpg)
 
 Fast forward to today, and Acquia Fields was renamed Acquia Hosting and later Acquia Cloud. Acquia Gardens became Drupal Gardens and later evolved into Acquia Cloud Site Factory. In 2008, this product roadmap to move Drupal into the cloud was a bold move. Today, the Cloud is the starting point for any modern digital architecture. By adopting the Cloud into our product offering, I believe Acquia helped establish a new business model to commercialize open source. Today, I can't think of many open source companies that don't have a cloud offering.
 
-### Tom Erickson takes a chance on Acquia
+## Tom Erickson takes a chance on Acquia
 
 Tom joined Acquia as an advisor and a member of our Board of Directors when Acquia was founded. Since the first time I met Tom, I always wanted him to be an integral part of Acquia. It took some convincing, but Tom eventually agreed to [join us full time as our CEO](https://dri.es/tom-erickson-joined-acquia-as-ceo) in 2009. Jay Batson, Acquia's founding CEO, continued on as the Vice President at Acquia responsible for incubating new products and partnerships.
 
-### Moving from Europe to the United States
+## Moving from Europe to the United States
 
 In 2010, after spending my entire life in Antwerp, [I decided to move to Boston](https://dri.es/moving-to-boston-for-two-years). The move would allow me to be closer to the team. A majority of the company was in Massachusetts, and at the pace we were growing, it was getting harder to help execute our vision all the way from Belgium. I was also hoping to cut down on travel time; in 2009 flew 100,000 miles in just one year (little did I know that come 2016, I'd be flying 250,000 miles!).
 
 This is a challenge that many entrepreneurs face when they commit to starting their own company. Initially, I was only planning on staying on the East Coast for two years. Moving 3,500 miles away from your home town, most of your relatives, and many of your best friends is not an easy choice. However, it was important to increase our chances of success, and relocating to Boston felt essential. My experience of moving to the US had a big impact on my life.
 
-### Building the universal platform for the world's greatest digital experiences
+## Building the universal platform for the world's greatest digital experiences
 
 Entering 2010, I remember feeling that Acquia was really 3 startups in one; our support business (Acquia Network, which was very similar to Red Hat's business model), our managed cloud hosting business (Acquia Cloud) and Drupal Gardens (a WordPress.com based on Drupal). Welcoming Tom as our CEO would allow us to best execute on this offering, and moving to Boston enabled me to partner with Tom directly. It was during this transformational time that I think we truly transitioned out of our "founding period" and began to emulate the company I know today.
 
@@ -109,6 +109,6 @@ The decisions we made early in the company's life, have proven to be correct. Th
 
 With a decade behind us, and many lessons learned, we are on the cusp of yet another big shift that is as important as the decision we made to launch Acquia Field and Gardens in 2008. In 2016, I led the project to update Acquia's mission to "build the universal platform for the world's greatest digital experiences". This means expanding our focus, and becoming the leader in building digital customer experiences. Just like I openly shared our [roadmap and strategy in 2009](https://dri.es/acquia-2009-roadmap), I plan to share our next 10 year plan in the near future. It's time for Acquia to lay down the ambitious foundation that will enable us to be at the forefront of innovation and digital experience in 2027.
 
-### A big thank you
+## A big thank you
 
 Of course, none of these results and milestones would be possible without the hard work of the Acquia team, our customers, partners, the Drupal community, and our many friends. Thank you for all your hard work. After 10 years, I continue to love the work I do at Acquia each day – and that is because of you.

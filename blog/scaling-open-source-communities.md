@@ -20,7 +20,7 @@ id: 3241
 
 We truly live in miraculous times. Open Source is at the core of the largest organizations in the world. Open Source is changing lives in emerging countries. Open Source has changed the tide of governments around the world. And yet, Open Source can be really difficult. Open Source can be largely a thankless job. It is hard to find volunteers, it is hard to find organizations to donate time or money, it is hard to organize the community, it is hard to learn, it is hard to attract full-time contributors, and more. As the project lead for Drupal, one of the largest Open Source projects/communities in the world, I live these challenges every day. In this blog post, I will analyze the challenge with scaling Open Source communities and recommend a solution for how to build very large Open Source communities.
 
-### Open Source projects are public goods
+## Open Source projects are public goods
 
 In economic terms, for something to be a ["public good"](https://en.wikipedia.org/wiki/Public_good), it needs to match two criteria:
 
@@ -31,7 +31,7 @@ Examples of public goods include street lighting, national defense, public parks
 
 The realization that Open Source is a public good is a helpful one because there has been a lot of research about how to maintain and scale public goods.
 
-### Public goods and the free-rider problem
+## Public goods and the free-rider problem
 
 The biggest problem with public goods is the ["free rider problem"](https://en.wikipedia.org/wiki/Free_rider_problem). A free rider is someone who uses a public good but who does not pay anything (or pay enough) towards its cost or production. If the maintainers of a public good do not address the free-rider problem it can lead to the non-production or under-production of a public good. This is generally known as the ["Tragedy of the Commons"](https://en.wikipedia.org/wiki/Tragedy_of_the_commons).
 
@@ -41,7 +41,7 @@ The free-rider problem is typical for public goods and does not usually arise wi
 
 To properly understand the free-rider problem and public good provision, we need to understand both self-interest theory and the theory of collective action. I'll discuss both theories and apply them to Open Source.
 
-### Self-interest theory
+## Self-interest theory
 
 Open Source contributors do amazing things. They contribute to fixing the hardest problems, they share their expertise, and more. Actions like these are often described as altruistic, in contrast to the pursuit of self-interest. In reality, generosity is often driven by some level of self-interest: we provide value to others when it benefits ourselves.
 
@@ -51,7 +51,7 @@ Modern economics suggest that both individuals and organizations tend to act in 
 
 While contributing to Open Source clearly has benefits, it is [not obvious if the benefits outweigh the cost](https://dri.es/the-investment-case-for-employing-a-drupal-core-contributor). If we can increase the benefits, there is no doubt we can can attract more contributors.
 
-### Collective action theory
+## Collective action theory
 
 The theory of self-interest also applies to groups of individuals. In his seminal work on [collective action and public goods](https://www.amazon.com/The-Logic-Collective-Action-printing/dp/0674537513), economist [Mancur Olson](https://en.wikipedia.org/wiki/Mancur_Olson) shows that the incentive for group action diminishes as group size increases. Large groups are less able to act in their common interest than small ones because (1) the complexity increases and (2) the benefits diminish.
 
@@ -61,7 +61,7 @@ The concept of major public goods growing out of volunteer and community-based m
 
 The theory of collective action also implies that as an Open Source project grows, we need to evolve how we incent contributors or we won't be able to attract either part-time volunteers or full-time paid contributors.
 
-### Selective benefits
+## Selective benefits
 
 Solutions for the free-rider problem and collective action problem exist, and this is where Open Source can learn from public goods theory and research. The most common solution for the free-rider problem is taxation; the government mandates all citizens to help pay for the production of the public good. Taxpayers help pay for our basic education system, the road system and national defense for example. Other solutions are privatization, civic duty or legislation. These solutions don't apply to Open Source.
 
@@ -71,7 +71,7 @@ In fact, prominent "privileged groups" examples exist in the Open Source communi
 
 Drupal is different from Automattic and Mozilla in that no single organization benefits uniquely from contributing. For example, my company Acquia currently employs the most full-time contributors to Drupal but does not receive any exclusive benefits in terms of monetizing Drupal. While Acquia does accrue some value from hiring the Drupal contributors that it does, this is something any company can do.
 
-### Better incentives for Drupal contributors
+## Better incentives for Drupal contributors
 
 It's my belief that we should embrace the concept of "privileged groups" and "selective benefits" in the Drupal community to help us grow and maintain the Drupal project. Furthermore, I believe we should provide "selective benefits" in a way that encourages fairness and equality, and doesn't primarily benefit any one particular organization.
 
@@ -91,7 +91,7 @@ By matching the benefits to the needs of Drupal agencies, we candirect more reso
 
 Systems like this are subject to gaming but I believe these challenges can be overcome. Any benefit is better than almost no benefit. In general, it will be interesting to see if fairness and heterogeneity will facilitate or impede contribution compared to Open Source projects like WordPress and Mozilla, where some hold unique benefits. I believe that if all participants benefit equally from their contributions, they have an incentive to match each other's contributions and it will facilitate the agreement and establishment of a contribution norm that fosters both cooperation and coordination, while minimizing gaming of the system. In contrast, when participants benefit very differently, like with WordPress and Mozilla, this decreases the willingness to cooperate, which, in turn, could have detrimental effects on contributions. While not necessarily the easiest path, I believe that making the system fair and heterogeneous is the "Drupal way" and that it will serve us in the long term.
 
-### Conclusions
+## Conclusions
 
 There are plenty of technical challenges ahead of us that we need to work on, fun ideas that we should experiment with, and more. With some relatively small changes, we could drastically change the benefits of contributing to Drupal. Better incentives mean more contributors, and more contributors mean that we can try more things and do things better and faster. It means we can scale Drupal development to new heights and with that, increase Open Source's impact on the world.
 

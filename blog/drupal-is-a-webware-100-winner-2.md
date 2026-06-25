@@ -16,6 +16,8 @@ id: 433
 
 # Drupal is a Webware 100 winner
 
+![Award badge for Webware 100 Winner 2008, presented by CNET.](http://default/files/images/drupal/webware-100-winner-2008.jpg)
+
 For [the second time in a row](https://dri.es/drupal-is-a-webware-100-winner), [Drupal](https://www.drupal.org) is a [Webware 100 Awards winner](http://news.cnet.com/8301-13546_109-9913290-29.html). The Webware awards recognize the best sites, services, and applications on the web today.
 
 Given that more than 5,000 products were nominated for the awards, and that nearly two million users voted to select the 100 top products, this award is a great testament to the awesomeness that is the Drupal community. *The Drupal community is on a rocking spree!*

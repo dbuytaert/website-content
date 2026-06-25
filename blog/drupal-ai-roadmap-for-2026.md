@@ -20,6 +20,8 @@ id: 6096
 
 # Drupal's AI roadmap for 2026
 
+![Graphic banner reading "Drupal's AI roadmap for 2026" with a futuristic illustration of a person standing beneath floating, colorful sci-fi structures in the sky.](http://default/files/cache/drupal/drupal-ai-roadmap-2026-640w.png)
+
 For the past months, the AI Initiative Leadership Team has been working with [our contributing partners](https://www.drupal.org/ai/makers) to define what the Drupal AI initiative should focus on in 2026. That plan is now ready, and I want to share it with the community.
 
 This roadmap builds directly on the strategy we outlined in [Accelerating AI Innovation in Drupal](https://dri.es/accelerating-ai-innovation-in-drupal). That post described the direction. This plan turns it into concrete priorities and execution for 2026.
@@ -44,7 +46,7 @@ We think the real opportunity goes further than just adding AI to what we alread
 
 The things that have always made Drupal good at content are the same things that make AI trustworthy. That is not a coincidence, and it's why we believe Drupal is the right place to build this.
 
-### What we're building in 2026
+## What we're building in 2026
 
 The 2026 plan identifies eight capabilities we'll focus on. Each is described in detail in the [full plan](https://dri.es/files/drupal-ai-roadmap-2026.pdf), but here is a quick overview:
 
@@ -61,7 +63,7 @@ These eight capabilities are where the official AI Initiative is focusing its en
 
 We also want to be clear: community contributions outside this scope are welcome and important. Work on migrations, chatbots, and other AI capabilities continues in the broader Drupal community. If you're building something that isn't in our 2026 plan, keep going.
 
-### How we're making this happen
+## How we're making this happen
 
 Over the past year, we've brought together organizations willing to contribute people and funding to the AI initiative.  Today, [28 organizations support the initiative](https://drupal.org/ai/makers), collectively pledging more than 23 full-time equivalent contributors. That is over 50 individual contributors working across time zones and disciplines.
 
@@ -74,7 +76,7 @@ Both teams are [creating backlogs](https://www.drupal.org/project/issues/search?
 
 This is a new model for Drupal. We're testing whether Open Source can move faster when you pool resources and coordinate in a new way.
 
-### Get involved
+## Get involved
 
 If you're a contributing partner, we're asking you to align your contributions with this plan. The [prioritized backlogs](https://www.drupal.org/project/issues/ai_initiative?categories=All) are in place, so pick up something that fits and let's build.
 

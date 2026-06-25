@@ -16,4 +16,6 @@ id: 74
 
 # Dandelion
 
+![A single dandelion seed clings to the bare seed head, ready to be carried away by the wind.](http://default/files/cache/miscellaneous-2005/dandelion-640w.jpg)
+
 

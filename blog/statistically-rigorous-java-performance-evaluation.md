@@ -19,7 +19,7 @@ id: 310
 
 The following paper has [also been accepted](https://dri.es/using-hpm-sampling-to-drive-dynamic-compilation) for publication at [OOPSLA 2007](http://oopsla.org): [Statistically Rigorous Java Performance Evaluation](https://dri.es/files/oopsla07-georges.pdf) (PDF, 1.6MB).
 
-### Paper abstract
+## Paper abstract
 
 Java performance is far from being trivial to benchmark because it is affected by various factors such as the Java application, its input, the virtual machine, the garbage collector, the heap size, etc. In addition, non-determinism at run-time causes the execution time of a Java program to differ from run to run. There are a number of sources of non-determinism such as Just-In-Time (JIT) compilation and optimization in the virtual machine (VM) driven by timer-based method sampling, thread scheduling, garbage collection, and various system effects.
 

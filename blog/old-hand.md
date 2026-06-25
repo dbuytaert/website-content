@@ -17,4 +17,6 @@ id: 175
 
 # Old hand
 
+![A close-up of an aged hand with wrinkles and rough skin, resting on a dark surface.](http://default/files/cache/miscellaneous-2006/old-hand-640w.jpg)
+
 

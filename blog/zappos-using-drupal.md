@@ -22,4 +22,4 @@ To learn more about what Jeff did, and how [Zappos](http://zappos.com) is using 
 
 *At the end of 2007 we implemented [blogs.zappos.com](http://blogs.zappos.com) using [Jive's Clearspace software](http://www.jivesoftware.com). We considered using Clearspace to be our CMS of choice but by early 2008 the absence of certain features and other issues made us consider other options. We had a front-end developer working on adding more blogs to blogs.zappos.com and a new hire, Geoff, who we assigned to [about.zappos.com](http://about.zappos.com). The idea was to let each work on their projects and occasionally switch places and work on the other CMS so they could compare and contrast the features and development time. Drupal ended up being superior in terms of templating and development as well as adding new features and ease of use for the end user.*
 
-[image drupal/about-zappos]
+![A Zappos webpage showcasing customer service, company culture, blogs, and leadership, featuring a video about the workplace experience.](http://default/files/cache/drupal/about-zappos-640w.jpg)

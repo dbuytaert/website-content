@@ -19,6 +19,8 @@ id: 4796
 
 # JSON:API lands in Drupal Core
 
+![JSON:API being dropped into Drupal by crane](http://default/files/cache/drupal/json-api-crane-640w.jpg)
+
 Breaking news: we just committed the JSON:API module to the development branch of Drupal 8.
 
 In other words, JSON:API support is coming to *all* Drupal 8 sites in just a few short months! ?
@@ -27,13 +29,13 @@ This marks another important milestone in Drupal's evolution to be an API-first 
 
 With JSON:API, developers or content creators can create their content models in Drupal's UI without having to write a single line of code, and automatically get not only a great authoring experience, but also a powerful, standards-compliant, web service API to pull that content into JavaScript applications, digital kiosks, chatbots, voice assistants and more.
 
-[video zEsNlAeYRn8]
+https://www.youtube.com/watch?v=zEsNlAeYRn8
 
 When you enable the JSON:API module, all *Drupal entities* such as blog posts, users, tags, comments and more become accessible via the JSON:API web service API. JSON:API provides a standardized API for reading and modifying resources (entities), interacting with relationships between resources (entity references), [fetching of only the selected fields](https://dri.es/headless-cms-rest-vs-jsonapi-vs-graphql#request-efficiency) (e.g. only the "title" and "author" fields), including related resources to avoid additional requests (e.g. details about the content's author) and filtering, sorting and paginating collections of resources.
 
 In addition to being incredibly powerful, JSON:API is [easy to learn and use](https://dri.es/headless-cms-rest-vs-jsonapi-vs-graphql#api) and [uses all the tooling we already have available to test, debug and scale Drupal sites](https://dri.es/headless-cms-rest-vs-jsonapi-vs-graphql#operational-efficiency).
 
-### Drupal's JSON:API implementation was years in the making
+## Drupal's JSON:API implementation was years in the making
 
 Development of the JSON:API module started in May 2016 and reached a stable 1.0 release in May 2017. Most of the work was driven by a single developer partially in his free time: [Mateu Aguiló Bosch (e0ipso)](https://www.drupal.org/u/e0ipso).
 
@@ -47,7 +49,7 @@ A year later, their work culminated in a [JSON:API 2.0 stable release on January
 
 From [beginning](https://www.drupal.org/project/jsonapi/issues/2829327) to [end](https://cgit.drupalcode.org/drupal/commit/?id=b2f88e3), it took 28 months, 450 commits, 32 releases and more than 5,500 test runs.
 
-### The best JSON:API implementation in existence
+## The best JSON:API implementation in existence
 
 The JSON:API module for Drupal is almost certainly the most feature-complete and easiest-to-use JSON:API implementation in existence.
 

@@ -20,4 +20,4 @@ id: 282
 
 Belgium's biggest gaming site, [9lives](https://www.9lives.be/) (formerly known as *games.telenet.be*) [relaunched using Drupal](https://www.9lives.be/node/87180). They have 275,000 users and serve 500,000 page views a day. For their forums, they still use [vBulletin](https://www.vbulletin.com/) though.
 
-[image drupal/9lives]
+![A gaming website homepage featuring news, reviews, and a contest with a "9lives" sticker on a person's face.](http://default/files/cache/drupal/9lives-640w.jpg)

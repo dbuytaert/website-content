@@ -22,4 +22,4 @@ id: 302
 
 Ethan is the Head of Technology at Warner Bros Records, and last time I met him, he was [looking to hire more Drupal talent](https://dri.es/on-hiring-drupal-talent). People like [Madonna](http://madonna.com), [Metallica](https://www.metallica.com/), [Paris Hilton](http://www.parishiltonrecord.com/) and the [White Stripes](http://www.whitestripes.com/) work for Warner Bros Records, so you'd expect a great work environment. ;-)
 
-[image drupal/warner-bros-records]
+![Album cover of "Eardrum" by Talib Kweli, featuring the artist in a hoodie and sunglasses with speaker graphics.](http://default/files/cache/drupal/warner-bros-records-640w.jpg)

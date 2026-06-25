@@ -19,15 +19,17 @@ id: 4056
 
 # Shopping with augmented reality
 
+![How augmented reality can be used to superimpose product information](http://default/files/cache/blog/shopping-with-augmented-reality-example-2017-640w.jpg)
+
 Last spring, Acquia Labs [built a chatbot prototype](https://dri.es/think-beyond-with-acquia-labs) that helps customers choose recipes and plan shopping lists with dietary restrictions and preferences in mind. The ability to interact with a chatbot assistant rather than having to research and plan everything on your own can make grocery shopping much easier. We wanted to take this a step further and explore how augmented reality could also improve the shopping experience.
 
-[video ZroFBG7-P7Q]
+https://www.youtube.com/watch?v=ZroFBG7-P7Q
 
 The demo video above features how a shopper named Alex can interact with an augmented reality application to [remove friction](https://dri.es/friduction-the-internets-unstoppable-drive-to-eliminate-friction) from her shopping experience at Freshland Market (a fictional grocery store). The Freshland Market mobile application not only guides Alex through her shopping list but also helps her to make more informed shopping decisions through augmented reality overlays. It superimposes useful information such as price, user ratings and recommended recipes, over shopping items detected by a smartphone camera. The application can personalize Alex's shopping experience by highlighting products that fit her dietary restrictions or preferences.
 
 What is exciting about this demo is that the Acquia Labs team built the Freshland Market application with Drupal 8 and augmented reality technology that is commercially available today.
 
-[image blog/shopping-with-augmented-reality-architecture-2017 resize=false]
+![An augmented reality architecture using Drupal and Vuforia](http://default/files/cache/blog/shopping-with-augmented-reality-architecture-2017-640w.jpg)
 
 The first step in developing the application was to use an augmented reality library, [Vuforia](https://www.vuforia.com), which identifies pre-configured targets. In our demo, these targets are images of product labels, such as the tomato sauce and cereal labels shown in the video. Each target is given a unique ID. This ID is used to query the Freshland Market Drupal site for content related to that target.
 

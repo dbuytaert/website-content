@@ -19,23 +19,27 @@ id: 5901
 
 # Unexpectedly playing Kasparov
 
+![Kasparov leans toward his opponent across a long row of chessboards during the simultaneous exhibition.](http://default/files/cache/miscellaneous-2025/dries-buytaert-vs-garry-kasparov-1-640w.jpg)
+
 I had just published my post about [having dinner with Garry Kasparov](https://dri.es/meeting-one-chess-master-mourning-another) when I got a call. Belgium's Prime Minister Bart De Wever had dropped out of a [simultaneous exhibition](https://en.wikipedia.org/wiki/Simultaneous_exhibition) where Kasparov would play 20 people at once. Did I want to take his seat?
 
 Of course I didn't hesitate. Within hours, I was sitting across a chessboard from Kasparov. I was never going to win. The question was: in how many moves would I lose?
 
-[image miscellaneous-2025/dries-buytaert-vs-garry-kasparov-4 lazy=false priority=true]
+![Kasparov stands across the chessboard, focused on his opponent's position.](http://default/files/cache/miscellaneous-2025/dries-buytaert-vs-garry-kasparov-4-640w.jpg)
+*Playing against Garry Kasparov. Photo © Jelle Jansegers.*
 
 Kasparov opened with white, and I defended with black using the [Caro-Kann defense](https://youtu.be/4GIsh7cTsHc?si=imW05QQ2g7T6cD7U). I blundered my rook on move 11. A mistake I'm still kicking myself over. But I kept fighting. A few times I made him pause and think for a minute or so. I resigned at move 25. None of the twenty players managed a draw or a win.
 
 The event was livestreamed, with GM Nigel Short and FM Lennert Lenaerts providing commentary. Here is a snippet where they review my position:
 
-[video -QNGexPYeqg]
+https://www.youtube.com/watch?v=-QNGexPYeqg
 
 This morning, I entered our game into Chess.com's analysis tool. Kasparov played with 94% accuracy, while I managed 80% accuracy (estimated 2100 ELO performance). Not bad for someone who hung a rook early. 
 
 I'm grateful I got to play him. It's a game I'll remember for the rest of my life.
 
-[image miscellaneous-2025/dries-buytaert-vs-garry-kasparov-2]
+![Kasparov leans over the chessboard, thinking deeply during a game.](http://default/files/cache/miscellaneous-2025/dries-buytaert-vs-garry-kasparov-2-640w.jpg)
+*Playing against Garry Kasparov. Photo © Jelle Jansegers.*
 
 Here is the game in [PGN notation](https://en.wikipedia.org/wiki/Portable_Game_Notation) for anyone who wants to analyze it:
 

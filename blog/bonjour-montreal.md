@@ -24,4 +24,5 @@ In addition to the PhD related festivities, Drupal rockstar [Angie Byron](http:/
 
 The WIFI at the Hyatt Regency in Montreal sucks monkey balls. I feel incredibly unproductive, cross and out of sync when I wake up in the middle of the night. So much for working the Drupal 6 issue queues ...
 
-[image montreal-2007/view-from-hyatt]
+![A cityscape view from a high-rise hotel room, framed by two tall office buildings with reflective windows.](http://default/files/cache/montreal-2007/view-from-hyatt-640w.jpg)
+*The view from my room in the Hyatt Regency.*

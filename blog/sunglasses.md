@@ -17,4 +17,6 @@ id: 47
 
 # Sunglasses
 
+![A store display with rows of designer sunglasses in various styles and colors neatly arranged on racks.](http://default/files/cache/tuscany-2006/sunglasses-640w.jpg)
+
 

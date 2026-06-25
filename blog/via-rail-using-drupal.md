@@ -19,4 +19,4 @@ id: 1616
 
 [Via Rail](http://viarail.ca), a large train operator in Canada, is now using [Drupal](https://www.drupal.org) for its main website. They carry approximately four million passengers annually so like with any train operator, their website is obviously key to their business.
 
-[image drupal/via-rail-canada]
+![A VIA Rail Canada train attendant serves a passenger in a comfortable cabin with other travelers seated nearby.](http://default/files/cache/drupal/via-rail-canada-640w.jpg)

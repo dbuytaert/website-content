@@ -18,13 +18,15 @@ id: 5261
 
 # In Opa's garage
 
+![Stan sitting behind the steering wheel of Opa's Citroën 2CV.](http://default/files/cache/miscellaneous-2021/deux-chevaux-opa-1-640w.jpg)
+
 My dad loves working on old cars, and my kids have always been fascinated by it. Great memories!
 
 <div class="large">
-  [image miscellaneous-2021/deux-chevaux-opa-1]
+  ![Stan sitting behind the steering wheel of Opa's Citroën 2CV.](http://default/files/cache/miscellaneous-2021/deux-chevaux-opa-1-640w.jpg)
 </div>
 
 <div class="side-by-side">
-  [image miscellaneous-2021/deux-chevaux-opa-2]
-  [image miscellaneous-2021/deux-chevaux-opa-3]
+  ![Opa showing Stan how to use the kludge of his Citroën 2CV.](http://default/files/cache/miscellaneous-2021/deux-chevaux-opa-2-640w.jpg)
+  ![Stan and Opa in a Citroën 2CV.](http://default/files/cache/miscellaneous-2021/deux-chevaux-opa-3-640w.jpg)
 </div>

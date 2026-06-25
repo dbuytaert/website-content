@@ -19,4 +19,6 @@ id: 1611
 
 # Zzz
 
+![A man and a baby are sleeping on a couch.](http://default/files/cache/stan-2010/sleeping-640w.jpg)
+
 

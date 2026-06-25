@@ -19,4 +19,4 @@ id: 507
 
 The New Zealand government is using Drupal at <http://beehive.govt.nz>. The site features information about all their ministers, their speeches, press releases, ministerial briefings, major government initiatives and more. (Hat tip: [Bevan Rudge](https://www.js.geek.nz/))
 
-[image drupal/beehive-govt-nz]
+![Screenshot of the New Zealand Government's Beehive website showing news updates, including election announcements and policy initiatives.](http://default/files/cache/drupal/beehive-govt-nz-640w.jpg)

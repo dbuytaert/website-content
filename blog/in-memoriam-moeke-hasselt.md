@@ -34,4 +34,4 @@ Bedankt,
 
 Je kleinzoon, Dries
 
-[image 60th-anniversary-oma-and-opa-2011/party-49]
+![Moeke Hasselt, my grandmother](http://default/files/cache/60th-anniversary-oma-and-opa-2011/party-49-640w.jpg)

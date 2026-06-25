@@ -19,6 +19,8 @@ id: 2786
 
 # Just married
 
+![A groom in a suit carries his bride in a white dress as they kiss, celebrating their wedding day.](http://default/files/cache/wedding-jeroen-and-katya-2012/marriage-115-640w.jpg)
+
 Congratulations Jeroen and Katya! Loved this song from Asaf Avidan at the wedding party:
 
-[video A16VcQdTL80]
+https://www.youtube.com/watch?v=A16VcQdTL80

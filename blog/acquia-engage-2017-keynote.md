@@ -22,11 +22,11 @@ This October, Acquia welcomed over 650 people to the fourth annual [Acquia Engag
 
 I shared that a number of new technology trends have emerged, such as conversational interfaces, beacons, augmented reality, artificial intelligence and more. These trends give organizations the opportunity to re-imagine their customer experience. Existing customer experiences can be leapfrogged by taking advantage of more channels and more data (e.g. be more intelligent, be more personalized, and be more contextualized).
 
-[image blog/digital-market-trends-aligning-2017 resize=false]
+![A digital animation of interconnected lines and icons forming a network, representing digital market trends and technology connections.](http://default/files/cache/blog/digital-market-trends-aligning-2017-640w.gif)
 
 I gave an example of this in a blog post last week, which showed [how augmented reality can improve the shopping experience](https://dri.es/shopping-with-augmented-reality) and help customers make better choices. It's just one example of how these new technologies advance existing customer experiences and move our industry from [website management to customer journey management](https://dri.es/from-content-management-to-digital-experience-management).
 
-[image acquia/market-trends-2017 resize=false]
+![The image displays a comparison between old and new technology trends. On the left, labeled 'From,' it lists 'Websites and web-based content,' 'Browser-based,' 'Everyone sees the same content,' 'Back end tied to front-end delivery,' and 'Single site or campaign.' On the right, labeled 'To,' it reads 'Cross-channel, digital experiences,' 'Any screen, device, application,' 'Personal, contextual experiences,' 'Decoupled architectures,' and 'Factories \(many sites or campaigns\)'.](http://default/files/cache/acquia/market-trends-2017-640w.jpg)
 
 This is actually good news for Drupal as organizations will have to create and manage even more content. This content will need to be optimized for different channels and audience segments. However, it puts more emphasis on content modeling, [content workflows](https://dri.es/tag/workflow-initiative), [media management](https://dri.es/a-plan-for-media-management-in-drupal-8) and [web service integrations](https://dri.es/tag/web-services).
 

@@ -32,4 +32,5 @@ Here is where I will be and when:
 
 For more details, keep an eye on the [Drupal.org Australia group](https://groups.drupal.org/australia), [my Twitter account](https://twitter.com/dries) and this blog. To schedule time with me please contact [Laurie Vertuccio](mailto:laurie@acquia.com) and [Matt Ackley](mailto:matt.ackley@acquia.com%0A); they help manage my schedule while I am traveling. *Looking forward to meet!*
 
-[image australia-2011/ariving-in-brisbane]
+![View from an airplane window showing the wing and clouds below while approaching Brisbane for landing.](http://default/files/cache/australia-2011/ariving-in-brisbane-640w.jpg)
+*About to land in Brisbane where I kick off my Australia tour.*

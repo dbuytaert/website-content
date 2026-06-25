@@ -19,4 +19,4 @@ id: 668
 
 At Drupal Camp India almost 200 joined in to sing the Drupal song. *(Hat tip: [Jeff Robbins](https://www.jjeff.com/))*
 
-[video -jubiv7QUco]
+https://www.youtube.com/watch?v=-jubiv7QUco

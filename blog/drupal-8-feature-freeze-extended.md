@@ -23,7 +23,8 @@ In that time, we've managed to commit a number of compelling features to Drupal 
 
 The momentum within the Drupal core queue right now is truly staggering, as embodied by this graph:
 
-[image drupal/drupal-8-core-monthly-patch-volume resize=false]
+![Graph showing a rise in Drupal core patch contributions from 400 in March 2011 to over 4,000 in October 2012.](http://default/files/images/drupal/drupal-8-core-monthly-patch-volume.jpg)
+*Momentum around Drupal core has increased from around 400 patch contributions per month in March of 2011 to over 4,000 in October of 2012.*
 
 There are still incredible features for Drupal 8 that are heavily in progress, but not quite there yet, including blocks and layouts, WYSIWYG and inline editing, several more "contributed module to core" projects such as Date, Pathauto, Profile2, and Entity Reference, native web services support, improvements to the entity and field systems, and much. I'm truly impressed by all of the great efforts I see happening in the queue right now.
 
@@ -35,7 +36,8 @@ The hope is that this new release phase will both give the folks working so hard
 
 Here is a diagram showing an overview of the overall Drupal core release cycle, and where Feature Completion Phase fits in. Initiative owners and others who have already achieved their Drupal 8 feature goals are encouraged to use Feature Completion Phase to get started on their Clean-Up Phase tasks early.
 
-[image drupal/release-funnel resize=false]
+![A funnel-shaped diagram illustrating Drupal's release cycle, narrowing through phases from development to final release with increasing restrictions.](http://default/files/images/drupal/release-funnel.jpg)
+*Phases of development, represented as a funnel gradually getting smaller as fewer and fewer patches are accepted. In Development Phase, anything goes: major new APIs, new features, etc. Feature Completion Phase allows for tying up loose ends on features that are already committed, or significantly in progress. Clean-Up Phase is for stabilization, better consistency, and completing conversions to new APIs. Polish Phase moves to focus on the upgrade path, performance optimization, and improving docs. Finally, during Release Phase, we crank on critical bugs until we release!*
 
 Of course, it's not possible to provide more time to complete Drupal 8 features without also impacting the remainder of the release timeline. Therefore, Code Freeze will be moved out 3 months as well to July 1, 2013. Drupal 8 will be released when there are no release-critical issues remaining.
 

@@ -17,4 +17,6 @@ id: 44
 
 # Tuscan facade
 
+![Clothes hanging on a line outside a building with green shutters and weathered walls.](http://default/files/cache/tuscany-2006/laundry-640w.jpg)
+
 

@@ -18,4 +18,6 @@ id: 154
 
 # DrupalCon Hungary attendees
 
+![A large group of DrupalCon Budapest 2006 attendees posing for a group photo outside the conference center.](http://default/files/cache/drupalcon-budapest-2006/group-picture-640w.jpg)
+
 I just got back from [DrupalCon Hungary](/drupalcon-hungary). About 100 people showed up to attend the conference. Little did I know that the [Hungarian Drupal community](http://drupal.hu) was that big and active. Much kudos to the organizers, the sponsors and the people that are part of the Hungarian Drupal community. Keep up the great work! Can't wait to attend the next Hungarian Drupal conference.

@@ -22,4 +22,4 @@ I've been meaning to blog about this for months. So in case you haven't noticed 
 
 I still want [my Drupal to talk to my Jabber](https://dri.es/twitter-drupal-and-jabber). Think "Drupal → Mollom → Jabber/XMPP → instant messaging client" to get notifications about new comments or other important events, for a example. Lots of other XMPP-Drupal opportunities as well ...
 
-[image drupal/jabber]
+![A webpage about Jabber instant messaging, featuring guides, software downloads, and an article on sending SMS from Jabber.](http://default/files/cache/drupal/jabber-640w.jpg)

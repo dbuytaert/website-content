@@ -19,4 +19,6 @@ id: 16
 
 # Self-portrait
 
+![A woman kisses a smiling man on the cheek while he looks at the camera.](http://default/files/cache/miscellaneous-2006/karlijn-and-dries-640w.jpg)
+
 

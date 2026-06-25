@@ -19,6 +19,8 @@ id: 4911
 
 # Low-code and no-code tools continue to drive the web forward
 
+![A person types on a laptop, with abstract shapes flowing from the screen, representing low-code and no-code development.](http://default/files/cache/blog/low-code-no-code-640w.jpg)
+
 *A version of this article was originally [published on Devops.com](https://devops.com/the-impact-of-low-code-on-the-web/).*
 
 Twelve years ago, I wrote a post called [Drupal and Eliminating Middlemen](https://dri.es/drupal-and-eliminating-middlemen). For years, it was one of the most-read pieces on my blog. Later, I followed that up with a blog post called [The Assembled Web](https://dri.es/the-assembled-web), which remains one of the most read posts to date.
@@ -33,7 +35,7 @@ This idea isn't new; no-code and low-code tools on the web have been on a 25-yea
 
 While this has been a long-run trend, I believe we're only at the beginning.
 
-### Trends driving the low-code and no-code movements
+## Trends driving the low-code and no-code movements
 
 According to [Forrester Wave: Low-Code Development Platforms for AD&amp;D Professionals](https://www.forrester.com/report/The+Forrester+Wave+LowCode+Development+Platforms+For+ADD+Professionals+Q1+2019/-/E-RES144387), Q1 2019, <q>In our survey of global developers, 23% reported using low-code platforms in 2018, and another 22% planned to do so within a year.</q>.
 
@@ -45,7 +47,7 @@ In addition, the fact that technology has permeated every aspect of our lives â€
 
 But this does not only apply to individuals. Consider this: the typical large organization has to [build and maintain hundreds of websites](https://dri.es/one-drupal-to-rule-them-all). They need to build, launch and customize these sites in days or weeks, not months. Today and in the future, marketers can embrace no-code and low-code tools to rapidly develop websites.
 
-### Abstraction drives innovation
+## Abstraction drives innovation
 
 As discussed in [my middleman blog post](https://dri.es/drupal-and-eliminating-middlemen), developers won't go away. Just as the role of the original webmaster (FTP hand-written HTML files, anyone?) has evolved with the advent of [web content management systems](https://en.wikipedia.org/wiki/Web_content_management_system), the role of web developers is changing with the rise of low-code and no-code tools.
 

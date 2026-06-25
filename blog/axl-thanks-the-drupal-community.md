@@ -21,4 +21,4 @@ id: 336
 
 Axl, Karlijn, and myself would like to thank the [Drupal community](https://www.drupal.org) for their contribution for Axl. The money that you collected will be set aside for him so he/we can put it to good use when he needs it.
 
-[image axl-2007/axl-drupal]
+![A baby wearing a blue shirt with the text "My website runs on Drupal".](http://default/files/cache/axl-2007/axl-drupal-640w.jpg)

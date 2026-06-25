@@ -21,7 +21,7 @@ The authoring experience improvements we made in Drupal 8 appear to be well-rece
 
 The goal of this post is to advance the conversation we started over a month ago in a blog post talking about the concept of [turning Drupal outside-in](https://dri.es/turning-drupal-outside-in). In today's blog post, we'll show concrete examples of how we could make site building in Drupal easier by embracing the concept of outside-in. We hope to provide inspiration to designers, core contributors and module maintainers for how we can improve the user experience of Drupal 8.2 and beyond.
 
-### What is outside-in?
+## What is outside-in?
 
 In Drupal you often have to build things from the ground up. If you want to make a list of events you need to wade through 20 different menu options to a user interface with configuration options like "boolean" and "float", build a content type, content, and then a view. Essentially you need to *understand everything before you can build anything*.
 
@@ -31,13 +31,14 @@ Over the past few years Drupal has adopted a more outside-in approach, the most 
 
 To evaluate how outside-in can be applied more broadly in order to make Drupal easier to use, Kevin created a few animated gifs.
 
-### Example #1: editing menu items
+## Example #1: editing menu items
 
-#### The current inside-out experience
+### The current inside-out experience
 
 Editing menu options in Drupal has already become more outside-in with contextual links. The contextual links take away some of the guesswork of finding the proper administration UI, but once you arrive at the configuration page there is still a lot of stuff to take in, only some of which is relevant to this task.
 
-[image blog/outside-in-menu-before resize=false]
+![A user navigates multiple admin pages to edit a menu item, requiring several steps and page refreshes.](http://default/files/cache/blog/outside-in-menu-before-640w.gif)
+*The current inside-out experience for editing a menu item: adding a menu link and changing its position involves 2 separate administration pages, 4 page refreshes and more than 400 words of text on the UI.*
 
 Anyone familiar with Drupal will recognize the pattern above; you go to an administration UI, make some changes, than you go back to the page to see if it worked. This context switching creates what UX people call "cognitive load". On an administration page you need to remember what was on the site page and vice-versa.
 
@@ -58,9 +59,10 @@ To complete this task you need to:
 
 The problem is not just that there are too many pages, clicks, or words, it's that each step away from the actual page introduces new opportunities for confusion, error and repetition. In user testing, we have seen users who were unable to find the contextual link, or to understand which option to choose, or to find the "add link" button, or to add a path, or drag-drop links, or to save before leaving the UI. When these things happen in context, feedback about whether you are "doing it right" is immediate.
 
-#### The proposed outside-in experience
+### The proposed outside-in experience
 
-[image blog/outside-in-menu-after resize=false]
+![User selects a menu item and edits its name and path directly on the page in real-time.](http://default/files/cache/blog/outside-in-menu-after-640w.gif)
+*The proposed outside-in experience for editing a menu item. Rather than moving out-of-context to an administration page to get the job done, configuration happens right on the page where you see the effect of each action. You start adding a menu item simply by selecting the menu on the page. Both the menu item and the item's path are in focus to reinforce the connection. As you type a path is proposed from the link text.*
 
 Now all you need to do is:
 
@@ -73,13 +75,14 @@ Now all you need to do is:
 
 One important aspect of this approach is that all actions that produce a visible change have bi-directional control and bi-directional feedback. In other words, if you can drag something in the configuration drawer you should also be able to drag it on the page, and the changes should happen simultaneously.
 
-### Example #2: adding a block to a page
+## Example #2: adding a block to a page
 
-#### The current inside-out experience
+### The current inside-out experience
 
 The process of placing a block on a page can be difficult. Once you discover where to go to add a block, which is in itself a challenge, the experience requires a lot of reading and learning, as well as trial and error.
 
-[image blog/outside-in-blocks-before resize=false]
+![A user navigates a website's admin interface to add a content block, showing the current block editing process.](http://default/files/cache/blog/outside-in-blocks-before-640w.gif)
+*The current inside-out experience for adding a block. Not all steps are shown.*
 
 To complete this task you need to:
 
@@ -104,9 +107,10 @@ To complete this task you need to:
 
 Eventually you'll use what you just learned, but Drupal makes you learn it first instead of just showing what is immediately necessary. Both the task and the learning can be simplified by bringing the configuration closer to the object you are configuring.
 
-#### The proposed outside-in experience
+### The proposed outside-in experience
 
-[image blog/outside-in-blocks-after resize=false]
+![A cursor clicks on an empty block, revealing a menu with thumbnail options for adding content to the page.](http://default/files/cache/blog/outside-in-blocks-after-640w.gif)
+*The proposed outside-in experience for adding a block. Everything happens on the actual page rather than on an administration page. Places where things can be added appear on hover. On click they show thumbnails that you can filter with autocomplete.*
 
 Now all you need to do is:
 
@@ -117,7 +121,7 @@ Now all you need to do is:
 
 The "plus" button, the drop target (blue dotted rectangle) and the autocomplete are all commonly understood patterns used by other software. The task requires no or little explanation as the interactions reveal the process. By starting with selecting the location of where to place the block, we avoid the need for drag-and-drop and the complexity of dragging a block on a page that requires scrolling.
 
-### Principles and patterns
+## Principles and patterns
 
 These examples show the *principle* that rather than taking the site builder to a separate administration backend, the experience should begin with the actual page and show how the changes will be seen by the end-user. The *patterns* shown here are less important. For example, the animated gifs above show two different approaches to the options panel and there are certainly others. The important thing is not yet where the panel comes from or how it looks, but that the following criteria are met:
 

@@ -22,6 +22,6 @@ The report is concise: it presents the final results of their comparison and for
 
 Fifteen pages, 995 USD, freed from many worries ... [add to cart](https://www.forrester.com/Research/Document/Excerpt/0,7211,37147,00.html).
 
-[image drupal/forrester-report-1]
-[image drupal/forrester-report-2]
-[image drupal/forrester-report-3]
+![A signed letter from Forrester's CEO sharing a 2006 report on Drupal's rating in blogging platforms.](http://default/files/cache/drupal/forrester-report-1-640w.jpg)
+![Close-up of a Forrester report evaluating blogging platforms, including Drupal, WordPress, and Movable Type.](http://default/files/cache/drupal/forrester-report-2-640w.jpg)
+![Close-up of a Forrester report listing evaluation criteria for current offerings, strategy, and market presence.](http://default/files/cache/drupal/forrester-report-3-640w.jpg)

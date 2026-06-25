@@ -17,6 +17,8 @@ id: 4766
 
 # Two internet entrepreneurs walk into an old publishing house
 
+![An old globe at the Plantin Moretus Museum](http://default/files/cache/miscellaneous-2019/plantin-moretus-museum-globe-640w.jpg)
+
 A month ago, [Matt Mullenweg](https://ma.tt), co-founder of [WordPress](https://wordpress.org) and founder of [Automattic](https://automattic.com/), visited me in [Antwerp](https://en.wikipedia.org/wiki/Antwerp), Belgium. While I currently live in Boston, I was born and raised in Antwerp, and also started [Drupal](https://www.drupal.org) there.
 
 We spent the morning together walking around Antwerp and visited the [Plantin Moretus Museum](https://www.museumplantinmoretus.be/).
@@ -27,8 +29,8 @@ Today, the museum hosts the two oldest printing presses in the world. In additio
 
 The old house, printing business, presses and lead types are the earliest witnesses of a landmark moment in history: the invention of printing, and by extension, the democratization of publishing, long before our digital age. It was nice to visit that together with Matt as a break from our day-to-day focus on web publishing.
 
-[image miscellaneous-2019/plantin-moretus-museum-printing-press]
+![An old printing press at the Plantin Moretus Museum](http://default/files/cache/miscellaneous-2019/plantin-moretus-museum-printing-press-640w.jpg)
 
-[image miscellaneous-2019/plantin-moretus-museum-matt-mullenweg-and-dries-buytaert]
+![Dries and Matt in front of the oldest printing presses in the world](http://default/files/cache/miscellaneous-2019/plantin-moretus-museum-matt-mullenweg-and-dries-buytaert-640w.jpg)
 
-[image miscellaneous-2019/plantin-moretus-museum-globe]
+![An old globe at the Plantin Moretus Museum](http://default/files/cache/miscellaneous-2019/plantin-moretus-museum-globe-640w.jpg)

@@ -22,4 +22,4 @@ Today, I turn 30, and while I'm still new to this whole thirties thing, so far I
 
 With that in mind, let's end my twenties in style ...
 
-[image miscellaneous-2007/tah-dries]
+![A person with sunglasses and messy hair opens their mouth wide, possibly shouting or reacting excitedly.](http://default/files/cache/miscellaneous-2007/tah-dries-640w.jpg)

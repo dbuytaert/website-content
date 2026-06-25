@@ -20,6 +20,8 @@ id: 6121
 
 # Markdown, llms.txt and AI crawlers
 
+![An empty office chair facing several glowing computer monitors, with small glowing fragments floating upward.](http://default/files/cache/blog/machines-reading-web-content-640w.jpg)
+
 In January, I made [every page on my site available as Markdown](https://dri.es/the-third-audience). Immediately AI crawlers quickly found the Markdown versions. I was excited, but excitement isn't data. Now that the dust has settled, I pulled a month of Cloudflare logs and analyzed them.
 
 I compared how much AI bots crawl my site to how often AI answer engines link back. For every citation they sent, their crawlers had fetched 1,241 pages. That is a lot of reading for very little traffic in return. It is [the deal AI is offering creators](https://dri.es/the-webs-broken-deal-with-ai-companies) right now, and it is not a good one.

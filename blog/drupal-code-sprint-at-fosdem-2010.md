@@ -18,5 +18,6 @@ id: 1422
 
 # Drupal code sprint at FOSDEM 2010
 
-[image drupal/fosdem-2010-code-sprint-1]
-[image drupal/fosdem-2010-code-sprint-2]
+![A group of people collaborating on Drupal 7 core and Views upgrade at a coding sprint, using laptops.](http://default/files/cache/drupal/fosdem-2010-code-sprint-1-640w.jpg)
+*With chx, dereine, seutje, mrbaileys, Bojhan and myself working Drupal 7 core and the Drupal 7 upgrade of Views.*
+![Two people working on laptops during a Drupal code sprint at Fosdem.](http://default/files/cache/drupal/fosdem-2010-code-sprint-2-640w.jpg)

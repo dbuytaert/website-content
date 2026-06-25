@@ -17,4 +17,6 @@ id: 2126
 
 # Lizard
 
+![A lizard sits on the floor of an outdoor dining area, looking up as if observing the surroundings.](http://default/files/cache/australia-2011/lizard-640w.jpg)
+
 

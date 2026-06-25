@@ -24,9 +24,9 @@ So, John and Matt – for the love of God – make sure there will be a Drupal 6
 
 More information, including a free chapter on how to theme Drupal, can be found at [http://drupalbook.com](http://drupalbook.com/).
 
-[image drupal/book-pro-drupal-development-2007-1]
-[image drupal/book-pro-drupal-development-2007-2]
-[image drupal/book-pro-drupal-development-2007-3]
-[image drupal/book-pro-drupal-development-2007-4]
-[image drupal/book-pro-drupal-development-2007-5]
-[image drupal/book-pro-drupal-development-2007-6]
+![Close-up of the book cover "Pro Drupal Development" with bold yellow text on a black background.](http://default/files/cache/drupal/book-pro-drupal-development-2007-1-640w.jpg)
+![Close-up of a book page highlighting developers collaborating on code and receiving recognition for their contributions.](http://default/files/cache/drupal/book-pro-drupal-development-2007-2-640w.jpg)
+![A person flips through the pages of a technical book about Drupal development, showing code and text.](http://default/files/cache/drupal/book-pro-drupal-development-2007-3-640w.jpg)
+![A book page from "Pro Drupal Development" showing Chapter 22 titled "Optimizing Drupal" with a section on performance.](http://default/files/cache/drupal/book-pro-drupal-development-2007-4-640w.jpg)
+![Open book showing a page from "Pro Drupal Development" with a flowchart and text explaining Drupal's form handling process.](http://default/files/cache/drupal/book-pro-drupal-development-2007-5-640w.jpg)
+![A handwritten note on the title page of "Pro Drupal Development" thanks Dries for leadership in the Drupal community.](http://default/files/cache/drupal/book-pro-drupal-development-2007-6-640w.jpg)

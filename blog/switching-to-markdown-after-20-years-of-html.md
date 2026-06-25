@@ -27,7 +27,7 @@ I've actually written in Markdown for years. I started with [Bear](https://bear.
 
 For almost 20 years, I wrote every blog post in raw HTML, typing out every tag by hand. For longer posts, it could take me 45 minutes wrapping everything in `<p>` tags, adding links, and closing HTML tags like it was still 2001. It was tedious, but also a little meditative. I stuck with it, partly out of pride and partly out of habit.
 
-### Getting Markdown working in Drupal
+## Getting Markdown working in Drupal
 
 So when I decided to make the switch, I had to figure out how to get Markdown working in [Drupal](https://www.drupal.org/). Drupal has multiple great Markdown modules to choose from but I picked [Markdown Easy](https://www.drupal.org/project/markdown_easy) because it's lightweight, fully tested, and built on the popular [CommonMark](https://commonmark.org/) library.
 
@@ -43,7 +43,7 @@ After 20 years of writing in HTML, I switched to *Markdown*.
 Now I can publish faster while still using [Drupal](https://drupal.org).
 ```
 
-### HTML in Markdown by design
+## HTML in Markdown by design
 
 Markdown was always meant to work hand in hand with HTML, and Markdown parsers are supposed to leave HTML tags untouched. [John Gruber](https://daringfireball.net/), the creator of Markdown, makes this clear in the [original Markdown specification](https://daringfireball.net/projects/markdown/syntax):
 
@@ -59,7 +59,7 @@ Now that everything is working, I am considering converting my 1,600+ existing p
 
 The migration itself would be a fun technical challenge. Plenty of tools exist to convert HTML to Markdown so no need to reinvent the wheel. Maybe I'll test a few converters on some posts to see which handles my particular setup best.
 
-### Extending Markdown with tokens
+## Extending Markdown with tokens
 
 Like [Deane Barker](https://deanebarker.net/tech/blog/custom-elements-markdown/), I often mix HTML and Markdown with custom "tokens". In my case, they aren't [official web components](https://github.com/WICG/webcomponents), but they serve a similar purpose.
 
@@ -77,7 +77,7 @@ The real power of tokens is future proofing. When responsive images became a web
 
 My tokens has evolved over 15 years and deserves its own blog post. Down the road, I might turn some of them into web components [like Deane describes](https://deanebarker.net/tech/blog/custom-elements-markdown/).
 
-### Closing thoughts
+## Closing thoughts
 
 In the end, this was not a syntax decision: it was a workflow decision. I want less friction between an idea and publishing it. Five Markdown posts in, publishing is faster, cleaner, and more enjoyable, while still giving me the flexibility I need. 
 

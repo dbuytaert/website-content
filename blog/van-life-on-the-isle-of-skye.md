@@ -19,23 +19,27 @@ id: 5711
 
 # Van life on the Isle of Skye
 
+![A person standing on a rock, arms wide open, overlooking a vast landscape.](http://default/files/cache/isle-of-skye-2024/exploring-the-quiraing-640w.jpg)
+
 A number of years ago, my friend Klaas and I made a pact: instead of exchanging birthday gifts, we'd create memories together. You can find some of these adventures on my blog, like [Snowdonia in 2019](https://dri.es/scrambling-in-snowdonia) or the [Pemi Loop in 2023](https://dri.es/hiking-the-pemi-loop-an-unforgettable-adventure). This time our adventure led us to the misty Isle of Skye in Scotland.
 
 <div class="large">
-  [image isle-of-skye-2024/journey-to-skye]
+  ![A person stands by a small lake surrounded by grassy hills and mountains under a cloudy sky in the Scottish Highlands.](http://default/files/cache/isle-of-skye-2024/journey-to-skye-640w.jpg)
+*Each year, Klaas and I pick a new destination for our outdoor adventure. In 2024, we set off for the Isle of Skye in Scotland. This stop was near Glencoe, about halfway between Glasgow and Skye.*
 </div>
 
 For a week, we lived out of a van, wild camping along Scotland's empty roads. Our days were filled with muddy hikes, including the iconic Storr and Quiraing trails. The weather was characteristically Scottish: a mix of fog, rain, and occasional clear skies that revealed breathtaking cliffs and rolling highlands. Along the way, we shared the landscape with Highland cows and countless sheep, who seemed unfazed by our presence.
 
 <div class="side-by-side">
-  [image isle-of-skye-2024/wild-camping-in-scotland caption=false]
-  [image isle-of-skye-2024/morning-scroll caption=false]
+  ![A parked camper van with a raised roof sitting in an open landscape.](http://default/files/cache/isle-of-skye-2024/wild-camping-in-scotland-640w.jpg)
+  ![A person with long hair, sitting in a van, using a smartphone after just waking up.](http://default/files/cache/isle-of-skye-2024/morning-scroll-640w.jpg)
 </div>
 
 Our daily routine was refreshingly simple: wake up to misty mornings, often slightly cold from sleeping in the van. Fuel up with coffee and breakfast, including the occasional [haggis](https://en.wikipedia.org/wiki/Haggis) breakfast roll, and tackle a hike. We'd usually skip lunch, but by the end of the day, we'd find a hearty meal or local pub. We even found ourselves having evening coding sessions in our mobile home; me working on my location tracking app and Klaas working on an AI assistant.
 
 <div class="large">
-  [image isle-of-skye-2024/exploring-the-quiraing]
+  ![A person standing on a rock, arms wide open, overlooking a vast landscape.](http://default/files/cache/isle-of-skye-2024/exploring-the-quiraing-640w.jpg)
+*We hiked the Quiraing through mud and wind, with Highland cows watching us trudge by. My favorite part was wandering across the open highlands, letting the strong wind push me forward.*
 </div>
 
 Though we mostly embraced the camping lifestyle, we did surrender to civilization on day three, treating ourselves to a hotel room and much-needed shower. We also secretly washed our camping dishes in the bathroom sink.

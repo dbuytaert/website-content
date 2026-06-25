@@ -19,6 +19,8 @@ id: 5461
 
 # $70,000 USD for Drupal innovation contest
 
+![A hero image with the word "Pitch-burgh" in large font, with "$70,000 in prize funding raised" written below it.](http://default/files/cache/drupal/pitch-burgh-70000-640w.png)
+
 Do you have a great idea to improve Drupal's software or community? The [Pitch-burgh innovation contest](https://dri.es/shark-tank-meets-drupal) provides you with the perfect opportunity to pitch your idea for a shot at receiving funding.
 
 In the past week, we've raised an impressive $70,000 USD for this contest thanks to the generous support of the [Drupal Association](https://www.drupal.org/association) and our sponsors, including [1xInternet](https://www.1xinternet.de//), [Digital Polygon](https://www.digitalpolygon.com/), [ImageX](https://imagexmedia.com/), [Palantir](https://www.palantir.net/), [Skilld](https://www.skilld.cloud/), [Zoocha](https://zoocha.com/), and [Acquia](https://www.acquia.com/). We greatly appreciate their contributions, which will help fuel innovation for [Drupal](https://www.drupal.org/).

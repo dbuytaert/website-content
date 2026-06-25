@@ -43,8 +43,10 @@ For long I focused, completely and utterly, on the aesthetics of Drupal's code, 
 I have since learned that elegant design and ease of use are equally important as clean source code. Over the past year, I have been hammering on the importance of Drupal's usability, and we have been actively working on making Drupal easier to use. As a result, the next version of Drupal will be easier to use than any previous versions of Drupal. At the same time, we added critical functionality. I strongly believe that both are important to guarantee Drupal's continued growth in 2006. (Of course, I do realize that Drupal has a long way to go in terms of design and usability.)
 
 <div class="side-by-side">
-  [image drupal/drupal-in-2003 resize=false]
-  [image drupal/drupal-in-2006 resize=false]
+  ![A screenshot of the Drupal administration interface from 2003, showing user roles and management options in a web browser.](http://default/files/images/drupal/drupal-in-2003.jpg)
+*How Drupal looked like in 2003.*
+  ![A screenshot of the Drupal content management system's access control settings page from 2006.](http://default/files/images/drupal/drupal-in-2006.jpg)
+*How Drupal looks in 2006.*
 </div>
 
 For Drupal to remain competitive in the future,

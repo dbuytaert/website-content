@@ -23,9 +23,11 @@ id: 6081
 
 # AI creates asymmetric pressure on Open Source
 
+![A humanoid figure stands in a rocky, shallow stream, facing a glowing triangular portal suspended amid crackling energy.](http://default/files/cache/blog/asymmetric-ai-pressure-640w.jpg)
+
 AI makes it cheaper to contribute to Open Source, but it's not making life easier for maintainers. More contributions are flowing in, but the burden of evaluating them still falls on the same small group of people. That asymmetric pressure risks breaking maintainers.
 
-### The curl story
+## The curl story
 
 Daniel Stenberg, who maintains [curl](https://curl.se/), just [ended the curl project's bug bounty program](https://daniel.haxx.se/blog/2026/01/26/the-end-of-the-curl-bug-bounty/). The program had worked well for years. But in 2025, fewer than one in twenty submissions turned out to be real bugs.
 
@@ -35,7 +37,7 @@ Stenberg's response was pragmatic. He didn't ban AI. He ended the bug bounty. Th
 
 Drupal doesn't have a bug bounty, but it still has incentives: contribution credit, reputation, and visibility all matter. Those incentives can attract low-quality contributions too, and [the cost of sorting them out often lands on maintainers](https://dri.es/never-submit-code-you-do-not-understand).
 
-### Caught between two truths
+## Caught between two truths
 
 We've seen some AI slop in Drupal, though not at the scale curl experienced. But our maintainers are stretched thin, and they see what is happening to other projects.
 
@@ -57,7 +59,7 @@ I should be honest about where I stand. I've been [writing software with AI tool
 
 But having a perspective is not the same as having all the answers. And leadership doesn't mean dragging people where they don't want to go. It means pointing a direction with care, staying open to different viewpoints, and not abandoning the people who hold the project together.
 
-### We've sort of been here before
+## We've sort of been here before
 
 New technology has a way of lowering barriers, and lower barriers always come with tradeoffs. I saw this early in my career. I was writing low-level C for embedded systems by day, and after work I'd come home and work on websites with Drupal and PHP. It was thrilling, and a stark contrast to my day job. You could build in an evening what took days in C.
 
@@ -69,7 +71,7 @@ The answer wasn't rejecting PHP for enabling low-quality code. The answer was fr
 
 AI is a different technology, but I see the same patterns. It lowers barriers and will bring in new contributors who aren't experts yet. And like scripting languages, AI is here to stay. The question isn't whether AI is coming to Open Source. It's how we make it work.
 
-### AI in the right hands
+## AI in the right hands
 
 The curl story doesn't end there. In October 2025, a researcher named Joshua Rogers used AI-powered code analysis tools to [submit hundreds of potential issues](https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/). Stenberg was "amazed by the quality and insights". He and a fellow maintainer merged about 50 fixes from the initial batch alone.
 
@@ -79,7 +81,7 @@ The difference between this and the slop flooding Stenberg's inbox wasn't the us
 
 AI created new burden for maintainers. But used well, it may also be part of the relief.
 
-### Earn trust through results
+## Earn trust through results
 
 I reached out to Daniel Stenberg this week to compare notes. He's navigating the same tensions inside the curl project, with maintainers who are skeptical, if not outright negative, toward AI.
 
@@ -99,7 +101,7 @@ I'm going to do my part. I'll seek out contributors who are experimenting with A
 
 If you're experimenting with AI tools, I'd love to hear about it. I've opened [an issue on Drupal.org](https://www.drupal.org/project/drupal/issues/3570498) to collect real-world experiences from contributors. Share what you're learning in the issue, or write about it on your own blog and link it there. I'll report back on what we learn on my blog or at DrupalCon.
 
-### Protect your maintainers
+## Protect your maintainers
 
 This isn't just Drupal's challenge. Every large Open Source project is navigating the same tension between enthusiasm for AI and real concern about its impact.
 

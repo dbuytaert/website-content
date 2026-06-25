@@ -17,4 +17,6 @@ id: 112
 
 # Lightning
 
+![Lightning bolts flash across the dark sky above a brightly lit gas terminal at the Port of Zeebrugge.](http://default/files/cache/knokke-heist-2006/lightning-640w.jpg)
+
 

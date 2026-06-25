@@ -18,6 +18,8 @@ id: 6031
 
 # Claude is growing a tomato plant
 
+![Screenshot showing Sol the tomato plant with Claude's sensor readings and watering decision.](http://default/files/cache/blog/claude-tomato-plant-640w.png)
+
 A developer named Martin DeVido gave [Claude](https://claude.ai/) complete control over a living tomato plant that he named Sol. This might be the coolest agentic experiment I've seen. You can follow along live at [autoncorp.com/biodome](https://autoncorp.com/biodome).
 
 Every 30 minutes or so, Claude wakes up to check temperature, humidity, CO₂, and soil moisture, then decides when to turn on the grow light, heat mat, fan, or water pump. No human backup.
@@ -27,7 +29,8 @@ It also watches the plant through a camera. Just earlier, it looked at Sol and o
 This plant seems to be living its best life. And Claude clearly seems pleased with itself.
 
 <div class="large">
-[image blog/claude-tomato-plant resize=false schema=false]
+![Screenshot showing Sol the tomato plant with Claude's sensor readings and watering decision.](http://default/files/cache/blog/claude-tomato-plant-640w.png)
+*Claude monitoring Sol's environment and deciding to water 200ml after analyzing soil moisture across two probes.*
 </div>
 
 Most AI interactions are fast and fleeting. You prompt, it answers, and you close the session. Regular AI tools branching into the real world to control a slow, messy process feels like a glimpse of what is next. A tomato plant is innocent enough. But it's not hard to imagine what comes next.

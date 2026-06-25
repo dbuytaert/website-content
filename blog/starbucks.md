@@ -17,4 +17,6 @@ id: 169
 
 # Starbucks
 
+![A Starbucks coffee cup on a table with a person's hand resting nearby.](http://default/files/cache/portland-2006/starbucks-640w.jpg)
+
 Apart from drinking a lot of lattes, I also picked up a copy of [Tribal Knowledge](https://www.amazon.com/gp/product/1419520016/sr=8-1/qid=1152553254/) at [Powell's Books](http://powells.com), rumored to be the largest bookstore in the world.

@@ -18,7 +18,7 @@ id: 1021
 
 Rackspace, the hosting giant, is using Drupal on a support addon website: <https://www.rackspace.com/apps/support>.
 
-[image drupal/rackspace-support]
+![Rackspace support page with email setup guides, troubleshooting links, and contact options including live chat, phone, and support tickets.](http://default/files/cache/drupal/rackspace-support-640w.jpg)
 
 In [their blog post on the Rackspace Blog](https://www.rackspace.com/email_hosting/blog/2009/06/supportsite/) they explain: *"The new site was designed to give our customers immediate access to the support documentation they need. We took our existing support information, re-wrote it, organized it into categories and subcategories, and built a new search system so you can find your answers in a hurry ..."*.
 

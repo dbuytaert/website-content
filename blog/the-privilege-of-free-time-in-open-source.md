@@ -19,11 +19,13 @@ id: 4811
 
 # The privilege of free time in Open Source
 
+![Free time to contribute is a privilege](http://default/files/cache/blog/free-time-to-contribute-is-a-privilege-640w.png)
+
 In Open Source, there is a long-held belief in [meritocracy](https://en.wikipedia.org/wiki/Meritocracy), or the idea that the best work rises to the top, regardless of who contributes it. The problem is that a meritocracy assumes an equal distribution of time for everyone in a community.
 
-### Open Source is not a meritocracy
+## Open Source is not a meritocracy
 
-[image blog/free-time-to-contribute-is-a-privilege]
+![Free time to contribute is a privilege](http://default/files/cache/blog/free-time-to-contribute-is-a-privilege-640w.png)
 
 I incorrectly [made this assumption](https://dri.es/on-being-able-to-be-the-best) myself, saying: <q>The only real limitation [to Open Source contribution] is your willingness to learn</q>.
 
@@ -37,21 +39,21 @@ Systemic issues like [racial and gender wage gaps](https://www.pewresearch.org/f
 
 What this means is that Open Source is *not* a meritocracy.
 
-[image blog/the-issue-of-time-in-open-source]
+![Underrepresented groups don't have the same amount of free time](http://default/files/cache/blog/the-issue-of-time-in-open-source-640w.png)
 
 Free time is a mark of privilege, rather than an equal right. Instead of chasing an unrealistic concept of meritocracy, we should be striving for equity. Rather than thinking, "everyone can contribute to open source", we should be thinking, "everyone deserves the opportunity to contribute".
 
-### Time inequality contributes to a lack of diversity in Open Source
+## Time inequality contributes to a lack of diversity in Open Source
 
 This fallacy of "free time" makes Open Source communities suffer from a lack of diversity. The demographics are even worse than the technology industry overall: while 22.6% of [professional computer programmers](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/) in the workforce identify as women (Bureau of Labor Statistics), less than 5% of contributors do in Open Source (GitHub). And while 34% of programmers identify as ethnic or national minorities (Bureau of Labor Statistics), only 16% do in Open Source (GitHub).
 
-[image blog/diversity-in-technology-vs-open-source]
+![Diversity in data](http://default/files/cache/blog/diversity-in-technology-vs-open-source-640w.png)
 
 It's important to note that time isn't the only factor; sometimes a hostile culture or unconscious bias play a part in limiting diversity. According to the same GitHub survey cited above, 21% of people who experienced negative behavior stopped contributing to Open Source projects altogether. Other recent research showed that [women's pull requests were more likely to get accepted if they had a gender-neutral username](https://www.theguardian.com/technology/2016/feb/12/women-considered-better-coders-hide-gender-github). Unfortunately, examples like these are common.
 
-### Taking action: giving time to underrepresented groups
+## Taking action: giving time to underrepresented groups
 
-[image blog/neglect-and-malice]
+![A person being ignored](http://default/files/cache/blog/neglect-and-malice-640w.png)
 
 While it's impossible to fix decades of gender and racial inequality with any single action, we must do better. Those in a position to help have an obligation to improve the lives of others. We should not only invite underrepresented groups into our Open Source communities, but make sure that they are welcomed, supported and empowered. One way to help is with time:
 
@@ -62,7 +64,7 @@ Taking the extra effort to help onboard new members or provide added detail when
 
 In addition, organizations within the Open Source ecosystem capable of giving back should consider financially sponsoring underrepresented groups to contribute to Open Source. Sponsorship can look like full or part-time employment, an internship or giving to organizations like [Girls Who Code](https://girlswhocode.com/), [Code2040](http://www.code2040.org/), [Resilient Coders](http://www.resilientcoders.org/) or one of the many others that support diversity in technology. Even a few hours of paid time during the workweek for underrepresented employees could help them contribute more to Open Source.
 
-### Applying the lessons to Drupal
+## Applying the lessons to Drupal
 
 Over the years, I've learned a lot from different people's perspectives. Learning out in the open is not always easy, but it's been an important part of my personal journey.
 

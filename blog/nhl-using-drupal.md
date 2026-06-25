@@ -25,4 +25,4 @@ Canada's [National Hockey League](https://www.nhl.com/) (NHL) is probably the hi
 
 All these sites seem to be built with Drupal 6. More proof that Drupal 6 is getting serious traction. *Good stuff!*
 
-[image drupal/nhl]
+![NHL All-Star fan voting page with language and region selection, birthday entry field, and an "Enter" button.](http://default/files/cache/drupal/nhl-640w.jpg)

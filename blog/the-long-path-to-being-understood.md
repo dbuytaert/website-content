@@ -30,7 +30,7 @@ Something is radically different in software today, and the world is finally und
 >
 > The article, called "[The next wave in software is open adoption software](https://techcrunch.com/2016/06/19/the-next-wave-in-software-is-open-adoption-software/)", talks about how the enterprise IT stack is being redrawn atop powerful Open Source projects like MongoDB, Hadoop, Drupal and more. Included in the article is a graph that shows Acquia's place in the latest wave of change to transform the technology landscape, a place showing our opportunity is bigger than anything before as the software industry migrated from mainframes to client-server, then SaaS/PaaS and now - to what Flomenberg dubs, the age of [Open Adoption Software](https://medium.com/accel-insights/the-rise-of-open-innovation-the-3p-s-for-building-a-durable-open-software-company-3bc6e0ec6fa7#.frr8ys492).
 >
-> [image blog/waves-of-software-adoption resize=false]
+> ![Graph showing waves of software adoption, categorizing companies by market growth across Mainframe, Client-Server, XaaS, and Open Adoption Software.](http://default/files/cache/blog/waves-of-software-adoption-640w.jpg)
 >
 > It's a great article, but it isn't new to any of us per se – we have been promoting this vision since our start nine years ago and we have seen over and over again how Open Source is becoming the dominant model for how enterprises build and deliver IT. We have also shown that we are building a successful technology company using Open Source.
 >

@@ -20,4 +20,6 @@ id: 652
 
 # Antwerpen Studentenstad using Drupal
 
+![A colorful collage featuring books, buildings, and student life, representing Antwerp as a vibrant student city.](http://default/files/cache/drupal/antwerpen-studentenstad-640w.jpg)
+
 I started work on [Drupal](https://www.drupal.org) as a graduate student living in Antwerp. Drupal was just a little hobby project. Today, the Antwerp student organization is actually using Drupal on <http://www.antwerpenstudentenstad.be>. *Cool!*

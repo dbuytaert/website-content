@@ -18,4 +18,6 @@ id: 2406
 
 # Ben and Ione
 
+![A man and a woman sit on the grass under a tree, relaxing in an outdoor setting.](http://default/files/cache/winchester-2011/ben-and-ione-640w.jpg)
+
 We had a fun and jam-packed Fourth of July weekend with Ben and Ione. They are some of our best friends from Belgium, and they'll be living in Boston for two months. Should be a lot of fun. Ben and I go back a long time; among other things we started [Mollom](https://mollom.com) together.

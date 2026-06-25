@@ -34,11 +34,11 @@ As of Monday, February 18, [Drupal 8 feature completion phase](https://dri.es/dr
 
 There are also a handful of [features that were RTBC by Feb 18](https://www.drupal.org/project/issues/search/drupal?text=&assigned=&submitted=&participant=&status%5B%5D=Open&version%5B%5D=8.x&issue_tags_op=or&issue_tags=RTBC+Feb+18), but not quite ready for commit. They are still undergoing consideration. All things considered, I'm glad we extended the code freeze.
 
-### What happens now?
+## What happens now?
 
 We now enter the ["clean-up" phase](https://dri.es/updated-drupal-8-release-schedule) of Drupal 8, where focus turns to refactoring of existing subsystems, better integrating features, and improving the consistency and coherence of the existing functionality. While APIs can and will still change as this coherence shapes up, contributed module authors are nevertheless encouraged to start porting their modules now, as there is still time to influence and fix APIs and the overall developer experience in Drupal 8. This will become much harder as we get closer to code freeze.
 
-### So ... REALLY, what happens now?
+## So ... REALLY, what happens now?
 
 In the course of adding all of the great features we've added so far to Drupal 8, we've accumulated some technical debt and are currently well over the [issue queue thresholds for Drupal core](https://dri.es/issue-queue-thresholds-for-drupal-core). We roll a release candidate of Drupal 8 when there are 0 critical bugs and tasks remaining. Our over-arching goal should therefore be to reduce the number of threshold issues over time.
 
@@ -65,12 +65,12 @@ However, there are some caveats:
 
 For now, we've decided to leave the major bugs/tasks threshold at 100 throughout release, and *not* tie them to the release date trigger for Drupal 8. I will re-evaluate this as we get closer to release.
 
-### What isn't bound by thresholds?
+## What isn't bound by thresholds?
 
 We obviously want Drupal 8 to ship as a coherent product, so a major focus will be around better *integration* of existing features. For example, work required to get the Symfony pieces of Drupal working well with blocks and enabling ESI/CSI/SSI caching. Turning administrative pages into Views so that they can be better tuned for the task at hand. Completing conversions of major APIs such as Twig, new Entity API, CMI, and so on, to fix rough edges such as the inability to translate/in-place-edit node titles.
 
 General guidance on what constitutes a task or a feature is available at <https://www.drupal.org/node/1181250>. As we work through the list of these integration items, some features may be recategorized into tasks. At the same time, some issues currently categorized as tasks go beyond strictly integration and polish and will be descoped or recategorized as features.
 
-### Kudos!
+## Kudos!
 
 While we still have a lot of work to do, I want to pause and give a sincere thanks to each and every one of the 1,077+ contributors to Drupal 8 so far. You've all done absolutely amazing work and helped establish Drupal 8 as a far more usable, flexible, designer-friendly, future-proof framework for all of us to use for the years to come. Now let's band together and get our baby polished up and out in the world for everyone to enjoy! :-)

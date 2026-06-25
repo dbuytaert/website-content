@@ -19,4 +19,4 @@ id: 1291
 
 More royal Drupal goodness. This time [her Majesty Queen Rania Al Abdullah of the Hashemite Kingdom of Jordan](https://en.wikipedia.org/wiki/Queen_Rania_of_Jordan) is using [Drupal](https://www.drupal.org): see <http://www.queenrania.jo>. Queen Rania is well-known for talking about using social media to help change the world – follow her on [YouTube](https://www.youtube.com/user/QueenRania), [Facebook](https://www.facebook.com/QueenRania), [Twitter](https://twitter.com/QueenRania) and [Flickr](https://www.flickr.com/photos/queenrania/). *You rock, Queen Rania! (Hat tip: [Usamah](https://twitter.com/simsimt))*
 
-[image drupal/queen-rania]
+![Website homepage featuring Queen Rania of Jordan with a message promoting education as a pathway to opportunity.](http://default/files/cache/drupal/queen-rania-640w.jpg)

@@ -24,7 +24,7 @@ But even "somewhere in the middle" is a big spectrum. What makes this so difficu
 
 I created the flowchart below ([full-size image](https://dri.es/files/images/blog/how-much-money-to-raise-for-your-startup.jpg)) to help you answer the question. This flowchart is only a framework – it can't take into account all decision-making parameters. The larger the opportunity and the better the investors, they more I'd be willing to give up. It's better to have a small part of something big, than to have a big part of something small.
 
-[image blog/how-much-money-to-raise-for-your-startup resize=false]
+![Flowchart guiding startups on how much money to raise, considering investor willingness and equity dilution limits.](http://default/files/cache/blog/how-much-money-to-raise-for-your-startup-640w.jpg)
 
 Some extra details about the flowchart:
 

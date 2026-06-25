@@ -16,6 +16,6 @@ id: 2256
 
 # Alicia Keys - Empire State of Mind
 
-[video iYmmh9zkpQM]
+https://www.youtube.com/watch?v=iYmmh9zkpQM
 
 One of my favorite songs in the past 12 months. What a monumental tribute to one of the greatest city in the world. *Love it!*

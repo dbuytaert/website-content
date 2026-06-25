@@ -29,4 +29,4 @@ id: 1226
 
 Can you feel the love? *(Hat tip: [Usamah](https://twitter.com/simsimt))*
 
-[image drupal/bbc-focus-magazine]
+![BBC Focus Magazine website featuring science and technology articles, a SpaceShipTwo feature, and a subscription offer with a free gift.](http://default/files/cache/drupal/bbc-focus-magazine-640w.jpg)

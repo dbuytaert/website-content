@@ -19,6 +19,8 @@ id: 4636
 
 # How Paychex replatformed on Drupal and doubled its website traffic
 
+![Two people sit on stage discussing innovation at Acquia Engage's Innovation Showcase event.](http://default/files/cache/acquia/acquia-engage-2018-interview-with-erica-bizzari-640w.jpg)
+
 One trend I've noticed time and time again is that [simplicity wins](https://dri.es/friduction-the-internets-unstoppable-drive-to-eliminate-friction). Today, customers expect every technology they interact with to be both functionally powerful and easy to use.
 
 A great example is Acquia's customer, Paychex. Paychex' digital marketing team recently replatformed [Paychex.com](https://www.paychex.com/) using [Drupal](https://drupal.org/) and [Acquia](https://www.acquia.com/). The driving factor was the need for more simplicity.
@@ -26,9 +28,9 @@ A great example is Acquia's customer, Paychex. Paychex' digital marketing team r
 They completed the replatforming work in under four months, and beat the original launch goal by a long shot. By leveraging Drupal 8's improved content authoring capabilities, Paychex also made it a lot simpler for the marketing team to publish content, which resulted in doubled year-over-year growth in site traffic and leads.
 
 <div class="large">
-  [image acquia/acquia-engage-2018-paychex]
+  ![A person holds a smartphone showing a payroll management app, with Paychex results and products listed on the side.](http://default/files/cache/acquia/acquia-engage-2018-paychex-640w.jpg)
 </div>
 
 To learn more about how Paychex accomplished its ambitious digital and marketing goals, watch my Q&amp;A with Erica Bizzari, digital marketing manager at Paychex.
 
-[video cYmSLbcD8RI]
+https://www.youtube.com/watch?v=cYmSLbcD8RI

@@ -19,7 +19,7 @@ id: 323
 
 Lifetime Television redesigned using Drupal so check it out at <http://www.lifetimetv.com/>. Lifetime Television is a cable television network that caters to women. They produce shows such as Desperate Housewives, The Golden Girls, Frasier and Army Wives.
 
-[image drupal/lifetime]
+![A webpage from Lifetime TV features articles, a dream journal, and an astrologer offering answers about the future.](http://default/files/cache/drupal/lifetime-640w.jpg)
 
 This is a massive Drupal site with a movie database, television schedule, videos, photos, editor-produced articles, user-produced stories, games, tag clouds, topic-based search, and a pretty perky looking theme.
 

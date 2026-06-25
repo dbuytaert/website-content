@@ -19,4 +19,4 @@ id: 1336
 
 [Intel Corporation](http://intel.com), the world's largest semiconductor chip maker, is using [Drupal](https://www.drupal.org) for its [Intel Atom Developer Program](http://appdeveloper.intel.com), a website for developers that want to create and sell software applications for netbooks and smart phones that are using the [Intel Atom processor](https://en.wikipedia.org/wiki/Intel_Atom).
 
-[image drupal/appdeveloper-intel]
+![A webpage for the Intel Atom Developer Program promoting learning, developing, and selling applications with resources and tools for developers.](http://default/files/cache/drupal/appdeveloper-intel-640w.jpg)

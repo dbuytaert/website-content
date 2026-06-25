@@ -17,4 +17,6 @@ id: 182
 
 # PlayStation using Drupal
 
+![A PlayStation Portable \(PSP\) product page on the PlayStation Asia website, which is built using Drupal.](http://default/files/images/drupal/playstation.jpg)
+
 

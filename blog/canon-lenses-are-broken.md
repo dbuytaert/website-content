@@ -18,4 +18,6 @@ id: 246
 
 # Canon lenses are broken ...
 
+![A hand holds a Canon camera lens, showing an upside-down reflection of a person wearing a yellow and black jacket.](http://default/files/cache/vars-2007/canon-lenses-are-broken-640w.jpg)
+
 

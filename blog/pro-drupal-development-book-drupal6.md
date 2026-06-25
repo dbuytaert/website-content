@@ -24,8 +24,8 @@ Probably to John and Matt's despair (sorry!), all of the chapters of the origina
 
 The second edition of Pro Drupal Development covers all of the capabilities and developer facilities in Drupal 6, and provides deep insight into the inner workings and design choices behind Drupal 6. If anything was missing for Drupal 6, it was this book, and I'm already indebted to John for revising and expanding it.
 
-[image drupal/book-pro-drupal-development-2008-1]
-[image drupal/book-pro-drupal-development-2008-2]
-[image drupal/book-pro-drupal-development-2008-3]
-[image drupal/book-pro-drupal-development-2008-4]
-[image drupal/book-pro-drupal-development-2008-5]
+![Close-up of a book cover titled "Pro Drupal Development, Second Edition", with bold yellow and white text.](http://default/files/cache/drupal/book-pro-drupal-development-2008-1-640w.jpg)
+![A diagram in a Drupal development book shows a node structure with poll, forum, and blog content types.](http://default/files/cache/drupal/book-pro-drupal-development-2008-2-640w.jpg)
+![A book page showing Chapter 20 titled "Writing Secure Code", discussing security flaws in web applications.](http://default/files/cache/drupal/book-pro-drupal-development-2008-3-640w.jpg)
+![A book page from "Pro Drupal Development" showing a flowchart for determining language settings based on URL path prefixes.](http://default/files/cache/drupal/book-pro-drupal-development-2008-4-640w.jpg)
+![A close-up of the index page from the book "Pro Drupal Development", showing topics related to web development.](http://default/files/cache/drupal/book-pro-drupal-development-2008-5-640w.jpg)

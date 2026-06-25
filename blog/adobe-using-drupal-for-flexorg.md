@@ -20,4 +20,4 @@ id: 471
 
 [Adobe](http://adobe.com) just relaunched [flex.org](http://flex.org) as a [Drupal site](https://www.drupal.org). The backend of the Flex powered showcase site, <http://flex.org/showcase>, is also using Drupal: it communicates with the Flex front-end using the [Services](https://www.drupal.org/project/services) and the [AMFPHP modules](https://www.drupal.org/project/amfphp). More information available on [the Adobe Flex Team blog](http://blogs.adobe.com/flex/archives/2008/07/introducing_the_new_flexorg.html). They are using [Mollom](https://mollom.com) too.
 
-[image drupal/flex]
+![A website homepage displaying Flex-related news, articles, and events with navigation links, a search bar, and user login options.](http://default/files/cache/drupal/flex-640w.jpg)

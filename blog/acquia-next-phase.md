@@ -18,6 +18,8 @@ id: 3941
 
 # Acquia's next phase
 
+![](http://default/files/cache/acquia/tom-and-dries-3-640w.jpg)
+
 In 2007, [Jay Batson and I wanted to build a software company](https://dri.es/acquia-my-drupal-startup) based on open source and Drupal. I was 29 years old then, and eager to learn how to build a business that could change the world of software, strengthen the Drupal project and help drive the future of the web.
 
 Tom Erickson joined Acquia's board of directors with an outstanding record of scaling and leading technology companies. About a year later, after a lot of convincing, [Tom agreed to become our CEO](https://dri.es/tom-erickson-joined-acquia-as-ceo). At the time, Acquia was 30 people strong and we were working out of a small office in Andover, Massachusetts. Nine years later, we can count 16 of the Fortune 100 among our customers, saw our staff grow from 30 to more than 750 employees, have more than $150MM in annual revenue, and have 14 offices across 7 countries. And, importantly, Acquia has also made an undeniable impact on Drupal, as we said we would.
@@ -38,4 +40,4 @@ I continue to love the work I do at Acquia each day. We have a passionate team o
 
 To read Tom's thoughts on the transition, please [check out his blog post](https://www.acquia.com/blog/news-%26-updates/new-chapter/23/05/2017/3302766). Michael Skok, Acquia's lead investor, also [covered it on his blog](https://mjskok.com/startup-leadership-what-comes-first-just-one-thing).
 
-[image acquia/tom-and-dries-3]
+![](http://default/files/cache/acquia/tom-and-dries-3-640w.jpg)

@@ -17,6 +17,8 @@ id: 285
 
 # Drupal is a Webware 100 winner
 
+![CNET Webware 100 award badge from 2007, recognizing Drupal as a winner.](http://default/files/images/drupal/webware-100-winner-2007.jpg)
+
 The Drupal community deserves a lot of praise for their hard work and dedication, so I was pleasantly surprised to see that Drupal is a [CNET Webware 100 winner](http://www.webware.com/html/ww/100.html) in the publishing category. *Good job team!*
 
 This is [what CNET has to say](http://news.cnet.com/8301-17939_109-9728770-2.html) about the results in the publishing category:

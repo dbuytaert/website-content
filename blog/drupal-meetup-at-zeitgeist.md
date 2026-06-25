@@ -17,4 +17,6 @@ id: 101
 
 # Drupal meet-up at Zeitgeist
 
+![A woman wearing sunglasses playfully kisses a painted skull logo on a dark wall with "Zeitgeist" written above.](http://default/files/cache/san-francisco-2006/zeitgeist-640w.jpg)
+
 

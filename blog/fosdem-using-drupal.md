@@ -20,4 +20,4 @@ id: 354
 
 The [FOSDEM 2008 site](https://fosdem.org/2008) is built with [Drupal](https://www.drupal.org). The FOSDEM site's Drupal theme was created and contributed by [Netlash](http://netlash.com).
 
-[image drupal/fosdem-2008]
+![Screenshot of the FOSDEM 2008 website, featuring event details, a call for developer rooms, and sponsor information.](http://default/files/cache/drupal/fosdem-2008-640w.jpg)

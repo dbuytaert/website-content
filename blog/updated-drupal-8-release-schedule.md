@@ -21,7 +21,7 @@ In talking to Drupal developers at DrupalCon, it was clear that there are some q
 
 In addition to that, I am aligning our use of alpha and beta releases more inline with industry standards and changing the date of the code freeze, to leave more room to work on improving coherence. Lastly, I also wanted to document my expectations for contributed module developers/authors – when they are expected or encouraged to do what.
 
-### During development phase (now to December 1)
+## During development phase (now to December 1)
 
 Here are things we do while we're still in development; we aim to prioritize new features and major API changes.
 
@@ -29,7 +29,7 @@ Here are things we do while we're still in development; we aim to prioritize new
 - Initial conversions of major new APIs, to ensure additional features are not needed to support them.
 - Refactoring required to unblock additional functionality.
 
-### During feature freeze (December 1 to April 1)
+## During feature freeze (December 1 to April 1)
 
 The goal of the feature freeze is to improve the implementation of existing features and to improve consistency and coherence of core by removing special cases, and unifying duplicate ways of doing things by converting core to use new APIs, etc.
 
@@ -43,7 +43,7 @@ For example, the following are still welcome and encouraged during feature freez
 
 We will start rolling *alpha* releases during the feature freeze. Contributed project authors who want to help improve the core APIs to better support their projects, can use these alpha releases to begin porting their modules, themes, and distributions. Core developers seek feedback and suggestions from contributed project authors on how to streamline the core APIs.
 
-### During code freeze (April 1 to RC1)
+## During code freeze (April 1 to RC1)
 
 The goal of the code freeze is to fix remaining bugs, and prepare for release. Improving coherence of the code base is no longer the goal. Hence, we discourage refactoring, and shift attention from things that are *nice to do* to things that we *must do*.
 
@@ -60,7 +60,7 @@ From code freeze until RC1, we want to do this:
 - String and documentation improvements
 - Other tasks that didn't get done by code freeze, but that core committers consider necessary; these will likely be marked as 'critical tasks'.
 
-### Release Candidate to Release
+## Release Candidate to Release
 
 We release a first Release Candidate when nearly all critical bugs and tasks are fixed, and a Drupal 7 to Drupal 8 upgrade path is functional. We aim to do this at least two months (around July, 2013) before the scheduled release date (around September, 2013).
 

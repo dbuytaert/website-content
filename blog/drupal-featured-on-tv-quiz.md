@@ -17,6 +17,7 @@ id: 1791
 
 According to [Jo Wouters](http://krimson.be/), [Drupal](https://www.drupal.org) was just featured on "De Canvascrack", a quiz on Belgian television. I know it is a quiz, but I don't think Drupal has ever been featured on television in such a mainstream way. *Cool!*
 
-[image drupal/canvascrack]
+![A quiz show contestant looks at the screen displaying a question about the White House website, with "Drupal" as an option.](http://default/files/cache/drupal/canvascrack-640w.jpg)
+*The question on the TV screen is in Dutch but reads: <a href="https://dri.es/whitehouse-gov-using-drupal">What was used to build The White House's site?</a>. Picture taken by Jo Wouters.*
 
-[video aCTX5NLpgu4]
+https://www.youtube.com/watch?v=aCTX5NLpgu4

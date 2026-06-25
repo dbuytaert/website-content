@@ -27,11 +27,11 @@ We hired 233 people in 2014 and ended the year with 575 employees. About 25% of 
 
 We raised venture funding twice in 2014: [a $50MM series F round led by New Enterprise Associates (NEA)](https://dri.es/acquia-raises-50-million-series-f) followed by [Amazon investing an undisclosed amount of money](https://dri.es/amazon-invests-in-acquia) in our business. It's not like Tom Erickson and I enjoy raising money, but building and expanding a sales and marketing team is notoriously difficult and requires big investments. At the same time, we're building and supporting the development of multiple products in parallel. Most companies only build one product. We're going after a big dream to become the preferred platform for what has been called the "pivot point of many enterprise tech stacks" – the technologies that permit organizations to deliver on the promises of exceptional digital customer experiences from an agile, open, resilient platform. We are also competing against behemoths. We can't show up to a gunfight with a knife, so to speak.
 
-### Building a digital platform for the enterprise
+## Building a digital platform for the enterprise
 
 Digital has changed everything, and more and more organizations need or want to transform into digital-first businesses to stay in step with the preferences of their customers. Furthermore, technology innovations keep occurring at an ever faster and more disruptive pace. No organization is immune to the forces of digital disruption. At Acquia, we help our customers by providing a complete technology platform and the support necessary to support their digital initiatives. The Acquia Platform consists of tools and support for building and managing dynamic digital experiences. It includes Acquia Cloud, which helps developers deliver complex applications at scale, and Acquia Lift, our digital engagement services for bringing greater context to highly personalized experiences. Let me give you an update on each of the major components.
 
-#### Drupal tools and support
+### Drupal tools and support
 
 Drupal gives organizations the ability to deliver a unified digital experience that includes mobile delivery, social and commerce. Great inefficiencies exist in most organizations that use a variety of different, disconnected systems to achieve those three essentials. They are tired of having to tie things together; content is important, social is important, commerce is important but connecting all these systems seamlessly and integrating them with preferred applications and legacy systems leads to massive inefficiencies. Companies want to do things well, and more often than not, Drupal allows them to do it better, more nimbly and in a far more integrated framework.
 
@@ -41,11 +41,11 @@ After many years of discussion and debate in the Drupal community, [we launched 
 
 Last, but definitely not least, is Drupal 8. We contributed significantly to Drupal 8 and helped it to achieve beta status; of the 513 critical Drupal 8 bugs fixed in 2014, Acquia's Office of the CTO helped fix 282 of them. We also funded work on the [Drupal Module Upgrader](https://www.drupal.org/project/drupalmoduleupgrader) to automate much of the work required to port modules from Drupal 7 to Drupal 8.
 
-#### Acquia Cloud
+### Acquia Cloud
 
 Drupal alone isn't enough for organizations to succeed in this digital-first world. In addition to adopting Drupal, the cloud continues to enable organizations to save time and money on infrastructure management so they can focus on managing websites more efficiently and bringing them to market faster. Acquia customers such as GRAMMY.com have come to depend on the Acquia Cloud to provide them with the kind of rugged, secure scale that ensures when the world's attention is focused on their sites, they will thrive. On a monthly basis, we're now serving more than 33 billion Apache hits, almost 5 billion Drupal bootstraps (requests handled by Drupal instead of one of different caching layers or the web server directly), 9 petabytes of data transferred (excluding instance to instance traffic), and logging 13 billion Drupal watchdog log lines. We added many new features to Acquia Cloud in 2014, including log streaming, self-service diagnosis tools, support for teams and permissions, two-factor authentication, new dashboards, improved security with support for Virtual Private Networks (VPNs), an API for Acquia Cloud, and more.
 
-#### Acquia Lift
+### Acquia Lift
 
 As powerful as the Drupal/Acquia Cloud combination may be, our customers demand far more from their digital properties, focusing more and more on optimizing them to fully deliver the best possible experience to each individual user. Great digital experiences have always been personal; today they have to become contextual, intuitively knowing each user and dynamically responding to each user's personal preference from device to location to history with the organization. After two years of development and the acquisition of TruCentric, [we launched Acquia Lift](https://dri.es/announcing-acquia-lift) in 2014.
 
@@ -55,7 +55,7 @@ While our key areas of investment in 2014 were Acquia Cloud and Acquia Lift, we 
 
 The results of all our efforts around the launch of the Acquia Platform have not gone unnoticed. In October, Acquia was identified as a Leader in the 2014 Gartner Magic Quadrant for Web Content Management.
 
-### The wind is blowing in the right direction
+## The wind is blowing in the right direction
 
 I'm very optimistic about Acquia's future in 2015. I believe we've steered the company to be positioned at the right place at the right time. As more organizations are shifting to becoming digital-first businesses they want to build digital experiences that are more pervasive, more contextual, more targeted, more integrated, and last but not least, more secure.
 

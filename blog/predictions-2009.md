@@ -23,7 +23,7 @@ id: 566
 
 It is that time of year again. Time to reflect on 2008, and to put on my Drupal Nostradamus hat and look forward to 2009. But first of all, thanks for 2008! It's been a pretty crazy ride.
 
-### Drupal
+## Drupal
 
 My personal Drupal highlights for 2008 include the [Drupal 6 release](https://dri.es/drupal-6-released) (the best Drupal release ever!), both [DrupalCon Boston](https://dri.es/drupalcon-boston) and [DrupalCon Szeged](https://dri.es/drupalcon-szeged), the Drupal.org redesign that is in progress, and, of course, beating Joomla and WordPress at the Packt awards. ;-) As [I predicted last year](https://dri.es/drupal-predictions-for-2008), more than ten books were written about Drupal, compared to a single book in 2007. The increase in Drupal books is another highlight as I actively helped connect authors to publishers. I truly enjoyed being part of the [Drupal community](https://www.drupal.org) in 2008.
 
@@ -45,7 +45,7 @@ Last year, I predicted that we would see the first signs of consolidation in the
 
 Oh, and [IBM starts to embrace Drupal](https://dri.es/bring-it-on-ibm) in 2009!
 
-### Acquia
+## Acquia
 
 I'm proud of [Acquia](https://www.acquia.com). Acquia is the Drupal company that I started with Jay Batson. We [announced the start of Acquia](https://dri.es/acquia-my-drupal-startup) at the end of November 2007, and we [announced our funding](https://dri.es/acquia-raises-7-million-series-a) just before the end of 2007. People had a lot of questions about Acquia early in 2008, but throughout the year we demonstrated over and over again that we're committed to Drupal's success and that we want to do what is right for the community. We built a great team and grew from [2 employees](https://dri.es/first-acquia-employees) early in the year to 30 people today. In September 2008, [we launched our first products](https://dri.es/acquia-out-of-beta) and started to offer commercial support for a defined software distribution called "Acquia Drupal". Today, 3 months after we opened to doors for business, [we are serving customers](https://www.acquia.com/blog/kieran/happy-new-year-taking-rest-year). We worked hard and made our milestones. It has been fun to see a new business take off. I also racked up way more frequent flyer points (i.e. air miles) than what is generally considered healthy.
 
@@ -55,7 +55,7 @@ We're passionate about getting our value proposition right, so expect us to cont
 
 Regardless of the down-turn in the economy, I think that Acquia's business will continue to take off nicely in 2009. My heart and gut are convinced that [Acquia](https://www.acquia.com) has a tremendous opportunity to do well, and to do good. I believe (and hope) that Acquia will have the success it takes to continue to invest in [Drupal](https://www.drupal.org).
 
-### Mollom
+## Mollom
 
 Together with [Benjamin Schrauwen](http://benjamin.schrauwen.info), I also launched [Mollom](https://mollom.com), a web service whose purpose is to dramatically reduce the effort of keeping websites free of spam and the quality of user-generated content high. Mollom is a self-funded company and nowhere near the size or scope of Acquia (Acquia is my full-time commitment) but nevertheless, a lot of progress has been made. We [announced Mollom](https://dri.es/mollom-my-content-monitoring-startup) in March, and [opened the doors for business](https://dri.es/mollom-out-of-beta) at the end of September 2008. Today, we're actively protecting 4,500 websites of which 75-100 have paid subscriptions. Mollom has caught almost 21 million spam messages since it started.
 
@@ -63,6 +63,6 @@ In 2009, I predict that [Mollom](https://mollom.com) will continue to experience
 
 Mollom has a ton of potential and is great fun, so I have all reasons to believe that 2009 will be a good year for Mollom. If fact, I predict that 'good' will be an understatement.
 
-### Conclusion
+## Conclusion
 
 2008 was a great year, and continues Drupal's great run. The economic realities of 2009 will present challenges, but also opportunities. I believe Drupal's success will continue – and accelerate – in 2009, though we'll have to work hard. I predict we'll do exactly that.

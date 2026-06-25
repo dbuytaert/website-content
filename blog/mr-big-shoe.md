@@ -17,5 +17,6 @@ id: 1121
 
 # Mr. Big Shoe
 
-[image beverly-farms-2009/axl-big-shoe-1]
-[image beverly-farms-2009/axl-big-shoe-2]
+![A young child wearing a blue shirt, space-themed underwear, and oversized black boots stands smiling in a home setting.](http://default/files/cache/beverly-farms-2009/axl-big-shoe-1-640w.jpg)
+*Yes, he has space shuttles on his underwear.*
+![A smiling toddler crouches on a rug, wearing oversized black shoes that are too big for their feet.](http://default/files/cache/beverly-farms-2009/axl-big-shoe-2-640w.jpg)

@@ -33,4 +33,4 @@ We're very excited about these changes as they get us a step closer to completin
 
 Dev Cloud will be available for purchase as part of an Acquia Network subscription. We are introducing a new Developer Subscription package that includes access to Dev Cloud, self-service support tools, our new Acquia Library knowledge base and Acquia Network services including Acquia Search, Mobify, and New Relic. This will start at a developer friendly price of less than $200 / month including a Dev Cloud server. If you are looking for support ticket access to Acquia's support team, you can also use Dev Cloud with our Professional Subscription.
 
-[image acquia/dev-cloud-teaser resize=false]
+![Interface for managing code, files, and database deployments with options to stage, promote, and back up data.](http://default/files/images/acquia/dev-cloud-teaser.jpg)

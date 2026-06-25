@@ -19,4 +19,6 @@ id: 43
 
 # Karlijn
 
+![A woman with glasses and a denim jacket leans against a textured wall, looking slightly to the side.](http://default/files/cache/tuscany-2006/karlijn-640w.jpg)
+
 

@@ -21,4 +21,4 @@ id: 518
 
 ICANN (Internet Committee for Assigned Names and Numbers), the non-profit organization that oversees the use of Internet domains is using [Drupal](https://www.drupal.org) at <http://public.icann.org>. They are using [Mollom](https://mollom.com) too!
 
-[image drupal/public-icann]
+![ICANN webpage displaying information about public meetings, involvement opportunities, and a blog with recent posts and comments.](http://default/files/cache/drupal/public-icann-640w.jpg)

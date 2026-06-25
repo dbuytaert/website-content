@@ -17,6 +17,6 @@ id: 211
 
 In the January 2007 issue, [Linux Format](http://www.linuxformat.com/) reviewed Drupal 4.7 and compared it to [Joomla](https://www.joomla.org/), [Mambo](https://www.mamboserver.com/), [Midgard](http://midgard-project.org/), [Plone](https://plone.org/) and [Typo3](https://typo3.org/). The information is not always 100% accurate, but it certainly makes for a good starting point if you're looking for a CMS.
 
-[image drupal/linux-format-1]
-[image drupal/linux-format-2]
-[image drupal/linux-format-3]
+![Magazine review of Drupal in Linux Format, January 2007, praising its features and rating it 9/10.](http://default/files/cache/drupal/linux-format-1-640w.jpg)
+![A magazine page comparing Drupal, Joomla, Mambo, Midgard, and Plone features in a table with checkmarks and text.](http://default/files/cache/drupal/linux-format-2-640w.jpg)
+![Magazine article reviewing Drupal, giving it a 9/10 rating for content management and performance.](http://default/files/cache/drupal/linux-format-3-640w.jpg)

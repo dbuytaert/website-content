@@ -18,4 +18,6 @@ id: 140
 
 # Sint-Annatunnel
 
+![People using the historic wooden escalators in the Sint-Annatunnel, a pedestrian tunnel in Antwerp, Belgium.](http://default/files/cache/miscellaneous-2006/sint-annatunnel-1-640w.jpg)
+
 

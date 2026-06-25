@@ -19,6 +19,7 @@ Rumor has it that Google will sponsor 14 Drupal developer stipends in this year'
 
 We're still waiting for an official announcement from Google, but the screenshot below shows that 14 projects appear to have been approved.
 
-[image drupal/google-soc-2006-projects resize=false]
+![A screenshot of Google's mentor administration panel displaying a list of accepted student projects with their mentors.](http://default/files/cache/drupal/google-soc-2006-projects-640w.jpg)
+*A screenshot of Google's mentor administration panel which shows the accepted applications.*
 
 Thanks to Google, Drupal's SoC organizers and the 36 Drupal mentors to [bring on board a range of fresh talents](/drupal-mentors-needed).

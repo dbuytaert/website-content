@@ -25,8 +25,10 @@ I didn't write a single line of HTML or CSS myself. I told Claude Code what I wa
 Here are a few before-and-after screenshots that show what changed.
 
 <div class="side-by-side">
-[image blog/homepage-before-2026-redesign]
-[image blog/homepage-after-2026-redesign]
+![Screenshot of the main page in the old dri.es design.](http://default/files/cache/blog/homepage-before-2026-redesign-640w.png)
+*Before: The old homepage, with a blue header.*
+![Screenshot of the main page in the new dri.es design.](http://default/files/cache/blog/homepage-after-2026-redesign-640w.png)
+*After: The redesigned homepage, with recent photos.*
 </div>
 
 The new design is still minimalist, like the previous one. I prefer simple websites that focus on the content.
@@ -34,8 +36,10 @@ The new design is still minimalist, like the previous one. I prefer simple websi
 Vanessa thinks it is too plain. Given our respective records on style and fashion, she is almost certainly right.
 
 <div class="side-by-side">
-[image blog/kasparov-before-2026-redesign]
-[image blog/kasparov-after-2026-redesign]
+![Screenshot of a blog post in the old dri.es design.](http://default/files/cache/blog/kasparov-before-2026-redesign-640w.png)
+*Before: The old article page, with a blue header.*
+![Screenshot of a blog post in the new dri.es design.](http://default/files/cache/blog/kasparov-after-2026-redesign-640w.png)
+*After: The redesigned article page, with a larger lead image.*
 </div>
 
 Besides a new design, I also added a photo strip to the [main page](https://dri.es), cleaned up the [sensor pages](https://dri.es/sensors), added charts to the [tag pages](https://dri.es/tag/drupal), and more.

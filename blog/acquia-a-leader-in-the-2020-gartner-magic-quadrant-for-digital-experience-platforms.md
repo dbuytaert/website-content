@@ -20,7 +20,8 @@ id: 4971
 
 Today, for the first time in our company's history, [Acquia](https://www.acquia.com) was named a Leader in [Gartner's Magic Quadrant for Digital Experience Platforms (DXPs)](https://www.acquia.com/resources/whitepaper/2020-gartner-magic-quadrant-digital-experience-platforms). This is an incredible milestone for us.
 
-[image acquia/gartner-magic-quadrant-for-digital-experience-platforms-2020 resize=false schema=false]
+![A graph showing the state of the Digital Experience Platforms in 2020. Vendors are plotted on a grid based on their ability to execute and completeness of vision. Acquia is placed in the 'Leaders' quadrant, indicating strong performance in both vision and execution.](http://default/files/cache/acquia/gartner-magic-quadrant-for-digital-experience-platforms-2020-640w.png)
+*Gartner 2020 Magic Quadrant for DXP.*
 
 In 2014, I declared that companies would need [more than a website or a CMS](https://dri.es/from-content-management-to-digital-experience-management) to deliver great customer experiences. Instead, they would need a DXP that could integrate lots of different marketing and customer success technologies, and operate across more digital channels (e.g. mobile, chat, voice, and more).
 

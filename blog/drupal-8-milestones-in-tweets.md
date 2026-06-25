@@ -17,7 +17,7 @@ id: 3506
 
 Building Drupal 8 with all of you has been a wild ride. I thought it would be fun to take a little end-of-week look back at some of our community's biggest milestones through Twitter. If you can think of others important Tweets, please share them in the comments, and I'll update the post.
 
-### Feeling nostalgic? See every single version of Drupal running!
+## Feeling nostalgic? See every single version of Drupal running!
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="en" dir="ltr">Do you remember how <a href="https://twitter.com/hashtag/Drupal?src=hash">#Drupal</a> 1 looked like? Or Drupal 3? Are you curious? Check out all the Drupals! <a href="https://twitter.com/hashtag/Celebr8D8?src=hash">#Celebr8D8</a>
@@ -30,7 +30,7 @@ Building Drupal 8 with all of you has been a wild ride. I thought it would be fu
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8">
 </script>
 
-### Here is how we opened the development branch for Drupal 8: live at Drupalcon!
+## Here is how we opened the development branch for Drupal 8: live at Drupalcon!
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="en" dir="ltr">The secretsauce of <a href="https://twitter.com/hashtag/drupal?src=hash">#drupal</a> isn't code or features or market share, important thought they are. The secret sauce is community.</p>
@@ -55,7 +55,7 @@ Building Drupal 8 with all of you has been a wild ride. I thought it would be fu
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8">
 </script>
 
-### Drupal 8's first beta showed the power of community
+## Drupal 8's first beta showed the power of community
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="en" dir="ltr">Drupal 8.0.0 beta 1 released! <a href="https://t.co/FwdmRYaZUx">https://t.co/FwdmRYaZUx</a> Ahh the power of COMMUNITY driven software! :-)</p>
@@ -76,7 +76,7 @@ Building Drupal 8 with all of you has been a wild ride. I thought it would be fu
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8">
 </script>
 
-### We had issues ... but the queue steadily declined
+## We had issues ... but the queue steadily declined
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="en" dir="ltr">Today there are zero <a href="https://twitter.com/hashtag/Drupal?src=hash">#Drupal</a> 8 beta blockers! Here is What is next: <a href="https://t.co/yq9eOhEgLW">https://t.co/yq9eOhEgLW</a> Of note: finish beta deadline issues by Sept. 28.</p>
@@ -97,7 +97,7 @@ Building Drupal 8 with all of you has been a wild ride. I thought it would be fu
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8">
 </script>
 
-### We held sprints around the world: here are just a few
+## We held sprints around the world: here are just a few
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="en" dir="ltr">EVERY SINGLE <a href="https://twitter.com/hashtag/Drupal?src=hash">#Drupal</a> 8 critical is RTBC or currently being addressed at the 10-person <a href="https://twitter.com/hashtag/D8Accelerate?src=hash">#D8Accelerate</a> London sprint! <a href="https://twitter.com/DrupalAssoc">@DrupalAssoc</a>
@@ -131,7 +131,7 @@ Building Drupal 8 with all of you has been a wild ride. I thought it would be fu
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8">
 </script>
 
-### And we created many game-changing features
+## And we created many game-changing features
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="en" dir="ltr">
@@ -186,7 +186,7 @@ Building Drupal 8 with all of you has been a wild ride. I thought it would be fu
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8">
 </script>
 
-### The founder of PHP said: Drupal 8 + PHP7 = a lot of happy people
+## The founder of PHP said: Drupal 8 + PHP7 = a lot of happy people
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="en" dir="ltr">Here are the two graphs: <a href="http://t.co/3m2EbJayY4">http://t.co/3m2EbJayY4</a> and <a href="http://t.co/pIhXWxPfso">http://t.co/pIhXWxPfso</a> - Drupal 8 + PHP 7 will make a lot of people happy!</p>
@@ -197,7 +197,7 @@ Building Drupal 8 with all of you has been a wild ride. I thought it would be fu
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8">
 </script>
 
-### We reached the first release candidate and celebrated ... a little
+## We reached the first release candidate and celebrated ... a little
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="en" dir="ltr">Congratulations to EVERYONE in the <a href="https://twitter.com/drupal">@drupal</a> community who has worked so damn hard to reach this moment. Celebrate! <a href="https://twitter.com/hashtag/drupal8rc?src=hash">#drupal8rc</a>
@@ -232,7 +232,7 @@ Download - Let's build something to celebrate! <a href="https://twitter.com/hash
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8">
 </script>
 
-### And, just yesterday, we painted the world blue and celebrated Drupal 8 ... a lot!
+## And, just yesterday, we painted the world blue and celebrated Drupal 8 ... a lot!
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="en" dir="ltr">Let's paint the whole world blue! Add your <a href="https://twitter.com/hashtag/Celebr8D8?src=hash">#Celebr8D8</a> Release Party here <a href="https://t.co/5v8kENj1Ko">https://t.co/5v8kENj1Ko</a>

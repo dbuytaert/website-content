@@ -18,4 +18,6 @@ id: 192
 
 # I will not draw as I am told
 
+![Graffiti of a cartoonish face with sharp teeth next to stenciled text reading, "I will not draw as I am told.](http://default/files/cache/miscellaneous-2006/i-will-not-draw-as-i-am-told-640w.jpg)
+
 

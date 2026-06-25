@@ -19,6 +19,8 @@ id: 5851
 
 # Why Drupal is built for the AI era
 
+![An astronaut explores a surreal landscape beneath rainbow-colored planetary rings, symbolizing the journey into AI's transformative potential for Drupal.](http://default/files/cache/blog/drupal-ai-advantage-640w.jpg)
+
 In my previous post, [The great digital agency unbundling](https://dri.es/ai-and-the-great-digital-agency-unbundling), I explored how AI is transforming the work of digital agencies. As AI automates more technical tasks, agencies will be shifting their focus toward orchestration, strategic thinking, and accountability. This shift also changes what they need from their tools.
 
 Content management systems like [Drupal](https://new.drupal.org/home) must evolve with them. This is not just about adding AI features. It is about becoming a platform that strengthens the new agency model. Because as agencies take on new roles, they will adopt the tools that help them succeed.
@@ -30,7 +32,7 @@ The good news is that the Drupal community is embracing AI in a coordinated and 
 
 In this post, I want to share why I believe Drupal is not just ready to evolve, but uniquely positioned to thrive in the AI era.
 
-### Drupal is built for AI
+## Drupal is built for AI
 
 Imagine an AI agent that plans, executes, and measures complex marketing campaigns across your CMS, CRM, email platform, and analytics tools without requiring manual handoff at every step.
 
@@ -44,7 +46,7 @@ These changes made Drupal not only more programmable but also more introspectabl
 
 Making these architectural improvements was not easy. Upgrading from Drupal 7 was painful for many, and at the time, the benefits of Drupal 8's redesign were not obvious. We were not thinking about AI at the time, but in hindsight, we built exactly the kind of modern, flexible foundation that makes deep AI integration possible today. As is often the case, there is [pain before the payoff](https://dri.es/the-pain-before-the-payoff).
 
-### AI makes Drupal's power more accessible
+## AI makes Drupal's power more accessible
 
 I think this is exciting because AI can help make Drupal's flexibility more accessible. Drupal is one of the most flexible content management systems available. It powers everything from small websites to large, complex digital platforms. That flexibility is a strength, but it also introduces complexity.
 
@@ -61,7 +63,7 @@ In my last post, [The great digital agency unbundling](https://dri.es/ai-and-the
 
 Of course, AI comes with both promise and risk. It raises ethical questions and often fails to meet expectations. But ignoring AI is _not_ a strategy. AI is already changing how digital work gets done. If we want Drupal to stay relevant, we need to explore its potential. That means experimenting thoughtfully, sharing what we learn, and helping shape how these tools are built and used.
 
-### Drupal's AI roadmap helps agencies
+## Drupal's AI roadmap helps agencies
 
 AI is changing how digital work gets done. Some platforms can now generate full websites, marketing campaigns, or content strategies in minutes. For simple use cases, that may be enough.
 
@@ -71,7 +73,7 @@ That is the future we want Drupal to support. We are _not_ building AI to replac
 
 As agencies evolve in response to AI, they will need tools that evolve with them. Drupal is not only keeping pace but helping lead the way. By investing in AI in collaboration with the agencies who rely on it, we are making Drupal stronger, more capable, and more relevant.
 
-### Now is the moment to move
+## Now is the moment to move
 
 The shift toward AI-powered digital work is inevitable. Platforms will succeed or fail based on how well they adapt to this reality.
 

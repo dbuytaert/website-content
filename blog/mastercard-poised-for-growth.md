@@ -30,7 +30,7 @@ When you pay $100 with your Mastercard, the merchant pays roughly $2.60 in total
 
 Now consider that Mastercard processes many billions of "swipes" each year, and you start to see the beauty of its business model. Because Mastercard has minimal capital expenses, it is able to generate enormous free cash flows and maintain a pristine balance sheet with virtually no debt. It can then invest the retained profits toward new technology, advertisements, share buybacks, dividends, etc.
 
-### Growth opportunity
+## Growth opportunity
 
 As someone living in the United States, I take my credit cards for granted and use them to pay for almost everything: at the grocery store, at Starbucks, on my utility bills, on train and plane tickets, etc. I almost never use cash.
 
@@ -38,7 +38,7 @@ But that is far from the norm; Mastercard cites a global credit card penetration
 
 All things considered, I believe Mastercard is poised to continue to see tremendous revenue growth. In addition, Mastercard continues to buy back stock (3-5% of the float per year), which further adds to its earnings-per-share growth.
 
-### Possible risks
+## Possible risks
 
 Technology disruption seems like the biggest risk to Mastercard. While Mastercard and Visa currently play prominent roles in both Apple's and Google's digital wallets as the processing "middlemen", that could change. If Apple or Google creates a more secure payment infrastructure, there might be less need for a Mastercard or Visa.
 
@@ -48,7 +48,7 @@ While emerging markets do represent the largest areas for growth for a company l
 
 There are also some big legal and regulatory risks. Since Visa and Mastercard operate as a near-duopoly, they have a lot of government eyes watching them on behalf of merchants. For example, in 2010, the US passed the [Durbin Amendment](https://en.wikipedia.org/wiki/Durbin_Amendment), which forced Visa and Mastercard to lower interchange fees on debit card transactions. Both companies are also being investigated for price-fixing and possible collusion in [a near $6 billion settlement lawsuit with merchants](https://www.bloomberg.com/news/articles/2015-11-11/inside-a-5-7-billion-antitrust-trainwreck). Each of these legal and regulatory hurdles could become a significant hit to Mastercard's bottom line.
 
-### Conclusion
+## Conclusion
 
 Despite these risks, Mastercard isn't going anywhere anytime soon. The strong growth drivers, the relative lack of immediate competitive threats, and its profitable business model make me believe that Mastercard will keep outperforming the market. 
 

@@ -19,4 +19,4 @@ id: 496
 
 English rock band Led Zeppelin is using Drupal for their official website at <http://www.ledzeppelin.com>. According to [Wikipedia](http://wikipedia.org), they have their own label called [Swan Song Records](https://en.wikipedia.org/wiki/Swan_Song_Records). *Rock!*
 
-[image drupal/led-zeppelin]
+![A spinning Led Zeppelin vinyl record on a turntable with a nearby tonearm and a "Special Edition Vinyl" badge.](http://default/files/cache/drupal/led-zeppelin-640w.jpg)

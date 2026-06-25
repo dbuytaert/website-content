@@ -25,6 +25,6 @@ Enlisting the help of [Dataflow](http://dataflow.be) and [Acquia](https://www.ac
 
 One other cool feature is that Telent's client advisors use one copy of the knowledge base inside the Telenet firewall, and have special permissions to see extra inward facing content, while Telenet's customers access a copy of the site that lives outside of the firewall. You can check out the external knowledge base at <http://onlinesupport.telenet.be/>.
 
-[image drupal/telenet-online-support]
+![Telenet online support page with navigation menu, search bar, and links to video tutorials on various Telenet services.](http://default/files/cache/drupal/telenet-online-support-640w.jpg)
 
 Telenet is happy enough with the new website that there are more Telenet-built, Telenet-hosted Drupal sites on the way.

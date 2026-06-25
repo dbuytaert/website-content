@@ -20,6 +20,8 @@ id: 1896
 
 # RestoreTheGulf.gov using Drupal in the cloud
 
+![A government official speaks with workers in front of stacked orange equipment, discussing Gulf Coast restoration efforts.](http://default/files/cache/drupal/restore-the-gulf-gov-640w.jpg)
+
 The U.S. government recently launched a new Drupal website, [RestoreTheGulf.gov](http://restorethegulf.gov), to provide information about the environmental catastrophe in the Gulf of Mexico from the oil spill earlier this year and announced plans to phase out the current disaster response.
 
 The site runs on a fully managed [Acquia Hosting](https://www.acquia.com/products-services/acquia-managed-cloud) cluster that is [FISMA compliant](https://en.wikipedia.org/wiki/Federal_Information_Security_Management_Act_of_2002), running on [Amazon EC2](http://aws.amazon.com). That is a pretty big deal as most government agencies are still wary about using the cloud.

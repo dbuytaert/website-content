@@ -25,4 +25,4 @@ After this one week extension, we enter a phase we're calling "code slush", to b
 
 As always, Drupal 7 will be ready when it's ready, but not before. We expect – and hope – that [our huge investment in SimpleTest tests and our automated testing platform](https://dri.es/drupal-7-testing-status-update-and-next-steps), though, will make this the easiest transition from development to release yet. We'll see!
 
-[image drupal/drupal-7-code-freeze-plan resize=false]
+![Timeline showing Drupal's development and code freeze phases, including feature development, API changes, performance improvements, and bug fixes.](http://default/files/images/drupal/drupal-7-code-freeze-plan.jpg)

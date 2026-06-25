@@ -22,7 +22,7 @@ We've worked on this "*responsive layout builder*" concept for many weeks, and I
 
 What better than to show you what we have come up with? The following 8-minute video walks through the designs, and also provides a bit of background on the Spark project:
 
-[video Ek2eyWZPI1c]
+https://www.youtube.com/watch?v=Ek2eyWZPI1c
 
 Special credit goes to Kevin O'Leary from [Acquia](https://www.acquia.com/) for being the driving force behind this work.
 

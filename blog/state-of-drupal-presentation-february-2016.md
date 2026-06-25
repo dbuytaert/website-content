@@ -20,10 +20,12 @@ id: 3621
 
 # State of Drupal presentation (February 2016)
 
+![A large group of people on stage raising their hands and singing or cheering together at an event.](http://default/files/cache/mumbai-2016/drupalcon-prenote-dancing-640w.jpg)
+
 I was excited to [travel to India](https://dri.es/album/mumbai-2016/) a few months ago for DrupalCon, an area where we have a really [big opportunity for the growth of Drupal](https://dri.es/the-rise-of-drupal-in-india). In keeping with tradition, here are the slides and video from my keynote presentation. You can [watch the recording of my keynote](https://www.youtube.com/embed/uLHLjMMxDsc) (starting at 20:15) or [download a copy of my slides](https://dri.es/files/state-of-drupal-february-2016.pdf) (PDF, 158 MB).
 
 The main areas of focus for the talk included Drupal's rapid growth and progress in India, key technology trends driving the future of the web, and how Drupal is responding to these trends. As a call-to-action, I encouraged Drupalists in India to form grassroots communities locally, to become a part of the larger Drupal community conversation, and to port modules from Drupal 7 to Drupal 8 to accelerate its adoption.
 
 Have a look and as always, feel free to leave your thoughts in the comments!
 
-[video uLHLjMMxDsc]
+https://www.youtube.com/watch?v=uLHLjMMxDsc

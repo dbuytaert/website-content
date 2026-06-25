@@ -19,4 +19,6 @@ id: 417
 
 # Belgian Prime Minister using Drupal
 
+![Screenshot of the Belgian Prime Minister's website announcing a new design and updates about the government and ministers.](http://default/files/cache/drupal/prime-minister-belgium-2008-640w.jpg)
+
 Today, a new Belgian government has been sworn in, ending a political deadlock of nine months. With our new government comes a new Prime Minister, and with our new Prime Minister comes a new website. It's not quite the same as the constitutional reform that was promised many months ago, but at least the Prime Minister's official website is using Drupal: <http://premier.be>.

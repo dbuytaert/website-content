@@ -18,4 +18,6 @@ id: 324
 
 # Dragon slayer
 
+![A baby in a green outfit holds a plush dragon toy and playfully puts its nose in their mouth.](http://default/files/cache/axl-2007/dragon-slayer-640w.jpg)
+
 

@@ -28,4 +28,5 @@ By growing a moustache, we become walking, talking billboards for the 30 days of
 
 If you want to support me, please consider [donating some money to my Mo growing efforts](https://us.movember.com/mospace/726626/). As a young adult I witnessed my mother fight with cancer so this is dear to my heart. The money will be used to improve the survival rates and quality of life of people with cancer and to educate people about cancer. In return for your donation, I'll commit to growing a moustache for 30 days and to spread awareness. If I reach 500 USD in donations, I'll also share some pictures online. *Thanks for your support!*
 
-[image movember-2010/day-one-1]
+![A person with shaving cream on their face, preparing to shave for the start of Movember.](http://default/files/cache/movember-2010/day-one-1-640w.jpg)
+*Picture taken on November 1st at the start of Movember. On day one, the complete moustache region, including the entire upper lip and the handlebar zones, must be completely shaved. Everything had to go, and so I looked like 15 again ...*

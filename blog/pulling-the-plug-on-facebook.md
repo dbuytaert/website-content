@@ -21,13 +21,16 @@ id: 4741
 
 # Pulling the plug on Facebook
 
-[image blog/facebook-social-decay]
+![An image of Facebook's account deletion confirmation screen](http://default/files/cache/blog/delete-facebook-640w.png)
+
+![Facebook social decay](http://default/files/cache/blog/facebook-social-decay-640w.jpg)
+*&copy; <a href="https://www.behance.net/andreilacatusu">Andrei Lacatusu</a>*
 
 Exactly one year ago, I decided to [use social media less and blog more](https://dri.es/taking-control-of-my-data-and-social-media). I uninstalled the Facebook application from my phone, but kept my Facebook account for the time being.
 
 The result is that I went from checking Facebook several times a day to once or twice a month.
 
-### Facebook can't be trusted
+## Facebook can't be trusted
 
 At the time I uninstalled the Facebook application from my phone, Mark Zuckerberg promised that he would fix Facebook. He didn't.
 
@@ -44,10 +47,10 @@ It's clear that Facebook can't be trusted. And for that reason, I'm out.
 I deleted my Facebook account twenty minutes ago.
 
 <div class="large">
-  [image blog/delete-facebook resize=false]
+  ![An image of Facebook's account deletion confirmation screen](http://default/files/cache/blog/delete-facebook-640w.png)
 </div>
 
-### Social media's dark side
+## Social media's dark side
 
 Social media, in general, have been enablers of community, transparency and positive change, but also of abuse, hate speech, bullying, misinformation, government manipulation and more. In just the past year, more and more users have woken up to the dark side of social media. Open Web and privacy advocates, on the other hand, have seen this coming for awhile.
 
@@ -55,7 +58,7 @@ Technological change is a wonderful thing, as it can bring unprecedented improve
 
 Last week, we heard that [Facebook intends to further blend Instagram and WhatsApp with Facebook](https://www.nytimes.com/2019/01/25/technology/facebook-instagram-whatsapp-messenger.html). If I were to guess, they want to make it harder to split up Facebook later (and harder for users to know what is happening with their data). Regulators should be all over this right now.
 
-### My social detox
+## My social detox
 
 I plan to stay off Facebook indefinitely, unless maybe there is a new CEO and better regulatory oversight.
 
@@ -65,7 +68,7 @@ For now, I'm still on Instagram, but it's hard to ignore that Instagram is owned
 
 [newsletter blog]
 
-### A call to rejoin the Open Web
+## A call to rejoin the Open Web
 
 Instant gratification and network effects have made social media successful, [at the sacrifice of blogs](http://calnewport.com/blog/2018/12/07/on-blogs-in-the-social-media-age/) and the Open Web.
 

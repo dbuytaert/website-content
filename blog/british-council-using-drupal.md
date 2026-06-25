@@ -23,4 +23,4 @@ In good [Drupal](https://www.drupal.org) style, the site boasts a number of soci
 
 The site, developed by [Brightlemon](http://www.brightlemon.com), was also referenced in [Gordon Brown](https://en.wikipedia.org/wiki/Gordon_Brown)'s recent visit to China.
 
-[image drupal/english-online]
+![A webpage from the British Council promoting English learning, featuring resources for learners and teachers, login options, and activities.](http://default/files/cache/drupal/english-online-640w.jpg)

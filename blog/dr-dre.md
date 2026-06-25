@@ -19,10 +19,12 @@ id: 393
 
 # Dr. Dre
 
+![A smiling person in a dark coat holds a sign pointing to a PhD defense location while waving.](http://default/files/cache/miscellaneous-2008/phd-defense-640w.jpg)
+
 I successfully defended [my PhD](https://dri.es/tag/phd-research) last week – you can find a copy of my PhD dissertation on my [about page](https://dri.es/about). As *Dries* is derived from *Andre*, and *Dre* is short for *Andre*, you can call me *Dr. Dre* now. ;-)
 
 On Monday, I'll be packing up my desk at Ghent University, and as of Tuesday, I'll turn full-time to [my hobby](https://www.drupal.org) for the first time in seven years. I fully expect that to be a whole lot of hard work, but I'm really looking forward to finally being able to unleash my raw passion and energy in a very focused manner.
 
 I wish to express my sincere thanks to my two advisers, Prof. Koen De Bosschere and Prof. Lieven Eeckhout for offering me the chance to be part of their research group and for having been extraordinary mentors. I'd also like to thank my colleagues at Ghent University who provided an enjoyable research environment and who have helped me understand how to do research. *Thanks!*
 
-[image miscellaneous-2008/phd-defense]
+![A smiling person in a dark coat holds a sign pointing to a PhD defense location while waving.](http://default/files/cache/miscellaneous-2008/phd-defense-640w.jpg)

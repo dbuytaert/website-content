@@ -17,4 +17,4 @@ id: 61
 
 Chris Messina sent me a [Flock](http://flock.com) t-shirt! Thanks!
 
-[image miscellaneous-2006/flockstar]
+![A black T-shirt with a white star inside a circle and the word "Flockstar" printed below.](http://default/files/cache/miscellaneous-2006/flockstar-640w.jpg)

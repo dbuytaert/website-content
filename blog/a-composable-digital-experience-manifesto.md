@@ -20,6 +20,8 @@ id: 5366
 
 # A Composable Digital Experience Manifesto
 
+![Hand-drawing of a person juggling different dimensions. Dimensions are balls with labels: cost, simple, complex, etc.](http://default/files/cache/acquia/composable-dxp-principle-6-640w.png)
+
 It's been a while since I wrote about my views on the Content Management System (CMS) and Digital Experience Platform (DXP) markets.
 
 It's also been a while since I gave an update on [Acquia](https://www.acquia.com/)'s product vision and strategy, like I did in [2009](https://dri.es/acquia-2009-roadmap), [2011](https://dri.es/acquia-product-strategy-and-vision) or [2017](https://dri.es/the-evolution-of-acquia-product-strategy).
@@ -28,7 +30,7 @@ In this post, I want to give you an update on both. I will share my views on the
 
 Throughout the article, I will also give practical examples of how [Drupal](https://www.drupal.org/) (the Open Source project I started) and [Acquia](https://www.acquia.com/) (the company I started) fit into a 'Composable Enterprise'.
 
-### The Composable Enterprise
+## The Composable Enterprise
 
 The Composable Enterprise has been one of the most important trends in the software industry. Analyst firm [Gartner](https://www.gartner.com/en/doc/465932-future-of-applications-delivering-the-composable-enterprise) popularized the term, and defines the Composable Enterprise as follows:
 
@@ -38,7 +40,7 @@ The main idea behind the Composable Enterprise is that when organizations compos
 
 Per Gartner's thought-leadership, architectural modularity is key to composability. But composability is also much more than modularity. Composability defines an end-to-end approach, and not only a software architecture. Composability is a philosophy of business agility, architecture and governance.
 
-### A Composable Digital Experience Platform
+## A Composable Digital Experience Platform
 
 In this article, I will apply the ideas of the Composable Enterprise to the DXP market.
 
@@ -51,7 +53,7 @@ Specifically, I will expand upon six core tenets that I believe are key to Compo
 5. [Principle 5: Multi-experience content demands strong content management](#principle-5)
 6. [Principle 6: A platform approach requires diverse experience composition and delivery methods](#principle-6)
 
-### MACH and Jamstack
+## MACH and Jamstack
 
 Before jumping into the six key principles, I wanted to acknowledge that composability in the DXP market has given rise to trends like [MACH](https://machalliance.org/) and [Jamstack](https://jamstack.org/).
 
@@ -62,9 +64,10 @@ In short, MACH and Jamstack primarily describe architectural approaches. MACH is
 
 Both MACH and Jamstack represent developer-centric approaches to the challenge of composability. Neither are prescriptive about the capabilities of a DXP. Both MACH and Jamstack can be part of a Composable DXP.
 
-### <a id="principle-1">Principle 1: Software architecture needs to be modular</a>
+## <a id="principle-1">Principle 1: Software architecture needs to be modular</a>
 
-[image acquia/composable-dxp-principle-1]
+![Hand-drawing of six connected building blocks. Each building block represents a feature.](http://default/files/cache/acquia/composable-dxp-principle-1-640w.png)
+*Composing an experience by assembling different building blocks.*
 
 At the core of a Composable DXP are modular software design principles. Organizations should reject software monoliths and focus on software that is modular.
 
@@ -75,16 +78,17 @@ Modular software is decomposed into smaller pieces with standardized interfaces.
 This idea is not new – modular software has been around since the 1960s – but a lot of software still doesn't live up to these basic design principles.
 
 <section class="note">
-  <h4>Drupal proof points</h4>
+  <h3>Drupal proof points</h3>
   <p>Open Source software is almost always better than proprietary software with regards to APIs and modularity.</p>
   <p>For over 10 years, Drupal has been pushing the concept of the <a href="https://dri.es/the-assembled-web">Assembled Web</a>.</p>
   <p>Today, Drupal's open and modular architecture allows over 10,000 active contributors to build and maintain 46,000 modules for the more than 1 million websites running Drupal.</p>
   <p>Integrations include third-party commerce platforms, digital asset management platforms, analytics platforms, CRM systems, marketing automation software, frontend frameworks, and many more.</p>
 </section>
 
-### <a id="principle-2">Principle 2: Components need to be discoverable and orchestrated</a>
+## <a id="principle-2">Principle 2: Components need to be discoverable and orchestrated</a>
 
-[image acquia/composable-dxp-principle-2]
+![Hand-drawing of two robots operating components on a conveyor belt.](http://default/files/cache/acquia/composable-dxp-principle-2-640w.png)
+*Component discovery and maintenance.*
 
 A <dfn>**Composable Architecture**</dfn> is an architecture in which the individual components of the stack can be replaced without affecting other parts of the system.
 
@@ -106,7 +110,7 @@ Composability necessitates an approach that simplifies the discovery, installati
 - A **CI/CD Pipeline** for continuous integration, management and updating of components. New versions of components are released every day by independent providers. Automated integration and automated testing is required to deliver composable software reliably and quickly.
 
 <section class="note">
-  <h4>Drupal and Acquia proof points</h4>
+  <h3>Drupal and Acquia proof points</h3>
 
 Drupal has 46,000 components, called *modules*. Drupal also offers more than 1,000 PBCs, which Drupal calls *distributions* and *recipes*. Distributions and recipes not only combine modules, but also ship with data schemas, configuration, content and data to make everything work well together. Example distributions include:
 
@@ -128,9 +132,10 @@ Last but not least, [Acquia Code Studio offers a CI/CD pipeline](https://dri.es/
 
 </section>
 
-### <a id="principle-3">Principle 3: All business stakeholders need to be empowered with low-code / no-code</a>
+## <a id="principle-3">Principle 3: All business stakeholders need to be empowered with low-code / no-code</a>
 
-[image acquia/composable-dxp-principle-3]
+![Hand-drawing of a person moving UI components in front of a very large screen.](http://default/files/cache/acquia/composable-dxp-principle-3-640w.png)
+*No-code lets you deliver customer experience faster.*
 
 To deliver the best customer experiences, all departments (engineering, marketing, sales, customer success and HR) must participate in the creation of these experiences.
 
@@ -147,28 +152,29 @@ A Composable DXP with low-code / no-code helps organizations in at least three w
 In short, low-code / no-code solutions **enable cross-functional teams** to deliver great customer experiences faster.
 
 <section class="note">
-  <h4>Drupal and Acquia proof points</h4>
+  <h3>Drupal and Acquia proof points</h3>
 
 For low-code / no-code to be effective across all of an experience's creation, it needs to be available throughout the Composable DXP; from the content layer, to the data layer, to the orchestration layer.
 
-  <h5>Content layer</h5>
+  <h4>Content layer</h4>
 
 - Drupal's UI enables developers and non-developers to compose or assemble websites without having to write code. Over the past 20+ years, Drupal has helped democratize website design using its low-code / no-code approach.
 - Acquia Site Studio makes Drupal even more accessible to business users and cross-functional teams. For example, Acquia Site Studio enables organizations to set up a **composable design system**. Organizations can design visual components (e.g. header, footer, gallery, buttons, etc.) using no-code tools, organize them in a catalog, and use them across multiple websites.
 
-<h5>Data layer</h5>
+<h4>Data layer</h4>
 
 - Acquia's Customer Data Platform (CDP) provides 300 out-of-the-box connectors along with low-code tooling to quickly create custom integrations. Using a drag-and-drop UI, organizations can build simple to sophisticated data integrations. Despite being low-code, these integrations can handle complex data transformations, data deduplication, conditional triggers, and much more.
 
-  <h5>Orchestration layer</h5>
+  <h4>Orchestration layer</h4>
 
 - Acquia Campaign Studio allows organizations to create customer journeys. Engaging workflows, beautiful emails and landing pages can be built in minutes with an easy-to-use, drag-and-drop interface.
 
 </section>
 
-### <a id="principle-4">Principle 4: Data makes the difference, but it needs to be unified and automated</a>
+## <a id="principle-4">Principle 4: Data makes the difference, but it needs to be unified and automated</a>
 
-[image acquia/composable-dxp-principle-4]
+![Hand-drawing of 3 rockets taking off. The rocket with the label 'unified data' goes the fastest and is the furthest along.](http://default/files/cache/acquia/composable-dxp-principle-4-640w.png)
+*Unified data takes you further!*
 
 Organizations are increasingly using data to create superior, personalized customer experiences. The goal is simple: improve customer satisfaction, loyalty and advocacy via tailored experiences.
 
@@ -187,7 +193,7 @@ When you have millions of user profiles and millions of interactions, **automati
 Last but not least, it goes without saying that organizations also need and want to respect their customers' data privacy, and remain in compliance with regulations like GDPR and other local data privacy laws. This adds a third layer of complexity to managing and using user data.
 
 <section class="note">
-  <h4>Drupal and Acquia proof points</h4>
+  <h3>Drupal and Acquia proof points</h3>
 
 Acquia's Customer Data Platform (CDP) helps companies manage both consumer privacy and deliver personalized experiences at scale.
 
@@ -199,9 +205,10 @@ With Acquia CDP, users can easily leverage pre-built families of predictions, pe
 
 </section>
 
-### <a id="principle-5">Principle 5: Multi-experience content demands strong content management</a>
+## <a id="principle-5">Principle 5: Multi-experience content demands strong content management</a>
 
-[image acquia/composable-dxp-principle-5]
+![Hand-drawing of a DJ table specialized in mixing content rather than mixing music.](http://default/files/cache/acquia/composable-dxp-principle-5-640w.png)
+*Remix content and deploy it to different channels.*
 
 <dfn>Multi-experience</dfn> refers to a user's end-to-end experience with one organization across a variety of digital touchpoints – websites, mobile applications, chatbots, voice assistants, wearables, augmented reality, metaverses, and more.
 
@@ -231,7 +238,7 @@ Composable content does not necessarily mean headless CMSes are de facto the bes
 <p class="pullquote">Nearly all Traditional CMSes have evolved to be Hybrid CMSes. It's no longer relevant to talk about Traditional CMSes. Today, the choice is really between Headless and Hybrid.</p>
 
 <section class="note">
-  <h4>Drupal and Acquia proof points</h4>
+  <h3>Drupal and Acquia proof points</h3>
 
 - Drupal is decidedly a *Hybrid CMS*. Drupal evolved [from a Traditional CMS to a Hybrid CMS](https://dri.es/the-future-is-a-restful-drupal) in 2012, more than 10 years ago, well before the term 'headless' became popular. Today, you can use Drupal as a Traditional CMS, a Headless CMS or a combination of both. Drupal is [API-first, but not API-only](https://dri.es/drupal-is-api-first-not-api-only).
 
@@ -246,9 +253,10 @@ Composable content does not necessarily mean headless CMSes are de facto the bes
 
 </section>
 
-### <a id="principle-6">Principle 6: A platform approach requires diverse experience composition and delivery methods</a>
+## <a id="principle-6">Principle 6: A platform approach requires diverse experience composition and delivery methods</a>
 
-[image acquia/composable-dxp-principle-6]
+![Hand-drawing of a person juggling different dimensions. Dimensions are balls with labels: cost, simple, complex, etc.](http://default/files/cache/acquia/composable-dxp-principle-6-640w.png)
+*Juggling different experience composition and delivery options.*
 
 If you're like most organizations, the number of digital experience applications you have continues to grow, not shrink.
 
@@ -279,7 +287,7 @@ These different composition and delivery models also need to be underpinned by a
 In short, managing a portfolio of digital experiences requires a standard technology footprint, build around certain core services, but with the option to vary approaches to experience building and experience delivery.
 
 <section class="note">
-  <h4>Drupal and Acquia proof points</h4>
+  <h3>Drupal and Acquia proof points</h3>
 
 More and more, we see organizations standardize on Drupal. Why? Because Drupal is one of the few solutions that can scale from very small to extremely large.
 
@@ -295,7 +303,7 @@ Regardless of the delivery model used, services like Acquia Content Hub and Acqu
 
 </section>
 
-### Conclusion
+## Conclusion
 
 After decades of contending with rigid, inflexible systems, enterprises crave the agility and speed that comes with composability.
 

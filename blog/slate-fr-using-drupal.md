@@ -20,4 +20,4 @@ id: 595
 
 While in France for the [Drupal.org redesign code sprint in Paris](https://dri.es/drupal-org-redesign-code-sprints-update-2), it was pointed out by a number of people that [Slate.fr](http://slate.fr), the French version of the popular culture magazine Slate, is using [Drupal](https://www.drupal.org). Slate is owned by the [The Washington Post Company](http://www.washpostco.com/).
 
-[image drupal/slate-fr]
+![A news website homepage featuring a main article about Sarkozy, football agents, and an interview with Meryl Streep.](http://default/files/cache/drupal/slate-fr-640w.jpg)

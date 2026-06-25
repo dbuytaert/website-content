@@ -22,6 +22,8 @@ id: 5751
 
 # Comparing local large language models for alt-text generation
 
+![Santa maddalena church in funes](http://default/files/cache/italy-2022/santa-maddalena-church-in-funes-2-640w.jpg)
+
 I have [10,000 photos](https://dri.es/photos) on my website. About 9,000 have no `alt`-text. I'm not proud of that, and it has bothered me for a long time.
 
 When I started my blog nearly 20 years ago, I didn't think much about `alt`-texts. Over time, I realized its importance for visually impaired users who rely on screen readers.
@@ -36,7 +38,7 @@ The TL;DR is that, not surprisingly, cloud models (GPT-4, Claude Sonnet 3.5) set
 
 I know I'm not the only one. Plenty of people – entire organizations even – have massive backlogs of images without `alt`-text. I'm determined to fix that for my blog and share what I learn along the way. This blog post is just step one – [subscribe by email](https://buttondown.com/dries-buytaert-blog) or [RSS](https://dri.es/rss.xml) to get future posts.
 
-### Models evaluated
+## Models evaluated
 
 I tested `alt`-text generation using 12 AI models: 9 on my MacBook Pro with 32GB RAM, 1 on a higher-RAM machine (thanks to Jeremy Andrews, a friend and long-time Drupal contributor), and 2 cloud-based services.
 
@@ -220,7 +222,7 @@ The table below lists the models I tested, with details like links to research p
 </table>
 </div>
 
-### How image-to-text models work (in less than 30 seconds)
+## How image-to-text models work (in less than 30 seconds)
 
 LLMs come in many forms, but for this project, I focused on *image-to-text* and *multi-modal* models. Both types of models can analyze images and generate text, either by describing images or answering questions about them.
 
@@ -235,7 +237,7 @@ If you look at the table above, you'll see that each row pairs a *vision encoder
 
 For a more in-depth explanation, I recommend [Sebastian Raschka](https://sebastianraschka.com/)'s article [Understanding Multi-modal LLMs](https://sebastianraschka.com/blog/2024/understanding-multimodal-llms.html), which also covers how image encoders work. It's fantastic!
 
-### Comparing different AI models
+## Comparing different AI models
 
 I wrote a Python script that generates `alt`-texts for images using nine different local models. You can find it in my [GitHub repository](https://github.com/dbuytaert/image-caption). It takes care of installing models, running them, and generating `alt`-texts. It supports both [Hugging Face](https://huggingface.co/) and [Ollama](https://ollama.ai/) and is built to be easily extended as new models come out.
 
@@ -267,7 +269,7 @@ The script outputs a JSON response, making it easy to integrate or analyze progr
 </code>
 </pre>
 
-### Test images
+## Test images
 
 With the script ready, I decided to test it on some of [my 10,000 photos](https://dri.es/photos). Not all of them at once. I picked five that I consider non-standard. Instead of simple portraits or landscapes, I picked photos with elements that might confuse or challenge the models.
 
@@ -283,10 +285,10 @@ Yes, I *know* that a test set of five images is small, but it's sufficient to id
 
 Next, I'll share the detailed results for each of the five photos. It's a lot to go through, so feel free to skip ahead to the [summary](#model-accuracy).
 
-#### Test image 1: Shibuya Crossing, Tokyo
+### Test image 1: Shibuya Crossing, Tokyo
 
 <div class="large">
-  [image japan-2024/shibuya-crossing caption=false]
+  ![Areal view of an intersection, capturing the evening commute with pedestrians, traffic and electronic billboards.](http://default/files/cache/japan-2024/shibuya-crossing-640w.jpg)
 </div>
 
 Benchmark LLMs:
@@ -377,10 +379,10 @@ Local LLMs:
 </tbody>
 </table>
 
-#### Test image 2: Isabella Stewart Gardner Museum, Boston
+### Test image 2: Isabella Stewart Gardner Museum, Boston
 
 <div class="large">
-  [image miscellaneous-2023/isabella-stewart-gardner-museum caption=false]
+  ![An empty picture frame in a room with ornate wallpaper, candles, old paintings, and antique furniture.](http://default/files/cache/miscellaneous-2023/isabella-stewart-gardner-museum-640w.jpg)
 </div>
 
 Benchmark LLMs:
@@ -474,10 +476,10 @@ Local LLMs:
 </tbody>
 </table>
 
-#### Test image 3: wakeboarding in Vermont, USA
+### Test image 3: wakeboarding in Vermont, USA
 
 <div class="large">
-  [image vermont-2024/wakeboarding caption=false]
+  ![Two men in swim shorts on the back of a boat watching another person wakeboarding behind the boat.](http://default/files/cache/vermont-2024/wakeboarding-640w.jpg)
 </div>
 
 Benchmark LLMs:
@@ -570,10 +572,10 @@ Local LLMs:
 </tbody>
 </table>
 
-#### Test image 4: hiking in the Dolomites, Italy
+### Test image 4: hiking in the Dolomites, Italy
 
 <div class="large">
-  [image italy-2022/santa-maddalena-church-in-funes-2 caption=false]
+  ![Santa maddalena church in funes](http://default/files/cache/italy-2022/santa-maddalena-church-in-funes-2-640w.jpg)
 </div>
 
 Benchmark LLMs:
@@ -664,10 +666,10 @@ Local LLMs:
 </tbody>
 </table>
 
-#### Test image 5: backgammon by candlelight
+### Test image 5: backgammon by candlelight
 
 <div class="large">
-  [image vermont-2023/backgammon-by-candlelight caption=false]
+  ![A backgammon board on a wooden table, accompanied by candles that cast a warm glow.](http://default/files/cache/vermont-2023/backgammon-by-candlelight-640w.jpg)
 </div>
 
 Benchmark LLMs:
@@ -888,7 +890,7 @@ Capturing mood is essential for giving visually impaired users a richer understa
 
 From a practical standpoint, Llama 11B and MiniCPM-V ran smoothly on my 32GB RAM laptop, but Llama 90B needed more memory. Long story short, this means that Llama 11B and MiniCPM-V are my best candidates for additional testing.
 
-### Possible next steps
+## Possible next steps
 
 The results raise a tough question: is a "B"-level `alt`-text better than none at all? Many human-written `alt`-texts probably aren't perfect either. Should I wait for local models to hit an "A"-grade, or is an imperfect description still better than no `alt`-text at all?
 

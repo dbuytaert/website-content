@@ -23,4 +23,4 @@ The website requires you to log in so there isn't much to explore without creati
 
 Can you see a pattern here? Another large organization using Drupal to build an add-on site. Once an organization has its feet wet with Drupal after implementing a couple of micro- or add-on sites, you start to see Drupal bubble to the top of the organization or to larger and larger web properties. Either way, it is great to see one of the largest technology companies use [Drupal](https://www.drupal.org). *Another win!*
 
-[image drupal/att-appsbeta]
+![AT&T Apps Beta webpage with login, sign-up options, and a banner promoting free app downloads and user feedback.](http://default/files/cache/drupal/att-appsbeta-640w.jpg)

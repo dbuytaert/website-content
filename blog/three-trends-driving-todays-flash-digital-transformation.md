@@ -27,7 +27,7 @@ One example of a brand that adapted its digital strategy due to COVID-19 is King
 
 Other brands can be just as successful at flash transformation if they keep an eye on the three biggest trends driving it.
 
-### Trend 1: Experience wins, and requires intelligent use of data
+## Trend 1: Experience wins, and requires intelligent use of data
 
 Both a taxi and an Uber or Lyft can get you from point A to B. At the core, they are the same product. But in practice, the Uber or Lyft experience wins – at least in Boston where I live and taxis are notoriously bad.
 
@@ -37,7 +37,7 @@ For years, the promise of a personalized customer experience has remained elusiv
 
 Only when you use data to understand your customers' preferences and intentions can you deliver a truly relevant experience. In difficult economic times, relevant experiences help businesses stand out and drive much-needed sales.
 
-### Trend 2: The rise of the technical marketer
+## Trend 2: The rise of the technical marketer
 
 As such, marketers have become more reliant on technology to drive customer experiences. Twenty years ago, a web content management system was a stand-alone application run by IT. Today, content management is deeply integrated in the marketing technology stack and primarily operated by marketing.
 
@@ -45,7 +45,7 @@ It's not unusual for an ambitious website to have five or more connections into 
 
 A technical marketer knows how to navigate this landscape to choose the best tools for their organization. For technical marketers, it's essential to have the right platform to integrate the tools and data sources needed to optimize their customers' experiences. The rise of that technical marketer has enabled a new relationship and partnership between marketing and IT.
 
-### Trend 3: Openness
+## Trend 3: Openness
 
 Until recently, the idea of "open" technology was a hard sell to marketers. On the other hand, developers have embraced open APIs, Open Source, and connectors for years.
 
@@ -53,6 +53,6 @@ More and more, marketers find themselves road-blocked by closed systems. When a 
 
 Without the ability to integrate different marketing tools and the data contained within them, customer experiences will continue to be disjointed and far from personal. In fact, research shows that [60 percent of customers are frustrated with brands' ability to predict their needs](https://www.acquia.com/about-us/newsroom/press-releases/personalize-or-else-customers-demand-convenience-recognition), and think they aren't doing an effective job of using personalization. To address these frustrations, openness and interconnectivity between technologies needs to become a marketing must-have, instead of a nice-to-have.
 
-### A new age of resilience
+## A new age of resilience
 
 It's been impressive to see how resilient organizations and people have been at adapting so rapidly. This adaptation has been essential to business survival. Fortunately, the changes made under pressure could be the key to succeeding as more of the world becomes permanently digital, enabling the kinds of digital transformations that organizations have been yearning for for years.

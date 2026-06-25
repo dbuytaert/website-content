@@ -18,6 +18,8 @@ id: 1866
 
 # University of Washington at Tacoma adopts Drupal
 
+![Close-up of a Braille text discussing how blind students use technology at the University of Washington.](http://default/files/cache/drupal/university-of-washington-640w.jpg)
+
 If you look at the source of [University of Washington at Tacoma](http://www.tacoma.uw.edu)'s new site, you'll immediately notice it's running [Drupal](https://www.drupal.org). What is not immediately apparent, however, is the path they took to get it in place.
 
 I recently got an e-mail from a member of the UW Tacoma web team, who explained that they migrated to Drupal from a home-grown system running on IIS and mostly based in ColdFusion. Their system often required manual editing of HTML for even the simplest of content updates, and synchronizing between development and live versions of the site was (as we all know) an ever present problem.

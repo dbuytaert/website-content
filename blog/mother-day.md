@@ -18,6 +18,6 @@ id: 73
 
 Today, the second Sunday of May, we celebrate Mother's Day.
 
-[image miscellaneous-2006/mother-day]
+![A woman with short blonde hair smiles gently while looking downward in an outdoor setting.](http://default/files/cache/miscellaneous-2006/mother-day-640w.jpg)
 
 Thanks, mom, for always being there for me!

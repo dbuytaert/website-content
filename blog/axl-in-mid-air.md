@@ -18,4 +18,6 @@ id: 483
 
 # Axl in mid air
 
+![A man lifts a smiling baby into the air, both wet from the water, indoors near a window.](http://default/files/cache/houffalize-2008/axl-in-mid-air-640w.jpg)
+
 

@@ -16,4 +16,6 @@ id: 480
 
 # Table soccer
 
+![Close-up of a foosball player figure wearing a blue jersey, attached to a metal rod on a green table.](http://default/files/cache/miscellaneous-2008/table-soccer-640w.jpg)
+
 

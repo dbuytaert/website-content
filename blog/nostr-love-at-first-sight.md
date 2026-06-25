@@ -19,6 +19,8 @@ id: 5421
 
 # Nostr, love at first sight
 
+![This is an old film roll featuring an ostrich running in every frame. The ostrich is purple in color, which represents the mascot of Nostr.](http://default/files/cache/blog/nostr-640w.jpg)
+
 I recently discovered [Nostr](https://github.com/nostr-protocol/nostr), a decentralized social network that I find exciting and promising.
 
 Technically, Nostr is a protocol, not a social network. However, developers can use the Nostr protocol to create a variety of applications, including social networks.
@@ -35,7 +37,7 @@ I reviewed the Nostr protocol and found it to be straightforward to understand. 
 
 While the core Nostr protocol is simple, it is very extensible. It is extended using [NIPs](https://github.com/nostr-protocol/nips), which stands for *Nostr Implementation Possibilities*. NIPs can add new fields and features to Nostr messages or events. For example, [NIP-2](https://github.com/nostr-protocol/nips/blob/master/02.md) adds usernames and contact lists (followers), [NIP-8](https://github.com/nostr-protocol/nips/blob/master/08.md) adds mentions, [NIP-36](https://github.com/nostr-protocol/nips/blob/master/36.md) adds support for content warnings, etc.
 
-### Joining the Nostr social network
+## Joining the Nostr social network
 
 Despite Nostr being just a few years old, there are a [number of clients](https://github.com/aljazceru/awesome-nostr). I decided on [Damus](https://github.com/damus-io/damus), a Twitter-like Nostr client for iOS. (Nostr's Damus is a clever pun on Nostradamus, the French astrologer.)
 
@@ -43,7 +45,7 @@ You don't need to create a traditional account to sign up. You just use a public
 
 If you want, you can choose to verify your identity. Verifying your identity links your public key to a public profile. I verified my identity using [NIP-05](https://github.com/nostr-protocol/nips/blob/master/05.md), though different options exist. The NIP-05 verification process involved creating a static file on my website, available at <https://dri.es/.well-known/nostr.json>. It verifies that I'm the owner of the name `@Dries`, the public key `npub176xpl3dl0agjt7vjeccw6v5grlx8f9mhc75aazwvvqfjvq5al8uszj5asu` and [https://dri.es](https://dri.es/).
 
-### Nostr versus ActivityPub
+## Nostr versus ActivityPub
 
 Recently, Elon Musk became the world's richest troll and many people have left Twitter for [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(social_network)). Mastodon is a decentralized social media platform built on the [ActivityPub protocol](https://en.wikipedia.org/wiki/ActivityPub). I wanted to compare ActivityPub with Nostr, as Nostr offers many of the same promises.
 
@@ -63,7 +65,7 @@ ActivityPub has been around for longer, and is more mature, but by comparison, t
 
 Lastly, both protocols likely suffer from problems unique to decentralized architectures. For example, when you post a link to your site, most clients will try to render a preview card of that link. That preview card can contain an image, the title of the page, and a description. To create preview cards, the page is fetched and its HTML is parsed, looking for [Open Graph tags](https://ogp.me/). Because of the distributed nature of both Nostr and Mastodon this [can cause a site to get hammered with requests](https://odd.blog/2023/01/02/the-mastodon-onslaught-on-your-blog/).
 
-### Zaps
+## Zaps
 
 Social networks are overrun with spam and bots. Ads are everywhere. Platform owners profit from content creators, and content creators themselves don't make money. The world needs some breakthrough in this regard, and Nostr's *Zap*-support might offer solutions.
 
@@ -81,7 +83,7 @@ It's worth noting that the Lightning network is much more energy efficient than 
 
 So, yes, Zap support is an important development to pay attention to. Even though it's brand new, I believe that in five years, we'll look back and agree that Zap support was a game-changer.
 
-### Conclusions
+## Conclusions
 
 "Notes and Other Stuff, Transmitted by Relays" seems like a promising idea, even at this early stage. It is definitely something to keep an eye on. While for me it was love at first sight, I'm not sure how it will evolve. I am interested in exploring it further, and if time permits, I plan to create some basic integration with my own Drupal site.
 

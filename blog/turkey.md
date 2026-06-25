@@ -16,4 +16,6 @@ id: 1096
 
 # Turkey
 
+![Close-up of a turkey's head, showing its wrinkled red skin, beak, and eye against a dark background.](http://default/files/cache/beverly-farms-2009/turkey-640w.jpg)
+
 

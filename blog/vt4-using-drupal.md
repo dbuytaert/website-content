@@ -20,4 +20,4 @@ id: 1321
 
 Flemish commercial television channel VT4 is using [Drupal](https://www.drupal.org) on <http://www.vt4.be>. VT4 is part of *ProSiebenSat.1 Media*, the second-largest broadcasting group in Europe. *Cool!*
 
-[image drupal/vt4]
+![A police officer in uniform sits at a desk while a woman in a pink outfit leans toward him.](http://default/files/cache/drupal/vt4-640w.jpg)

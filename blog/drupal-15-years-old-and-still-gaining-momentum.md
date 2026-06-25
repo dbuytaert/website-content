@@ -19,7 +19,8 @@ id: 3546
 
 On December 29, 2000, I made a [code commit](http://cgit.drupalcode.org/drupal/commit/?id=fd64164419060f4420ece6c7766c5693577f67ef) that would change my life; it is in this commit that I called my project "Drupal" and added the GPL license to it.
 
-[image drupal/drupal-name-and-license resize=false]
+![Commit message where the project was named "Drupal" and the GNU GPL license was added.](http://default/files/cache/drupal/drupal-name-and-license-640w.jpg)
+*The commit where I dubbed my website project "Drupal" and added the GPL license.*
 
 A couple weeks later, on January 15, 2001, exactly 15 years ago from today, I released Drupal 1.0.0 into the world. The early decisions to open-source Drupal and use the [GPL license](https://en.wikipedia.org/wiki/GNU_General_Public_License) set the cornerstone principles for how our community shares with one another and builds upon each other's achievements to this day.
 

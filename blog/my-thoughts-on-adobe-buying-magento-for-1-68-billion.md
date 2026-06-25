@@ -20,11 +20,13 @@ id: 4361
 
 # My thoughts on Adobe buying Magento for $1.68 billion
 
+![Adobe acquires Magento for $1.68 billion](http://default/files/cache/blog/adobe-acquires-magento-640w.jpg)
+
 Yesterday, [Adobe](https://www.adobe.com) announced that it agreed to buy [Magento](https://magento.com) for $1.68 billion. When I woke up this morning, 14 different people had texted me asking for my thoughts on the acquisition.
 
 Adobe acquiring Magento isn't a surprise. One of our industry's worst-kept secrets is that Adobe first tried to buy Hybris, but lost the deal to SAP; subsequently Adobe tried to buy DemandWare and [lost out against Salesforce](https://dri.es/demandware-acquisition-heats-up-customer-experience-market). It's evident that Adobe has been hungry to acquire a commerce platform for quite some time.
 
-### The product motivation behind the acquisition
+## The product motivation behind the acquisition
 
 Large platform companies like Salesforce, Oracle, SAP and Adobe are trying to own the digital customer experience market from top to bottom, which includes providing support for marketing, commerce, personalization, and data management, in addition to content and experience management and more.
 
@@ -34,7 +36,7 @@ While Salesforce, SAP and Oracle offer good commerce capability, they lack satis
 
 While Magento has historically thrived in the SMB and mid-market, the company recently started to make inroads into the enterprise. Adobe will bring a lot of operational maturity; how to sell into the enterprise, how to provide enterprise grade support, etc. Magento stands to benefit from this expertise.
 
-### The potential financial outcome behind the acquisition
+## The potential financial outcome behind the acquisition
 
 According to Adobe press statements, Magento has achieved "approximately $150 million in annual revenue". We also know that in early 2017, Magento raised $250 million in funding from Hillhouse Capital. Let's assume that $180 million of that is still in the bank. If we do a simple back-of-the-envelope calculation, we can subtract this $180 million from the $1.68 billion, and determine that Magento was valued at roughly $1.5 billion, or a 10x revenue multiple on Magento's trailing twelve months of revenue. That is an incredible multiple for Magento, which is primarily a licensing business today.
 
@@ -42,7 +44,7 @@ Compare that with Shopify, which is trading at a $15 billion dollar valuation an
 
 Regardless, one could argue that Adobe got a great deal, especially if it can accelerate Magento's transformation from a licensing business into a cloud business.
 
-### Most organizations prefer best-of-breed
+## Most organizations prefer best-of-breed
 
 While both the product and financial motivations behind this acquisition are seemingly compelling, I'm not convinced organizations want an integrated approach.
 
@@ -52,15 +54,16 @@ We see this first hand at [Acquia](https://www.acquia.com). These integrations c
 
 Owning Magento gives Adobe a disadvantage, because commerce vendors will be less likely to integrate with Adobe Experience Manager moving forward.
 
-### It's all about innovation through integration
+## It's all about innovation through integration
 
 Today, there is an incredible amount of innovation taking place in the marketing technology landscape ([full-size image](https://dri.es/files/images/blog/marketing-technology-landscape-2018.jpg)), and it is impossible for a single vendor to have the most competitive product suite across all of these categories. The only way to keep up with this unfettered innovation is through integrations.
 
-[image blog/marketing-technology-landscape-2018]
+![Marketing technology landscape 2018](http://default/files/cache/blog/marketing-technology-landscape-2018-640w.jpg)
+*An image of the <a href="https://chiefmartec.com/2018/04/marketing-technology-landscape-supergraphic-2018/">Marketing Technology Landscape 2018</a>. For reference, here are the <a href="https://chiefmartec.com/2011/08/marketing-technology-landscape-infographic/" title="Marketing Technology Landscape 2011">2011</a>, <a href="https://chiefmartec.com/2012/09/marketing-technology-landscape-supergraphic-2012/" title="Marketing Technology Landscape 2012">2012</a>, <a href="https://chiefmartec.com/2014/01/marketing-technology-landscape-supergraphic-2014/" title="Marketing Technology Landscape 2014">2014</a>, <a href="https://chiefmartec.com/2015/01/marketing-technology-landscape-supergraphic-2015/" title="Marketing Technology Landscape 2015">2015</a>, <a href="https://chiefmartec.com/2016/03/marketing-technology-landscape-supergraphic-2016/" title="Marketing Technology Landscape 2016">2016</a> and <a href="https://chiefmartec.com/2017/05/marketing-techniology-landscape-supergraphic-2017/" title="Marketing Technology Landscape 2017">2017</a> versions of the landscape. It shows how fast the marketing technology industry is growing.*
 
 Most customers want an open platform that allows for open innovation and unlimited integrations. It's why Drupal and Acquia are winning, why the work on [Drupal's web services](https://dri.es/tag/web-services) is so important, and why [Acquia](https://www.acquia.com) remains committed to a best-of-breed strategy for commerce. It's also why Acquia has [strong conviction around Acquia Journey as a marketing integration platform](https://dri.es/the-evolution-of-acquia-product-strategy). It's all about innovation through integration, making those integrations easy, and removing friction from adopting preferred technologies.
 
-### If you acquire a commerce platform, acquire a headless one
+## If you acquire a commerce platform, acquire a headless one
 
 If I were Adobe, I would have looked to acquire a headless commerce platform such as [Elastic Path](https://www.elasticpath.com), [Commerce Tools](https://commercetools.com), [Moltin](https://moltin.com), [Reaction Commerce](https://reactioncommerce.com) or even [Salsify](https://www.salsify.com/).
 
@@ -70,7 +73,7 @@ In a headless approach, the front end and the back end are decoupled, which mean
 
 Alternatively, you could go for a deeply integrated approach like [Drupal Commerce](https://www.drupal.org/project/commerce). It has zero overlap between its commerce, content management and experience building capabilities.
 
-### For Open Source, it could be good or bad
+## For Open Source, it could be good or bad
 
 How Adobe will embrace Magento's Open Source community is possibly the most intriguing part of this acquisition – at least for me.
 

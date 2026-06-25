@@ -19,7 +19,7 @@ id: 2536
 
 Drupal continues to rack up successes among large developer communities, with [x.commerce](http://x.com) joining [Twitter](https://dri.es/twitter-using-drupal), which made the move last month. X.commerce is a new division of PayPal that serves as an open, central meeting place for [over 700,000 developers](https://www.reuters.com/article/2011/09/16/ebay-apps-idUSS1E78E13N20110916) for eBay, PayPal, Magento, and other eBay properties.
 
-[image drupal/x-com]
+![A website promoting X.com.](http://default/files/cache/drupal/x-com-640w.jpg)
 
 These communities join those of [Brightcove](http://developer.brightcove.com/en/), [Symantec](https://www.symantec.com/connect/), [DivX](http://labs.divx.com/Develop) – and, of course, [Drupal](https://www.drupal.org). All told, that's *millions* of developers relying on Drupal-run sites for coding tips, product info, and idea exchange.
 

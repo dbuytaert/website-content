@@ -18,5 +18,5 @@ id: 1951
 
 [Barry Jaspan](http://jaspan.com) and his wife Heather spent 20 hours creating this incredible cake for Acquia's Halloween party. Creative duo! Not only did it look great, it was yummy. *Trick or treat!*
 
-[image acquia/halloween-2010-1]
-[image acquia/halloween-2010-2]
+![Three character-shaped cakes sit on a Halloween table with "Trick or Treat" written in icing.](http://default/files/cache/acquia/halloween-2010-1-640w.jpg)
+![A blue, masked cake with a red feather sits on a table, with decorated cupcakes in the background.](http://default/files/cache/acquia/halloween-2010-2-640w.jpg)

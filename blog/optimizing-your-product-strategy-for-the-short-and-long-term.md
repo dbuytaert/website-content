@@ -18,9 +18,11 @@ id: 4681
 
 # Optimizing your product strategy for the short- and long-term
 
+![A graph showing the product lifecycle S-curve with phases for take-off, growth, and stagnation over time.](http://default/files/cache/blog/product-lifecycle-s-curve-640w.jpg)
+
 Most products cycle through the infamous [Innovation S-curve](https://en.wikipedia.org/wiki/Technology_life_cycle), which maps a product's value and growth over time.
 
-[image blog/product-lifecycle-s-curve]
+![A graph showing the product lifecycle S-curve with phases for take-off, growth, and stagnation over time.](http://default/files/cache/blog/product-lifecycle-s-curve-640w.jpg)
 
 Startups are eager to find *product-market fit*, the inflection point in which the product takes off and experiences *hockey-stick growth* (the transition from phase one to phase two).
 

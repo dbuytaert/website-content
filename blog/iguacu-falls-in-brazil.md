@@ -17,9 +17,10 @@ id: 2546
 
 # Iguacu Falls in Brazil
 
-[image brazil-2011/iguacu-falls-1]
-[image brazil-2011/iguacu-falls-3]
-[image brazil-2011/iguacu-falls-5]
-[image brazil-2011/iguacu-falls-6]
-[image brazil-2011/iguacu-falls-7]
-[image brazil-2011/iguacu-falls-8]
+![Visitors stand on a viewing platform surrounded by mist, overlooking the powerful Iguazu Falls cascading down rocky cliffs.](http://default/files/cache/brazil-2011/iguacu-falls-1-640w.jpg)
+![Water cascades over the edge of Iguazu Falls, with mist rising and green vegetation covering nearby rocks.](http://default/files/cache/brazil-2011/iguacu-falls-3-640w.jpg)
+![Water cascades down Iguazu Falls, creating mist that rises above the river, surrounded by green cliffs and trees.](http://default/files/cache/brazil-2011/iguacu-falls-5-640w.jpg)
+![Two birds fly through mist rising from Iguazu Falls, with a steep, green cliff visible on the left.](http://default/files/cache/brazil-2011/iguacu-falls-6-640w.jpg)
+![Two birds fly in front of the misty, powerful Iguazu Falls.](http://default/files/cache/brazil-2011/iguacu-falls-7-640w.jpg)
+![A person with wet hair and sunglasses on their head takes a close-up selfie on a walkway near greenery.](http://default/files/cache/brazil-2011/iguacu-falls-8-640w.jpg)
+*I got pretty wet taking these pictures. Nothing comes for free.*

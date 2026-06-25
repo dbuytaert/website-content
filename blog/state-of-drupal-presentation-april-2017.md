@@ -19,11 +19,13 @@ id: 3921
 
 # State of Drupal presentation (April 2017)
 
+![A large group of Drupal community members gathers at DrupalCon Baltimore 2017, smiling and cheering.](http://default/files/cache/drupalcon-baltimore-2017/drupal-community-640w.jpg)
+
 Last week, 3,271 people gathered at DrupalCon Baltimore to share ideas, to connect with friends and colleagues, and to collaborate on both code and community. It was a great event. One of my biggest takeaways from DrupalCon Baltimore is that Drupal 8's momentum is picking up more and more steam. There are now about 15,000 Drupal 8 sites launching every month.
 
 I want to continue the tradition of [sharing my State of Drupal presentations](https://dri.es/tag/state-of-drupal). You can [watch a recording of my keynote](https://www.youtube.com/watch?v=q25eaJHpXFo) (starting at 24:00) or [download a copy of my slides here](https://dri.es/files/state-of-drupal-april-2017.pdf) (108 MB).
 
-[video q25eaJHpXFo]
+https://www.youtube.com/watch?v=q25eaJHpXFo
 
 The first half of my presentation provided an overview of Drupal 8 updates. I discussed why [Drupal is for ambitious digital experiences](https://dri.es/drupal-is-for-ambitious-digital-experiences), how we will [make Drupal upgrades easier](https://dri.es/making-drupal-upgrades-easy-forever) and why [we added four new Drupal 8 committers](https://groups.drupal.org/node/516400) recently.
 

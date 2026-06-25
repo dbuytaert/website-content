@@ -19,4 +19,6 @@ id: 457
 
 # Mollom for Joomla
 
+![](http://default/files/images/blog/joomla-logo.jpg)
+
 Markus Bopp of [Crosstec](http://www.crosstec.de) created a Mollom plugin for [Joomla](https://joomla.org). The plugin is code named [Jollom](https://crosstec.org/jollom-spam-protection.html) and can be [customized to protect any form](https://crosstec.org/jollom-howto.html). *Welcome Joomla!*

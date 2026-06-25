@@ -17,4 +17,4 @@ id: 2996
 
 A song that is both sad and pretty, sung with the voice of a god. To me, it is about how it is really difficult for a person to create their own life and their own freedom.
 
-[video ltc5EsuyBh4]
+https://www.youtube.com/watch?v=ltc5EsuyBh4

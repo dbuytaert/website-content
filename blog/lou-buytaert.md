@@ -17,4 +17,6 @@ id: 981
 
 # Lou Buytaert
 
+![A newborn baby sleeps peacefully, wrapped in a soft, white knitted blanket with colorful accents.](http://default/files/cache/miscellaneous-2009/lou-buytaert-640w.jpg)
+
 Born to be wild: Lou Buytaert. Three weeks too early, but a healthy big boy: 53 cm and 3,525 grams. Congratulations to Servaas (my brother) and Sabrina. *It's Uncle Dries now!*

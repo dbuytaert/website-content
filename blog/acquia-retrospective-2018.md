@@ -19,29 +19,31 @@ id: 4731
 
 # Acquia retrospective 2018
 
+![Acquia 2018 business metrics](http://default/files/cache/acquia/business-metrics-2018-640w.png)
+
 Every year, I sit down to write my annual Acquia retrospective. It's a rewarding exercise, because it allows me to reflect on how much progress Acquia has made in the past 12 months.
 
 Overall, Acquia had an excellent 2018. I believe we are a much stronger company than we were a year ago; not only because of our financial results, but because of our commitment to strengthen our product and engineering teams.
 
 If you'd like to read my previous retrospectives, they can be found here: [2017](https://dri.es/acquia-retrospective-2017), [2016](https://dri.es/acquia-retrospective-2016), [ 2015](https://dri.es/acquia-retrospective-2015), [2014](https://dri.es/acquia-retrospective-2014), [2013](https://dri.es/acquia-retrospective-2013), [2012](https://dri.es/acquia-retrospective-2012), [2011](https://dri.es/acquia-retrospective-2011), [2010](https://dri.es/acquia-retrospective-2010), [2009](https://dri.es/acquia-retrospective-2009). This year marks the publishing of my tenth retrospective. When read together, these posts provide a comprehensive overview of Acquia's growth and trajectory.
 
-### Updating our brand
+## Updating our brand
 
 Exiting 2017, we doubled down on our transition from [website management to digital experience management](https://dri.es/from-content-management-to-digital-experience-management). In 2018, we updated our product positioning and brand narrative to reflect this change. This included a new Acquia Experience Platform diagram:
 
 <div class="large">
-  [image acquia/acquia-platform-2018 resize=false]
+  ![Diagram of Acquia's platform showing interconnected tools for digital experience management, including marketing, cloud hosting, and personalization.](http://default/files/cache/acquia/acquia-platform-2018-640w.gif)
 </div>
 
 In 2018, the Acquia marketing team also worked hard to update Acquia's brand. The result is a refreshed look and updated brand positioning that better reflects our vision, culture, and the value we offer our customers. This included updating our tagline to read: *Experience Digital Freedom*.
 
-[video SPJK65JlmHM]
+https://www.youtube.com/watch?v=SPJK65JlmHM
 
 I think Acquia's updated brand looks great, and it's been exciting to see it come to life. From [highway billboards](https://dri.es/acquia-highway-billboards) to [Acquia Engage in Austin](https://dri.es/acquia-engage-2018-keynote), our updated brand has been very well received.
 
-[image acquia/acquia-engage-2018-airport-billboard]
+![A large digital billboard in an airport displays "Acquia" with colorful graphics and a "Welcome to Austin" message.](http://default/files/cache/acquia/acquia-engage-2018-airport-billboard-640w.jpg)
 
-### Business momentum
+## Business momentum
 
 This year, Acquia [surpassed $200 million in annualized revenue](https://www.acquia.com/about-us/newsroom/press-releases/acquia-closes-record-year-rapid-growth). Overall new subscription bookings grew 33 percent year over year, and we ended the year with nearly 900 employees.
 
@@ -53,9 +55,9 @@ This year, Acquia [surpassed $200 million in annualized revenue](https://www.acq
 - [Adjusted EBITDA](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization) grew 78 percent
 - Free cash flow grew 84 percent
 
-[image acquia/business-metrics-2018]
+![Acquia 2018 business metrics](http://default/files/cache/acquia/business-metrics-2018-640w.png)
 
-#### International growth and expansion
+### International growth and expansion
 
 In 2018, Acquia also witnessed unprecedented success in Europe and Asia, as new bookings in [EMEA](https://en.wikipedia.org/wiki/Europe,_the_Middle_East_and_Africa) were up more than 100 percent. This included expanding our European headquarters to a new and larger space with a ribbon-cutting ceremony with the mayor of Reading in the U.K.
 
@@ -65,9 +67,9 @@ We selected Pune as the location for our new India office, and we are in the pro
 
 Acquia now has four offices in the Asia Pacific region serving customers like Astellas Pharmaceuticals, Muji, Mediacorp, and Brisbane City Council.
 
-[image acquia/japanese-one-pager]
+![A Japanese-language Acquia brochure and marketing materials are neatly arranged on a wooden table with branded pens.](http://default/files/cache/acquia/japanese-one-pager-640w.png)
 
-#### Acquia Engage
+### Acquia Engage
 
 In 2018, we welcomed more than 650 attendees to Austin, Texas, for our annual customer conference, [Acquia Engage](https://dri.es/acquia-engage-2018-keynote). In June, we also held our first [Acquia Engage Europe](https://www.acquia.com/blog/inaugural-acquia-engage-europe-smashing-success) and welcomed 300 attendees.
 
@@ -75,23 +77,23 @@ Our Engage conferences included presentations from customers like [Paychex](http
 
 Both customers and partners continue to be the most important driver of Acquia's product strategy, and it's always rewarding to hear about this success first hand. In fact, 2018 customer satisfaction levels remain extremely high at 94 percent.
 
-#### Partner program
+### Partner program
 
 Finally, Acquia's partner network continues to become more sophisticated. In the second half of 2018, we right sized our partner community from 2,270 firms to 226. This was a bold move, but our goal was to place a renewed focus on the partners who were both committed to Acquia and highly capable. As a result, we saw almost 52 percent year-over-year growth in partner-sourced ACV bookings. This is meaningful because for every $1 Acquia books in collaboration with a partner, our partner makes about $5 in services revenue.
 
-#### Analyst recognition
+### Analyst recognition
 
 In 2018, the top industry analysts published very positive reviews about Acquia. I'm proud that Acquia was recognized by Forrester Research as the leader for strategy and vision in [The Forrester Wave: Web Content Management Systems, Q4 2018](https://dri.es/acquia-a-leader-in-the-2018-forrester-wave-for-web-content-management-systems). Acquia was also named a leader in the [2018 Gartner Magic Quadrant for Web Content Management](https://dri.es/acquia-a-leader-in-2018-gartner-magic-quadrant-for-web-content-management), marking our placement as a leader for the fifth year in a row.
 
-### Product milestones
+## Product milestones
 
 <div class="large">
-  [image acquia/product-evolution-2018]
+  ![Timeline of Acquia's product evolution from 2007 to 2019, highlighting key cloud management and digital experience releases.](http://default/files/cache/acquia/product-evolution-2018-640w.png)
 </div>
 
 2018 was one of the busiest years I have experienced; it was full of non-stop action every day. My biggest focus was working with Acquia's product and engineering team. We focused on growing and improving our R&amp;D organization, modernizing Acquia Cloud, becoming user-experience first, redesigning the Acquia Lift user experience, working on headless Drupal, making Drupal easier to use, and expanding our commerce strategy.
 
-#### Hiring, hiring, hiring
+### Hiring, hiring, hiring
 
 In partnership with Mike, we decided to [increase the capacity of our research and development team by 60 percent](https://dri.es/acquia-to-increase-engineering-capacity-by-60-percent-in-2018). At the close of 2018, we were able to increase the capacity of our research and development team by 45 percent percent. We will continue to invest in growing our our R&amp;D team in 2019.
 
@@ -99,7 +101,7 @@ I spent a lot of time restructuring, improving and scaling the product organizat
 
 As the year progressed, R&amp;D capacity came online and our ability to innovate not only improved but accelerated significantly. We entered 2019 in a much better position as we now have a lot more capacity to innovate.
 
-#### Acquia Cloud
+### Acquia Cloud
 
 Acquia Cloud and Acquia Cloud Site Factory support some of the largest and most mission-critical websites in the world. The scope and complexity that Acquia Cloud and Acquia Cloud Site Factory manages is enormous. We easily deliver more than 30 billion page views a month (excluding CDN).
 
@@ -107,13 +109,13 @@ Over the course of 10 years, the Acquia Cloud codebase had grown very large. Upd
 
 Over the course of 2018, the engineering team broke the monolithic codebase down into discrete components that can be tested and released independently. We launched our component-based architecture in June. Since then, the engineering team has released changes to production 650 times, compared to our historic pace of doing one release per quarter.
 
-[image acquia/component-based-releases-acquia-cloud-2018]
+![Stacked area chart showing the growth of component-based releases in Acquia Cloud from mid-2018 to early 2019.](http://default/files/cache/acquia/component-based-releases-acquia-cloud-2018-640w.png)
 
 Planning and designing for all of these services took a lot of time and focus, and was a large priority for the entire engineering team (including me).
 
 Acquia Cloud also remains the most secure and compliant cloud for Drupal. As we were componentizing the Acquia Cloud platform, the requirements to maintain our [FedRAMP compliance](https://www.fedramp.gov/) became much more stringent. In April, the GDPR deadline was also nearing. Executing on hundreds of FedRAMP- and GDPR-related tasks emerged as another critical priority for many of our product and engineering teams. I'm proud that the team succeeded in accomplishing this amid all the other changes we were making.
 
-#### Customer experience first
+### Customer experience first
 
 Over the years, I've felt Acquia lacked a focus on user experience (UX) for both developers and marketers. As a result, increasing the capacity of our R&amp;D team included doubling the size of the UX team.
 
@@ -121,9 +123,9 @@ We've stepped up our UX research to better understand the needs and challenges o
 
 With the extra capacity and data-driven changes in place, we've been working hard on updating the user experience for the entire Acquia Experience Platform. For example, you can see a preview of our new Acquia Lift product in this video, which has an increased focus on UX:
 
-[video cj0KPJ-upy8]
+https://www.youtube.com/watch?v=cj0KPJ-upy8
 
-#### Drupal
+### Drupal
 
 In 2018, Drupal 8 adoption kept growing and Drupal also saw [an increase in the number of community contributions and contributors](https://dri.es/who-sponsors-drupal-development-2018), both from individuals and from organizations.
 
@@ -132,13 +134,13 @@ Acquia remains very committed to Drupal, and was [the largest contributor to the
 - **Layout Builder:** Layout Builder offers content authors an easy-to-use page building experience. It's shaping up to be [one of the most useful and pervasive features](https://dri.es/why-drupal-layout-builder-is-so-unique-and-powerful) ever added to Drupal because it redefines the how editors control the appearance of their content without having to rely on a developer.
 - **API First:** This initiative has given Drupal a true best-in-class web services API for using Drupal as a headless content management system. Headless Drupal is one of the fastest growing segments of Drupal implementations.
 
-[image acquia/build-week-2018]
+![](http://default/files/cache/acquia/build-week-2018-640w.jpg)
 
-#### Content and Commerce
+### Content and Commerce
 
 [Adobe's acquisition of Magento](https://dri.es/my-thoughts-on-adobe-buying-magento-for-1-68-billion) has been very positive for us; we're now the largest commerce-agnostic content management company to partner with. As a result, we decided to extend our investments in [headless commerce](https://dri.es/the-rise-of-headless-commerce) and set up partnerships with [Elastic Path](https://dri.es/the-rise-of-headless-commerce) and [BigCommerce](https://dri.es/acquia-partners-with-bigcommerce). The momentum we've seen from these partnerships in a short amount of time is promising for 2019.
 
-### The market continues to move in Acquia's direction
+## The market continues to move in Acquia's direction
 
 In 2019, I believe Acquia will continue to be positioned for long-term growth. Here are a few reasons why:
 
@@ -151,7 +153,7 @@ In 2019, I believe Acquia will continue to be positioned for long-term growth. H
 
 Although we hold a leadership position in our market, our relative market share is small. These trends mean that we should have plenty of opportunity to grow in 2019 and beyond.
 
-### Thank you
+## Thank you
 
 While 2018 was an incredibly busy year, it was also very rewarding. I have a strong sense of gratitude, and admire every Acquian's relentless determination and commitment to improve. As always, none of these results and milestones would be possible without the hard work of the Acquia team, our customers, partners, the Drupal community, and our many friends.
 
@@ -159,4 +161,4 @@ I've always been pretty transparent about our trajectory (e.g. [Acquia 2009 road
 
 Thank you for your support in 2018!
 
-[video MiqLcNIYvWU]
+https://www.youtube.com/watch?v=MiqLcNIYvWU

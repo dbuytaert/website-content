@@ -15,7 +15,7 @@ id: 1671
 
 # Bruce Springsteen - Dancing in the dark
 
-[video 129kuDCQtHs]
+https://www.youtube.com/watch?v=129kuDCQtHs
 
 Ah, The Boss. The line *"You can't start a fire without a spark"* from [Dancing in the dark](https://www.youtube.com/watch?v=5PSGhuT_gCk) is one of the most important sentences in my life. The best things in life come from passion. I enjoy nothing more than watching passion, as well as helping to create and direct passion. That is why I like this video so much – not only do the lyrics nail it, Bruce's performance is also living proof of it.
 

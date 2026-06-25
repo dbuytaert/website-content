@@ -26,4 +26,4 @@ Of immediate interest to us, however, is the accompanying website, [recovery.gov
 
 Drupal is no stranger to the political arena, and has been used for many campaign and government sites before. Recovery.gov, though, is a definite coup for Drupal – there are not many Drupal sites that have [their own post on Whitehouse.gov](https://www.whitehouse.gov/blog/09/02/14/A-major-milestone/). Or [on the Huffington Post](https://www.huffingtonpost.com/2009/02/17/recoverygov-white-house-w_n_167591.html). Or is featured on CNN all day long. Or has its own [YouTube promo by the US President](https://www.youtube.com/watch?v=DkclCf6yTUo). *Unbelievable!*
 
-[image drupal/recovery-org]
+![A government website explaining the American Recovery and Reinvestment Act, featuring a video message from President Obama.](http://default/files/cache/drupal/recovery-org-640w.jpg)

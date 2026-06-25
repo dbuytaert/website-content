@@ -41,4 +41,4 @@ For now, we are launching an early access beta program. If you're interested in 
 
 In time, I plan to write more about Content Cloud, especially as we get closer to its initial release. Until then, you can watch the [Acquia Content Cloud teaser video](https://youtu.be/lWfKfhr9pM4) below:
 
-[video lWfKfhr9pM4]
+https://www.youtube.com/watch?v=lWfKfhr9pM4

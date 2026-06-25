@@ -18,4 +18,6 @@ id: 240
 
 # Yahoo! schwag
 
+![A table covered with Yahoo!-branded notebooks, name badges, and lanyards at DrupalCon Sunnyvale 2007.](http://default/files/cache/drupalcon-sunnyvale-2007/schwag-640w.jpg)
+
 

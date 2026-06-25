@@ -17,8 +17,11 @@ id: 5296
 
 # Photography as meditation
 
+![Five snow plows driving behind each other during a Boston snowstorm.](http://default/files/cache/miscellaneous-2022/phalanx-of-snow-plows-640w.jpg)
+
 <div class="large">
-  [image miscellaneous-2022/phalanx-of-snow-plows]
+  ![Five snow plows driving behind each other during a Boston snowstorm.](http://default/files/cache/miscellaneous-2022/phalanx-of-snow-plows-640w.jpg)
+*A "phalanx of snow plows": five snow plows clearing Tremont Street during a major Boston snowstorm.*
 </div>
 
 I picked up a [Leica M10](https://en.wikipedia.org/wiki/Leica_M10) camera a few months ago. I've longed for a Leica camera for many, many years. The moment I finally held it, I knew it was something special.
@@ -36,8 +39,8 @@ Last weekend, Boston was hit by a major snowstorm: we saw 23 inches (60 cm) of s
 It's when it finally hit me: *photography can be a meditative experience*.
 
 <div class="side-by-side">
-  [image miscellaneous-2022/snow-shoveling]
-  [image miscellaneous-2022/snow-pizza]
+  ![A woman shoveling snow on a sidewalk.](http://default/files/cache/miscellaneous-2022/snow-shoveling-640w.jpg)
+  ![A snowy street with a pizza sign on the side of it.](http://default/files/cache/miscellaneous-2022/snow-pizza-640w.jpg)
 </div>
 
 PS: I also love that [Leica's website](https://leica-camera.com/) is built on [Drupal 9](https://drupal.org).

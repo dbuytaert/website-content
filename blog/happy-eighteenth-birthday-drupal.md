@@ -16,7 +16,7 @@ id: 4716
 
 # Happy eighteenth birthday, Drupal
 
-[video X9VUzCtQs80]
+https://www.youtube.com/watch?v=X9VUzCtQs80
 
 Eighteen years ago today, I released Drupal 1.0.0. What started from humble beginnings has grown into one of the largest Open Source communities in the world. Today, Drupal exists because of its people and the collective effort of thousands of community members. Thank you to everyone who has been and continues to contribute to Drupal.
 

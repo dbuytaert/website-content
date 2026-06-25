@@ -21,7 +21,7 @@ Why will the visitors of your site care about [Acquia Search](https://www.acquia
 
 For example, search for "Drupal" on my site (use the search widget in the sidebar) and you can see the *facets* that allow you to filter the results by topic, location and industry. Using these facets, it should be pretty easy to find all the Fortune 500 Drupal sites that I blogged about in 2009, for example. Facets make search **faster**, making it very easy for your visitor to drill into results and to find what they are looking for.
 
-[image acquia/acquia-search-dynamic-facets resize=false]
+![Search results page with dynamic facets for filtering by topic and industry, eliminating the need for an advanced search form.](http://default/files/cache/acquia/acquia-search-dynamic-facets-640w.jpg)
 
 Acquia Search makes search **easier** because it is built on the principles of [progressive disclosure](https://en.wikipedia.org/wiki/Progressive_disclosure). Instead of showing the visitor an initial page with lots of complicated options (see Drupal's advanced search options that almost no one uses), the facets are only shown after the initial search query. Plus, and this is really cool, facets are dynamically generated based on the search keywords. As such, they are relevant to what you're searching for.
 
@@ -29,7 +29,7 @@ Acquia Search provides a **more powerful** search because it is based on the ren
 
 My favorite feature of [Acquia Search](https://www.acquia.com/products-services/acquia-search), at least for use on this blog, is the "more like this" feature – on node pages you can ask Acquia Search to suggest related content. I have been using it on my site for a while (see the block in the sidebar), and it has helped to **keep visitors on my site longer**. I occasionally find myself getting side-tracked by the "related links" – it is a great way to re-discover old posts.
 
-[image acquia/acquia-search-content-recommendations resize=false]
+![A webpage about Drupal features a "More like this" section recommending related articles on government use of Drupal.](http://default/files/cache/acquia/acquia-search-content-recommendations-640w.jpg)
 
 Last but not least, our new service makes for **better performance**. We performed tests of searches on a Drupal site with over 10,000 nodes of content using a 3.2Ghz dual core server with 1.7 GB of RAM. With Acquia Search results were displayed in less than half a second, whereas the same results served from Drupal's built-in search took anywhere from 1.5 to 7.7 seconds. On the web, [faster is better](https://dri.es/faster-is-better).
 

@@ -19,7 +19,7 @@ id: 3446
 
 Algorithms are shaping what we see and think – even what our futures hold. The order of Google's search results, the people Twitter recommends us to follow, or the way Facebook filters our newsfeed can impact our perception of the world and drive our actions. But think about it: we have very little insight into how these algorithms work or what data is used. Given that algorithms guide much of our lives, how do we know that they don't have a bias, withhold information, or have bugs with negative consequences on individuals or society? This is a problem that we aren't talking about enough, and that we have to address in the next decade.
 
-### Open Sourcing software quality
+## Open Sourcing software quality
 
 In the past several weeks, [Volkswagen's emissions crisis](https://www.nytimes.com/2015/10/05/business/engine-shortfall-pushed-volkswagen-to-evade-emissions-testing.html?_r=0) has raised new concerns around "cheating algorithms" and the overall need to validate the trustworthiness of companies. One of the many suggestions to solve this problem was to open-source the software around emissions and automobile safety testing (Dave Bollier's post about the [dangers of proprietary software](http://www.bollier.org/blog/volkswagen-scandal-confirms-dangers-proprietary-code) is particularly good). While open-sourcing alone will not fix software's accountability problems, it's certainly a good start.
 
@@ -27,7 +27,7 @@ As self-driving cars emerge, checks and balances on software quality will become
 
 While making important algorithms available as [Open Source does not guarantee security](https://en.wikipedia.org/wiki/Heartbleed), it can only make the software more secure, not less. As Eric S. Raymond famously stated "[given enough eyeballs, all bugs are shallow](https://en.wikipedia.org/wiki/Linus%27s_Law)". When more people look at code, mistakes are corrected faster, and software gets stronger and more secure.
 
-### Less "Secret Sauce" please
+## Less "Secret Sauce" please
 
 Automobiles aside, there is possibly a larger scale, hidden controversy brewing on the web. Proprietary algorithms and data are big revenue generators for companies like Facebook and Google, whose services are used by billions of internet users around the world. With that type of reach, there is big potential for manipulation – whether intentional or not.
 
@@ -37,6 +37,6 @@ And, when Facebook's 2014 "emotional contagion" [mood manipulation study](https:
 
 In theory, providing greater transparency into algorithms using an Open Source approach could avoid a crisis. However, in practice, it's not very likely this shift will happen, since these companies profit from the use of these algorithms. A middle ground might be allowing regulatory organizations to periodically check the effects of these algorithms to determine whether they're causing society harm. It's not crazy to imagine that governments will require organizations to give others access to key parts of their data and algorithms.
 
-### Ethical early days
+## Ethical early days
 
 The explosion of software and data can either have horribly negative effects, or transformative positive effects. The key to the ethical use of algorithms is providing consumers, academics, governments and other organizations access to data and source code so they can study how and why their data is used, and why it matters. This could mean that despite the huge success and impact of Open Source and Open Data, we're still in the early days. There are few things about which I'm more convinced.

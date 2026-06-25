@@ -24,4 +24,4 @@ Perhaps the most remarkable aspect is the fact that the site was built in less t
 
 The site is available in 4 languages so all Belgian citizens can express their opinions and engage in interactive discussions about European issues.
 
-[image drupal/forum2010-belgium-be]
+![A Belgian government webpage about the EU presidency in 2010, featuring a forum for discussions on European topics.](http://default/files/cache/drupal/forum2010-belgium-be-640w.jpg)

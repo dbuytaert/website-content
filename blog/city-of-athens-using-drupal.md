@@ -22,5 +22,5 @@ The [City of Athens](http://www.cityofathens.gr/) has launched a new [Drupal](ht
 
 Athens is a large city (3.5 million residents and 6 million tourists each year), with a large tourism base due in part to its role in the 2004 Olympic Games. To support the city's needs, the site includes a large calendar of city events, a comprehensive map-based index of city services and interactive tools that allow citizens to access city resources. The site builds on Drupal's multilingual capabilities to provide information in both Greek and English.
 
-[image drupal/city-of-athens]
-[image drupal/breathtaking-athens]
+![A man and a woman shake hands and smile in an office setting with wooden bookshelves in the background.](http://default/files/cache/drupal/city-of-athens-640w.jpg)
+![A cityscape of Athens at night with illuminated buildings and landmarks, featured on a tourism website.](http://default/files/cache/drupal/breathtaking-athens-640w.jpg)

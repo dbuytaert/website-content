@@ -23,25 +23,27 @@ id: 2131
 
 # Acquia product strategy and vision
 
+![](http://default/files/images/acquia/acquia-strategy-product-vision-2010-3.jpg)
+
 In my [Acquia 2010 retrospective](https://dri.es/acquia-retrospective-2010), I promised to write a bit more about Acquia's product strategy. This blog post provides a high level view of the vision that we've been working towards for the last 3 years, and explains how [Acquia](https://www.acquia.com) can help simplify your web strategy.
 
-### The web: it's currently a mess
+## The web: it's currently a mess
 
-[image acquia/acquia-strategy-product-vision-2010-1 resize=false]
+![](http://default/files/images/acquia/acquia-strategy-product-vision-2010-1.jpg)
 
 Ten years ago, the average organization had one website. Since then, doing business through the web has become more complex and have introduced a diverse set of needs. If you're like most organizations the number of sites you have is large and continues to grow at a rapid clip.
 
 For most organizations, one tool could not historically get the job done, so they kept multiple tools in their toolbox – whether they intended to or not. The situation can be quite a mess, and is unfortunately a common scenario in many enterprises.
 
-### Each site has unique needs
+## Each site has unique needs
 
-[image acquia/acquia-strategy-product-vision-2010-2 resize=false]
+![](http://default/files/images/acquia/acquia-strategy-product-vision-2010-2.jpg)
 
 Most of these sites are vastly different in terms of scale, functionality, complexity and longevity. Some sites are under continuous development while other sites are only around for a couple of weeks or months. Some of the websites are owned by the company's IT department and hosted internally, while other websites may be owned by their marketing department and hosted externally. As a result, the level of investment and the time to market requirements are usually very different.
 
-### Standardize on Drupal to save costs
+## Standardize on Drupal to save costs
 
-[image acquia/acquia-strategy-product-vision-2010-3 resize=false]
+![](http://default/files/images/acquia/acquia-strategy-product-vision-2010-3.jpg)
 
 CIOs – facing cost-cutting pressures and the need to streamline their resources – are now addressing the reality of running twenty different content management systems on twenty different stack configurations as an expensive, unnecessary burden for the organization. They have always known that there were cost savings to be made if they standardize on a single platform, but have never felt the confidence in a single platform to suit all of their needs across their organization.
 
@@ -49,19 +51,19 @@ Drupal has the required features to accomplish this today. This is more than a v
 
 By standardizing on Drupal, organizations can reduce training costs, reduce maintenance costs, streamline security, and optimize internal resources – all without sacrificing quality or requirements. Standardizing on Drupal certainly doesn't mean every single system needs to be Drupal. Even going from 20 different systems to 10 or to 5 different systems still translates to dramatic cost savings. It goes without saying that you need to be smart about what makes sense to standardize on Drupal, and what not to standardize on Drupal. With our vast community of contributors, Drupal continues to become better and better and the feasibility for an organization to standardize on Drupal continues to improve over time.
 
-[image acquia/acquia-strategy-product-vision-2010-4 resize=false]
+![A diagram showing a main website connecting to microsites, intranet, forums, e-commerce, and other platforms.](http://default/files/images/acquia/acquia-strategy-product-vision-2010-4.jpg)
 
-### Drupal distributions help adoption
+## Drupal distributions help adoption
 
-[image acquia/acquia-strategy-product-vision-2010-5 resize=false]
+![A diagram with blue water droplet shapes categorizing website types like intranet, blog, forums, e-commerce, and community platforms.](http://default/files/images/acquia/acquia-strategy-product-vision-2010-5.jpg)
 
 [Drupal distributions](https://dri.es/drupal-distributions) are an important part of helping organizations adopt [Drupal](https://www.drupal.org). Drupal distributions are complete, ready-to-use solutions built on Drupal. Just install and go.
 
 [Drupal Commons](https://www.acquia.com/products-services/drupal-commons-social-business-software-social-business-software) is a Drupal distribution for social business software; it provides organizations a complete solution for forming collaborative communities. Similarly, [Open Publish](https://www.drupal.org/project/openpublish) is a Drupal distribution optimized for news publishing. Acquia sees expansion of distributions as critically important to the future growth of Drupal. With that, [we are acting as a software publishers](https://dri.es/on-business-models-for-drupal-distributions) for these and other distributions developed by partners within the Drupal community; supporting the marketing, promotion, support, and ongoing development of distributions to extend the capability of the companies who have incubated these incredible products.
 
-### Add the Acquia Network for support and cloud services
+## Add the Acquia Network for support and cloud services
 
-[image acquia/acquia-strategy-product-vision-2010-6 resize=false]
+![A diagram showing Acquia's strategy, connecting cloud services, third-party integrations, and various website types to the Acquia network.](http://default/files/images/acquia/acquia-strategy-product-vision-2010-6.jpg)
 
 To help organizations adopt and standardize on Drupal, we created the [Acquia Network](https://www.acquia.com/products-services/acquia-network) to provide a suite of Drupal support, knowledge, and web development and maintenance tools to help build, manage and extend Drupal websites.
 
@@ -73,9 +75,9 @@ We are in the middle of a massive redesign of the [Acquia Network](https://www.a
 
 Interested in adding your service to the Acquia Network? In the future, we will roll out APIs and infrastructure (e.g. billing) to enable other organizations to deliver their cloud-services to any Drupal site through the Acquia Network.
 
-### Add Acquia Hosting, a Drupal Platform-as-a-Service
+## Add Acquia Hosting, a Drupal Platform-as-a-Service
 
-[image acquia/acquia-strategy-product-vision-2010-7 resize=false]
+![A diagram showing Acquia Network connecting to intranet, extranet, corporate site, microsites, and Acquia Hosting with key platforms.](http://default/files/images/acquia/acquia-strategy-product-vision-2010-7.jpg)
 
 For large websites that require custom code, high availability, on-demand elasticity or release management tools (i.e. staging and production workflows), we recommend [Acquia Hosting](https://www.acquia.com/products-services/acquia-managed-cloud), our Drupal-platform-as-a-service (Drupal PaaS).
 
@@ -83,9 +85,9 @@ Acquia Hosting is an extension of the Acquia Network, so if you need help scalin
 
 Going forward you can expect even more developer tools and self-service tools to be added to Acquia Hosting, as well as more critical features for large scale sites, including improved security and code workflow options.
 
-### Add Drupal Gardens for rapid micro-site development
+## Add Drupal Gardens for rapid micro-site development
 
-[image acquia/acquia-strategy-product-vision-2010-8 resize=false]
+![A diagram showing Acquia Network connecting to Drupal Gardens, Acquia Hosting, and various sites like intranet, extranet, and corporate site.](http://default/files/images/acquia/acquia-strategy-product-vision-2010-8.jpg)
 
 All sites are different. Not all your organization's website need the scale, functionality, complexity or longevity of your most important websites. A lot of times you have smaller sites that you may want to roll-out quickly, preferably without having to involve IT.
 
@@ -95,20 +97,20 @@ Our mission for Drupal Gardens is to allow site builders to go from design to on
 
 For organizations that need to manage tens, if not hundreds, of small websites, we're building 'Enterprise Drupal Gardens'. It provides site provisioning, site management, single sign-on, multi-site dashboards and organization wide templates and themes to maintain consistent branding.
 
-### Host your own sites, if you prefer
+## Host your own sites, if you prefer
 
-[image acquia/acquia-strategy-product-vision-2010-9 resize=false]
+![A diagram showing Acquia Network connecting Drupal Gardens, Acquia Hosting, and Third-Party Hosting, illustrating Acquia's strategy and product vision.](http://default/files/images/acquia/acquia-strategy-product-vision-2010-9.jpg)
 
 One of the biggest advantages of using Open Source software is that there are no limits to how you use the software. Some organizations prefer to host some of their own sites. The Acquia Network is able to plug in into your site, regardless of where it is hosted.
 
-### No lock in with "Open SaaS"
+## No lock in with "Open SaaS"
 
-[image acquia/acquia-strategy-product-vision-2010-10 resize=false]
+![A diagram showing Acquia Network connecting third-party hosting, Drupal Gardens, and Acquia Hosting through various websites and microsites.](http://default/files/images/acquia/acquia-strategy-product-vision-2010-10.jpg)
 
 Almost all Software as a Service (SaaS) providers employ a proprietary model – they might allow you to export your data, but they usually don't allow you to export the underlying code. Users of Drupal Gardens are able to export their Drupal Gardens site – the code, the theme and data – and move of the platform to any Drupal hosting environment. By doing so, we provide people an easy on-ramp but we allow them to grow beyond the capabilities of Drupal Gardens without locking them in.
 
 We call this "Open SaaS" or Software as a Service done right based on Open Source principles – it offers a much more secure and low-cost alternative to proprietary counterparts.
 
-### Conclusions
+## Conclusions
 
 I've highlighted some of our key products and services in this blog post and will bring you a more detailed white paper focusing on Acquia's vision. Stay tuned!

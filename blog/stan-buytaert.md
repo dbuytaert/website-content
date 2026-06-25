@@ -19,6 +19,8 @@ id: 670
 
 # Stan Buytaert
 
+![Close-up of a newborn baby sleeping, wrapped in a soft blanket with eyes closed and lips slightly parted.](http://default/files/cache/stan-2009/close-up-640w.jpg)
+
 It's a boy! Today, Sunday, June 7th at 8:15am CET, Karlijn gave birth to our second son, Stan. He weighs 3.6kg and measures 52cm. More pictures are available in [this photo gallery](https://dri.es/album/stan-2009/).
 
 *Welcome to the world, Stan!*

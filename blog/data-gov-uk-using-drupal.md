@@ -23,4 +23,4 @@ Web founder [Sir Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
 
 What is exciting is that [Data.gov.uk](https://data.gov.uk/) uses both [Drupal](https://www.drupal.org) and various semantic web technologies to encourage people to create data mashups and to visualize the data in clear, imaginative ways that provide more insight in the underlying information. It is great to see that [Open Source, Open Data and government meet](https://dri.es/where-open-source-open-data-and-government-meet), and it is great validation for [Drupal's adoption of the semantic web](https://dri.es/tag/semantic-web). *Hot stuff!*
 
-[image drupal/data-gov-uk]
+![Screenshot of the Data.](http://default/files/cache/drupal/data-gov-uk-640w.jpg)

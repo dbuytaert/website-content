@@ -20,6 +20,8 @@ id: 3916
 
 # Drupal is API-first, not API-only
 
+![Diagram comparing two Drupal architectures: one as both a front end and content service, and another as an API-first backend.](http://default/files/images/drupal/drupal-is-api-first-drupal-site-and-content-service.jpg)
+
 More and more developers are choosing content-as-a-service solutions known as headless CMSes – content repositories which offer no-frills editorial interfaces and expose content APIs for consumption by an expanding array of applications. Headless CMSes share a few common traits: they lack end-user front ends, provide few to no editorial tools for display and layout, and as such leave presentational concerns almost entirely up to the front-end developer. Headless CMSes have gained popularity because:
 
 - A desire to separate concerns of structure and presentation so that front-end teams and back-end teams can work independently from each other.
@@ -31,9 +33,10 @@ In this blog post, I'll explain why Drupal has one crucial advantage that propel
 
 As Drupal continues to power the websites that have long been its bread and butter, it is also used more and more to serve content to other back-end systems, single-page applications, native applications, and even conversational interfaces – all at the same time.
 
-### Headless CMSes are leaving editors behind
+## Headless CMSes are leaving editors behind
 
-[image drupal/drupal-is-api-first-coupled-drupal-vs-headless-cms resize=false]
+![Diagram comparing a coupled Drupal website with a headless CMS, showing how content is delivered to multiple front ends.](http://default/files/cache/drupal/drupal-is-api-first-coupled-drupal-vs-headless-cms-640w.jpg)
+*This diagram illustrates the differences between a traditional Drupal website and a headless CMS with various front ends receiving content.*
 
 Some claim that headless CMSes will replace traditional CMSes like Drupal and WordPress when it comes to content editors and marketers. I'm not so sure.
 
@@ -47,9 +50,10 @@ In addition, editors and marketers are particularly concerned about how content 
 
 Features like in-place editing, in-context administration, layout manipulation, and seamless but faithful preview are essential building blocks for an optimal editorial experience for content creators and marketers. For some use cases, these drawbacks are totally manageable, especially where an application needs little editorial interaction and is more developer-focused. But for content editors, headless CMSes simply don't offer the toolkits they have come to expect; they fall short where Drupal shines.
 
-### Drupal empowers both editors and application developers
+## Drupal empowers both editors and application developers
 
-[image drupal/drupal-is-api-first-api-first-drupal-vs-headless-cms resize=false]
+![Diagram comparing a coupled Drupal website with a headless CMS, showing content delivery through APIs to multiple front ends.](http://default/files/images/drupal/drupal-is-api-first-api-first-drupal-vs-headless-cms.jpg)
+*This diagram illustrates the differences between a coupled – but headless-enabled – Drupal website and a headless CMS with various front ends receiving content.*
 
 All of this isn't to say that headless isn't important. Headless is important, but supporting both headless and traditional approaches is one of the biggest advantages of Drupal. After all, content management systems need to serve content beyond editor-focused websites to single-page applications, native applications, and even emerging devices such as wearables, conversational interfaces, and IoT devices.
 
@@ -57,15 +61,16 @@ Fortunately, the ongoing API-first initiative is actively working to [advance ex
 
 For me, the key takeaway of this discussion is: *Drupal is great for both editors and developers*. But there are some caveats. For web experiences that need significant focus on the editor or assembler experience, you should use a coupled Drupal front end which gives you the ability to edit and manipulate the front end without involving a developer. For web experiences where you don't need editors to be involved, Drupal is still ideal. In an API-first approach, Drupal provides for other digital experiences that it can't explicitly support (those that aren't web-based). This keeps both options open to you.
 
-### Drupal for your site, headless Drupal for your apps
+## Drupal for your site, headless Drupal for your apps
 
-[image drupal/drupal-is-api-first-drupal-site-and-content-service resize=false]
+![Diagram comparing two Drupal architectures: one as both a front end and content service, and another as an API-first backend.](http://default/files/images/drupal/drupal-is-api-first-drupal-site-and-content-service.jpg)
+*This diagram illustrates the ideal architecture for Drupal, which should be leveraged as both a front end in and of itself as well as a content service for other front ends.*
 
 In this day and age, having all channels served by a single source of truth for content is important. But what architecture is optimal for this approach? While reading this you might have also experienced some déjà-vu from a blog post I wrote last year about [how you should decouple Drupal](https://dri.es/how-should-you-decouple-drupal), which is still solid advice nearly a year after I first posted it.
 
 Ultimately, I recommend an architecture where Drupal is simultaneously coupled and decoupled; in short, Drupal shines when it's positioned both for editors and for application developers, because Drupal is great at both roles. In other words, your content repository should also be your public-facing website – a contiguous site with full editorial capabilities. At the same time, it should be the centerpiece for your collection of applications, which don't necessitate editorial tools but do offer your developers the experience they want. Keeping Drupal as a coupled website, while concurrently adding decoupled applications, isn't a limitation; it's an enhancement.
 
-### Conclusion
+## Conclusion
 
 Today's goal isn't to make Drupal API-only, but rather API-first. It doesn't limit you to a coupled approach like CMSes without APIs, and it doesn't limit you to an API-only approach like Contentful and other headless CMSes. To me, that is the most important conclusion to draw from this: Drupal supports an entire *spectrum* of possibilities. This allows you to make the proper trade-off between optimizing for your editors and marketers, or for your developers, and to shift elsewhere on that spectrum as your needs change.
 

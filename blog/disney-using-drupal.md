@@ -20,4 +20,4 @@ id: 540
 
 The Walt Disney Company is using [Drupal](https://www.drupal.org) for the [ABC Family community website](http://community.abcfamily.go.com). ABC Family is a cable television network that they currently own. In 2002, Disney acquired the network from News Corp for $3.2 billion USD.
 
-[image drupal/abc-family]
+![A woman sits outdoors, looking to the side.](http://default/files/cache/drupal/abc-family-640w.jpg)

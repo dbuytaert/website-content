@@ -18,4 +18,6 @@ id: 170
 
 # Apple store fun
 
+![A person's face with a digital effect creating light streaks radiating outward from their head.](http://default/files/cache/portland-2006/disciple-dries-640w.jpg)
+
 Stopped by the Apple store and had some fun with [iSight and Photo Booth](https://www.apple.com/imac/isight.html). In addition to [Disciple Dries](/album/portland-2006/disciple-dries) (shown above), we also have [Dries Clops](/album/portland-2006/dries-clops) and [Gnome and Troll](/album/portland-2006/gnome-and-troll).

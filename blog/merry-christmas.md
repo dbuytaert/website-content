@@ -18,4 +18,6 @@ id: 377
 
 # Merry Christmas
 
+![A baby wearing a Santa hat smiles while lying down on a soft surface.](http://default/files/cache/axl-2007/merry-christmas-640w.jpg)
+
 The obligatory Christmas picture for parents with a camera ... :-)

@@ -31,6 +31,6 @@ I'm very proud of the fact that many of the world's largest sporting events and 
 
 When the world is watching an event, there is no room for error!
 
-[image acquia/australian-open-team-2019]
+![A group of ten people wearing event badges pose together in an office, smiling at the camera.](http://default/files/cache/acquia/australian-open-team-2019-640w.jpg)
 
 Many thanks to the round-the-clock efforts from Acquia's team in Asia Pacific, as well as our partners at Avanade!

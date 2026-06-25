@@ -17,4 +17,6 @@ id: 2586
 
 # Young beggar
 
+![A young girl in a pink dress knocks on a car window, asking for help.](http://default/files/cache/india-2011/young-beggar-640w.jpg)
+
 

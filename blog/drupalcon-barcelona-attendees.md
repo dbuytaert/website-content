@@ -17,4 +17,6 @@ id: 330
 
 # DrupalCon Barcelona attendees
 
+![A large group of people posing for a photo at DrupalCon Barcelona 2007, standing outside a brick building.](http://default/files/cache/drupalcon-barcelona-2007/group-picture-640w.jpg)
+
 Thanks for being such a passionate community. You rock.

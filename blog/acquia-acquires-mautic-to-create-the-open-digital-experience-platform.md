@@ -22,6 +22,8 @@ id: 4846
 
 # Acquia acquires Mautic to create the Open Digital Experience Platform
 
+![Logo of Acquia and Mautic with the tagline "The Future of Marketing is Open".](http://default/files/cache/acquia/acquia-acquires-mautic-640w.png)
+
 I'm happy to announce today that [Acquia acquired Mautic](https://www.acquia.com/blog/acquia-acquires-mautic-qa-founders-dries-buytaert-and-db-hurley), an Open Source marketing automation and campaign management platform.
 
 A couple of decades ago, I was convinced that every organization required a website – a thought that sounds rather obvious now. Today, I am convinced that [every organization will need a Digital Experience Platform](https://dri.es/from-content-management-to-digital-experience-management) (DXP).
@@ -31,7 +33,7 @@ Having a website is no longer enough: customers expect to interact with brands t
 If you don't know [Mautic](https://www.mautic.com/), think of it as an alternative to Adobe's Marketo or Salesforce's Marketing Cloud. Just like these solutions, Mautic provides marketing automation and campaign management capabilities. It's differentiated in that it is easier to use, supports one-to-one customer experiences across many channels, integrates more easily with other tools, and is less expensive.
 
 <div class="large">
-  [video KKs4Rob2A7Y]
+  https://www.youtube.com/watch?v=KKs4Rob2A7Y
 </div>
 
 The flowchart style visual campaign builder you saw in the beginning of [the Mautic demo video](https://youtu.be/DGZWrE4W2XU) above is one of my favorite features. I love how it allows marketers to combine content, user profiles, events and a decision engine to deliver the best-next action to customers.
@@ -40,11 +42,12 @@ Mautic is a relatively young company, but has quickly grown into the largest Ope
 
 The acquisition of Mautic accelerates [Acquia's product strategy](https://dri.es/the-evolution-of-acquia-product-strategy) to deliver the only Open Digital Experience Platform:
 
-[image acquia/how-mautic-complements-acquia resize=false]
+![A graphic illustrating the added benefits Mautic provides to the Acquia platform, including multichannel delivery, campaign management, and journey orchestration.](http://default/files/cache/acquia/how-mautic-complements-acquia-640w.png)
+*Mautic adds multichannel delivery, campaign management, and journey orchestration to the Acquia platform.*
 
 There are many reasons why we like [Mautic](https://www.mautic.com/), but here are my top 3:
 
-### Reason 1: Disrupting the market with "open"
+## Reason 1: Disrupting the market with "open"
 
 Open Source will disrupt every component of the modern technology stack. It's not a matter of if, it's when.
 
@@ -54,7 +57,7 @@ With Mautic, Acquia is now the only open and Open Source alternative to the expe
 
 I'm both proud and excited that [Acquia](https://www.acquia.com/) is doubling down on Open Source. Given our extensive Open Source experience, we believe we can help grow Mautic even faster.
 
-### Reason 2: Innovating through integrations
+## Reason 2: Innovating through integrations
 
 To build an optimal customer experience, marketers need to integrate with different data sources, customer technologies, and bespoke in-house platforms. Instead of buying a suite from a single vendor, most marketers want an open platform that allows for open innovation and unlimited integrations.
 
@@ -62,7 +65,7 @@ Only an open architecture can connect any technology in the marketing stack, and
 
 Because developers are largely responsible for creating and customizing marketing platforms, marketing technology should meet the needs of both business users and technology architects. Unlike other companies in the space, Mautic is loved by both marketers and developers. With Mautic, Acquia continues to focus on both personas.
 
-### Reason 3: The same technology stack and business model
+## Reason 3: The same technology stack and business model
 
 Like Drupal, Mautic is built in [PHP](https://php.net/) and [Symfony](https://symfony.com/), and like Drupal, Mautic uses the [GNU GPL license](https://www.gnu.org/licenses/licenses.html#GPL). Having the same technology stack has many benefits.
 
@@ -77,11 +80,11 @@ Mautic offers several commercial solutions:
 - **Mautic Cloud**, a fully managed SaaS version of Mautic with premium features not available in Open Source.
 - For larger organizations, Mautic has a proprietary product called **Maestro**. Large organizations operate in many regions or territories, and have teams dedicated to each territory. With Maestro, each territory can get its own Mautic instance, but they can still share campaign best-practices, and repeat successful campaigns across territories. It's a unique capability, which is very aligned with the Acquia Cloud Site Factory.
 
-### Try Mautic
+## Try Mautic
 
 If you want to try Mautic, you can either [install the community version yourself](https://www.mautic.org/download/) or [check out the demo or sandbox environment of Mautic Open Marketing Cloud](https://mautic.com/choose-your-path/).
 
-### Conclusion
+## Conclusion
 
 We're very excited to join forces with Mautic. It is such a strategic step for Acquia. Together we'll provide our customers with more freedom, faster innovation, and more flexibility. Open digital experiences are the way of the future.
 

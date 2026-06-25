@@ -18,11 +18,12 @@ id: 2611
 
 2011 was a tremendous year of major growth for Drupal, and also a year that kept me very, very busy.
 
-### Drupal 7
+## Drupal 7
 
 At the beginning of the year, thanks to the efforts of nearly 1,000 contributors, we [released Drupal 7](https://dri.es/drupal-7-released), celebrating the event together as a community with over 250 parties in over 90 countries. An incredible achievement for all of us.
 
-[image drupal/drupal-7-release-party-map]
+![A world map showing locations of over 250 Drupal 7 release parties in more than 90 countries.](http://default/files/cache/drupal/drupal-7-release-party-map-640w.jpg)
+*A map of all the Drupal 7 release parties around the world: over 250 parties in more than 90 countries.*
 
 With a new release comes a fresh round of evangelism. I traveled 412,000 km (or 256,000 miles) in 2011, up from 300,000 km (190,000 miles) in 2010 and about 100,000 km (62,000 miles) in 2009. Given that the world is about 40,000 km (or 25,400 miles), I flew around the world approximately 10 times, or roughly once a month. Or put differently, I traveled an average of 1100 km a day (or 680 miles a day). Needless to say, that is a lot of evangelizing! And although it may not be visible, I believe this evangelizing to be very effective in promoting Drupal and creating local communities around the globe.
 
@@ -30,7 +31,7 @@ Three of the places I visited that I'm most excited about were Brazil, India, an
 
 Today, Drupal 7 is a roaring success. Drupal 7 is being adopted at least twice as fast as Drupal 6 has. Expect to see Drupal's adoption to grow throughout 2012 thanks to Drupal 7.
 
-### Drupal 8
+## Drupal 8
 
 Drupal also [turned 10 years old in 2011](https://dri.es/happy-tenth-birtday-drupal), and we had a big birthday bash at [DrupalCon Chicago](https://chicago2011.drupal.org/), where we also [kicked off development of Drupal 8](https://dri.es/starting-to-work-on-drupal-8), and started work on [major core initiatives](https://groups.drupal.org/drupal-initiatives), to help ensure that Drupal stays relevant in the ever-changing web. At [DrupalCon London](https://london2011.drupal.org/), I presented the results of a [community-wide survey](https://dri.es/state-of-drupal-presentation-august-2011) with over 3,000 participants, which both reinforced the strategic importance of the existing initiatives, plus added a few more, which I hope to announce in 2012.
 
@@ -40,7 +41,7 @@ In addition to celebrating our future, we also tried to learn from our past. We 
 
 Due to our community's initial focus during the release cycle on stabilization and bug fixes, Drupal 8 development really only recently came into bloom, around the time of DrupalCon London. However, since then, a number of exciting improvements have gone in, including patches to convert Drupal 8 to HTML5 and clean up Drupal's multilingual system, a new object-oriented entity API and cache system, and numerous documentation and API clean-ups. Additionally, there is some promising prototyping going on for the web services and configuration management initiatives.
 
-### Drupal Association
+## Drupal Association
 
 Another aspect of Drupal that took a front seat for me in 2011 was the "rebooting" of the [Drupal Association](https://association.drupal.org): moving to a US-based 501c3 organization, changing the structure of the organization to one of a policy-making board with supporting committees, and electing a new board of directors.
 
@@ -58,7 +59,7 @@ In fact, the [Drupal Association 2012 planning](https://groups.drupal.org/node/1
 
 Despite the growth and opportunity, finding Drupal talent still remains really, really hard. It continues to be Drupal's most important challenge in my opinion. I'm really glad we decided to focus on it with the Drupal Association.
 
-### Community
+## Community
 
 It certainly hasn't all been rosy, though; 2011 was also a year with challenges, particularly within the core development team. We've certainly struggled with morale issues following nearly two years without a development phase in Drupal core, misunderstandings about the relationship between "official" initiatives and community initiatives, concerns about the balance between adding new features and cleaning up existing technical debt, as well as even more existential questions like *"Is Drupal a product or framework? Should Drupal be a page generator or a REST server?"*.
 
@@ -70,7 +71,7 @@ As a community, we shouldn't forget about the evangelizing though, and this is s
 
 Overall, I'm confident that we can overcome these challenges. I really believe in the people that make up our community and the core development team, and our ability to collaborate together to get through tough problems. Drupal will be much better in the end, as a result. We'll have different challenges at the end of 2012.
 
-### More predictions for 2012
+## More predictions for 2012
 
 Here are some more prediction in addition to the predictions and plans above:
 

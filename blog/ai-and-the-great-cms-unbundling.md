@@ -22,6 +22,8 @@ id: 6231
 
 # AI and the great CMS unbundling
 
+![A two-by-two grid showing four scenarios: Assist, Relay, Delegate, and Orchestrate. The vertical axis moves from one person to many people and agents. The horizontal axis moves from one system to many systems and channels. AI tools may be enough for simple solo work, but a CMS becomes more important as content work involves more people and systems.](http://default/files/cache/blog/ai-cms-unbundling-grid-640w.png)
+
 The question I get most these days is: did AI kill the CMS? Should we still invest in a CMS, switch to AI agents, or wait until the market becomes clearer?
 
 At a friend's birthday party recently, I was talking with engineers and startup CEOs. They were all smart people, but none of them worked in the CMS industry. From where they sat, AI seemed to make the CMS obsolete.
@@ -40,7 +42,7 @@ AI is unbundling these two planes. It is commoditizing the execution plane while
 
 <section class="note">This post is a companion to <a href="https://dri.es/ai-and-the-great-digital-agency-unbundling">AI and the great digital agency unbundling</a>. That post looked at AI's impact on the <em>digital agency market</em>. This one looks at the same unbundling pattern in <em>content management systems</em> and <em>digital experience platforms</em>.</section>
 
-### AI lowers the cost of creation, not the cost of trust
+## AI lowers the cost of creation, not the cost of trust
 
 We have seen this pattern before. The printing press made it cheap to produce and distribute content, but it did not make editors or publishers irrelevant. It made them more important, because more content created more need for judgment, trust, and standards.
 
@@ -52,7 +54,7 @@ But AI should not be the final authority on what is correct, approved, compliant
 
 That is the real test for a CMS. Not whether AI can generate content or build a page, but whether your organization needs a control layer: roles, review, approvals, publishing states, revision history, and more.
 
-### How shared is your work?
+## How shared is your work?
 
 Two simple questions can help decide how much you need a CMS:
 1. How many people or agents create, review, and publish content?
@@ -60,7 +62,8 @@ Two simple questions can help decide how much you need a CMS:
 
 Put those questions on a grid, and four use cases emerge.
 
-[image blog/ai-cms-unbundling-grid]
+![A two-by-two grid showing four scenarios: Assist, Relay, Delegate, and Orchestrate. The vertical axis moves from one person to many people and agents. The horizontal axis moves from one system to many systems and channels. AI tools may be enough for simple solo work, but a CMS becomes more important as content work involves more people and systems.](http://default/files/cache/blog/ai-cms-unbundling-grid-640w.png)
+*The more people, agents, systems, and channels involved, the more a CMS matters as the control layer.*
 
 When one person creates and publishes content, and no other systems depend on it, you may not need a CMS. A lightweight publishing tool or AI site builder may be enough.
 
@@ -70,9 +73,9 @@ When many systems touch content, you need a CMS as the trusted source for conten
 
 In short, when many people and many systems are involved, the CMS becomes a critical control layer for people, agents, and systems working together. It gives people and agents a safe place to create and approve content, and gives other tools a trusted system they can read from, write to, and build on.
 
-### The decision, by quadrant
+## The decision, by quadrant
 
-#### 1. Assist: one person, one system
+### 1. Assist: one person, one system
 
 This is the simplest case: one person, one system, and little coordination.
 
@@ -88,7 +91,7 @@ AI helps with the execution work, while the CMS remains the control plane. This 
 
 So use an AI builder when speed to a new site matters most. Use a CMS when the work is about managing a large or growing body of content over time: keeping it structured, consistent, reusable, and reliable.
 
-#### 2. Relay: many people, one system
+### 2. Relay: many people, one system
 
 This is a clear case for a CMS. 
 
@@ -100,7 +103,7 @@ But the moment several people and several agents are working on the same website
 
 A CMS lets teams move at AI speed without losing track of who changed what, which version is approved, and what is safe to publish.
 
-#### 3. Delegate: one person, many systems
+### 3. Delegate: one person, many systems
 
 In the Delegate scenario you are still one person, so there is little coordination with other people. But the work now spans many systems: a CMS, an email marketing platform, a commerce system, a CRM, and a planning tool.
 
@@ -110,7 +113,7 @@ That is why this quadrant is debatable. For a short-lived campaign, you may not 
 
 But that only works while the content is small, short-lived, and easy to manage by hand. Once the content has to be structured, reused, updated, approved, or kept consistent across systems, you need a trusted source for it. This is **3b** on the quadrant image.
 
-#### 4. Orchestrate: many people, many systems
+### 4. Orchestrate: many people, many systems
 
 This is the most complex environment, and the clearest case for a CMS.
 
@@ -124,7 +127,7 @@ The CMS is not necessarily the orchestrator of that ecosystem. It is the governe
 
 At this scale, and at AI speed, a weak content foundation becomes expensive fast. A strong CMS is not optional.
 
-### From unbundling to rebundling
+## From unbundling to rebundling
 
 One thing the grid does not show is where the market is moving the fastest. Right now, most of the visible energy is on the bottom row of Assist and Delegate, sections 1a and 3a, where no control plane is needed: one person using AI to create and coordinate faster.
 

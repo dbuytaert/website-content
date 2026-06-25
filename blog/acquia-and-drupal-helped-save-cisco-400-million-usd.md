@@ -22,4 +22,4 @@ Using [Cisco's support community](https://supportforums.cisco.com/), customers c
 
 Check out [Network World's detailed article on Cisco's experience](http://www.networkworld.com/article/2996537/cisco-subnet/deep-into-drupal-cisco-starts-to-give-back-to-open-source-community.html).
 
-[image drupal/cisco-support-community]
+![Cisco Support Community webpage with login options, discussion topics, expert interviews, and buttons for asking and answering questions.](http://default/files/cache/drupal/cisco-support-community-640w.jpg)

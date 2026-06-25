@@ -18,9 +18,11 @@ id: 4616
 
 # Acquia a leader in the 2018 Forrester Wave for Web Content Management Systems
 
+![Acquia shown as a Leader together with Adobe and Sitecore.](http://default/files/cache/acquia/forrester-wave-for-web-content-management-systems-2018-640w.jpg)
+
 This week [Acquia was named a leader in the Forrester Wave: Web Content Management Systems](https://www.acquia.com/about-us/newsroom/press-releases/acquia-named-leader-web-content-management-systems). Acquia was previously named a leader in WCM systems in [Q1 2017](https://dri.es/acquia-a-leader-in-the-2017-forrester-wave-for-web-content-management-systems).
 
-[image acquia/forrester-wave-for-web-content-management-systems-2018 resize=false]
+![Acquia shown as a Leader together with Adobe and Sitecore.](http://default/files/cache/acquia/forrester-wave-for-web-content-management-systems-2018-640w.jpg)
 
 The report highlights [Acquia and Drupal's leadership on decoupled and headless architectures](https://dri.es/tag/headless-drupal), in addition to [Acquia Cloud's support for Node.js](https://dri.es/announcing-node-js-on-acquia-cloud).
 

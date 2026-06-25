@@ -18,6 +18,6 @@ id: 500
 
 Matt Butcher's [Learning Drupal 6 module development](https://www.amazon.com/Learning-Drupal-6-Module-Development/dp/1847194443) book an great introduction to begin developing on [Drupal](https://www.drupal.org). It is not for the die-hard developer, but it looks like a must have for new Drupal developers. *Thanks for for putting this book together, Matt!*
 
-[image drupal/book-packt-drupal6-learning-1]
-[image drupal/book-packt-drupal6-learning-2]
-[image drupal/book-packt-drupal6-learning-3]
+![Book cover of "Learning Drupal 6: Module Development" by Matt Butcher, published by Packt Publishing.](http://default/files/cache/drupal/book-packt-drupal6-learning-1-640w.jpg)
+![Close-up of a book page discussing the Content Creation Kit \(CCK\) and Views module in Drupal development.](http://default/files/cache/drupal/book-packt-drupal6-learning-2-640w.jpg)
+![Close-up of a book page discussing the t\(\) function in Drupal module development.](http://default/files/cache/drupal/book-packt-drupal6-learning-3-640w.jpg)

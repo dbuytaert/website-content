@@ -17,7 +17,7 @@ id: 1526
 
 # Eye grow Drupal
 
-[image drupal/eye-grow-drupal-1]
-[image drupal/eye-grow-drupal-2]
+![Several stacked cardboard boxes labeled "Drupal Gardens Eye Grow Drupal", with some boxes open revealing packing materials.](http://default/files/cache/drupal/eye-grow-drupal-1-640w.jpg)
+![Text printed on a cardboard box reads: "DRUPAL GARDENS, EYE GROW DRUPAL, MASTER CARTON COUNT: 100 PIECES, MADE IN CHINA.](http://default/files/cache/drupal/eye-grow-drupal-2-640w.jpg)
 
 Guess what is in these boxes?

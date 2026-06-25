@@ -21,6 +21,6 @@ id: 266
 
 Studio Brussel (StuBru), without a doubt Belgium's best radio station, relaunched [their website](https://stubru.be/) using Drupal today. Check it out at <http://stubru.be>!
 
-[image drupal/stubru]
+![A screenshot of the Studio Brussel website featuring news articles, a playlist, and a promotional banner for a festival.](http://default/files/cache/drupal/stubru-640w.jpg)
 
 The concept and design work was done by [i-merge](http://www.i-merge.net/). The implementation was done in-house by StuBru's producer, the [VRT](https://www.vrt.be/).

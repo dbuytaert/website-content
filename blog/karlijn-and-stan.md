@@ -20,4 +20,6 @@ id: 1801
 
 # Karlijn and Stan
 
+![A woman holds a young child close, gently leaning in while the child looks away with a finger in their mouth.](http://default/files/cache/winchester-2010/karlijn-and-stan-1-640w.jpg)
+
 

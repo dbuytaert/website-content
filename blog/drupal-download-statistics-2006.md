@@ -19,5 +19,5 @@ id: 87
 
 It has been exactly one month since [we released Drupal 4.7.0](https://dri.es/drupal-4-7-released) and we have nearly broken 50,000 downloads. The [Drupal 4.7 videocasts](https://www.drupal.org/videocasts) have been watched over 25,000 times, and have added 400GB of traffic to our monthly bandwidth usage. *Not too shabby.*
 
-[image drupal/absolute-download-statistics-2006 resize=false]
-[image drupal/relative-download-statistics-2006 resize=false]
+![Bar chart showing increasing Drupal core downloads from September 2005 to May 2006, with a sharp rise for Drupal 4.](http://default/files/images/drupal/absolute-download-statistics-2006.jpg)
+![Bar chart showing relative download percentages of different Drupal versions from September 2005 to May 2006.](http://default/files/images/drupal/relative-download-statistics-2006.jpg)

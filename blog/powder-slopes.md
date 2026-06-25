@@ -17,4 +17,6 @@ id: 220
 
 # Powder slopes
 
+![A person wearing sunglasses and a winter jacket takes a selfie on a snowy mountain with ski lifts in the background.](http://default/files/cache/alpe-dhuez-2007/dries-640w.jpg)
+
 Just got back from [Alpe d'Huez](https://en.wikipedia.org/wiki/Alpe_d'Huez) (French Alps) – we had a great time up in the mountains. I'll add more photos shortly once I had the time to catch up with life, work and Drupal. But first, I'm off to [FOSDEM](https://dri.es/fosdem-2007) ...

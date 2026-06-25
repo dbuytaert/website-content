@@ -17,4 +17,6 @@ id: 118
 
 # Unshaved
 
+![A man with messy hair, stubble, and sunglasses smiles at the camera against a plain background.](http://default/files/cache/miscellaneous-2006/unshaved-640w.jpg)
+
 After taking [Nele's picture](/nele-peeters), she took one of me wearing her shades.

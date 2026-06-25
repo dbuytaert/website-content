@@ -16,11 +16,14 @@ id: 5896
 
 # Meeting one chess master, mourning another
 
+![Dries Buytaert and Garry Kasparov.](http://default/files/cache/miscellaneous-2025/garry-kasparov-dinner-640w.jpg)
+
 When I was about 10 years old, my uncle gave me a chess computer. It was the "Kasparov Team-Mate Advanced Trainer", released in 1988. More than 35 years later, I still have it. Last night I was lucky enough to have dinner with the man whose name is on that device.
 
 [Garry Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov) is one of the greatest chess players of all time. He was the number one chess player in the world for 21 years and became famous for his matches against [IBM's Deep Blue](https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov). Since retiring from chess, he has become a prominent advocate for democracy, even running against Putin in 2008.
 
-[image miscellaneous-2025/garry-kasparov-dinner]
+![Dries Buytaert and Garry Kasparov.](http://default/files/cache/miscellaneous-2025/garry-kasparov-dinner-640w.jpg)
+*With Garry Kasparov in Antwerp, October 2025*
 
 During our conversation, Garry broke the news that Grandmaster [Daniel Naroditsky](https://en.wikipedia.org/wiki/Daniel_Naroditsky) had passed away unexpectedly. He was only 29. The news stopped me cold. For a moment, I just sat there, trying to process it.
 

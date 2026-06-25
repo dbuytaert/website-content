@@ -32,7 +32,7 @@ There are two main ways to run Activepieces:
 
 Once you have Activepieces running, you'll want to connect it to your Drupal site. This note explains two ways to do that: a basic integration using Drupal's built-in APIs, and an advanced setup that unlocks deeper automation capabilities.
 
-### Setting up basic integration
+## Setting up basic integration
 
 You can connect Drupal with Activepieces without installing any extra Drupal modules.
 
@@ -58,7 +58,7 @@ drush pm-enable basic_auth -y
 
 Once both modules are enabled, you can create a connection to Drupal from within Activepieces.  In the Activepieces interface, drag a Drupal trigger or action onto the canvas, and you'll be prompted to set up the connection.
 
-### Setting up advanced integration
+## Setting up advanced integration
 
 For more advanced scenarios, we created the [Orchestration module](https://www.drupal.org/project/orchestration). It's an optional module.  Installing this module unlocks deeper integrations that enable external systems to trigger [Drupal ECA workflows](https://www.drupal.org/project/eca), use [Drupal AI agents](https://www.drupal.org/project/ai), call [Drupal Tools](https://www.drupal.org/project/tool), and more.
 

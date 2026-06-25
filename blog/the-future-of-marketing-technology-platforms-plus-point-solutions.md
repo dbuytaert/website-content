@@ -19,6 +19,8 @@ id: 5491
 
 # The future of marketing technology: platforms plus point solutions
 
+![A jigsaw puzzle with a human face.](http://default/files/cache/acquia/user-profile-puzzle-640w.png)
+
 Former CMO of Acquia and Optimizely (Ektron), [Tom Wentworth](https://www.linkedin.com/in/twentworth/), recently shifted his stance from best-of-breed to all-in-one marketing platforms. He explains [his change of heart](https://www.linkedin.com/posts/twentworth_i-used-to-advocate-big-time-for-the-concept-activity-7087120981386747904-ZMkE) on LinkedIn:
 
 > I used to advocate big time for the concept of a best-of-breed approach to buying marketing products as opposed to buying a single vendor platform like Salesforce, Adobe, etc. But now I've changed my mind. All-in-one platforms will win. Proprietary data sets combined with all the recent advances in AI changed my view. The massive platform datasets are just too big of a moat for all the best-of-breed vendors to overcome. \[...\] I think we'll finally start to see [Scott Brinker's infographic](https://chiefmartec.com/) get smaller.
@@ -27,7 +29,7 @@ Today, organizations use various applications in their marketing stack: content 
 
 Imagine an e-commerce company that sells products both online and in physical stores. If they don't connect the data from these different systems, they won't always be able to recommend the best products to their customers. However, when all the data is connected, they can better understand their customers' behavior, which will improve their sales and marketing tactics.
 
-[image acquia/user-profile-puzzle]
+![A jigsaw puzzle with a human face.](http://default/files/cache/acquia/user-profile-puzzle-640w.png)
 
 Think of customer data like pieces of a jigsaw puzzle. If you only see one piece (data from a single marketing product or channel), you can't really understand how customers behave or what they want. But when you put all the pieces together (integrate data from all products or channels), you get a much better picture of their desires. This helps you create a better customer experience across all touchpoints.
 
@@ -40,7 +42,8 @@ Tom believes that all-in-one platforms, in which he includes Adobe, Salesforce, 
 Needless to say, I agree on [the importance of leveraging content and data across the organization](https://dri.es/from-content-management-to-digital-experience-management) to provide excellent customer experiences. As per my [2019 retrospective](https://dri.es/acquia-retrospective-2019), Acquia began investing in a unified data layer in late 2019 and currently offers dozens of AI models on top of our data store. This was a forward-looking move, preceding AI becoming a prominent trend. Additionally, Tom and I both believe that AI, with its huge data requirements, will further expedite this trend.
 
 <div class="large">
-  [image acquia/unified-content-data-orchestration-composition-and-delivery resize=false]
+  ![A diagram that shows how content, data, experience orchestration, and experience delivery needs to be unified across different systems such as content management systems, email marketing platforms, commerce solutions and more.](http://default/files/cache/acquia/unified-content-data-orchestration-composition-and-delivery-640w.png)
+*Experiences need to be personalized and orchestrated across all digital channels. To deliver the best digital experiences, user profile data needs to be unified across all systems. To make experience delivery easy, all content and digital assets need to be reusable across channels.*
 </div>
 
 Tom's predictions become more intriguing when he states that all-in-one platforms now have a "winner takes all" advantage over point solutions. Tom argues that when data and content are integrated, all-in-one platforms can offer unique benefits that point solutions cannot match, particularly in the field of AI. Tom even predicts that the martech industry might shrink as a result.

@@ -22,6 +22,6 @@ In her new role, Angie will do what she does best: supporting the other core mai
 
 The following chart explains the relationship between all of the people with core commit rights in graphical form:
 
-[image drupal/core-committers-2012 resize=false]
+![Diagram showing Drupal core committers for versions 6, 7, and 8, with Dries Buytaert as the project lead.](http://default/files/images/drupal/core-committers-2012.jpg)
 
 Please join me in welcoming Angela to her new role!

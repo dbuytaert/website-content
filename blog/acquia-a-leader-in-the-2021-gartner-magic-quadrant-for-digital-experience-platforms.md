@@ -19,9 +19,11 @@ id: 5141
 
 # Acquia a Leader in the 2021 Gartner Magic Quadrant for Digital Experience Platforms
 
+![A graph showing the state of the Digital Experience Platforms in 2021. Vendors are plotted on a grid based on their ability to execute and completeness of vision. Acquia is placed in the leader quadrant, indicating strong performance in both vision and execution.](http://default/files/cache/acquia/gartner-magic-quadrant-for-digital-experience-platforms-2021-1-640w.png)
+
 For the second year, [Acquia](https://www.acquia.com) was named a Leader in [Gartner's Magic Quadrant for Digital Experience Platforms](https://www.acquia.com/resources/report/gartner-dxp-magic-quadrant) (DXPs).
 
-[image acquia/gartner-magic-quadrant-for-digital-experience-platforms-2021-1 resize=false schema=false]
+![A graph showing the state of the Digital Experience Platforms in 2021. Vendors are plotted on a grid based on their ability to execute and completeness of vision. Acquia is placed in the leader quadrant, indicating strong performance in both vision and execution.](http://default/files/cache/acquia/gartner-magic-quadrant-for-digital-experience-platforms-2021-1-640w.png)
 
 Our leadership position improved compared to last year. Acquia is now the clear number two behind Adobe. Market validation from Gartner on our vision is exciting and encouraging.
 

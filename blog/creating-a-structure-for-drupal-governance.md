@@ -23,7 +23,7 @@ However, while the governance proposal coming out of Portland provided some fair
 
 I've therefore spent time over the past few months talking with a number of members of the Drupal Association, various Drupal.org volunteers, Drupal core/contrib developers, as well as other interested parties, in order to determine how to put into place a structure that clarifies the decision-making processes around Drupal.org. The following is the overall proposal for Drupal.org governance we've come up with, as well as links to more specific draft charters for community review.
 
-### Overview
+## Overview
 
 Note: the finer points of this can be found in <https://dri.es/files/drupal-governance-plan-2013.pdf>.
 
@@ -38,11 +38,11 @@ Cracking this problem for Drupal.org provides us with less frustration/uncertain
 
 Governance mostly comes down to establishing "working groups" around major areas of the project, many of which already have governance in at least an ad-hoc basis. Working groups will consist of a chair, plus 3-5 members who are empowered to make decisions, then a team of N volunteers and/or DA staff to help carry out their tasks/policies. The working groups are only empowered to make decisions as a whole, not on an individual basis.
 
-### Drupal project governance / Drupal.org governance compared
+## Drupal project governance / Drupal.org governance compared
 
 For the Drupal project, we are working towards developing a number of working groups related to various aspects of the community (security, documentation, conflict resolution, Drupal core, etc.), with myself as the final decision-maker:
 
-[image drupal/drupal-project-governance-2013 resize=false]
+![A flowchart showing Drupal project governance structure with teams connected to a central figure at the top.](http://default/files/images/drupal/drupal-project-governance-2013.jpg)
 
 The working groups might be compared/contrasted this way:
 
@@ -65,7 +65,7 @@ The working groups might be compared/contrasted this way:
 
 In the case of Drupal.org, however, it makes sense for this final decision-maker to be the Drupal Association, since they are ultimately responsible for the website, purchasing hardware, etc.
 
-[image drupal/drupal-website-governance-2013 resize=false]
+![Diagram showing the Drupal Association overseeing three working groups: infrastructure, software, and content.](http://default/files/images/drupal/drupal-website-governance-2013.jpg)
 
 The working groups might be compared/contrasted this way:
 
@@ -86,7 +86,7 @@ This means that the existing webmasters group members can choose to participate 
 
 Needless to say, groups will often have to work together. For example, to answer the question of whether to keep developing project module or move our collaboration tools to Github, we'll have to get the following groups together: (i) the Drupal.org software working group because it affects the features of drupal.org, (ii) the Drupal.org hardware working group because they may need to host new features, (iii) the technical Working Group because it impacts how we collaborate on software development, and (iv) the Drupal Association Board of Directors because they have to write the check.
 
-### Draft charters for review
+## Draft charters for review
 
 This is a work in progress. Please help shape the future of Drupal.org governance by reviewing and commenting on the following proposals:
 
@@ -98,7 +98,7 @@ This is a work in progress. Please help shape the future of Drupal.org governanc
 
 Our plan is to allow everyone in the community to provide feedback during the next 3 weeks. Then, around the end of March I will post updated drafts based on community feedback, with the aim to finalize the charters by the mid-April.
 
-### Onward and upward
+## Onward and upward
 
 I'm really excited about the possibilities for Drupal.org in the future with this governance structure. My hope is that this helps address some of the ambiguity and confusion around the current structure, while at the same time not being overly constrictive.
 

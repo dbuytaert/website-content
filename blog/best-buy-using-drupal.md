@@ -19,4 +19,4 @@ id: 1821
 
 Best Buy, one of the biggest retailers of consumer electronics in the United States is using [Drupal](https://www.drupal.org) for their mobile magazine website: <http://www.bestbuymobile.com/>. Best Buy earns 50 billion USD in revenues and has over 180,000 employees. Needless to say, this is a big enterprise adopting Drupal.
 
-[image drupal/best-buy-mobile]
+![Best Buy Mobile Magazine webpage featuring a BlackBerry 6 promotion, phone search tool, and mobile news and reviews.](http://default/files/cache/drupal/best-buy-mobile-640w.jpg)

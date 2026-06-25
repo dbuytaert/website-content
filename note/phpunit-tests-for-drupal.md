@@ -21,7 +21,7 @@ Writing tests can be hard, but the key is to get started and take that first ste
 
 This page documents how I use [PHPUnit](https://phpunit.de/) with Drupal. Since I sometimes take breaks from working on my Drupal site, I've documented the process of installing, configuring, running and debugging tests as a quick reference. I often return to this guide to refresh my memory.
 
-### The most basic PHPUnit test for Drupal
+## The most basic PHPUnit test for Drupal
 
 The most basic [PHPUnit](https://phpunit.de/) test for Drupal looks something like this:
 
@@ -59,7 +59,7 @@ class MyModuleTest extends BrowserTestBase {
 
 The test lives in `docroot/modules/custom/my_module/tests/src/Functional/MyModuleTest.php`.
 
-### Installing PHPUnit for Drupal
+## Installing PHPUnit for Drupal
 
 Drupal does *not* ship with PHPUnit out-of-the-box, so it needs to be installed.
 
@@ -71,7 +71,7 @@ $ composer require drupal/core-dev --dev --update-with-all-dependencies
 
 The command above will download and install PHPUnit, along with other development dependencies that are considered a best-practice for Drupal development (e.g. [PHPStan](https://phpstan.org/)).
 
-### Configuring PHPUnit for Drupal
+## Configuring PHPUnit for Drupal
 
 Once installed, you still have to configure PHPUnit. All you need to do is set two variables in your shell:
 
@@ -86,7 +86,7 @@ $ export SIMPLETEST_BASE_URL="https://dri.es.ddev.site/"
 $ export SIMPLETEST_DB="mysql://db:db@db/db"
 ```
 
-### Running PHPUnit test for Drupal
+## Running PHPUnit test for Drupal
 
 To run all PHPUnit tests in the `./docroot/modules/custom` directory, run the following command from your web server's container:
 
@@ -106,7 +106,7 @@ To run a single test method from a specific class, use this command:
 $ ./vendor/bin/phpunit --filter MyModuleTest::testOne
 ```
 
-### Debugging PHPUnit tests in Drupal
+## Debugging PHPUnit tests in Drupal
 
 When tests fail, the default PHPUnit output can make it hard to debug the problem. A good first step is to enable the `--debug` flag:
 

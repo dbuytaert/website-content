@@ -20,4 +20,5 @@ id: 207
 
 Democratic Senator [Hillary Clinton](https://en.wikipedia.org/wiki/Hillary_Rodham_Clinton) announced today that she'll embark on a campaign to become the first female president of the United States. And do you know what? Her supporters made her a Drupal campaign website already. *Yay!*
 
-[image drupal/hillary-clinton resize=false]
+![A screenshot of Hillary Clinton's campaign website featuring a call to action and election messaging.](http://default/files/images/drupal/hillary-clinton.jpg)
+*A screenshot of Hillary Clinton's campaign website at <a href="http://votehillary.org/">http://votehillary.org</a>.*

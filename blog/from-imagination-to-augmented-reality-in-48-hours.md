@@ -25,13 +25,13 @@ One of the highlights of Build Week is our annual Hackathon; more than 20 teams 
 
 This year's projects were judged on innovation, ship-ability, technical accomplishment and flair. The winning project, Lift HoloDeck, was particularly exciting because it showcases an [ambitious digital experience](https://dri.es/drupal-is-for-ambitious-digital-experiences) that is possible with Acquia and Drupal today. The Lift Holodeck takes a physical experience and amplifies it with a digital one using [augmented reality](https://en.wikipedia.org/wiki/Augmented_reality). The team built a mobile application that superimposes product information and smart notifications over real-life objects that are detected on a user's smartphone screen. It enables customers to interact with brands in new ways that [improve a customer's experience](https://dri.es/friduction-the-internets-unstoppable-drive-to-eliminate-friction).
 
-[image acquia/lift-holodeck-banner]
+![Two people work on a laptop, designing a 3D coffee cup model with an augmented reality banner on a screen.](http://default/files/cache/acquia/lift-holodeck-banner-640w.jpg)
 
 At the hackathon, the Lift HoloDeck Team showed how augmented reality can change how both online and physical storefronts interact with their consumers. In their presentation, they followed a customer, Neil, as he used the mobile application to inform his purchases in a coffee shop and clothing store. When Neil entered his favorite coffee shop, he held up his phone to the posted "deal of the day". The Lift HoloDeck application superimposes nutrition facts, directions on how to order, and product information on top of the beverage. Neil contemplated the nutrition facts before ordering his preferred drink through the Lift HoloDeck application. Shortly after, he received a notification that his order was ready for pick up. Because Acquia Lift is able to track Neil's click and purchase behavior, it is also possible for Acquia Lift to push personalized product information and offerings through the Lift HoloDeck application.
 
 Check out [the demo video](https://www.youtube.com/embed/3XJK_sn8bng), which showcases the Lift HoloDeck prototype:
 
-[video 3XJK_sn8bng]
+https://www.youtube.com/watch?v=3XJK_sn8bng
 
 The Lift HoloDeck prototype is exciting because it was built in less than 48 hours and uses technology that is commercially available today. The Lift HoloDeck experience was powered by [Unity](https://unity.com/) (a 3D game engine), [Vuforia](https://www.vuforia.com/) (an augmented reality library), [Acquia Lift](https://www.acquia.com/products-services/acquia-lift) (a personalization engine) and [Drupal](https://www.drupal.org) as a content store.
 

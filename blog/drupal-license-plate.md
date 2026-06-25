@@ -16,6 +16,8 @@ id: 1016
 
 # Drupal license plate
 
+![A black BMW M5 with a custom California license plate that reads "DRUPAL", parked in a garage.](http://default/files/cache/drupal/license-plate-640w.jpg)
+
 A car has been spotted with a Drupal license plate that reads 'Drupal star'.
 
 So who's car is it? Take a guess in the comments.

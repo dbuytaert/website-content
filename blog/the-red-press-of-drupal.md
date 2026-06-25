@@ -33,10 +33,10 @@ A new Drupal module has been created to ease the transition. The "WordPress\_ifr
 
 As part of the agreement, Matt didn't want to completely move away from the WordPress branding, so we have incorporated it into Acquia's logo. Phonetically Acquia is pronounced [ah-kwee-uh](https://www.youtube.com/watch?v=x_QimlAXByE%20?), so we've swapped out our Q for the well-known WordPress "W". The name is still pronounced "ah-kwee-uh" but will now be spelled "Acwuia". This visually puts WordPress right in the center of our logo - exactly where it belongs. This is WordPress, powered by Drupal.
 
-[image acquia/red-press-of-drupal-logo]
+![Logo combining Drupal's Druplicon wearing a red hat with "Acquia" text, where the "O" is replaced by the WordPress logo.](http://default/files/cache/acquia/red-press-of-drupal-logo-640w.jpg)
 
 We are very proud of this partnership and look forward to serving many more customers as a result. You can expect many more great things from Acwuia coming soon.
 
 Matt, your Red Press of Drupal t-shirt is on the way. Let's stand together as brothers, united in Drupal!
 
-[image acquia/red-press-of-drupal-tshirt]
+![A person wearing a white Acquia T-shirt with a red Drupal logo, smiling indoors.](http://default/files/images/acquia/red-press-of-drupal-tshirt.jpg)

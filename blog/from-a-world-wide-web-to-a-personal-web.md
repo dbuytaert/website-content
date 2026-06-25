@@ -20,11 +20,13 @@ id: 4536
 
 # From a world wide web to a personal web
 
+![Diagram showing a mobile app requesting user data from a secure personal data pod, with some requests denied.](http://default/files/cache/blog/solid-concept-inrupt-640w.png)
+
 Last week, I had a chance to meet with [Inrupt](https://www.inrupt.com/), a startup founded by [Sir Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee), who is best known as the inventor of the World Wide Web. Inrupt is based in Boston, so their team stopped by the [Acquia](https://www.acquia.com) office to talk about the new company.
 
 To learn more about Inrupt's founding, I recommend reading [Tim Berners-Lee's blog](https://medium.com/@timberners_lee/one-small-step-for-the-web-87f92217d085) or [Inrupt's CEO John Bruce's announcement](https://www.inrupt.com/blog/a-new-world-of-opportunity).
 
-### Inrupt is on an important mission
+## Inrupt is on an important mission
 
 Inrupt's mission is to give individuals control over their own data. Today, a handful of large platform companies (such as Facebook) control the media and flow of information for a majority of internet users. These companies have profited from centralizing the [Open Web](https://dri.es/tag/open-web) and lack transparent data privacy policies on top of that. Inrupt's goal is not only to improve privacy and data ownership, but to take back power from these large platform companies.
 
@@ -32,7 +34,7 @@ Inrupt will leverage [Solid](https://solid.mit.edu/), an Open Source, decentrali
 
 As an advocate for the Open Web, I'm excited to see how Inrupt's mission continues to evolve. I've been writing about the importance of the [Open Web](https://dri.es/tag/open-web) for many years and even proposed a solution that mirrors Solid, which I called a [Personal Information Broker](https://dri.es/winning-back-the-open-web). For me, this is an especially exciting and important mission, and I'll be rooting for Inrupt's success.
 
-### My unsolicited advice: disrupt the digital marketing world
+## My unsolicited advice: disrupt the digital marketing world
 
 It was really interesting to have the Inrupt team visit the Acquia office, because we had the opportunity to discuss how their technology could be applied. I shared a suggestion to develop a [killer application](https://en.wikipedia.org/wiki/Killer_application) that surround "user-controlled personalization".
 
@@ -44,7 +46,7 @@ It's a win not only for marketers, but a win for the site visitor too. To unders
 
 It's a simple idea that provides a compelling win-win for both the consumer and retailer, and has the opportunity to [disrupt the digital sales and marketing world](https://chiefmartec.com/2018/04/marketing-technology-landscape-supergraphic-2018/). I've been thinking a lot about user-controlled personalization over the past few years. It's where I'd like to take [Acquia Lift](https://www.acquia.com/products-services/acquia-lift), Acquia's own personalization product.
 
-### Inrupt's success will depend on good execution
+## Inrupt's success will depend on good execution
 
 I love what Solid and Inrupt are building because I see a lot of potential in it. Disrupting the digital marketing world is just one way the technology could be applied. Whatever they decide to focus on, I believe they are onto something important that could be a foundational component of the future web.
 

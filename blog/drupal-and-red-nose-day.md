@@ -26,4 +26,4 @@ As you can imagine, there is nothing like a live, six-hour televised national ch
 
 In fact, we've been doing our bit with some Harlem Shake videos from both our [Reading (UK)](https://www.youtube.com/watch?v=PgEbiF4nqgA&feature=youtu.be) and [Burlington (US)](https://www.youtube.com/watch?v=pglkRMEOyiQ) offices to raise donations. It's not too late to help this tremendously worthwhile and life changing cause: <https://www.comicrelief.com/rednoseday>.
 
-[video pglkRMEOyiQ]
+https://www.youtube.com/watch?v=pglkRMEOyiQ

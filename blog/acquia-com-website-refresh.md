@@ -22,5 +22,5 @@ To me, this reflects an important trend for the Drupal community at large though
 
 As always, our website continues to be a work in progress, so let us know what you think! As a reference, I included screen shots of older versions of our site.
 
-[image acquia/acquia-com-march-2008]
-[image acquia/acquia-com-july-2009]
+![Acquia.com's homepage as captured in March 2008.](http://default/files/cache/acquia/acquia-com-march-2008-640w.jpg)
+![Acquia.com's homepage as captured in July 2009.](http://default/files/cache/acquia/acquia-com-july-2009-640w.jpg)

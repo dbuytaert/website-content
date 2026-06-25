@@ -18,4 +18,6 @@ id: 544
 
 # ColdFusion library for Mollom
 
+![](http://default/files/images/blog/coldfusion-logo.jpg)
+
 Ed Tabara from [1SmartSolution](http://www.1smartsolution.com) wrote an [Adobe ColdFusion library for Mollom](http://www.1smartsolution.com#mollom). Read more about it on [Ed's blog post](http://www.1smartsolution.com/blog//index.cfm/action:posts.entry/id:177/Presenting-Mollom--a-qualityassessment-and-spamfiltering-service) or download the library from the [Mollom download page](https://www.mollom.com/download). *Thanks Ed!*

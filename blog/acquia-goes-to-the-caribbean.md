@@ -16,6 +16,8 @@ id: 2316
 
 # Acquia goes to the Caribbean
 
+![A sandy beach with blue lounge chairs, palm trees, and people swimming or relaxing in the clear water.](http://default/files/cache/puerto-rico-2011/beach-on-private-island-640w.jpg)
+
 This week many of us at [Acquia](https://www.acquia.com) will be on an epic trip to the Caribbean.
 
 Venture backed start-ups set aggressive goals. At Acquia, our goal for 2010 was to increase 2009 revenue by 250%. No small goal, no small feat. In the beginning of 2010, most people in the company were skeptical that we would make the goal. Jokingly, we set a "stretch goal": if we increased revenues by more than 450%, we'd do something crazy. We decided that we would fly the entire staff and their significant others to some place warm.

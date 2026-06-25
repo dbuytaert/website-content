@@ -17,4 +17,6 @@ id: 162
 
 # Oma and opa
 
+![An elderly couple sits together, smiling at each other while celebrating their 55th wedding anniversary outdoors.](http://default/files/cache/miscellaneous-2006/oma-and-opa-640w.jpg)
+
 

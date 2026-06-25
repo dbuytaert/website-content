@@ -20,4 +20,4 @@ id: 244
 
 The [CD&amp;V](https://en.wikipedia.org/wiki/CD%26V) (Christian Democratic and Flemish), one of the main political parties in Belgium, is now using Drupal for [their official website](http://www.cdenv.be).
 
-[image drupal/cdenv resize=false]
+![A political website with images of leaders, news updates, and a banner showing a child being lifted in the air.](http://default/files/images/drupal/cdenv.jpg)

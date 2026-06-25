@@ -19,4 +19,6 @@ id: 936
 
 # Second birthday Axl
 
+![A smiling toddler wearing a colorful birthday crown with the number two sits on a wooden chair outdoors.](http://default/files/cache/eifel-2009/axl-two-years-640w.jpg)
+
 Last year [you still looked innocent](https://dri.es/first-birthday-axl). This year not so much. Welcome to the "terrible twos", Axl.

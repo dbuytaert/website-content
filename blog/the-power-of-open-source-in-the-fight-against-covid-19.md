@@ -20,7 +20,7 @@ As someone who has spent his entire career in Open Source, I've been closely fol
 
 I recently moderated a panel discussion on how Open Source is being used with regards to the coronavirus crisis. Our panel included: Jim Webber (Chief Scientist at [Neo4J](https://neo4j.com/)), Ali Ghodsi (CEO at [Databricks](https://databricks.com/)), Dan Eiref (Senior Director of Product management at [Markforged](https://markforged.com/)) and Debbie Theobald (CEO at [Vecna Robotics](https://www.vecnarobotics.com/)). Below are some of the key takeaways from our discussion. They show how Open Source is a force for good in these uncertain times.
 
-### Open Source enables knowledge sharing
+## Open Source enables knowledge sharing
 
 Providing accurate information related to COVID-19 is an essential public service. Neo4J worked with data scientists and researchers to create [CovidGraph](https://covidgraph.org/). It is an Open Source graph database that brings together information on COVID-19 from different sources.
 
@@ -30,7 +30,7 @@ Databricks CEO Ali Ghodsi also spoke to his company's efforts to democratize dat
 
 Amid the positive progress we're seeing from this open approach to data, some considerations were raised about governments' responsibilities with the data they collect. Maintaining public trust is always a huge concern. Still, as Ali said, <q>The need for data is paramount. This isn't a matter of using data to sell ads; it's a matter of using data to save lives.</q>.
 
-### Open Source makes resources accessible on a global scale
+## Open Source makes resources accessible on a global scale
 
 It's been amazing to watch how Open Source propels innovation in times of great need. Dan Eiref from 3D printer company Markforged spoke to how his company responded to the call to assist in the pandemic. Markforged Open Sourced the design for [face masks and nasal swabs](https://markforged.com/covid-19/). They also partnered with doctors to create a protective face shield and distributed personal protective equipment (PPE) to more than 500 hospitals.
 
@@ -40,7 +40,7 @@ The advantage of Open Source is that it can quickly produce and distribute solut
 
 Of course, there are still challenges for Open Source in the medical field. In the United States, all equipment requires [FDA certification](https://www.fda.gov/). The FDA isn't used to Open Source, and Open Source isn't used to dealing with FDA certification either. Fortunately, the FDA has adjusted its process to help make these designs available more quickly.
 
-### Open Source accelerates digital transformations
+## Open Source accelerates digital transformations
 
 A major question on everyone's mind was how technology will affect our society post-pandemic. It's already clear that long-term trends like online commerce, video conferencing, streaming services, cloud adoption and even Open Source are all being accelerated as a result of COVID-19. Many organizations need to innovate faster in order to survive. Responding to long-term trends by slowly adjusting traditional offerings is often "too little, too late".
 

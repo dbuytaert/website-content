@@ -20,6 +20,8 @@ id: 6021
 
 # The Control Layers of AI
 
+![A person standing on rubble raises a glowing light toward a tunnel of geometric light lines.](http://default/files/cache/blog/control-layers-640w.png)
+
 Salesforce had an embarrassing moment last week.
 
 Vivint uses Salesforce's Agentforce to send satisfaction surveys after customer service calls. Recently they discovered surveys were randomly not being sent and no one noticed for weeks.

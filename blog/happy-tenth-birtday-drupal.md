@@ -18,6 +18,8 @@ id: 2111
 
 # Happy tenth birthday Drupal
 
+![Banner celebrating Drupal's 10th birthday on January 15, 2011, with colorful balloons and the Drupal logo.](http://default/files/images/drupal/happy-tenth-birthday.jpg)
+
 Today is Drupal's 10th birthday. Drupal 1.0.0 was released on January 15, 2001. Now, ten years later, [we've just released Drupal 7](https://dri.es/drupal-7-released): our best, most flexible, and most user-friendly version yet. After ten years, we haven't lost any momentum.
 
 It's amazing to look back and see how far we've come. To see how much drupal.org and its associated sites have changed and evolved is exciting. To see that we have an active [Drupal Association](https://association.drupal.org) with a paid staff dedicated to the project is wonderful. Drupal, ten years in, has officially become a phenomenon.

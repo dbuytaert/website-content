@@ -24,9 +24,12 @@ id: 5701
 
 # My solar-powered and self-hosted website
 
+![A solar panel on a rooftop during sunset with a city skyline in the background.](http://default/files/cache/miscellaneous-2024/solar-panel-on-roofdeck-640w.jpg)
+
 I'm excited to share an experiment I've been working on: a solar-powered, self-hosted website running on a Raspberry Pi. The website at <https://solar.dri.es> is powered entirely by a solar panel and battery on our roof deck in Boston.
 
-[image miscellaneous-2024/solar-panel-on-roofdeck]
+![A solar panel on a rooftop during sunset with a city skyline in the background.](http://default/files/cache/miscellaneous-2024/solar-panel-on-roofdeck-640w.jpg)
+*My solar panel and Raspberry Pi Zero 2 are set up on our rooftop deck for testing.*
 
 By visiting <https://solar.dri.es>, you can dive into all the technical details and lessons learned – from hardware setup to networking configuration and custom monitoring.
 
@@ -34,7 +37,7 @@ As the content on this solar-powered site is likely to evolve or might even disa
 
 Finally, you can view the real-time status of my solar setup on my [solar panel dashboard](https://dri.es/sensors/solar), hosted on my main website. This dashboard stays online even when my solar-powered setup goes offline.
 
-### Background
+## Background
 
 For over two decades, I've been deeply involved in web development. I've worked on everything from simple websites to building and managing some of the internet's largest websites. I've helped create a hosting business that uses thousands of EC2 instances, handling billions of page views every month. This platform includes the latest technology: cloud-native architecture, Kubernetes orchestration, auto-scaling, smart traffic routing, geographic failover, self-healing, and more.
 
@@ -42,35 +45,38 @@ This project is the complete opposite. It's a hobby project focused on sustainab
 
 My primary website, [https://dri.es](https://dri.es/), is reliably hosted on [Acquia](https://www.acquia.com), and I'm very happy with it. However, if this solar-powered setup proves stable and efficient, I might consider moving some content to solar hosting. For instance, I could keep the most important pages on traditional hosting while transferring less essential content – like [my 10,000 photos](https://dri.es/photos) – to a solar-powered server.
 
-### Why am I doing this?
+## Why am I doing this?
 
 This project is driven by my curiosity about making websites and web hosting more environmentally friendly, even on a small scale. It's also a chance to explore a local-first approach: to show that hosting a personal website on your own internet connection at home can often be enough for small sites. This aligns with my commitment to both the [Open Web](https://dri.es/tag/open-web) and the [IndieWeb](https://indieweb.org/).
 
 At its heart, this project is about learning and contributing to a conversation on a greener, local-first future for the web. Inspired by solar-powered sites like [LowTech Magazine](https://solar.lowtechmagazine.com/), I hope to spark similar ideas in others. If this experiment inspires even one person in the web community to rethink hosting and sustainability, I'll consider it a success.
 
-### Solar panel and battery
+## Solar panel and battery
 
 The heart of my solar setup is a 50-watt panel from [Voltaic](https://voltaicsystems.com/), which captures solar energy and delivers 12-volt output. I store the excess power in an 18 amp-hour Lithium Iron Phosphate (LFP or LiFePO4) battery, also from Voltaic.
 
 <div class="large">
-  [image miscellaneous-2024/first-solar-panel-test]
+  ![A solar panel being tested on a laundry room floor.](http://default/files/cache/miscellaneous-2024/first-solar-panel-test-640w.jpg)
+*A solar panel being tested on the floor in our laundry room. Upon connecting it, it started charging a battery right away. It feels truly magical. Of course, it won't stay in the laundry room forever so stay tuned for more ...*
 </div>
 
 I'll never forget the first time I plugged in the solar panel – it felt like pure magic. Seeing the battery spring to life, powered entirely by sunlight, was an exhilarating moment that is hard to put into words. And yes, all this electrifying excitement happened right in our laundry room.
 
 <div class="large">
-  [image blog/18ah-battery]
+  ![A large battery, the size of a loaf of bread, with a solar panel in the background.](http://default/files/cache/blog/18ah-battery-640w.jpg)
+*A 18Ah LFP battery from Voltaic, featuring a waterproof design and integrated MPPT charge controller. The battery is large and heavy, weighing 3kg \(6.6lbs\), but it can power a Raspberry Pi for days.*
 </div>
 
 Voltaic's battery system includes a built-in charge controller with Maximum Power Point Tracking (MPPT) technology, which regulates the solar panel's output to optimize battery charging. In addition, the MPPT controller protects the battery from overcharging, extreme temperatures, and short circuits.
 
 A key feature of the charge controller is its ability to stop charging when temperatures fall below 0°C (32°F). This preserves battery health, as charging in freezing conditions can damage the battery cells. As I'll discuss in the [Next steps](#next-steps) section, this safeguard complicates year-round operation in Boston's harsh winters. I'll likely need a battery that can charge in colder temperatures.
 
-[image blog/12v-to-5v-converter-1]
+![A 12V to 5V voltage converter in a waterproof metal box the size of a matchbox, placed on a gridded mat.](http://default/files/cache/blog/12v-to-5v-converter-1-640w.jpg)
+*The 12V to 5V voltage converter used to convert the 12V output from the solar panel to 5V for the Raspberry Pi.*
 
 I also encountered a voltage mismatch between the 12-volt solar panel output and the Raspberry Pi's 5-volt input requirement. Fortunately, this problem had a more straightforward solution. I solved this using a [buck converter](https://en.wikipedia.org/wiki/Buck_converter) to step down the voltage. While this conversion introduces some energy loss, it allows me to use a more powerful solar panel.
 
-### Raspberry Pi models
+## Raspberry Pi models
 
 This website is currently hosted on a [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/). The main reason for choosing the Raspberry Pi Zero 2 W is its energy efficiency. Consuming just 0.4 watts at idle and up to 1.3 watts under load, it can run on my battery for about a week. This decision is supported by a mathematical uptime model, detailed in [Appendix 1](#sizing-raspberry-pi-zero-2).
 
@@ -78,7 +84,7 @@ That said, the Raspberry Pi Zero 2 W has limitations. Despite its quad-core 1 GH
 
 With a single-page website now live on <https://solar.dri.es>, I'm actively monitoring the real-world performance and uptime of a solar-powered Raspberry Pi Zero 2 W. For now, I'm using the lightest setup that I have available and will upgrade only when needed.
 
-### Networking
+## Networking
 
 The Raspberry Pi's built-in Wi-Fi is perfect for our outdoor setup. It wirelessly connects to our home network, so no extra wiring was needed.
 
@@ -96,9 +102,10 @@ I use [Cloudflare's DNS proxy](https://developers.cloudflare.com/dns/manage-dns-
 
 The Raspberry Pi uses [Caddy](https://caddyserver.com/) as its web server, which automatically obtains SSL certificates from [Let's Encrypt](https://letsencrypt.org/). This setup ensures secure, encrypted HTTP connections to the website.
 
-### Monitoring and dashboard
+## Monitoring and dashboard
 
-[image blog/raspberry-pi-4-and-rs485-can-hat]
+![A Raspberry Pi 4 and an RS485 CAN HAT next to each other.](http://default/files/cache/blog/raspberry-pi-4-and-rs485-can-hat-640w.jpg)
+*The Raspberry Pi 4 \(on the left\) can run a website, while the RS485 CAN HAT \(on the right\) will communicate with the charge controller for the solar panel and battery.*
 
 One key feature that influenced my decision to go with the Voltaic battery is its [RS485 interface](https://en.wikipedia.org/wiki/RS-485) for the charge controller. This allowed me to add an RS485 CAN HAT (Hardware Attached on Top) to the Raspberry Pi, enabling communication with the charge controller using the [Modbus protocol](https://en.wikipedia.org/wiki/Modbus). In turn, this enabled me to programmatically gather real-time data on the solar panel's output and battery's status.
 
@@ -106,11 +113,12 @@ I collect data such as battery capacity, power output, temperature, uptime, and 
 
 My main website runs on [Drupal](https://www.drupal.org/). The dashboard is powered by a custom module I developed. This module adds a web service endpoint to handle authentication, validate incoming JSON data, and store it in a MariaDB database table. Using the historical data stored in MariaDB, the module generates Scalable Vector Graphics (SVGs) for the dashboard graphs. For more details, check out my post on [building a temperature and humidity monitor](https://dri.es/building-my-own-temperature-and-humidity-monitor), which explains a similar setup in much more detail. Sure, I could have used a tool like [Grafana](https://grafana.com/), but sometimes building it yourself is part of the fun.
 
-[image blog/raspberry-pi-4-enclosure]
+![A Raspberry Pi 4 with an RS485 CAN HAT in a waterproof enclosure, surrounded by cables, screws and components.](http://default/files/cache/blog/raspberry-pi-4-enclosure-640w.jpg)
+*A Raspberry Pi 4 with an attached RS485 CAN HAT module is being installed in a waterproof enclosure.*
 
 For more details on the charge controller and some of the issues I've observed, please refer to [Appendix 3](#lumiax-observations).
 
-### Energy use, cost savings, and environmental impact
+## Energy use, cost savings, and environmental impact
 
 When I started this solar-powered website project, I wasn't trying to revolutionize sustainable computing or drastically cut my electricity bill. I was driven by curiosity, a desire to have fun, and a hope that my journey might inspire others to explore local-first or solar-powered hosting.
 
@@ -126,7 +134,7 @@ But the optimist in me sees it differently. When you compare my solar-powered se
 
 Lastly, it's also important to remember that solar power isn't just about saving money or cutting emissions. In remote areas without grid access or during disaster relief, solar can be the only way to keep communication systems running. In a crisis, a small solar setup could make the difference between isolation and staying connected to essential information and support.
 
-### Why do so many websites need to stay up?
+## Why do so many websites need to stay up?
 
 The reason the energy savings from my solar-powered setup won't offset the equipment costs is that the system is intentionally oversized to keep the website running during extended low-light periods. Once the battery reaches full capacity, any excess energy goes to waste. That is unfortunate as that surplus could be used, and using it would help offset more of the hardware costs.
 
@@ -141,7 +149,8 @@ And maybe that is the real takeaway from this experiment so far: to question why
 Perhaps the best way to make the web more sustainable is to accept more downtime for those websites that aren't critical. By embracing occasional downtime and intentionally under-provisioning non-essential websites, we can make the web a greener, more efficient place.
 
 <div class="large">
-  [image blog/mounted-solar-panel]
+  ![A solar panel and battery mounted securely on a roof deck railing.](http://default/files/cache/blog/mounted-solar-panel-640w.jpg)
+*The solar panel and battery mounted on our roof deck.*
 </div>
 
 <h3 id="next-steps">Next steps</h3>
@@ -166,9 +175,9 @@ For example, I plan to expand this single-page site into one with hundreds or ev
 
 Either way, it looks like I'll have some fun ahead. I can explore these ideas from my office while the Raspberry Pi Zero 2 W continues running on the roof deck. I'm open to suggestions and happy to share notes with others interested in similar projects. If you'd like to stay updated on my progress, you can [sign up to receive new posts by email](https://dri.es/subscribe) or [subscribe via RSS](https://dri.es/rss.xml). Feel free to email me at <dries@buytaert.net>. Your ideas, input, and curiosity are always welcome.
 
-### Appendix
+## Appendix
 
-<h4 id="sizing-raspberry-pi-zero-2">Appendix 1: Sizing a solar panel and battery for a Raspberry Pi Zero 2 W</h4>
+<h3 id="sizing-raspberry-pi-zero-2">Appendix 1: Sizing a solar panel and battery for a Raspberry Pi Zero 2 W</h3>
 
 To keep the Raspberry Pi Zero 2 W running in various weather conditions, we need to estimate the ideal solar panel and battery size. We'll base this on factors like power consumption, available sunlight, and desired uptime.
 
@@ -184,7 +193,7 @@ Now, let's look at battery sizing. As explained, I have an 18Ah battery, which p
 
 These estimates suggest that I could halve both my 50W solar panel and 18Ah battery to a 25W panel and a 9Ah battery, and still meet the Raspberry Pi Zero 2 W's power needs during Boston winters. However, I chose the 50W panel and larger battery for flexibility, in case I need to upgrade to a more powerful board with higher energy requirements.
 
-<h4 id="sizing-raspberry-pi-4">Appendix 2: Sizing a solar panel and battery for a Raspberry Pi 4</h4>
+<h3 id="sizing-raspberry-pi-4">Appendix 2: Sizing a solar panel and battery for a Raspberry Pi 4</h3>
 
 If I need to switch to a Raspberry Pi 4 to handle increased website traffic, the power requirements will rise significantly. The Raspberry Pi 4 consumes around 3.4W at idle and up to 7.6W under load. For estimation purposes, I'll assume an average consumption of 4.5W, which totals 108Wh per day (4.5W \* 24 hours = 108Wh).
 
@@ -196,7 +205,7 @@ For example, with an average power draw of 4.5W, the Raspberry Pi 4 requires 108
 
 To ensure reliable operation, a 100W solar panel, capable of generating enough power with just 2 hours of winter sunlight, paired with a 35Ah battery providing 420Wh, could be better. This setup, roughly double my current capacity, would offer sufficient backup to keep the Raspberry Pi 4 running for 3-4 days without sunlight.
 
-<h4 id="lumiax-observations">Appendix 3: Observations on the Lumiax charge controller</h4>
+<h3 id="lumiax-observations">Appendix 3: Observations on the Lumiax charge controller</h3>
 
 As I mentioned earlier, my battery has a built-in charge controller. The brand of the controller is [Lumiax](https://www.lumiax.com/), and I can access its data programmatically. While the controller excels at managing charging, its metering capabilities feel less robust. Here are a few observations:
 
@@ -208,7 +217,7 @@ As I mentioned earlier, my battery has a built-in charge controller. The brand o
 3. The charge controller has two temperature sensors: one for the environment and one for the controller itself. However, the controller's temperature readings often seem inaccurate. For example, while the environment temperature might correctly register at 24°C, the controller could display a reading as low as 14°C. This seems questionable though there might be an explanation that I'm overlooking.
 4. The battery's charge and discharge patterns are non-linear, meaning the charge level may drop rapidly at first, then stay steady for hours. For example, I've seen it drop from 100% to 65% within an hour but remain at 65% for over six hours. This is common for LFP batteries due to their voltage characteristics. Some advanced charge controllers use look-up tables, algorithms, or coulomb counting to more accurately predict the state of charge based on the battery type and usage patterns. The Lumiax doesn't support this, but I might be able to implement coulomb counting myself by tracking the current flow to improve charge level estimates.
 
-#### Appendix 4: When size matters (but it's best not to mention it)
+### Appendix 4: When size matters (but it's best not to mention it)
 
 When buying a solar panel, sometimes it's easier to beg for forgiveness than to ask for permission.
 

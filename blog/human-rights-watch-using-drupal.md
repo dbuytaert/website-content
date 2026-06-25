@@ -23,4 +23,4 @@ Human Rights Watch is a well-known international organization that advocates fre
 
 They built a stunning Drupal site available in multiple languages. The idealist in me is touched by the strong design and photography, as well as the fact that Drupal helps improve the world a bit. *Awesome!*
 
-[image drupal/human-rights-watch]
+![Human Rights Watch webpage displaying reports, news, and donation options to support global human rights and justice efforts.](http://default/files/cache/drupal/human-rights-watch-640w.jpg)

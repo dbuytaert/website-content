@@ -22,6 +22,6 @@ The Linotype is a "line casting" machine used in printing. It was invented in th
 
 When confronted with the Linotype in Le Figaro's lobby, I felt a sudden sense of admiration and respect for how it looked, and for how it has contributed to both my personal and professional life. It is well known that geeks can get a bit emotional about machines, I guess ...
 
-[image paris-2010/linotype-1]
-[image paris-2010/linotype-2]
-[image paris-2010/linotype-3]
+![Close-up of an old Linotype machine with a keyboard and mechanical components used for typesetting in printing.](http://default/files/cache/paris-2010/linotype-1-640w.jpg)
+![Close-up of a Linotype machine nameplate, showing model and manufacturing details on the metal surface.](http://default/files/cache/paris-2010/linotype-2-640w.jpg)
+![Close-up of an old Linotype machine with gears, levers, and rollers used for typesetting in printing.](http://default/files/cache/paris-2010/linotype-3-640w.jpg)

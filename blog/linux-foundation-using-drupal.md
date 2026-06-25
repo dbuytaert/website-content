@@ -21,6 +21,6 @@ In 1996, Linux kernel development is what first attracted me to Open Source, and
 
 Last month at the [Open Source Business Conference](https://dri.es/osbc-wrapup-2009) in San Francisco, I met Mike Woster, Director of Business Development at the [Linux Foundation](http://www.linuxfoundation.org), the non-profit consortium dedicated to fostering the growth of Linux. Turns out they are avid users of [Drupal](https://www.drupal.org).
 
-In 2008, they switched the [Linux Developer Network](http://ldn.linuxfoundation.org/) to Drupal, earlier this year they launched a [video site](http://video.linuxfoundation.org/) on Drupal, and most recently, [LinuxFoundation.org](http://linuxfoundation.org) itself switched to Drupal! And rumor has it [there might be more to come](https://www.linuxfoundation.org/weblogs/press/2009/03/03/linux-foundation-to-build-new-linuxcom-community/) ...
+In 2008, they switched the [Linux Developer Network](http://ldn.linuxfoundation.org/) to Drupal, earlier this year they launched a https://www.youtube.com/watch?v=site(http://video.linuxfoundation.org/) on Drupal, and most recently, [LinuxFoundation.org](http://linuxfoundation.org) itself switched to Drupal! And rumor has it [there might be more to come](https://www.linuxfoundation.org/weblogs/press/2009/03/03/linux-foundation-to-build-new-linuxcom-community/) ...
 
-[image drupal/linux-foundation]
+![A man in a Linux Foundation shirt smiles and holds up a key, promoting LinuxCon 2009 on a website.](http://default/files/cache/drupal/linux-foundation-640w.jpg)

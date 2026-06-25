@@ -18,7 +18,9 @@ id: 604
 
 # Carnaval
 
-[image carnaval-2009/carnaval-4]
-[image carnaval-2009/carnaval-10]
+![Person dressed as a pirate with a red plaid hat, fake eye patch, and toy parrot on their shoulder.](http://default/files/cache/carnaval-2009/carnaval-10-640w.jpg)
+
+![Person dressed as a clown with face paint, a red nose, and a green plush hat, smiling at the camera.](http://default/files/cache/carnaval-2009/carnaval-4-640w.jpg)
+![Person dressed as a pirate with a red plaid hat, fake eye patch, and toy parrot on their shoulder.](http://default/files/cache/carnaval-2009/carnaval-10-640w.jpg)
 
 More pictures in the [carnaval 2009 photo album](https://dri.es/album/carnaval-2009/). *Arr!*

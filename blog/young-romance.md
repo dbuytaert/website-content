@@ -17,6 +17,6 @@ id: 2531
 
 # Young romance
 
-[image birthday-nika-2011/young-romance-1]
-[image birthday-nika-2011/young-romance-2]
-[image birthday-nika-2011/young-romance-3]
+![A young girl in a blue dress and a boy in an orange shirt sit together by the water.](http://default/files/cache/birthday-nika-2011/young-romance-1-640w.jpg)
+![A young girl in a blue dress and a boy in an orange shirt sit by the water together.](http://default/files/cache/birthday-nika-2011/young-romance-2-640w.jpg)
+![A young girl and boy sit on the ground near the water, looking down and interacting quietly.](http://default/files/cache/birthday-nika-2011/young-romance-3-640w.jpg)

@@ -16,4 +16,6 @@ id: 167
 
 # Tractor
 
+![Close-up of an old, damaged tractor with a bent hood and broken front grille, parked outdoors.](http://default/files/cache/miscellaneous-2006/tractor-640w.jpg)
+
 

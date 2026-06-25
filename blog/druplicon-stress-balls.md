@@ -18,4 +18,6 @@ id: 1011
 
 # Druplicon stress balls
 
+![Two blue Druplicon stress balls with smiling faces, placed side by side against a dark background.](http://default/files/cache/drupal/druplicon-stress-balls-640w.jpg)
+
 

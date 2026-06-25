@@ -24,6 +24,8 @@ id: 5856
 
 # Funding Open Source like public infrastructure
 
+![An illustration of a small wedge propping up a massive block, symbolizing how a small group of contributors supports critical infrastructure.](http://default/files/cache/blog/funding-open-source-like-public-infrastructure-640w.jpg)
+
 Fifteen years ago, I laid out a theory about the future of Open Source. In [*The Commercialization of a Volunteer-Driven Open Source Project*](https://dri.es/the-commercialization-of-a-volunteer-driven-open-source-project), I argued that if Open Source was going to thrive, people had to get paid to work on it. At the time, the idea was controversial. Many feared money would corrupt the spirit of volunteerism and change the nature of Open Source contribution.
 
 In that same post, I actually went beyond discussing the case for commercial sponsorship and outlined a broader pattern I believed Open Source would follow. I suggested it would develop in three stages: (1) starting with volunteers, then (2) expanding to include commercial involvement and sponsorship, and finally (3) gaining government support.
@@ -36,7 +38,7 @@ Today, Open Source runs much of the world's critical infrastructure. It powers g
 
 Public funding would complement the role of volunteers and commercial sponsors, not replace them. This is not charity or a waste of tax money. It is an investment in the software that runs our essential services. Without it, we leave critical infrastructure fragile at the moment the world needs it most.
 
-### The $8.8 trillion dependency
+## The $8.8 trillion dependency
 
 A 2024 Harvard Business School study, [*The Value of Open Source Software*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148), estimates that replacing the most widely used Open Source software would cost the world $8.8 trillion. If Open Source suddenly disappeared, organizations would have to spend 3.5 times more on software than they do today. Even more striking: 96% of that $8.8 trillion depends on just 5% of contributors.
 
@@ -46,7 +48,7 @@ Maintaining Open Source is not free. It takes developers to fix bugs, maintainer
 
 Addressing this risk means rethinking not just funding, but also governance, succession planning, and how we support the people and projects that keep our society running.
 
-### When digital sovereignty becomes survival
+## When digital sovereignty becomes survival
 
 Recent geopolitical tensions and policy unpredictability have made governments more aware of the risks of relying on foreign-controlled, proprietary software. Around the world, there is growing recognition that they cannot afford to lose control over their digital infrastructure.
 
@@ -56,7 +58,7 @@ This reflects a simple reality: when critical public services depend on foreign-
 
 As [Denmark's Ministry for Digitalisation explained](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/denmark-embraces-open-source-software), this shift is about control, accountability, and resilience, not just cost savings. Other European cities and countries are developing similar strategies. This is no longer just an IT decision, but a strategic necessity for protecting national security and guaranteeing the continuity of essential public services.
 
-### From Open Source consumption to contribution
+## From Open Source consumption to contribution
 
 Most government institutions rely heavily on Open Source but contribute little in return. Sponsorship usually flows through vendor contracts, and while some vendors contribute upstream, the overall level of support is small compared to how much these institutions depend on said projects.
 
@@ -66,7 +68,7 @@ As I discussed in [*Balancing makers and takers to scale and sustain Open Source
 
 Governments need to shift from Open Source consumption to Open Source contribution. The digital infrastructure that powers government services demands the same investment commitment as the roads and bridges that connect our communities.
 
-### Drupal tells the story
+## Drupal tells the story
 
 I have helped lead [Drupal](https://www.drupal.org/) for almost 25 years, and in that time I have seen how deeply governments depend on Open Source. 
 
@@ -76,7 +78,7 @@ This is not just a Drupal problem, and it is entirely within the rights of Open 
 
 <p class="pullquote">Many public institutions use Open Source without contributing to its upkeep. While this is legal, it shifts all maintenance costs onto a small group of contributors. Over time, that risks the services those institutions depend on. Better procurement and policy choices could help turn more public institutions into active contributors.</p>
 
-### The rise of government stewardship
+## The rise of government stewardship
 
 I am certainly not the only one calling for government involvement in Open Source infrastructure. In recent years, national governments and intergovernmental bodies, including the United Nations, have begun increasing investment in Open Source.
 
@@ -88,7 +90,7 @@ Governments and public institutions are also creating Open Source Program Office
 
 These efforts signal a shift from simply using Open Source to actively stewarding and investing in it at the institutional level.
 
-### The math borders on absurd
+## The math borders on absurd
 
 If the top 100 countries each contributed $200,000 a year to an Open Source project, the project would have a twenty million dollar annual budget. That is about what it costs to maintain less than ten miles of highway.
 
@@ -96,7 +98,7 @@ In my home country, Belgium, which has just over ten million people, more than o
 
 <p class="pullquote">For the cost of maintaining 10 miles of highway, we could secure the future of several critical Open Source projects that power essential public services. The math borders on absurd.</p>
 
-### How governments can help
+## How governments can help
 
 Just as governments maintain roads, bridges and utilities that society depends on, they should also help sustain the Open Source projects that power essential services, digitally and otherwise. The scale of investment needed is modest compared to other public infrastructure.
 
@@ -116,7 +118,7 @@ Governments could implement this through several approaches:
 
 - **Teach Open Source in public schools and universities.** Instead of relying solely on proprietary vendors like Microsoft, governments should integrate Open Source tools, practices, and values into school and university curricula, along with related areas such as open standards and open data. This prepares students to participate fully in Open Source, builds a talent pipeline that understands Open Source, and strengthens digital self-reliance.
 
-### Keeping the core strong
+## Keeping the core strong
 
 Concerns about political interference or loss of independence are valid. That is why we need systems that allow all stakeholders to coexist without undermining each other.
 
@@ -126,7 +128,7 @@ The most critical tasks in Open Source are often the least glamorous. Fixing bug
 
 Governments already maintain roads, bridges, and utilities, infrastructure that is essential but not always profitable or exciting for the private sector. Digital infrastructure deserves the same treatment. Public investment can keep these core systems healthy, while innovation and feature direction remain in the hands of the communities and companies that know the technology best.
 
-### Conclusion
+## Conclusion
 
 Fifteen years ago, I argued that Open Source needed commercial sponsorship to thrive. Now we face the next challenge: governments must shift from consuming Open Source to sustaining it. 
 

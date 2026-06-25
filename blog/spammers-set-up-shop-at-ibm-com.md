@@ -19,6 +19,6 @@ In this post we show one way spammers operate, using organizations like IBM to s
 
 While IBM is not using [Mollom](https://mollom.com) (maybe they should?), many of the targeted blogs and community websites are, which is how we discovered this problem. Watch [the video below](https://www.youtube.com/watch?v=TD_uCj1jR28) for more details. This problem is not specific to IBM. We found hundreds of similar spam pages on Google Sites, Yahoo, Amazon.com, Wordpress.com, Ning, Tripod.com, Xanga.com and more.
 
-[video TD_uCj1jR28]
+https://www.youtube.com/watch?v=TD_uCj1jR28
 
 I recorded this video last week, and notified IBM about the existence of these spam pages several days ago. We're happy to help IBM fix this problem.

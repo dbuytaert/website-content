@@ -20,9 +20,12 @@ id: 5586
 
 # Building my own temperature and humidity monitor
 
+![An ESP32-S3 development board is linked to an SHT41 temperature and humidity sensor and powered by a battery pack. For scale, a 2 Euro coin is included. The SHT41 sensor is roughly equivalent in size to the coin, and the ESP32-S3 board is about twice the coin's diameter.](http://default/files/cache/blog/esp32-s3-with-sht41-640w.jpg)
+
 Last fall, we toured the Champagne region in France, famous for its sparkling wines. We explored the ancient, underground cellars where Champagne undergoes its magical transformation from grape juice to sparkling wine. These cellars, often 30 meters deep and kilometers long, maintain a constant temperature of around 10-12°C, providing the perfect conditions for aging and storing Champagne.
 
-[image miscellaneous-2023/champagne-tunnel]
+![A glowing light bulb hanging in an underground tunnel.](http://default/files/cache/miscellaneous-2023/champagne-tunnel-640w.jpg)
+*25 meters underground in a champagne tunnel, which often stretches for miles/kilometers.*
 
 After sampling various Champagnes, we returned home with eight cases to store in our home's basement. However, unlike those deep cellars, our basement is just a few meters deep, prompting a simple question that sent me down a rabbit hole: how does our basement's temperature compare?
 
@@ -32,13 +35,14 @@ The basic idea is this: track the temperature and humidity of our basement every
 
 I launched this monitoring system around Christmas last year, so it's been running for nearly three months now. You can view the live temperature and historical data trends at <https://dri.es/sensors>. Yes, publishing our basement's temperature online is a bit quirky, but it's all in good fun.
 
-[image blog/temperature-monitor]
+![A webpage displaying temperature and humidity readings for a basement in Belgium.](http://default/files/cache/blog/temperature-monitor-640w.png)
+*A screenshot of <a href="https://dri.es/sensors/3ce1d">my basement temperature dashboard</a>.*
 
 So far, [the temperature in our basement](https://dri.es/sensors/basement-belgium) has been ideal for storing wine. However, I expect it will change during the summer months.
 
 In the rest of this blog post, I'll share how I built the client that collects and sends the data, as well as the web service backend that processes and visualizes that data.
 
-### Hardware used
+## Hardware used
 
 For this project, I bought:
 
@@ -50,10 +54,11 @@ For this project, I bought:
 The total hardware cost was $32.35 USD. I like [Adafruit](https://www.adafruit.com/) a lot, but it's worth noting that their products often come at a higher cost. You can find comparable hardware for as little as $10-15 elsewhere. Adafruit's premium cost is understandable, considering how much valuable content they create for the maker community.
 
 <div class="large">
-  [image blog/esp32-s3-with-sht41]
+  ![An ESP32-S3 development board is linked to an SHT41 temperature and humidity sensor and powered by a battery pack. For scale, a 2 Euro coin is included. The SHT41 sensor is roughly equivalent in size to the coin, and the ESP32-S3 board is about twice the coin's diameter.](http://default/files/cache/blog/esp32-s3-with-sht41-640w.jpg)
+*An ESP32-S3 development board \(middle\) linked to a Sensirion SHT41 temperature and humidity sensor \(left\) and powered by a battery pack \(right\).*
 </div>
 
-### Client code for Adafruit ESP32-S3 Feather
+## Client code for Adafruit ESP32-S3 Feather
 
 I developed the client code for the Adafruit ESP32-S3 Feather using the [Arduino IDE](https://www.arduino.cc/en/software), a widely used platform for developing and uploading code to Arduino-compatible boards.
 
@@ -218,7 +223,7 @@ void loop() {
 }
 ```
 
-### Further optimizing battery usage
+## Further optimizing battery usage
 
 When I launched my thermometer around Christmas 2023, the battery was at 88%. Today, it is at 52%. Some quick math suggests it's using approximately 12% of its battery per month. Given its current rate of usage, it needs recharging about every 8 months.
 
@@ -226,7 +231,7 @@ Connecting to the WiFi and sending data are by far the main power drains. To ext
 
 Alternatively, I could hook the microcontroller up to a 5V power adapter, but where is the fun in that? It goes against the project's "more *is* more" principle.
 
-### Handling web service requests
+## Handling web service requests
 
 With the client code running on the ESP32-S3 and sending sensor data to `https://dri.es/sensors`, the next step is to set up a web service endpoint to receive this incoming data.
 
@@ -276,7 +281,7 @@ $ curl -X POST -H "Content-Type: application/json" -d '{"device":"0xdb123", "tem
 
 While cURL is great for quick tests, I use [PHPUnit tests](https://dri.es/phpunit-tests-for-drupal) for automated testing in [my CI/CD workflow](https://dri.es/my-drupal-deployment-workflow). This ensures that everything keeps working, even when upgrading Drupal, Symfony, or other components of my stack.
 
-### Storing sensor data in a database
+## Storing sensor data in a database
 
 The primary purpose of `$device->recordSensorEvent()` in `SensorMonitorController::postSensorData()` is to store sensor data into a SQL database. So, let's delve into the database design.
 
@@ -372,13 +377,13 @@ SET min_value = LEAST(min_value, 21),
 WHERE device = '0xdb123' AND sensor = 'temperature' AND date = '2024-01-01';
 ```
 
-### Generating graphs
+## Generating graphs
 
 With the data securely stored in the database, the next step involved generating the graphs. To accomplish this, I wrote some custom PHP code that generates Scalable Vector Graphics (SVGs).
 
 Given that is blog post is already quite long, I'll spare you the details. For now, those curious can use the 'View source' feature in their web browser to examine the SVGs on the [thermometer page](https://dri.es/sensors/basement-belgium).
 
-### Conclusion
+## Conclusion
 
 It's fun how a visit to the Champagne cellars in France sparked an unexpected project. Choosing to build a thermometer rather than buying one allowed me to dive back into an old passion for hardware and low-level software.
 

@@ -20,4 +20,4 @@ id: 2356
 
 With the help of Swedish Drupal consultancy [NodeOne](http://nodeone.se) and the ad agency [Futurniture](http://www.futurniture.se), one of the company's websites, <http://livethemma.ikea.se/play>, is now on [Drupal](https://www.drupal.org). This video-rich site makes heavy use of [Apache Solr](https://www.drupal.org/project/apachesolr) and [Panels Everywhere](https://www.drupal.org/project/panels_everywhere); the theme is based on [Precision](https://www.drupal.org/project/precision), while [Varnish](http://varnish-cache.org/) and [Memcached](http://memcached.org/) speeds everything up.
 
-[image drupal/ikea]
+![A webpage from IKEA's "Livet Hemma" features a black-and-white video thumbnail of a woman with curly hair.](http://default/files/cache/drupal/ikea-640w.jpg)

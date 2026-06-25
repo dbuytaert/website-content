@@ -15,4 +15,4 @@ id: 931
 
 # Social media revolution
 
-[video sIFYPQjYhv8]
+https://www.youtube.com/watch?v=sIFYPQjYhv8

@@ -23,4 +23,4 @@ The [United Nations](https://en.wikipedia.org/wiki/United_Nations) is using [Dru
 
 It is a stunning Drupal 6 website built by [Phase2 Technology](http://phase2technology.com) and [Development Seed](http://www.developmentseed.org). *Awesome!*
 
-[image drupal/world-food-programme]
+![A person distributes bottled water to a crowd of raised hands, highlighting food and water scarcity issues.](http://default/files/cache/drupal/world-food-programme-640w.jpg)

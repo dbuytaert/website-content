@@ -18,9 +18,11 @@ id: 4586
 
 # How we are improving Drupal's configuration management system
 
+![Configuraton management initiative](http://default/files/cache/drupal/configuraton-management-initiative-640w.jpg)
+
 Configuration management is an important feature of any modern content management system. Those following modern development best-practices use a development workflow that involves some sort of development and staging environment that is separate from the production environment.
 
-[image drupal/configuration-management-example-1]
+![A diagram showing a configuration workflow moving from development \(dev\) to staging \(stage\) to production \(prod\) with arrows.](http://default/files/cache/drupal/configuration-management-example-1-640w.jpg)
 
 Given such a development workflow, you need to push configuration changes from development to production (similar to how you need to push code or content between environments). Drupal's configuration management system helps you do that in a powerful yet elegant way.
 
@@ -31,14 +33,15 @@ All configuration in a Drupal 8 site – from one-off settings such as site name
 However, now that we have a couple of years of building Drupal 8 sites behind us, various limitations have surfaced. While these limitations usually have solutions via contributed modules, it has become clear that we would benefit from extending Drupal core's built-in configuration management APIs. This way, we can establish best practices and standard approaches that work for all.
 
 <div class="large">
-  [image drupal/configuraton-management-initiative resize=false]
+  ![Configuraton management initiative](http://default/files/cache/drupal/configuraton-management-initiative-640w.jpg)
+*The four different focus areas for Drupal 8. The configuration management initiative is part of the 'Improve Drupal for developers' track.*
 </div>
 
 I first talked about this need in [my DrupalCon Nashville keynote](https://dri.es/state-of-drupal-presentation-april-2018), where I announced the Configuration Management 2.0 initiative. The goal of this initiative is to extend Drupal's built-in configuration management so we can support more common workflows out-of-the-box without the need of contributed modules.
 
 What is an example workflow that is not currently supported out-of-the-box? Support for different configurations by environment. This is a valuable use case because some settings are undesirable to have enabled in all environments. For example, you most likely don't want to enable debugging tools in production.
 
-[image drupal/configuration-management-example-3]
+![Diagram showing bugs in development and staging phases, but removed before reaching production.](http://default/files/cache/drupal/configuration-management-example-3-640w.jpg)
 
 The contributed module [Config Filter](https://www.drupal.org/project/config_filter) extends Drupal core's built-in configuration management capabilities by providing an API to support different workflows which filter out or transform certain configuration changes as they are being pushed to production. [Config Split](https://www.drupal.org/project/config_split), another contributed module, builds on top of Config Filter to allow for differences in configuration between various environments.
 
@@ -50,7 +53,7 @@ While the initiative team is working on executing on these long-term improvement
 - For Drupal 8.7, we're planning on shipping an experimental module for dealing with environment specific configuration, moving the capabilities of Config Filter and the basic capabilities of Config Split to Drupal core through the [addition of a Configuration Transformer API](https://www.drupal.org/project/drupal/issues/2991683).
 - For Drupal 8.8, the focus is on supporting configuration updates across different sites. We want to allow both sites and distributions to package configuration (similar to the well-known [Features module](https://www.drupal.org/project/features)) so they can easily be deployed across other sites.
 
-### How to get involved
+## How to get involved
 
 There are many opportunities to contribute to this initiative and we'd love your help.
 

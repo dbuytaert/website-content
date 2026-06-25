@@ -16,10 +16,12 @@ id: 487
 
 # Just married
 
+![Bride and groom stand close together, smiling at the camera during their wedding celebration with guests in the background.](http://default/files/cache/wedding-gabor-and-zsuzsi-2008/wedding-5-640w.jpg)
+
 I've been working with [Gábor Hojtsy](http://hojtsy.hu/) for almost 5 years. First as a contributor to [Drupal](https://www.drupal.org/), next as [my Drupal 6 co-maintainer](https://dri.es/gabor-hojtsy), and more recently as a co-worker at [Acquia](https://www.acquia.com/). Yesterday, Gábor got married with Zsuzsi, so needless to say, a number of us traveled to Hungary to attend his wedding.
 
-[image wedding-gabor-and-zsuzsi-2008/wedding-5]
-[image wedding-gabor-and-zsuzsi-2008/wedding-4]
+![Bride and groom stand close together, smiling at the camera during their wedding celebration with guests in the background.](http://default/files/cache/wedding-gabor-and-zsuzsi-2008/wedding-5-640w.jpg)
+![The bride and groom stand outdoors with three men in suits, smiling for a wedding photo.](http://default/files/cache/wedding-gabor-and-zsuzsi-2008/wedding-4-640w.jpg)
 
 More pictures are available in [my photo gallery](https://dri.es/album/wedding-gabor-and-zsuzsi-2008/).
 
