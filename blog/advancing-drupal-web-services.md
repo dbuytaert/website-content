@@ -12,12 +12,13 @@ tags:
   - Drupal
   - 'Web services'
 published: true
+featured: true
 id: 3706
 ---
 
 # Advancing Drupal's web services
 
-In [an earlier blog post](https://dri.es/an-overview-of-web-service-solutions-in-drupal-8), I looked at the web services solutions available in Drupal 8 and compared their strengths and weaknesses. That blog post was intended to help developers choose between different solutions when building Drupal 8 sites. In this blog post, I want to talk about how to advance Drupal's web services beyond Drupal 8.1 for the benefit of Drupal core contributors, module creators and technical decision-makers.
+In [an earlier blog post](https://dri.es/an-overview-of-web-service-solutions-in-drupal-8), I looked at the web services solutions available in Drupal 8 and compared their strengths and weaknesses. That blog post was intended to help developers choose between different solutions when building Drupal 8 sites. In this blog post, I want to talk about how to advance Drupal's web services beyond Drupal 8.1 for the benefit of Drupal Core contributors, module creators and technical decision-makers.
 
 I believe it is really important to continue advancing Drupal's web services support. There are powerful market trends that oblige us to keep focused on this: integration with [diverse systems having their own APIs](https://dri.es/cross-channel-user-experiences-with-drupal), the proliferation of new devices, the expanding Internet of Things (IoT), and [the widening adoption of JavaScript frameworks](https://dri.es/a-history-of-javascript-across-the-stack). All of these depend to some degree on robust web services.
 
@@ -31,91 +32,77 @@ While core REST can be enabled with only a few configuration changes, the full e
 
 Having such disparate REST modules complicates the experience. These REST modules have overlapping or conflicting feature sets, which are shown in the following table.
 
-<table>
-  <tbody>
-   <tr>
-    <th>Feature</th>
-    <th style="width: 16%">Core REST</th>
-    <th style="width: 16%">RELAXed</th>
-    <th style="width: 16%">Services</th>
-    <th style="width: 16%">Ideal core REST</th>
-  </tr>
-   <tr>
-    <td>Content entity CRUD</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>
-      <strong>Yes</strong>
-   </td>
-  </tr>
-   <tr>
-    <td>Configuration entity CRUD</td>
-    <td>Create resource plugin (<a href="https://www.drupal.org/node/2300677">issue</a>)</td>
-    <td>Create resource plugin</td>
-    <td>Yes</td>
-    <td>
-      <strong>Yes</strong>
-   </td>
-  </tr>
-   <tr>
-    <td>Custom resources</td>
-    <td>Create resource plugin</td>
-    <td>Create resource plugin</td>
-    <td>Create Services plugin</td>
-    <td>
-      <strong>Possible without code</strong>
-   </td>
-  </tr>
-   <tr>
-    <td>Custom routes</td>
-    <td>Create resource plugin or Views REST export (GET)</td>
-    <td>Create resource plugin</td>
-    <td>Configurable route prefixes</td>
-    <td>
-      <strong>Possible without code</strong>
-   </td>
-  </tr>
-   <tr>
-    <td>Translations</td>
-    <td>Not yet (<a href="https://www.drupal.org/node/2135829">issue</a>)</td>
-    <td>Yes</td>
-    <td>Create Services plugin</td>
-    <td>
-      <strong>Yes</strong>
-   </td>
-  </tr>
-   <tr>
-    <td>Revisions</td>
-    <td>Create resource plugin</td>
-    <td>Yes</td>
-    <td>Create Services plugin</td>
-    <td>
-      <strong>Yes</strong>
-   </td>
-  </tr>
-   <tr>
-    <td>File attachments</td>
-    <td>Create resource plugin</td>
-    <td>Yes</td>
-    <td>Create Services plugin</td>
-    <td>
-      <strong>Yes</strong>
-   </td>
-  </tr>
-   <tr>
-    <td>Authenticated user resources (log in/out, password reset)</td>
-    <td>Not yet (<a href="https://www.drupal.org/node/2403307">issue</a>)</td>
-    <td>No</td>
-    <td>User login and logout</td>
-    <td>
-      <strong>Yes</strong>
-   </td>
-  </tr>
- </tbody>
-</table>
+<div class="large">
+  <table>
+   <tbody>
+    <tr>
+      <th>Feature</th>
+      <th style="width: 16%">Core REST</th>
+      <th style="width: 16%">RELAXed</th>
+      <th style="width: 16%">Services</th>
+      <th style="width: 16%">Ideal core REST</th>
+   </tr>
+    <tr>
+      <td>Content entity CRUD</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td><strong>Yes</strong></td>
+   </tr>
+    <tr>
+      <td>Configuration entity CRUD</td>
+      <td>Create resource plugin (<a href="https://www.drupal.org/node/2300677">issue</a>)</td>
+      <td>Create resource plugin</td>
+      <td>Yes</td>
+      <td><strong>Yes</strong></td>
+   </tr>
+    <tr>
+      <td>Custom resources</td>
+      <td>Create resource plugin</td>
+      <td>Create resource plugin</td>
+      <td>Create Services plugin</td>
+      <td><strong>Possible without code</strong></td>
+   </tr>
+    <tr>
+      <td>Custom routes</td>
+      <td>Create resource plugin or Views REST export (GET)</td>
+      <td>Create resource plugin</td>
+      <td>Configurable route prefixes</td>
+      <td><strong>Possible without code</strong></td>
+   </tr>
+    <tr>
+      <td>Translations</td>
+      <td>Not yet (<a href="https://www.drupal.org/node/2135829">issue</a>)</td>
+      <td>Yes</td>
+      <td>Create Services plugin</td>
+      <td><strong>Yes</strong></td>
+   </tr>
+    <tr>
+      <td>Revisions</td>
+      <td>Create resource plugin</td>
+      <td>Yes</td>
+      <td>Create Services plugin</td>
+      <td><strong>Yes</strong></td>
+   </tr>
+    <tr>
+      <td>File attachments</td>
+      <td>Create resource plugin</td>
+      <td>Yes</td>
+      <td>Create Services plugin</td>
+      <td><strong>Yes</strong></td>
+   </tr>
+    <tr>
+      <td>Authenticated user resources (log in/out, password reset)</td>
+      <td>Not yet (<a href="https://www.drupal.org/node/2403307">issue</a>)</td>
+      <td>No</td>
+      <td>User login and logout</td>
+      <td><strong>Yes</strong></td>
+   </tr>
+  </tbody>
+ </table>
+</div>
 
-I would like to see a convergence where all of these can be achieved in Drupal core with minimal configuration and minimal code.
+I would like to see a convergence where all of these can be achieved in Drupal Core with minimal configuration and minimal code.
 
 ## Working with Drupal's entity graph
 
@@ -132,62 +119,57 @@ This entity graph iterator would also enable manipulation of the graph, e.g. for
 
 A good Drupal entity graph iterator would simplify the development of Drupal web service APIs, provide more flexibility over naming and structure, and eliminate duplicate code.
 
-<table>
-  <tbody>
-   <tr>
-    <th>Current core REST (shortened response)</th>
-    <th>Ideal core REST (shortened response)</th>
-  </tr>
-   <tr>
-    <td>
-      <pre>{
-      "nid": [
-      {
+### Current core REST response
+
+```json
+{
+  "nid": [
+    {
       "value": "2"
-      }
-      ],
-      "title": [
-      {
+    }
+  ],
+  "title": [
+    {
       "value": "Lorem ipsum"
-      }
-      ],
-      "field_product_number": [
-      {
+    }
+  ],
+  "field_product_number": [
+    {
       "value": "35"
-      }
-      ],
-      "field_image": [
-      {
+    }
+  ],
+  "field_image": [
+    {
       "target_id": "2",
       "alt": "Image",
       "title": "Hover text",
       "width": "210",
       "height": "281",
       "url": "http://site.com/x.jpg"
-      }
-      ]
-      }</pre>
-   </td>
-    <td>
-      <pre>{
-      "nid": "2"
-      "title": "Lorem ipsum",
-      "product_number": {
-      "value": 35
-      },
-      "image": {
-      "target_id": 2,
-      "alt": "Image",
-      "title": "Hover text",
-      "width": 210,
-      "height": 281,
-      "url": "http://site.com/x.jpg"
-      }
-      }</pre>
-   </td>
-  </tr>
- </tbody>
-</table>
+    }
+  ]
+}
+```
+
+### Ideal core REST response
+
+```json
+{
+  "nid": "2",
+  "title": "Lorem ipsum",
+  "product_number": {
+    "value": 35
+  },
+  "image": {
+    "target_id": 2,
+    "alt": "Image",
+    "title": "Hover text",
+    "width": 210,
+    "height": 281,
+    "url": "http://site.com/x.jpg"
+  }
+}
+```
 
 ## GraphQL and JSON API in core
 

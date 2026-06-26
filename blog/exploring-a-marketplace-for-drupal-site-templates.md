@@ -13,7 +13,7 @@ tags:
   - 'Drupal Association'
 image: drupal/marketplace
 published: true
-featured: false
+featured: true
 id: 5786
 ---
 

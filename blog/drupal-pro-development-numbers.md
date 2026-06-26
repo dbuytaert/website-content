@@ -7,7 +7,6 @@ author:
 date: '2007-10-12T02:37:52-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Drupal Pro Development numbers'
 tags:
   - Drupal
   - 'Drupal books'

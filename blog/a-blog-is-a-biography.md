@@ -15,7 +15,7 @@ image: old-photos-without-date/greet-van-lerberghe-birth
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_a-blog-is-a-biography-activity-7405161766067912705-Ygbn' }
 published: true
-featured: false
+featured: true
 id: 5986
 ---
 

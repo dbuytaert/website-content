@@ -7,7 +7,6 @@ author:
 date: '2008-10-15T16:00:38-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Microsoft ships Drupal'
 tags:
   - Drupal
   - Microsoft

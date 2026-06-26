@@ -13,6 +13,7 @@ tags:
   - 'Headless Drupal'
 image: blog/javascript-powered-multichannel
 published: true
+featured: true
 id: 3681
 ---
 

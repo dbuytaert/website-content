@@ -7,6 +7,7 @@ author:
 date: '2022-05-04T14:29:09-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Drupal is evolving its vision around ambitious site builders: people who bridge no-code tools and custom development to build powerful sites on the Open Web.'
 tags:
   - Drupal
 image: drupalcon-portland-2022/drupal-is-for-ambitious-site-builders

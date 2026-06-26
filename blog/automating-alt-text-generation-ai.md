@@ -18,7 +18,7 @@ tags:
   - Automation
 image: isle-of-skye-2024/journey-to-skye
 published: true
-featured: false
+featured: true
 id: 5761
 ---
 
@@ -30,7 +30,7 @@ Billions of images on the web lack proper `alt`-text, making them inaccessible t
 
 My own website is no exception, so [a few weeks ago](https://dri.es/comparing-local-llms-for-alt-text-generation), I set out to add missing `alt`-text to about 9,000 images on this website.
 
-What seemed like a simple fix became a multi-step challenge. I needed to [evaluate different AI models](https://dri.es/comparing-local-llms-for-alt-text-generation) and [decide between local or cloud processing](https://dri.es/i-want-to-run-ai-locally-here-is-why-i-am-not-yet).
+What seemed like a simple fix became a multi-step challenge. I needed to [evaluate different AI models](https://dri.es/comparing-local-llms-for-alt-text-generation) and [decide between local and cloud processing](https://dri.es/i-want-to-run-ai-locally-here-is-why-i-am-not-yet).
 
 To make the web better, a lot of websites need to add `alt`-text to their images. So I decided to document my progress here on [my blog](https://dri.es/) so others can learn from it – or offer suggestions. This third post dives into the technical details of how I built an automated pipeline to generate `alt`-text at scale.
 
@@ -117,7 +117,7 @@ To automate `alt`-text generation for 9,000 images, I needed programmatic access
 
 Instead of expanding my script with cloud LLM support, I switched to [Simon Willison](https://simonwillison.net/)'s `llm` tool: <https://llm.datasette.io/>. `llm` is a command-line tool and Python library that supports both local and cloud-based models. It takes care of installation, dependencies, API key management, and uploading images. Basically, all the things I didn't want to spend time maintaining myself.
 
-Despite enjoying my PyTorch explorations with vision language models and multimodal encoders, I needed to focus on results. My weekly progress goal meant prioritizing working `alt`-text over building homegrown inference pipelines.
+Despite enjoying my PyTorch explorations with vision-language models and multimodal encoders, I needed to focus on results. My weekly progress goal meant prioritizing working `alt`-text over building homegrown inference pipelines.
 
 I also considered you, my readers. If this project inspires you to make your own website more accessible, you're better off with a script built on a well-maintained tool like `llm` rather than trying to adapt my custom implementation.
 
@@ -163,10 +163,10 @@ Before running the script on all 9,000 images, I added a label to the database t
 - Re-run AI-generated descriptions without overwriting human-written ones
 - Upgrade AI-generated `alt`-text as better models become available
 
-With this approach I can update the AI-generated `alt`-text when ChatGPT 5 is released. And eventually, it might allow me to return to my original principles: to use a high-quality local LLM trained on public domain data. In the mean time, it helps me make the web more accessible today while building toward a better long-term solution tomorrow.
+With this approach I can update the AI-generated `alt`-text when a future ChatGPT model is released. And eventually, it might allow me to return to my original principles: to use a high-quality local LLM trained on public domain data. In the meantime, it helps me make the web more accessible today while building toward a better long-term solution tomorrow.
 
 ## Next steps
 
-Now that the process is automated for a single image, the last step is to run the script on all 9,000. And honestly, it makes me nervous. The perfectionist in me wants to review every single AI-generated `alt`-text, but that is just not feasible. So, I have to trust AI. I'll probably write one more post to share the results and what I learned from this final step.
+Now that the process is automated for a single image, the last step is to run the script on all 9,000. And honestly, it makes me nervous. The perfectionist in me wants to review every single AI-generated `alt`-text, but that is just not feasible. So I have to trust AI. I'll probably write one more post to share the results and what I learned from this final step.
 
 Stay tuned.

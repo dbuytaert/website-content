@@ -7,7 +7,6 @@ author:
 date: '2016-04-25T14:50:20-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Video: Can we save the open web?'
 tags:
   - Drupal
   - Policy

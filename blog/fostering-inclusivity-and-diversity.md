@@ -7,7 +7,6 @@ author:
 date: '2014-07-02T14:16:51-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Fostering inclusivity and diversity'
 tags:
   - Drupal
   - Diversity

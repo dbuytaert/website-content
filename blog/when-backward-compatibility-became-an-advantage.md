@@ -14,7 +14,7 @@ image: drupal/test-coverage-2026
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_when-backward-compatibility-became-an-advantage-activity-7416535178132566016-ro2O' }
 published: true
-featured: false
+featured: true
 id: 6046
 ---
 
@@ -24,17 +24,17 @@ id: 6046
 
 Twenty years ago, I argued passionately that [breaking backward compatibility](https://dri.es/backward-compatibility) was one of Drupal's core values:
 
-> The only viable long-term strategy is to focus exclusively on getting the technology right. The only way to stay competitive is to have the best product. [...] If you start dragging baggage along, your product will, eventually, be replaced by something that offers the same functionality but without the baggage. 
+> The only viable long-term strategy is to focus exclusively on getting the technology right. The only way to stay competitive is to have the best product. [...] If you start dragging baggage along, your product will, eventually, be replaced by something that offers the same functionality but without the baggage.
 
-I warned that preserving backward compatibility would be the beginning of the end: 
+I warned that preserving backward compatibility would be the beginning of the end:
 
-> I fear that this will be the end of Drupal as we have come to know it. Probably not immediately, maybe not even for several years, but eventually Drupal will be surpassed by technology that can respond more quickly to change. 
+> I fear that this will be the end of Drupal as we have come to know it. Probably not immediately, maybe not even for several years, but eventually Drupal will be surpassed by technology that can respond more quickly to change.
 
 Twenty years later, I have to admit I was wrong.
 
-So what changed? 
+So what changed?
 
-In 2006, [Drupal](https://www.drupal.org/) had almost no automated tests. We couldn't commit to backward compatibility because we had no way to know when we broke it. Two years later in 2008, [we embraced test-driven development](https://dri.es/embracing-test-driven-development). 
+In 2006, [Drupal](https://www.drupal.org/) had almost no automated tests. We couldn't commit to backward compatibility because we had no way to know when we broke it. Two years later, in 2008, [we embraced test-driven development](https://dri.es/embracing-test-driven-development).
 
 <div class="large">
 ![Line chart showing Drupal's production code and test code from 2012 to 2026. Test code grows from near zero to over 650,000 lines; production code grows from 90,000 to 300,000 lines.](http://default/files/cache/drupal/test-coverage-2026-640w.png)
@@ -51,9 +51,9 @@ I recently came across [an interview with Richard Hipp](https://sigmodrecord.org
 
 I suspect our test coverage will continue to grow over time. But Drupal can't match SQLite's ratio, and it doesn't need to. What matters is that we built the habits and discipline that work for us.
 
-In 2006, I thought backward compatibility would be the end of Drupal. In 2026, I think it might be what keeps us here for another twenty years. 
+In 2006, I thought backward compatibility would be the end of Drupal. In 2026, I think it might be what keeps us here for another twenty years.
 
-Thank you to everyone who wrote those tests. 
+Thank you to everyone who wrote those tests.
 
 It does make me wonder: what are we wrong about now? What should we be investing in today that will slowly reshape how we work and become an obvious advantage twenty years from now? And who is already saying it while the rest of us aren't listening?
 

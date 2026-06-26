@@ -22,7 +22,7 @@ id: 6121
 
 ![An empty office chair facing several glowing computer monitors, with small glowing fragments floating upward.](http://default/files/cache/blog/machines-reading-web-content-640w.jpg)
 
-In January, I made [every page on my site available as Markdown](https://dri.es/the-third-audience). Immediately AI crawlers quickly found the Markdown versions. I was excited, but excitement isn't data. Now that the dust has settled, I pulled a month of Cloudflare logs and analyzed them.
+In January, I made [every page on my site available as Markdown](https://dri.es/giving-agents-a-markdown-version-of-my-blog). Immediately AI crawlers quickly found the Markdown versions. I was excited, but excitement isn't data. Now that the dust has settled, I pulled a month of Cloudflare logs and analyzed them.
 
 I compared how much AI bots crawl my site to how often AI answer engines link back. For every citation they sent, their crawlers had fetched 1,241 pages. That is a lot of reading for very little traffic in return. It is [the deal AI is offering creators](https://dri.es/the-webs-broken-deal-with-ai-companies) right now, and it is not a good one.
 
@@ -52,7 +52,7 @@ As the table below shows, several AI companies crawl my site. Some fetch thousan
 
 Interestingly, OpenAI runs three bots with different roles. `OAI-SearchBot` indexes content for search, `GPTBot` crawls for training data, and `ChatGPT-User` fetches pages in real time during live ChatGPT sessions.
 
-When I added Markdown support to my site, [I exposed it in two ways](https://dri.es/the-third-audience). The first is through dedicated Markdown URLs: append `.md` to any page and you get the Markdown version. The second is through content negotiation, where the original URL returns Markdown instead of HTML when the request includes an `Accept: text/markdown` header.
+When I added Markdown support to my site, [I exposed it in two ways](https://dri.es/giving-agents-a-markdown-version-of-my-blog). The first is through dedicated Markdown URLs: append `.md` to any page and you get the Markdown version. The second is through content negotiation, where the original URL returns Markdown instead of HTML when the request includes an `Accept: text/markdown` header.
 
 No AI crawler uses content negotiation. Not one. They only discover the Markdown pages through the dedicated URLs, and only via the auto-discovery link.  To be fair, the auto-discovery link points to the `.md` version.
 

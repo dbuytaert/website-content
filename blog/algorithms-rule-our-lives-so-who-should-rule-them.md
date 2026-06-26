@@ -12,6 +12,7 @@ tags:
   - Policy
   - Government
 published: true
+featured: true
 id: 3516
 ---
 
@@ -19,19 +20,20 @@ id: 3516
 
 Volkswagen's recent [emissions scandal](https://www.nytimes.com/2015/09/24/opinion/volkswagen-and-the-era-of-cheating-software.html) highlighted the power that algorithms wield over our everyday lives. As technology advances and more everyday objects are driven almost entirely by software, it's become clear that we need a better way to catch cheating software and keep people safe.
 
-A solution could be to model regulation of the software industry after the [US Food and Drug Administration](https://www.fda.gov/)'s oversight of the food and drug industry. The parallels are closer than you might think.
+A solution could be to model regulation of the software industry after the oversight model of the [US Food and Drug Administration](https://www.fda.gov/) for the food and drug industry. The parallels are closer than you might think.
 
 ## The case for tighter regulation
 
-When Volkswagen was exposed for programming its emissions-control software to fool environmental regulators, many people called for more transparency and oversight over the technology.
+When Volkswagen was exposed for programming its emissions-control software to fool environmental regulators, many people called for more transparency and oversight of the technology.
 
-One option discussed by the software community was to [open-source the code](https://www.schneier.com/blog/archives/2015/09/volkswagen_and_.html) behind these testing algorithms. This would be a welcome step forward, as it would let people audit the source code and see how the code is changed over time. But this step alone would not solve the problem of cheating software. After all, there is no guarantee that Volkswagen would actually use the unmodified open-sourced code.
+One option discussed by the software community was to [open-source the code](https://www.schneier.com/blog/archives/2015/09/volkswagen_and_.html) behind these testing algorithms. This would be a welcome step forward, as it would let people audit the source code and see how the code changes over time. But this step alone would not solve the problem of cheating software. After all, there is no guarantee that Volkswagen would actually use the unmodified Open Source code.
+
 
 Open-sourcing code would also fail to address other potential dangers. [Politico reported](https://www.politico.com/magazine/story/2015/08/how-google-could-rig-the-2016-election-121548) earlier this year that Google's algorithms could [influence the outcomes of presidential elections](https://www.politico.com/magazine/story/2015/08/how-google-could-rig-the-2016-election-121548), since some candidates could be featured more prominently in its search results.
 
-Research by the [American Institute for Behavioral Research and Technology](http://aibrt.org/) has also shown that Google search results could shift voting preferences by 20% or more (up to 80% in certain demographic groups). This could potentially flip the margins of voting elections worldwide. But since Google's private algorithm is a core part of its competitive advantage, open-sourcing it is not likely to be an option.
+Research by the [American Institute for Behavioral Research and Technology](http://aibrt.org/) has also shown that Google search results could shift voting preferences by 20% or more, and by up to 80% in certain demographic groups. This could potentially flip election margins worldwide. But since Google's private algorithm is a core part of its competitive advantage, open-sourcing it is not likely to be an option.
 
-The same problem applies to the algorithms used in DNA testing, breathalyzer tests and facial recognition software. Many defense attorneys have requested access to the source code for these tools to verify the algorithms' accuracy. But [in many cases](http://www.slate.com/blogs/future_tense/2015/10/06/defendants_should_be_able_to_inspect_software_code_used_in_forensics.html), these requests are denied, since the companies that produce the proprietary criminal justice algorithms fear a threat to their businesses' bottom line. Yet clearly we need some way to ensure the accuracy of software that could put people behind bars.
+The same problem applies to the algorithms used in DNA testing, breathalyzer tests, and facial recognition software. Many defense attorneys have requested access to the source code for these tools to verify the algorithms' accuracy. But [in many cases](http://www.slate.com/blogs/future_tense/2015/10/06/defendants_should_be_able_to_inspect_software_code_used_in_forensics.html), these requests are denied, since the companies that produce the proprietary criminal justice algorithms fear a threat to their businesses' bottom line. Yet clearly we need some way to ensure the accuracy of software that could put people behind bars.
 
 ## What we can learn from the FDA
 
@@ -41,7 +43,7 @@ Meanwhile, the rise of new medicines and vaccines promised to eradicate diseases
 
 In 1906, President Theodore Roosevelt [signed the Food and Drug Act](https://en.wikipedia.org/wiki/History_of_the_Food_and_Drug_Administration) into law, which prevented false advertising claims, set sanitation standards, and served as a watchdog for companies that could cause harm to consumers' welfare. These first rules and regulations served as a foundation for our modern-day FDA, which is critical to ensuring that products are safe for consumers.
 
-The FDA could be a good baseline model for software regulation in the US and countries around the world, which have parallel FDA organizations including the [European Medicines Agency,](http://www.ema.europa.eu/ema/) [Health Canada](https://www.canada.ca/en/health-canada.html), and the [China Food and Drug Administration](http://eng.cfda.gov.cn/WS03/CL0755/).
+The FDA could be a good baseline model for software regulation in the US and in countries around the world, many of which have similar agencies, including the [European Medicines Agency](http://www.ema.europa.eu/ema/), [Health Canada](https://www.canada.ca/en/health-canada.html), and the [China Food and Drug Administration](http://eng.cfda.gov.cn/WS03/CL0755/).
 
 Just as the FDA ensures that major pharmaceutical companies aren't lying about the claims they make for drugs, there should be a similar regulator for software to ensure that car companies are not cheating customers and destroying the environment in the process. And just as companies need to disclose food ingredients to prevent people from ingesting poison, companies like Google should be required to provide some level of guarantee that they won't intentionally manipulate search results that could shape public opinion.
 

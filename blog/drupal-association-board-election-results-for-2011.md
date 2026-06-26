@@ -7,7 +7,6 @@ author:
 date: '2011-10-31T11:02:36-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Drupal Association Board election results for 2011'
 tags:
   - Drupal
   - 'Drupal Association'

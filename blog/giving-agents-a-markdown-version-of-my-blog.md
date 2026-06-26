@@ -1,6 +1,6 @@
 ---
-url: 'https://dri.es/the-third-audience'
-title: 'The Third Audience'
+url: 'https://dri.es/giving-agents-a-markdown-version-of-my-blog'
+title: 'Giving agents a Markdown version of my blog'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -17,11 +17,11 @@ image: blog/machines-reading-web-content
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_the-third-audience-is-ai-activity-7417339417524076544-ZPDq' }
 published: true
-featured: false
+featured: true
 id: 6051
 ---
 
-# The Third Audience
+# Giving agents a Markdown version of my blog
 
 ![An empty office chair facing several glowing computer monitors, with small glowing fragments floating upward.](http://default/files/cache/blog/machines-reading-web-content-640w.jpg)
 

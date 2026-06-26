@@ -7,7 +7,6 @@ author:
 date: '2010-04-15T13:53:59-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Drupal Commons, meet Jive Software'
 tags:
   - Drupal
   - Acquia

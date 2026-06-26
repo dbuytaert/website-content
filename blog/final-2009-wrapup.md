@@ -7,7 +7,6 @@ author:
 date: '2010-01-07T03:10:50-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Final 2009 wrapup'
 tags:
   - Retrospective
 published: true

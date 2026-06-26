@@ -13,7 +13,7 @@ tags:
   - 'Artificial Intelligence'
 image: blog/cloudflare-vs-crawlers
 published: true
-featured: false
+featured: true
 id: 5836
 ---
 
@@ -21,7 +21,7 @@ id: 5836
 
 ![An astronaut \(Cloudflare\) facing giant glowing structures \(crawlers\) drawing energy in an alien sunset landscape.](http://default/files/cache/blog/cloudflare-vs-crawlers-640w.jpg)
 
-AI is rewriting the rules of how we work and create. Expert developers can now build faster, non-developers can build software, research is accelerating, and human communication is improving. In the next 10 years, we'll probably see a 1,000x increase in AI demand. That is why [Drupal is investing heavily in AI](https://dri.es/accelerating-ai-innovation-in-drupal).
+AI is rewriting the rules of how we work and create. Expert developers can now build faster, non-developers can build software, research is accelerating, and human communication is improving. In the next 10 years, we'll probably see a 1,000-fold increase in AI demand. That is why [Drupal is investing heavily in AI](https://dri.es/accelerating-ai-innovation-in-drupal).
 
 But at the same time, AI companies are breaking the web's fundamental economic model. This problem demands our attention.
 
@@ -38,7 +38,7 @@ The damage is real:
 - [Stack Overflow](https://stackoverflow.com/) has seen a significant drop in daily active users and new questions (about 25-50%), as more developers turn to ChatGPT for faster answers.
 - I recently spoke with a recipe blogger who is a solo entrepreneur. With fewer visitors, they're earning less from advertising. They poured their heart, craft, and sweat into creating a high-quality recipe website, but now they believe their small business won't survive.
 
-None of this should surprise us. According to [Similarweb](https://www.similarweb.com/corp/reports/generative-ai-publishers/), since Google launched "AI Overviews", the number of searches that result in no click-throughs has increased from 56% in May 2024 to 69% in May 2025, meaning users get their answers directly on the results page. 
+None of this should surprise us. According to [Similarweb](https://www.similarweb.com/corp/reports/generative-ai-publishers/), since Google launched "AI Overviews", the number of searches that result in no click-through has increased from 56% in May 2024 to 69% in May 2025, meaning users get their answers directly on the results page. 
 
 This "zero-click" phenomenon reinforces the shift I described in my 2015 post, ["The Big Reverse of the Web"](https://dri.es/the-big-reverse-of-the-web). Ten years ago, I argued that the web was moving away from sending visitors out to independent sites and instead keeping them on centralized platforms, all in the name of providing a faster and more seamless user experience.
 
@@ -46,7 +46,7 @@ However, the picture isn't entirely negative. Some companies find that visitors 
 
 ## Finding a new equilibrium
 
-There is a reason this trend has taken hold: users love it. AI-generated answers provide instant, direct information without extra clicks. It makes traditional search engines look complicated by comparison.
+There is a reason this trend has taken hold: users love it. AI-generated answers provide instant, direct information without extra clicks. This makes traditional search engines look complicated by comparison.
 
 But this improved user experience comes at a long-term cost. When value is extracted without supporting the websites and authors behind it, it threatens the sustainability of the content we all rely on.
 
@@ -60,11 +60,11 @@ Some might worry it is already too late, since large AI companies have massive s
 
 We have [`robots.txt`](https://en.wikipedia.org/wiki/Robots.txt), a simple text file that tells crawlers which parts of a website they can access. But it's purely voluntary. [Creative Commons](https://creativecommons.org) launched [CC Signals](https://creativecommons.org/2025/06/25/introducing-cc-signals-a-new-social-contract-for-the-age-of-ai/) last week, allowing content creators to signal how AI can reuse their work. But both `robots.txt` and CC Signals are "social contracts" that are hard to enforce.
 
-Today, Cloudflare announced [they will default to blocking AI crawlers from accessing content](https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/). This change lets website owners decide whether to allow access and whether to negotiate compensation. [Cloudflare](https://www.cloudflare.com/) handles 20% of all web traffic. When an AI crawler tries to access a website protected by Cloudflare, it must pass through Cloudflare's servers first. This allows Cloudflare to detect crawlers that ignore `robots.txt` directives and block them.
+Today, Cloudflare announced that [they will block AI crawlers by default](https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/). This change lets website owners decide whether to allow access and whether to negotiate compensation. [Cloudflare](https://www.cloudflare.com/) handles 20% of all web traffic. When an AI crawler tries to access a website protected by Cloudflare, it must pass through Cloudflare's servers first. This allows Cloudflare to detect crawlers that ignore `robots.txt` directives and block them.
 
 This marks a shift from purely voluntary signals to actual technical enforcement. Large sites could already afford their own infrastructure to detect and block crawlers or negotiate licensing deals directly. For example, [Reddit signed a $60 million annual deal with Google](https://www.reuters.com/technology/reddit-ai-content-licensing-deal-with-google-sources-say-2024-02-22/) to license its content for AI training.
 
-However, most content creators, like you and I, can do neither.
+However, most content creators, like you and me, can do neither.
 
 Cloudflare's actions establish a crucial principle: AI training data has a price, and creators deserve to share in the value AI generates from their work.
 

@@ -12,6 +12,7 @@ tags:
   - Drupal
 image: drupal/the-promise-of-making-drupal-upgrades-easy
 published: true
+featured: true
 id: 3886
 ---
 
@@ -19,7 +20,7 @@ id: 3886
 
 ![A Drupal logo appears in the sky above a green hill, with sunlight and a double rainbow behind it.](http://default/files/cache/drupal/the-promise-of-making-drupal-upgrades-easy-640w.jpg)
 
-One of the key reasons that Drupal has been successful is because we always made big, forward-looking changes. As a result, Drupal is one of very few CMSes that has stayed relevant for 15+ years. The downside is that with every major release of Drupal, we've gone through [a lot of pain adjusting to these changes](https://dri.es/the-pain-before-the-payoff). The learning curve and difficult upgrade path from one major version of Drupal to the next (e.g. from Drupal 7 to Drupal 8) has also held back Drupal's momentum. In an ideal world, we'd be able to innovate fast yet provide a smooth learning curve and upgrade path from Drupal 8 to Drupal 9. We believe we've found a way to do both!
+One of the key reasons that Drupal has been successful is because we always made big, forward-looking changes. As a result, Drupal is one of the very few CMSes that has stayed relevant for 15+ years. The downside is that with every major Drupal release, we've gone through [a lot of pain adjusting to these changes](https://dri.es/the-pain-before-the-payoff). The learning curve and difficult upgrade path from one major version of Drupal to the next (e.g. from Drupal 7 to Drupal 8) has also held back Drupal's momentum. In an ideal world, we'd be able to innovate fast yet provide a smooth learning curve and upgrade path from Drupal 8 to Drupal 9. We believe we've found a way to do both!
 
 ## Upgrading from Drupal 8.2 to Drupal 8.3
 
@@ -27,19 +28,19 @@ Before we can talk about the upgrade path to Drupal 9, it's important to underst
 
 This new approach is starting to work really well. With the 8.1 and 8.2 updates behind us and 8.3 close to release, we have added some stable improvements like [BigPipe](https://dri.es/bigpipe-no-longer-just-for-the-top-50-websites) and a [new status report page](https://www.drupal.org/node/665790), as well as experimental improvements for [outside-in](https://dri.es/drupal-8-2-now-with-more-outside-in), [workflows](https://dri.es/moving-the-drupal-8-workflow-initiative-along), [layouts](https://www.drupal.org/node/2811175), and more. We also plan to add [important media improvements](https://dri.es/a-plan-for-media-management-in-drupal-8) in 8.4.
 
-Most importantly, upgrading from 8.2 to 8.3 for these new features is not much more complicated than simply updating for a bugfix or security release.
+Most importantly, upgrading from 8.2 to 8.3 for these new features is not much more complicated than simply updating for a bug fix or security release.
 
 ## Upgrading from Drupal 8 to Drupal 9
 
 After a lot of discussion among the Drupal Core committers and developers, and studying projects like [Symfony](https://symfony.com), we believe that the advantages of Drupal's minor upgrade model (e.g. from Drupal 8.2 to Drupal 8.3) can be translated to major upgrades (e.g. from Drupal 8 to Drupal 9). We see a way to keep innovating while providing a smooth upgrade path and learning curve from Drupal 8 to Drupal 9.
 
-Here is how we will accomplish this: we will continue to introduce new features and backwards-compatible changes in Drupal 8 releases. In the process, we sometimes have to [deprecate old systems](https://en.wikipedia.org/wiki/Deprecation). Instead of removing old systems, we will keep them in place and encourage module maintainers to update to the new systems. This means that modules and custom code will continue to work. The more we innovate, the more deprecated code there will be in Drupal 8. Over time, maintaining backwards compatibility will become increasingly complex. Eventually, we will reach a point where we simply have too much deprecated code in Drupal 8. At that point, we will choose to remove the deprecated systems and release that as Drupal 9.
+Here is how we will accomplish this: we will continue to introduce new features and backward-compatible changes in Drupal 8 releases. In the process, we sometimes have to [deprecate old systems](https://en.wikipedia.org/wiki/Deprecation). Instead of removing old systems, we will keep them in place and encourage module maintainers to update to the new systems. This means that modules and custom code will continue to work. The more we innovate, the more deprecated code there will be in Drupal 8. Over time, maintaining backward compatibility will become increasingly complex. Eventually, we will reach a point where we simply have too much deprecated code in Drupal 8. At that point, we will choose to remove the deprecated systems and release that as Drupal 9.
 
 This means that Drupal 9.0 should be almost identical to the last Drupal 8 release, minus the deprecated code. It means that when modules take advantage of the latest Drupal 8 APIs and avoid using deprecated code, they should work on Drupal 9. Updating from Drupal 8's latest version to Drupal 9.0.0 should be as easy as updating between minor versions of Drupal 8. It also means that Drupal 9 gives us a clean slate to start innovating more rapidly again.
 
 Why would you upgrade to Drupal 9 then? For the great new features in 9.1. No more features will be added to Drupal 8 after Drupal 9.0. Instead, they will go into Drupal 9.1, 9.2, and so on.
 
-To get the most out of this new approach, we need to make two more improvements. We need to change core so that the exact same module can work with Drupal 8 *and* 9 if the module developer uses the latest APIs. We also need to provide full data migration from Drupal 6, 7 and 8 to *any* future release. So long as we make these changes before Drupal 9 and contributed or custom modules take advantage of the latest Drupal 8 APIs, up-to-date sites and modules may just *begin using 9.0.0 the day it is is released*.
+To get the most out of this new approach, we need to make two more improvements. We need to change core so that the exact same module can work with Drupal 8 *and* 9 if the module developer uses the latest APIs. We also need to provide full data migration from Drupal 6, 7, and 8 to *any* future release. As long as we make these changes before Drupal 9 and contributed or custom modules take advantage of the latest Drupal 8 APIs, up-to-date sites and modules may just *begin using 9.0.0 the day it is released*.
 
 ## What does this mean for Drupal 7 users?
 
@@ -51,16 +52,16 @@ We have more work to do to complete the [Drupal 7 to Drupal 8 data migration](ht
 
 ## What does this mean for Drupal developers?
 
-If you are a module or theme developer, you can continually update to the latest APIs each minor release. Avoid using [deprecated code](https://www.drupal.org/core/deprecation) and your module will be compatible with Drupal 9 the day Drupal 9 is released. We have plans to make it easy for developers to [identify and update deprecated code](https://www.drupal.org/node/2488860).
+If you are a module or theme developer, you can continually update to the latest APIs with each minor release. Avoid using [deprecated code](https://www.drupal.org/core/deprecation) and your module will be compatible with Drupal 9 the day Drupal 9 is released. We have plans to make it easy for developers to [identify and update deprecated code](https://www.drupal.org/node/2488860).
 
 ## What does this mean for Drupal Core contributors?
 
-If you are a Drupal Core contributor and want to introduce new improvements in Drupal Core, Drupal 8 is the place to do it! With backwards compatibility layers, even pretty big changes are possible in Drupal 8.
+If you are a Drupal Core contributor and want to introduce new improvements in Drupal Core, Drupal 8 is the place to do it! With backward compatibility layers, even pretty big changes are possible in Drupal 8.
 
-## When will Drupal 9 will be released?
+## When will Drupal 9 be released?
 
 We don't know yet, but it shouldn't matter as much either. Innovative Drupal 8 releases will go out on schedule every six months and upgrading to Drupal 9 should become easy. I don't believe we will release Drupal 9 any time soon; we have plenty of features in the works for Drupal 8. Once we know more, we'll follow up with more details.
 
 ## Thank you
 
-*Special thanks to [Alex Bronstein](https://www.drupal.org/u/effulgentsia), [Alex Pott](https://www.drupal.org/u/alexpott), [Gábor Hojtsy](https://www.drupal.org/u/g%C3%A1bor-hojtsy), [Nathaniel Catchpole](https://www.drupal.org/u/catch) and [Jess (xjm)](https://www.drupal.org/u/xjm) for their contributions to this post.*
+*Special thanks to [Alex Bronstein](https://www.drupal.org/u/effulgentsia), [Alex Pott](https://www.drupal.org/u/alexpott), [Gábor Hojtsy](https://www.drupal.org/u/g%C3%A1bor-hojtsy), [Nathaniel Catchpole](https://www.drupal.org/u/catch), and [Jess (xjm)](https://www.drupal.org/u/xjm) for their contributions to this post.*

@@ -11,6 +11,7 @@ tags:
   - Drupal
   - Trends
 published: true
+featured: true
 id: 3101
 ---
 
@@ -42,56 +43,40 @@ You may have heard me talk about Web Experience Management (WEM) in the past, bu
 
 Creating better interfaces to develop structured content, and delivering that content to a variety of devices and channels, is an important part of creating ideal customer experiences. Another important part is the ability to personalize what content to present to a user. Though it will be interesting to see how CMSs facilitate this direction, it seems imperative that CMSs deliver tools to empower content creators to not only create great content, but to also help them make decisions about what content to deliver to whom, when and in what format. Over time, these content decisions will become more data-driven and automated, and less opinion-based and manual.
 
-<table>
-  <caption>Top features in CMSs over time</caption>
-  <tr>
-  <th>2000</th>
-  <th>2005</th>
-  <th>2010</th>
-  <th>2015</th>
-</tr>
-  <tr>
-  <td>
-  <ul style="margin-left:5px;">
-  <li>Static content</li>
-  <li>Separate content from design</li>
-  <li>Animated GIFs</li>
-</ul>
-</td>
-  <td>
-  <ul style="margin-left:5px;">
-  <li>WYSIWYG authoring</li>
-  <li>Dynamic content</li>
-  <li>Publishing workflows</li>
-  <li>User generated content</li>
-  <li>Modular architecture</li>
-  <li>Syndication</li>
-  <li>Search</li>
-</ul>
-</td>
-  <td>
-  <ul style="margin-left:5px;">
-  <li>Social media integration</li>
-  <li>WYSIWYG page design</li>
-  <li>Collaboration tools</li>
-  <li>Rich media integration</li>
-  <li>Lead generation tools</li>
-</ul>
-</td>
-  <td>
-  <ul style="margin-left:5px;">
-  <li>Customer intelligence</li>
-  <li>Context-aware</li>
-  <li>Multi-device</li>
-  <li>Service-enabled / APIs</li>
-  <li>Multi-site platform governance</li>
-  <li>PaaS/SaaS</li>
-</ul>
-</td>
-</tr>
-</table>
+**2000**
 
-Few CMSs are actually growing in market share; our industry will continue to consolidate further in 2014. The fact most CMSs become less and less relevant isn't a surprise since CMSs are becoming more complicated. The CMSs that will survive are those that (1) are able to keep up with the speed of the Internet and (2) offer the least amount of friction to adopt. Open source CMSs that foster a healthy community are well positioned to win in the long run. Drupal's biggest challenge going forward is to create a user experience that gets out of a user's way and lets them do their business regardless of how simple or complex their task is. This is why I'm so passionate about in-place editing, and usability in general, but also creating a great developer experience. It's important that we continue to focus on those goals in 2014 and beyond.
+- Static content
+- Separate content from design
+- Animated GIFs
+
+**2005**
+
+- WYSIWYG authoring
+- Dynamic content
+- Publishing workflows
+- User-generated content
+- Modular architecture
+- Syndication
+- Search
+
+**2010**
+
+- Social media integration
+- WYSIWYG page design
+- Collaboration tools
+- Rich media integration
+- Lead generation tools
+
+**2015**
+
+- Customer intelligence
+- Context-aware
+- Multi-device
+- Service-enabled / APIs
+- Multi-site platform governance
+- PaaS/SaaS
+
+Few CMSs are actually growing in market share; our industry will continue to consolidate further in 2014. The fact most CMSs become less and less relevant isn't a surprise since CMSs are becoming more complicated. The CMSs that will survive are those that (1) are able to keep up with the speed of the Internet and (2) offer the least amount of friction to adopt. Open Source CMSs that foster a healthy community are well positioned to win in the long run. Drupal's biggest challenge going forward is to create a user experience that gets out of a user's way and lets them do their business regardless of how simple or complex their task is. This is why I'm so passionate about in-place editing, and usability in general, but also creating a great developer experience. It's important that we continue to focus on those goals in 2014 and beyond.
 
 For a long time, there has been somewhat of a misconception about Drupal's viability for the largest, most complex deployments. Analysts, technology decision makers and proprietary competitors such as Sitecore and Adobe will claim that Drupal is great for simple sites but lacks the scale and depth of features needed for enterprise deployments. They're wrong! They only have to look at how GE, White House, MSNBC and many others are using Drupal. Drupal 8 is in a great position to take this "digital experience management" to the next level and to further cement Drupal's reputation; from the mobile improvements, to the authoring experience improvements, to APIs, to getting even better at structured content, Drupal 8 is set up for growth.
 

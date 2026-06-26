@@ -11,6 +11,7 @@ tags:
   - Drupal
   - 'Web services'
 published: true
+featured: false
 id: 3736
 ---
 
@@ -22,24 +23,25 @@ Here is a bird's-eye view of the plan for the next twelve months:
 
 <table>
   <tbody>
-   <tr>
-    <th>8.2 (Q4 2016)</th>
-    <th>8.3 (Q2 2017)</th>
-    <th>Beyond 8.3 (2017+)</th>
-  </tr>
-   <tr>
-    <td>New REST API capabilitiesWaterwheel initial release</td>
-    <td>New REST API capabilitiesJSON API module</td>
-    <td>GraphQL module?Entity graph iterator?</td>
-  </tr>
- </tbody>
+  <tr>
+   <th>8.2 (Q4 2016)</th>
+   <th>8.3 (Q2 2017)</th>
+   <th>Beyond 8.3 (2017+)</th>
+ </tr>
+  <tr>
+   <td>New REST API capabilities<br />Waterwheel initial release</td>
+   <td>New REST API capabilities<br />JSON API module</td>
+   <td>GraphQL module?<br />Entity graph iterator?</td>
+ </tr>
+</tbody>
 </table>
+
 
 ## New REST API capabilities
 
 [Wim Leers](https://www.drupal.org/u/wim-leers) (Acquia) and [Daniel Wehner](https://www.drupal.org/u/dawehner) (Chapter Three) have produced a comprehensive list of the [top priorities for the REST module](https://www.drupal.org/node/2721489). We're introducing [significant REST API advancements](https://www.drupal.org/list-changes/drupal/drupal/published?keywords_description=REST&to_branch=8.2.x&version=&created_op=%3E%3D&created%5Bvalue%5D=&created%5Bmin%5D=&created%5Bmax%5D=) in Drupal 8.2 and 8.3 in order to improve the developer experience and extend the capabilities of the REST API. We've been focused on configuration entity support, simplified REST configuration, translation and file upload support, pagination, and last but not least, support for user login, logout and registration. All this work starts to address differences between core's REST module and various contributed modules like [Services](https://www.drupal.org/project/services) and [RELAXed Web Services](https://www.drupal.org/project/relaxed). More details are available in [my previous blog post](https://dri.es/advancing-drupal-web-services).
 
-Many thanks to [Wim Leers](https://www.drupal.org/u/wim-leers) (Acquia), [Daniel Wehner](https://www.drupal.org/u/dawehner) (Chapter Three), [Ted Bowman](https://www.drupal.org/u/tedbow) (Acquia), [Alex Pott](https://www.drupal.org/u/alexpott) (Chapter Three), and others for their work on Drupal core's REST modules. Though there is considerable momentum behind efforts in core, we could always benefit from new contributors. Please consider taking a look at the [REST module issue queue](https://www.drupal.org/project/issues/drupal?component=rest.module) to help!
+Many thanks to [Wim Leers](https://www.drupal.org/u/wim-leers) (Acquia), [Daniel Wehner](https://www.drupal.org/u/dawehner) (Chapter Three), [Ted Bowman](https://www.drupal.org/u/tedbow) (Acquia), [Alex Pott](https://www.drupal.org/u/alexpott) (Chapter Three), and others for their work on Drupal Core's REST modules. Though there is considerable momentum behind efforts in core, we could always benefit from new contributors. Please consider taking a look at the [REST module issue queue](https://www.drupal.org/project/issues/drupal?component=rest.module) to help!
 
 ## Waterwheel initial release
 
@@ -61,14 +63,16 @@ Thanks to [Mateu Aguiló Bosch](https://www.drupal.org/u/e0ipso), [Ed Faulkner](
 
 ## Beyond 8.3: GraphQL and entity graph iterator
 
-While these other milestones are either certain or in the works, there are other projects gathering steam. Chief among these is GraphQL, which is a query language I highlighted in [my Barcelona keynote](https://dri.es/state-of-drupal-presentation-september-2015) and allows for clients to tailor the responses they receive based on the structure of the requests they issue.
+While these other milestones are either certain or in the works, there are other projects gathering steam. Chief among these is GraphQL, a query language I highlighted in [my Barcelona keynote](https://dri.es/state-of-drupal-presentation-september-2015). GraphQL allows clients to tailor the responses they receive based on the structure of the requests they issue.
 
-One of the primary outcomes of the New Orleans web services discussion was the importance of a unified approach to iterating Drupal's entity graph; both GraphQL and JSON API require such an "entity graph iterator". Though much of this is still speculative and needs greater refinement, eventually, such an "entity graph iterator" could enable other functionality such as editable API responses (e.g. aliases for custom field names and timestamp formatters) and a unified versioning strategy for web services. However, more help is needed to keep making progress, and in absence of additional contributors, we do not believe this will land in Drupal until after 8.3.
+One of the primary outcomes of the New Orleans web services discussion was the importance of a unified approach to iterating Drupal's entity graph; both GraphQL and JSON API require such an "entity graph iterator". Though much of this is still speculative and needs greater refinement, eventually, such an "entity graph iterator" could enable other functionality such as editable API responses (e.g. aliases for custom field names and timestamp formatters) and a unified versioning strategy for web services. 
+
+However, more help is needed to keep making progress, and in the absence of additional contributors, we do not believe this will land in Drupal until after 8.3.
 
 Thanks to [Sebastian Siemssen](https://www.drupal.org/u/fubhy), who has been leading the effort around this work, which is currently [available on GitHub](https://github.com/contentacms/type-graph).
 
 ## Validating our work and getting involved
 
-In order to validate all of the progress we've made, we need developers everywhere to test and experiment with what we're producing. This means stretching the limits of our core REST offerings, trying out JSON API for your own Drupal-backed applications, reporting issues and bugs as you encounter them, and participating in the discussions surrounding this exciting vision. Together, we can build towards a first-class API-first Drupal.
+In order to validate all of the progress we've made, we need developers everywhere to test and experiment with what we're producing. This means stretching the limits of our core REST offerings, trying out JSON API for your own Drupal-backed applications, reporting issues and bugs as you encounter them, and participating in the discussions surrounding this exciting vision. Together, we can build toward a first-class API-first Drupal.
 
 *Special thanks to [Preston So](https://www.drupal.org/u/prestonso) for contributions to this blog post and to [Wim Leers](https://www.drupal.org/u/wim-leers) for feedback during its writing.*

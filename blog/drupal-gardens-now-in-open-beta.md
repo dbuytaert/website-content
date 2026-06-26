@@ -7,7 +7,6 @@ author:
 date: '2010-07-22T14:09:16-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Drupal Gardens now in open beta'
 tags:
   - Drupal
   - Acquia

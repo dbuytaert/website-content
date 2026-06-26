@@ -7,7 +7,6 @@ author:
 date: '2009-08-28T04:45:21-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Drupal trademark policy officially available'
 tags:
   - Drupal
   - 'Drupal Association'

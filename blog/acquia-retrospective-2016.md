@@ -7,7 +7,6 @@ author:
 date: '2017-01-16T13:30:36-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Acquia retrospective 2016'
 tags:
   - Acquia
   - Drupal

@@ -7,7 +7,6 @@ author:
 date: '2015-12-07T08:19:22-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Should we decouple Drupal with a client-side framework?'
 tags:
   - Drupal
   - JavaScript

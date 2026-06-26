@@ -7,7 +7,6 @@ author:
 date: '2007-04-30T06:06:39-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'State of Drupal presentation (March 2007)'
 tags:
   - Drupal
   - DrupalCon

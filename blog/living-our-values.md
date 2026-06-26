@@ -7,7 +7,6 @@ author:
 date: '2017-03-23T00:26:53-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Living our values'
 tags:
   - Drupal
   - Diversity

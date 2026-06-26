@@ -7,7 +7,6 @@ author:
 date: '2018-05-22T15:20:56-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'My thoughts on Adobe buying Magento for $1.68 billion'
 tags:
   - Drupal
   - Acquia

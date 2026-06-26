@@ -7,7 +7,6 @@ author:
 date: '2016-01-06T10:00:18-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Selecting a client-side framework for Drupal'
 tags:
   - Drupal
   - JavaScript

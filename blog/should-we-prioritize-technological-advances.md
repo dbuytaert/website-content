@@ -7,7 +7,6 @@ author:
 date: '2016-02-15T02:27:49-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Should we prioritize technological advances?'
 tags:
   - Policy
   - Trends

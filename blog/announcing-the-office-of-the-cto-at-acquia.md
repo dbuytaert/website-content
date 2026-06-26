@@ -11,6 +11,7 @@ tags:
   - Drupal
   - Acquia
 published: true
+featured: true
 id: 2321
 ---
 

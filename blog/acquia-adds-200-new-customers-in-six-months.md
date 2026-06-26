@@ -7,7 +7,6 @@ author:
 date: '2009-08-10T17:40:06-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Acquia adds 200 new customers in six months'
 tags:
   - Drupal
   - Acquia

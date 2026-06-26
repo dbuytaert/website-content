@@ -13,6 +13,7 @@ tags:
   - 'Artificial Intelligence'
 image: drupal/drupal-ai-founding-members
 published: true
+featured: true
 id: 5821
 ---
 
@@ -22,13 +23,13 @@ id: 5821
 
 https://www.youtube.com/watch?v=UFoUci-Gqp0
 
-Imagine a marketer opening Drupal and with a clear goal in mind: launch a campaign for an upcoming event.
+Imagine a marketer opening Drupal with a clear goal in mind: launch a campaign for an upcoming event.
 
-They start by uploading a brand kit to Drupal CMS: logos, fonts, and color palette. They define the campaign's audience as mid-sized business owners interested in digital transformation. Then they create a creative guide that outlines the event's goals, key messages, and tone.
+They start by uploading a brand kit to Drupal CMS: logos, fonts, and color palette. They define the campaign's audience as midsized business owners interested in digital transformation. Then they create a creative guide that outlines the event's goals, key messages, and tone.
 
 With this in place, AI agents within Drupal step in to assist. Drawing from existing content and media, the agents help generate landing pages, each optimized for a specific audience segment. They suggest headlines, refine copy based on the creative guide, create components based on the brand kit, insert a sign-up form, and assemble everything into cohesive, production-ready pages.
 
-Using Drupal's built-in support for the Model Context Protocol (MCP), the AI agents connect to analytics tools and monitor performance. If a page is not converting well, the system makes overnight updates. It might adjust layout, improve clarity, or refine the calls to action.
+Using Drupal's built-in support for the Model Context Protocol (MCP), the AI agents connect to analytics tools and monitor performance. If a page is not converting well, the system can make overnight updates. It might adjust layout, improve clarity, or refine the calls to action.
 
 Every change is tracked. The marketer can review, approve, revert, or adjust anything. They stay in control, even as the system takes on more of the routine work.
 
@@ -46,7 +47,7 @@ The question is not whether AI will change how we build websites, but how we as 
 
 Drupal already has a head start in AI. At [DrupalCon Barcelona 2024](https://dri.es/state-of-drupal-presentation-september-2024), I showed how Drupal's AI tools help a site creator market wine tours. Since then, we have seen a growing ecosystem of AI modules, active integrations, and a vibrant community pushing boundaries. Today, about 1,000 people are sharing ideas and collaborating in the `#ai` channel on [Drupal Slack](https://www.drupal.org/join-slack).
 
-At [DrupalCon Atlanta in March 2025](https://dri.es/state-of-drupal-presentation-march-2025), I shared our latest AI progress. We also brought together key contributors working on AI in Drupal. Our goal was simple: get organized and accelerate progress. After the event, the group committed to align on a shared vision and move forward together.
+At [DrupalCon Atlanta in March 2025](https://dri.es/state-of-drupal-presentation-march-2025), I shared our latest AI progress. We also brought together key contributors working on AI in Drupal. Our goal was simple: get organized and accelerate progress. After the event, the group committed to aligning on a shared vision and moving forward together.
 
 Since then, this team has been meeting regularly, almost every day. I've been working with the team to help guide the direction. With a lot of hard work behind us, I'm excited to introduce the [Drupal AI Initiative](https://www.drupal.org/ai/announcement).
 
@@ -71,7 +72,7 @@ For more details, read the full announcement on the [Drupal AI Initiative page o
 ![Screenshot of a Google Hangout video call with nine smiling participants, the founding members of the Drupal AI initiative.](http://default/files/cache/drupal/drupal-ai-founding-members-640w.png)
 *Some of the founding members of the Drupal AI initiative during our launch call on Google Hangouts.*
 
-Over the past few months, we've invested hundreds of hours shaping our AI strategy, defining structure, and taking first steps.
+Over the past few months, we've invested hundreds of hours shaping our AI strategy, defining structure, and taking the first steps.
 
 I want to thank the founding members of the Drupal AI Initiative. These individuals and organizations played a key role in getting things off the ground. The list is ordered alphabetically by last name to recognize all contributors equally:
 
@@ -98,7 +99,7 @@ With every large initiative, we are evolving how we organize, align, and collabo
 
 We are creating ways for more of you to get involved with Drupal AI. Whether you are a developer, designer, strategist, or sponsor, there is a place for you in this work. If you're part of an agency, we encourage you to [step forward and become a Maker](https://www.drupal.org/ai/become-a-maker). The more agencies that contribute, the more momentum we build.
 
-**Update:** In addition to the initiative's founding members, [Amazee.io](https://www.amazee.io/) already stepped forward with another commitment of USD $20,000 and one full-time contributor. *Thank you!* This brings the total operating budget to USD $120,000. Please consider [joining as well](https://www.drupal.org/ai/become-a-maker).
+**Update:** In addition to the initiative's founding members, [Amazee.io](https://www.amazee.io/) has already stepped forward with another commitment of USD $20,000 and one full-time contributor. *Thank you!* This brings the total operating budget to USD $120,000. Please consider [joining as well](https://www.drupal.org/ai/become-a-maker).
 
 AI is changing how websites and digital experiences are built. This is our moment to be part of the change and help define what comes next.
 
