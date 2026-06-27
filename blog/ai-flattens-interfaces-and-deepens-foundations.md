@@ -7,11 +7,12 @@ author:
 date: '2025-12-23T07:44:30-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'AI makes content authoring and page building faster, while making the foundations beneath them more important: content models, permissions, workflows, APIs, compliance, and trust.'
 tags:
   - Drupal
   - 'Artificial Intelligence'
 published: true
-featured: false
+featured: true
 id: 6006
 ---
 

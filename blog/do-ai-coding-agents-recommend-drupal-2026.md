@@ -7,6 +7,7 @@ author:
 date: '2026-06-09T06:18:26-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Drupal fits complex websites, but AI agents reward fast, verifiable progress. That makes the first-session experience more important than ever.'
 tags:
   - Drupal
   - 'Artificial Intelligence'
