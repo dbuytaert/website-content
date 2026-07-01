@@ -11,6 +11,7 @@ summary: 'Open Source communities often incorrectly believe that everyone can co
 tags:
   - Drupal
   - Diversity
+  - 'Open Source'
 image: blog/free-time-to-contribute-is-a-privilege
 published: true
 featured: true
@@ -41,7 +42,7 @@ What this means is that Open Source is *not* a meritocracy.
 
 ![Underrepresented groups don't have the same amount of free time](http://default/files/cache/blog/the-issue-of-time-in-open-source-640w.png)
 
-Free time is a mark of privilege, rather than an equal right. Instead of chasing an unrealistic concept of meritocracy, we should be striving for equity. Rather than thinking, "everyone can contribute to open source", we should be thinking, "everyone deserves the opportunity to contribute".
+Free time is a mark of privilege, rather than an equal right. Instead of chasing an unrealistic concept of meritocracy, we should be striving for equity. Rather than thinking, "everyone can contribute to Open Source", we should be thinking, "everyone deserves the opportunity to contribute".
 
 ## Time inequality contributes to a lack of diversity in Open Source
 

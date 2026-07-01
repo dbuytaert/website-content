@@ -7,10 +7,12 @@ author:
 date: '2014-08-26T04:27:15-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Open Source contributions create social capital: relationships, opportunities, trust, and purpose that can be as valuable as financial compensation.'
 tags:
   - Drupal
   - 'Open Source'
 published: true
+featured: false
 id: 3206
 ---
 
