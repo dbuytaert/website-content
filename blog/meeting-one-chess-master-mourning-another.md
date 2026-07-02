@@ -7,6 +7,7 @@ author:
 date: '2025-10-21T04:09:56-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Over dinner, Garry Kasparov, whose namesake computer introduced me to chess as a boy, told me Daniel Naroditsky had died at 29.'
 tags:
   - Chess
 image: miscellaneous-2025/garry-kasparov-dinner

@@ -7,11 +7,13 @@ author:
 date: '2025-01-21T17:31:49-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'AI agents are starting to automate real CMS tasks. This experiment shows what works, what breaks, and what Drupal should do next.'
 tags:
   - 'Artificial Intelligence'
   - Drupal
 image: blog/collaborating-with-an-ai-agent
 published: true
+featured: false
 id: 5746
 ---
 
@@ -19,11 +21,11 @@ id: 5746
 
 ![A person works on a laptop as a hologram of an AI agent hovers beside them.](http://default/files/cache/blog/collaborating-with-an-ai-agent-640w.jpg)
 
-I'm often asked, <q>Will AI agents replace digital marketers and site builders?</q>. The answer is <q>yes</q>, at least for certain kinds of tasks.
+I'm often asked, "Will AI agents replace digital marketers and site builders?". The answer is "yes", at least for certain kinds of tasks.
 
 To explore this idea, I prototyped two AI agents to automate marketing tasks on my personal website. They update meta descriptions to improve SEO and optimize tags to improve content discovery.
 
-Watching the AI agents in action is incredible. In the video below, you'll see them effortlessly navigate my Drupal site: logging in, finding posts, and editing content. It's a glimpse into how AI could transform the role of digital marketers.
+Watching the AI agents in action is incredible. In the video below, you'll see them navigate my Drupal site: logging in, finding posts, and editing content. It's a glimpse into how AI could transform the role of digital marketers.
 
 <div class="large">
   https://www.youtube.com/watch?v=sRlVFCILV3Q
@@ -31,14 +33,14 @@ Watching the AI agents in action is incredible. In the video below, you'll see t
 
 ## The experiment
 
-I built two AI agents to help optimize my blog posts. Here is how they work together:
+I built two AI agents to help optimize my blog posts. They work together in two steps:
 
 - **Agent 1: Content analysis:** This agent finds a blog post, reviews its content, and suggests improved summaries and tags to enhance SEO and increase discoverability.
 - **Agent 2: Applying updates:** After manual approval, this agent logs into the site and updates the summary and tags suggested by the first agent.
 
 All of this could be done in one step, or with a single agent, but keeping a 'human-in-the-loop' is good for quality assurance.
 
-This was achieved with just 120 lines of Python code and a few hours of trial and error. As the video demonstrates, the code is approachable for developers with basic programming skills.
+I built this with 120 lines of Python and a few hours of trial and error. As the video demonstrates, the code is approachable for developers with basic programming skills.
 
 The secret ingredient is the [`browser_use` framework](https://github.com/browser-use/browser-use), which acts as a bridge between various LLMs and [Playwright](https://playwright.dev/), a framework for browser automation and testing.
 

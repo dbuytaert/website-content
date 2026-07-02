@@ -7,6 +7,7 @@ author:
 date: '2025-12-30T17:05:37-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'AI agents can automate some CMS tasks, but end users need native CMS integrations, permissions, and editorial workflows to use them safely.'
 tags:
   - 'Artificial Intelligence'
   - Drupal

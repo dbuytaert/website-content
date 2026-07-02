@@ -7,6 +7,7 @@ author:
 date: '2026-06-22T10:05:02-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'In this podcast, James Kanter and I discuss how digital sovereignty can reduce governments’ dependency on foreign tech and strengthen Open Source.'
 tags:
   - 'Open Source'
   - 'Digital sovereignty'

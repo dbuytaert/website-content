@@ -7,6 +7,7 @@ author:
 date: '2025-10-22T06:35:37-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "A last-minute call put me in Kasparov's 20-board simul. Defending the Caro-Kann, I blundered my rook on move 11 but fought on to move 25."
 tags:
   - Chess
 image: miscellaneous-2025/dries-buytaert-vs-garry-kasparov-1

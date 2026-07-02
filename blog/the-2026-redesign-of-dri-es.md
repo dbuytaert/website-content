@@ -7,6 +7,7 @@ author:
 date: '2026-06-16T13:10:46-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'How I redesigned dri.es in a weekend without writing any HTML or CSS, describing what I wanted to Claude Code, which built the Drupal theme.'
 tags:
   - 'My site'
 discussions:
