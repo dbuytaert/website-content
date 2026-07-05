@@ -7,7 +7,7 @@ author:
 date: '2009-12-16T11:49:17-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Microsoft is running anti-Drupal ads'
+summary: 'Microsoft ran an ad against Drupal.'
 tags:
   - Drupal
   - Microsoft

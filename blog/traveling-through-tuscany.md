@@ -7,7 +7,7 @@ author:
 date: '2016-09-18T21:38:01-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'A report of our family vacation to Tuscany.'
+summary: 'Photos and memories from our family vacation in a Tuscan vineyard.'
 tags:
   - Family
   - Travel

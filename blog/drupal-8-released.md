@@ -7,7 +7,7 @@ author:
 date: '2015-11-19T09:54:42-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Learn more about what is new in Drupal 8.'
+summary: "After nearly five years and more than 3,000 contributors, we've released Drupal 8. It feels like the start of a new era."
 tags:
   - Drupal
 published: true
