@@ -31,7 +31,7 @@ Some people can give their nights and weekends to learning a codebase, clearing 
 
 That doesn't make these people less talented. It means they have less opportunity.
 
-AI changes the math. It can compress the time it takes to understand enough to act. A contributor might have the skill to fix a bug, but not the time to learn an unfamiliar codebase. AI can help them understand the codebase faster.
+AI changes the math. A contributor might have the skill to fix a bug, but not the time to learn an unfamiliar codebase. AI can help them understand the codebase faster.
 
 On paper, that should be great news for Open Source. In practice, AI will only help if access and skill become shared, not private advantages.
 
