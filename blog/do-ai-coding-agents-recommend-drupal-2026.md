@@ -163,7 +163,7 @@ But the agent did not mention Drupal CMS or Site Templates, only Recipes. Most l
 
 That needs to change. Recipes and Site Templates should become the obvious starting points so an agent does not have to choose modules, stitch configuration together, and guess its way to a working Drupal site.
 
-Other important work is underway as well: [Drupal Core's API surface has been moving toward more typed, discoverable interfaces](https://dbuytaert.github.io/drupal-core-metrics/), and yesterday, [Drupal Core added a first-party CLI](https://github.com/dbuytaert/drupal-digests/blob/main/issues/drupal-core/3453474.md) with commands for applying Recipes.
+Other important work is underway as well: Drupal Core's API surface has been moving toward [more typed, discoverable interfaces](https://dbuytaert.github.io/drupal-core-metrics/), and yesterday, [Drupal Core added a first-party CLI](https://github.com/dbuytaert/drupal-digests/blob/main/issues/drupal-core/3453474.md) with commands for applying Recipes.
 
 I really want Drupal to be excellent at the first-session loop. Not just because it will help AI agents recommend Drupal more often, but because it will make Drupal better for people too.
 
