@@ -1,12 +1,13 @@
 ---
-url: 'https://dri.es/just-married-4'
-title: 'Just married'
+url: 'https://dri.es/gabor-and-zsuzsis-wedding'
+title: "Gábor and Zsuzsi's wedding"
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
 date: '2008-08-10T14:57:20-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Gábor Hojtsy, Drupal 6 co-maintainer, married Zsuzsi in Hungary, with a celebration on the banks of the Danube.'
 tags:
   - Photography
 image: wedding-gabor-and-zsuzsi-2008/wedding-5
@@ -14,7 +15,7 @@ published: true
 id: 487
 ---
 
-# Just married
+# Gábor and Zsuzsi's wedding
 
 ![Bride and groom stand close together, smiling at the camera during their wedding celebration with guests in the background.](http://default/files/cache/wedding-gabor-and-zsuzsi-2008/wedding-5-640w.jpg)
 

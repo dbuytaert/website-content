@@ -1,12 +1,13 @@
 ---
-url: 'https://dri.es/just-married-3'
-title: 'Just married'
+url: 'https://dri.es/stefaan-and-anneleens-wedding'
+title: "Stefaan and Anneleen's wedding"
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
 date: '2008-03-09T16:36:55-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Canceled flights, a mad taxi dash across New York, and lost luggage on the way from Boston to Stefaan and Anneleen's wedding."
 tags:
   - Photography
   - Friends
@@ -15,7 +16,7 @@ published: true
 id: 409
 ---
 
-# Just married
+# Stefaan and Anneleen's wedding
 
 ![A bride and groom dance together, smiling and looking at each other on their wedding day.](http://default/files/cache/wedding-stefaan-and-anneleen-2008/marriage-11-640w.jpg)
 
