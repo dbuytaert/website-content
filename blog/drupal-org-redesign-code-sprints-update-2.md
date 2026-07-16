@@ -7,6 +7,7 @@ author:
 date: '2009-02-09T11:46:07-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Twelve volunteers gathered in Paris, one team implementing Mark Boulton's new theme while another continued the Drupal 6 upgrade of drupal.org."
 tags:
   - Drupal
   - 'Drupal Association'

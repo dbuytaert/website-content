@@ -7,6 +7,7 @@ author:
 date: '2012-12-05T12:09:18-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'The Drupal Association appointed Holly Ross, who grew the nonprofit technology network NTEN to 60,000 people, as its new Executive Director.'
 tags:
   - Drupal
   - 'Drupal Association'

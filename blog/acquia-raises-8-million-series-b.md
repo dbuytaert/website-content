@@ -7,6 +7,7 @@ author:
 date: '2009-07-21T10:55:30-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Existing investors doubled down with an $8 million series B, bringing Acquia to $15 million raised to grow its support business and products.'
 tags:
   - Drupal
   - Acquia

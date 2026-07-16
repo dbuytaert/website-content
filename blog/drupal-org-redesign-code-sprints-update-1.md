@@ -7,6 +7,7 @@ author:
 date: '2009-01-23T08:57:07-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'A planning meeting in Köln split the drupal.org redesign into workstreams, from search to theming, before ten volunteers headed to Boston.'
 tags:
   - Drupal
   - 'Drupal Association'

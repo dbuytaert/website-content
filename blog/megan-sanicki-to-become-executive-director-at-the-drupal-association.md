@@ -7,6 +7,7 @@ author:
 date: '2016-05-18T17:03:57-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'The Drupal Association promoted Megan Sanicki, six years with the organization and its COO, to Executive Director, succeeding Holly Ross.'
 tags:
   - Drupal
   - 'Drupal Association'

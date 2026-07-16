@@ -7,6 +7,7 @@ author:
 date: '2007-10-10T13:39:03-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'The United Nations built its End Poverty campaign on Drupal and funded internationalization features that flow back to the community.'
 tags:
   - Drupal
   - 'Drupal sites'

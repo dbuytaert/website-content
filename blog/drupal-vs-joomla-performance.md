@@ -7,6 +7,7 @@ author:
 date: '2006-08-11T08:04:06-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Uncached, Joomla served 44% more pages per second. With caching on, Drupal served three times as many: its page cache boosted throughput 508%.'
 tags:
   - Drupal
   - 'Web performance'

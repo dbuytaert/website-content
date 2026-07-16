@@ -7,7 +7,7 @@ author:
 date: '2019-04-30T14:02:45-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'The Drupal Association is announcing that Heather Rocker, former CEO of Girls, Inc. and Executive Director of Women in Technology, is joining as its next Executive Director.'
+summary: 'The Drupal Association named Heather Rocker, former CEO of Girls, Inc. and head of Women in Technology, as its next Executive Director.'
 tags:
   - Drupal
   - 'Drupal Association'

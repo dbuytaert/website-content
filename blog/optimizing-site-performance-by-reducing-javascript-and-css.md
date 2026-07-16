@@ -7,6 +7,7 @@ author:
 date: '2019-02-13T21:04:05-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Web performance is about inclusion, not just speed. Replacing jQuery with 699 bytes of vanilla JavaScript made an already fast page 35% faster.'
 tags:
   - 'Web performance'
   - Accessibility

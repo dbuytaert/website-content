@@ -7,6 +7,7 @@ author:
 date: '2011-02-23T08:51:38-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'The U.S. Small Business Administration relaunched SBA.gov on Drupal to give entrepreneurs accurate and timely information.'
 tags:
   - Drupal
   - 'Drupal sites'

@@ -7,6 +7,7 @@ author:
 date: '2007-09-24T06:27:33-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'DrupalCon tripled in one year, from 150 attendees in Brussels to 450 in Barcelona, with Adobe and Sun among the companies showing up.'
 tags:
   - Drupal
   - NowPublic

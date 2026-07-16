@@ -7,6 +7,7 @@ author:
 date: '2009-01-08T07:51:41-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Drupal.org was last redesigned in 2005 and the community outgrew it. A series of sprints across four cities set out to implement the new design.'
 tags:
   - Drupal
   - 'Drupal Association'

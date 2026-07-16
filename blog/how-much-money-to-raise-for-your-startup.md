@@ -7,6 +7,7 @@ author:
 date: '2015-03-02T08:52:05-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Founders want to keep control, but businesses need money to succeed. A flowchart for how much to raise, and how much ownership to give up.'
 tags:
   - 'Startup lessons'
   - Investing

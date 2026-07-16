@@ -7,6 +7,7 @@ author:
 date: '2012-04-21T12:50:32-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Red Hat passing $1 billion in revenue and Microsoft embracing Open Source signal a shift: from a self-contained community to a movement.'
 tags:
   - Drupal
   - Microsoft
