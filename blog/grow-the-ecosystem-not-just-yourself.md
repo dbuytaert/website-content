@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - 'Open Source'
+  - 'Open Source sustainability'
 image: blog/threshold-together
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/feed/update/urn:li:share:7465045903565975552/' }

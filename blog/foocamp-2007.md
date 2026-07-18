@@ -7,7 +7,7 @@ author:
 date: '2007-06-19T07:40:45-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Looking forward to attend FooCamp'
+summary: 'Looking forward to attend FooCamp.'
 tags:
   - Drupal
   - 'Favorite music'

@@ -7,7 +7,7 @@ author:
 date: '2016-11-10T10:08:20-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Why we should integrate Drupal with third-party commerce platforms like Magento, DemandWare, Hybris and more'
+summary: 'Why we should integrate Drupal with third-party commerce platforms like Magento, DemandWare, Hybris and more.'
 tags:
   - Drupal
   - Commerce

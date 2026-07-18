@@ -14,6 +14,7 @@ tags:
   - Mautic
   - 'Open Source'
   - Podcast
+  - Acquisitions
 image: acquia/acquia-acquires-mautic
 published: true
 featured: true

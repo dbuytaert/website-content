@@ -7,7 +7,7 @@ author:
 date: '2008-04-16T04:53:09-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Why the cloud looks promising for Drupal hosting and scaling'
+summary: 'Why the cloud looks promising for Drupal hosting and scaling.'
 tags:
   - Drupal
   - 'Web performance'

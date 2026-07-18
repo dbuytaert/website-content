@@ -7,7 +7,7 @@ author:
 date: '2016-12-29T07:35:13-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'What the Canadian government can learn from the Australian government when it it comes to migrating to a new digital platform'
+summary: 'What the Canadian government can learn from the Australian government when it comes to migrating to a new digital platform.'
 tags:
   - 'Open Source'
   - Policy

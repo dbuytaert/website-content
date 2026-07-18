@@ -12,6 +12,7 @@ tags:
   - Acquia
   - Mollom
   - 'Startup lessons'
+  - Fundraising
 published: true
 featured: true
 id: 2031

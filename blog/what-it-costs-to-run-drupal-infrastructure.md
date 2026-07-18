@@ -7,9 +7,11 @@ author:
 date: '2026-03-10T18:30:34-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Drupal's infrastructure costs about $3 million a year, or $10 per site, but funding covers only $7.50, leaving a fragile gap."
 tags:
   - Drupal
   - 'Drupal Association'
+  - 'Open Source sustainability'
 image: blog/complex-infrastructure
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_what-does-it-cost-to-run-drupals-infrastructure-share-7437295844397125632-feut/' }

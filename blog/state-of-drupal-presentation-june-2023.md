@@ -7,7 +7,7 @@ author:
 date: '2023-06-12T15:02:05-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'DrupalCon North America 2023 DriesNote presentation'
+summary: 'DrupalCon North America 2023 DriesNote presentation.'
 tags:
   - 'State of Drupal'
   - Drupal

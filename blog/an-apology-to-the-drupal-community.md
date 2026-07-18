@@ -7,7 +7,7 @@ author:
 date: '2017-04-09T08:10:41-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'An apology to the Drupal community for causing grief and uncertainty, especially to those in the BDSM and kink communities'
+summary: 'An apology to the Drupal community for causing grief and uncertainty, especially to those in the BDSM and kink communities.'
 tags:
   - Drupal
   - Diversity

@@ -15,6 +15,7 @@ tags:
   - 'Acquia Cloud'
   - 'Drupal Gardens'
   - 'Drupal Commons'
+  - 'Business model'
 image: acquia/acquia-strategy-product-vision-2010-3
 published: true
 featured: true
@@ -91,7 +92,7 @@ Going forward you can expect even more developer tools and self-service tools to
 
 All sites are different. Not all your organization's website need the scale, functionality, complexity or longevity of your most important websites. A lot of times you have smaller sites that you may want to roll-out quickly, preferably without having to involve IT.
 
-For that, we built [Drupal Gardens](http://drupalgardens.com), a Drupal-as-a-service platform that makes building Drupal websites as simple as point and click. Built on Drupal 7, Drupal Gardens brings the freedom and innovation you expect from open source without having to worry about installing, hosting or upgrading your Drupal site.
+For that, we built [Drupal Gardens](http://drupalgardens.com), a Drupal-as-a-service platform that makes building Drupal websites as simple as point and click. Built on Drupal 7, Drupal Gardens brings the freedom and innovation you expect from Open Source without having to worry about installing, hosting or upgrading your Drupal site.
 
 Our mission for Drupal Gardens is to allow site builders to go from design to online in minutes instead of days or weeks. To help, we provide an ever-growing library of site templates and themes to start from. We believe it will be the best platform for your smaller sites that complement your primary web properties.
 

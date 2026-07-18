@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - Acquia
+  - 'Open Source sustainability'
 published: true
 id: 2676
 ---

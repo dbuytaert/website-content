@@ -7,6 +7,7 @@ author:
 date: '2026-01-30T15:41:12-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Moltbook lets AI agents share skills, hinting at a future where skills rewrite themselves by learning from each other.'
 tags:
   - 'Artificial Intelligence'
 discussions:

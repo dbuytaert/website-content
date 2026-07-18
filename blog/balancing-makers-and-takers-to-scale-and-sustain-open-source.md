@@ -11,6 +11,7 @@ summary: 'To scale and sustain Open Source ecosystems in a more efficient and fa
 tags:
   - Drupal
   - 'Open Source'
+  - 'Open Source sustainability'
 image: blog/open-source-makers-and-takers-1
 published: true
 featured: true
@@ -131,7 +132,7 @@ This can be summarized in a pay-off matrix:
 </colgroup>
   <tr>
   <td>
- </td>
+</td>
   <th>Company A contributes</th>
   <th>Company A doesn't contribute</th>
 </tr>
@@ -266,7 +267,7 @@ Let's assume a government-like central authority can monitor Open Source compani
 </colgroup>
   <tr>
   <td>
- </td>
+</td>
   <th>Company A contributes</th>
   <th>Company A doesn't contribute</th>
 </tr>

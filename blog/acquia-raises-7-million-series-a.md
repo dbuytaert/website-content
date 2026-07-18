@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - Acquia
+  - Fundraising
 published: true
 featured: true
 id: 371
@@ -23,7 +24,7 @@ So you're probably thinking: *"Wow, that's a lot of money! What are you going to
 
 Working with Jay to get this capital secured was an incredible experience: strolling around the areas where VCs all put their offices in [Boston](http://baycolonyma.com/index.html) and on [ Sand Hill Road](https://en.wikipedia.org/wiki/Sand_Hill_Road) in California, doing the work to show market opportunity, create business plans, working up the courage to pitch investors in partner meetings, and working with the lawyers on the mountains of paperwork. I certainly learned a lot about what investors look for, how they make decisions, etc.
 
-One of the things I'm really proud of is the quality of the investors that Jay and I managed to attract. Just like investors are extremely selective with regard to the companies they invest in, we have been picky about the VC firms that we wanted to work with. There have been few businesses that have tried to do what we're about to do, and so I'm really happy that we found investors that really "get" open source.
+One of the things I'm really proud of is the quality of the investors that Jay and I managed to attract. Just like investors are extremely selective with regard to the companies they invest in, we have been picky about the VC firms that we wanted to work with. There have been few businesses that have tried to do what we're about to do, and so I'm really happy that we found investors that really "get" Open Source.
 
 Now the money is in the bank, our first challenge is to build out the rest of the Acquia team. Many of our people will be working on things other than Drupal. They'll be building and testing services we plan to provide over the Internet, providing support to our customers, and evangelizing and building awareness for Acquia products and Drupal in general.
 

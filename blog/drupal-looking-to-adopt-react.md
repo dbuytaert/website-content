@@ -7,7 +7,7 @@ author:
 date: '2017-10-02T13:32:10-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Drupal looking to adopt React for its administrative UIs'
+summary: 'Drupal looking to adopt React for its administrative UIs.'
 tags:
   - Drupal
   - 'Headless Drupal'

@@ -7,11 +7,13 @@ author:
 date: '2016-11-08T04:23:35-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'The Drupal 8 media initiative aims to add core support for asset reuse, media browsing, and remote media.'
 tags:
   - Drupal
   - Entertainment
   - Publishing
 published: true
+featured: false
 id: 3811
 ---
 
@@ -25,7 +27,7 @@ This led me to propose a "media initiative" for Drupal 8 at DrupalCon New Orlean
 
 ## Problem statement
 
-While Drupal core provides basic media capabilities, contributed modules have to be used to meet the media management requirements of most websites. These contributed modules are powerful – look at Drupal's massive adoption in the media and entertainment market – but they are also not without some challenges.
+While Drupal Core provides basic media capabilities, contributed modules have to be used to meet the media management requirements of most websites. These contributed modules are powerful – look at Drupal's massive adoption in the media and entertainment market – but they are also not without some challenges.
 
 First, it is hard for end-users to figure out what combination of modules to use. Even after the right modules are selected, the installation and configuration of various modules can be daunting. Fortunately, there are a number of Drupal distributions that select and configure various contributed modules to offer better out-of-the-box experience for media handling. Acquia maintains [the Lightning distribution](https://www.drupal.org/project/lightning) as a general purpose set of components including media best practices. Hubert Burda Media [built the Thunder distribution](https://dri.es/thunder-a-drupal-distribution-for-publishers) and offers publishers strong media management capabilities. MD Systems [created the NP8 distribution](https://www.md-systems.ch/en/blog/md-systems/2016/08/09/md-systems-introduced-np8-to-the-big-apple) for news publishers which also bundles strong media features. While [I'm a big believer in Drupal distributions](https://dri.es/drupal-distributions), the vast majority of Drupal sites are not built with one of these distributions. Incorporating some of these media best practices in core would make them available to all end-users.
 

@@ -7,7 +7,7 @@ author:
 date: '2018-05-04T13:39:29-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'We have to make the decentralized, social web compliant with data protection regulation'
+summary: 'We have to make the decentralized, social web compliant with data protection regulation.'
 tags:
   - 'Open Web'
   - POSSE

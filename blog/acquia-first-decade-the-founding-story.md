@@ -12,6 +12,7 @@ tags:
   - Acquia
   - Drupal
   - 'Startup lessons'
+  - 'Business model'
 image: acquia/typical-work-day
 published: true
 featured: true

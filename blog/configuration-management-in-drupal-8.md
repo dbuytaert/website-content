@@ -7,6 +7,7 @@ author:
 date: '2011-03-28T08:18:25-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Drupal 8's Configuration Management Initiative aims to add tools for tracking, staging, and rolling back configuration changes."
 tags:
   - Drupal
   - Configuration

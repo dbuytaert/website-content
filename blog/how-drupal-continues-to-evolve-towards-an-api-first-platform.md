@@ -7,7 +7,7 @@ author:
 date: '2018-07-19T07:06:36-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: "A progress report on Drupal's API-first strategy"
+summary: "A progress report on Drupal's API-first strategy."
 tags:
   - Drupal
   - 'Web services'

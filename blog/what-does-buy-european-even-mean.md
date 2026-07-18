@@ -7,6 +7,7 @@ author:
 date: '2026-04-15T08:13:15-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'True digital sovereignty depends on Open Source licensing and resilient supply chains, not on where a company is headquartered or data is stored.'
 tags:
   - 'Digital sovereignty'
   - 'Open Source'

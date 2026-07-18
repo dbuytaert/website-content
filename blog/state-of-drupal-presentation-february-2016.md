@@ -7,7 +7,7 @@ author:
 date: '2016-03-24T09:14:18-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'DrupalCon Mumbai Driesnote presentation'
+summary: 'DrupalCon Mumbai Driesnote presentation.'
 tags:
   - Drupal
   - DrupalCon

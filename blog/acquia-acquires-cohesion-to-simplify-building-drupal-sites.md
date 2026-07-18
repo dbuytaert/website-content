@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - Acquia
+  - Acquisitions
 image: acquia/cohesion-editing-styles
 published: true
 id: 4916

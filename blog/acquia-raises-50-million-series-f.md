@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - Acquia
+  - Fundraising
 published: true
 id: 3146
 ---

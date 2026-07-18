@@ -7,7 +7,7 @@ author:
 date: '2018-05-17T13:42:52-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: "The key next steps required to decouple Drupal's administration UI and modernize it using a JavaScript framework"
+summary: "The key next steps required to decouple Drupal's administration UI and modernize it using a JavaScript framework."
 tags:
   - Drupal
   - JavaScript

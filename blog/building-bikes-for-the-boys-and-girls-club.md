@@ -7,7 +7,7 @@ author:
 date: '2018-02-02T13:53:56-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'How Acquia built 60 bikes for the children of the Boys and Girls Club of Boston'
+summary: 'How Acquia built 60 bikes for the children of the Boys and Girls Club of Boston.'
 tags:
   - Acquia
 image: acquia/bike-building-done

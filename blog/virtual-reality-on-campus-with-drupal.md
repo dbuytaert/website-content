@@ -7,7 +7,7 @@ author:
 date: '2018-06-06T06:13:46-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Take a virtual tour of the university campus from the comfort of your couch'
+summary: 'Take a virtual tour of the university campus from the comfort of your couch.'
 tags:
   - Drupal
   - Acquia

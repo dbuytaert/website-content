@@ -10,13 +10,14 @@ type: blog
 tags:
   - Acquia
   - 'Startup lessons'
+  - 'Business model'
 published: true
 id: 3031
 ---
 
 # Three important start-up lessons I learned
 
-When I started working on [Drupal](https://www.drupal.org/) in my college dormitory 12 years ago, I had no idea that one day it would be used by 2 percent of the world's websites. What is even more exciting is the open source community that has grown up around Drupal.
+When I started working on [Drupal](https://www.drupal.org/) in my college dormitory 12 years ago, I had no idea that one day it would be used by 2 percent of the world's websites. What is even more exciting is the Open Source community that has grown up around Drupal.
 
 I co-founded [Acquia](https://www.acquia.com/) six years ago to support the growing number of organizations that rely on Drupal, and also co-founded [Mollom](https://mollom.com) to solve the spam moderation challenges for website owners. Six years later, Mollom was acquired, and Acquia has almost 400 employees. As I've encountered challenges every step of the way. Here are three lessons learned.
 

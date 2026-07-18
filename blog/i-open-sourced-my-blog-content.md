@@ -7,6 +7,7 @@ author:
 date: '2025-12-15T05:15:17-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Nearly twenty years of blog posts, exported from Drupal as Markdown, now live in a public GitHub repository as a step toward long-term digital preservation.'
 tags:
   - 'Digital preservation'
   - 'Open Source'

@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - NowPublic
+  - Fundraising
 published: true
 id: 86
 ---

@@ -7,11 +7,12 @@ author:
 date: '2026-01-29T19:58:44-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'How Open Source communities can adapt to AI-generated contributions without overwhelming Open Source maintainers'
+summary: 'How Open Source communities can adapt to AI-generated contributions without overwhelming Open Source maintainers.'
 tags:
   - Drupal
   - 'Artificial Intelligence'
   - 'Open Source'
+  - 'Open Source sustainability'
 image: blog/asymmetric-ai-pressure
 discussions:
   - { platform: Drupal.org, url: 'https://www.drupal.org/project/drupal/issues/3570498' }

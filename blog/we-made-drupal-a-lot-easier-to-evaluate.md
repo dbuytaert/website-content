@@ -7,7 +7,7 @@ author:
 date: '2018-09-14T02:44:51-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Install Drupal in less than two minutes and experience a beautifully designed demo application'
+summary: 'Install Drupal in less than two minutes and experience a beautifully designed demo application.'
 tags:
   - Drupal
 image: drupal/improve-technical-evaluator-experience-2018

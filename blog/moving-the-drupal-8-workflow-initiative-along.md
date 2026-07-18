@@ -7,7 +7,7 @@ author:
 date: '2017-01-06T03:24:26-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: "An update on the workflow initiative's progress the past 9 months and an update on future plans"
+summary: "An update on the workflow initiative's progress the past 9 months and an update on future plans."
 tags:
   - Drupal
   - 'Workflow initiative'

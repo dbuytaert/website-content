@@ -7,6 +7,7 @@ author:
 date: '2018-12-05T05:56:22-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Drupal's Layout Builder must meet WCAG 2.0 AA conformance before a stable release, reflecting accessibility as core to Drupal's values."
 tags:
   - Drupal
   - WordPress

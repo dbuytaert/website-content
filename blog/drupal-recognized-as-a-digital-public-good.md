@@ -11,6 +11,7 @@ summary: "Drupal has been designated as a Digital Public Good.  This not only in
 tags:
   - Drupal
   - 'Drupal Association'
+  - 'Open Source sustainability'
 image: drupal/digital-public-good
 published: true
 id: 5456

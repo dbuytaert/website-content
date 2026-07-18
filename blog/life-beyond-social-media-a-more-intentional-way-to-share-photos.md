@@ -7,6 +7,7 @@ author:
 date: '2025-10-08T06:29:01-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Sharing photos on a personal website instead of Instagram, using an RSS feed and a monthly newsletter to stay connected without tracking.'
 tags:
   - 'My site'
   - Drupal

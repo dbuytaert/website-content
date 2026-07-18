@@ -7,7 +7,7 @@ author:
 date: '2018-02-25T20:56:19-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Working towards being able to publish notes and photos from my phone'
+summary: 'Working towards being able to publish notes and photos from my phone.'
 tags:
   - Drupal
   - POSSE

@@ -7,12 +7,13 @@ author:
 date: '2015-02-19T14:57:32-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'An overview of the biggest performance and scalability improvements in Drupal 8.'
+summary: "Drupal 8's performance gains come from cache tags, cache contexts, placeholder substitution, and a BigPipe-style render pipeline."
 tags:
   - Drupal
   - 'Web performance'
 image: drupal/drupal-8-render-pipeline
 published: true
+featured: false
 id: 3336
 ---
 

@@ -7,7 +7,7 @@ author:
 date: '2019-04-15T10:38:25-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'DrupalCon Seattle Driesnote presentation'
+summary: 'DrupalCon Seattle Driesnote presentation.'
 tags:
   - Drupal
   - 'State of Drupal'

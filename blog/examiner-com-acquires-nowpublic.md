@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - NowPublic
+  - Acquisitions
 published: true
 id: 971
 ---

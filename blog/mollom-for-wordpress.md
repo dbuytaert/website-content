@@ -7,7 +7,7 @@ author:
 date: '2008-07-03T04:27:38-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'We now have a WordPress plugin for Mollom'
+summary: 'We now have a WordPress plugin for Mollom.'
 tags:
   - WordPress
   - Mollom

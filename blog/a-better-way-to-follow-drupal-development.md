@@ -7,6 +7,7 @@ author:
 date: '2026-02-19T11:14:58-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Drupal Digests is a tool that watches Drupal issue queues and uses AI to write summaries, published as Markdown files and RSS feeds.'
 tags:
   - Drupal
 discussions:

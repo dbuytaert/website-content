@@ -11,6 +11,7 @@ tags:
   - Acquia
   - 'Startup lessons'
   - Investing
+  - Fundraising
 published: true
 id: 2016
 ---
@@ -31,6 +32,6 @@ Being able to project how much cash you'll need is an important discipline to ma
 
 Trying to determine how much money you need feels like trying to solve an equation with too many unknowns. It's a balance between the size of the opportunity, increasing the likelihood of success, optimizing for the financial outcome of all employees, the business' situation relative to the market, and so forth.
 
-At Acquia, we made assumptions about the number of customers, average sale price, customer acquisition cost, product mix, etc. We used these assumptions to estimate our costs and revenues. To help ensure that we weren't fooling ourselves, we tried to validate as many of our assumptions by talking to other entrepreneurs and comparable companies. So we talked to key people from other open source companies (e.g., MySQL and jBoss) that are in the commercial support business.
+At Acquia, we made assumptions about the number of customers, average sale price, customer acquisition cost, product mix, etc. We used these assumptions to estimate our costs and revenues. To help ensure that we weren't fooling ourselves, we tried to validate as many of our assumptions by talking to other entrepreneurs and comparable companies. So we talked to key people from other Open Source companies (e.g., MySQL and jBoss) that are in the commercial support business.
 
 The better your assumptions, the better you can estimate how much capital it takes to build your company. In each of our funding rounds, we raised at least enough money to achieve our goals and some extra beyond our plans to handle bad surprises or unexpected opportunities. So far, that has been a good strategy for us.

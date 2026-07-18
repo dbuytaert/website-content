@@ -11,6 +11,7 @@ tags:
   - Drupal
   - Acquia
   - 'Open Source'
+  - 'Business model'
 published: true
 featured: false
 id: 2306
@@ -18,7 +19,7 @@ id: 2306
 
 # Hopes and beliefs for Open Source web projects
 
-Open source is the best way to build and distribute software. There are few things about which I'm more convinced. In some, but not all cases, Open Source also offers a viable business model. When it does, it's great because it allows you to do well and do good at the same time. I'm convinced that Open Source is the future for all software needs, but niche applications. I believe in this so sincerely that I've spent over ten years of my life building Open Source software, and I haven't once faltered on my resolve. In fact, I've become more convinced over the years.
+Open Source is the best way to build and distribute software. There are few things about which I'm more convinced. In some, but not all cases, Open Source also offers a viable business model. When it does, it's great because it allows you to do well and do good at the same time. I'm convinced that Open Source is the future for all software needs, but niche applications. I believe in this so sincerely that I've spent over ten years of my life building Open Source software, and I haven't once faltered on my resolve. In fact, I've become more convinced over the years.
 
 The second factor about which I'm convinced is that traditional hosting as we know it today will be for bespoke applications. Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS) will become the de-facto standard for building and hosting web applications, especially in combination with Open Source web applications. I believe in this so much that I've been betting Acquia on it since its inception three and a half years ago. Now it seems the markets are aligning with that vision: the hosting industry, after years of being dormant, is going through a new innovation cycle driven by "cloud computing".
 

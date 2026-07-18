@@ -12,6 +12,7 @@ tags:
   - Drupal
   - 'Drupal sponsors'
   - Diversity
+  - 'Open Source sustainability'
 image: drupal/contributions-by-individuals-vs-organizations-2020
 published: true
 id: 5086
@@ -38,7 +39,7 @@ You can also look at the [2016 report](https://dri.es/who-sponsors-drupal-develo
 
 ### What data did we analyze?
 
-We looked at all Drupal.org issues marked "closed" or "fixed" in the 12-month period from July 1, 2019 to June 30, 2020. This for Drupal core and all contributed projects, across all major versions of Drupal.
+We looked at all Drupal.org issues marked "closed" or "fixed" in the 12-month period from July 1, 2019 to June 30, 2020. This for Drupal Core and all contributed projects, across all major versions of Drupal.
 
 ### What are Drupal.org issues?
 
@@ -61,32 +62,32 @@ In total, the Drupal community worked on 4,195 different Drupal.org projects thi
 
 <small>
   <table>
-   <colgroup>
-    <col style="width: 20%">
-    <col style="width: 40%">
-    <col style="width: 40%">
-  </colgroup>
-   <tr>
-    <th>Time period</th>
-    <th style="text-align: right;">Number of issues "fixed" or "closed" by day</th>
-    <th style="text-align: right;">Number of projects worked on</th>
-  </tr>
-   <tr>
-    <td>2017 - 2018</td>
-    <td style="text-align: right;">67</td>
-    <td style="text-align: right;">3,229</td>
-  </tr>
-   <tr>
-    <td>2018 - 2019</td>
-    <td style="text-align: right;">75</td>
-    <td style="text-align: right;">3,474</td>
-  </tr>
-   <tr>
-    <td>2019 - 2020</td>
-    <td style="text-align: right;">85</td>
-    <td style="text-align: right;">4,195</td>
-  </tr>
- </table>
+  <colgroup>
+   <col style="width: 20%">
+   <col style="width: 40%">
+   <col style="width: 40%">
+ </colgroup>
+  <tr>
+   <th>Time period</th>
+   <th style="text-align: right;">Number of issues "fixed" or "closed" by day</th>
+   <th style="text-align: right;">Number of projects worked on</th>
+ </tr>
+  <tr>
+   <td>2017 - 2018</td>
+   <td style="text-align: right;">67</td>
+   <td style="text-align: right;">3,229</td>
+ </tr>
+  <tr>
+   <td>2018 - 2019</td>
+   <td style="text-align: right;">75</td>
+   <td style="text-align: right;">3,474</td>
+ </tr>
+  <tr>
+   <td>2019 - 2020</td>
+   <td style="text-align: right;">85</td>
+   <td style="text-align: right;">4,195</td>
+ </tr>
+</table>
 </small>
 
 The majority of the credits are the result of work on contributed modules:
@@ -107,9 +108,9 @@ For this report's time period, Drupal.org's credit system received contributions
 
 Consistent with previous years, approximately 50% of individual contributors received one credit. Meanwhile, the top 30 contributors (the top 0.4%) account for 20% of the total credits. In other words, a small number of individuals do the majority of the work.
 
-Starting last year, I weighted each credit based on the adoption of the project the credit is attributed to. For example, each contribution credit to Drupal core is given a weight of 10 because Drupal core has about 1 million active installations. Credits to the [Webform module](https://www.drupal.org/project/webform), which has over 470,000 installations, get a weight of 4.7. And credits to [Drupal's Commerce project](https://www.drupal.org/project/commerce) get 0.6 points, as it is installed on around 60,000 sites.
+Starting last year, I weighted each credit based on the adoption of the project the credit is attributed to. For example, each contribution credit to Drupal Core is given a weight of 10 because Drupal Core has about 1 million active installations. Credits to the [Webform module](https://www.drupal.org/project/webform), which has over 470,000 installations, get a weight of 4.7. And credits to [Drupal's Commerce project](https://www.drupal.org/project/commerce) get 0.6 points, as it is installed on around 60,000 sites.
 
-The idea is that these weights capture the end user impact of each contribution, but also act as a proxy for the effort required to get a change committed. Getting a change accepted in Drupal core is both more difficult and more impactful than getting a change accepted to a much smaller, contributed project.
+The idea is that these weights capture the end user impact of each contribution, but also act as a proxy for the effort required to get a change committed. Getting a change accepted in Drupal Core is both more difficult and more impactful than getting a change accepted to a much smaller, contributed project.
 
 This weighting is far from perfect, but so is the unweighted view. For code contributions, the weighted chart may be more accurate than a purely unweighted approach. I included both charts:
 
@@ -153,31 +154,31 @@ A variety of different types of companies are active in Drupal's ecosystem:
 
 <table>
   <thead>
-   <tr>
-    <th>Category</th>
-    <th>Description</th>
-  </tr>
- </thead>
   <tr>
-   <td>Traditional Drupal businesses</td>
-   <td>Small-to-medium-sized professional services companies that primarily make money using Drupal. They typically employ fewer than 100 employees. Because they specialize in Drupal, many of these companies contribute frequently and are a huge part of our community. Examples are Third &amp; Grove, Srijan, PreviousNext, MD Systems, etc.</td>
+   <th>Category</th>
+   <th>Description</th>
  </tr>
+</thead>
   <tr>
-   <td>Digital marketing agencies</td>
-   <td>Larger full-service agencies that have marketing-led practices using a variety of tools, typically including Drupal, Adobe Experience Manager, Sitecore, WordPress, etc. Many of these larger agencies employ thousands of people. Examples are Wunderman, Possible, and Mirum.</td>
- </tr>
+  <td>Traditional Drupal businesses</td>
+  <td>Small-to-medium-sized professional services companies that primarily make money using Drupal. They typically employ fewer than 100 employees. Because they specialize in Drupal, many of these companies contribute frequently and are a huge part of our community. Examples are Third &amp; Grove, Srijan, PreviousNext, MD Systems, etc.</td>
+</tr>
   <tr>
-   <td>System integrators</td>
-   <td>Larger companies that specialize in bringing together different technologies into one solution. Example system integrators are Accenture, TATA Consultancy Services, EPAM Systems, and CI&amp;T.</td>
- </tr>
+  <td>Digital marketing agencies</td>
+  <td>Larger full-service agencies that have marketing-led practices using a variety of tools, typically including Drupal, Adobe Experience Manager, Sitecore, WordPress, etc. Many of these larger agencies employ thousands of people. Examples are Wunderman, Possible, and Mirum.</td>
+</tr>
   <tr>
-   <td>Hosting companies</td>
-   <td>Examples are Acquia, Pantheon, and Platform.sh, but also Rackspace or Bluehost.</td>
- </tr>
+  <td>System integrators</td>
+  <td>Larger companies that specialize in bringing together different technologies into one solution. Example system integrators are Accenture, TATA Consultancy Services, EPAM Systems, and CI&amp;T.</td>
+</tr>
   <tr>
-   <td>End users</td>
-   <td>Examples are Pfizer or bio.logis Genetic Information Management GmbH.</td>
- </tr>
+  <td>Hosting companies</td>
+  <td>Examples are Acquia, Pantheon, and Platform.sh, but also Rackspace or Bluehost.</td>
+</tr>
+  <tr>
+  <td>End users</td>
+  <td>Examples are Pfizer or bio.logis Genetic Information Management GmbH.</td>
+</tr>
 </table>
 
 A few observations:

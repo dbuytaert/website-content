@@ -10,6 +10,7 @@ type: blog
 tags:
   - 'Open Source'
   - Drupal
+  - 'Open Source sustainability'
 image: blog/blue-wave
 published: true
 id: 4976

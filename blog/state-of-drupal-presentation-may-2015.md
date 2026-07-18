@@ -7,7 +7,7 @@ author:
 date: '2015-06-01T10:27:59-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'DrupalCon Los Angeles Driesnote presentation'
+summary: 'DrupalCon Los Angeles Driesnote presentation.'
 tags:
   - Drupal
   - 'State of Drupal'

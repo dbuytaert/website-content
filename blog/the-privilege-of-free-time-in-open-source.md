@@ -12,6 +12,7 @@ tags:
   - Drupal
   - Diversity
   - 'Open Source'
+  - 'Open Source sustainability'
 image: blog/free-time-to-contribute-is-a-privilege
 published: true
 featured: true

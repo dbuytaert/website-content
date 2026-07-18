@@ -7,7 +7,7 @@ author:
 date: '2006-01-27T04:07:30-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'More than 100 people have registered to attend the 2010 Open Source CMS Summit'
+summary: 'More than 100 people have registered to attend the 2010 Open Source CMS Summit.'
 tags:
   - Drupal
   - DrupalCon

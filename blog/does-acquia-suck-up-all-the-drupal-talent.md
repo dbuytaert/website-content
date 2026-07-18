@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - Acquia
+  - 'Open Source sustainability'
 published: true
 id: 2477
 ---
@@ -22,7 +23,7 @@ While some of these concerns have validity, I also think there is also a fair sh
 
 In terms of growth, Acquia currently employs about 150 people. However, fewer than half of Acquia's employees work directly with Drupal; the majority of Acquians work in sales, marketing, hosting operations, finance, HR, etc. In a way, this makes us smaller than Phase2, Node One, Forum One, Propeople, Capgemini, and dozens of other shops in terms of Drupal staff. We have a different mix than most other Drupal shops.
 
-In terms of influence, Acquia employs fewer than 10% of the contributors to Drupal core. Admittedly, on a "per Drupalist" basis, Acquia probably contributes significantly more code and magnitudes more dollars to the Drupal community than any other organization. We are investing in expanding the Drupal community through major learning initiatives. We sponsor more DrupalCamps, where new people are introduced to Drupal, than anyone. We sponsor more interns than perhaps the rest of the community combined, where high school and university students learn how to build a career in Drupal. Not to mention we contribute a lot of code.
+In terms of influence, Acquia employs fewer than 10% of the contributors to Drupal Core. Admittedly, on a "per Drupalist" basis, Acquia probably contributes significantly more code and magnitudes more dollars to the Drupal community than any other organization. We are investing in expanding the Drupal community through major learning initiatives. We sponsor more DrupalCamps, where new people are introduced to Drupal, than anyone. We sponsor more interns than perhaps the rest of the community combined, where high school and university students learn how to build a career in Drupal. Not to mention we contribute a lot of code.
 
 I like to believe that is a great thing for Drupal and that not doing so would be a big loss for all of us.
 

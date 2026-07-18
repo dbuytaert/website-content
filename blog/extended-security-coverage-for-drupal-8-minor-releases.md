@@ -7,7 +7,7 @@ author:
 date: '2018-09-13T02:50:45-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Drupal 8 site owners now have six months to upgrade between minor releases instead of one month'
+summary: 'Drupal 8 site owners now have six months to upgrade between minor releases instead of one month.'
 tags:
   - Drupal
   - Security

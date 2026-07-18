@@ -11,6 +11,7 @@ summary: 'Existing investors doubled down with an $8 million series B, bringing 
 tags:
   - Drupal
   - Acquia
+  - Fundraising
 published: true
 id: 861
 ---

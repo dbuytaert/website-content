@@ -7,6 +7,7 @@ author:
 date: '2026-01-20T14:39:26-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Autonomous coding agents work best when success is clearly defined. As a result, the craft of software development is shifting from writing code to specifying outcomes and validating results.'
 tags:
   - 'Artificial Intelligence'
   - Automation

@@ -11,6 +11,7 @@ tags:
   - Drupal
   - Acquia
   - 'Acquia Search'
+  - 'Business model'
 published: true
 id: 781
 ---
@@ -27,6 +28,6 @@ Reality is that for a certain class of websites – like intranets or e-commerce
 
 Secondly, why don't we just implement improvements in Drupal's core search module? As I've noted, search is a difficult problem – it is hard for Drupal to compete with enterprise-grade search engines, to keep up with advances in search technology, and to do both while continuing to run in shared hosting environments. Instead, Acquia Search leverages the Open Source [Lucene](http://lucene.apache.org/) and [Solr](http://lucene.apache.org/solr/) distributions from the Apache project.
 
-The search module shipped with Drupal core has its purpose and target audience. It isn't right for everyone, just as [Acquia Search](https://www.acquia.com/products-services/acquia-search) is not for everyone. Both are important, not just for the Drupal community at large, but also for many of Acquia's own customers. Regardless, there is no question that we need to keep investing and improving Drupal's built-in search. The search module that is built into Drupal 7 already has improvements over the one in Drupal 6, in part because of Acquia's support of the [Search sprint in Minnesota](https://groups.drupal.org/node/4102/minnesota-search-sprint).
+The search module shipped with Drupal Core has its purpose and target audience. It isn't right for everyone, just as [Acquia Search](https://www.acquia.com/products-services/acquia-search) is not for everyone. Both are important, not just for the Drupal community at large, but also for many of Acquia's own customers. Regardless, there is no question that we need to keep investing and improving Drupal's built-in search. The search module that is built into Drupal 7 already has improvements over the one in Drupal 6, in part because of Acquia's support of the [Search sprint in Minnesota](https://groups.drupal.org/node/4102/minnesota-search-sprint).
 
-I'm hopeful that we can scale up our investments in Acquia Search as we grow the search component of our business. There is a lot more we can do, so I'd like to see us become active contributors to Apache Lucene and Solr, as well as continue to ramp our contributions to the [different Apache Solr projects on drupal.org](https://www.drupal.org/project/apachesolr), as well as Drupal core's built-in search.
+I'm hopeful that we can scale up our investments in Acquia Search as we grow the search component of our business. There is a lot more we can do, so I'd like to see us become active contributors to Apache Lucene and Solr, as well as continue to ramp our contributions to the [different Apache Solr projects on drupal.org](https://www.drupal.org/project/apachesolr), as well as Drupal Core's built-in search.

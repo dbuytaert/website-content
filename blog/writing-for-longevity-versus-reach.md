@@ -7,10 +7,12 @@ author:
 date: '2025-10-02T17:56:55-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Social media offers reach but its content vanishes in days, while blog posts on your own site compound and stay findable for years.'
 tags:
   - Writing
 image: foocamp-2007/jeff-robbins-larry-page-and-evan-williams
 published: true
+featured: false
 id: 5881
 ---
 

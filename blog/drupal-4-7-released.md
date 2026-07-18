@@ -7,7 +7,7 @@ author:
 date: '2006-05-01T06:40:59-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'After more than a year of development, we just released Drupal 4.7.0'
+summary: 'After more than a year of development, we just released Drupal 4.7.0.'
 tags:
   - Drupal
 published: true

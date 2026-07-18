@@ -11,6 +11,7 @@ summary: 'An in-depth overview of the dilutive effects of multiple rounds of fun
 tags:
   - 'Startup lessons'
   - Investing
+  - Fundraising
 image: blog/founder-dilution
 published: true
 featured: true

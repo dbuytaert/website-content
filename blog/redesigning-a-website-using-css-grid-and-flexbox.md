@@ -7,6 +7,7 @@ author:
 date: '2018-10-18T18:53:56-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'A tutorial on rebuilding dri.es with CSS Grid and Flexbox, replacing 15 years of float-based layouts.'
 tags:
   - CSS
 image: blog/css-page-layout

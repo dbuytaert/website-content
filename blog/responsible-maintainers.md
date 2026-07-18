@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - Leadership
+  - 'Open Source sustainability'
 published: true
 id: 126
 ---

@@ -11,6 +11,7 @@ tags:
   - Drupal
   - Acquia
   - Retrospective
+  - 'Business model'
 published: true
 id: 3096
 ---
@@ -48,6 +49,6 @@ I'm particularly proud of Acquia's contributions to Drupal. It's part of our phi
 
 ## Conclusion
 
-What I'm most proud of is that we have accomplished all of this "the open source way". Since Acquia's interests are so aligned with Drupal's, we try to raise the tide for the Drupal community at large.
+What I'm most proud of is that we have accomplished all of this "the Open Source way". Since Acquia's interests are so aligned with Drupal's, we try to raise the tide for the Drupal community at large.
 
 At the end of the day, we're not selling Drupal or cloud hosting. We're selling what can be done with Drupal. The belief in the limitless. No matter what you dream, you can do it, and Drupal will get you there – and Acquia is here to help you succeed. Thank you for 2013, and we're looking forward to working with more customers that are changing the world.

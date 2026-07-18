@@ -15,6 +15,7 @@ tags:
   - Accessibility
   - Mautic
   - Retrospective
+  - 'Business model'
 image: acquia/open-dxp-2023
 published: true
 featured: false
@@ -140,7 +141,7 @@ In 2023, we remained focused on solving problems for our current and future cust
 - Our Drupal Acceleration Team (DAT) worked with the [Drupal community](https://www.drupal.org) on major upgrade of the Drupal field UI, which makes it significantly faster and more user-friendly to perform content modeling. We also [open sourced Acquia Migrate Accelerate](https://dev.acquia.com/blog/acquia-migrate-accelerate-now-open-source) as part of the run-up to the Drupal 7 community end-of-life in January 2025. Finally, DAT contributed to a number of major ongoing initiatives including Project Browser, Automatic Updates, Page Building, Recipes, and more that will be seen in later versions of Drupal.
 - We launched [a new trial experience for Acquia Cloud Platform](https://www.acquia.com/products/acquia-cloud-platform/free-trial), our Drupal platform. Organizations can now explore Acquia's hosting and developer tools to see how their Drupal applications perform on our platform.
 - Our Kuberbetes-native Drupal hosting platform backed by AWS, [Acquia Cloud Next](https://dri.es/acquia-cloud-next-a-journey-in-platform-modernization), continued to roll out to more customers. Over two-thirds of our customers are now enjoying Acquia Cloud Next, which provides them the highest levels of performance, self-healing, and dynamic scaling. We've seen a 50% decrease in critical support tickets since transitioning customers to Acquia Cloud Next, all while maintaining an impressive uptime record of 99.99% or higher.
-- Our open source marketing automation tool, Acquia Campaign Studio, is now running on [Acquia Cloud Next](https://dri.es/acquia-cloud-next-a-journey-in-platform-modernization) as its core processing platform. This consolidation benefits everyone: it streamlines and accelerates innovation for us while enabling our customers to deliver targeted and personalized messages at a massive scale.
+- Our Open Source marketing automation tool, Acquia Campaign Studio, is now running on [Acquia Cloud Next](https://dri.es/acquia-cloud-next-a-journey-in-platform-modernization) as its core processing platform. This consolidation benefits everyone: it streamlines and accelerates innovation for us while enabling our customers to deliver targeted and personalized messages at a massive scale.
 - We decided to [make Mautic a completely independent Open Source project](https://dri.es/mautic-to-become-an-independent-open-source-project), letting it grow and change freely. We've remained the top contributor ever since.
 - Marketers can now easily shape the Acquia CDP data model using low-code tools, custom attributes and custom calculations features. This empowers all Acquia CDP users, regardless of technical skill, to explore new use cases.
 - Acquia CDP's updated architecture enables nearly limitless elasticity, which allows the platform to scale automatically based on demand. We put this to the test during Black Friday, when our CDP efficiently handled billions of events. Our new architecture has led to faster, more consistent processing times, with speeds improving by over 70%.

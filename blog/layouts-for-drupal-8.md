@@ -7,9 +7,11 @@ author:
 date: '2012-03-02T11:41:13-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'The Layout Initiative aims to turn all page elements into contextual blocks arranged through a drag-and-drop interface in Drupal 8.'
 tags:
   - Drupal
 published: true
+featured: false
 id: 2656
 ---
 

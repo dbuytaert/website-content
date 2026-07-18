@@ -7,7 +7,7 @@ author:
 date: '2020-07-20T07:38:59-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'DrupalCon Global Driesnote presentation'
+summary: 'DrupalCon Global Driesnote presentation.'
 tags:
   - Drupal
   - DrupalCon

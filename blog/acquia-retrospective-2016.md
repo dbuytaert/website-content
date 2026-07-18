@@ -11,6 +11,7 @@ tags:
   - Acquia
   - Drupal
   - Retrospective
+  - 'Business model'
 published: true
 id: 3861
 ---
@@ -27,9 +28,9 @@ If I were to give Acquia a headline for 2016, it would be the year in which we c
 
 The "chasm" describes the difficult transition conceived by Geoffrey Moore in his 1991 classic of technology strategy, [Crossing the Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm). This is the book that talks about making the transition from selling to the early adopters of a product (the technology enthusiasts and visionaries) to the early majority (the pragmatists). If the early majority accepts the technology solutions and products, they can make a company a de facto standard for its category.
 
-I think future retrospectives will endorse my opinion that Acquia crossed the chasm in 2016. I believe that Acquia has crossed the "chasm" because the world has embraced open source and the cloud without any reservations. The FUD-era where proprietary software giants campaigned aggressively against open source and cloud computing by sowing fear, uncertainty and doubt is over. Ironically, those same critics are now scrambling to paint themselves as committed to open source and cloud architectures. Today, I believe that Acquia sets the standard for digital experiences built with open source and delivered in the cloud.
+I think future retrospectives will endorse my opinion that Acquia crossed the chasm in 2016. I believe that Acquia has crossed the "chasm" because the world has embraced Open Source and the cloud without any reservations. The FUD-era where proprietary software giants campaigned aggressively against Open Source and cloud computing by sowing fear, uncertainty and doubt is over. Ironically, those same critics are now scrambling to paint themselves as committed to Open Source and cloud architectures. Today, I believe that Acquia sets the standard for digital experiences built with Open Source and delivered in the cloud.
 
-When Tom (my business partner and Acquia CEO) and I spoke together at Acquia's annual customer conference in November, we talked about the two founding pillars that have served Acquia well over its history: open source and cloud. In 2008, we made a commitment to build a company based on open source and the cloud, with its products and services offered through a subscription model rather than a perpetual license. At the time, our industry was skeptical of this forward-thinking combination. It was a bold move, but we have always believed that this combination offers significant advantages over proprietary software because of its faster rate of innovation, higher quality, freedom from vendor lock-in, greater security, and lower total cost of ownership.
+When Tom (my business partner and Acquia CEO) and I spoke together at Acquia's annual customer conference in November, we talked about the two founding pillars that have served Acquia well over its history: Open Source and cloud. In 2008, we made a commitment to build a company based on Open Source and the cloud, with its products and services offered through a subscription model rather than a perpetual license. At the time, our industry was skeptical of this forward-thinking combination. It was a bold move, but we have always believed that this combination offers significant advantages over proprietary software because of its faster rate of innovation, higher quality, freedom from vendor lock-in, greater security, and lower total cost of ownership.
 
 ## Creating digital winners
 
@@ -39,7 +40,7 @@ In 2016, we updated Acquia's vision to "make it possible for dreamers and doers 
 
 We increasingly find ourselves at the center of our customer's technology and digital strategies, and they depend on us to provide the open platform to integrate, syndicate, govern and distribute all of their digital business.
 
-The focus on any and every part of their digital business is important and sets us apart from our competitors. Nearly all of our competitors offer single-point solutions for marketers, customer service, online commerce or for portals. An open source model allows customers to integrate systems together through open APIs, which enables our technology to fit into any part of their existing environment. It gives them the freedom to pursue a best-of-breed strategy outside of the confines of a proprietary "marketing cloud".
+The focus on any and every part of their digital business is important and sets us apart from our competitors. Nearly all of our competitors offer single-point solutions for marketers, customer service, online commerce or for portals. An Open Source model allows customers to integrate systems together through open APIs, which enables our technology to fit into any part of their existing environment. It gives them the freedom to pursue a best-of-breed strategy outside of the confines of a proprietary "marketing cloud".
 
 ## Business momentum
 
@@ -101,11 +102,11 @@ Entering 2017, I believe that Acquia is positioned for long-term success. Here a
 - The current market for content, commerce, and community-focused digital experiences is growing rapidly at just under 20 percent per year.
 - We hold a leadership position in our market, despite our relative market share being small. The analysts gave Acquia top marks for our strategic roadmap, vision and execution.
 - Digitization is top-of-mind for all organizations and impacts all elements of their business and value chain. Digital first businesses are seeking platforms that not only work for marketing, but also for service, compliance, portals, commerce and more.
-- Open source combined with the cloud continue to grow at a furious pace. The continuing rise of the developer's influence on technology selection also works in our favor.
+- Open Source combined with the cloud continue to grow at a furious pace. The continuing rise of the developer's influence on technology selection also works in our favor.
 - Drupal 8 is the most significant advance in the evolution of the Drupal and [Drupal's new innovation model](https://dri.es/the-transformation-of-drupal-8-for-continuous-innovation) allows the Drupal community to innovate faster than ever before.
-- Recent advances in machine learning, Internet of Things, augmented reality, speech technology, and conversational interfaces all coming to fruition will lead to [new customer experiences](https://dri.es/cross-channel-user-experiences-with-drupal) and business models, reinforcing the need for API-first solutions and the levels of freedom that only open source and cloud computing offer.
+- Recent advances in machine learning, Internet of Things, augmented reality, speech technology, and conversational interfaces all coming to fruition will lead to [new customer experiences](https://dri.es/cross-channel-user-experiences-with-drupal) and business models, reinforcing the need for API-first solutions and the levels of freedom that only Open Source and cloud computing offer.
 
-As I explained at the beginning of this retrospective, trends and cycles reveal themselves over time. After reflecting on 2016, I believe that Acquia is in a unique position. As the world has embraced open source and cloud without reservation, our long-term commitment to this disruptive combination has put us at the right place at the right time. Our investments in expanding the breadth of our platform with products like Acquia Lift and Site Factory are also starting to pay off.
+As I explained at the beginning of this retrospective, trends and cycles reveal themselves over time. After reflecting on 2016, I believe that Acquia is in a unique position. As the world has embraced Open Source and cloud without reservation, our long-term commitment to this disruptive combination has put us at the right place at the right time. Our investments in expanding the breadth of our platform with products like Acquia Lift and Site Factory are also starting to pay off.
 
 However, Acquia's success is not only determined by the technology we back. Our unique innovation model, which is impossible to cultivate with proprietary software, combined with our commitment to customer success has also contributed to our "crossing of the chasm."
 

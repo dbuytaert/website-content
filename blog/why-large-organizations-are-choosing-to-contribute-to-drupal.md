@@ -11,6 +11,7 @@ summary: 'Open source offers organizations a completely different way of working
 tags:
   - Drupal
   - 'Open Source'
+  - 'Open Source sustainability'
 published: true
 featured: true
 id: 4441

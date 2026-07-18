@@ -7,9 +7,11 @@ author:
 date: '2009-09-02T18:21:49-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'The Drupal 7 code freeze is extended to September 7th, followed by a five-week "code slush" that allows limited exceptions before final polish.'
 tags:
   - Drupal
 published: true
+featured: false
 id: 961
 ---
 

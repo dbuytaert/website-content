@@ -7,7 +7,7 @@ author:
 date: '2017-03-08T07:54:31-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'We found a way to innovate fast yet provide a smooth learning curve and upgrade path from Drupal 8 to Drupal 9'
+summary: 'We found a way to innovate fast yet provide a smooth learning curve and upgrade path from Drupal 8 to Drupal 9.'
 tags:
   - Drupal
 image: drupal/the-promise-of-making-drupal-upgrades-easy

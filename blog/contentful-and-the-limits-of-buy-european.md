@@ -11,6 +11,7 @@ tags:
   - Drupal
   - 'Open Source'
   - 'Digital sovereignty'
+  - Acquisitions
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_salesforce-is-acquiring-contentful-one-of-share-7467287100405469184-Tprp/' }
 published: true

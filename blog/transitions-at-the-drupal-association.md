@@ -7,6 +7,7 @@ author:
 date: '2012-06-28T13:25:50-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Executive Director Jacob Redding plans to step down later this year, and the Drupal Association is seeking a replacement to lead its next stage of growth.'
 tags:
   - Drupal
   - 'Drupal Association'

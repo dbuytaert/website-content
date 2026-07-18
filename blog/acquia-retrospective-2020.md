@@ -12,6 +12,7 @@ tags:
   - Retrospective
   - Acquia
   - Drupal
+  - 'Business model'
 image: acquia/product-portfolio-2020
 published: true
 id: 5131

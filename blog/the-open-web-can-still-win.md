@@ -7,7 +7,7 @@ author:
 date: '2019-03-12T17:07:14-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Three stars will align and the Open Web will win.'
+summary: "On the web's 30th birthday, data regulation, algorithmic oversight, and blockchain are seen as three shifts that could help the Open Web win."
 tags:
   - 'Open Web'
   - Policy
@@ -28,7 +28,7 @@ Today, the world wide web celebrates its 30th birthday. In 1989, Sir Tim Berners
 ![Tim Berners-Lee sitting in front of a computer showing the first website](http://default/files/cache/blog/tim-berners-lee-640w.jpg)
 *<a href="https://en.wikipedia.org/wiki/Tim\_Berners-Lee">Tim Berners-Lee</a>, inventor of the World Wide Web, in front of the early web.*
 
-Milestones like this get me thinking about the positive impact a free and Open Web has had on society. Without the web, billions of people would not have been able to connect with one another, be entertained, start businesses, exchange ideas, or even save lives. Open source communities like [Drupal](https://www.drupal.org/) would not exist.
+Milestones like this get me thinking about the positive impact a free and Open Web has had on society. Without the web, billions of people would not have been able to connect with one another, be entertained, start businesses, exchange ideas, or even save lives. Open Source communities like [Drupal](https://www.drupal.org/) would not exist.
 
 As optimistic as I am about the web's impact on society, there have been [many recent events](https://dri.es/pulling-the-plug-on-facebook) that have caused me to question the Open Web's future. Too much power has fallen into the hands of relatively few platform companies, resulting in widespread misinformation, privacy beaches, bullying, and more.
 

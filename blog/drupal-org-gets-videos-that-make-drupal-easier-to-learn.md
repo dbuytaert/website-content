@@ -7,7 +7,7 @@ author:
 date: '2018-05-29T07:17:21-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'The tutorials in the Drupal 8 User Guide are now accompanied by short instructional videos'
+summary: 'The tutorials in the Drupal 8 User Guide are now accompanied by short instructional videos.'
 tags:
   - Drupal
   - Usability

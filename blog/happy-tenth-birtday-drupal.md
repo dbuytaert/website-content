@@ -7,12 +7,13 @@ author:
 date: '2011-01-15T10:07:21-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Looking back at 10 years of Drupal'
+summary: 'Drupal turns ten, marking a decade since Drupal 1.0.0 and coinciding with the release of Drupal 7.'
 tags:
   - Drupal
   - Birthday
 image: drupal/happy-tenth-birthday
 published: true
+featured: false
 id: 2111
 ---
 

@@ -7,6 +7,7 @@ author:
 date: '2022-03-28T10:06:22-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'A weekend at a secluded Vermont cabin, including a demanding 14 km Griffith Lake Loop hike through mud and snow.'
 tags:
   - Vanessa
   - Photography
@@ -14,6 +15,7 @@ tags:
   - Vermont
 image: vermont-2022/baby-barn-1
 published: true
+featured: false
 id: 5311
 ---
 
@@ -22,11 +24,6 @@ id: 5311
 ![A great room with 20 foot ceiling, tall glass windows and a large fire place](http://default/files/cache/vermont-2022/baby-barn-1-640w.jpg)
 
 Set back in the woods, in the [Vermont](https://en.wikipedia.org/wiki/Vermont) foothills, only accessible by a dirt road, you'll find the perfect weekend cabin called the "Baby Barn".
-
-<div class="large">
-  ![A great room with 20 foot ceiling, tall glass windows and a large fire place](http://default/files/cache/vermont-2022/baby-barn-1-640w.jpg)
-*The great room of the Baby Barn in Londonderry, Vermont.*
-</div>
 
 <div class="side-by-side">
   ![A worn canvas bag filled with rolled papers hangs on a wooden wall inside a rustic barn-like space.](http://default/files/cache/vermont-2022/baby-barn-3-640w.jpg)

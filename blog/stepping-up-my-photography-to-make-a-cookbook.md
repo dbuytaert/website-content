@@ -7,7 +7,7 @@ author:
 date: '2018-06-30T18:52:41-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: "Vanessa and I want to create a cookbook so it's time to learn about food photography"
+summary: "Vanessa and I want to create a cookbook so it's time to learn about food photography."
 tags:
   - Photography
 published: true

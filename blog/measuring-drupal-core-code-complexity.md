@@ -7,6 +7,7 @@ author:
 date: '2026-01-07T17:22:23-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "A dashboard tracking Drupal Core's code complexity, maintainability, and test coverage from Drupal 7 through 11 shows steady improvements."
 tags:
   - Drupal
   - Statistics

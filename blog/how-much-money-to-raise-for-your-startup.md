@@ -11,6 +11,7 @@ summary: 'Founders want to keep control, but businesses need money to succeed. A
 tags:
   - 'Startup lessons'
   - Investing
+  - Fundraising
 published: true
 id: 3346
 ---

@@ -7,7 +7,7 @@ author:
 date: '2018-04-16T21:26:58-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'DrupalCon Nashville Driesnote presentation'
+summary: 'DrupalCon Nashville Driesnote presentation.'
 tags:
   - Drupal
   - DrupalCon

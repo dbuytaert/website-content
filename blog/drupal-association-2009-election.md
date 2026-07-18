@@ -7,7 +7,7 @@ author:
 date: '2009-01-22T03:56:48-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'On February 17 we will elect new Permanent Members and our third Board of Directors'
+summary: 'On February 17 we will elect new Permanent Members and our third Board of Directors.'
 tags:
   - Drupal
   - 'Drupal Association'

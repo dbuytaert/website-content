@@ -7,7 +7,7 @@ author:
 date: '2011-01-21T17:39:48-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Kicking off a world tour to celebrate Drupal tenth anniversary'
+summary: 'Kicking off a world tour to celebrate Drupal tenth anniversary.'
 tags:
   - Drupal
   - Acquia

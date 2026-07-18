@@ -7,12 +7,13 @@ author:
 date: '2017-09-20T10:48:22-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Acquia Cloud now supports both managed Drupal and managed Node.js'
+summary: 'Acquia Cloud now supports both managed Drupal and managed Node.js.'
 tags:
   - Drupal
   - Acquia
   - 'Headless Drupal'
   - JavaScript
+  - 'Business model'
 image: drupal/node-js-on-acquia-cloud
 published: true
 id: 4026
@@ -34,7 +35,7 @@ In 2009, Google invented the [V8 JavaScript engine](https://github.com/v8/v8/wik
 
 In the web development world, few trends are spreading more rapidly than decoupled architectures using JavaScript frameworks and headless CMS. Decoupled architectures are gaining prominence because architects are looking to take advantage of other front-end technologies, most commonly JavaScript based front ends, in addition to those native to Drupal.
 
-Acquia has been investing in the development of [headless Drupal](https://dri.es/tag/headless-drupal) for nearly five years, when we began contributing to the addition of [web service APIs to Drupal core](https://dri.es/the-future-is-a-restful-drupal). A year ago, we released [ Waterwheel](https://dev.acquia.com/blog/waterwheel-the-drupal-sdk-ecosystem/29/08/2016/16701), an ecosystem of software development kits (SDKs) that enables developers to build Drupal-backed applications in JavaScript and Swift, without needing extensive Drupal expertise. This summer, we released [Reservoir](https://dri.es/reservoir-a-simple-way-to-decouple-drupal), a Drupal distribution for decoupled Drupal. Over the past year, Acquia has helped to support [a variety of headless architectures](https://dri.es/how-should-you-decouple-drupal), with and without Node.js. While not always required, Node.js is often used alongside of a headless Drupal application to provide server-side rendering of JavaScript applications or real-time capabilities.
+Acquia has been investing in the development of [headless Drupal](https://dri.es/tag/headless-drupal) for nearly five years, when we began contributing to the addition of [web service APIs to Drupal Core](https://dri.es/the-future-is-a-restful-drupal). A year ago, we released [ Waterwheel](https://dev.acquia.com/blog/waterwheel-the-drupal-sdk-ecosystem/29/08/2016/16701), an ecosystem of software development kits (SDKs) that enables developers to build Drupal-backed applications in JavaScript and Swift, without needing extensive Drupal expertise. This summer, we released [Reservoir](https://dri.es/reservoir-a-simple-way-to-decouple-drupal), a Drupal distribution for decoupled Drupal. Over the past year, Acquia has helped to support [a variety of headless architectures](https://dri.es/how-should-you-decouple-drupal), with and without Node.js. While not always required, Node.js is often used alongside of a headless Drupal application to provide server-side rendering of JavaScript applications or real-time capabilities.
 
 ## Managed Node.js on Acquia Cloud
 

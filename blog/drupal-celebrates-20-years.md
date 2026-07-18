@@ -7,6 +7,7 @@ author:
 date: '2021-01-15T08:15:59-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Drupal turns 20, powering 1 in 35 websites, with wishes for continued evolution, better usability, and sustainable Open Source.'
 tags:
   - Drupal
   - Birthday

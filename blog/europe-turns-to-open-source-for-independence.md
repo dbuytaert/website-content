@@ -7,10 +7,12 @@ author:
 date: '2026-06-03T11:59:28-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "The European Commission's new Open Source Strategy pledges €2 billion and treats Open Source as sovereignty infrastructure, though funding stays modest and procurement only prefers, not requires, it."
 tags:
   - 'Open Source'
   - Policy
   - 'Digital sovereignty'
+  - 'Open Source sustainability'
 image: blog/open-source-makers-and-takers-8
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_opensource-digitalsovereignty-europe-share-7468006937054511104-RjpG/' }

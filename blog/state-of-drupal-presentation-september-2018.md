@@ -7,7 +7,7 @@ author:
 date: '2018-09-17T04:08:36-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Drupal Europe Darmstadt Driesnote presentation'
+summary: 'Drupal Europe Darmstadt Driesnote presentation.'
 tags:
   - Drupal
   - 'State of Drupal'

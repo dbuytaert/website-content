@@ -9,6 +9,7 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Microsoft
+  - Acquisitions
 published: true
 id: 3721
 ---

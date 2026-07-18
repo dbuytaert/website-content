@@ -7,11 +7,13 @@ author:
 date: '2009-05-26T11:36:29-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Drupal 7 has gained usability wins like WYSIWYG support and vertical tabs, while Mark Boulton and Leisa Reichelt lead broader redesign work funded by Acquia.'
 tags:
   - Drupal
   - Acquia
   - Usability
 published: true
+featured: false
 id: 658
 ---
 

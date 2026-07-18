@@ -7,7 +7,7 @@ author:
 date: '2017-05-01T15:41:24-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'DrupalCon Baltimore Driesnote presentation'
+summary: 'DrupalCon Baltimore Driesnote presentation.'
 tags:
   - DrupalCon
   - 'State of Drupal'

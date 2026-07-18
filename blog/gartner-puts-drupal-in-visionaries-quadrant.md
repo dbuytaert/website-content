@@ -7,7 +7,7 @@ author:
 date: '2009-10-29T13:44:26-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Gartner included Drupal into the Magic Quadrant for Social Software in the Workplace'
+summary: 'Gartner included Drupal into the Magic Quadrant for Social Software in the Workplace.'
 tags:
   - Drupal
   - Acquia

@@ -12,6 +12,7 @@ tags:
   - Drupal
   - Acquia
   - Retrospective
+  - 'Business model'
 image: acquia/business-metrics-2019
 published: true
 id: 4961

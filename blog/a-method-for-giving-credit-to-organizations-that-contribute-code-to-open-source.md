@@ -11,6 +11,7 @@ summary: 'By tracking organizational contributions in Git commits, we can give o
 tags:
   - Drupal
   - 'Open Source'
+  - 'Open Source sustainability'
 published: true
 featured: true
 id: 3156
@@ -44,7 +45,7 @@ The great thing about this approach is that we can adopt it today and worry abou
 
 If adopted, we'll want to build tools to help us create these commit messages (i.e. have contributors provide proper attribution in a new project issue field so the maintainers/committers don't have to manually create it).
 
-With this level of transparency, we can start to study how our ecosystem actually works; we can see which companies contribute back code and how much, we can see how much of the Drupal project is volunteer driven, we can better identify potential conflicts of interest, and more. But most of all, we can provide credit where credit is due and provide meaningful incentives for organizations to contribute back to Drupal. I believe this could provide a really important step in making Drupal core development more scalable.
+With this level of transparency, we can start to study how our ecosystem actually works; we can see which companies contribute back code and how much, we can see how much of the Drupal project is volunteer driven, we can better identify potential conflicts of interest, and more. But most of all, we can provide credit where credit is due and provide meaningful incentives for organizations to contribute back to Drupal. I believe this could provide a really important step in making Drupal Core development more scalable.
 
 I'd love to hear your thoughts about us giving organizations credit.
 

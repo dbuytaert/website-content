@@ -7,7 +7,7 @@ author:
 date: '2007-12-14T07:18:22-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Sun donated a SunFire X4200 to the Drupal project'
+summary: 'Sun donated a SunFire X4200 to the Drupal project.'
 tags:
   - Drupal
   - 'PhD research'

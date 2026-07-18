@@ -7,12 +7,13 @@ author:
 date: '2018-04-30T07:57:37-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'How I started, grew, sold and retired my first SaaS business'
+summary: 'How I started, grew, sold and retired my first SaaS business.'
 tags:
   - Drupal
   - Mollom
   - Acquia
   - 'Startup lessons'
+  - 'Business model'
 image: mollom/team-december-2011
 published: true
 id: 4316

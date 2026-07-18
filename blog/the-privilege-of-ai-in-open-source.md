@@ -13,6 +13,7 @@ tags:
   - Drupal
   - Diversity
   - 'Artificial Intelligence'
+  - 'Open Source sustainability'
 image: blog/birds-toward-the-light
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_ai-opensource-foss-share-7477809750227886081-Uhz8/' }

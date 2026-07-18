@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - 'Drupal Association'
+  - 'Open Source sustainability'
 published: true
 id: 3296
 ---
@@ -20,7 +21,7 @@ Today the [Drupal Association](http://assoc.drupal.org) announced a new program:
 
 The Drupal Association is guaranteeing the funds and will try to raise more from individual members and organizations within the Drupal community. It is the Drupal 8 branch maintainers – Nathaniel Catchpole, Alex Pott, Angie Byron, and myself – who will decide on how the money is spent. The fund provides for both "top-down" (directed by the Drupal 8 branch maintainers) and "bottom-up" (requested by other community members) style grants. The money will be used on things that positively impact the Drupal 8 release date, such as hiring contributors to fix critical bugs, sponsoring code sprints to fix specific issues, and other community proposals.
 
-Since the [restructuring of the Drupal Association](https://dri.es/evolving-the-drupal-associations-organizational-structure), I have encouraged the Drupal Association staff and Board of Directors to grow into our ambitious mission; to unite a global open source community to build and promote Drupal. I've also written and talked about the fact that [scaling Open Source communities is really hard](https://dri.es/scaling-open-source-communities). The Drupal 8 Accelerate Fund is an experiment with crowdsourcing as a means to help scale our community which is unique compared to other efforts because it is backed by the official non-profit organization that fosters and supports Drupal.
+Since the [restructuring of the Drupal Association](https://dri.es/evolving-the-drupal-associations-organizational-structure), I have encouraged the Drupal Association staff and Board of Directors to grow into our ambitious mission; to unite a global Open Source community to build and promote Drupal. I've also written and talked about the fact that [scaling Open Source communities is really hard](https://dri.es/scaling-open-source-communities). The Drupal 8 Accelerate Fund is an experiment with crowdsourcing as a means to help scale our community which is unique compared to other efforts because it is backed by the official non-profit organization that fosters and supports Drupal.
 
 I feel that the establishment of this fund is an important step towards more sustainable core development. My hope is that if this round of funding is successful that this can grow over time to levels that could make an even more meaningful impact on core, particularly if we complement this with other approaches and steps, such as [organization credit on Drupal.org](https://dri.es/scaling-open-source-communities).
 

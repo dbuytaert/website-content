@@ -7,11 +7,13 @@ author:
 date: '2010-04-05T02:49:26-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'The Mollom 6.x-1.13 release adds Webform integration, an improved blacklisting UI, bug fixes, and a first Drupal 7 alpha.'
 tags:
   - Drupal
   - Mollom
   - 'Drupal Gardens'
 published: true
+featured: false
 id: 1566
 ---
 

@@ -9,6 +9,7 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - 'Open Source'
+  - Fundraising
 published: true
 id: 4701
 ---

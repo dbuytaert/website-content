@@ -7,7 +7,7 @@ author:
 date: '2018-05-25T04:09:25-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'An average of 12 million people check the Royal Family website each year'
+summary: 'An average of 12 million people check the Royal Family website each year.'
 tags:
   - Drupal
   - 'Drupal sites'

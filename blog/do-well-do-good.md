@@ -7,11 +7,12 @@ author:
 date: '2014-03-26T10:38:19-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'I fundamentally believe that good businesses have the power to improve the world by giving back'
+summary: 'I fundamentally believe that good businesses have the power to improve the world by giving back.'
 tags:
   - Drupal
   - Acquia
   - Leadership
+  - 'Open Source sustainability'
 published: true
 featured: true
 id: 3116

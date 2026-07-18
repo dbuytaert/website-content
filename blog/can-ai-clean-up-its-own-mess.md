@@ -10,6 +10,7 @@ type: blog
 tags:
   - 'Open Source'
   - 'Artificial Intelligence'
+  - 'Open Source sustainability'
 published: true
 featured: false
 id: 5981
@@ -29,14 +30,14 @@ The quote stood out because technology rarely cleans up its own mess. More cars 
 
 But here, for AI and energy, the system using the resource might also be the one capable of discovering more of it.
 
-I see a similar pattern in open source.
+I see a similar pattern in Open Source.
 
-Most open source projects depend on a small group of maintainers who review code, maintain infrastructure and keep everything running. They shoulder a disproportionate share of the work.
+Most Open Source projects depend on a small group of maintainers who review code, maintain infrastructure and keep everything running. They shoulder a disproportionate share of the work.
 
 AI risks adding to that burden. It makes it easier for people to generate code and submit pull requests, but reviewing those code contributions still falls on the same few maintainers. When contributions scale up, review capacity has to keep pace.
 
 And just like with energy discovery, AI might also be the solution. There already exist AI-powered review tools that can scan pull requests, enforce project standards and surface issues before a human even looks at them.  If you believe AI-generated code is here to stay (I do), AI-assisted review might not be optional. 
 
-I'm no Fred Wilson, but as [an occasional angel investor](https://dri.es/angel-investments), such review tools look like a good way to go long on vibe coding.  And as Drupal's Project Lead, I'd love to collaborate with the providers of these tools. If we can make open source maintenance more scalable and sustainable, everyone benefits.
+I'm no Fred Wilson, but as [an occasional angel investor](https://dri.es/angel-investments), such review tools look like a good way to go long on vibe coding.  And as Drupal's Project Lead, I'd love to collaborate with the providers of these tools. If we can make Open Source maintenance more scalable and sustainable, everyone benefits.
 
 So yes, the technology making a situation worse might also be capable of helping to solve it. That is rare enough to pay attention to.

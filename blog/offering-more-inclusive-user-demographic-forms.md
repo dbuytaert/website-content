@@ -7,7 +7,7 @@ author:
 date: '2018-05-09T14:15:10-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Why we should provide demographic surveys that are more inclusive towards minority or underrepresented groups'
+summary: 'Why we should provide demographic surveys that are more inclusive towards minority or underrepresented groups.'
 tags:
   - Drupal
   - 'Drupal Association'

@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/the-investment-case-for-employing-a-drupal-core-contributor'
-title: 'The investment case for employing a Drupal core contributor'
+title: 'The investment case for employing a Drupal Core contributor'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -10,29 +10,30 @@ type: blog
 tags:
   - Drupal
   - Acquia
+  - 'Open Source sustainability'
 published: true
 id: 3136
 ---
 
-# The investment case for employing a Drupal core contributor
+# The investment case for employing a Drupal Core contributor
 
-I've long been convinced that every well-run Drupal agency of 30 people or more can afford to hire a Drupal core contributor and let him/her work on Drupal core pretty much full-time. A healthy Drupal agency with 30 people should be able to do $5MM in revenue at a 15% net profit margin <sup>[\#1](#fn1)</sup>. This means they have $750k in profits that can be invested in growth, saved as reserves, or distributed among the owners.
+I've long been convinced that every well-run Drupal agency of 30 people or more can afford to hire a Drupal Core contributor and let him/her work on Drupal Core pretty much full-time. A healthy Drupal agency with 30 people should be able to do $5MM in revenue at a 15% net profit margin <sup>[\#1](#fn1)</sup>. This means they have $750k in profits that can be invested in growth, saved as reserves, or distributed among the owners.
 
-There are many ways you can invest in growth. I'm here to argue that hiring a Drupal core contributor can be a great investment, that many Drupal agencies can afford it, and that employing a Drupal core contributor shouldn't just be looked at as a cost.
+There are many ways you can invest in growth. I'm here to argue that hiring a Drupal Core contributor can be a great investment, that many Drupal agencies can afford it, and that employing a Drupal Core contributor shouldn't just be looked at as a cost.
 
-In fact, [Chapter Three just announced that they hired Alex Pott](https://www.chapterthree.com/blog/joining-chapter-three), a Drupal 8 core maintainer, to work full-time on Drupal core. I couldn't be more thrilled. Great for Alex, great for Drupal, and great for Chapter Three! And a good reason to actually write down some of my thoughts.
+In fact, [Chapter Three just announced that they hired Alex Pott](https://www.chapterthree.com/blog/joining-chapter-three), a Drupal 8 core maintainer, to work full-time on Drupal Core. I couldn't be more thrilled. Great for Alex, great for Drupal, and great for Chapter Three! And a good reason to actually write down some of my thoughts.
 
-## The value of having a Drupal core contributor on staff
+## The value of having a Drupal Core contributor on staff
 
-When Drupal 8 launches it will bring with it [many big changes](https://dri.es/why-the-big-architectural-changes-in-drupal-8). Having someone within your company with first-hand knowledge of these changes is invaluable on a number of fronts. He or she can help train or support your technical staff on the changes coming down the pipe, can help your sales team answer customer questions, and can help your marketing team with blog posts and presentations to establish you as a thought-leader on Drupal. I believe these things take less than 20% of a Drupal core contributor's time, which leaves more than 80% of time to contribute to Drupal.
+When Drupal 8 launches it will bring with it [many big changes](https://dri.es/why-the-big-architectural-changes-in-drupal-8). Having someone within your company with first-hand knowledge of these changes is invaluable on a number of fronts. He or she can help train or support your technical staff on the changes coming down the pipe, can help your sales team answer customer questions, and can help your marketing team with blog posts and presentations to establish you as a thought-leader on Drupal. I believe these things take less than 20% of a Drupal Core contributor's time, which leaves more than 80% of time to contribute to Drupal.
 
 But perhaps most importantly, it is a crucial contribution that helps ensure the future of the Drupal project itself and help us all avoid falling into the [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons). While some core contributors have some amount of funding – ranging from 10% time from their employers to full-time employment (for example, most of [Acquia's Office of the CTO](https://dri.es/announcing-the-office-of-the-cto-at-acquia) are full-time core contributors) – most core contribution happens thanks to great personal sacrifice of the individuals involved. As the complexity and adoption of Drupal grows, there is [a growing need for full-time Drupal contributors](https://dri.es/the-commercialization-of-a-volunteer-driven-open-source-project). Additionally, distributing employment of core contributors across multiple Drupal organizations can be healthy for Drupal; it ensures institutional independence, diversified innovation and resilience.
 
-## Measuring the impact of a Drupal core contributor on your business
+## Measuring the impact of a Drupal Core contributor on your business
 
-While that sounds nice, the proof is in the numbers. So when I heard about [Chapter Three hiring Alex Pott](https://www.chapterthree.com/blog/joining-chapter-three), I immediately called Chapter Three to congratulate them, but I also asked them to track Alex's impact on Chapter Three in terms of sales. If we can actually prove that hiring a Drupal core contributor is a great business investment, it could provide a really important breakthrough in making Drupal core development scalable.
+While that sounds nice, the proof is in the numbers. So when I heard about [Chapter Three hiring Alex Pott](https://www.chapterthree.com/blog/joining-chapter-three), I immediately called Chapter Three to congratulate them, but I also asked them to track Alex's impact on Chapter Three in terms of sales. If we can actually prove that hiring a Drupal Core contributor is a great business investment, it could provide a really important breakthrough in making Drupal Core development scalable.
 
-I asked my team at [Acquia](https://www.acquia.com) to start tracking the impact of the Drupal core contributors on sales. Below, I'll share some data of how Acquia tracked this and why I'm bullish on there being a business case.
+I asked my team at [Acquia](https://www.acquia.com) to start tracking the impact of the Drupal Core contributors on sales. Below, I'll share some data of how Acquia tracked this and why I'm bullish on there being a business case.
 
 For [Acquia](https://www.acquia.com), high quality content is the number one way to generate new sales leads. Marketers know that the key to doing online business is to become publishers. It is something that Acquia's Drupal developers all help with; developers putting out great content can turn your website into a magnet. And with the help of a well-oiled sales and marketing organization, you can turn visitors into customers.
 

@@ -7,6 +7,7 @@ author:
 date: '2020-12-21T04:51:19-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "A Web Summit panel with Mozilla's Mitchell Baker and WordPress's Matt Mullenweg on Open Source, privacy, and the case for regulating high-impact software."
 tags:
   - 'Open Web'
   - 'Open Source'

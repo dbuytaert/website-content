@@ -7,6 +7,7 @@ author:
 date: '2025-08-20T07:33:13-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'After 20 years and 1,600 posts written by hand in HTML, I’ve switched to Markdown in Drupal using the Markdown Easy module.'
 tags:
   - Drupal
   - 'My site'

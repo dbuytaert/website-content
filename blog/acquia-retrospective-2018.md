@@ -12,6 +12,7 @@ tags:
   - Drupal
   - Retrospective
   - Acquia
+  - 'Business model'
 image: acquia/business-metrics-2018
 published: true
 id: 4731
@@ -146,7 +147,7 @@ In 2019, I believe Acquia will continue to be positioned for long-term growth. H
 
 - The current markets for content and digital experience management continues to grow rapidly, at approximately 20 percent per year.
 - Digital transformation is top-of-mind for all organizations, and impacts all elements of their business and value chain.
-- Open source adoption continues to grow at a furious pace and has seen [tremendous business success in 2018](https://dri.es/a-breakout-year-for-open-source-businesses).
+- Open Source adoption continues to grow at a furious pace and has seen [tremendous business success in 2018](https://dri.es/a-breakout-year-for-open-source-businesses).
 - Cloud adoption continues to grow. Unlike most of our CMS competitors, Acquia was born in the cloud.
 - Drupal and Acquia are leaders in headless and decoupled content management, which is a fast growing segment of our market.
 - Conversational interfaces and augmented reality continues to grow, and we embraced these channels a few years ago. Acquia Labs, our research and innovation lab, explored how organizations can use conversational UIs to develop beyond-the-browser experiences, like [cooking with Alexa](https://dri.es/cooking-with-alexa-and-drupal), and [voice-enabled search for customers like Purina](https://www.acquia.com/blog/voice-enabled-search-action-nestle-purina-and-acquia-labs).

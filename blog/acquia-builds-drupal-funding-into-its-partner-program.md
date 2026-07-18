@@ -11,6 +11,7 @@ tags:
   - Drupal
   - 'Drupal Association'
   - Acquia
+  - 'Open Source sustainability'
 image: drupal/blue-hearts-1
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_acquia-builds-drupal-funding-into-its-partner-activity-7460808226519814145-LI0E' }

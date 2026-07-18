@@ -11,6 +11,7 @@ tags:
   - Drupal
   - DrupalCon
   - 'Drupal Association'
+  - 'Open Source sustainability'
 published: true
 id: 489
 ---

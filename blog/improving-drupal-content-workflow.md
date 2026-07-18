@@ -7,7 +7,7 @@ author:
 date: '2016-04-04T14:38:37-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: "Why we should start a Drupal 8 initiative to improve Drupal's content workflow capabilities"
+summary: "Why we should start a Drupal 8 initiative to improve Drupal's content workflow capabilities."
 tags:
   - Drupal
   - 'Workflow initiative'

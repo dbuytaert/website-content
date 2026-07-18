@@ -13,6 +13,7 @@ tags:
   - WordPress
   - 'Open Source'
   - 'Drupal Association'
+  - 'Open Source sustainability'
 image: blog/open-source-makers-and-takers-6
 discussions:
   - { platform: 'Hacker News', url: 'https://news.ycombinator.com/item?id=41727005' }

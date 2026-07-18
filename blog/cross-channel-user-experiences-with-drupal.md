@@ -7,7 +7,7 @@ author:
 date: '2016-05-16T10:55:56-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'How new user experiences and distribution platforms will change the way we build the web in the future'
+summary: 'How new user experiences and distribution platforms will change the way we build the web in the future.'
 tags:
   - Drupal
   - 'Headless Drupal'

@@ -12,6 +12,7 @@ tags:
   - Drupal
   - 'Drupal sponsors'
   - Diversity
+  - 'Open Source sustainability'
 image: drupal/contributions-by-individuals-vs-organizations-2021
 published: true
 id: 5241
@@ -66,41 +67,41 @@ In total, the Drupal community worked on 3,779 different Drupal.org projects thi
 
 <table>
   <colgroup>
-   <col>
-   <col style="width: 18%">
-   <col style="width: 18%">
-   <col style="width: 18%">
- </colgroup>
+  <col>
+  <col style="width: 18%">
+  <col style="width: 18%">
+  <col style="width: 18%">
+</colgroup>
   <tr>
-   <th>Metric</th>
-   <th style="text-align: right;">2019 - 2020</th>
-   <th style="text-align: right;">2020 - 2021</th>
-   <th style="text-align: right;">Delta</th>
- </tr>
+  <th>Metric</th>
+  <th style="text-align: right;">2019 - 2020</th>
+  <th style="text-align: right;">2020 - 2021</th>
+  <th style="text-align: right;">Delta</th>
+</tr>
   <tr>
-   <td>Number of individual contributors</td>
-   <td style="text-align: right;">8,303</td>
-   <td style="text-align: right;">7,420</td>
-   <td style="text-align: right; background-color: #ff6461;">-12%</td>
- </tr>
+  <td>Number of individual contributors</td>
+  <td style="text-align: right;">8,303</td>
+  <td style="text-align: right;">7,420</td>
+  <td style="text-align: right; background-color: #ff6461;">-12%</td>
+</tr>
   <tr>
-   <td>Number of organizational contributors</td>
-   <td style="text-align: right;">1,216</td>
-   <td style="text-align: right;">1,186</td>
-   <td style="text-align: right; background-color: #ff6461;">-2%</td>
- </tr>
+  <td>Number of organizational contributors</td>
+  <td style="text-align: right;">1,216</td>
+  <td style="text-align: right;">1,186</td>
+  <td style="text-align: right; background-color: #ff6461;">-2%</td>
+</tr>
   <tr>
-   <td>Number of issues "fixed" or "closed"</td>
-   <td style="text-align: right;">31,153</td>
-   <td style="text-align: right;">23,882</td>
-   <td style="text-align: right; background-color: #ff6461;">-23%</td>
- </tr>
+  <td>Number of issues "fixed" or "closed"</td>
+  <td style="text-align: right;">31,153</td>
+  <td style="text-align: right;">23,882</td>
+  <td style="text-align: right; background-color: #ff6461;">-23%</td>
+</tr>
   <tr>
-   <td>Number of projects worked on</td>
-   <td style="text-align: right;">4,195</td>
-   <td style="text-align: right;">3,779</td>
-   <td style="text-align: right; background-color: #ff6461;">-10%</td>
- </tr>
+  <td>Number of projects worked on</td>
+  <td style="text-align: right;">4,195</td>
+  <td style="text-align: right;">3,779</td>
+  <td style="text-align: right; background-color: #ff6461;">-10%</td>
+</tr>
 </table>
 
 ## Understanding the slowdown in contribution
@@ -226,31 +227,31 @@ A variety of different types of companies are active in Drupal's ecosystem:
 
 <table>
   <thead>
-   <tr>
-    <th>Category</th>
-    <th>Description</th>
-  </tr>
- </thead>
   <tr>
-   <td>Traditional Drupal businesses</td>
-   <td>Small-to-medium-sized professional services companies that primarily make money using Drupal. They typically employ fewer than 100 employees. Because they specialize in Drupal, many of these companies contribute frequently and are a huge part of our community. Examples are Third and Grove, OpenSense Labs, Srijan, etc.</td>
+   <th>Category</th>
+   <th>Description</th>
  </tr>
+</thead>
   <tr>
-   <td>Digital marketing agencies</td>
-   <td>Larger full-service agencies that have marketing-led practices using a variety of tools, typically including Drupal, Adobe Experience Manager, Sitecore, WordPress, etc. Many of these larger agencies employ thousands of people. Examples are Wunderman Thompson, Possible, and Mirum.</td>
- </tr>
+  <td>Traditional Drupal businesses</td>
+  <td>Small-to-medium-sized professional services companies that primarily make money using Drupal. They typically employ fewer than 100 employees. Because they specialize in Drupal, many of these companies contribute frequently and are a huge part of our community. Examples are Third and Grove, OpenSense Labs, Srijan, etc.</td>
+</tr>
   <tr>
-   <td>System integrators</td>
-   <td>Larger companies that specialize in bringing together different technologies into one solution. Example system integrators are Accenture, TATA Consultancy Services, EPAM Systems, and CI&amp;T.</td>
- </tr>
+  <td>Digital marketing agencies</td>
+  <td>Larger full-service agencies that have marketing-led practices using a variety of tools, typically including Drupal, Adobe Experience Manager, Sitecore, WordPress, etc. Many of these larger agencies employ thousands of people. Examples are Wunderman Thompson, Possible, and Mirum.</td>
+</tr>
   <tr>
-   <td>Hosting companies</td>
-   <td>Examples are Acquia, Pantheon, and Platform.sh, but also Rackspace or Bluehost.</td>
- </tr>
+  <td>System integrators</td>
+  <td>Larger companies that specialize in bringing together different technologies into one solution. Example system integrators are Accenture, TATA Consultancy Services, EPAM Systems, and CI&amp;T.</td>
+</tr>
   <tr>
-   <td>End users</td>
-   <td>Examples are the European Commission or Pfizer.</td>
- </tr>
+  <td>Hosting companies</td>
+  <td>Examples are Acquia, Pantheon, and Platform.sh, but also Rackspace or Bluehost.</td>
+</tr>
+  <tr>
+  <td>End users</td>
+  <td>Examples are the European Commission or Pfizer.</td>
+</tr>
 </table>
 
 A few observations:

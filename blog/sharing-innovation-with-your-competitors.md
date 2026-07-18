@@ -7,11 +7,12 @@ author:
 date: '2017-02-09T04:55:14-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'How organizations can keep a competitive edge by contributing back to Open Source'
+summary: 'How organizations can keep a competitive edge by contributing back to Open Source.'
 tags:
   - 'Open Source'
   - Drupal
   - Innovation
+  - 'Open Source sustainability'
 image: blog/sharing-innovation-with-competitors
 published: true
 featured: true

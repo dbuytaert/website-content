@@ -7,7 +7,7 @@ author:
 date: '2017-10-26T13:34:25-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'How we can use augmented reality with Drupal to superimpose useful information in a shopping experience'
+summary: 'How we can use augmented reality with Drupal to superimpose useful information in a shopping experience.'
 tags:
   - Drupal
   - 'Augmented reality'

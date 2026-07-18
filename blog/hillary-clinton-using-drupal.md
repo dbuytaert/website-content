@@ -7,7 +7,7 @@ author:
 date: '2007-01-20T17:54:50-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Hillary Clinton using Drupal for her campaign website'
+summary: 'Hillary Clinton using Drupal for her campaign website.'
 tags:
   - Drupal
   - 'Drupal sites'

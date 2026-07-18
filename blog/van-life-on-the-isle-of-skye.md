@@ -7,6 +7,7 @@ author:
 date: '2024-11-04T07:41:07-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'A week of van life and wild camping on the Isle of Skye, hiking the Storr and Quiraing through fog, rain, and friendship.'
 tags:
   - 'Van life'
   - Travel
@@ -14,6 +15,7 @@ tags:
   - Scotland
 image: isle-of-skye-2024/exploring-the-quiraing
 published: true
+featured: false
 id: 5711
 ---
 

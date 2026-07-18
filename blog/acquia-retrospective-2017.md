@@ -7,11 +7,12 @@ author:
 date: '2018-01-08T05:45:29-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: '2017 year in review for Acquia'
+summary: '2017 year in review for Acquia.'
 tags:
   - Acquia
   - Drupal
   - Retrospective
+  - 'Business model'
 image: acquia/acquia-roadmap-2017
 published: true
 id: 4121
@@ -25,7 +26,7 @@ id: 4121
 
 For the past nine years, I've sat down every January to write an Acquia retrospective. It's always a rewarding blog post to write as it gives me an opportunity to reflect on what Acquia has accomplished over the past 12 months. If you'd like to read my previous annual retrospectives, they can be found here: [2016](https://dri.es/acquia-retrospective-2016),[ 2015](https://dri.es/acquia-retrospective-2015), [2014](https://dri.es/acquia-retrospective-2014), [2013](https://dri.es/acquia-retrospective-2013), [2012](https://dri.es/acquia-retrospective-2012), [2011](https://dri.es/acquia-retrospective-2011), [2010](https://dri.es/acquia-retrospective-2010), [2009](https://dri.es/acquia-retrospective-2009). When read together, they provide insight to what has shaped Acquia into the company it is today.
 
-This year's retrospective is especially meaningful because 2017 marked Acquia's 10th year as a company. Over the course of Acquia's [first decade](https://dri.es/acquia-first-decade-the-founding-story), our long-term investment in open source and cloud has made us the leader in web content management. 2017 was one of our most transformative years to date; not only did we have to manage leadership changes, but we also broadened our horizons beyond website management to data-driven customer journeys.
+This year's retrospective is especially meaningful because 2017 marked Acquia's 10th year as a company. Over the course of Acquia's [first decade](https://dri.es/acquia-first-decade-the-founding-story), our long-term investment in Open Source and cloud has made us the leader in web content management. 2017 was one of our most transformative years to date; not only did we have to manage leadership changes, but we also broadened our horizons beyond website management to data-driven customer journeys.
 
 ## The next phase of Acquia leadership
 
@@ -49,7 +50,7 @@ In the **low end of the market** simple sites, such as single blogs and brochure
 
 In the **mid-market**, SaaS tools don't offer the flexibility and customization required to support sites with more complexity. Often mid-market companies need more customizable solutions like Drupal or WordPress. Time-to-value and total maintenance costs still matter; people don't want to spend a lot of time installing or upgrading their websites. Within the scope of Occam's Razor Principle, WordPress does better than Drupal in this regard. WordPress is growing faster than Drupal for websites with medium complexity because ease of use and maintenance often precede functionality. However, when superior flexibility and architecture are critical to the success of building a site, Drupal will be selected.
 
-In the **enterprise**, a growing emphasis on time-to-value means that customers are less interested in boil-the-ocean projects that cost hundreds of thousands (or millions) of dollars. Customers still want to do large and ambitious projects, but they want to start small, see results quickly, and measure their ROI every step along the way. Open source and cloud provide this agility by reducing time-to-market, cost and risk. This establishes a competitive advantage for Acquia compared to traditional enterprise vendors like Adobe and Sitecore.
+In the **enterprise**, a growing emphasis on time-to-value means that customers are less interested in boil-the-ocean projects that cost hundreds of thousands (or millions) of dollars. Customers still want to do large and ambitious projects, but they want to start small, see results quickly, and measure their ROI every step along the way. Open Source and cloud provide this agility by reducing time-to-market, cost and risk. This establishes a competitive advantage for Acquia compared to traditional enterprise vendors like Adobe and Sitecore.
 
 At Acquia, understanding how we can make our products easier to use by enhancing self-service and reducing complexity will be a major focus of 2018. For Drupal, it means we have to stay focused on the initiatives that will improve usability and time to value. In addition to adopting a [JavaScript framework in core](https://dri.es/drupal-looking-to-adopt-react) to facilitate the building of a better administration experience, work needs to continue on [Workspaces](https://dri.es/an-update-on-the-workflow-initiative-for-drupal-8-4-8-5) (content staging), [Layout Builder](https://dri.es/an-update-on-the-layout-initiative-for-drupal-8-4-8-5) (drag-and-drop blocks), and the [Media](https://dri.es/an-update-on-the-media-initiative-for-drupal-8-4-8-5), [Outside-in](https://dri.es/drupal-8-2-now-with-more-outside-in) and [Out-of-the-box](https://www.drupal.org/project/ideas/issues/2847582) initiatives. Finally, I anticipate that a Drupal initiative around [automated upgrades](https://dri.es/state-of-drupal-presentation-september-2017) will kick off in 2018. I'm proud to say that Acquia has been a [prominent contributor](https://dri.es/who-sponsors-drupal-development-2017) to many of these initiatives, by either sponsoring developers, contributing code, or providing development support and coordination.
 

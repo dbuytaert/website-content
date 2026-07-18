@@ -7,10 +7,11 @@ author:
 date: '2011-09-09T15:38:10-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Acquia acquired Drupal migration specialist Cyrve and Drupal security specialist Growing Venture Solutions'
+summary: 'Acquia acquired Drupal migration specialist Cyrve and Drupal security specialist Growing Venture Solutions.'
 tags:
   - Drupal
   - Acquia
+  - Acquisitions
 published: true
 id: 2472
 ---

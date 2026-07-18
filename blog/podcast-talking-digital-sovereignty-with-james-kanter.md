@@ -12,6 +12,7 @@ tags:
   - 'Open Source'
   - 'Digital sovereignty'
   - Podcast
+  - 'Open Source sustainability'
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/feed/update/urn:li:share:7474833567135612928/' }
 published: true

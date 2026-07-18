@@ -12,6 +12,7 @@ tags:
   - 'Open Source'
   - 'Startup lessons'
   - Mautic
+  - 'Business model'
 published: true
 id: 3716
 ---

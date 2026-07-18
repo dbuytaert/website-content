@@ -7,7 +7,7 @@ author:
 date: '2015-09-24T10:43:05-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Making the case that Drupal should support decoupling architectures (in addition to the current coupled architecture)'
+summary: 'Making the case that Drupal should support decoupling architectures (in addition to the current coupled architecture).'
 tags:
   - Drupal
   - JavaScript

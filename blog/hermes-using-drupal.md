@@ -7,7 +7,7 @@ author:
 date: '2017-10-06T11:40:04-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'The iconic fashion brand Hermès launched its new site in Drupal'
+summary: 'The iconic fashion brand Hermès launched its new site in Drupal.'
 tags:
   - Drupal
   - 'Drupal sites'

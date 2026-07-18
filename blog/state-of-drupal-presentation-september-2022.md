@@ -7,7 +7,7 @@ author:
 date: '2022-09-28T14:14:31-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'DrupalCon Europe 2022 DriesNote presentation'
+summary: 'DrupalCon Europe 2022 DriesNote presentation.'
 tags:
   - Drupal
   - DrupalCon

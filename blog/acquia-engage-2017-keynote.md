@@ -11,6 +11,7 @@ summary: 'The slides and video recording of my Acquia Engage presentation.'
 tags:
   - Acquia
   - 'Acquia Engage'
+  - 'Business model'
 image: acquia/2017-market-trends
 published: true
 id: 4061

@@ -10,13 +10,14 @@ type: blog
 tags:
   - 'Open Source'
   - Diversity
+  - 'Open Source sustainability'
 published: true
 id: 4861
 ---
 
 # Commercial sponsorship and Open Source sustainability
 
-Recently, GitHub announced an initiative called [GitHub Sponsors](https://github.blog/2019-05-23-announcing-github-sponsors-a-new-way-to-contribute-to-open-source/) where open source software users can pay contributors for their work directly within GitHub.
+Recently, GitHub announced an initiative called [GitHub Sponsors](https://github.blog/2019-05-23-announcing-github-sponsors-a-new-way-to-contribute-to-open-source/) where Open Source software users can pay contributors for their work directly within GitHub.
 
 There has been quite a bit of debate about whether initiatives like this are good or bad for Open Source.
 

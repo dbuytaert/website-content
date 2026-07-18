@@ -7,7 +7,7 @@ author:
 date: '2019-11-05T10:45:04-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'DrupalCon Amsterdam Driesnote presentation'
+summary: 'DrupalCon Amsterdam Driesnote presentation.'
 tags:
   - Drupal
   - 'State of Drupal'

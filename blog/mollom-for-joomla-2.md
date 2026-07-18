@@ -7,7 +7,7 @@ author:
 date: '2008-07-14T02:11:14-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'A Joomla extension for Mollom'
+summary: 'A Joomla extension for Mollom.'
 tags:
   - Joomla
   - Mollom

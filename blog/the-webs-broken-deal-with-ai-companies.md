@@ -11,6 +11,7 @@ summary: "AI companies are breaking the web's economic model by extracting conte
 tags:
   - 'Open Web'
   - 'Artificial Intelligence'
+  - 'Open Source sustainability'
 image: blog/cloudflare-vs-crawlers
 published: true
 featured: true

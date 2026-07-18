@@ -13,6 +13,7 @@ tags:
   - Drupal
   - Policy
   - 'Digital sovereignty'
+  - 'Open Source sustainability'
 image: blog/funding-open-source-like-public-infrastructure
 discussions:
   - { platform: 'Hacker News', url: 'https://news.ycombinator.com/item?id=44896433' }

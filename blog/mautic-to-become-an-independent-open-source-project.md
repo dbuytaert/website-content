@@ -13,6 +13,7 @@ tags:
   - Mautic
   - Acquia
   - 'Drupal Association'
+  - 'Open Source sustainability'
 image: acquia/mautic-to-become-independent
 published: true
 featured: true

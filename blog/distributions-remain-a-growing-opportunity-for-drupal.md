@@ -11,6 +11,7 @@ tags:
   - Drupal
   - Acquia
   - 'Drupal distributions'
+  - 'Business model'
 published: true
 id: 3881
 ---
@@ -19,7 +20,7 @@ id: 3881
 
 Yesterday, after publishing a blog post about [Nasdaq's Drupal 8 distribution for investor relations websites](https://dri.es/how-nasdaq-offers-a-drupal-distribution-as-a-service), I realized I don't talk enough about "Drupal distributions" on my blog. The ability for anyone to take Drupal and build their own distribution is not only a powerful model, but something that is relatively unique to Drupal. To the best of my knowledge, Drupal is still the only content management system that actively encourages its community to build and share distributions.
 
-A Drupal distribution packages a set of contributed and custom modules together with Drupal core to optimize Drupal for a specific use case or industry. For example, [Open Social](https://www.drupal.org/project/social) is a free Drupal distribution for creating private social networks. Open Social was developed by [GoalGorilla](https://www.goalgorilla.com), a digital agency from the Netherlands. The United Nations is currently migrating many of their own social platforms to Open Social.
+A Drupal distribution packages a set of contributed and custom modules together with Drupal Core to optimize Drupal for a specific use case or industry. For example, [Open Social](https://www.drupal.org/project/social) is a free Drupal distribution for creating private social networks. Open Social was developed by [GoalGorilla](https://www.goalgorilla.com), a digital agency from the Netherlands. The United Nations is currently migrating many of their own social platforms to Open Social.
 
 Another example is [Lightning](https://www.drupal.org/project/lightning), a distribution developed and maintained by [Acquia](https://www.acquia.com). While Open Social targets a specific use case, Lightning provides a framework or starting point for any Drupal 8 project that requires more advanced layout, media, workflow and preview capabilities.
 
@@ -43,7 +44,7 @@ Most recently we've made another giant leap forward with Drupal 8. There are at 
 
 [Open Restaurant](http://www.open.restaurant) is a great example of a Drupal 8 distribution that has taken advantage of these new improvements. The Open Restaurant distribution has everything you need to build a restaurant website and uses Composer when installing the distribution.
 
-More improvements are already in the works for future versions of Drupal. One particularly exciting development is the [concept of "inheriting" distributions](https://www.drupal.org/node/1356276), which allows Drupal distributions to build upon each other. For example, Acquia Lightning could "inherit" the standard core profile – adding layout, media and workflow capabilities to Drupal core, and Open Social could inherit Lightning - adding social capabilities on top of Lightning. In this model, Open Social delegates the work of maintaining Layout, Media, and Workflow to the maintainers of Lightning. It's not too hard to see how this could radically simplify the maintenance of distributions.
+More improvements are already in the works for future versions of Drupal. One particularly exciting development is the [concept of "inheriting" distributions](https://www.drupal.org/node/1356276), which allows Drupal distributions to build upon each other. For example, Acquia Lightning could "inherit" the standard core profile – adding layout, media and workflow capabilities to Drupal Core, and Open Social could inherit Lightning - adding social capabilities on top of Lightning. In this model, Open Social delegates the work of maintaining Layout, Media, and Workflow to the maintainers of Lightning. It's not too hard to see how this could radically simplify the maintenance of distributions.
 
 The less effort it takes to build and maintain a distribution, the more distributions will emerge. The more distributions that emerge, the better Drupal can compete with a wide range of turnkey solutions in addition to new markets. Over the course of twelve years we have improved the underlying technology for building distributions, and we will continue to do so for years to come.
 

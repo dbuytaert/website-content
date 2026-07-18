@@ -7,7 +7,7 @@ author:
 date: '2006-01-10T05:00:00-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'A copy of the first ever Drupal book arrived in the mail'
+summary: 'A copy of the first ever Drupal book arrived in the mail.'
 tags:
   - Drupal
   - 'Drupal books'

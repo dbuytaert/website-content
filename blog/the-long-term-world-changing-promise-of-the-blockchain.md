@@ -12,6 +12,7 @@ tags:
   - 'Open Source'
   - 'Open Web'
   - Trends
+  - 'Open Source sustainability'
 published: true
 id: 5121
 ---

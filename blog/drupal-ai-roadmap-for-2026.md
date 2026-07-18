@@ -7,6 +7,7 @@ author:
 date: '2026-02-11T14:41:09-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Drupal's 2026 AI roadmap focuses on eight capabilities, from page generation to governance, backed by 28 partner organizations and 50+ contributors."
 tags:
   - Drupal
   - 'Artificial Intelligence'

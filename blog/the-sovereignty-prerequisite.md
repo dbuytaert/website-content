@@ -12,6 +12,7 @@ tags:
   - 'Digital sovereignty'
   - Policy
   - 'Open Source'
+  - 'Open Source sustainability'
 image: blog/sovereignty-prerequisite
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_opensource-digitalsovereignty-buyeuropean-share-7445060147489501184-GoEj/' }

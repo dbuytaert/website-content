@@ -7,11 +7,12 @@ author:
 date: '2018-01-15T10:52:39-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Drupal celebrates its seventeenth birthday today!'
+summary: 'Drupal turns seventeen, marked by strong 2017 growth in sites, modules, contributors and community events.'
 tags:
   - Drupal
   - Birthday
 published: true
+featured: false
 id: 4131
 ---
 

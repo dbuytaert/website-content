@@ -7,7 +7,7 @@ author:
 date: '2017-12-20T10:29:49-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Finding bugs, inefficiencies and stylistic inconsistencies in your CSS with Stylint'
+summary: 'Finding bugs, inefficiencies and stylistic inconsistencies in your CSS with Stylint.'
 tags:
   - 'My site'
   - CSS

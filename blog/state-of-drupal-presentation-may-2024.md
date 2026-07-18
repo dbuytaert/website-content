@@ -7,7 +7,7 @@ author:
 date: '2024-05-07T21:11:45-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'DrupalCon North America 2024 DriesNote presentation'
+summary: 'DrupalCon North America 2024 DriesNote presentation.'
 tags:
   - Drupal
   - 'State of Drupal'

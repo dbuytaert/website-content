@@ -13,6 +13,7 @@ tags:
   - 'Open Source'
   - Policy
   - 'Digital sovereignty'
+  - 'Open Source sustainability'
 image: blog/open-source-makers-and-takers-7
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_foss-opensource-policy-activity-7419785955445747712-dvGz' }

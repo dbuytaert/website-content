@@ -13,6 +13,7 @@ tags:
   - Joomla
   - WordPress
   - 'Open Source'
+  - 'Open Source sustainability'
 published: true
 featured: true
 id: 1936

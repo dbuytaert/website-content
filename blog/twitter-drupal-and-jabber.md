@@ -7,9 +7,11 @@ author:
 date: '2007-03-21T09:35:59-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Using Twitter-like services to push Drupal notifications such as new comments to instant messaging, ideally built on open standards.'
 tags:
   - Drupal
 published: true
+featured: false
 id: 239
 ---
 

@@ -7,10 +7,13 @@ author:
 date: '2015-08-31T12:29:31-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Canonical's IP policy restricting altered Ubuntu binaries reflects the tension every Open Source company faces between contributing and earning a living."
 tags:
   - Acquia
   - 'Open Source'
+  - 'Business model'
 published: true
+featured: false
 id: 3406
 ---
 

@@ -7,7 +7,7 @@ author:
 date: '2017-09-27T07:55:43-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'DrupalCon Vienna Driesnote presentation'
+summary: 'DrupalCon Vienna Driesnote presentation.'
 tags:
   - Drupal
   - 'State of Drupal'

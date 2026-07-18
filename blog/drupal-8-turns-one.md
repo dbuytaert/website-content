@@ -7,7 +7,7 @@ author:
 date: '2016-11-18T00:49:20-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: "An overview of some amazing Drupal 8 sites that have launched in Drupal 8's first year"
+summary: "An overview of some amazing Drupal 8 sites that have launched in Drupal 8's first year."
 tags:
   - Drupal
   - 'Drupal sites'

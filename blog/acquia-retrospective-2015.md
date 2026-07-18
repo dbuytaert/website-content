@@ -11,6 +11,7 @@ tags:
   - Drupal
   - Acquia
   - Retrospective
+  - 'Business model'
 published: true
 id: 3536
 ---
@@ -21,15 +22,15 @@ As many of my loyal blog readers know, I sit down to write a retrospective at th
 
 ## Market trends
 
-Since [Acquia started eight years ago](https://dri.es/acquia-my-drupal-startup), we've believed that open source offers significant advantages over proprietary software because of its faster innovation, higher quality, freedom from vendor lock-in, greater security, and lower total cost of ownership. Early in our life as a company, we made a big bet that open source combined with the cloud, offered through a subscription model rather than perpetual license, would be a very compelling solution for the market. Few people believed us at the time, but now it is clear that our early vision is starting to pay off; perpetual software licenses are on the decline and Deutsche Bank analyst Karl Keirstead recently called cloud and open source the two leading themes in Silicon Valley.
+Since [Acquia started eight years ago](https://dri.es/acquia-my-drupal-startup), we've believed that Open Source offers significant advantages over proprietary software because of its faster innovation, higher quality, freedom from vendor lock-in, greater security, and lower total cost of ownership. Early in our life as a company, we made a big bet that Open Source combined with the cloud, offered through a subscription model rather than perpetual license, would be a very compelling solution for the market. Few people believed us at the time, but now it is clear that our early vision is starting to pay off; perpetual software licenses are on the decline and Deutsche Bank analyst Karl Keirstead recently called cloud and Open Source the two leading themes in Silicon Valley.
 
-The market demand for Acquia's digital business platform continues to grow; three of the top analyst firms, IDC, Gartner and Forrester have all named digital business transformation a top strategic imperative for the C-suite in 2016 and beyond. Open source, cloud computing, big data, the Internet of Things (IoT), and artificial intelligence are all catalysts for the expansion of digital transformation into all corners of the organization.
+The market demand for Acquia's digital business platform continues to grow; three of the top analyst firms, IDC, Gartner and Forrester have all named digital business transformation a top strategic imperative for the C-suite in 2016 and beyond. Open Source, cloud computing, big data, the Internet of Things (IoT), and artificial intelligence are all catalysts for the expansion of digital transformation into all corners of the organization.
 
 Organizations are rapidly expanding the range of digital interactions with their customers and partners, moving Drupal and Acquia to the core of their business. There is a growing focus on personalization and data-driven automation, which bodes well for products like Acquia Lift. In general, I believe that the growing reliance on digital provides Drupal and Acquia with a multi-decade opportunity.
 
-### Open source
+### Open Source
 
-Within the last 12 months, some of the largest technology companies including Apple, Google, Microsoft and Facebook have open-sourced key components of their business. There are many motivations for this shift. According to Apple, the company [open-sourced its Swift programming language](https://www.apple.com/newsroom/2015/12/03Apple-Releases-Swift-as-Open-Source/) to extend it to new platforms. Google open-sourced [TensorFlow](https://googleblog.blogspot.com/2015/11/tensorflow-smarter-machine-learning-for.html), its artificial intelligence platform to make an even bigger impact outside Google, even though the company employs 2,000 engineers working on artificial intelligence alone. Microsoft open-sourced .NET to increase its relevance with developers and play nicely with other operating systems. In Deutsche Bank's 2016 predictions, Keirstead says "open source keeps eating the world", causing major price deflation for the traditional enterprise software industry. Whether the motive is faster innovation or increased adoption, companies are relying less and less on proprietary software and embracing open source.
+Within the last 12 months, some of the largest technology companies including Apple, Google, Microsoft and Facebook have open-sourced key components of their business. There are many motivations for this shift. According to Apple, the company [open-sourced its Swift programming language](https://www.apple.com/newsroom/2015/12/03Apple-Releases-Swift-as-Open-Source/) to extend it to new platforms. Google open-sourced [TensorFlow](https://googleblog.blogspot.com/2015/11/tensorflow-smarter-machine-learning-for.html), its artificial intelligence platform to make an even bigger impact outside Google, even though the company employs 2,000 engineers working on artificial intelligence alone. Microsoft open-sourced .NET to increase its relevance with developers and play nicely with other operating systems. In Deutsche Bank's 2016 predictions, Keirstead says "Open Source keeps eating the world", causing major price deflation for the traditional enterprise software industry. Whether the motive is faster innovation or increased adoption, companies are relying less and less on proprietary software and embracing Open Source.
 
 ### Cloud adoption
 
@@ -51,7 +52,7 @@ Beyond personalization and contextualization, companies have a greater need for 
 
 ## Acquia continues its growth
 
-Acquia's growth is an indicator that businesses are already betting big on open source, cloud, personalization, and digital transformation. Looking at our numbers for 2015, it is hard to believe that last year was only our seventh full year as a revenue-generating business. Our new logo subscriptions – the business that we get from companies new to Acquia – continued its fast growth, while our renewal rates are among the best around.
+Acquia's growth is an indicator that businesses are already betting big on Open Source, cloud, personalization, and digital transformation. Looking at our numbers for 2015, it is hard to believe that last year was only our seventh full year as a revenue-generating business. Our new logo subscriptions – the business that we get from companies new to Acquia – continued its fast growth, while our renewal rates are among the best around.
 
 To support our growth, [we added $55 million in new venture capital funding](https://dri.es/acquia-raises-55-million-series-g) in 2015, bringing Acquia's total raised to $188.6 million.
 

@@ -7,11 +7,13 @@ author:
 date: '2010-01-15T06:10:36-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Drupal turns nine, having grown from a hobby project expecting a dozen users into a community of hundreds of thousands.'
 tags:
   - Drupal
   - Birthday
 image: drupal/happy-ninth-birthday
 published: true
+featured: false
 id: 1351
 ---
 

@@ -7,6 +7,7 @@ author:
 date: '2018-10-13T15:07:24-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'A refresh of dri.es aimed at better readability, easier content discovery, faster load times, and more layout flexibility.'
 tags:
   - 'My site'
   - 'Web performance'

@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - Acquia
+  - Acquisitions
 image: acquia/acquia-vista
 published: true
 id: 4936

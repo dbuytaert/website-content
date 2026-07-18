@@ -7,7 +7,7 @@ author:
 date: '2016-06-06T03:24:14-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: "How to advance Drupal's web services beyond for the benefit of Drupal core contributors, module creators and technical decision-makers"
+summary: "How to advance Drupal's web services beyond for the benefit of Drupal core contributors, module creators and technical decision-makers."
 tags:
   - Drupal
   - 'Web services'

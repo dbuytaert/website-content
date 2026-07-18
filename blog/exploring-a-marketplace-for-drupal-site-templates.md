@@ -11,6 +11,7 @@ summary: 'This post looks at the idea of a Drupal Site Template marketplace and 
 tags:
   - Drupal
   - 'Drupal Association'
+  - 'Business model'
 image: drupal/marketplace
 published: true
 featured: true

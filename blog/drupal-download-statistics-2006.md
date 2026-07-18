@@ -7,7 +7,7 @@ author:
 date: '2006-06-01T15:09:20-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Drupal download statistics for 2006'
+summary: 'Drupal download statistics for 2006.'
 tags:
   - Drupal
   - Statistics

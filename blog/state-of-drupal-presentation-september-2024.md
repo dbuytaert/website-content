@@ -7,7 +7,7 @@ author:
 date: '2024-09-30T12:51:33-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'DrupalCon Barcelona 2024 DriesNote presentation'
+summary: 'DrupalCon Barcelona 2024 DriesNote presentation.'
 tags:
   - 'Drupal Starshot'
   - Drupal

@@ -7,7 +7,7 @@ author:
 date: '2017-08-30T21:11:17-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'How Entertainment Tonight relaunched its website on Drupal 8 to serve 19 million unique monthly visitors'
+summary: 'How Entertainment Tonight relaunched its website on Drupal 8 to serve 19 million unique monthly visitors.'
 tags:
   - Drupal
   - 'Drupal sites'

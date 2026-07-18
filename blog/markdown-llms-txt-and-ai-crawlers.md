@@ -7,6 +7,7 @@ author:
 date: '2026-03-05T10:18:15-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'A month of Cloudflare logs shows AI crawlers fetched 1,241 pages per citation, rarely request Markdown, and never use content negotiation or llms.txt.'
 tags:
   - 'My site'
   - Markdown

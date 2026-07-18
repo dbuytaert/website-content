@@ -7,7 +7,7 @@ author:
 date: '2024-12-30T05:43:30-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'DrupalCon Singapore 2024 DriesNote presentation'
+summary: 'DrupalCon Singapore 2024 DriesNote presentation.'
 tags:
   - Drupal
   - 'Drupal Starshot'

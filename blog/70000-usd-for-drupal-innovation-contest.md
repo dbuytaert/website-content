@@ -12,6 +12,7 @@ tags:
   - Drupal
   - 'Drupal Association'
   - Acquia
+  - 'Open Source sustainability'
 image: drupal/pitch-burgh-70000
 published: true
 id: 5461

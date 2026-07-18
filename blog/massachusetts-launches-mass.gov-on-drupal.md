@@ -7,7 +7,7 @@ author:
 date: '2017-12-01T03:06:51-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Mass.gov moved a 15-year-old site from a legacy CMS to Acquia and Drupal'
+summary: 'Mass.gov moved a 15-year-old site from a legacy CMS to Acquia and Drupal.'
 tags:
   - Drupal
   - Acquia

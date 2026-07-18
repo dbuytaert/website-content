@@ -7,7 +7,7 @@ author:
 date: '2018-06-15T10:08:45-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'A plan how we can make Composer easier to use with Drupal'
+summary: 'A plan how we can make Composer easier to use with Drupal.'
 tags:
   - Drupal
 image: drupal/drupal-composer-initiative

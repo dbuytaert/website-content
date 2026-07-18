@@ -13,6 +13,7 @@ tags:
   - 'Open Source'
   - Diversity
   - 'Drupal sponsors'
+  - 'Open Source sustainability'
 image: drupal/contributions-top-30-organizations-2017
 published: true
 featured: true
@@ -69,222 +70,222 @@ While the number of individual contributors rose, a relatively small number of i
 <small>
   <table>
   <thead>
-   <tr>
-    <th style="padding: 0.2em;">Rank</th>
-    <th style="padding: 0.2em;">Username</th>
-    <th style="padding: 0.2em;">Issues</th>
- </tr>
- </thead>
   <tr>
-   <td>1</td>
-   <td>
-    <a href="https://www.drupal.org/u/jrockowitz">jrockowitz</a>
- </td>
-   <td>537</td>
- </tr>
+   <th style="padding: 0.2em;">Rank</th>
+   <th style="padding: 0.2em;">Username</th>
+   <th style="padding: 0.2em;">Issues</th>
+</tr>
+</thead>
   <tr>
-   <td>2</td>
-   <td>
-    <a href="https://www.drupal.org/u/dawehner">dawehner</a>
- </td>
-   <td>421</td>
- </tr>
+  <td>1</td>
+  <td>
+   <a href="https://www.drupal.org/u/jrockowitz">jrockowitz</a>
+</td>
+  <td>537</td>
+</tr>
   <tr>
-   <td>3</td>
-   <td>
-    <a href="https://www.drupal.org/u/renatog">RenatoG</a>
- </td>
-   <td>408</td>
- </tr>
+  <td>2</td>
+  <td>
+   <a href="https://www.drupal.org/u/dawehner">dawehner</a>
+</td>
+  <td>421</td>
+</tr>
   <tr>
-   <td>4</td>
-   <td>
-    <a href="https://www.drupal.org/u/bojanz">bojanz</a>
- </td>
-   <td>351</td>
- </tr>
+  <td>3</td>
+  <td>
+   <a href="https://www.drupal.org/u/renatog">RenatoG</a>
+</td>
+  <td>408</td>
+</tr>
   <tr>
-   <td>5</td>
-   <td>
-    <a href="https://www.drupal.org/u/berdir">Berdir</a>
- </td>
-   <td>335</td>
- </tr>
+  <td>4</td>
+  <td>
+   <a href="https://www.drupal.org/u/bojanz">bojanz</a>
+</td>
+  <td>351</td>
+</tr>
   <tr>
-   <td>6</td>
-   <td>
-    <a href="https://www.drupal.org/u/mglaman">mglaman</a>
- </td>
-   <td>334</td>
- </tr>
+  <td>5</td>
+  <td>
+   <a href="https://www.drupal.org/u/berdir">Berdir</a>
+</td>
+  <td>335</td>
+</tr>
   <tr>
-   <td>7</td>
-   <td>
-    <a href="https://www.drupal.org/u/wim-leers">Wim Leers</a>
- </td>
-   <td>332</td>
- </tr>
+  <td>6</td>
+  <td>
+   <a href="https://www.drupal.org/u/mglaman">mglaman</a>
+</td>
+  <td>334</td>
+</tr>
   <tr>
-   <td>8</td>
-   <td>
-    <a href="https://www.drupal.org/u/alexpott">alexpott</a>
- </td>
-   <td>329</td>
- </tr>
+  <td>7</td>
+  <td>
+   <a href="https://www.drupal.org/u/wim-leers">Wim Leers</a>
+</td>
+  <td>332</td>
+</tr>
   <tr>
-   <td>9</td>
-   <td>
-    <a href="https://www.drupal.org/u/damienmckenna">DamienMcKenna</a>
- </td>
-   <td>245</td>
- </tr>
+  <td>8</td>
+  <td>
+   <a href="https://www.drupal.org/u/alexpott">alexpott</a>
+</td>
+  <td>329</td>
+</tr>
   <tr>
-   <td>10</td>
-   <td>
-    <a href="https://www.drupal.org/u/jhodgdon">jhodgdon</a>
- </td>
-   <td>242</td>
- </tr>
+  <td>9</td>
+  <td>
+   <a href="https://www.drupal.org/u/damienmckenna">DamienMcKenna</a>
+</td>
+  <td>245</td>
+</tr>
   <tr>
-   <td>11</td>
-   <td>
-    <a href="https://www.drupal.org/u/drunken-monkey">drunken monkey</a>
- </td>
-   <td>238</td>
- </tr>
+  <td>10</td>
+  <td>
+   <a href="https://www.drupal.org/u/jhodgdon">jhodgdon</a>
+</td>
+  <td>242</td>
+</tr>
   <tr>
-   <td>12</td>
-   <td>
-    <a href="https://www.drupal.org/u/naveenvalecha">naveenvalecha</a>
- </td>
-   <td>196</td>
- </tr>
+  <td>11</td>
+  <td>
+   <a href="https://www.drupal.org/u/drunken-monkey">drunken monkey</a>
+</td>
+  <td>238</td>
+</tr>
   <tr>
-   <td>13</td>
-   <td>
-    <a href="https://www.drupal.org/u/munavijayalakshmi">Munavijayalakshmi</a>
- </td>
-   <td>192</td>
- </tr>
+  <td>12</td>
+  <td>
+   <a href="https://www.drupal.org/u/naveenvalecha">naveenvalecha</a>
+</td>
+  <td>196</td>
+</tr>
   <tr>
-   <td>14</td>
-   <td>
-    <a href="https://www.drupal.org/u/borisson_">borisson_</a>
- </td>
-   <td>191</td>
- </tr>
+  <td>13</td>
+  <td>
+   <a href="https://www.drupal.org/u/munavijayalakshmi">Munavijayalakshmi</a>
+</td>
+  <td>192</td>
+</tr>
   <tr>
-   <td>15</td>
-   <td>
-    <a href="https://www.drupal.org/u/yongt9412">yongt9412</a>
- </td>
-   <td>189</td>
- </tr>
+  <td>14</td>
+  <td>
+   <a href="https://www.drupal.org/u/borisson_">borisson_</a>
+</td>
+  <td>191</td>
+</tr>
   <tr>
-   <td>16</td>
-   <td>
-    <a href="https://www.drupal.org/u/klausi">klausi</a>
- </td>
-   <td>185</td>
- </tr>
+  <td>15</td>
+  <td>
+   <a href="https://www.drupal.org/u/yongt9412">yongt9412</a>
+</td>
+  <td>189</td>
+</tr>
   <tr>
-   <td>17</td>
-   <td>
-    <a href="https://www.drupal.org/u/sam152">Sam152</a>
- </td>
-   <td>184</td>
- </tr>
+  <td>16</td>
+  <td>
+   <a href="https://www.drupal.org/u/klausi">klausi</a>
+</td>
+  <td>185</td>
+</tr>
   <tr>
-   <td>18</td>
-   <td>
-    <a href="https://www.drupal.org/u/miro_dietiker">miro_dietiker</a>
- </td>
-   <td>182</td>
- </tr>
+  <td>17</td>
+  <td>
+   <a href="https://www.drupal.org/u/sam152">Sam152</a>
+</td>
+  <td>184</td>
+</tr>
   <tr>
-   <td>19</td>
-   <td>
-    <a href="https://www.drupal.org/u/pavan-b-s">Pavan B S</a>
- </td>
-   <td>180</td>
- </tr>
+  <td>18</td>
+  <td>
+   <a href="https://www.drupal.org/u/miro_dietiker">miro_dietiker</a>
+</td>
+  <td>182</td>
+</tr>
   <tr>
-   <td>20</td>
-   <td>
-    <a href="https://www.drupal.org/u/ajay_reddy">ajay_reddy</a>
- </td>
-   <td>176</td>
- </tr>
+  <td>19</td>
+  <td>
+   <a href="https://www.drupal.org/u/pavan-b-s">Pavan B S</a>
+</td>
+  <td>180</td>
+</tr>
   <tr>
-   <td>21</td>
-   <td>
-    <a href="https://www.drupal.org/u/phenaproxima">phenaproxima</a>
- </td>
-   <td>172</td>
- </tr>
+  <td>20</td>
+  <td>
+   <a href="https://www.drupal.org/u/ajay_reddy">ajay_reddy</a>
+</td>
+  <td>176</td>
+</tr>
   <tr>
-   <td>22</td>
-   <td>
-    <a href="https://www.drupal.org/u/sanchiz">sanchiz</a>
- </td>
-   <td>162</td>
- </tr>
+  <td>21</td>
+  <td>
+   <a href="https://www.drupal.org/u/phenaproxima">phenaproxima</a>
+</td>
+  <td>172</td>
+</tr>
   <tr>
-   <td>23</td>
-   <td>
-    <a href="https://www.drupal.org/u/slashrsm">slashrsm</a>
- </td>
-   <td>161</td>
- </tr>
+  <td>22</td>
+  <td>
+   <a href="https://www.drupal.org/u/sanchiz">sanchiz</a>
+</td>
+  <td>162</td>
+</tr>
   <tr>
-   <td>24</td>
-   <td>
-    <a href="https://www.drupal.org/u/jhedstrom">jhedstrom</a>
- </td>
-   <td>155</td>
- </tr>
+  <td>23</td>
+  <td>
+   <a href="https://www.drupal.org/u/slashrsm">slashrsm</a>
+</td>
+  <td>161</td>
+</tr>
   <tr>
-   <td>25</td>
-   <td>
-    <a href="https://www.drupal.org/u/xjm">xjm</a>
- </td>
-   <td>151</td>
- </tr>
+  <td>24</td>
+  <td>
+   <a href="https://www.drupal.org/u/jhedstrom">jhedstrom</a>
+</td>
+  <td>155</td>
+</tr>
   <tr>
-   <td>26</td>
-   <td>
-    <a href="https://www.drupal.org/u/catch">catch</a>
- </td>
-   <td>147</td>
- </tr>
+  <td>25</td>
+  <td>
+   <a href="https://www.drupal.org/u/xjm">xjm</a>
+</td>
+  <td>151</td>
+</tr>
   <tr>
-   <td>27</td>
-   <td>
-    <a href="https://www.drupal.org/u/larowlan">larowlan</a>
- </td>
-   <td>145</td>
- </tr>
+  <td>26</td>
+  <td>
+   <a href="https://www.drupal.org/u/catch">catch</a>
+</td>
+  <td>147</td>
+</tr>
   <tr>
-   <td>28</td>
-   <td>
-    <a href="https://www.drupal.org/u/rakeshgectcr">rakesh.gectcr</a>
- </td>
-   <td>141</td>
- </tr>
+  <td>27</td>
+  <td>
+   <a href="https://www.drupal.org/u/larowlan">larowlan</a>
+</td>
+  <td>145</td>
+</tr>
   <tr>
-   <td>29</td>
-   <td>
-    <a href="https://www.drupal.org/u/benjy">benjy</a>
- </td>
-   <td>139</td>
- </tr>
+  <td>28</td>
+  <td>
+   <a href="https://www.drupal.org/u/rakeshgectcr">rakesh.gectcr</a>
+</td>
+  <td>141</td>
+</tr>
   <tr>
-   <td>30</td>
-   <td>
-    <a href="https://www.drupal.org/u/dhruveshdtripathi">dhruveshdtripathi</a>
- </td>
-   <td>138</td>
- </tr>
+  <td>29</td>
+  <td>
+   <a href="https://www.drupal.org/u/benjy">benjy</a>
+</td>
+  <td>139</td>
+</tr>
+  <tr>
+  <td>30</td>
+  <td>
+   <a href="https://www.drupal.org/u/dhruveshdtripathi">dhruveshdtripathi</a>
+</td>
+  <td>138</td>
+</tr>
 </table>
 </small>
 
@@ -329,9 +330,9 @@ While not immediately obvious from the graph above, different types of companies
 <table>
   <thead>
   <tr>
-   <th>Category</th>
-   <th>Description</th>
- </tr>
+  <th>Category</th>
+  <th>Description</th>
+</tr>
 </thead>
   <tr>
   <td>Traditional Drupal businesses</td>
@@ -395,496 +396,496 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
 <small>
   <table>
   <thead>
-   <tr>
-    <th style="padding: 0.2em;">Rank</th>
-    <th style="padding: 0.2em;">Project name</th>
-    <th style="padding: 0.2em;">Issues</th>
- </tr>
- </thead>
   <tr>
-   <td>1</td>
+   <th style="padding: 0.2em;">Rank</th>
+   <th style="padding: 0.2em;">Project name</th>
+   <th style="padding: 0.2em;">Issues</th>
+</tr>
+</thead>
+  <tr>
+  <td>1</td>
+  <td>
+   <a href="https://www.drupal.org/project/drupal">Drupal Core</a>
+</td>
+  <td>4745</td>
+</tr>
+  <tr>
+  <td>2</td>
+  <td>
+   <a href="https://www.drupal.org/project/commerce">Drupal Commerce</a> (distribution)</td>
+   <td>526</td>
+</tr>
+  <tr>
+   <td>3</td>
    <td>
-    <a href="https://www.drupal.org/project/drupal">Drupal Core</a>
+    <a href="https://www.drupal.org/project/webform">Webform</a>
  </td>
-   <td>4745</td>
- </tr>
+   <td>361</td>
+</tr>
   <tr>
-   <td>2</td>
+   <td>4</td>
    <td>
-    <a href="https://www.drupal.org/project/commerce">Drupal Commerce</a> (distribution)</td>
-    <td>526</td>
+    <a href="https://www.drupal.org/project/openy">Open Y</a> (distribution)</td>
+    <td>324</td>
  </tr>
    <tr>
-    <td>3</td>
+    <td>5</td>
     <td>
-     <a href="https://www.drupal.org/project/webform">Webform</a>
-   </td>
-    <td>361</td>
+    <a href="https://www.drupal.org/project/paragraphs">Paragraphs</a>
+ </td>
+    <td>231</td>
  </tr>
    <tr>
-    <td>4</td>
+    <td>6</td>
     <td>
-     <a href="https://www.drupal.org/project/openy">Open Y</a> (distribution)</td>
-     <td>324</td>
-   </tr>
+    <a href="https://www.drupal.org/project/inmail">Inmail</a>
+ </td>
+    <td>223</td>
+ </tr>
+   <tr>
+    <td>7</td>
+    <td>
+    <a href="https://www.drupal.org/project/user_guide">User guide</a>
+ </td>
+    <td>218</td>
+ </tr>
+   <tr>
+    <td>8</td>
+    <td>
+    <a href="https://www.drupal.org/project/jsonapi">JSON API</a>
+ </td>
+    <td>204</td>
+ </tr>
+   <tr>
+    <td>9</td>
+    <td>
+    <a href="https://www.drupal.org/project/paragraphs_collection">Paragraphs collection</a>
+ </td>
+    <td>200</td>
+ </tr>
+   <tr>
+    <td>10</td>
+    <td>
+    <a href="https://www.drupal.org/project/entity_browser">Entity browser</a>
+ </td>
+    <td>196</td>
+ </tr>
+   <tr>
+    <td>11</td>
+    <td>
+    <a href="https://www.drupal.org/project/diff">Diff</a>
+ </td>
+    <td>190</td>
+ </tr>
+   <tr>
+    <td>12</td>
+    <td>
+    <a href="https://www.drupal.org/project/group">Group</a>
+ </td>
+    <td>170</td>
+ </tr>
+   <tr>
+    <td>13</td>
+    <td>
+    <a href="https://www.drupal.org/project/metatag">Metatag</a>
+ </td>
+    <td>157</td>
+ </tr>
+   <tr>
+    <td>14</td>
+    <td>
+    <a href="https://www.drupal.org/project/facets">Facets</a>
+ </td>
+    <td>155</td>
+ </tr>
+   <tr>
+    <td>15</td>
+    <td>
+    <a href="https://www.drupal.org/project/commerce_pos">Commerce Point of Sale (PoS)</a>
+ </td>
+    <td>147</td>
+ </tr>
+   <tr>
+    <td>16</td>
+    <td>
+    <a href="https://www.drupal.org/project/search_api">Search API</a>
+ </td>
+    <td>143</td>
+ </tr>
+   <tr>
+    <td>17</td>
+    <td>
+    <a href="https://www.drupal.org/project/social">Open Social</a> (distribution)</td>
+    <td>133</td>
+ </tr>
     <tr>
-     <td>5</td>
+    <td>18</td>
+    <td>
+     <a href="https://www.drupal.org/project/dvg">Drupal voor Gemeenten</a> (distribution)</td>
+     <td>131</td>
+  </tr>
+    <tr>
+     <td>19</td>
      <td>
-      <a href="https://www.drupal.org/project/paragraphs">Paragraphs</a>
+      <a href="https://www.drupal.org/project/search_api_solr">Solr Search</a>
    </td>
-     <td>231</td>
-   </tr>
+     <td>122</td>
+  </tr>
     <tr>
-     <td>6</td>
+     <td>20</td>
      <td>
-      <a href="https://www.drupal.org/project/inmail">Inmail</a>
+      <a href="https://www.drupal.org/project/geolocation">Geolocation field</a>
    </td>
-     <td>223</td>
-   </tr>
-    <tr>
-     <td>7</td>
-     <td>
-      <a href="https://www.drupal.org/project/user_guide">User guide</a>
-   </td>
-     <td>218</td>
-   </tr>
-    <tr>
-     <td>8</td>
-     <td>
-      <a href="https://www.drupal.org/project/jsonapi">JSON API</a>
-   </td>
-     <td>204</td>
-   </tr>
-    <tr>
-     <td>9</td>
-     <td>
-      <a href="https://www.drupal.org/project/paragraphs_collection">Paragraphs collection</a>
-   </td>
-     <td>200</td>
-   </tr>
-    <tr>
-     <td>10</td>
-     <td>
-      <a href="https://www.drupal.org/project/entity_browser">Entity browser</a>
-   </td>
-     <td>196</td>
-   </tr>
-    <tr>
-     <td>11</td>
-     <td>
-      <a href="https://www.drupal.org/project/diff">Diff</a>
-   </td>
-     <td>190</td>
-   </tr>
-    <tr>
-     <td>12</td>
-     <td>
-      <a href="https://www.drupal.org/project/group">Group</a>
-   </td>
-     <td>170</td>
-   </tr>
-    <tr>
-     <td>13</td>
-     <td>
-      <a href="https://www.drupal.org/project/metatag">Metatag</a>
-   </td>
-     <td>157</td>
-   </tr>
-    <tr>
-     <td>14</td>
-     <td>
-      <a href="https://www.drupal.org/project/facets">Facets</a>
-   </td>
-     <td>155</td>
-   </tr>
-    <tr>
-     <td>15</td>
-     <td>
-      <a href="https://www.drupal.org/project/commerce_pos">Commerce Point of Sale (PoS)</a>
-   </td>
-     <td>147</td>
-   </tr>
-    <tr>
-     <td>16</td>
-     <td>
-      <a href="https://www.drupal.org/project/search_api">Search API</a>
-   </td>
-     <td>143</td>
-   </tr>
-    <tr>
-     <td>17</td>
-     <td>
-      <a href="https://www.drupal.org/project/social">Open Social</a> (distribution)</td>
-      <td>133</td>
-   </tr>
-     <tr>
-      <td>18</td>
-      <td>
-       <a href="https://www.drupal.org/project/dvg">Drupal voor Gemeenten</a> (distribution)</td>
-       <td>131</td>
-    </tr>
-      <tr>
-       <td>19</td>
-       <td>
-        <a href="https://www.drupal.org/project/search_api_solr">Solr Search</a>
-     </td>
-       <td>122</td>
-    </tr>
-      <tr>
-       <td>20</td>
-       <td>
-        <a href="https://www.drupal.org/project/geolocation">Geolocation field</a>
-     </td>
-       <td>118</td>
-    </tr>
-   </table>
-   </small>
+     <td>118</td>
+  </tr>
+ </table>
+ </small>
 
 ## Who is sponsoring the top 30 contributors?
 
 <small>
   <table>
   <thead>
-   <tr>
-    <th style="padding: 0.2em;">Rank</th>
-    <th style="padding: 0.2em;">Username</th>
-    <th style="padding: 0.2em;">Issues</th>
-    <th style="padding: 0.2em;">Volunteer</th>
-    <th style="padding: 0.2em;">Sponsored</th>
-    <th style="padding: 0.2em;">Not specified</th>
-    <th style="padding: 0.2em;">Sponsors</th>
- </tr>
- </thead>
   <tr>
-   <td>1</td>
-   <td>
-    <a href="https://www.drupal.org/u/jrockowitz">jrockowitz</a>
- </td>
-   <td>537</td>
-   <td>88%</td>
-   <td>45%</td>
-   <td>9%</td>
-   <td>The Big Blue House (239), Kennesaw State University (6), Memorial Sloan Kettering Cancer Center (4)</td>
- </tr>
+   <th style="padding: 0.2em;">Rank</th>
+   <th style="padding: 0.2em;">Username</th>
+   <th style="padding: 0.2em;">Issues</th>
+   <th style="padding: 0.2em;">Volunteer</th>
+   <th style="padding: 0.2em;">Sponsored</th>
+   <th style="padding: 0.2em;">Not specified</th>
+   <th style="padding: 0.2em;">Sponsors</th>
+</tr>
+</thead>
   <tr>
-   <td>2</td>
-   <td>
-    <a href="https://www.drupal.org/u/dawehner">dawehner</a>
- </td>
-   <td>421</td>
-   <td>67%</td>
-   <td>83%</td>
-   <td>5%</td>
-   <td>Chapter Three (328), Tag1 Consulting (19), Drupal Association (12), Acquia (5), Comm-press (1)</td>
- </tr>
+  <td>1</td>
+  <td>
+   <a href="https://www.drupal.org/u/jrockowitz">jrockowitz</a>
+</td>
+  <td>537</td>
+  <td>88%</td>
+  <td>45%</td>
+  <td>9%</td>
+  <td>The Big Blue House (239), Kennesaw State University (6), Memorial Sloan Kettering Cancer Center (4)</td>
+</tr>
   <tr>
-   <td>3</td>
-   <td>
-    <a href="https://www.drupal.org/u/renatog">RenatoG</a>
- </td>
-   <td>408</td>
-   <td>0%</td>
-   <td>100%</td>
-   <td>0%</td>
-   <td>CI&amp;T (408)</td>
- </tr>
+  <td>2</td>
+  <td>
+   <a href="https://www.drupal.org/u/dawehner">dawehner</a>
+</td>
+  <td>421</td>
+  <td>67%</td>
+  <td>83%</td>
+  <td>5%</td>
+  <td>Chapter Three (328), Tag1 Consulting (19), Drupal Association (12), Acquia (5), Comm-press (1)</td>
+</tr>
   <tr>
-   <td>4</td>
-   <td>
-    <a href="https://www.drupal.org/u/bojanz">bojanz</a>
- </td>
-   <td>351</td>
-   <td>0%</td>
-   <td>95%</td>
-   <td>5%</td>
-   <td>Commerce Guys (335), Adapt A/S (38), Bluespark (2)</td>
- </tr>
+  <td>3</td>
+  <td>
+   <a href="https://www.drupal.org/u/renatog">RenatoG</a>
+</td>
+  <td>408</td>
+  <td>0%</td>
+  <td>100%</td>
+  <td>0%</td>
+  <td>CI&amp;T (408)</td>
+</tr>
   <tr>
-   <td>5</td>
-   <td>
-    <a href="https://www.drupal.org/u/berdir">Berdir</a>
- </td>
-   <td>335</td>
-   <td>0%</td>
-   <td>93%</td>
-   <td>7%</td>
-   <td>MD Systems (310), Acquia (7)</td>
- </tr>
+  <td>4</td>
+  <td>
+   <a href="https://www.drupal.org/u/bojanz">bojanz</a>
+</td>
+  <td>351</td>
+  <td>0%</td>
+  <td>95%</td>
+  <td>5%</td>
+  <td>Commerce Guys (335), Adapt A/S (38), Bluespark (2)</td>
+</tr>
   <tr>
-   <td>6</td>
-   <td>
-    <a href="https://www.drupal.org/u/mglaman">mglaman</a>
- </td>
-   <td>334</td>
-   <td>3%</td>
-   <td>97%</td>
-   <td>1%</td>
-   <td>Commerce Guys (319), Thinkbean, LLC (48), LivePerson, Inc (46), Bluespark (22), Universal Music Group (16), Gaggle.net, Inc. (3), Bluehorn Digital (1)</td>
- </tr>
+  <td>5</td>
+  <td>
+   <a href="https://www.drupal.org/u/berdir">Berdir</a>
+</td>
+  <td>335</td>
+  <td>0%</td>
+  <td>93%</td>
+  <td>7%</td>
+  <td>MD Systems (310), Acquia (7)</td>
+</tr>
   <tr>
-   <td>7</td>
-   <td>
-    <a href="https://www.drupal.org/u/wim-leers">Wim Leers</a>
- </td>
-   <td>332</td>
-   <td>14%</td>
-   <td>87%</td>
-   <td>2%</td>
-   <td>Acquia (290)</td>
- </tr>
+  <td>6</td>
+  <td>
+   <a href="https://www.drupal.org/u/mglaman">mglaman</a>
+</td>
+  <td>334</td>
+  <td>3%</td>
+  <td>97%</td>
+  <td>1%</td>
+  <td>Commerce Guys (319), Thinkbean, LLC (48), LivePerson, Inc (46), Bluespark (22), Universal Music Group (16), Gaggle.net, Inc. (3), Bluehorn Digital (1)</td>
+</tr>
   <tr>
-   <td>8</td>
-   <td>
-    <a href="https://www.drupal.org/u/alexpott">alexpott</a>
- </td>
-   <td>329</td>
-   <td>7%</td>
-   <td>99%</td>
-   <td>1%</td>
-   <td>Chapter Three (326), TES Global (1)</td>
- </tr>
+  <td>7</td>
+  <td>
+   <a href="https://www.drupal.org/u/wim-leers">Wim Leers</a>
+</td>
+  <td>332</td>
+  <td>14%</td>
+  <td>87%</td>
+  <td>2%</td>
+  <td>Acquia (290)</td>
+</tr>
   <tr>
-   <td>9</td>
-   <td>
-    <a href="https://www.drupal.org/u/damienmckenna">DamienMcKenna</a>
- </td>
-   <td>245</td>
-   <td>2%</td>
-   <td>95%</td>
-   <td>4%</td>
-   <td>Mediacurrent (232)</td>
- </tr>
+  <td>8</td>
+  <td>
+   <a href="https://www.drupal.org/u/alexpott">alexpott</a>
+</td>
+  <td>329</td>
+  <td>7%</td>
+  <td>99%</td>
+  <td>1%</td>
+  <td>Chapter Three (326), TES Global (1)</td>
+</tr>
   <tr>
-   <td>10</td>
-   <td>
-    <a href="https://www.drupal.org/u/jhodgdon">jhodgdon</a>
- </td>
-   <td>242</td>
-   <td>0%</td>
-   <td>1%</td>
-   <td>99%</td>
-   <td>Drupal Association (2), Poplar ProductivityWare (2)</td>
- </tr>
+  <td>9</td>
+  <td>
+   <a href="https://www.drupal.org/u/damienmckenna">DamienMcKenna</a>
+</td>
+  <td>245</td>
+  <td>2%</td>
+  <td>95%</td>
+  <td>4%</td>
+  <td>Mediacurrent (232)</td>
+</tr>
   <tr>
-   <td>11</td>
-   <td>
-    <a href="https://www.drupal.org/u/drunken-monkey">drunken monkey</a>
- </td>
-   <td>238</td>
-   <td>95%</td>
-   <td>11%</td>
-   <td>1%</td>
-   <td>Acquia (17), Vizala (8), Wunder Group (1), Sunlime IT Services GmbH (1)</td>
- </tr>
+  <td>10</td>
+  <td>
+   <a href="https://www.drupal.org/u/jhodgdon">jhodgdon</a>
+</td>
+  <td>242</td>
+  <td>0%</td>
+  <td>1%</td>
+  <td>99%</td>
+  <td>Drupal Association (2), Poplar ProductivityWare (2)</td>
+</tr>
   <tr>
-   <td>12</td>
-   <td>
-    <a href="https://www.drupal.org/u/naveenvalecha">naveenvalecha</a>
- </td>
-   <td>196</td>
-   <td>74%</td>
-   <td>55%</td>
-   <td>1%</td>
-   <td>Acquia (152), Google Summer of Code (7), QED42 (1)</td>
- </tr>
+  <td>11</td>
+  <td>
+   <a href="https://www.drupal.org/u/drunken-monkey">drunken monkey</a>
+</td>
+  <td>238</td>
+  <td>95%</td>
+  <td>11%</td>
+  <td>1%</td>
+  <td>Acquia (17), Vizala (8), Wunder Group (1), Sunlime IT Services GmbH (1)</td>
+</tr>
   <tr>
-   <td>13</td>
-   <td>
-    <a href="https://www.drupal.org/u/munavijayalakshmi">Munavijayalakshmi</a>
- </td>
-   <td>192</td>
-   <td>0%</td>
-   <td>100%</td>
-   <td>0%</td>
-   <td>Valuebound (192)</td>
- </tr>
+  <td>12</td>
+  <td>
+   <a href="https://www.drupal.org/u/naveenvalecha">naveenvalecha</a>
+</td>
+  <td>196</td>
+  <td>74%</td>
+  <td>55%</td>
+  <td>1%</td>
+  <td>Acquia (152), Google Summer of Code (7), QED42 (1)</td>
+</tr>
   <tr>
-   <td>14</td>
-   <td>
-    <a href="https://www.drupal.org/u/borisson_">borisson_</a>
- </td>
-   <td>191</td>
-   <td>66%</td>
-   <td>39%</td>
-   <td>22%</td>
-   <td>Dazzle (70), Acquia (6)</td>
- </tr>
+  <td>13</td>
+  <td>
+   <a href="https://www.drupal.org/u/munavijayalakshmi">Munavijayalakshmi</a>
+</td>
+  <td>192</td>
+  <td>0%</td>
+  <td>100%</td>
+  <td>0%</td>
+  <td>Valuebound (192)</td>
+</tr>
   <tr>
-   <td>15</td>
-   <td>
-    <a href="https://www.drupal.org/u/yongt9412">yongt9412</a>
- </td>
-   <td>189</td>
-   <td>0%</td>
-   <td>97%</td>
-   <td>3%</td>
-   <td>MD Systems (183), Acquia (6)</td>
- </tr>
+  <td>14</td>
+  <td>
+   <a href="https://www.drupal.org/u/borisson_">borisson_</a>
+</td>
+  <td>191</td>
+  <td>66%</td>
+  <td>39%</td>
+  <td>22%</td>
+  <td>Dazzle (70), Acquia (6)</td>
+</tr>
   <tr>
-   <td>16</td>
-   <td>
-    <a href="https://www.drupal.org/u/klausi">klausi</a>
- </td>
-   <td>185</td>
-   <td>9%</td>
-   <td>61%</td>
-   <td>32%</td>
-   <td>epiqo (112)</td>
- </tr>
+  <td>15</td>
+  <td>
+   <a href="https://www.drupal.org/u/yongt9412">yongt9412</a>
+</td>
+  <td>189</td>
+  <td>0%</td>
+  <td>97%</td>
+  <td>3%</td>
+  <td>MD Systems (183), Acquia (6)</td>
+</tr>
   <tr>
-   <td>17</td>
-   <td>
-    <a href="https://www.drupal.org/u/sam152">Sam152</a>
- </td>
-   <td>184</td>
-   <td>59%</td>
-   <td>92%</td>
-   <td>7%</td>
-   <td>PreviousNext (168), amaysim Australia Ltd. (5), Code Drop (2)</td>
- </tr>
+  <td>16</td>
+  <td>
+   <a href="https://www.drupal.org/u/klausi">klausi</a>
+</td>
+  <td>185</td>
+  <td>9%</td>
+  <td>61%</td>
+  <td>32%</td>
+  <td>epiqo (112)</td>
+</tr>
   <tr>
-   <td>18</td>
-   <td>
-    <a href="https://www.drupal.org/u/miro_dietiker">miro_dietiker</a>
- </td>
-   <td>182</td>
-   <td>0%</td>
-   <td>99%</td>
-   <td>1%</td>
-   <td>MD Systems (181)</td>
- </tr>
+  <td>17</td>
+  <td>
+   <a href="https://www.drupal.org/u/sam152">Sam152</a>
+</td>
+  <td>184</td>
+  <td>59%</td>
+  <td>92%</td>
+  <td>7%</td>
+  <td>PreviousNext (168), amaysim Australia Ltd. (5), Code Drop (2)</td>
+</tr>
   <tr>
-   <td>19</td>
-   <td>
-    <a href="https://www.drupal.org/u/pavan-b-s">Pavan B S</a>
- </td>
-   <td>180</td>
-   <td>0%</td>
-   <td>98%</td>
-   <td>2%</td>
-   <td>Valuebound (177)</td>
- </tr>
+  <td>18</td>
+  <td>
+   <a href="https://www.drupal.org/u/miro_dietiker">miro_dietiker</a>
+</td>
+  <td>182</td>
+  <td>0%</td>
+  <td>99%</td>
+  <td>1%</td>
+  <td>MD Systems (181)</td>
+</tr>
   <tr>
-   <td>20</td>
-   <td>
-    <a href="https://www.drupal.org/u/ajay_reddy">ajay_reddy</a>
- </td>
-   <td>176</td>
-   <td>100%</td>
-   <td>99%</td>
-   <td>0%</td>
-   <td>Valuebound (180), Drupal Bangalore Community (154)</td>
- </tr>
+  <td>19</td>
+  <td>
+   <a href="https://www.drupal.org/u/pavan-b-s">Pavan B S</a>
+</td>
+  <td>180</td>
+  <td>0%</td>
+  <td>98%</td>
+  <td>2%</td>
+  <td>Valuebound (177)</td>
+</tr>
   <tr>
-   <td>21</td>
-   <td>
-    <a href="https://www.drupal.org/u/phenaproxima">phenaproxima</a>
- </td>
-   <td>172</td>
-   <td>0%</td>
-   <td>99%</td>
-   <td>1%</td>
-   <td>Acquia (170)</td>
- </tr>
+  <td>20</td>
+  <td>
+   <a href="https://www.drupal.org/u/ajay_reddy">ajay_reddy</a>
+</td>
+  <td>176</td>
+  <td>100%</td>
+  <td>99%</td>
+  <td>0%</td>
+  <td>Valuebound (180), Drupal Bangalore Community (154)</td>
+</tr>
   <tr>
-   <td>22</td>
-   <td>
-    <a href="https://www.drupal.org/u/sanchiz">sanchiz</a>
- </td>
-   <td>162</td>
-   <td>0%</td>
-   <td>99%</td>
-   <td>1%</td>
-   <td>Drupal Ukraine Community (107), Vinzon (101), FFW (60), Open Y (52)</td>
- </tr>
+  <td>21</td>
+  <td>
+   <a href="https://www.drupal.org/u/phenaproxima">phenaproxima</a>
+</td>
+  <td>172</td>
+  <td>0%</td>
+  <td>99%</td>
+  <td>1%</td>
+  <td>Acquia (170)</td>
+</tr>
   <tr>
-   <td>23</td>
-   <td>
-    <a href="https://www.drupal.org/u/slashrsm">slashrsm</a>
- </td>
-   <td>161</td>
-   <td>6%</td>
-   <td>95%</td>
-   <td>3%</td>
-   <td>MD Systems (153), Acquia (47)</td>
- </tr>
+  <td>22</td>
+  <td>
+   <a href="https://www.drupal.org/u/sanchiz">sanchiz</a>
+</td>
+  <td>162</td>
+  <td>0%</td>
+  <td>99%</td>
+  <td>1%</td>
+  <td>Drupal Ukraine Community (107), Vinzon (101), FFW (60), Open Y (52)</td>
+</tr>
   <tr>
-   <td>24</td>
-   <td>
-    <a href="https://www.drupal.org/u/jhedstrom">jhedstrom</a>
- </td>
-   <td>155</td>
-   <td>4%</td>
-   <td>92%</td>
-   <td>4%</td>
-   <td>Phase2 (143), Workday, Inc. (134), Memorial Sloan Kettering Cancer Center (1)</td>
- </tr>
+  <td>23</td>
+  <td>
+   <a href="https://www.drupal.org/u/slashrsm">slashrsm</a>
+</td>
+  <td>161</td>
+  <td>6%</td>
+  <td>95%</td>
+  <td>3%</td>
+  <td>MD Systems (153), Acquia (47)</td>
+</tr>
   <tr>
-   <td>25</td>
-   <td>
-    <a href="https://www.drupal.org/u/xjm">xjm</a>
- </td>
-   <td>151</td>
-   <td>0%</td>
-   <td>91%</td>
-   <td>9%</td>
-   <td>Acquia (137)</td>
- </tr>
+  <td>24</td>
+  <td>
+   <a href="https://www.drupal.org/u/jhedstrom">jhedstrom</a>
+</td>
+  <td>155</td>
+  <td>4%</td>
+  <td>92%</td>
+  <td>4%</td>
+  <td>Phase2 (143), Workday, Inc. (134), Memorial Sloan Kettering Cancer Center (1)</td>
+</tr>
   <tr>
-   <td>26</td>
-   <td>
-    <a href="https://www.drupal.org/u/catch">catch</a>
- </td>
-   <td>147</td>
-   <td>3%</td>
-   <td>83%</td>
-   <td>16%</td>
-   <td>Third and Grove (116), Tag1 Consulting (6)</td>
- </tr>
+  <td>25</td>
+  <td>
+   <a href="https://www.drupal.org/u/xjm">xjm</a>
+</td>
+  <td>151</td>
+  <td>0%</td>
+  <td>91%</td>
+  <td>9%</td>
+  <td>Acquia (137)</td>
+</tr>
   <tr>
-   <td>27</td>
-   <td>
-    <a href="https://www.drupal.org/u/larowlan">larowlan</a>
- </td>
-   <td>145</td>
-   <td>12%</td>
-   <td>92%</td>
-   <td>7%</td>
-   <td>PreviousNext (133), University of Technology, Sydney (30), amaysim Australia Ltd. (6), Australian Competition and Consumer Commission (ACCC) (1), Department of Justice &amp; Regulation, Victoria (1)</td>
- </tr>
+  <td>26</td>
+  <td>
+   <a href="https://www.drupal.org/u/catch">catch</a>
+</td>
+  <td>147</td>
+  <td>3%</td>
+  <td>83%</td>
+  <td>16%</td>
+  <td>Third and Grove (116), Tag1 Consulting (6)</td>
+</tr>
   <tr>
-   <td>28</td>
-   <td>
-    <a href="https://www.drupal.org/u/rakeshgectcr">rakesh.gectcr</a>
- </td>
-   <td>141</td>
-   <td>100%</td>
-   <td>91%</td>
-   <td>0%</td>
-   <td>Valuebound (128)</td>
- </tr>
+  <td>27</td>
+  <td>
+   <a href="https://www.drupal.org/u/larowlan">larowlan</a>
+</td>
+  <td>145</td>
+  <td>12%</td>
+  <td>92%</td>
+  <td>7%</td>
+  <td>PreviousNext (133), University of Technology, Sydney (30), amaysim Australia Ltd. (6), Australian Competition and Consumer Commission (ACCC) (1), Department of Justice &amp; Regulation, Victoria (1)</td>
+</tr>
   <tr>
-   <td>29</td>
-   <td>
-    <a href="https://www.drupal.org/u/benjy">benjy</a>
- </td>
-   <td>139</td>
-   <td>0%</td>
-   <td>94%</td>
-   <td>6%</td>
-   <td>PreviousNext (129), Brisbane City Council (8), Code Drop (1)</td>
- </tr>
+  <td>28</td>
+  <td>
+   <a href="https://www.drupal.org/u/rakeshgectcr">rakesh.gectcr</a>
+</td>
+  <td>141</td>
+  <td>100%</td>
+  <td>91%</td>
+  <td>0%</td>
+  <td>Valuebound (128)</td>
+</tr>
   <tr>
-   <td>30</td>
-   <td>
-    <a href="https://www.drupal.org/u/dhruveshdtripathi">dhruveshdtripathi</a>
- </td>
-   <td>138</td>
-   <td>15%</td>
-   <td>100%</td>
-   <td>0%</td>
-   <td>DevsAdda (138), OpenSense Labs (44)</td>
- </tr>
+  <td>29</td>
+  <td>
+   <a href="https://www.drupal.org/u/benjy">benjy</a>
+</td>
+  <td>139</td>
+  <td>0%</td>
+  <td>94%</td>
+  <td>6%</td>
+  <td>PreviousNext (129), Brisbane City Council (8), Code Drop (1)</td>
+</tr>
+  <tr>
+  <td>30</td>
+  <td>
+   <a href="https://www.drupal.org/u/dhruveshdtripathi">dhruveshdtripathi</a>
+</td>
+  <td>138</td>
+  <td>15%</td>
+  <td>100%</td>
+  <td>0%</td>
+  <td>DevsAdda (138), OpenSense Labs (44)</td>
+</tr>
 </table>
 </small>
 

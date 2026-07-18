@@ -11,6 +11,7 @@ summary: 'How the Drupal Diversity and Inclusion Contribution Team is working to
 tags:
   - Drupal
   - Diversity
+  - 'Open Source sustainability'
 published: true
 id: 4421
 ---

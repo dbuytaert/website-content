@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/climbing-la-tournette-on-a-three-day-hike-near-lake-annecy'
-title: 'Climbing La Tournette on a three day hike near Lake Annecy'
+title: 'Climbing La Tournette on a three-day hike near Lake Annecy'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -15,10 +15,11 @@ tags:
   - France
 image: la-tournette-2025/tent-in-the-meadows
 published: true
+featured: false
 id: 5876
 ---
 
-# Climbing La Tournette on a three day hike near Lake Annecy
+# Climbing La Tournette on a three-day hike near Lake Annecy
 
 ![A green pyramid tent stands on a grassy meadow below a steep rocky mountainside, with camping gear scattered nearby.](http://default/files/cache/la-tournette-2025/tent-in-the-meadows-640w.jpg)
 

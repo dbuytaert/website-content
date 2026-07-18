@@ -7,10 +7,12 @@ author:
 date: '2013-12-04T02:02:23-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "After reading Satoshi's paper, a reluctant first Bitcoin purchase leads to weighing its risks, promise, and whether a digital currency is money's future."
 tags:
   - Bitcoin
   - Blockchain
 published: true
+featured: false
 id: 3076
 ---
 

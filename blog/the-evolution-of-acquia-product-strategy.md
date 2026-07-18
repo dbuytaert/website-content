@@ -7,10 +7,11 @@ author:
 date: '2017-10-11T16:26:19-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: "The evolution of Acquia's product strategy from content management to data-driven customer journey management"
+summary: "The evolution of Acquia's product strategy from content management to data-driven customer journey management."
 tags:
   - Acquia
   - Drupal
+  - 'Business model'
 image: acquia/acquia-roadmap-2017
 published: true
 featured: true

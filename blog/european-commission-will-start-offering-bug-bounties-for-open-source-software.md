@@ -11,6 +11,7 @@ summary: 'The European Commission worked with the Drupal Security Team to set as
 tags:
   - Drupal
   - Security
+  - 'Open Source sustainability'
 image: drupal/european-commission-drupal-security-bug-bounty
 published: true
 id: 4726

@@ -11,6 +11,7 @@ summary: 'Successful Open Source projects must transition from pure volunteerism
 tags:
   - Drupal
   - 'Open Source'
+  - 'Open Source sustainability'
 published: true
 featured: true
 id: 3241

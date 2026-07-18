@@ -7,7 +7,7 @@ author:
 date: '2018-05-03T15:20:10-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'How Wikipedia serves 10,000 link previews per second'
+summary: 'How Wikipedia serves 10,000 link previews per second.'
 tags:
   - 'Web performance'
 image: blog/wikipedia-link-previews

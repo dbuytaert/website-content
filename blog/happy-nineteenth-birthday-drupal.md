@@ -7,11 +7,13 @@ author:
 date: '2020-01-15T08:56:39-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Marking Drupal's nineteenth year, with the community working toward a successful launch of Drupal 9."
 tags:
   - Drupal
   - Birthday
 image: drupal/happy-nineteenth-birthday
 published: true
+featured: false
 id: 4966
 ---
 

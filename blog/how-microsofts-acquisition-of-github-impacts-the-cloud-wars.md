@@ -7,7 +7,7 @@ author:
 date: '2018-06-04T11:16:38-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: "Microsoft's acquisition of Github will likely emerge as a key platform differentiator as the cloud market continues to mature"
+summary: "Microsoft's acquisition of Github will likely emerge as a key platform differentiator as the cloud market continues to mature."
 tags:
   - 'Open Source'
   - Microsoft

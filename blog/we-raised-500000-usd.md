@@ -11,6 +11,7 @@ tags:
   - Drupal
   - 'Drupal Association'
   - DrupalCares
+  - 'Open Source sustainability'
 image: drupal/blue-hearts-4
 published: true
 id: 5011

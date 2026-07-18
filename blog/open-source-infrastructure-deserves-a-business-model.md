@@ -11,6 +11,7 @@ summary: 'Open Source infrastructure is essential, invisible, and chronically un
 tags:
   - 'Open Source'
   - Drupal
+  - 'Open Source sustainability'
 image: blog/open-source-infrastructure-cracks
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_open-source-software-is-free-to-download-share-7436849612445036544-Blfk' }

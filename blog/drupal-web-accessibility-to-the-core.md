@@ -7,10 +7,12 @@ author:
 date: '2013-12-03T02:26:50-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Reflecting on the Drupal community's commitment to web accessibility, with Drupal 8 aiming to meet higher standards of access."
 tags:
   - Drupal
   - Accessibility
 published: true
+featured: false
 id: 3071
 ---
 

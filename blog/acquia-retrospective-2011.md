@@ -11,6 +11,7 @@ tags:
   - Drupal
   - Acquia
   - Retrospective
+  - 'Business model'
 published: true
 id: 2616
 ---
@@ -77,7 +78,7 @@ Acquia is obviously interested in helping to make Drupal the best it can possibl
 
 However, some of these community investment decisions have backfired on us, and caused community backlash and criticism. Sometimes over smaller things that are easily corrected, as in the case of the Drupal Showcase (moving it from an acquia.com sub-domain and adding a field for attribution), and other times because of [questions and concerns about Acquia's influence](https://dri.es/does-acquia-suck-up-all-the-drupal-talent), as in the case of Drupal 7 usability.
 
-Acquia is in a position where not only can we give back, we *want* to give back. And furthermore, I feel that corporate sponsorship (not just from Acquia) is important to Drupal's continued growth and success. But when major investments into Drupal like these backfire, it definitely gives us pause in continuing to make these kinds of large investments. Nevertheless, I'd love to contribute more and bigger changes to Drupal, particularly Drupal core, in a constructive and healthy way. As Acquia, we'll continue to refine how we work with the community to find the right balance. As a community, we need to figure out how to better embrace corporate sponsorship. Something to brainstorm about together in this new year.
+Acquia is in a position where not only can we give back, we *want* to give back. And furthermore, I feel that corporate sponsorship (not just from Acquia) is important to Drupal's continued growth and success. But when major investments into Drupal like these backfire, it definitely gives us pause in continuing to make these kinds of large investments. Nevertheless, I'd love to contribute more and bigger changes to Drupal, particularly Drupal Core, in a constructive and healthy way. As Acquia, we'll continue to refine how we work with the community to find the right balance. As a community, we need to figure out how to better embrace corporate sponsorship. Something to brainstorm about together in this new year.
 
 Acquia also gives back to the greater good. We raised $31,223 for men's health awareness as part of Movember's Team Drupal, and ranked #19 nationally for our contribution.
 

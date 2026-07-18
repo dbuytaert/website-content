@@ -7,17 +7,18 @@ author:
 date: '2020-04-21T08:06:05-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Applying the "shop local" idea to Open Source: end users can fuel sustainability by funneling commercial work to vendors who contribute back.'
 tags:
   - 'Open Source'
   - Drupal
-image: blog/open-source-dividends
+  - 'Open Source sustainability'
+image: blog/shop-local
 published: true
+featured: false
 id: 4996
 ---
 
 # Shop local to fuel the Open Source dividend
-
-![A sign that reads 'Open Source dividends'](http://default/files/cache/blog/open-source-dividends-640w.png)
 
 ![A window of a shop with a 'shop local' sign.](http://default/files/cache/blog/shop-local-640w.jpg)
 

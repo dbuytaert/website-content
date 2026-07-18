@@ -7,7 +7,7 @@ author:
 date: '2025-03-31T10:44:49-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'DrupalCon North America 2025 DriesNote presentation'
+summary: 'DrupalCon North America 2025 DriesNote presentation.'
 tags:
   - Drupal
   - 'Drupal Starshot'

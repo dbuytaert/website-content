@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - Acquia
+  - Fundraising
 published: true
 id: 2826
 ---
@@ -33,7 +34,7 @@ We'll use the additional funding to continue to go after our mission. We're set 
 - Venture beat: [With $30 million in funding, Acquia edges closer to an IPO](https://venturebeat.com/2012/11/29/acquia-drupal-funding/)
 - Forbes: [Acquia looks to 2014 IPO with new $30 million round](https://www.forbes.com/sites/tomiogeron/2012/11/29/acquia-looks-to-2014-ipo-with-new-30m-round)
 - The Next Web: [Open-source Drupal software startup Acquia bags $30 million to fuel expansion in Europe and Asia](https://thenextweb.com/2012/11/29/open-source-drupal-software-startup-acquia-bags-30m-to-fuel-expansion-in-europe-and-asia)
-- Reuters: [Open source software firm Acquia raises $30 million](https://www.reuters.com/article/acquia-funding/open-source-software-firm-acquia-raises-30-mln-idUSL5E8MSFMJ20121129)
+- Reuters: [Open Source software firm Acquia raises $30 million](https://www.reuters.com/article/acquia-funding/open-source-software-firm-acquia-raises-30-mln-idUSL5E8MSFMJ20121129)
 - Boston Business Journal: [Acquia raises $30 million, foresees IPO as soon as next year](https://www.bizjournals.com/boston/blog/startups/2012/11/acquia-drupal-ipo-goldman-sachs-funding.html?ana)
 - Xconomy: [Pre-IPO Acquia lands another $30 million, sees sales topping $56 million](https://www.xconomy.com/boston/2012/11/29/pre-ipo-acquia-lands-another-30m-sees-sales-topping-56m/)
 - Wall Street Journal: [Acquia funded for expansion of content-management technology](https://blogs.wsj.com/venturecapital/2012/11/29/the-daily-startup-acquia-funded-for-expansion-of-content-management-technology/)

@@ -7,7 +7,7 @@ author:
 date: '2018-06-03T04:23:51-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'There are only three cloud infrastructure companies that are really growing: Amazon, Google and Microsoft'
+summary: 'There are only three cloud infrastructure companies that are really growing: Amazon, Google and Microsoft.'
 tags:
   - 'Stock market'
   - Microsoft

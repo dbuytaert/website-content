@@ -7,7 +7,7 @@ author:
 date: '2013-09-09T13:33:02-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'Change is difficult but necessary for Drupal to stay relevant'
+summary: 'Change is difficult but necessary for Drupal to stay relevant.'
 tags:
   - Drupal
   - PHP
