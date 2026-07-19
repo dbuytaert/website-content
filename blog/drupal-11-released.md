@@ -7,10 +7,12 @@ author:
 date: '2024-08-02T10:06:22-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Drupal 11 is released with new features like Recipes and Single-Directory Components, contributed by 1,858 people across 590 organizations.'
 tags:
   - Drupal
 image: drupal/drupal-11-launch
 published: true
+featured: false
 id: 5661
 ---
 

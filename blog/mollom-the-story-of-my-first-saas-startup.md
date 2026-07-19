@@ -13,7 +13,6 @@ tags:
   - Mollom
   - Acquia
   - 'Startup lessons'
-  - 'Business model'
 image: mollom/team-december-2011
 published: true
 id: 4316

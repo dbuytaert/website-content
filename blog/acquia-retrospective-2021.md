@@ -12,7 +12,6 @@ tags:
   - Retrospective
   - Acquia
   - Drupal
-  - 'Business model'
 image: acquia/2021-logos
 published: true
 id: 5291

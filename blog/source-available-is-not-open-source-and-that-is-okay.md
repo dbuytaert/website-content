@@ -12,6 +12,7 @@ tags:
   - WordPress
   - Drupal
   - 'Business model'
+  - 'Open Source sustainability'
 discussions:
   - { platform: 'Hacker News', url: 'https://news.ycombinator.com/item?id=46213709' }
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_source-available-is-not-open-source-and-activity-7404289118391930880-ha-H' }

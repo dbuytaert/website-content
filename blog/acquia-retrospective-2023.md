@@ -15,7 +15,6 @@ tags:
   - Accessibility
   - Mautic
   - Retrospective
-  - 'Business model'
 image: acquia/open-dxp-2023
 published: true
 featured: false

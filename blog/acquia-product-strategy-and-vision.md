@@ -15,7 +15,6 @@ tags:
   - 'Acquia Cloud'
   - 'Drupal Gardens'
   - 'Drupal Commons'
-  - 'Business model'
 image: acquia/acquia-strategy-product-vision-2010-3
 published: true
 featured: true

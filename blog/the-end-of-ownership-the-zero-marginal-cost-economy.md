@@ -9,7 +9,6 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - 'Open Source'
-  - 'Business model'
   - Trends
 published: true
 id: 3221
@@ -27,7 +26,7 @@ Today, the focus is changing. Within service industries like [hospitality and tr
 
 In the software industry, the low marginal cost of producing Open Source Software threatens to our equivalent of longstanding business models: proprietary software companies. Free Open Source Software essentially can undermine the way proprietary software companies make money – by selling software licenses. By sharing the cost to develop software, organizations can increase their productivity, accelerate innovation and bring down their setup costs.
 
-The open source ideology extends even further beyond software. Last month, [Elon Musk open sourced the patents for Tesla](https://www.teslamotors.com/blog/all-our-patent-are-belong-you). His main reason? Pushing the automotive industry to create more electric cars. If Elon Musk is an indicator for industries across the board, it's further proof that capitalism is starting to become more collaborative rather than centered around individual ownership.
+The Open Source ideology extends even further beyond software. Last month, [Elon Musk open sourced the patents for Tesla](https://www.teslamotors.com/blog/all-our-patent-are-belong-you). His main reason? Pushing the automotive industry to create more electric cars. If Elon Musk is an indicator for industries across the board, it's further proof that capitalism is starting to become more collaborative rather than centered around individual ownership.
 
 Great businesses can be built by adding value on top of a low-marginal-cost community that is owned by many. For example, my company, [Acquia](https://www.acquia.com), creates value on top of the open-source [Drupal software](https://www.drupal.org) by providing support and software-as-a-service tools. Similarly, Uber adds value by providing consumer-friendly, on-demand services beyond just increasing the supply of available cars on the road. In both cases, the companies' products grow stronger as their communities grow, even as the acceleration of those same communities brings down marginal costs. The power of the community vastly improves previously inefficient base process (such as waterfall software development or taxi regulations) and creates a forcing function for business to generate profit based on products and services that appeal directly to users.
 

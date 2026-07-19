@@ -12,7 +12,6 @@ tags:
   - Acquia
   - 'Open Source'
   - Statistics
-  - 'Business model'
 published: true
 id: 1481
 ---

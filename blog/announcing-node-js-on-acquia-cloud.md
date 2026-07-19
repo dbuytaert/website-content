@@ -13,7 +13,6 @@ tags:
   - Acquia
   - 'Headless Drupal'
   - JavaScript
-  - 'Business model'
 image: drupal/node-js-on-acquia-cloud
 published: true
 id: 4026

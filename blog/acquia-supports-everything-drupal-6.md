@@ -10,7 +10,6 @@ type: blog
 tags:
   - Drupal
   - Acquia
-  - 'Business model'
 published: true
 id: 568
 ---

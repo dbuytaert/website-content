@@ -12,7 +12,6 @@ tags:
   - Acquia
   - 'Open Source'
   - 'Startup lessons'
-  - 'Business model'
 published: true
 id: 3726
 ---

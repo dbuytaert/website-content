@@ -7,6 +7,7 @@ author:
 date: '2019-07-16T13:05:46-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Our two-day wedding at an 11th-century villa in Tuscany, celebrated with family and friends.'
 tags:
   - Wedding
   - Family

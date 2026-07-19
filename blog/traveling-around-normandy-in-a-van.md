@@ -7,6 +7,7 @@ author:
 date: '2020-09-08T15:27:14-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'A Labor Day van trip through Normandy, taking in the coastal beauty and D-Day sites like Omaha Beach and the American cemetery in Colleville-sur-Mer.'
 tags:
   - Travel
   - Photography
@@ -15,6 +16,7 @@ tags:
   - France
 image: normandy-2020/normandy-1
 published: true
+featured: false
 id: 5066
 ---
 
@@ -25,10 +27,6 @@ id: 5066
 Over Labor Day weekend, Vanessa and I drove around [Normandy](https://en.wikipedia.org/wiki/Normandy). We admired the natural beauty and visited a few historical [D-Day](https://en.wikipedia.org/wiki/Normandy_landings) sites.
 
 In June 1944, more than 150,000 American, British and Canadian forces landed on five beaches along the heavily fortified French coast. As we traveled the coast and overlooked the beaches, we saw the remains of artificial harbors, floating piers and bunkers. All powerful reminders of the atrocities that took place.
-
-<div class="large">
-  ![Vanessa overlooking the cliffs in Normandy](http://default/files/cache/normandy-2020/normandy-1-640w.jpg)
-</div>
 
 We stopped at Omaha Beach and Gold Beach, and visited the American cemetery in Colleville-sur-Mer. The cemetery honors 9,000+ American soldiers that died in World War II. It was humbling to think about how many people lost their lives for our freedom.
 

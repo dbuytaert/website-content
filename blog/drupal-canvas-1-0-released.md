@@ -7,6 +7,7 @@ author:
 date: '2025-12-04T17:42:46-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Drupal Canvas 1.0, a new visual page builder, is now available and will ship with Drupal CMS 2.0 in under two months.'
 tags:
   - Drupal
   - 'Drupal Canvas'

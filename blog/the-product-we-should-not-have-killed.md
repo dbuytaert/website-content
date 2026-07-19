@@ -13,7 +13,6 @@ tags:
   - Acquia
   - 'Drupal Gardens'
   - 'Acquia Source'
-  - 'Business model'
 image: acquia/acquia-source-sprout
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_the-product-we-should-not-have-killed-activity-7396172052648595456-7MAN' }

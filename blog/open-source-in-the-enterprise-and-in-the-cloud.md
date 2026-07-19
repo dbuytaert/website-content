@@ -12,7 +12,6 @@ tags:
   - Drupal
   - Acquia
   - 'Open Source'
-  - 'Business model'
 published: true
 featured: false
 id: 1506

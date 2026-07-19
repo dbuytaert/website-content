@@ -10,7 +10,6 @@ type: blog
 tags:
   - Acquia
   - 'Startup lessons'
-  - 'Business model'
 published: true
 id: 3031
 ---

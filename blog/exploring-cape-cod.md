@@ -14,6 +14,7 @@ tags:
   - 'Cape Cod'
 image: cape-cod-2018/stage-harbor-lighthouse-1
 published: true
+featured: false
 id: 4456
 ---
 
@@ -22,8 +23,6 @@ id: 4456
 ![A white lighthouse with an attached house stands in an open grassy field under a clear blue sky.](http://default/files/cache/cape-cod-2018/stage-harbor-lighthouse-1-640w.jpg)
 
 This past weekend Vanessa and I took our much-anticipated annual weekend trip to [Cape Cod](https://en.wikipedia.org/wiki/Cape_Cod). It's always a highlight for us. We set out to explore a new part of the Cape as we've extensively explored the [Upper Cape](https://en.wikipedia.org/wiki/Cape_Cod#Sections).
-
-![A white lighthouse with an attached house stands in an open grassy field under a clear blue sky.](http://default/files/cache/cape-cod-2018/stage-harbor-lighthouse-1-640w.jpg)
 
 We found [The Platinum Pebble Inn](https://www.platinumpebble.com) in West Harwich by way of TripAdvisor, a small luxury bed and breakfast. The owners, Mike and Stefanie Hogan, were extremely gracious hosts. Not only are they running the Inn and serving up delicious breakfasts, they would ask what we wanted to do, and then created our adventure with helpful tips for the day.
 

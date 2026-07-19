@@ -7,6 +7,7 @@ author:
 date: '2026-01-28T16:05:11-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Drupal CMS 2.0 ships with Drupal Canvas, a visual page builder, plus site templates and AI features aimed at making Drupal easier to use.'
 tags:
   - Drupal
   - 'Drupal Starshot'

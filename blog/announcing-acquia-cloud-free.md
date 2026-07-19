@@ -11,7 +11,6 @@ tags:
   - Acquia
   - 'Acquia Cloud'
   - 'Acquia Search'
-  - 'Business model'
 published: true
 id: 3036
 ---

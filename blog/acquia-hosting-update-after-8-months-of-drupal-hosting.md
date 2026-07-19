@@ -12,7 +12,6 @@ tags:
   - Statistics
   - Acquia
   - 'Acquia Cloud'
-  - 'Business model'
 published: true
 id: 1622
 ---

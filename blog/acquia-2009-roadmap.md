@@ -11,7 +11,6 @@ tags:
   - Drupal
   - Acquia
   - 'Acquia Search'
-  - 'Business model'
 published: true
 id: 603
 ---

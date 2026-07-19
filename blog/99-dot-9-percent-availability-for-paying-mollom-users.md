@@ -9,7 +9,6 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Mollom
-  - 'Business model'
 published: true
 id: 534
 ---

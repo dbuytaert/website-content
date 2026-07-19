@@ -11,7 +11,6 @@ tags:
   - Drupal
   - Acquia
   - Retrospective
-  - 'Business model'
 published: true
 id: 3096
 ---

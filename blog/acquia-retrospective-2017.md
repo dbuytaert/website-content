@@ -12,7 +12,6 @@ tags:
   - Acquia
   - Drupal
   - Retrospective
-  - 'Business model'
 image: acquia/acquia-roadmap-2017
 published: true
 id: 4121

@@ -13,6 +13,7 @@ tags:
   - 'Business model'
   - Acquia
   - 'Artificial Intelligence'
+  - 'Open Source sustainability'
 image: blog/sailing-into-the-unknown
 discussions:
   - { platform: 'Hacker News', url: 'https://news.ycombinator.com/item?id=46567392' }

@@ -11,7 +11,6 @@ summary: 'The FUD around Open Source companies is officially over.'
 tags:
   - 'Open Source'
   - Acquisitions
-  - 'Business model'
 published: true
 id: 4541
 ---

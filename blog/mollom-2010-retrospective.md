@@ -10,7 +10,6 @@ type: blog
 tags:
   - Mollom
   - Retrospective
-  - 'Business model'
 published: true
 id: 2091
 ---

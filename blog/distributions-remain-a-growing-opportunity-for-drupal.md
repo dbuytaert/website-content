@@ -11,7 +11,6 @@ tags:
   - Drupal
   - Acquia
   - 'Drupal distributions'
-  - 'Business model'
 published: true
 id: 3881
 ---

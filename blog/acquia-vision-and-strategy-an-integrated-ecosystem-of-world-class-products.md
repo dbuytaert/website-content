@@ -10,7 +10,6 @@ type: blog
 summary: "How Acquia's Digital Experience Platform meets future marketing trends with a solution that is both integrated and integratable."
 tags:
   - Acquia
-  - 'Business model'
 image: acquia/product-portfolio-2023
 published: true
 featured: true

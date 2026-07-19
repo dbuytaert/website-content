@@ -11,7 +11,6 @@ summary: "The evolution of Acquia's product strategy from content management to 
 tags:
   - Acquia
   - Drupal
-  - 'Business model'
 image: acquia/acquia-roadmap-2017
 published: true
 featured: true

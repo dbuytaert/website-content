@@ -10,7 +10,6 @@ type: blog
 tags:
   - 'Acquia Cloud'
   - Acquia
-  - 'Business model'
 published: true
 id: 3006
 ---
