@@ -10,7 +10,6 @@ type: blog
 tags:
   - Drupal
   - Barcamp
-  - GovCamp
   - OSCON
   - DrupalCon
   - Invitations

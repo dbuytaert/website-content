@@ -11,7 +11,6 @@ summary: 'Passive income techniques like rental properties, dividend investing, 
 tags:
   - Drupal
   - 'Open Source'
-  - Finance
   - 'Open Source sustainability'
 published: true
 featured: false

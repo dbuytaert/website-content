@@ -10,7 +10,6 @@ type: blog
 summary: 'I really only want two things for my website!'
 tags:
   - Drupal
-  - Gardening
   - Mollom
   - 'My site'
 published: true

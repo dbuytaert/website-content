@@ -7,17 +7,16 @@ author:
 date: '2009-01-15T04:33:03-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Drupal 1.0.0 was released eight years ago today, growing from a graduate student's hobby into a global project."
 tags:
   - Drupal
   - Birthday
-image: drupal/happy-eighth-birthday
 published: true
+featured: false
 id: 575
 ---
 
 # Happy eighth birthday Drupal
-
-![Banner with "Happy 8th Birthday", colorful balloons, date "1-15-2009", and Drupal logo on a blue background.](http://default/files/cache/drupal/happy-eighth-birthday-640w.jpg)
 
 Today, eight years ago, Drupal 1.0.0 was released! The following snippet is taken directly from the original announcement:
 

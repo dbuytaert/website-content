@@ -7,11 +7,13 @@ author:
 date: '2006-01-15T04:00:00-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Celebrating Drupal's 5th birthday with a homemade cake."
 tags:
   - Drupal
   - Cooking
   - Birthday
 published: true
+featured: false
 id: 14
 ---
 

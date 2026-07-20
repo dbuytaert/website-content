@@ -7,11 +7,13 @@ author:
 date: '2007-01-14T15:50:10-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Six years after Drupal 1.0.0 was released, the anniversary is celebrated with a batch of homemade cookies.'
 tags:
   - Drupal
   - Cooking
   - Birthday
 published: true
+featured: false
 id: 204
 ---
 

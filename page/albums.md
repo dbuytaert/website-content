@@ -16,6 +16,7 @@ id: 3
 <section id="2026">
   <h2>2026</h2>
 
+- [Hiking the Presidential Traverse](/album/presidential-traverse-2026/)
 - [East Coast camping trip](/album/east-coast-2026/)
 - [Bath, UK](/album/bath-2026/)
 - [Skiing in Chamonix, French Alps](/album/chamonix-2026/)
@@ -54,7 +55,7 @@ id: 3
 <section id="2023">
   <h2>2023</h2>
 
-- [Hiking in New Hampshire](/album/pemi-loop-2023/)
+- [Hiking the Pemi Loop](/album/pemi-loop-2023/)
 - [Turkey](/album/turkey-2023/)
 - [Wadden Islands, The Netherlands](/album/wadden-islands-2023/)
 - [DrupalCon Pittsburgh](/album/drupalcon-pittsburgh-2023/)

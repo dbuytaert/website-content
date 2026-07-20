@@ -8,7 +8,6 @@ date: '2024-06-26T05:47:19-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: note
 tags:
-  - Camping
   - Coffee
 published: true
 id: 5636

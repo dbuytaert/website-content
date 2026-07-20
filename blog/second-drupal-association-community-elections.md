@@ -11,12 +11,13 @@ tags:
   - Drupal
   - 'Drupal Association'
 published: true
+featured: false
 id: 2791
 ---
 
 # Second Drupal Association community elections
 
-Earlier this year, I posted about [our first Drupal Association community elections](http://https://dri.es/first-drupal-association-community-elections). We introduced the *community elections* with the goal to make sure that the Drupal community is always well-represented on the [Drupal Association's Board of Directors](https://www.drupal.org/associationabout/governance).
+Earlier this year, I posted about [our first Drupal Association community elections](https://dri.es/first-drupal-association-community-elections). We introduced the *community elections* with the goal to make sure that the Drupal community is always well-represented on the [Drupal Association's Board of Directors](https://www.drupal.org/associationabout/governance).
 
 Well, the time has come to run our elections again. Nominations opened on 1 September and were open for two weeks. 18 people from the Drupal community put themselves forward as candidates. Please have a look at the [election candidates](https://www.drupal.org/associationnominations). Voting will be open from September 24 to October 7 but now is the time to engage with the candidates.
 

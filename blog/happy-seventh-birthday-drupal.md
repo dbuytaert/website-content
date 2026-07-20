@@ -7,10 +7,12 @@ author:
 date: '2008-01-15T12:41:50-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Drupal 1.0.0 was released seven years ago today, and thanks to hundreds of contributors it keeps growing.'
 tags:
   - Drupal
   - Birthday
 published: true
+featured: false
 id: 390
 ---
 
