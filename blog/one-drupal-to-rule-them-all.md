@@ -7,6 +7,7 @@ author:
 date: '2010-12-10T10:05:14-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Organizations juggling dozens of content management systems are standardizing on Drupal as a single platform to run many sites cost-effectively.'
 tags:
   - Drupal
   - 'Drupal distributions'
@@ -31,6 +32,6 @@ CIOs are now waking up; they're realizing that the cost of running twenty differ
 
 The New York Stock Exchange is launching 30 sites on Drupal. Turner Broadcasting is migrating 80 sites to Drupal. A large consumer pharmaceuticals company might end up with over 3000 Drupal sites. Why? Because Drupal gives their IT team an agile platform to deliver new sites quickly with the breadth of capabilities to meet their needs, but broad enough in scope to serve as a web platform too.
 
-More and more, I see large organizations standardize on Drupal. Drupal's low-cost entry point and open, modular architecture provides the perfect foundation. Drupal is one of the few solutions that can scale from very small to extremely large, and has the depth and breadth of functionality to support thousands of different use cases. Drupal sites can span a wide range of functionality; from blogs, to marketing microsites, social business community sites, corporate intranets, e-commerce sites and more. There are [incredible success stories](https://dri.es/tag/drupal-sites) for each of these use cases already. Plus, we've now reached a point where many open source content management systems outperform proprietary solutions on technical superiority and pace of innovation. Drupal is in a very unique position.
+More and more, I see large organizations standardize on Drupal. Drupal's low-cost entry point and open, modular architecture provides the perfect foundation. Drupal is one of the few solutions that can scale from very small to extremely large, and has the depth and breadth of functionality to support thousands of different use cases. Drupal sites can span a wide range of functionality; from blogs, to marketing microsites, social business community sites, corporate intranets, e-commerce sites and more. There are [incredible success stories](https://dri.es/tag/drupal-sites) for each of these use cases already. Plus, we've now reached a point where many Open Source content management systems outperform proprietary solutions on technical superiority and pace of innovation. Drupal is in a very unique position.
 
 This is an immensely powerful trend. If we navigate this well, Drupal could become truly ubiquitous and go from powering 1% of the web, to quickly powering 5% of the web and even further. It requires us to keep making Drupal a better platform, to crack the code on how to [make Drupal distributions truly compete](https://dri.es/on-business-models-for-drupal-distributions) with commercial point solutions, and to build out an even larger commercial ecosystem and community. Needless to say, I'm super excited about Drupal's future and the opportunity ahead of us.

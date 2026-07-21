@@ -7,10 +7,12 @@ author:
 date: '2013-07-30T10:13:23-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Acquia Cloud Site Factory lets organizations build, deploy, and manage hundreds or thousands of Drupal sites at scale, in SaaS, PaaS, and SaaS+ tiers.'
 tags:
   - 'Acquia Cloud'
   - Acquia
 published: true
+featured: false
 id: 3006
 ---
 

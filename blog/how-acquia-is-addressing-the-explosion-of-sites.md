@@ -7,6 +7,7 @@ author:
 date: '2015-09-15T05:50:27-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'How Acquia Cloud Site Factory helps enterprises standardize on Drupal to manage hundreds of sites through shared infrastructure, code, content, and personalization.'
 tags:
   - Drupal
   - Acquia
