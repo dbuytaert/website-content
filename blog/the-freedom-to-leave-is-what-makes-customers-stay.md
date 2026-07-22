@@ -7,6 +7,7 @@ author:
 date: '2025-12-03T08:57:50-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Acquia Source lets customers export a complete, working Drupal site and leave anytime. That freedom is what earns their trust to stay.'
 tags:
   - Drupal
   - Acquia

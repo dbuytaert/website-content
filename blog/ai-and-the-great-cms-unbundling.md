@@ -7,7 +7,7 @@ author:
 date: '2026-06-16T14:42:48-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
-summary: 'AI is not killing the CMS. It is unbundling creation from control. That may replace the CMS for simple publishing, but it makes the CMS more important wherever content is shared, reused, approved, or trusted across systems.'
+summary: 'AI is not killing the CMS. It is unbundling creation from control. That may replace the CMS for simple publishing, but makes it more important wherever content is shared, reused, approved, or trusted.'
 tags:
   - Drupal
   - 'Artificial Intelligence'

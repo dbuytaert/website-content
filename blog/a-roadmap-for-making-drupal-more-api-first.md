@@ -7,6 +7,7 @@ author:
 date: '2016-07-07T10:06:50-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "A twelve-month timeline for Drupal's API-first initiative, covering REST improvements, JSON API, and later GraphQL."
 tags:
   - Drupal
   - 'Web services'
@@ -24,15 +25,15 @@ Here is a bird's-eye view of the plan for the next twelve months:
 <table>
   <tbody>
   <tr>
-   <th>8.2 (Q4 2016)</th>
-   <th>8.3 (Q2 2017)</th>
-   <th>Beyond 8.3 (2017+)</th>
- </tr>
+  <th>8.2 (Q4 2016)</th>
+  <th>8.3 (Q2 2017)</th>
+  <th>Beyond 8.3 (2017+)</th>
+</tr>
   <tr>
-   <td>New REST API capabilities<br />Waterwheel initial release</td>
-   <td>New REST API capabilities<br />JSON API module</td>
-   <td>GraphQL module?<br />Entity graph iterator?</td>
- </tr>
+  <td>New REST API capabilities<br />Waterwheel initial release</td>
+  <td>New REST API capabilities<br />JSON API module</td>
+  <td>GraphQL module?<br />Entity graph iterator?</td>
+</tr>
 </tbody>
 </table>
 

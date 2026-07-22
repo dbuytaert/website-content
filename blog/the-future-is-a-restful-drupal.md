@@ -7,6 +7,7 @@ author:
 date: '2012-02-16T14:34:38-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "A Drupal 8 WSCCI sprint narrowed the initiative's scope to web services and agreed to adopt Symfony2 components to make Drupal a first-class REST citizen."
 tags:
   - Drupal
   - 'Web services'
@@ -38,11 +39,11 @@ In attendance were:
 
 ## Scope
 
-The [WSCCI initiative](https://www.garfieldtech.com/blog/web-services-initiative), as envisioned by Larry Garfield, was originally set to address Drupal's web services and flexible page layout capabilities. We discovered that both would require significant changes to Drupal Core, and it was difficult to build consensus online, so we decided to get together for three days and to flesh out what we actually wanted to accomplish, and how.
+The [WSCCI initiative](https://www.garfieldtech.com/blog/web-services-initiative), as envisioned by Larry Garfield, was originally set to address Drupal's web services and flexible page layout capabilities. We discovered that both would require significant changes to Drupal Core, and it was difficult to build consensus online, so we decided to get together for three days to flesh out what we actually wanted to accomplish and how.
 
-At the sprint, we first attempted to articulate all of the problems that WSCCI was trying to solve, which included: multiple page layouts, better UI/UX to manage blocks, partial page rendering (ESI, AHAH), contextual blocks, different response types per delivery callback/URL, plugin system / swappable subsystems, lazy loading bootstrap (convert subsystems to PSR-0 classes), infrastructure for building web services, dependency injection, and so on.
+At the sprint, we first attempted to articulate all of the problems that WSCCI was trying to solve. These included multiple page layouts, better UI/UX to manage blocks, partial page rendering (ESI, AHAH), contextual blocks, different response types per delivery callback/URL, plugin system / swappable subsystems, lazy-loading bootstrap (convert subsystems to PSR-0 classes), infrastructure for building web services, dependency injection, and so on.
 
-We then did a round of voting where we could each choose three of those things in order to try to determine which of those were the most important.
+We then did a round of voting in which we could each choose three of those things in order to try to determine which were the most important.
 
 ![A whiteboard with handwritten Drupal development notes and diagrams, organized with pink sticky notes for categorization.](http://default/files/cache/drupal/wscci-sprint-post-it-notes-february-2012-640w.jpg)
 
@@ -53,31 +54,31 @@ Two things became instantly clear during this exercise:
 
 ## Scope resolution
 
-After a good chunk of discussions, everyone agreed to scale back the scope of the initiative to just the "web services" piece, and spin off the layout/blocks/related UI parts to a separate effort.
+After a good deal of discussion, everyone agreed to scale back the scope of the initiative to just the "web services" piece and spin off the layout/blocks/related UI parts to a separate effort.
 
-Furthermore, some efforts, such as PSR-0 and Unified Plugin System, were only semi-related to the WSCCI initiative in the first place, and just happened to become relevant for it. Work on those efforts will continue as part of the general [Framework community efforts](https://www.drupal.org/node/1224666).
+Furthermore, some efforts, such as PSR-0 and the Unified Plugin System, were only semi-related to the WSCCI initiative in the first place and just happened to become relevant to it. Work on those efforts will continue as part of the general [Framework community efforts](https://www.drupal.org/node/1224666).
 
 ## Architecture
 
-Fabien was able to offer a tremendous number of insights as to how various Symfony2 components could help provide underlying structure for Drupal Core to support web services out of the box. Essentially, most of what the WSCCI team had been trying to work toward, in the abstract, was already implemented within Symfony2. While some implementation details were different from what we had in mind, the end result is almost exactly what we have been trying to accomplish. We therefore agreed that the best way forward was to leverage several Symfony2 components within Drupal as a way to speed progress toward that end.
+Fabien was able to offer a tremendous number of insights into how various Symfony2 components could help provide an underlying structure for Drupal Core to support web services out of the box. Essentially, most of what the WSCCI team had been trying to work toward, in the abstract, was already implemented within Symfony2. While some implementation details were different from what we had in mind, the end result is almost exactly what we have been trying to accomplish. We therefore agreed that the best way forward was to leverage several Symfony2 components within Drupal as a way to speed progress toward that end.
 
 ## Benefits
 
 Some of the concrete benefits that would come out of these changes are:
 
-- An underlying framework that is a first-class REST citizen. That means developing web services becomes easier and more efficient, because the plumbing is already in place. An HTML page is a particular case of a REST service.
-- Because the core system will be fully REST-ified, we'll be able to improve existing APIs and expose Drupal content in a natively RESTful way. For example, our current AJAX system doesn't comply with REST standards, but with these changes, can be cleaned up to do so.
+- An underlying framework that is a first-class REST citizen. That means that developing web services becomes easier and more efficient because the plumbing is already in place. An HTML page is a particular case of a REST service.
+- Because the core system will be fully REST-ified, we'll be able to improve existing APIs and expose Drupal content in a natively RESTful way. For example, our current AJAX system doesn't comply with REST standards, but these changes will allow us to clean it up.
 - That, in turn, makes Drupal-to-Drupal communication, content staging, content sharing, and a host of other related tasks easier.
-- The use of widely used libraries and techniques makes Drupal more approachable to new developers.
+- The use of widely adopted libraries and techniques makes Drupal more approachable to new developers.
 
 ## Why does this matter?
 
 As it has evolved into an increasingly powerful system, Drupal has gotten increasingly complex and is not as easy to start developing with as it once was. Many developers are nervous about continuing that trend. Managing complexity is a challenge faced by many software projects, and one approach is to use standardized patterns and components.
 
-Due to its long support for PHP 4, as well as some unique needs, Drupal does not take full advantage of standardized patterns and components. The complexity of the custom code that's used and the non-standard architecture combine to create a barrier to entry for developers new to Drupal (both experienced and novice developers alike).
+Due to its long support for PHP 4, as well as some unique needs, Drupal does not take full advantage of standardized patterns and components. The complexity of the custom code that's used and the non-standard architecture combine to create a barrier to entry for developers new to Drupal, experienced and novice developers alike.
 
 Meanwhile, the web is constantly changing around us. Web services and mobile are more important than ever, and with that comes the need to have more flexible page and layout capabilities. Now feels like the right time to modernize Drupal's capabilities to bring it to the forefront of modern PHP systems and web systems in general.
 
-While changing Drupal's core plumbing to address these needs, it's also a good opportunity to do so using more widely understood and modern techniques and libraries. Leveraging the work of a fellow Open Source community lets us get a jump on these changes to build a more powerful, more flexible, and more easily learnable system in less time than it would take to go it on our own.
+As we change Drupal's core plumbing to address these needs, we also have an opportunity to use more widely understood and modern techniques and libraries. Leveraging the work of a fellow Open Source community lets us get a jump on these changes to build a more powerful, more flexible, and more easily learnable system in less time than it would take to go it on our own.
 
-While these changes may seem large, and some of them are, we believe that they will achieve the right balance between empowering Drupal's design and architecture, and moving toward more modern, standard, well-tested code and techniques to empower a new generation of developers. I hope you are as excited as we are!
+While these changes may seem large, and some of them are, we believe that they will achieve the right balance between strengthening Drupal's design and architecture and moving toward more modern, standard, well-tested code and techniques that empower a new generation of developers. I hope you are as excited as we are!

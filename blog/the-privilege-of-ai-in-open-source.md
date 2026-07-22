@@ -42,7 +42,7 @@ We learned once that "anyone can contribute" is not the same as "everyone has th
 
 Powerful technologies rarely share their benefits evenly at first. Electricity did not create equal opportunity the moment it was invented. It only changed lives broadly when people built the infrastructure to make it widely available. The internet followed a similar path: it started with privileged access, then became useful to millions more people as access became cheaper and easier.
 
-AI is no different. If we want AI to reduce privilege in Open Source instead of reinforcing it, Open Source projects can do their part by helping close two gaps.
+AI is no different. If we want AI to reduce privilege in Open Source instead of reinforcing it, Open Source projects can do their part by helping to close two gaps.
 
 The first is _cost_. Contributors should be able to do meaningful work without paying for the most expensive AI tools. As lower-cost models, including open-weight models, improve, Open Source projects should make them practical for contribution work.
 

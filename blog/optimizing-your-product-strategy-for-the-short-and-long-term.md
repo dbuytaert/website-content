@@ -7,18 +7,17 @@ author:
 date: '2018-12-16T16:49:13-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "How Acquia used the Innovation S-curve to find product-market fit while extending Drupal's growth and pushing out its stagnation point."
 tags:
   - Drupal
   - Acquia
   - 'Startup lessons'
-image: blog/product-lifecycle-s-curve
 published: true
+featured: false
 id: 4681
 ---
 
 # Optimizing your product strategy for the short- and long-term
-
-![A graph showing the product lifecycle S-curve with phases for take-off, growth, and stagnation over time.](http://default/files/cache/blog/product-lifecycle-s-curve-640w.jpg)
 
 Most products cycle through the infamous [Innovation S-curve](https://en.wikipedia.org/wiki/Technology_life_cycle), which maps a product's value and growth over time.
 

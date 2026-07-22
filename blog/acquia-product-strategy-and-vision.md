@@ -15,15 +15,12 @@ tags:
   - 'Acquia Cloud'
   - 'Drupal Gardens'
   - 'Drupal Commons'
-image: acquia/acquia-strategy-product-vision-2010-3
 published: true
 featured: true
 id: 2131
 ---
 
 # Acquia product strategy and vision
-
-![](http://default/files/images/acquia/acquia-strategy-product-vision-2010-3.jpg)
 
 In my [Acquia 2010 retrospective](https://dri.es/acquia-retrospective-2010), I promised to write a bit more about Acquia's product strategy. This blog post provides a high level view of the vision that we've been working towards for the last 3 years, and explains how [Acquia](https://www.acquia.com) can help simplify your web strategy.
 
