@@ -7,6 +7,7 @@ author:
 date: '2006-05-03T11:40:47-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Drupal's Content Construction Kit aims to let users build custom content types through the admin interface without writing code."
 tags:
   - Drupal
 published: true

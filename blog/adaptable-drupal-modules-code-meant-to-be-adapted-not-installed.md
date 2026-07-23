@@ -7,6 +7,7 @@ author:
 date: '2025-12-18T04:31:31-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'A proposal for "adaptable modules" on Drupal.org: tested, site-specific code shared as a starting point for AI to reshape, avoiding the "generalization tax" of full contribution.'
 tags:
   - Drupal
   - 'Artificial Intelligence'

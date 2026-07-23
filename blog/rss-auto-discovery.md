@@ -7,9 +7,11 @@ author:
 date: '2018-03-14T21:21:11-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "RSS auto-discovery lets browsers and readers find a site's feed via a link tag in the page head."
 tags:
   - 'My site'
 published: true
+featured: false
 id: 4256
 ---
 

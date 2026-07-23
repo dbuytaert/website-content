@@ -7,10 +7,12 @@ author:
 date: '2010-12-24T05:09:14-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Marc Seeger's master's thesis details a scalable web crawler built to catalog Drupal sites, examining storage systems, EC2 setups, and large-scale crawling across 100 million domains."
 tags:
   - Drupal
   - Acquia
 published: true
+featured: false
 id: 2066
 ---
 

@@ -7,11 +7,13 @@ author:
 date: '2025-04-03T12:02:23-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Testing Claude Code on a personal Drupal site: in 30 minutes it built a Drush command, refactored constructors, and converted annotations to PHP attributes.'
 tags:
   - Drupal
   - 'Artificial Intelligence'
 image: blog/dries-using-claude-code
 published: true
+featured: false
 id: 5791
 ---
 

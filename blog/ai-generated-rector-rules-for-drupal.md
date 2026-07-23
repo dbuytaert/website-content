@@ -7,6 +7,7 @@ author:
 date: '2026-05-06T14:41:48-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Extending Drupal Digests to analyze Core commits and automatically generate Rector rules, with 175+ produced so far.'
 tags:
   - Drupal
   - 'Artificial Intelligence'
