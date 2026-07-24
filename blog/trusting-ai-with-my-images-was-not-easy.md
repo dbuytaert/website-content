@@ -27,7 +27,7 @@ But this final step was different. It wasn't about technology. It was about trus
 
 ## My AI tool in action
 
-In my last blog post, I shared [scripts](https://github.com/dbuytaert/image-caption) to [automate `alt`-text generation for a single image](https://dri.es/automating-alt-text-generation-ai). The final step? Running my scripts on the 9,000 images missing `alt`-text. This covers over 20 years of images in [photo albums](https://dri.es/albums) and [blog posts](https://dri.es/blog).
+In my last blog post, I shared [scripts](https://github.com/dbuytaert/image-caption) to [automate `alt`-text generation for a single image](https://dri.es/automating-alt-text-generation-ai). The final step? Running my scripts on the 9,000 images missing `alt`-text. This covers over 20 years of images in [photo albums](https://dri.es/photos/albums) and [blog posts](https://dri.es/blog).
 
 Here is my tool in action:
 
@@ -41,7 +41,7 @@ ChatGPT-4o processed all 9,000 images at half a cent each, for less than $50 in 
 
 Trusting a script to label 9,000 images made me nervous. What if mistakes in auto-generated descriptions made my website less accessible? What if future AI models trained on any mistakes?
 
-I started cautiously, stopping after [each album](https://dri.es/albums) to check every `alt`-text. After reviewing 250 images, I noticed something: I wasn't fixing errors, I was just tweaking words.
+I started cautiously, stopping after [each album](https://dri.es/photos/albums) to check every `alt`-text. After reviewing 250 images, I noticed something: I wasn't fixing errors, I was just tweaking words.
 
 Then came the real surprise. I tested my script on albums I had manually described five years ago. The result was humbling. AI wrote better `alt`-text: spotting details I missed, describing scenes more clearly, and capturing nuances I overlooked. Turns out, past me wasn't so great at writing `alt`-text.
 

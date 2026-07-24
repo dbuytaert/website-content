@@ -28,7 +28,7 @@ The term "off-canvas" refers to the ability for a dialog to slide in from the si
 
 This new Drupal 8.5 feature allows us to improve the content authoring and site building experience by [turning Drupal outside-in](https://dri.es/tag/outside-in). We can use the off-canvas dialog to enable the content creator or site builder to seamlessly edit content or configuration in-place, and see any changes take effect immediately. There is no need to navigate to the administrative backend to make edits. As you'll see in this tutorial, it's easy to use the off-canvas dialog in your own Drupal modules.
 
-I use a custom album module on <https://dri.es> for managing [my photo albums](https://dri.es/albums) and for embedding images in my posts. With Drupal 8.5, I can now take advantage of the new off-canvas dialog to edit the title, [alt-attribute](https://en.wikipedia.org/wiki/Alt_attribute) and captions of my photos. As you can see in the animated GIF above, every photo gets an "Edit"-link. Clicking the "Edit"-link opens up the off-canvas dialog. This allows me to edit a photo in context, without having to go to an another page to make changes.
+I use a custom album module on <https://dri.es> for managing [my photo albums](https://dri.es/photos/albums) and for embedding images in my posts. With Drupal 8.5, I can now take advantage of the new off-canvas dialog to edit the title, [alt-attribute](https://en.wikipedia.org/wiki/Alt_attribute) and captions of my photos. As you can see in the animated GIF above, every photo gets an "Edit"-link. Clicking the "Edit"-link opens up the off-canvas dialog. This allows me to edit a photo in context, without having to go to an another page to make changes.
 
 So how did I do that?
 

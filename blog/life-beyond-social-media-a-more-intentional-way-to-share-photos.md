@@ -40,7 +40,7 @@ Under the hood, my photo stream runs on [Drupal](https://www.drupal.org), built 
 - `/photos/$year/$month`: shows all photos for a given month, with the usual features: lazy loading, responsive images, [Schema.org](https://schema.org/) markup, and so on.  
 - `/photos/$year/$month?email=true`: shows the same photos, but stripped down and formatted specifically for email clients.  
 
-Now my monthly workflow looks like this: visit `/photos/2025/9?email=true`, copy the source HTML, paste it into [Buttondown](https://buttondown.com/), and hit 'Send'. That twenty-minute task became a one-minute task.
+Now my monthly workflow looks like this: visit `/photos/archive/2025/09?email=true`, copy the source HTML, paste it into [Buttondown](https://buttondown.com/), and hit 'Send'. That twenty-minute task became a one-minute task.
 
 I spent two hours coding this to save nineteen minutes a month. In other words, it takes about six months before the time saved equals the time invested. The math checks out: 120 / 19 ≈ 6. My developer brain called it a win. My business brain called it a write-off.
 
