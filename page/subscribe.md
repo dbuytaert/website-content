@@ -14,8 +14,15 @@ id: 3366
 
 # Subscribe
 
+**Blog posts**
+
 - [Blog posts by email](https://buttondown.com/dries-buytaert-blog)
-  - [Blog RSS feed](https://dri.es/rss.xml)
-  - [Photos by email](https://buttondown.com/dries-buytaert-photos) (monthly)
-  - [Photos RSS feed](https://dri.es/photos.xml)
-  - [LinkedIn](https://www.linkedin.com/in/buytaert/)
+- [Blog RSS feed](https://dri.es/rss.xml)
+
+**Photos**
+
+- [Photos by email](https://buttondown.com/dries-buytaert-photos) (monthly)
+- [Photos RSS feed](https://dri.es/photos.xml)
+
+**Social media**
+- [LinkedIn](https://www.linkedin.com/in/buytaert/)
