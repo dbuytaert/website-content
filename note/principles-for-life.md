@@ -7,6 +7,7 @@ author:
 date: '2022-01-04T05:48:57-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: note
+summary: 'Life principles from a father to his sons, covering health, money, work, relationships, and facing hard experiences.'
 tags:
   - Axl
   - Stan

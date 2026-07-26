@@ -7,9 +7,11 @@ author:
 date: '2018-08-17T16:09:35-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Acquia made the Inc 5000 list of fast-growing private U.S. companies for the seventh consecutive year, since its 2012 debut.'
 tags:
   - Acquia
 published: true
+featured: false
 id: 4486
 ---
 

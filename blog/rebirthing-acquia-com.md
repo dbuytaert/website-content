@@ -7,9 +7,11 @@ author:
 date: '2011-07-19T04:14:29-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Acquia's website gets its most profound redesign yet, with a new logo, navigation, and clearer explanation of its products and services."
 tags:
   - Acquia
 published: true
+featured: false
 id: 2441
 ---
 

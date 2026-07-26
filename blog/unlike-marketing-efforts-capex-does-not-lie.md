@@ -12,6 +12,7 @@ tags:
   - 'Stock market'
   - Microsoft
   - Amazon
+  - Google
 image: blog/capex-cloud-vendors-absolute-growth-2018
 published: true
 id: 4401

@@ -7,10 +7,12 @@ author:
 date: '2011-05-03T07:04:21-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Photos from Acquia's Caribbean trip to Puerto Rico, celebrating a strong year with early employees and their guests."
 tags:
   - Photography
   - Acquia
 published: true
+featured: false
 id: 2326
 ---
 

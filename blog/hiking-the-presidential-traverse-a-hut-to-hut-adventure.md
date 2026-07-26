@@ -108,7 +108,7 @@ At sunset, the mountains faded layer upon layer, from blue to gray, until the la
 
 <div class="large">
 ![A person uses their phone to photograph a mountain sunset, with a hut visible to the right.](http://default/files/cache/presidential-traverse-2026/sunset-at-lakes-of-the-clouds-hut-640w.jpg)
-*At Lakes of the Clouds Hut, sunset brought everyone outside, where they all took the same photo.*
+*At sunset, everyone at Lakes of the Clouds Hut stepped outside and took the same photo.*
 </div>
 
 The bunkroom brought me quickly back to earth. The moment I opened the door, a wall of sweaty feet and damp shoes met me, thick enough to taste. The bunks were narrow and packed close together. Sometime in the night Chris gave up entirely and moved out of the room to sleep somewhere he could breathe.
@@ -141,7 +141,7 @@ Somewhere along the ridge I developed a couple of blisters, which I patched befo
 ![Wooden trail sign reading "Crawford Path \(AT\)" atop a mountain, with an alpine lake and hazy ridgelines in the background.](http://default/files/cache/presidential-traverse-2026/crawford-path-640w.jpg)
 *Leaving Lakes of the Clouds, we rejoined the Crawford Path, which carries the Appalachian Trail toward Mount Washington.*
 ![A pair of worn brown leather hiking boots rests on a grassy hillside, with mountain ranges in the distance.](http://default/files/cache/presidential-traverse-2026/hiking-boots-640w.jpg)
-*I stopped to take off my boots and treat my blisters before they got worse.*
+*I had to stop to treat my blisters before they got worse.*
 </div>
 
 One of my favorite parts of the hike was meeting AT thru-hikers. Much of the ridge follows the Appalachian Trail, and many of them were already months into their journey from Georgia to Maine. They were friendly and much faster than we were. You could often recognize them by their strong legs, and sometimes by their strong smell, though after three days without a shower, I was hardly one to talk.

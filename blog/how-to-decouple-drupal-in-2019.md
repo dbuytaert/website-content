@@ -12,15 +12,12 @@ tags:
   - Drupal
   - JavaScript
   - 'Headless Drupal'
-image: drupal/how-to-decouple-drupal-in-2019-flowchart-full
 published: true
 featured: true
 id: 4721
 ---
 
 # How to decouple Drupal in 2019
-
-![A flowchart of how to decouple Drupal in 2019](http://default/files/cache/drupal/how-to-decouple-drupal-in-2019-flowchart-full-640w.png)
 
 The pace of innovation in content management has been accelerating – driven by both the number of channels that content management systems need to support (web, mobile, social, chat) as well as the need to support JavaScript frameworks in the traditional web channel. As a result, we've seen headless or decoupled architectures emerge.
 
@@ -87,7 +84,7 @@ I predict that static site generators will gain momentum in the coming year due 
 
 ## Conclusion
 
-Drupal continues to be an ideal choice for decoupled CMS architectures, and it is only getting better. The API-first initiative is making good progress on preparing the [JSON:API module](https://www.drupal.org/project/jsonapi) for inclusion in Drupal core, and the Admin UI and JavaScript Modernization initiative is working to dogfood Drupal's web services with [a reinvented administrative interface](https://dri.es/working-toward-a-javascript-driven-drupal-administration-interface). Drupal's support for GraphQL continues to improve, and now there is even [a book on the subject of decoupled Drupal](https://dri.es/a-book-for-decoupled-drupal-practitioners). It's clear that developers today have a wide range of ways to work with the rich features Drupal has to offer for decoupled architectures.
+Drupal continues to be an ideal choice for decoupled CMS architectures, and it is only getting better. The API-first initiative is making good progress on preparing the [JSON:API module](https://www.drupal.org/project/jsonapi) for inclusion in Drupal Core, and the Admin UI and JavaScript Modernization initiative is working to dogfood Drupal's web services with [a reinvented administrative interface](https://dri.es/working-toward-a-javascript-driven-drupal-administration-interface). Drupal's support for GraphQL continues to improve, and now there is even [a book on the subject of decoupled Drupal](https://dri.es/a-book-for-decoupled-drupal-practitioners). It's clear that developers today have a wide range of ways to work with the rich features Drupal has to offer for decoupled architectures.
 
 With the introduction of fully decoupled static sites as an another architectural paradigm that developers can select, there is an even wider variety of architectural possibilities than before. It means that the spectrum of decoupled Drupal approaches I [defined last year](https://dri.es/how-to-decouple-drupal-in-2018) has become even more extensive. This flexibility continues to define Drupal as an excellent CMS for both traditional and decoupled approaches, with features that go well beyond Drupal's competitors, including WordPress, Sitecore and Adobe. Regardless of the makeup of your team or the needs of your organization, Drupal has a solution for you.
 

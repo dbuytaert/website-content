@@ -7,9 +7,11 @@ author:
 date: '2024-08-26T10:29:51-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: note
+summary: 'Instructions for using Homebrew to export and review installed formulae and casks, then reinstall them on a new Mac.'
 tags:
-  - 'Software development'
+  - Automation
 published: true
+featured: false
 id: 5676
 ---
 

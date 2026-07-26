@@ -7,6 +7,7 @@ author:
 date: '2026-03-16T11:37:45-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'AI changes how code is written, but not your responsibility to understand and review it before submitting a merge request.'
 tags:
   - Drupal
 image: blog/never-submit-code-you-dont-understand

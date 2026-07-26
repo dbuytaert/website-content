@@ -7,27 +7,29 @@ author:
 date: '2016-03-30T10:58:24-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Concrete examples of "outside-in" design for Drupal, editing menus and blocks directly on the page instead of in a separate backend.'
 tags:
   - Drupal
   - Usability
   - Outside-in
 published: true
+featured: false
 id: 3626
 ---
 
 # Examples of how to make Drupal "outside-in"
 
-The authoring experience improvements we made in Drupal 8 appear to be well-received, but that doesn't mean we are done. With semantic versioning in Drupal 8, we can now make more UX changes in follow-up releases of Drupal 8. So now is a good time to start moving Drupal's user experience forward.
+The authoring experience improvements we made in Drupal 8 appear to be well received, but that doesn't mean we are done. With semantic versioning in Drupal 8, we can now make more UX changes in follow-up releases of Drupal 8. So now is a good time to start moving Drupal's user experience forward.
 
 The goal of this post is to advance the conversation we started over a month ago in a blog post talking about the concept of [turning Drupal outside-in](https://dri.es/turning-drupal-outside-in). In today's blog post, we'll show concrete examples of how we could make site building in Drupal easier by embracing the concept of outside-in. We hope to provide inspiration to designers, core contributors and module maintainers for how we can improve the user experience of Drupal 8.2 and beyond.
 
 ## What is outside-in?
 
-In Drupal you often have to build things from the ground up. If you want to make a list of events you need to wade through 20 different menu options to a user interface with configuration options like "boolean" and "float", build a content type, content, and then a view. Essentially you need to *understand everything before you can build anything*.
+In Drupal, you often have to build things from the ground up. If you want to make a list of events, you need to wade through 20 different menu options to a user interface with configuration options like "boolean" and "float", build a content type, content, and then a view. Essentially you need to *understand everything before you can build anything*.
 
-In an "outside-in" experience – or what [Kevin OLeary](https://www.drupal.org/u/tkoleary) (Director of Design on [my team at Acquia](https://dri.es/announcing-the-office-of-the-cto-at-acquia)) calls [Literal UI](http://koleary.github.io/LiteralUI/) – you can click anything on the page, edit its configuration in-place, and watch it take effect immediately.
+In an "outside-in" experience – or what [Kevin O'Leary](https://www.drupal.org/u/tkoleary) (Director of Design on [my team at Acquia](https://dri.es/announcing-the-office-of-the-cto-at-acquia)) calls [Literal UI](http://koleary.github.io/LiteralUI/) – you can click anything on the page, edit its configuration in place, and watch it take effect immediately.
 
-Over the past few years Drupal has adopted a more outside-in approach, the most obvious example being Drupal 8's in-place editing. It enables you to edit what you see with an uninterrupted workflow, faster preview, and removes the need to visit the administration backend before you can start editing.
+Over the past few years Drupal has adopted a more outside-in approach, with the most obvious example being Drupal 8's in-place editing. It enables you to edit what you see with an uninterrupted workflow and a faster preview, and removes the need to visit the administration backend before you can start editing.
 
 To evaluate how outside-in can be applied more broadly in order to make Drupal easier to use, Kevin created a few animated gifs.
 
@@ -40,9 +42,9 @@ Editing menu options in Drupal has already become more outside-in with contextua
 ![A user navigates multiple admin pages to edit a menu item, requiring several steps and page refreshes.](http://default/files/cache/blog/outside-in-menu-before-640w.gif)
 *The current inside-out experience for editing a menu item: adding a menu link and changing its position involves 2 separate administration pages, 4 page refreshes and more than 400 words of text on the UI.*
 
-Anyone familiar with Drupal will recognize the pattern above; you go to an administration UI, make some changes, than you go back to the page to see if it worked. This context switching creates what UX people call "cognitive load". On an administration page you need to remember what was on the site page and vice-versa.
+Anyone familiar with Drupal will recognize the pattern above; you go to an administration UI, make some changes, then you go back to the page to see if it worked. This context switching creates what UX people call "cognitive load". On an administration page you need to remember what was on the site page and vice-versa.
 
-To complete this task you need to:
+To complete this task, you need to:
 
 1. Find the contextual link for the menu (not simple since it's on the far side of the page)
 2. Choose the correct option "edit menu"
@@ -53,11 +55,11 @@ To complete this task you need to:
 7. Scroll to the bottom of the page
 8. Save the link
 9. Find the link in the list of links
-10. Understand that dragging up/down in this abstraction is equivalent to moving right/left in that actual page
+10. Understand that dragging up/down in this abstraction is equivalent to moving right/left on the actual page
 11. Scroll to the bottom of the page
 12. Save the menu
 
-The problem is not just that there are too many pages, clicks, or words, it's that each step away from the actual page introduces new opportunities for confusion, error and repetition. In user testing, we have seen users who were unable to find the contextual link, or to understand which option to choose, or to find the "add link" button, or to add a path, or drag-drop links, or to save before leaving the UI. When these things happen in context, feedback about whether you are "doing it right" is immediate.
+The problem is not just that there are too many pages, clicks, or words; it's that each step away from the actual page introduces new opportunities for confusion, error and repetition. In user testing, we have seen users who were unable to find the contextual link, or to understand which option to choose, or to find the "add link" button, or to add a path, or to drag and drop links, or to save before leaving the UI. When these things happen in context, feedback about whether you are "doing it right" is immediate.
 
 ### The proposed outside-in experience
 
@@ -73,7 +75,7 @@ Now all you need to do is:
 5. Drag the link to its new location
 6. Close the drawer
 
-One important aspect of this approach is that all actions that produce a visible change have bi-directional control and bi-directional feedback. In other words, if you can drag something in the configuration drawer you should also be able to drag it on the page, and the changes should happen simultaneously.
+One important aspect of this approach is that all actions that produce a visible change have bi-directional control and bi-directional feedback. In other words, if you can drag something in the configuration drawer, you should also be able to drag it on the page, and the changes should happen simultaneously.
 
 ## Example #2: adding a block to a page
 
@@ -84,7 +86,7 @@ The process of placing a block on a page can be difficult. Once you discover whe
 ![A user navigates a website's admin interface to add a content block, showing the current block editing process.](http://default/files/cache/blog/outside-in-blocks-before-640w.gif)
 *The current inside-out experience for adding a block. Not all steps are shown.*
 
-To complete this task you need to:
+To complete this task, you need to:
 
 1. Figure out where to go to place a block
 2. Go to /block-layout
@@ -102,7 +104,7 @@ To complete this task you need to:
 14. Go back to /block-layout and add the path to the visibility settings
 15. Drag your block to the position where you want it
 16. If your blocks are arranged horizontally, learn that "up and down" in the block layout UI will mean "left and right" on the actual page
-17. Find the"back to site" link
+17. Find the "back to site" link
 18. Go back to the page to see if you did it right
 
 Eventually you'll use what you just learned, but Drupal makes you learn it first instead of just showing what is immediately necessary. Both the task and the learning can be simplified by bringing the configuration closer to the object you are configuring.
@@ -119,18 +121,18 @@ Now all you need to do is:
 3. Place the block
 4. Close the drawer
 
-The "plus" button, the drop target (blue dotted rectangle) and the autocomplete are all commonly understood patterns used by other software. The task requires no or little explanation as the interactions reveal the process. By starting with selecting the location of where to place the block, we avoid the need for drag-and-drop and the complexity of dragging a block on a page that requires scrolling.
+The "plus" button, the drop target (blue dotted rectangle) and the autocomplete are all commonly understood patterns used by other software. The task requires little or no explanation as the interactions reveal the process. By starting with selecting the location where to place the block, we avoid the need for drag-and-drop and the complexity of dragging a block on a page that requires scrolling.
 
 ## Principles and patterns
 
-These examples show the *principle* that rather than taking the site builder to a separate administration backend, the experience should begin with the actual page and show how the changes will be seen by the end-user. The *patterns* shown here are less important. For example, the animated gifs above show two different approaches to the options panel and there are certainly others. The important thing is not yet where the panel comes from or how it looks, but that the following criteria are met:
+These examples show the *principle* that rather than taking the site builder to a separate administration backend, the experience should begin with the actual page and show how the changes will be seen by the end user. The *patterns* shown here are less important. For example, the animated gifs above show two different approaches to the options panel and there are certainly others. The important thing is not yet where the panel comes from or how it looks, but that the following criteria are met:
 
 - An option panel is triggered by direct interaction.
-- When triggered it only shows options for what you selected.
+- When triggered, it only shows options for what you selected.
 - It primarily shows configuration options that produce a visible change to the page. More complex options could be accessed through an 'Advanced options' link.
 
 The ideas in this post are meant to provide some food for thought and become the seed of some patches for Drupal 8.2. Rather than dive right into development, we're looking to the Drupal community to take these designs as a starting point to prototype and user-test more outside-in experiences in Drupal.
 
-The next post in this series will cover outside-in experiences with more complex contexts and the problem of "leaky abstractions". If you don't want to miss the next blog post, make sure to [subscribe](https://dri.es/subscribe). In the mean time, I'd love to hear what you think!
+The next post in this series will cover outside-in experiences with more complex contexts and the problem of "leaky abstractions". If you don't want to miss the next blog post, make sure to [subscribe](https://dri.es/subscribe). In the meantime, I'd love to hear what you think!
 
-*Special thanks to [Kevin OLeary](https://www.drupal.org/u/tkoleary) for advocating outside-in thinking. Thanks to [Preston So](https://www.drupal.org/u/prestonso), [Gábor Hojtsy](https://www.drupal.org/u/gabor-hojtsy), [Angie Byron](https://www.drupal.org/u/webchick), [Bojhan Somers](https://www.drupal.org/u/bojhan) and [Roy Scholten](https://www.drupal.org/u/yoroy) for their feedback.*
+*Special thanks to [Kevin O'Leary](https://www.drupal.org/u/tkoleary) for advocating outside-in thinking. Thanks to [Preston So](https://www.drupal.org/u/prestonso), [Gábor Hojtsy](https://www.drupal.org/u/gabor-hojtsy), [Angie Byron](https://www.drupal.org/u/webchick), [Bojhan Somers](https://www.drupal.org/u/bojhan) and [Roy Scholten](https://www.drupal.org/u/yoroy) for their feedback.*

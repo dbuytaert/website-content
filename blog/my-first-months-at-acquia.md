@@ -7,10 +7,12 @@ author:
 date: '2008-05-01T04:01:35-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "As Acquia's co-founder and CTO, time goes to building the team, directing product development, and Drupal community work, not writing code."
 tags:
   - Drupal
   - Acquia
 published: true
+featured: false
 id: 437
 ---
 

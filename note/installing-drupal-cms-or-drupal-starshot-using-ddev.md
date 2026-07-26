@@ -7,10 +7,12 @@ author:
 date: '2024-11-15T05:21:38-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: note
+summary: 'Step-by-step instructions for setting up Drupal CMS (Starshot) locally with DDEV, covering both end-user and contributor workflows.'
 tags:
   - Drupal
   - 'Drupal Starshot'
 published: true
+featured: false
 id: 5716
 ---
 

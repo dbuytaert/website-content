@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - NowPublic
+  - Belgium
 published: true
 id: 313
 ---

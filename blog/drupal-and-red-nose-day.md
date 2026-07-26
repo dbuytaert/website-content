@@ -9,6 +9,7 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Acquia
+  - Drupal
   - Non-profit
 published: true
 id: 2936

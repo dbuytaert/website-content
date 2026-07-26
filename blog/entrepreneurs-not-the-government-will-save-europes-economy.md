@@ -7,11 +7,13 @@ author:
 date: '2014-01-02T04:52:41-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Three ways Europe can compete with the US on startups: back companies that can grow large, unify labor laws, and shift toward a more entrepreneurial culture.'
 tags:
   - Policy
   - 'Startup lessons'
   - Government
 published: true
+featured: true
 id: 3091
 ---
 

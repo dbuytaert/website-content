@@ -12,6 +12,7 @@ tags:
   - Karlijn
   - Family
   - Stan
+  - 'Life events'
 image: stan-2009/close-up
 published: true
 id: 670

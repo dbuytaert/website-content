@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - 'Drupal sites'
+  - Google
 published: true
 id: 589
 ---

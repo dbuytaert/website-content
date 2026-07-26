@@ -7,10 +7,12 @@ author:
 date: '2014-03-28T13:29:26-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'A business background is optional, but a passion for sales and marketing is essential; find customers before building the product.'
 tags:
   - 'Startup lessons'
   - Acquia
 published: true
+featured: true
 id: 3121
 ---
 

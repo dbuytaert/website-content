@@ -9,6 +9,7 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Awards
+  - 'Life events'
 published: true
 id: 2926
 ---

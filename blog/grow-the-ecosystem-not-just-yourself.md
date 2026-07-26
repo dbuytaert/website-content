@@ -7,6 +7,7 @@ author:
 date: '2026-05-26T09:43:09-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Open Source companies should compete on their products' merits while sustaining the shared commons, not by attacking rivals."
 tags:
   - Drupal
   - 'Open Source'

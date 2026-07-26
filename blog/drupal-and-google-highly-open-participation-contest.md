@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - 'Drupal Association'
+  - Google
 published: true
 id: 363
 ---

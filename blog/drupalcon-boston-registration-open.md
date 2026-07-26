@@ -11,6 +11,7 @@ tags:
   - Drupal
   - DrupalCon
   - 'Drupal Association'
+  - Boston
 published: true
 id: 389
 ---

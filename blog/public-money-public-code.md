@@ -7,6 +7,7 @@ author:
 date: '2020-09-17T06:21:07-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Software funded with tax dollars should default to Open Source.'
 tags:
   - 'Open Source'
   - 'Open Source sustainability'

@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - 'Semantic web'
+  - Google
 published: true
 id: 649
 ---

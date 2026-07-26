@@ -7,9 +7,11 @@ author:
 date: '2016-04-28T14:31:29-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Drupal 8 is being adopted twice as fast as Drupal 7 was, with over 60,000 sites counted within four months of release.'
 tags:
   - Drupal
 published: true
+featured: false
 id: 3656
 ---
 

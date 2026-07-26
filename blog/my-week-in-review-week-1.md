@@ -35,7 +35,7 @@ Every week, people ask me what exactly I do and how I balance my time. As such, 
   <td>Acquia</td>
   <td>4</td>
   <td>
- </td>
+</td>
 </tr>
   <tr>
   <td>Human resources</td>
@@ -60,7 +60,7 @@ Every week, people ask me what exactly I do and how I balance my time. As such, 
   <td>Acquia</td>
   <td>2</td>
   <td>
- </td>
+</td>
 </tr>
   <tr>
   <td>Sales meetings</td>
@@ -85,7 +85,7 @@ Every week, people ask me what exactly I do and how I balance my time. As such, 
   <td>Acquia</td>
   <td>0</td>
   <td>
- </td>
+</td>
 </tr>
   <tr>
   <td>Attending conferences</td>
@@ -116,7 +116,7 @@ Every week, people ask me what exactly I do and how I balance my time. As such, 
   <td>Drupal</td>
   <td>7.5</td>
   <td>
- </td>
+</td>
 </tr>
   <tr>
   <td>Preparing presentation slides</td>
@@ -131,32 +131,32 @@ Every week, people ask me what exactly I do and how I balance my time. As such, 
   <td>Interview with Federal News Radio to talk about Drupal in government</td>
 </tr>
   <tr>
-  <td>Reviewing Drupal core patches</td>
+  <td>Reviewing Drupal Core patches</td>
   <td>Drupal</td>
   <td>0.5</td>
   <td>
- </td>
+</td>
 </tr>
   <tr>
   <td>Transportation</td>
   <td>Drupal</td>
   <td>1.5</td>
   <td>
- </td>
+</td>
 </tr>
   <tr>
   <td>Writing code</td>
   <td>Drupal</td>
   <td>0</td>
   <td>
- </td>
+</td>
 </tr>
   <tr>
   <td>E-mail</td>
   <td>Mollom</td>
   <td>1</td>
   <td>
- </td>
+</td>
 </tr>
   <tr>
   <td>Management meetings</td>
@@ -170,14 +170,14 @@ Every week, people ask me what exactly I do and how I balance my time. As such, 
   <td>6</td>
   <td>Reviewed the results of the last engineering sprint, and coordinated the next engineering sprint</td>
   <td>
- </td>
+</td>
 </tr>
   <tr>
   <td>Writing code</td>
   <td>Mollom</td>
   <td>0</td>
   <td>
- </td>
+</td>
 </tr>
 </table>
 

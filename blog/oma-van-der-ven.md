@@ -10,7 +10,9 @@ type: blog
 tags:
   - Photography
   - Family
+  - 'In memoriam'
 published: true
+featured: false
 id: 208
 ---
 

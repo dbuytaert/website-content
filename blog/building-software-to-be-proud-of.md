@@ -7,16 +7,18 @@ author:
 date: '2020-08-12T04:43:12-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "GovCMS, an Australian government Drupal distribution, hit 2 billion monthly hits during COVID-19, showing Drupal's scalability and impact."
 tags:
   - Drupal
   - Government
 published: true
+featured: false
 id: 5061
 ---
 
 # Building software to be proud of
 
-I'm on vacation this week, and was catching up on my RSS feed. I read that the Australian government content management system [GovCMS](https://www.govcms.gov.au/) has reported record traffic spikes this year due to COVID-19.
+I'm on vacation this week and was catching up on my RSS feed. I read that the Australian government content management system [GovCMS](https://www.govcms.gov.au/) has reported record traffic spikes this year due to COVID-19.
 
 This caught my attention because GovCMS is a [Drupal distribution](https://dri.es/drupal-distributions) – a version of Drupal developed as a cost-effective option for building government websites.
 
@@ -26,4 +28,4 @@ When I read that, I felt proud that Drupal is scalable, secure and accessible. I
 
 The GovCMS numbers are just the tip of the iceberg. Drupal is not just being used by the Australian government – it's being used by thousands of federal, state and local governments around the world. Many of these government agencies are providing essential health information and other digital services during these trying times.
 
-It's a powerful reminder of [Drupal's impact](https://dri.es/drupal-collective-purpose), and why it's non-negotiable that [we build Drupal so everyone can use it](https://dri.es/defining-drupal-values-and-principles), and use it reliably.
+It's a powerful reminder of [Drupal's impact](https://dri.es/drupal-collective-purpose) and why it's non-negotiable that [we build Drupal so everyone can use it](https://dri.es/defining-drupal-values-and-principles), and use it reliably.

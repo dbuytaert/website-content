@@ -10,6 +10,7 @@ type: blog
 summary: 'Drupal is evolving its vision around ambitious site builders: people who bridge no-code tools and custom development to build powerful sites on the Open Web.'
 tags:
   - Drupal
+  - Portland
 image: drupalcon-portland-2022/drupal-is-for-ambitious-site-builders
 published: true
 featured: true

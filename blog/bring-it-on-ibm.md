@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - SharePoint
+  - IBM
 published: true
 id: 209
 ---
@@ -26,4 +27,4 @@ With that in mind, now consider this. Many organizations have been experimenting
 
 It doesn't take a whole lot of IBM'ers to get Drupal to talk with Lotus Connections, to get Drupal up to par with SharePoint, or for IBM to become the world's premier Drupal support company. It is a small investment for a win-win situation.
 
-IBM embraced Linux so they know how to do this, and they know how well that worked. It helped IBM turn around some of its business and strengthened their position in the server market. The battle has since moved up the stack and Lotus is to Drupal what AS/400 was to Linux. It will be interesting to see if IBM is going to repeat history and embrace an open source alternative.
+IBM embraced Linux so they know how to do this, and they know how well that worked. It helped IBM turn around some of its business and strengthened their position in the server market. The battle has since moved up the stack and Lotus is to Drupal what AS/400 was to Linux. It will be interesting to see if IBM is going to repeat history and embrace an Open Source alternative.

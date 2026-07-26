@@ -9,7 +9,6 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - POSSE
-  - 'Software development'
   - CSS
 published: true
 id: 4166

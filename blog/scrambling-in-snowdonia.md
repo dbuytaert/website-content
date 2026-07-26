@@ -11,6 +11,7 @@ summary: 'A multi-day Tryfan trip mixed steep scrambling, a surprise steak dinne
 tags:
   - Photography
   - Travel
+  - 'Van life'
   - 'United Kingdom'
 image: hiking-in-wales-2019/camping-on-tryfan
 published: true

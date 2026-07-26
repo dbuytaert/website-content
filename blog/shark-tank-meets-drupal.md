@@ -13,6 +13,7 @@ tags:
   - DrupalCon
   - 'Drupal Association'
   - 'Open Source sustainability'
+  - Pittsburgh
 image: drupal/pitch-burgh
 published: true
 id: 5451

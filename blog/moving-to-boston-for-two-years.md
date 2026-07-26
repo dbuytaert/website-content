@@ -7,9 +7,11 @@ author:
 date: '2010-06-01T10:23:17-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "A two-year move from Antwerp to Boston, driven by less travel, a wife's research role at the Broad Institute, and closer ties to Acquia."
 tags:
   - Family
   - Acquia
+  - 'Life events'
   - Antwerp
   - Boston
 published: true
@@ -21,12 +23,12 @@ id: 1661
 
 I have spent almost my entire life in [Antwerp](https://en.wikipedia.org/wiki/Antwerp) – 31 years to date. However, in just a few weeks, my family and I will be moving to [Boston](https://en.wikipedia.org/wiki/Boston). Why?
 
-- Primarily, it allows me to reduce my travel and spend more time with my family. I flew 65,000 miles in the first five months of this year, and [100,000 miles in total last year](https://dri.es/final-2009-wrapup). Being away from home that much isn't fun; neither is having permanent jet lag.
-- My wife has accepted a research position at [Broad Institute](https://www.broadinstitute.org/), a genomics research center jointly affiliated with MIT and Harvard. As a postdoctoral researcher, it is a tremendous opportunity. Did I mention how proud I am of her?
-- [Acquia](https://www.acquia.com), my company, is based in Boston and I want to spend more actual person-to-person time there. While working remotely is OK, nothing beats face-to-face interaction, especially when you're a fast-growing startup.
+- Primarily, it allows me to reduce my travel and spend more time with my family. I flew 65,000 miles in the first five months of this year and [100,000 miles in total last year](https://dri.es/final-2009-wrapup). Being away from home that much isn't fun; neither is having permanent jet lag.
+- My wife has accepted a research position at the [Broad Institute](https://www.broadinstitute.org/), a genomics research center jointly affiliated with MIT and Harvard. It is a tremendous opportunity for her as a postdoctoral researcher. Did I mention how proud I am of her?
+- [Acquia](https://www.acquia.com), my company, is based in Boston, and I want to spend more actual person-to-person time there. While working remotely is OK, nothing beats face-to-face interaction, especially when you're a fast-growing startup.
 
-We've decided to move for a period of two years, and to return to Belgium in 2012. By then, Axl and Stan can go to school in Belgium, my wife can resume her research position at [Flanders Institute for Biotechnology](http://www.vib.be), and hopefully, Acquia will have offices in Europe.
+We've decided to move for a period of two years and to return to Belgium in 2012. By then, Axl and Stan can go to school in Belgium, my wife can resume her research position at the [Flanders Institute for Biotechnology](http://www.vib.be), and hopefully, Acquia will have offices in Europe.
 
 Moving 3,500 miles from your hometown, most of your relatives, and many of your best friends is not an easy choice. It's quite likely that – at this early date – we do not understand how significant a change it will really be. While we'll miss our friends and family in Belgium, we believe that it will be a win-win.
 
-I'll keep you posted about our move, and our adventures abroad!
+I'll keep you posted about our move and our adventures abroad!

@@ -21,7 +21,7 @@ id: 1516
 
 ![MySQL logo featuring a stylized dolphin above the text "MySQL" in blue and orange colors.](http://default/files/cache/blog/mysql-640w.jpg)
 
-[MySQL](http://mysql.com), the open source database product that puts the "M" in LAMP, was created by MySQL AB, a company founded in 1995 in Sweden. In 2008, MySQL AB announced that it had agreed to be acquired by Sun Microsystems for $1 billion.
+[MySQL](http://mysql.com), the Open Source database product that puts the "M" in LAMP, was created by MySQL AB, a company founded in 1995 in Sweden. In 2008, MySQL AB announced that it had agreed to be acquired by Sun Microsystems for $1 billion.
 
 The story of MySQL AB is pretty amazing, so I unleashed my "inner academic", did some research and compiled a timeline of MySQL AB's history. This timeline is assembled based on different resources online, such as MySQL press releases ([example 1](https://www.mysql.com/news-and-events/generate-article.php?id=2001_1)) and interviews with MySQL AB executives ([example 2](http://archive.fortune.com/2006/05/31/magazines/fortune/mysql_greatteams_fortune/index.htm), [example 3](https://www.cnet.com/MySQL-hits-50-million-revenue,-plans-IPO/2100-7344_3-6179290.html)), etc.
 

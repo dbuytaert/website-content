@@ -10,7 +10,6 @@ type: blog
 summary: 'We are at the beginning of a massive re-architecture of the web where we go from "pull" to "push". Eventually, content will find us.'
 tags:
   - 'Open Web'
-  - Trends
 image: blog/push-pull
 published: true
 featured: true

@@ -7,10 +7,12 @@ author:
 date: '2021-03-24T20:59:58-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Richard Stallman's return to the FSF board prompts calls for his removal, an explanation, and new leadership."
 tags:
   - 'Open Source'
   - Leadership
 published: true
+featured: false
 id: 5181
 ---
 

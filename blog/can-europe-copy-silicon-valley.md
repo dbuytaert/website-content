@@ -7,10 +7,12 @@ author:
 date: '2013-01-17T15:04:46-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Europe must first adopt Silicon Valley's culture of reinvention and egalitarian ambition before the money and talent can follow."
 tags:
   - 'Startup lessons'
   - Policy
 published: true
+featured: false
 id: 2871
 ---
 

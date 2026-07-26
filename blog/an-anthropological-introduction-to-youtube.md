@@ -7,6 +7,8 @@ author:
 date: '2008-08-11T05:34:10-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+tags:
+  - 'Social media'
 published: true
 id: 488
 ---

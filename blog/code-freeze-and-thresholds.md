@@ -9,7 +9,6 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Drupal
-  - 'Software development'
 published: true
 id: 2906
 ---
@@ -28,7 +27,7 @@ As of Monday, February 18, [Drupal 8 feature completion phase](https://dri.es/dr
 - Tour module to offer step-by-step help
 - API support for Multilingual configuration
 - Revamped and far more usable UI for configuring translatable entities and fields
-- A RESTful API for entity CRUD in Drupal core
+- A RESTful API for entity CRUD in Drupal Core
 - Support for Views to be output in JSON, XML, or other formats made available by contributed modules
 - Important under-the-hood improvements to allow for native ESI/CSI/SSI caching support in Drupal.
 
@@ -40,7 +39,7 @@ We now enter the ["clean-up" phase](https://dri.es/updated-drupal-8-release-sche
 
 ## So ... REALLY, what happens now?
 
-In the course of adding all of the great features we've added so far to Drupal 8, we've accumulated some technical debt and are currently well over the [issue queue thresholds for Drupal core](https://dri.es/issue-queue-thresholds-for-drupal-core). We roll a release candidate of Drupal 8 when there are 0 critical bugs and tasks remaining. Our over-arching goal should therefore be to reduce the number of threshold issues over time.
+In the course of adding all of the great features we've added so far to Drupal 8, we've accumulated some technical debt and are currently well over the [issue queue thresholds for Drupal Core](https://dri.es/issue-queue-thresholds-for-drupal-core). We roll a release candidate of Drupal 8 when there are 0 critical bugs and tasks remaining. Our over-arching goal should therefore be to reduce the number of threshold issues over time.
 
 At the same time, there are a lot of small, non-destabilizing features that would make Drupal 8 better. Especially for the kinds of iterative improvements that we would allow into 8.1 or 8.2, it doesn't make sense to hold those up until then, if we're able to get them into 8.0 without it delaying the 8.0 release date.
 

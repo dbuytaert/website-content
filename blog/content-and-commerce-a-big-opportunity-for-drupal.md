@@ -51,7 +51,7 @@ There is a really strong case to be made for a best-of-breed approach where you 
 
 A big part of Acquia's commerce strategy is to focus on integrating Drupal with multiple commerce platforms, and to offer personalization through Lift. The partnership with Magento is an important part of this strategy, and one that will drive adoption of both Drupal and Magento.
 
-There are over 250,000 commerce sites built with Magento and many of these organizations will want a better shopping experience. Furthermore, given the consolidation seen in the commerce platform space, there are few, proven enterprise solutions left on the market. This has increased the market opportunity for Magento and Drupal. Drupal and Magento are a natural fit; we share the same technology stack (PHP, MySQL) and we are both open source (albeit using different licenses). Last but not least, the market is pushing us to partner; we've seen strong demand for Drupal-Magento integration.
+There are over 250,000 commerce sites built with Magento and many of these organizations will want a better shopping experience. Furthermore, given the consolidation seen in the commerce platform space, there are few, proven enterprise solutions left on the market. This has increased the market opportunity for Magento and Drupal. Drupal and Magento are a natural fit; we share the same technology stack (PHP, MySQL) and we are both Open Source (albeit using different licenses). Last but not least, the market is pushing us to partner; we've seen strong demand for Drupal-Magento integration.
 
 We're keen to partner with other commerce platforms as well. In fact, Acquia has existing partnerships with SAP/hybris, Demandware, Elastic Path and Commerce Tools.
 

@@ -7,9 +7,11 @@ author:
 date: '2024-06-07T07:02:30-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: note
+summary: 'Instructions for configuring password-free SSH logins using public key authentication.'
 tags:
   - Security
 published: true
+featured: false
 id: 5621
 ---
 

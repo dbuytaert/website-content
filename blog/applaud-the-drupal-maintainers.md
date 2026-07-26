@@ -7,10 +7,12 @@ author:
 date: '2016-04-20T05:38:16-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Drupal 8.1.0 balances maintenance with innovation, and the often-unglamorous upkeep work deserves as much recognition as new features.'
 tags:
   - Drupal
-  - 'Software development'
+  - 'Open Source sustainability'
 published: true
+featured: false
 id: 3646
 ---
 

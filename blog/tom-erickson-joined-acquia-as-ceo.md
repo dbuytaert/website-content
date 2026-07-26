@@ -7,11 +7,13 @@ author:
 date: '2009-03-04T07:44:10-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Tom Erickson, a longtime Acquia board member and advisor, becomes CEO as founding CEO Jay Batson moves to a management role.'
 tags:
   - Drupal
   - Acquia
   - 'Leadership updates'
 published: true
+featured: false
 id: 610
 ---
 

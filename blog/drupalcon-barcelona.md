@@ -13,6 +13,7 @@ tags:
   - DrupalCon
   - 'Drupal Association'
   - Invitations
+  - Barcelona
 published: true
 id: 292
 ---

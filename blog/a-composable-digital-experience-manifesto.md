@@ -11,7 +11,6 @@ summary: "An update on the evolution of Acquia's product strategy through the le
 tags:
   - Drupal
   - Acquia
-  - Trends
 image: acquia/composable-dxp-principle-6
 published: true
 featured: true

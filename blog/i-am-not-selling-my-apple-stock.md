@@ -7,11 +7,13 @@ author:
 date: '2018-12-03T21:00:32-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'An investment narrative for Apple: 12% annual earnings-per-share growth from buybacks and profit gains could beat the market over five years.'
 tags:
   - 'Stock market'
   - Investing
   - Apple
 published: true
+featured: false
 id: 4651
 ---
 

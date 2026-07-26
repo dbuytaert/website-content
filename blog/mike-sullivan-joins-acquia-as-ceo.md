@@ -7,10 +7,12 @@ author:
 date: '2017-11-13T10:59:13-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Michael Sullivan becomes Acquia's CEO after a six-month search; Dries moves to Chairman while remaining CTO."
 tags:
   - Acquia
   - 'Leadership updates'
 published: true
+featured: false
 id: 4071
 ---
 
@@ -44,6 +46,6 @@ In addition to Mike joining Acquia as CEO, my role will be elevated to Chairman.
 
 ## Acquia's next decade
 
-The web has the power to change lives, educate the masses, create new economies, disrupt business models and make the world smaller in the best of ways. Digital will continue to change every industry, every company and every life on the planet. The [next decade](https://dri.es/acquia-first-decade-the-founding-story) holds enormous promise for Acquia and Drupal because of what the power of digital holds for business and society at large. We are uniquely positioned to deliver the benefits of open source, cloud and data-driven experiences to help organizations succeed in an increasingly complex digital world.
+The web has the power to change lives, educate the masses, create new economies, disrupt business models and make the world smaller in the best of ways. Digital will continue to change every industry, every company and every life on the planet. The [next decade](https://dri.es/acquia-first-decade-the-founding-story) holds enormous promise for Acquia and Drupal because of what the power of digital holds for business and society at large. We are uniquely positioned to deliver the benefits of Open Source, cloud and data-driven experiences to help organizations succeed in an increasingly complex digital world.
 
 I'm excited to welcome Mike to Acquia as its CEO because I believe he is the right fit for Acquia, has the experience it takes to be our CEO and will be a great business partner to bring Acquia's vision to life. *Welcome to the team, Mike!*

@@ -11,7 +11,6 @@ summary: 'How Jamstack, MACH, and traditional CMSes like Drupal are evolving by 
 tags:
   - Drupal
   - 'Headless Drupal'
-  - Trends
 image: drupal/jamstack-mach-traditional-cms
 published: true
 featured: true

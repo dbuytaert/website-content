@@ -11,6 +11,7 @@ summary: "Drupal's long-term growth obstacles and our strategy and current initi
 tags:
   - Drupal
   - 'Drupal Association'
+  - Amazon
 image: drupal/product-strategy-mountain-december-2018
 published: true
 featured: true
@@ -92,7 +93,7 @@ Here are a few things already happening:
 - We will begin work on a competitive comparison chart – contrasting Drupal with other CMS competitors like Adobe, Sitecore, Contentful, WordPress, Prismic, and more.
 - A number of local Drupal Associations are hiring marketing people to help promote Drupal in their region.
 
-Just like all open source contribution, it takes many to move things forward. So far, 40 people have signed up to help with these marketing efforts. If your organization has a marketing team that would like to contribute to the marketing of Drupal, check out the [Promote Drupal initiative page](https://www.drupal.org/community/promotedrupal) and please join the [Promote Drupal team](https://trello.com/promotedrupal/members).
+Just like all Open Source contribution, it takes many to move things forward. So far, 40 people have signed up to help with these marketing efforts. If your organization has a marketing team that would like to contribute to the marketing of Drupal, check out the [Promote Drupal initiative page](https://www.drupal.org/community/promotedrupal) and please join the [Promote Drupal team](https://trello.com/promotedrupal/members).
 
 Educating the world about how Drupal is evolving, the amazing use cases we support, and how Drupal compares to old and new competitors will go a very long way towards raising awareness of the project and growing the businesses built on and around Drupal.
 

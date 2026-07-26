@@ -7,6 +7,7 @@ author:
 date: '2026-04-07T05:44:37-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'I moved the HTTP header analyzer from this blog to its own website: headers.dev.'
 tags:
   - 'HTTP headers'
 published: true

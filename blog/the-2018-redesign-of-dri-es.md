@@ -11,6 +11,7 @@ summary: 'A refresh of dri.es aimed at better readability, easier content discov
 tags:
   - 'My site'
   - 'Web performance'
+  - CSS
 image: blog/dries-redesign-2018
 published: true
 featured: false

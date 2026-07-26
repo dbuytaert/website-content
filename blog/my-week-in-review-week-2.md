@@ -35,7 +35,7 @@ I'm tracking my work related activities because people often ask me what my days
   <td>Acquia</td>
   <td>5</td>
   <td>
- </td>
+</td>
 </tr>
   <tr>
   <td>Human resources</td>
@@ -72,7 +72,7 @@ I'm tracking my work related activities because people often ask me what my days
   <td>Acquia</td>
   <td>0</td>
   <td>
- </td>
+</td>
 </tr>
   <tr>
   <td>Preparing presentation slides</td>
@@ -109,14 +109,14 @@ I'm tracking my work related activities because people often ask me what my days
   <td>Drupal</td>
   <td>7</td>
   <td>
- </td>
+</td>
 </tr>
   <tr>
-  <td>Reviewing Drupal core patches</td>
+  <td>Reviewing Drupal Core patches</td>
   <td>Drupal</td>
   <td>2</td>
   <td>
- </td>
+</td>
 </tr>
   <tr>
   <td>Press interviews</td>
@@ -129,7 +129,7 @@ I'm tracking my work related activities because people often ask me what my days
   <td>Drupal</td>
   <td>0</td>
   <td>
- </td>
+</td>
 </tr>
   <tr>
   <td>E-mail</td>
@@ -143,13 +143,13 @@ I'm tracking my work related activities because people often ask me what my days
   <td>1</td>
   <td>Refined our engineering methodology and reviewed some user interface designs</td>
   <td>
- </td>
+</td>
 </tr>
   <tr>
   <td>Writing code</td>
   <td>Mollom</td>
   <td>0</td>
   <td>
- </td>
+</td>
 </tr>
 </table>

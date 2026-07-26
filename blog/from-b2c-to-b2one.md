@@ -10,7 +10,6 @@ type: blog
 summary: 'The B2One paradigm will be a very dramatic shift that disrupts existing business models and every single industry.'
 tags:
   - 'Open Web'
-  - Trends
 published: true
 id: 3476
 ---

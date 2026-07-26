@@ -7,6 +7,7 @@ author:
 date: '2025-08-20T03:29:25-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: note
+summary: 'Instructions for installing Markdown Easy on Drupal with DDEV, and relaxing its HTML-stripping defaults via Drush.'
 tags:
   - Drupal
   - Markdown

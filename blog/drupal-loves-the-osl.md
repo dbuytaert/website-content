@@ -7,10 +7,12 @@ author:
 date: '2006-05-22T07:10:59-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'The Open Source Lab provides free hosting, hardware setup, and day-to-day maintenance for Drupal and other FOSS projects.'
 tags:
   - Drupal
   - Press
 published: true
+featured: false
 id: 80
 ---
 

@@ -7,12 +7,13 @@ author:
 date: '2025-12-10T04:44:54-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'AI drives energy demand while helping discover clean energy, and a similar pattern could ease the review burden on Open Source maintainers.'
 tags:
   - 'Open Source'
   - 'Artificial Intelligence'
   - 'Open Source sustainability'
 published: true
-featured: false
+featured: true
 id: 5981
 ---
 

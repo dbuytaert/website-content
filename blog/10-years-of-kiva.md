@@ -7,9 +7,11 @@ author:
 date: '2021-12-28T10:11:07-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Ten years and 500+ crowdfunded loans through Kiva, with a plan to triple that over the next decade.'
 tags:
   - Kiva
 published: true
+featured: false
 id: 5281
 ---
 

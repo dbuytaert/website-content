@@ -11,6 +11,7 @@ summary: "How to advance Drupal's web services beyond for the benefit of Drupal 
 tags:
   - Drupal
   - 'Web services'
+  - 'New Orleans'
 published: true
 featured: true
 id: 3706
@@ -34,72 +35,72 @@ Having such disparate REST modules complicates the experience. These REST module
 
 <div class="large">
   <table>
-   <tbody>
-    <tr>
-      <th>Feature</th>
-      <th style="width: 16%">Core REST</th>
-      <th style="width: 16%">RELAXed</th>
-      <th style="width: 16%">Services</th>
-      <th style="width: 16%">Ideal core REST</th>
-   </tr>
-    <tr>
-      <td>Content entity CRUD</td>
-      <td>Yes</td>
-      <td>Yes</td>
-      <td>Yes</td>
-      <td><strong>Yes</strong></td>
-   </tr>
-    <tr>
-      <td>Configuration entity CRUD</td>
-      <td>Create resource plugin (<a href="https://www.drupal.org/node/2300677">issue</a>)</td>
-      <td>Create resource plugin</td>
-      <td>Yes</td>
-      <td><strong>Yes</strong></td>
-   </tr>
-    <tr>
-      <td>Custom resources</td>
-      <td>Create resource plugin</td>
-      <td>Create resource plugin</td>
-      <td>Create Services plugin</td>
-      <td><strong>Possible without code</strong></td>
-   </tr>
-    <tr>
-      <td>Custom routes</td>
-      <td>Create resource plugin or Views REST export (GET)</td>
-      <td>Create resource plugin</td>
-      <td>Configurable route prefixes</td>
-      <td><strong>Possible without code</strong></td>
-   </tr>
-    <tr>
-      <td>Translations</td>
-      <td>Not yet (<a href="https://www.drupal.org/node/2135829">issue</a>)</td>
-      <td>Yes</td>
-      <td>Create Services plugin</td>
-      <td><strong>Yes</strong></td>
-   </tr>
-    <tr>
-      <td>Revisions</td>
-      <td>Create resource plugin</td>
-      <td>Yes</td>
-      <td>Create Services plugin</td>
-      <td><strong>Yes</strong></td>
-   </tr>
-    <tr>
-      <td>File attachments</td>
-      <td>Create resource plugin</td>
-      <td>Yes</td>
-      <td>Create Services plugin</td>
-      <td><strong>Yes</strong></td>
-   </tr>
-    <tr>
-      <td>Authenticated user resources (log in/out, password reset)</td>
-      <td>Not yet (<a href="https://www.drupal.org/node/2403307">issue</a>)</td>
-      <td>No</td>
-      <td>User login and logout</td>
-      <td><strong>Yes</strong></td>
-   </tr>
-  </tbody>
- </table>
+  <tbody>
+   <tr>
+    <th>Feature</th>
+    <th style="width: 16%">Core REST</th>
+    <th style="width: 16%">RELAXed</th>
+    <th style="width: 16%">Services</th>
+    <th style="width: 16%">Ideal core REST</th>
+ </tr>
+   <tr>
+    <td>Content entity CRUD</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td><strong>Yes</strong></td>
+ </tr>
+   <tr>
+    <td>Configuration entity CRUD</td>
+    <td>Create resource plugin (<a href="https://www.drupal.org/node/2300677">issue</a>)</td>
+    <td>Create resource plugin</td>
+    <td>Yes</td>
+    <td><strong>Yes</strong></td>
+ </tr>
+   <tr>
+    <td>Custom resources</td>
+    <td>Create resource plugin</td>
+    <td>Create resource plugin</td>
+    <td>Create Services plugin</td>
+    <td><strong>Possible without code</strong></td>
+ </tr>
+   <tr>
+    <td>Custom routes</td>
+    <td>Create resource plugin or Views REST export (GET)</td>
+    <td>Create resource plugin</td>
+    <td>Configurable route prefixes</td>
+    <td><strong>Possible without code</strong></td>
+ </tr>
+   <tr>
+    <td>Translations</td>
+    <td>Not yet (<a href="https://www.drupal.org/node/2135829">issue</a>)</td>
+    <td>Yes</td>
+    <td>Create Services plugin</td>
+    <td><strong>Yes</strong></td>
+ </tr>
+   <tr>
+    <td>Revisions</td>
+    <td>Create resource plugin</td>
+    <td>Yes</td>
+    <td>Create Services plugin</td>
+    <td><strong>Yes</strong></td>
+ </tr>
+   <tr>
+    <td>File attachments</td>
+    <td>Create resource plugin</td>
+    <td>Yes</td>
+    <td>Create Services plugin</td>
+    <td><strong>Yes</strong></td>
+ </tr>
+   <tr>
+    <td>Authenticated user resources (log in/out, password reset)</td>
+    <td>Not yet (<a href="https://www.drupal.org/node/2403307">issue</a>)</td>
+    <td>No</td>
+    <td>User login and logout</td>
+    <td><strong>Yes</strong></td>
+ </tr>
+ </tbody>
+</table>
 </div>
 
 I would like to see a convergence where all of these can be achieved in Drupal Core with minimal configuration and minimal code.

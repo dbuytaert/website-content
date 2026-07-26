@@ -7,6 +7,7 @@ author:
 date: '2025-11-07T04:35:18-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: note
+summary: 'Instructions to set up a full Activepieces development environment for contributing to or building Drupal Pieces.'
 tags:
   - Drupal
   - Activepieces
@@ -70,7 +71,7 @@ rm -rf node_modules cache dev
 
 This removes `node_modules` (all installed dependencies), `cache` (build and runtime caches), and `dev` (temporary development files).
 
-Activepieces uses [Nx](https://nx.dev/), an open source build system for monorepos. If Nx's cache is out of sync, reset it to start with a clean slate for builds and tests:
+Activepieces uses [Nx](https://nx.dev/), an Open Source build system for monorepos. If Nx's cache is out of sync, reset it to start with a clean slate for builds and tests:
 
 ```shell
 npx nx reset

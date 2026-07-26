@@ -7,9 +7,10 @@ author:
 date: '2022-10-31T09:15:23-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: note
+summary: 'A reference for installing, configuring, running and debugging PHPUnit tests with Drupal, using DDEV and Composer.'
 tags:
   - Drupal
-  - Testing
+  - 'Automated testing'
 published: true
 featured: false
 id: 5376

@@ -9,6 +9,7 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Drupal
+  - Portland
 image: drupalcon-portland-2022/drupal-11-composable-core
 published: true
 id: 5331

@@ -7,10 +7,12 @@ author:
 date: '2007-11-22T11:40:02-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'The Software Freedom Law Center will provide legal representation to the Drupal project, starting with answering GPL-related questions.'
 tags:
   - Drupal
   - 'Drupal Association'
 published: true
+featured: false
 id: 360
 ---
 

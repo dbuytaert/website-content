@@ -7,21 +7,23 @@ author:
 date: '2016-08-23T03:10:44-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Drupal 8.2 beta ships experimental outside-in features, letting content creators edit blocks and menus in place from the front end.'
 tags:
   - Drupal
   - Usability
   - Outside-in
 published: true
+featured: false
 id: 3756
 ---
 
 # Drupal 8.2, now with more outside-in
 
-Over the weekend, [Drupal 8.2 beta was released](https://www.drupal.org/project/drupal/releases/8.2.0-beta2). One of the reasons why I'm so excited about this release is that it ships with "more outside-in". In an "outside-in experience", you can click anything on the page, edit its configuration in place without having to navigate to the administration back end, and watch it take effect immediately. This kind of on-the-fly editorial experience could be a game changer for Drupal's usability.
+Over the weekend, [the Drupal 8.2 beta was released](https://www.drupal.org/project/drupal/releases/8.2.0-beta2). One of the reasons why I'm so excited about this release is that it ships with "more outside-in". In an "outside-in experience", you can click anything on the page, edit its configuration in place without having to navigate to the administration back end, and watch it take effect immediately. This kind of on-the-fly editorial experience could be a game changer for Drupal's usability.
 
-When I last discussed [turning Drupal outside-in](https://dri.es/turning-drupal-outside-in), we were still in the conceptual stages, with [mock-ups illustrating the concepts](https://dri.es/examples-of-how-to-make-drupal-outside-in). Since then, those designs have gone through multiple rounds of feedback from [Drupal's usability team](https://groups.drupal.org/usability) and a round of user testing led by [Cheppers](https://cheppers.com). This study identified some issues and provided some insights which were incorporated into subsequent designs.
+When I last discussed [turning Drupal outside-in](https://dri.es/turning-drupal-outside-in), we were still in the conceptual stages, with [mock-ups illustrating the concepts](https://dri.es/examples-of-how-to-make-drupal-outside-in). Since then, those designs have gone through multiple rounds of feedback from [Drupal's usability team](https://groups.drupal.org/usability) and a round of user testing led by [Cheppers](https://cheppers.com). This study identified some issues and provided some insights that were incorporated into subsequent designs.
 
-Two policy changes we introduced in Drupal 8 – [semantic versioning](https://www.drupal.org/core/release-cycle-overview) and [experimental modules](https://www.drupal.org/core/experimental) – have fundamentally changed Drupal's innovation model starting with Drupal 8. I should write a longer blog post about this, but the net result of those two changes is ongoing improvements with an easy upgrade path. In this case, it enabled us to add outside-in experiences to Drupal 8.2 instead of having to wait for Drupal 9. The authoring experience improvements we made in Drupal 8 are well-received, but that doesn't mean we are done. It's exciting that we can move much faster on making Drupal easier to use.
+Two policy changes we introduced in Drupal 8 – [semantic versioning](https://www.drupal.org/core/release-cycle-overview) and [experimental modules](https://www.drupal.org/core/experimental) – have fundamentally changed Drupal's innovation model starting with Drupal 8. I should write a longer blog post about this, but the net result of those two changes is the ability to make ongoing improvements with an easy upgrade path. In this case, it enabled us to add outside-in experiences to Drupal 8.2 instead of having to wait for Drupal 9. The authoring experience improvements we made in Drupal 8 are well received, but that doesn't mean we are done. It's exciting that we can move much faster on making Drupal easier to use.
 
 ## In-place block configuration
 
@@ -37,23 +39,23 @@ In the second image, the pattern is applied to a menu block. You can make adjust
 
 ## In-context block placement
 
-In Drupal 8.1 and prior, placing a new block on the page required navigating away from your front end into the administrative back end and noting the available regions. Once you discover where to go to add a block, which can in itself be a challenge, you'll have to learn about the different regions, and some trial and error might be required to place a block exactly where you want it to go.
+In Drupal 8.1 and earlier, placing a new block on the page required navigating away from your front end into the administrative back end and noting the available regions. Once you discover where to go to add a block, which can in itself be a challenge, you'll have to learn about the different regions, and some trial and error might be required to place a block exactly where you want it to go.
 
-Starting in Drupal 8.2, content creators can now just click "Place block" without navigating to a different page and knowing about available regions ahead of time. Clicking "Place block" will highlight the different possible locations for a block to be placed in.
+Starting in Drupal 8.2, content creators can now just click "Place block" without navigating to a different page or knowing about available regions ahead of time. Clicking "Place block" will highlight the different possible locations for a block to be placed in.
 
 ![A Drupal interface showing block placement options, with a cursor hovering over a plus icon to add content.](http://default/files/cache/blog/outside-in-block-placement-640w.gif)
 
 ## Next steps
 
-These improvements are currently tagged "experimental". This means that anyone who downloads Drupal 8.2 can test these changes and provide feedback. It also means that we aren't quite satisfied with these changes yet and that you should expect to see this functionality improve between now and 8.2.0's release, and even after the Drupal 8.2.0 release.
+These improvements are currently tagged "experimental". This means that anyone who downloads Drupal 8.2 can test these changes and provide feedback. It also means that we aren't quite satisfied with these changes yet and that you should expect to see this functionality improve between now and 8.2.0's release and even after the Drupal 8.2.0 release.
 
 As you probably noticed, things still look pretty raw in places; as an example, the forms in the tray are exposing too many visual details. There is more work to do to bring this functionality to the level of the designs. We're focused on improving that, as well as the underlying architecture and accessibility. Once we feel good about how it all works and looks, we'll remove the experimental label.
 
-We deliberately postponed most of the design work to focus on introducing the fundamental concepts and patterns. That was an important first step. We wanted to enable Drupal developers to start experimenting with the outside-in pattern in Drupal 8.2. As part of that, we'll have to determine how this new pattern will apply broadly to Drupal core and the many contributed modules that would leverage it. Our hope is that once the outside-in work is stable and no longer experimental, it will trickle down to every Drupal module. At that point we can all work together, in parallel, on making Drupal much easier to use.
+We deliberately postponed most of the design work to focus on introducing the fundamental concepts and patterns. That was an important first step. We wanted to enable Drupal developers to start experimenting with the outside-in pattern in Drupal 8.2. As part of that, we'll have to determine how this new pattern will apply broadly to Drupal Core and the many contributed modules that would leverage it. Our hope is that once the outside-in work is stable and no longer experimental, it will trickle down to every Drupal module. At that point, we can all work together, in parallel, on making Drupal much easier to use.
 
 Users have proven time and again in usability studies to be extremely "preview-driven", so the ability to make quick configuration changes right from their front end, without becoming an expert in Drupal's information architecture, could be revolutionary for Drupal.
 
-If you'd like to help get these features to stable release faster, please join us in the [outside-in roadmap issue](https://www.drupal.org/node/2762505).
+If you'd like to help get these features to a stable release faster, please join us in the [outside-in roadmap issue](https://www.drupal.org/node/2762505).
 
 ## Thank you
 

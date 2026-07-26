@@ -7,9 +7,11 @@ author:
 date: '2024-06-10T03:19:07-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: note
+summary: 'Instructions for Drupal major version upgrades using the Upgrade Status module, Drupal Check, and DDEV.'
 tags:
   - Drupal
 published: true
+featured: false
 id: 5631
 ---
 
@@ -23,31 +25,31 @@ Because I keep forgetting certain aspects of this workflow, I decided to documen
 
 <table>
   <thead>
-   <tr>
-    <th>Tool</th>
-    <th>Interface</th>
-    <th>Functionality</th>
-    <th>Target Audience</th>
-  </tr>
- </thead>
+  <tr>
+  <th>Tool</th>
+  <th>Interface</th>
+  <th>Functionality</th>
+  <th>Target Audience</th>
+</tr>
+</thead>
   <tbody>
-   <tr>
-    <td>
-      <a href="https://www.drupal.org/project/upgrade_status">Upgrade Status module</a>
-   </td>
-    <td>UI in Drupal</td>
-    <td>Identifies deprecated code, hosting environment compatibility, and more</td>
-    <td>Site administrators and developers</td>
-  </tr>
-   <tr>
-    <td>
-      <a href="https://github.com/mglaman/drupal-check">Drupal Check</a>
-   </td>
-    <td>Command-line</td>
-    <td>Identifies deprecated code</td>
-    <td>Developers, especially during coding and continuous integration (CI)</td>
-  </tr>
- </tbody>
+  <tr>
+  <td>
+   <a href="https://www.drupal.org/project/upgrade_status">Upgrade Status module</a>
+</td>
+  <td>UI in Drupal</td>
+  <td>Identifies deprecated code, hosting environment compatibility, and more</td>
+  <td>Site administrators and developers</td>
+</tr>
+  <tr>
+  <td>
+   <a href="https://github.com/mglaman/drupal-check">Drupal Check</a>
+</td>
+  <td>Command-line</td>
+  <td>Identifies deprecated code</td>
+  <td>Developers, especially during coding and continuous integration (CI)</td>
+</tr>
+</tbody>
 </table>
 
 ## Upgrade Status module
@@ -58,19 +60,19 @@ The [Upgrade Status module](https://www.drupal.org/project/upgrade_status) asses
 *Screenshot of a Drupal upgrade status report showing hosting environment compatibility checks.*
 
 1. Install the Upgrade Status module like you would install any other Drupal module:
-   
-    ```shell
+  
+  ```shell
     $ ddev composer require –dev drupal/upgrade_status
     ```
-   
-   Here, `ddev` is the tool I prefer for managing my local development environment. `composer` is a dependency manager for PHP, commonly used to install Drupal modules. The `–dev` option specifies that the module should be installed as a development requirement, meaning it is necessary for development environments but not installed on production environments.
+  
+  Here, `ddev` is the tool I prefer for managing my local development environment. `composer` is a dependency manager for PHP, commonly used to install Drupal modules. The `–dev` option specifies that the module should be installed as a development requirement, meaning it is necessary for development environments but not installed on production environments.
 2. Enable the Upgrade Status module:
-   
-    ```shell
+  
+  ```shell
     $ ddev drush pm-enable upgrade_status
     ```
-   
-   `drush` stands for "Drupal shell" and is a command-line utility for managing Drupal sites. The command `pm:enable` (where `pm` stands for "package manager") is used to enable a module in Drupal.
+  
+  `drush` stands for "Drupal shell" and is a command-line utility for managing Drupal sites. The command `pm:enable` (where `pm` stands for "package manager") is used to enable a module in Drupal.
 3. After enabling the module, you can access its features by navigating to the **Admin &gt; Reports &gt; Upgrade status** page at `/admin/reports/upgrade-status`.
 
 ## Upgrading PHP and MySQL using DDEV
@@ -101,17 +103,17 @@ I always run `drupal-check` *before* updating my Drupal site's code and third-pa
 *Output of Drupal Check command indicating no deprecated code was found.*
 
 1. Installation:
-   
-    ```shell
+  
+  ```shell
     $ ddev composer require –dev mglaman/drupal-check
     ```
 2. Run Drupal Check from the root of your Drupal installation:
-   
-    ```shell
+  
+  ```shell
     $ ./vendor/bin/drupal-check –-memory-limit 500M docroot/modules/custom
     ```
-   
-   I usually have to increase the memory limit, hence the `--memory-limit 500M`.
+  
+  I usually have to increase the memory limit, hence the `--memory-limit 500M`.
 
 ## Using PHPStan directly
 

@@ -7,12 +7,15 @@ author:
 date: '2012-08-14T08:00:44-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Acquia has acquired Mollom, the spam-fighting service, with the team, products, and offerings continuing unchanged.'
 tags:
   - Drupal
   - Acquia
   - Mollom
   - Acquisitions
+  - 'Life events'
 published: true
+featured: false
 id: 2741
 ---
 

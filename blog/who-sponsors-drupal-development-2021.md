@@ -228,9 +228,9 @@ A variety of different types of companies are active in Drupal's ecosystem:
 <table>
   <thead>
   <tr>
-   <th>Category</th>
-   <th>Description</th>
- </tr>
+  <th>Category</th>
+  <th>Description</th>
+</tr>
 </thead>
   <tr>
   <td>Traditional Drupal businesses</td>

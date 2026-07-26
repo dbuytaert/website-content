@@ -7,15 +7,17 @@ author:
 date: '2024-09-09T03:02:43-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'A weekend bug report led to a round of improvements to the HTTP Header Analyzer, adding new headers and clearer explanations.'
 tags:
   - 'HTTP headers'
 published: true
+featured: false
 id: 5681
 ---
 
 # HTTP Header Analyzer update - September 2024
 
-My [HTTP Header Analyzer](https://headers.dev/analyze) continues to be [used a lot](https://dri.es/the-little-http-header-analyzer-that-could). Last week, I received a bug report, so I decided to look into it over the weekend. One thing led to another, and I ended up making a slew of improvements:
+My [HTTP Header Analyzer](https://headers.dev/) continues to be [used a lot](https://dri.es/the-little-http-header-analyzer-that-could). Last week, I received a bug report, so I decided to look into it over the weekend. One thing led to another, and I ended up making a slew of improvements:
 
 1. Clarified the explanations for various Cloudflare headers, including `CF-Edge-Cache`, `CF-APO-Via`, `CF-BGJ`, `CF-Polish`, `CF-Mitigated`, `CF-Ray`, `CF-Request-ID`, `CF-Connecting-IP`, and `CF-IPCountry`.
 2. Added support for new headers: `X-Logged-In`, `X-Hacker`, `X-Vimeo-Device`, and `Origin-Agent-Cluster`.

@@ -9,7 +9,6 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - 'Open Source'
-  - Trends
 published: true
 id: 3221
 ---

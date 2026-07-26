@@ -8,7 +8,7 @@ date: '2007-04-15T06:13:24-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
-  - Song
+  - 'Favorite music'
 published: true
 id: 251
 ---

@@ -12,6 +12,7 @@ tags:
   - 'Open Web'
   - 'Artificial Intelligence'
   - 'Open Source sustainability'
+  - Google
 image: blog/cloudflare-vs-crawlers
 published: true
 featured: true

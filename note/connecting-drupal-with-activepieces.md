@@ -7,6 +7,7 @@ author:
 date: '2025-11-07T04:44:00-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: note
+summary: 'Instructions for connecting Drupal to the Open Source workflow automation platform Activepieces.'
 tags:
   - Drupal
   - Activepieces
@@ -18,7 +19,7 @@ id: 5931
 
 # Connecting Drupal with Activepieces
 
-[Activepieces](https://www.activepieces.com/) is an open source workflow automation platform, similar to [Zapier](https://zapier.com/) or [n8n](https://n8n.io/). It connects different systems so they can work together in automated workflows. For example, you might create a workflow where publishing a [Drupal](https://www.drupal.org/) article automatically creates a social media post, updates a Google Sheet, and notifies your team in Slack.
+[Activepieces](https://www.activepieces.com/) is an Open Source workflow automation platform, similar to [Zapier](https://zapier.com/) or [n8n](https://n8n.io/). It connects different systems so they can work together in automated workflows. For example, you might create a workflow where publishing a [Drupal](https://www.drupal.org/) article automatically creates a social media post, updates a Google Sheet, and notifies your team in Slack.
 
 There are two main ways to run Activepieces:
 

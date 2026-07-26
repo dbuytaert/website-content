@@ -10,7 +10,7 @@ type: blog
 tags:
   - Drupal
   - 'Open Web'
-  - Trends
+  - Apple
   - Publishing
 published: true
 id: 3381

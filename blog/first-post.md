@@ -11,6 +11,7 @@ tags:
   - Drupal
   - 'My site'
   - Writing
+  - 'Life events'
 published: true
 featured: false
 id: 5

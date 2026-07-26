@@ -12,6 +12,7 @@ tags:
   - Drupal
   - 'Drupal sites'
   - 'Drupal distributions'
+  - Seattle
 image: drupal/ymca-using-drupal
 published: true
 id: 3891

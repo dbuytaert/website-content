@@ -41,7 +41,7 @@ We organized dozens of sprints all around the world, and together hundreds of pe
 
 ## Drupal 8 accelerate fund
 
-Though it was launched just a month ago, the [Drupal Association](https://assoc.drupal.org/)'s [Drupal 8 Accelerate Fund](https://www.drupal.org/association/d8accelerate) is already helping to add velocity to Drupal 8, by paying key contributors to help fix particularly onerous critical issues.
+Though it was launched just a month ago, the [Drupal Association](https://www.drupal.org/association)'s [Drupal 8 Accelerate Fund](https://www.drupal.org/association/d8accelerate) is already helping to add velocity to Drupal 8, by paying key contributors to help fix particularly onerous critical issues.
 
 ## What is in store for 2015?
 
@@ -63,10 +63,10 @@ While this shift has big benefits in [making Drupal more sustainable](https://dr
 
 ### Improving our governance model
 
-There has also been a lot of talk about optimizing the way in which we work, to make it more explicit who is responsible for what, how decisions are made, and so on. This year I plan to work with others in the community to revamp Drupal core's governance model to bring more transparency and appoint additional leadership.
+There has also been a lot of talk about optimizing the way in which we work, to make it more explicit who is responsible for what, how decisions are made, and so on. This year I plan to work with others in the community to revamp Drupal Core's governance model to bring more transparency and appoint additional leadership.
 
 ## Conclusion
 
-Overall, I'm thrilled with the progress that the Drupal core contributors have made in 2014, and want to extend an enormous thanks to each and every one of our 2,500 contributors who have brought us this far. I'm feeling very positive about our momentum going into 2015.
+Overall, I'm thrilled with the progress that the Drupal Core contributors have made in 2014, and want to extend an enormous thanks to each and every one of our 2,500 contributors who have brought us this far. I'm feeling very positive about our momentum going into 2015.
 
 Drupal 8 will set a new standard for ease of use, power and flexibility, and will have something for everyone to love. Without a doubt, Drupal 8 will take our community to new heights. *Let's do this!*

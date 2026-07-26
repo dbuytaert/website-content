@@ -7,10 +7,12 @@ author:
 date: '2011-04-25T10:22:12-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Acquia beat its 450% revenue stretch goal for 2010 and is rewarding the whole company with a trip to Puerto Rico.'
 tags:
   - Acquia
 image: puerto-rico-2011/beach-on-private-island
 published: true
+featured: false
 id: 2316
 ---
 

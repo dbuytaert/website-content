@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - Invitations
+  - London
 published: true
 id: 2781
 ---

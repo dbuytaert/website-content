@@ -7,12 +7,14 @@ author:
 date: '2010-06-17T06:12:53-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Clickability's SaaS-versus-Open-Source comparison mixes up a licensing model with a delivery model, and Open Source SaaS offers the best of both."
 tags:
   - Drupal
   - 'Drupal Gardens'
   - FUD
   - 'Open Source'
 published: true
+featured: false
 id: 1706
 ---
 

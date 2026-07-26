@@ -10,7 +10,6 @@ type: blog
 tags:
   - Drupal
   - Usability
-  - Trends
 published: true
 featured: true
 id: 64

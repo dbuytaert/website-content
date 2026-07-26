@@ -13,6 +13,7 @@ tags:
   - 'Startup lessons'
   - Innovation
   - 'Business model'
+  - Amazon
 image: blog/business-model-innovation
 published: true
 featured: true

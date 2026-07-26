@@ -11,7 +11,6 @@ summary: 'Future web platforms need a runtime that isolates plugins in separate 
 tags:
   - Drupal
   - WordPress
-  - 'Software development'
 published: true
 featured: true
 id: 3211

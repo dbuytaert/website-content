@@ -10,6 +10,7 @@ type: blog
 summary: 'Gábor Hojtsy, Drupal 6 co-maintainer, married Zsuzsi in Hungary, with a celebration on the banks of the Danube.'
 tags:
   - Photography
+  - Wedding
 image: wedding-gabor-and-zsuzsi-2008/wedding-5
 published: true
 id: 487

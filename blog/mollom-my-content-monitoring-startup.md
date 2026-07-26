@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - Mollom
+  - 'Life events'
 published: true
 featured: true
 id: 420

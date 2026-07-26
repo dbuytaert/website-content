@@ -7,10 +7,12 @@ author:
 date: '2018-05-11T08:11:10-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "For years the Macintosh was Apple's main revenue source, bridging the desktop and mobile eras and keeping the company alive."
 tags:
   - Apple
 image: blog/imac-financial-lifeline
 published: true
+featured: false
 id: 4346
 ---
 

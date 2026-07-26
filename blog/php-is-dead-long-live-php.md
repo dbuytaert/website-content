@@ -9,6 +9,7 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Drupal
+  - PHP
 published: true
 id: 267
 ---

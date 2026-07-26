@@ -7,6 +7,7 @@ author:
 date: '2023-12-28T09:45:51-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: note
+summary: "How to use MariaDB's General Query Log to debug or inspect Drupal database queries."
 tags:
   - Drupal
   - MySQL

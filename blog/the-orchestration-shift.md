@@ -14,7 +14,6 @@ tags:
   - 'Artificial Intelligence'
   - Activepieces
   - 'Workflow orchestration'
-  - Trends
 image: blog/orchestration-shift
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_the-orchestration-shift-activity-7389263259708694528-h5qe' }

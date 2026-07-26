@@ -9,6 +9,8 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Drupal
+  - China
+  - Japan
 published: true
 id: 3216
 ---

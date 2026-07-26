@@ -7,10 +7,13 @@ author:
 date: '2006-03-20T16:00:00-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'A couple of photos from a memorable bachelor party that left everyone wiped out the next day.'
 tags:
   - Wedding
   - Friends
+  - 'Life events'
 published: true
+featured: false
 id: 36
 ---
 

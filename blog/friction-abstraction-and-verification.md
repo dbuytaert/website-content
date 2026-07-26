@@ -11,7 +11,6 @@ summary: 'AI agents favor software they can easily install, run, change, and ver
 tags:
   - 'Artificial Intelligence'
   - 'Open Source'
-  - 'Software development'
   - Usability
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/feed/update/urn:li:share:7469674277081067520/' }

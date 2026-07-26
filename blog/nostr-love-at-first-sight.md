@@ -12,6 +12,7 @@ tags:
   - 'Social media'
   - 'Open Web'
   - Blockchain
+  - Bitcoin
 image: blog/nostr
 published: true
 id: 5421

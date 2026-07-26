@@ -7,10 +7,11 @@ author:
 date: '2016-02-15T02:27:49-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Reflections from Davos on the Fourth Industrial Revolution, and a case for prioritizing technologies that advance the UN's Sustainable Development Goals rather than commercial returns alone."
 tags:
   - Policy
-  - Trends
 published: true
+featured: false
 id: 3566
 ---
 

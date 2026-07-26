@@ -7,12 +7,13 @@ author:
 date: '2018-10-31T11:10:18-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Headless commerce decouples the shopping front end from the commerce backend, benefiting developers, merchants, and shoppers, as shown by Acquia's partnership with Elastic Path."
 tags:
   - Drupal
   - Commerce
   - Acquia
-  - Trends
 published: true
+featured: false
 id: 4591
 ---
 

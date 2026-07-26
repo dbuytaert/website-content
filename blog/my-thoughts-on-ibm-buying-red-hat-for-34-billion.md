@@ -11,6 +11,7 @@ summary: 'IBM buying Red Hat should be great for Open Source, good for IBM and h
 tags:
   - 'Open Source'
   - Acquisitions
+  - IBM
 published: true
 featured: true
 id: 4576

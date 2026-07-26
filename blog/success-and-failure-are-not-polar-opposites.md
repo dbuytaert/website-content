@@ -7,9 +7,12 @@ author:
 date: '2018-07-25T21:05:47-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Enduring failure is often a precondition for success; Google's 2004 IPO letter embraced high-risk, high-reward bets."
 tags:
   - 'Startup lessons'
+  - Google
 published: true
+featured: false
 id: 4466
 ---
 

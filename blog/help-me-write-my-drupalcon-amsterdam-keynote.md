@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - DrupalCon
+  - Amsterdam
 published: true
 id: 3186
 ---

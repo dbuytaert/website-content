@@ -15,6 +15,7 @@ tags:
   - 'Drupal Starshot'
   - DrupalCon
   - 'Workflow orchestration'
+  - 'Drupal Canvas'
   - Vienna
 image: drupalcon-vienna-2025/driesnote
 published: true

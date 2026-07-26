@@ -9,6 +9,8 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Acquia
+  - Awards
+  - Belgium
 published: true
 id: 3256
 ---

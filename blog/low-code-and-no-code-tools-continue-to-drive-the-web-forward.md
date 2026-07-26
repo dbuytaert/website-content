@@ -11,7 +11,6 @@ summary: 'Low-code and no-code tools for the web are on a decade-long rise; they
 tags:
   - Drupal
   - Innovation
-  - Trends
 image: blog/low-code-no-code
 published: true
 id: 4911

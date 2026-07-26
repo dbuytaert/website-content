@@ -7,22 +7,19 @@ author:
 date: '2022-02-01T08:39:14-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Shooting with a manual Leica M10 rangefinder slows things down and turns photography into a mindful, meditative practice.'
 tags:
   - Photography
   - Boston
 image: miscellaneous-2022/phalanx-of-snow-plows
 published: true
+featured: false
 id: 5296
 ---
 
 # Photography as meditation
 
 ![Five snow plows driving behind each other during a Boston snowstorm.](http://default/files/cache/miscellaneous-2022/phalanx-of-snow-plows-640w.jpg)
-
-<div class="large">
-  ![Five snow plows driving behind each other during a Boston snowstorm.](http://default/files/cache/miscellaneous-2022/phalanx-of-snow-plows-640w.jpg)
-*A "phalanx of snow plows": five snow plows clearing Tremont Street during a major Boston snowstorm.*
-</div>
 
 I picked up a [Leica M10](https://en.wikipedia.org/wiki/Leica_M10) camera a few months ago. I've longed for a Leica camera for many, many years. The moment I finally held it, I knew it was something special.
 

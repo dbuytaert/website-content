@@ -10,7 +10,6 @@ type: blog
 tags:
   - Drupal
   - Usability
-  - Testing
 published: true
 id: 410
 ---

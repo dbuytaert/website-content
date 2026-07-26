@@ -7,6 +7,7 @@ author:
 date: '2020-05-11T15:00:16-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'The Drupal Association hit its $500,000 #DrupalCares goal in just over 30 days, half the planned 60.'
 tags:
   - Drupal
   - 'Drupal Association'
@@ -14,6 +15,7 @@ tags:
   - 'Open Source sustainability'
 image: drupal/blue-hearts-4
 published: true
+featured: false
 id: 5011
 ---
 
@@ -21,8 +23,8 @@ id: 5011
 
 ![A pattern of blue hearts with a large heart in the center featuring the Drupal logo.](http://default/files/cache/drupal/blue-hearts-4-640w.jpg)
 
-I'm excited to announce that the [Drupal Association](https://www.drupal.org/association) has reached its 60-day fundraising goal of $500,000. We also reached it in record time; in just over 30 days instead of the planned 60!
+I'm excited to announce that the [Drupal Association](https://www.drupal.org/association) has reached its 60-day fundraising goal of $500,000. We also reached it in record time – in just over 30 days instead of the planned 60!
 
-It has been really inspiring to see how the community rallied to help. With this behind us, we can look forward to [the planned launch of Drupal 9 on June 3rd](https://dri.es/plan-for-drupal-9) and [our first virtual DrupalCon in July](https://events.drupal.org/global2020).
+It has been really inspiring to see how the community rallied to help. With this behind us, we can look forward to [the planned launch of Drupal 9 on June 3](https://dri.es/plan-for-drupal-9) and [our first virtual DrupalCon in July](https://events.drupal.org/global2020).
 
-I'd like to thank all of the individuals and organizations who contributed to the #DrupalCares fundraising campaign. The [Drupal community](https://www.drupal.org/) is stronger than ever! *Thank you!*
+I'd like to thank all of the individuals and organizations that contributed to the #DrupalCares fundraising campaign. The [Drupal community](https://www.drupal.org/) is stronger than ever! *Thank you!*

@@ -7,11 +7,13 @@ author:
 date: '2006-08-22T11:42:34-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Maintainers of popular Drupal modules must take responsibility by delegating and building a team, since volunteers can't be forced to rescue an unmaintained project."
 tags:
   - Drupal
   - Leadership
   - 'Open Source sustainability'
 published: true
+featured: false
 id: 126
 ---
 

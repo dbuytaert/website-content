@@ -11,7 +11,6 @@ tags:
   - Drupal
   - DrupalCon
   - Usability
-  - Testing
 published: true
 id: 396
 ---

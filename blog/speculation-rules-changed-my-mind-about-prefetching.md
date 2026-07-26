@@ -7,6 +7,7 @@ author:
 date: '2026-06-05T10:37:35-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'The Speculation Rules API allows conservative, intentional and respectful prefetching.'
 tags:
   - 'My site'
   - 'Web performance'

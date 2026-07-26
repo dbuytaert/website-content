@@ -12,7 +12,6 @@ tags:
   - 'Artificial Intelligence'
   - Automation
   - Drupal
-  - 'Software development'
 image: miscellaneous-2020/ceramics-2
 published: true
 featured: false

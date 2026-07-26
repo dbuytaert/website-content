@@ -10,7 +10,9 @@ type: blog
 tags:
   - Drupal
   - Wedding
+  - 'Life events'
 published: true
+featured: false
 id: 34
 ---
 

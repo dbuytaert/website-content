@@ -7,6 +7,7 @@ author:
 date: '2025-10-09T11:41:43-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: note
+summary: 'A Python script to extract speaker notes from PowerPoint files into a text file, one section per slide.'
 tags:
   - Python
   - Automation

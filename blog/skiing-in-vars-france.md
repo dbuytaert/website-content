@@ -7,6 +7,7 @@ author:
 date: '2015-04-13T08:02:07-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'A first attempt at shooting and editing GoPro video while skiing in the French Alps.'
 tags:
   - Skiing
   - Travel
@@ -18,8 +19,8 @@ id: 3361
 
 # Skiing in Vars, France
 
-While I love photography, I never really got into video. Because I'm not the guy to pull off flips on skis or jump out of planes, I never considered myself the target audience for a [GoPro](http://gopro.com). However, [I got a GoPro for Christmas](https://dri.es/album/christmas-2014/christmas-19) and was eager to try it on a ski trip to the French Alps. 
+While I love photography, I never really got into video. Because I'm not the guy to pull off flips on skis or jump out of planes, I never considered myself the target audience for a [GoPro](http://gopro.com). However, [I got a GoPro for Christmas](https://dri.es/album/christmas-2014/christmas-19) and was eager to try it on a ski trip to the French Alps.
 
-Below is my first attempt at shooting and editing video. The French Alps are stunning and that alone is reason to watch the video. No doubt I have to hone my skills – both shooting and in the editing room – and it wouldn't hurt if I could pull off a flip on my skis either. ;-)
+Below is my first attempt at shooting and editing video. The French Alps are stunning, and that alone is reason enough to watch the video. No doubt, I have to hone my skills – both behind the camera and in the editing room – and it wouldn't hurt if I could pull off a flip on my skis either. ;-)
 
 https://www.youtube.com/watch?v=A7o-MNtYP6Y

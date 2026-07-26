@@ -11,7 +11,6 @@ summary: "Is the future of marketing technology best-of-breed or an all-in-one-p
 tags:
   - Acquia
   - Marketing
-  - Trends
 image: acquia/user-profile-puzzle
 published: true
 id: 5491

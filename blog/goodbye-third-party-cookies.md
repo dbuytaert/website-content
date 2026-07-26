@@ -11,6 +11,7 @@ summary: 'The phase-out of invasive third-party cookies marks a big step towards
 tags:
   - 'Open Web'
   - Privacy
+  - Google
 image: drupal/cookieless-future
 published: true
 id: 5561

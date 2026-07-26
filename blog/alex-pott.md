@@ -7,6 +7,7 @@ author:
 date: '2013-04-02T01:45:45-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Alex Pott joins as a Drupal 8 core co-maintainer, bringing deep experience from the Configuration Management Initiative.'
 tags:
   - Drupal
   - 'Branch maintainer'

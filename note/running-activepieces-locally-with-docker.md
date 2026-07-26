@@ -7,6 +7,7 @@ author:
 date: '2025-11-07T04:15:28-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: note
+summary: 'A single Docker command runs Activepieces locally, letting you build workflows that connect to a Drupal site developed with DDEV.'
 tags:
   - Activepieces
   - Drupal
@@ -18,7 +19,7 @@ id: 5921
 
 # Running Activepieces locally with Docker
 
-For [Drupal](https://www.drupal.org/) developers, [Activepieces](https://www.activepieces.com/) makes it easy to connect Drupal to other systems. Think of it as an open source alternative to tools like [Zapier](https://zapier.com/) or [n8n](https://n8n.io/), but with an MIT license.  
+For [Drupal](https://www.drupal.org/) developers, [Activepieces](https://www.activepieces.com/) makes it easy to connect Drupal to other systems. Think of it as an Open Source alternative to tools like [Zapier](https://zapier.com/) or [n8n](https://n8n.io/), but with an MIT license.  
 
 For example, you can create a workflow that runs when new content is published in [Drupal](https://www.drupal.org/) and automatically sends it to [Slack](https://slack.com/), [Google Sheets](https://www.google.com/sheets/about/), or social media. You can also trigger Drupal actions, such as creating new content or updating user data, when something changes in [Salesforce](https://www.salesforce.com/), [GitHub](https://github.com/), or [Airtable](https://www.airtable.com/).
 
@@ -26,7 +27,7 @@ This guide covers running [Activepieces](https://www.activepieces.com/) locally 
 
 When you develop Drupal sites locally, Activepieces Cloud can't reach them. You could use a tunneling service like [ngrok](https://ngrok.com/) to expose your local environment to the internet, but that adds extra complexity.
 
-Instead, we can run an open source copy of Activepieces locally using [Docker](https://www.docker.com/). This gives you a fully configured Activepieces instance that can communicate directly with your local [Drupal](https://www.drupal.org/) site. You can get up and running in just a few minutes with a single command.
+Instead, we can run an Open Source copy of Activepieces locally using [Docker](https://www.docker.com/). This gives you a fully configured Activepieces instance that can communicate directly with your local [Drupal](https://www.drupal.org/) site. You can get up and running in just a few minutes with a single command.
 
 ## Contributing to the Drupal Piece
 

@@ -7,6 +7,7 @@ author:
 date: '2026-05-14T17:12:53-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Acquia's Fair Trade Initiative routes 2% of each partner deal to the Drupal Association, funding Drupal automatically as the business grows."
 tags:
   - Drupal
   - 'Drupal Association'

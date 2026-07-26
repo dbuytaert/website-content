@@ -7,10 +7,12 @@ author:
 date: '2007-09-17T16:36:48-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "An interview for Linux For You magazine traces Drupal's history from its drop.org origins to version 5.1."
 tags:
   - Drupal
   - Press
 published: true
+featured: false
 id: 326
 ---
 

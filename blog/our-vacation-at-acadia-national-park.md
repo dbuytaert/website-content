@@ -53,9 +53,6 @@ Acadia's rocky landscape dates back to more than 500 million years ago. It's the
 
 This beautiful landscape is perfect for hiking so on the second day of our vacation, we decided to take our first hike: Acadia Mountain Trail. The forested trail quickly makes its ascent up Acadia Mountain, with a few sections of relatively steep rock formations that require a bit of scrambling. Once at the top, the trail took us along the ridge of the mountain with great views into Somes Sound and the Atlantic Ocean.
 
-![Three people hike down a rocky trail with a scenic view of water, islands, and greenery in the distance.](http://default/files/cache/maine-2018/acadia-mountain-trail-2-640w.jpg)
-*The stunning view from Acadia Mountain Trail.*
-
 Coming down was harder than going up; the trail down is steep. Vanessa and I often had to sit down and hop off the rocks. Axl and Stan, on the other hand, hopped down the rocks like the elves in [The Hobbit](https://en.wikipedia.org/wiki/The_Hobbit_(film_series)). We were happily surprised how much they loved hiking. Axl even declared he enjoyed hiking much more than walking, because "walking is exhausting" to him.
 
 ![Three hikers carefully climb down a steep, rocky trail, using their hands and walking sticks for support.](http://default/files/cache/maine-2018/acadia-mountain-trail-1-640w.jpg)

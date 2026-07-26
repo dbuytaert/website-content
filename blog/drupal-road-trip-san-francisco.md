@@ -7,8 +7,10 @@ author:
 date: '2006-06-17T15:45:33-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "As Drupal grows beyond a hobby project, a June road trip to San Francisco sets up meetings with FOSS leaders like Tim O'Reilly, Mitch Kapor, and Brian Behlendorf."
 tags:
   - Drupal
+  - Travel
   - 'San Francisco'
 published: true
 featured: false

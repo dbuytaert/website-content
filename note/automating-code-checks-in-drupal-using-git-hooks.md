@@ -7,6 +7,7 @@ author:
 date: '2023-12-07T09:28:35-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: note
+summary: 'Using Git pre-commit hooks to automatically run phpcbf and phpstan on Drupal code.'
 tags:
   - Drupal
   - Automation

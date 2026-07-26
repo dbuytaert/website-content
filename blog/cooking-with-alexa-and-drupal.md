@@ -12,6 +12,7 @@ tags:
   - Drupal
   - Acquia
   - Amazon
+  - Cooking
 image: acquia/cooking-with-alexa
 published: true
 id: 4216

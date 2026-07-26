@@ -13,6 +13,7 @@ tags:
   - NowPublic
   - DrupalCon
   - 'Drupal Association'
+  - Barcelona
 image: drupalcon-barcelona-2007/departure
 published: true
 id: 327

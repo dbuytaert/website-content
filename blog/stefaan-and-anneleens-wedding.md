@@ -11,6 +11,7 @@ summary: "Canceled flights, a mad taxi dash across New York, and lost luggage on
 tags:
   - Photography
   - Friends
+  - Wedding
 image: wedding-stefaan-and-anneleen-2008/marriage-11
 published: true
 id: 409

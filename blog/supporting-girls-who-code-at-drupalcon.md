@@ -11,7 +11,6 @@ tags:
   - Drupal
   - Diversity
   - DrupalCon
-  - Diversity
 published: true
 id: 4806
 ---

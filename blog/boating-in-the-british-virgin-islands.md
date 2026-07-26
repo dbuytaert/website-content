@@ -7,12 +7,14 @@ author:
 date: '2022-05-31T10:41:02-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'A week aboard a power catamaran island-hopping the British Virgin Islands, ending with a passed boating license exam.'
 tags:
   - Photography
   - Travel
   - 'British Virgin Islands'
 image: british-virgin-islands-2022/navigation-planning
 published: true
+featured: false
 id: 5336
 ---
 
@@ -49,8 +51,5 @@ After our swim, we'd take our dinghy to shore to explore the island of the day. 
 *Taking our dinghy to a restaurant on shore.*
 
 Each island has perfect soft sand and pristine turquoise water. But each island also has something unique to offer; Cooper Island had a rum bar with a selection of 300 rums; Jost Van Dyke had an amazing beach bar (the famous Soggy Dollar who invented the Painkiller); Trellis Bay has a great sushi restaurant; and The Baths are a unique national park, and a must-see attraction.
-
-![A hand on top of a nautical chart and next to a course plotter](http://default/files/cache/british-virgin-islands-2022/navigation-planning-640w.jpg)
-*Navigation planning using a nautical chart, course plotter, and brass dividers.*
 
 Every day, we had classroom-style learning and practiced driving the boat. This included navigation planning, docking exercises, man-overboard maneuvers, anchoring, and more. At the end of the week, I took the theoretical and practical exams, and passed! Next time, I'll be able to charter my own boat.

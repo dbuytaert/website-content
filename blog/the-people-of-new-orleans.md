@@ -7,12 +7,14 @@ author:
 date: '2016-05-14T12:15:16-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Street photography from New Orleans, capturing everyday life and a few tense moments on the city's streets."
 tags:
   - Photography
   - Travel
   - 'New Orleans'
 image: new-orleans-2016/street-life-2
 published: true
+featured: false
 id: 3676
 ---
 

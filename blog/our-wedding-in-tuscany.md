@@ -13,7 +13,7 @@ tags:
   - Family
   - Travel
   - Vanessa
-  - 'Van life'
+  - 'Life events'
   - Italy
 image: wedding-dries-and-vanessa-2019/vineyard-2
 published: true

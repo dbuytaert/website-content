@@ -7,9 +7,12 @@ author:
 date: '2024-06-26T05:47:19-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: note
+summary: 'Tips and tricks for brewing perfect coffee with a moka pot or percolator while camping. Enjoy great coffee in the great outdoors!'
 tags:
+  - 'Van life'
   - Coffee
 published: true
+featured: false
 id: 5636
 ---
 

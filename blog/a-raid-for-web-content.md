@@ -7,6 +7,7 @@ author:
 date: '2025-12-16T07:22:03-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Applying RAID thinking to digital preservation: spread web content across GitHub, the Internet Archive, IPFS, and blockchain storage so no single failure loses it.'
 tags:
   - 'Digital preservation'
 published: true

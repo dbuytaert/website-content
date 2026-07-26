@@ -7,9 +7,10 @@ author:
 date: '2026-01-12T12:07:49-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Automated testing let Drupal commit to backward compatibility without accumulating baggage, proving a 20-year-old prediction wrong.'
 tags:
   - Drupal
-  - Testing
+  - 'Automated testing'
 image: drupal/test-coverage-2026
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_when-backward-compatibility-became-an-advantage-activity-7416535178132566016-ro2O' }

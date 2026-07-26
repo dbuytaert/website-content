@@ -7,9 +7,11 @@ author:
 date: '2025-01-09T02:38:32-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Transition from CTO and CSO to Executive Chairman at Acquia, with a continued commitment to leading the Drupal project.'
 tags:
   - Acquia
   - 'Leadership updates'
+  - 'Life events'
 published: true
 featured: false
 id: 5736

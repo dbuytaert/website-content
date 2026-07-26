@@ -12,6 +12,7 @@ tags:
   - Drupal
   - 'Drupal Association'
   - Acquia
+  - 'Life events'
 image: acquia/acquia-com-march-2008
 discussions:
   - { platform: 'Hacker News', url: 'https://news.ycombinator.com/item?id=38479329' }

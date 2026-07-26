@@ -13,7 +13,6 @@ tags:
   - 'My site'
   - Policy
   - 'Artificial Intelligence'
-  - Trends
 image: blog/endless-server-power
 published: true
 featured: true

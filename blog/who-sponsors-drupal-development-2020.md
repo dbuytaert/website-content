@@ -63,30 +63,30 @@ In total, the Drupal community worked on 4,195 different Drupal.org projects thi
 <small>
   <table>
   <colgroup>
-   <col style="width: 20%">
-   <col style="width: 40%">
-   <col style="width: 40%">
- </colgroup>
+  <col style="width: 20%">
+  <col style="width: 40%">
+  <col style="width: 40%">
+</colgroup>
   <tr>
-   <th>Time period</th>
-   <th style="text-align: right;">Number of issues "fixed" or "closed" by day</th>
-   <th style="text-align: right;">Number of projects worked on</th>
- </tr>
+  <th>Time period</th>
+  <th style="text-align: right;">Number of issues "fixed" or "closed" by day</th>
+  <th style="text-align: right;">Number of projects worked on</th>
+</tr>
   <tr>
-   <td>2017 - 2018</td>
-   <td style="text-align: right;">67</td>
-   <td style="text-align: right;">3,229</td>
- </tr>
+  <td>2017 - 2018</td>
+  <td style="text-align: right;">67</td>
+  <td style="text-align: right;">3,229</td>
+</tr>
   <tr>
-   <td>2018 - 2019</td>
-   <td style="text-align: right;">75</td>
-   <td style="text-align: right;">3,474</td>
- </tr>
+  <td>2018 - 2019</td>
+  <td style="text-align: right;">75</td>
+  <td style="text-align: right;">3,474</td>
+</tr>
   <tr>
-   <td>2019 - 2020</td>
-   <td style="text-align: right;">85</td>
-   <td style="text-align: right;">4,195</td>
- </tr>
+  <td>2019 - 2020</td>
+  <td style="text-align: right;">85</td>
+  <td style="text-align: right;">4,195</td>
+</tr>
 </table>
 </small>
 
@@ -155,9 +155,9 @@ A variety of different types of companies are active in Drupal's ecosystem:
 <table>
   <thead>
   <tr>
-   <th>Category</th>
-   <th>Description</th>
- </tr>
+  <th>Category</th>
+  <th>Description</th>
+</tr>
 </thead>
   <tr>
   <td>Traditional Drupal businesses</td>

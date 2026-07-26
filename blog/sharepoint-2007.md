@@ -12,7 +12,6 @@ tags:
   - SharePoint
   - Alfresco
   - Microsoft
-  - Trends
 published: true
 id: 193
 ---

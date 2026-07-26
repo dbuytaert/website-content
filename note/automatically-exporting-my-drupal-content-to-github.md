@@ -7,6 +7,7 @@ author:
 date: '2026-01-24T08:54:08-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: note
+summary: 'A daily Drupal-to-GitHub export using SSH deploy keys, a custom Drush command, and a scheduled job.'
 tags:
   - Drupal
   - 'Acquia Cloud'

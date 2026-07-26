@@ -21,4 +21,4 @@ The European Commission published an interesting [study on the impact of Free an
 
 I can't speak for other projects but Drupal is in high demand, and there is a shortage of talented Drupal developers and consultants on the market.
 
-Either way, make sure you can put "solid understanding of open source software development" on your resume. It increases your market value. And you'll have more fun too.
+Either way, make sure you can put "solid understanding of Open Source software development" on your resume. It increases your market value. And you'll have more fun too.

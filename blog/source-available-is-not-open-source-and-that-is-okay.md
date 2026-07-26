@@ -7,6 +7,7 @@ author:
 date: '2025-12-09T17:22:43-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "DHH's Fizzy license blocks competing SaaS offerings, so it is source available, not Open Source, which has a specific shared meaning; the real issue is sustainability."
 tags:
   - 'Open Source'
   - WordPress

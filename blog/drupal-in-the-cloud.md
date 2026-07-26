@@ -12,6 +12,7 @@ tags:
   - Drupal
   - 'Web performance'
   - MySQL
+  - Amazon
 published: true
 id: 428
 ---

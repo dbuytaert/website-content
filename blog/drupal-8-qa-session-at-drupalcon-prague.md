@@ -10,6 +10,7 @@ type: blog
 tags:
   - Drupal
   - DrupalCon
+  - Prague
 published: true
 id: 3016
 ---

@@ -9,7 +9,6 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Drupal
-  - Trends
 image: drupalcon-san-francisco-2010/ipad-ad
 published: true
 id: 1886
