@@ -14,16 +14,17 @@ id: 3366
 
 # Subscribe
 
-## Blog
+## New blog posts
 
-- [Blog posts by email](https://buttondown.com/dries-buytaert-blog)
-- [Blog RSS feed](https://dri.es/rss.xml)
+[subscribe blog]
 
-## Photos
+<br />
+You'll receive an email from Buttondown asking you to confirm your subscription. You can unsubscribe at any time.
 
-- [Photos by email](https://buttondown.com/dries-buytaert-photos) (monthly)
-- [Photos RSS feed](https://dri.es/photos.xml)
+## Monthly photos
 
-## Social media
+[subscribe photos]
+
+## Follow me elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/buytaert/)
