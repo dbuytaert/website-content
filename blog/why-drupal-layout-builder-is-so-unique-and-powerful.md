@@ -19,7 +19,7 @@ id: 4606
 
 ![The Drupal 8 Layout Builder showing a templated gift basket](http://default/files/cache/drupal/layout-builder-gift-basket-regular-640w.png)
 
-Content authors want an easy-to-use page building experience; they want to create and design pages using drag-and-drop and WYSIWYG tools. For over a year the Drupal community has been working on a new Layout Builder, which is designed to bring this page building capability into Drupal core.
+Content authors want an easy-to-use page building experience; they want to create and design pages using drag-and-drop and WYSIWYG tools. For over a year the Drupal community has been working on a new Layout Builder, which is designed to bring this page building capability into Drupal Core.
 
 Drupal's upcoming Layout Builder is unique in offering a single, powerful visual design tool for the following three use cases:
 
@@ -34,8 +34,6 @@ Let's look at all three use cases in more detail to explain why we think this is
 For large sites with significant amounts of content it is important that the same types of content have a similar appearance.
 
 A commerce site selling hundreds of different gift baskets with flower arrangements should have a similar layout for all gift baskets. For customers, this provides a consistent experience when browsing the gift baskets, making them easier to compare. For content authors, the templated approach means they don't have to worry about the appearance and layout of each new gift basket they enter on the site. They can be sure that once they have entered the price, description, and uploaded an image of the item, it will look good to the end user and similar to all other gift baskets on the site.
-
-![The Drupal 8 Layout Builder showing a templated gift basket](http://default/files/cache/drupal/layout-builder-gift-basket-regular-640w.png)
 
 Drupal 8's new Layout Builder allows a site creator to visually create a layout template that will be used for each item of the same content type (e.g. a "gift basket layout" for the "gift basket" content type). This is possible because the Layout Builder benefits from Drupal's powerful "structured content" capabilities.
 

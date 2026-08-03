@@ -254,9 +254,6 @@ Composable content does not necessarily mean headless CMSes are de facto the bes
 
 ## <a id="principle-6">Principle 6: A platform approach requires diverse experience composition and delivery methods</a>
 
-![Hand-drawing of a person juggling different dimensions. Dimensions are balls with labels: cost, simple, complex, etc.](http://default/files/cache/acquia/composable-dxp-principle-6-640w.png)
-*Juggling different experience composition and delivery options.*
-
 If you're like most organizations, the number of digital experience applications you have continues to grow, not shrink.
 
 Different sites also have different scale, functionality, complexity and longevity. Some experiences are continuously developed, while others are only around for a few months. Some are built by IT, others by marketing. Some sites get a thousand visitors a month, others get 100 million visitors a month.

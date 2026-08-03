@@ -7,23 +7,31 @@ author:
 date: '2011-07-17T13:48:54-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Back in Belgium after a year in the US, I enjoyed a homemade lunch and the taste of home I had been missing.'
 tags:
   - Photography
   - Belgium
   - Antwerp
+image: antwerp-2011/lunch-1
 published: true
+featured: false
 id: 2426
 ---
 
 # Craving a taste of home: Belgian lunch
 
-I've been living in the US for over a year now but am currently in Belgium for a short vacation. For the past year, I've been craving a taste of home; not all Belgian food is available in the US and even when it is, it can taste differently.
-
-When we arrived in Belgium this weekend, my mother prepared us lunch. It tasted so good. Nothing like eating at home. The foodie in me was reminded of all the things I miss, and the photographer in me wanted to take some pictures to remind myself once we're back in the US.
-
-Which foods do you miss from your home country or home town?
-
 ![An assortment of spreads, cheese, and condiments on a table, ready for lunch.](http://default/files/cache/antwerp-2011/lunch-1-640w.jpg)
+
+I've been living in the US for over a year now but am currently in Belgium for a short vacation.
+
+For the past year, I've been craving a taste of home; not all Belgian food is available in the US, and even when it is, it can taste different.
+
+When we arrived in Belgium this weekend, my mother prepared us lunch. It tasted so good. There's nothing like eating at home.
+
+The foodie in me was reminded of all the things I miss, and the photographer in me wanted to take some pictures to remind myself of them once we're back in the US.
+
+Which foods do you miss from your home country or hometown?
+
 ![A table set for lunch with bread rolls, spreads, jam, and packets of sauce on a tray.](http://default/files/cache/antwerp-2011/lunch-2-640w.jpg)
 ![A basket filled with various types of bread, including sliced whole grain and soft white rolls, on a table.](http://default/files/cache/antwerp-2011/lunch-3-640w.jpg)
 ![A basket filled with croissants and bread rolls on a colorful napkin, ready to be served for lunch.](http://default/files/cache/antwerp-2011/lunch-4-640w.jpg)

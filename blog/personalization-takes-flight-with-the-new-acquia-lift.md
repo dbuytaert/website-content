@@ -7,11 +7,13 @@ author:
 date: '2016-10-17T19:16:05-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'The new Acquia Lift personalization tool adds an outside-in sidebar UI, unified content and customer data, an open API, and support for any website.'
 tags:
   - Drupal
   - Acquia
   - 'Acquia Lift'
 published: true
+featured: false
 id: 3796
 ---
 

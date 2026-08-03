@@ -26,6 +26,6 @@ Take a look at [the photo gallery](https://dri.es/album/drupalcon-sunnyvale-2007
 
 ![A staff member at the registration desk works on a laptop under a large Yahoo! sign.](http://default/files/cache/drupalcon-sunnyvale-2007/registration-desk-640w.jpg)
 *The registration desk at Yahoo!.*
-![A large group of conference attendees sit closely together, using laptops, phones, and conversing during a session.](http://default/files/cache/drupalcon-sunnyvale-2007/attendees-640w.jpg)
+
 ![Rain-covered airport window with a blurry view of airplanes and ground crew preparing for departure.](http://default/files/cache/drupalcon-sunnyvale-2007/going-home-640w.jpg)
 *On our way home, sun turned into rain ...*

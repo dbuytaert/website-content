@@ -28,9 +28,6 @@ An hour after that initial stitch in my side, I couldn't explain the pain away a
 
 I was scared. This was a pain I didn't recognize and more intense than any pain I had ever experienced. By 9pm I asked Vanessa to drive me to the Emergency Room. Once at the ER, they had me on morphine within 45 minutes.
 
-![Selfie of Dries on the hospital bed](http://default/files/cache/miscellaneous-2021/in-emergency-room-with-kidney-stone-1-640w.jpg)
-*Emergency room selfie.*
-
 After 5 and a half hours at the ER, the doctors concluded I had a kidney stone. An X-ray revealed that it was 4mm in size, and I was told it should pass on its own. They sent me home around 3am with some oxycodone (opioids) to help manage the pain throughout the night.
 
 I spent the rest of this week in bed on drugs. Today, a few days later, my kidney feels 'bruised'. The 'sharp pain' is replaced by an 'aching pain' – like I got punched in the stomach rather than stabbed with a knife. While not a great feeling, it's a much better feeling.

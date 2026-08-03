@@ -7,6 +7,7 @@ author:
 date: '2021-10-28T17:29:23-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'My Acquia Engage 2021 keynote covered how the Acquia DXP fixes broken digital workflows across marketing and IT, with product demos.'
 tags:
   - Acquia
   - 'Acquia Cloud'
@@ -32,9 +33,9 @@ We showcased innovations in the following areas:
 
 - **DevOps:** Connecting developers with all the tools they need to plan, build, review, and test any Drupal application, all in a 100% cloud-based development environment.
 - **WebOps:** Automating testing, deployment, and scaling of Drupal applications to fuel faster innovation with maximum security, availability, and resiliency.
-- **ExperienceOps:** Empowering marketers with new low-code / no-code tools to rapidly compose digital experiences, including digital commerce experiences. These tools use reusable application and design components.
-- **ContentOps:** Connecting marketers with all the tools they need to create, collaborate, review, and share any kind of content across omni-channel campaigns.
+- **ExperienceOps:** Empowering marketers with new low-code/no-code tools to rapidly compose digital experiences, including digital commerce experiences. These tools use reusable application and design components.
+- **ContentOps:** Connecting marketers with all the tools they need to create, collaborate, review, and share any kind of content across omnichannel campaigns.
 - **CampaignOps:** Streamlining creation, targeting, execution, and optimization of digital campaigns within a framework of overall brand governance and privacy compliance.
 - **MLOps:** Industrializing the application of machine learning to real-world digital workflows and experiences. New features help both data scientists and marketers continuously optimize each customer's unique journey.
 
-I want to thank the product and engineering teams at Acquia for working incredibly hard to deliver all of these new innovations. I'm proud of the work the Acquia team has done to create this event for our customers and partners.
+I want to thank the product and engineering teams at Acquia for working incredibly hard to deliver all of these innovations. I'm proud of the work the Acquia team has done to create this event for our customers and partners.

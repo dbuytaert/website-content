@@ -23,8 +23,6 @@ id: 4481
 
 Today, [Acquia](https://acquia.com) was named a leader in the [2018 Gartner Magic Quadrant for Web Content Management](https://www.acquia.com/resources/whitepaper/2018-gartner-magic-quadrant-web-content-management). Acquia has now been recognized as a leader for [five years in a row](https://dri.es/tag/gartner).
 
-![A graph showing the state of the Web Content Management market in 2018. Vendors are plotted on a grid based on their ability to execute and completeness of vision. Acquia is placed in the 'Leaders' quadrant, indicating strong performance in both vision and execution.](http://default/files/cache/acquia/gartner-magic-quadrant-for-web-content-management-2018-640w.jpg)
-
 Analyst reports like the Gartner Magic Quadrant are important because they introduce organizations to [Acquia](https://acquia.com) and [Drupal](https://drupal.org). Last year, I explained it in the following way: <q>If you want to find a good coffee place, you use Yelp. If you want to find a nice hotel in New York, you use TripAdvisor. Similarly, if a CIO or CMO wants to spend $250,000 or more on enterprise software, they often consult an analyst firm like Gartner.</q>.
 
 <p class="pullquote">Our tenure as a top vendor is not only a strong endorsement of <a href="https://dri.es/the-evolution-of-acquia-product-strategy">Acquia's strategy and vision</a>, but also underscores our consistency. Drupal and Acquia are here to stay!</p>

@@ -10,15 +10,12 @@ type: blog
 summary: 'The web could benefit from more semantic HTML elements so information is easier to author and reuse.'
 tags:
   - 'Semantic web'
-image: blog/wikipedia-timbl-markup
 published: true
 featured: true
 id: 5126
 ---
 
 # Can someone add some more HTML tags, please?
-
-![The markup for Tim Berners-Lee's Wikipedia page; it's complex and inconsistent](http://default/files/images/blog/wikipedia-timbl-markup.png)
 
 Every day, millions of new web pages are added to the internet. Most of them are unstructured, uncategorized, and nearly impossible for software to understand. It irks me.
 

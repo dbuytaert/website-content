@@ -24,12 +24,7 @@ I'm frequently sent examples of how Drupal has changed the lives of developers, 
 
 In early 2018, Race Director Mike Jones was looking to build a new website for the Ultra-Trail Snowdonia ultra marathon. He reached out to a good friend and developer, Rob Edwards, to lead the development of the website.
 
-<div class="large">
-  ![A photo of a runner at the Ultra-trail Snowdonia ultramarathon](http://default/files/cache/drupal/ultra-trail-snowdonia-2018-1-640w.jpg)
-*&copy; Ultra-trail Snowdonia and No Limits Photography*
-</div>
-
-Rob chose Drupal for its flexibility and extensibility. As an organization supported heavily by volunteers, open source also fit the Snowdonia team's belief in community.
+Rob chose Drupal for its flexibility and extensibility. As an organization supported heavily by volunteers, Open Source also fit the Snowdonia team's belief in community.
 
 The resulting website, <https://apexrunning.co/>, included a custom-built timing module. This module allowed volunteers to register each runner and their time at every aid stop.
 

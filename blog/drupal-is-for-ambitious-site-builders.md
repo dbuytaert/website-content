@@ -35,10 +35,6 @@ To align with that purpose, and to drive the most impact, our vision also has to
 
 That is why I propose evolving our vision statement to **"Drupal is for ambitious site builders"**.
 
-<div class="large">
-  ![A futuristic scene with a person and a robot overlooking a city, featuring the text "Drupal is for ambitious site builders.](http://default/files/cache/drupalcon-portland-2022/drupal-is-for-ambitious-site-builders-640w.png)
-</div>
-
 Attracting more Drupal site builders will increase Drupal's potential user base, and in turn create a more open, accessible and inclusive web for all.
 
 This shift also brings us back to our roots, which I've talked about [in several of my previous DrupalCon keynotes](https://dri.es/state-of-drupal-presentation-april-2021).

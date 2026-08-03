@@ -27,8 +27,6 @@ In Open Source, there is a long-held belief in [meritocracy](https://en.wikipedi
 
 ## Open Source is not a meritocracy
 
-![Free time to contribute is a privilege](http://default/files/cache/blog/free-time-to-contribute-is-a-privilege-640w.png)
-
 I incorrectly [made this assumption](https://dri.es/on-being-able-to-be-the-best) myself, saying: <q>The only real limitation [to Open Source contribution] is your willingness to learn</q>.
 
 Today, I've come to understand that inequality makes it difficult for underrepresented groups to have the "free time" it takes to contribute to Open Source.

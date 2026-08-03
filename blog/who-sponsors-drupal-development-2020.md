@@ -104,8 +104,6 @@ It is nice to see the "non-product credits" grow. More and more members in the c
 
 For this report's time period, Drupal.org's credit system received contributions from 8,303 different individuals and 1,216 different organizations. We saw a 2.5% decline in individual contributors, but a 7% increase in organizational contributors.
 
-![A graph showing the number of individual and organizational contributors year over year.](http://default/files/cache/drupal/contributions-by-individuals-vs-organizations-2020-640w.png)
-
 Consistent with previous years, approximately 50% of individual contributors received one credit. Meanwhile, the top 30 contributors (the top 0.4%) account for 20% of the total credits. In other words, a small number of individuals do the majority of the work.
 
 Starting last year, I weighted each credit based on the adoption of the project the credit is attributed to. For example, each contribution credit to Drupal Core is given a weight of 10 because Drupal Core has about 1 million active installations. Credits to the [Webform module](https://www.drupal.org/project/webform), which has over 470,000 installations, get a weight of 4.7. And credits to [Drupal's Commerce project](https://www.drupal.org/project/commerce) get 0.6 points, as it is installed on around 60,000 sites.

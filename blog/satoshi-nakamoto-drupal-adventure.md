@@ -32,8 +32,6 @@ Satoshi and Martti worked together on a variety of different things, including t
 
 And to my surprise, the emails reveal they chose [Drupal](https://www.drupal.org/) as their preferred CMS! (Thanks to [Jeremy Andrews](https://www.drupal.org/u/jeremy) for making me aware.)
 
-![Email from Satoshi Nakamoto to Martti Malmi, dated December 2009, about Bitcoin's new Drupal site going online and being an improvement over the old bitcoin.org page.](http://default/files/cache/drupal/satoshi-martti-drupal-1-640w.png)
-
 The emails detail Satoshi's hands-on involvement, from installing Drupal themes, to configuring Drupal's `.htaccess` file, to exploring Drupal's multilingual capabilities.
 
 ![Email from Satoshi Nakamoto to Martti Malmi, dated November 2009, discussing Drupal themes installation and comparing Drupal and Joomla!.](http://default/files/cache/drupal/satoshi-martti-drupal-2-640w.png)

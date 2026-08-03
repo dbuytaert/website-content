@@ -26,9 +26,6 @@ I feel a mix of emotions. Sadness, because Steve has been a valued leader and co
 
 Steve worked incredibly hard, cared deeply about customers, and built genuine relationships with so many people across the company. Under his leadership, Acquia became more efficient, launched new products, strengthened its Open Source commitment, and grew with financial discipline. He created a strong foundation for our future, and I want to sincerely thank him for his leadership.
 
-![Steve Reny shakes hands with a partner on stage at Acquia Engage London.](http://default/files/cache/acquia/steve-reny-at-acquia-engage-640w.jpg)
-*Steve Reny congratulating a partner at Acquia Engage.*
-
 At the same time, I am very excited to welcome Chris Tranquill as our new CEO. Chris brings more than 25 years of experience in enterprise software and customer experience. Most recently he was CEO of Khoros, and before that he co-founded Topbox, which was later acquired by Khoros.
 
 In our conversations, I was impressed by how quickly Chris understood our business, the thoughtful questions he asked, and his enthusiasm for our innovation roadmap. I also appreciate that he has been a founder and brings that perspective. Most importantly, he recognized right away how essential Drupal is to Acquia's success.

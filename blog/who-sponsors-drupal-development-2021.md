@@ -59,8 +59,6 @@ Drupal.org's credit system is unique and groundbreaking within the Open Source c
 
 In the 12-month period between July 1, 2020 and June 30, 2021, Drupal.org's credit system received contributions from 7,420 different individuals and 1,186 different organizations. We saw a 10% decline in individual contributors, and a 2% decrease in organizational contributors.
 
-![Bar chart comparing contributions to Drupal by individuals and organizations from 2018 to 2021, showing higher individual participation.](http://default/files/cache/drupal/contributions-by-individuals-vs-organizations-2021-640w.png)
-
 For this report's time period, 23,882 issues were marked "closed" or "fixed", a 23% decline from the 2019-2020 period. This averages out to 65 issues marked "closed" or "fixed" each day.
 
 In total, the Drupal community worked on 3,779 different Drupal.org projects this year compared to [4,195 projects in the 2019-2020 period](https://dri.es/who-sponsors-drupal-development-2020) – a 10% year-over-year decline.

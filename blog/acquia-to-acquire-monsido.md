@@ -15,6 +15,7 @@ tags:
   - Acquisitions
 image: acquia/acquia-acquires-monsido
 published: true
+featured: false
 id: 5516
 ---
 
@@ -23,10 +24,6 @@ id: 5516
 ![Logo of Acquia and Monsido with the tagline "Acquia to acquire Monsido".](http://default/files/cache/acquia/acquia-acquires-monsido-640w.png)
 
 I'm pleased to announce that [Acquia](https://www.acquia.com/) has signed a definitive agreement to acquire [Monsido](https://monsido.com/), a leading platform for monitoring and optimizing website accessibility, content quality, search engine optimization, data privacy, and performance.
-
-<div class="large">
-  ![Logo of Acquia and Monsido with the tagline "Acquia to acquire Monsido".](http://default/files/cache/acquia/acquia-acquires-monsido-640w.png)
-</div>
 
 I have many reasons to be really excited about this acquisition. Born out of [Drupal](https://www.drupal.org/), Acquia has always had a deep love for the web. This acquisition reaffirms and strengthens our foundational commitment to the web. It directly supports Acquia's mission to help build a better digital future – one where experiences are inclusive, accessible, and where we set new benchmarks for performance and quality.
 

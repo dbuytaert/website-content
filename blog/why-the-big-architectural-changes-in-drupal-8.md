@@ -23,8 +23,6 @@ id: 3026
 
 There has been a lot of chatter about Drupal 8. Will Drupal 8 be performant? Will Drupal 8 be easy to develop modules for? Will I have to learn Symfony? I want to address these concerns and explain why Drupal 8 introduces such big changes.
 
-![Why the big architectural changes in Drupal 8?](http://default/files/cache/blog/why-the-big-architectural-changes-in-drupal-8-640w.jpg)
-
 ## Lessons from the past: the pain before the gain
 
 The reason Drupal has been successful is because we always made big, forward-looking changes. It's a cliché, but change has always been the only constant in Drupal. The result is that Drupal has stayed relevant, unlike nearly every other Open Source CMS over the years. The biggest risk for our project is that we don't embrace change.

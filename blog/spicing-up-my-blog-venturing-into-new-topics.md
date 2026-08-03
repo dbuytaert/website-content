@@ -26,11 +26,6 @@ As I stared at this new page, it became *very* obvious that my blog has maintain
 
 Just as having the same cereal each day can become boring – a fact my wife kindly reminds me of – covering the same topics for 18 years can lead to a certain "predictability". This realization sparked a desire to spice things up!
 
-<div class="large">
-  ![A cabinet displaying jars, each with a different interest inside: travel, photography, electronics, tennis, food, investing, coffee, and more.](http://default/files/cache/blog/interests-cabinet-640w.jpg)
-*A cabinet with all my interests.*
-</div>
-
 My blog history wouldn't suggest it, but I consider myself a person with many interests. Sometimes I have too many interests. As a result, I'm often drawn into various side projects – another fact my wife kindly reminds me of.
 
 My point is that there are certainly different aspects of my life and interests that I could write more about. With that in mind, a goal for 2024 is to diversify my blog's content. I set a goal to introduce at least two new topics into my top 10 list for 2024, alongside Drupal and Acquia.

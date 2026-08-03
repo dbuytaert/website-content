@@ -7,6 +7,7 @@ author:
 date: '2007-08-14T04:18:16-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Our son Axl was born on August 13th, weighing 3.4kg. Mother and baby are doing well.'
 tags:
   - Photography
   - Karlijn
@@ -15,6 +16,7 @@ tags:
   - 'Life events'
 image: axl-2007/first-breath
 published: true
+featured: false
 id: 316
 ---
 

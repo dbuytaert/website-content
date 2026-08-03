@@ -25,8 +25,6 @@ This blog post is Part 3 of my DrupalCon keynote recap. In case you missed it, y
 
 In my keynote, I also mapped out a potential strategy for Drupal 11. In this blog post, I explain Drupal 11's strategy, and how it aligns with our updated vision statement.
 
-![Drupal 11 to focus on a Composable Core, helped by Project Browser, Starter Templates and Automated Updates](http://default/files/cache/drupalcon-portland-2022/drupal-11-composable-core-640w.png)
-
 Drupal 11's strategy is focused on (1) empowering ambitious site builders and (2) accelerating innovation in our contributed modules repository.
 
 To accomplish these two goals, Drupal will have to double down on "composability", which is reflected by the six proposed initiatives below. I'm code-naming the two-year strategy for Drupal 11 "Composable Core".

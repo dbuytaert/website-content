@@ -27,10 +27,6 @@ Almost two years ago, I had written a blog post called ["How should you decouple
 
 Drupal's [API-first initiative](https://dri.es/improving-drupal-8-api-first-json-api-oauth2) has introduced new capabilities, and we've seen the advent of the [Waterwheel ecosystem](https://dev.acquia.com/blog/waterwheel-the-drupal-sdk-ecosystem/29/08/2016/16701) and API-first distributions like [Reservoir](https://dri.es/reservoir-a-simple-way-to-decouple-drupal), [Headless Lightning](https://github.com/acquia/headless-lightning), and [Contenta](http://www.contentacms.org/). More developers both inside and outside the Drupal community are experimenting with Node.js and adopting fully decoupled architectures. As a result, [Acquia now offers Node.js hosting](https://dri.es/announcing-node-js-on-acquia-cloud), which means it's never been easier to implement decoupled Drupal on the Acquia platform.
 
-Let's start with the new flowchart in full:
-
-![A flowchart of how to decouple Drupal in 2018](http://default/files/cache/drupal/how-to-decouple-drupal-in-2018-flowchart-full-640w.jpg)
-
 ## All the ways to decouple Drupal
 
 The **traditional approach** to Drupal architecture, also referred to as *coupled Drupal*, is a monolithic implementation where Drupal maintains control over all front-end and back-end concerns. This is Drupal as we've known it – ideal for traditional websites. If you're a content creator, keeping Drupal in its coupled form is the optimal approach, especially if you want to achieve a fast time to market without as much reliance on front-end developers. But traditional Drupal 8 also remains a great approach for developers who love Drupal 8 and want it to own the entire stack.

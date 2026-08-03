@@ -91,8 +91,6 @@ Next, we added two new products to support our evolution from content management
 
 Acquia's new product strategy is very ambitious. I'm proud of our stronger focus on innovation and the new features and products that we launched in 2017. Launching this many products and features is hard work and requires tactical coordination across every part of the company. The transition from a single-product company to a multi-product company is challenging, and I hope to share more [lessons learned](https://dri.es/tag/startup-lessons) in future blog posts.
 
-![Diagram showing Acquia's growth from Acquia Cloud to multiple new services, including Acquia Journey, Acquia Lift, and Acquia DAM.](http://default/files/cache/acquia/acquia-roadmap-2017-640w.jpg)
-
 While each new product we announced was well-received, there is still a lot of work to be done: we need to continue to drive end-user demand for our new products and help our digital agency partners build practices around them.
 
 ### Leading by example

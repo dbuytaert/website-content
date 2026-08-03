@@ -48,9 +48,5 @@ The photos capture the love, energy and picturesque location of our wedding quit
 </div>
 
 <div class="large">
-  ![A bride and groom embrace and kiss beside a red convertible, with a vineyard in the background.](http://default/files/cache/wedding-dries-and-vanessa-2019/vineyard-2-640w.jpg)
-</div>
-
-<div class="large">
   ![A bride and groom walk hand in hand through a vineyard, smiling at each other.](http://default/files/cache/wedding-dries-and-vanessa-2019/vineyard-3-640w.jpg)
 </div>

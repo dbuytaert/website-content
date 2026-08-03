@@ -33,9 +33,6 @@ At DrupalCon Nashville [we declared that we wanted to extend security coverage f
 
 I'm pleased to share that the trial was a success! As a result, we have extended the security coverage of minor releases to six months. Instead of one month, site owners now have six months to upgrade between minor releases. It gives teams time to plan, prepare and test updates. Releases will have six months of normal bug fix support followed by six months of security coverage, for a total lifetime of one year. This is a huge win for Drupal site owners.
 
-![New Drupal 8 security policy for minor releases](http://default/files/cache/drupal/new-drupal-8-security-policy-for-minor-releases-640w.jpg)
-*Illustration of the new security policy for minor releases, demonstrating that the security coverage for minor releases is extended to six months. Source: <a href="https://www.drupal.org/project/drupal/issues/2909665">Drupal.org issue #2909665: Extend security support to cover the previous minor version of Drupal</a> and the Drupal Europe DriesNote.*
-
 It's important to note that this new policy only applies to Drupal 8 core starting with Drupal 8.5, and only applies to security issues. Non-security bug fixes will still only be committed to the actively supported release.
 
 While the new policy will provide extended security coverage for Drupal 8.5.x, site owners will need to update to an upcoming release of Drupal 8.5 to be correctly notified about their security coverage.
@@ -44,6 +41,6 @@ While the new policy will provide extended security coverage for Drupal 8.5.x, s
 
 We still have some user experience issues we'd like to address around how site owners are alerted of a security update. We have not yet handled all of the potential edge cases, and we want to be very clear about the potential actions to take when updating.
 
-We also know module developers may need to declare that a release of their project only works against specific versions of Drupal core. Resolving outstanding issues around [semantic versioning support for contrib](https://www.drupal.org/project/drupal/issues/2313917) and [module version dependency definitions](https://www.drupal.org/project/drupal/issues/2641658) will help developers of contributed projects better support this policy. If you'd like to get involved in the remaining work, the [policy and roadmap issue on Drupal.org](https://www.drupal.org/project/drupal/issues/2909665) is a great place to find related issues and see what work is remaining.
+We also know module developers may need to declare that a release of their project only works against specific versions of Drupal Core. Resolving outstanding issues around [semantic versioning support for contrib](https://www.drupal.org/project/drupal/issues/2313917) and [module version dependency definitions](https://www.drupal.org/project/drupal/issues/2641658) will help developers of contributed projects better support this policy. If you'd like to get involved in the remaining work, the [policy and roadmap issue on Drupal.org](https://www.drupal.org/project/drupal/issues/2909665) is a great place to find related issues and see what work is remaining.
 
 *Special thanks to [Jess](https://www.drupal.org/u/xjm) and [Jeff Beeman](https://www.drupal.org/u/jrbeeman) for co-authoring this post.*

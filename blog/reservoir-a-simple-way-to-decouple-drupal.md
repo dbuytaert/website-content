@@ -29,7 +29,7 @@ Roughly eight months ago, we asked ourselves in [Acquia's Office of the CTO](htt
 
 I've been too busy with [the transition at Acquia](https://dri.es/acquia-next-phase) to blog about it in real time, but a few months ago, [we released Reservoir](https://dev.acquia.com/blog/introducing-reservoir-a-distribution-for-decoupling-drupal/19/06/2017/18296). It's a Drupal-based content repository with all the necessary web service APIs needed to build decoupled front-end applications, be it a React application, an Ember front end, a native application, an [augmented reality application](https://dri.es/from-imagination-to-augmented-reality-in-48-hours), a Java or .NET application, or something completely different. You can even front-end it with a PHP application, something I hope to experiment with on my blog.
 
-API-first distributions for Drupal like [Reservoir](https://github.com/acquia/reservoir) and [Contenta](http://contentacms.org) are a relatively new phenomenon but seem to be taking off rapidly. It's no surprise because an API-first approach is critical in a world where you have to [operate agnostically across any channel and any form factor](https://dri.es/cross-channel-user-experiences-with-drupal). I'm convinced that an API-first approach will be a critical addition to Drupal's future and could see a distribution like Reservoir or Contenta evolve to become a third installation profile for Drupal core (not formally decided).
+API-first distributions for Drupal like [Reservoir](https://github.com/acquia/reservoir) and [Contenta](http://contentacms.org) are a relatively new phenomenon but seem to be taking off rapidly. It's no surprise because an API-first approach is critical in a world where you have to [operate agnostically across any channel and any form factor](https://dri.es/cross-channel-user-experiences-with-drupal). I'm convinced that an API-first approach will be a critical addition to Drupal's future and could see a distribution like Reservoir or Contenta evolve to become a third installation profile for Drupal Core (not formally decided).
 
 ## Headless Drupal for both editors and developers
 
@@ -60,14 +60,11 @@ Reservoir tries to achieve this in four ways:
 
 ## Next steps for Reservoir
 
-![Reservoir API documentation](http://default/files/cache/drupal/reservoir-api-documentation-640w.jpg)
-*API documentation auto-generated based on the content model built in Reservoir.*
-
 We have a lot of great plans for Reservoir moving forward. Reservoir has several items on its short-term roadmap, including GraphQL support. As an emerging industry standard for data queries, GraphQL is a query language I first highlighted in [my 2015 Barcelona keynote](https://dri.es/state-of-drupal-presentation-september-2015); see my blog post on [the future of decoupled Drupal](https://dri.es/the-future-of-decoupled-drupal) for a quick demo video.
 
 We also plan to expand API coverage by adding the ability to programmatically manipulate users, tags, and other crucial content elements. This means that developers will be able to build richer integrations.
 
-While content such as articles, pages, and other custom content types can be consumed and manipulated via web services today, upstream in Drupal core, API support for things like Drupal's blocks, menus, and layouts is in the works. The ability to influence more of Drupal's internals from external applications will open the door to better custom editorial interfaces.
+While content such as articles, pages, and other custom content types can be consumed and manipulated via web services today, upstream in Drupal Core, API support for things like Drupal's blocks, menus, and layouts is in the works. The ability to influence more of Drupal's internals from external applications will open the door to better custom editorial interfaces.
 
 ## Conclusion
 

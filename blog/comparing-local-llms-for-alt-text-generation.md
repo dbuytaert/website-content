@@ -14,15 +14,12 @@ tags:
   - 'My site'
   - Alt-text
   - Python
-image: italy-2022/santa-maddalena-church-in-funes-2
 published: true
 featured: true
 id: 5751
 ---
 
 # Comparing local large language models for alt-text generation
-
-![Santa maddalena church in funes](http://default/files/cache/italy-2022/santa-maddalena-church-in-funes-2-640w.jpg)
 
 I have [10,000 photos](https://dri.es/photos) on my website. About 9,000 have no `alt`-text. I'm not proud of that, and it has bothered me for a long time.
 
@@ -48,175 +45,175 @@ The table below lists the models I tested, with details like links to research p
   <table>
   <thead>
   <tr>
-   <th></th>
-   <th>Model</th>
-   <th>Launch date</th>
-   <th>Type</th>
-   <th>Vision encoder</th>
-   <th>Language encoder</th>
-   <th>Model size (billions of parameters)</th>
-   <th>RAM</th>
-   <th>Deployment</th>
+  <th></th>
+  <th>Model</th>
+  <th>Launch date</th>
+  <th>Type</th>
+  <th>Vision encoder</th>
+  <th>Language encoder</th>
+  <th>Model size (billions of parameters)</th>
+  <th>RAM</th>
+  <th>Deployment</th>
 </tr>
 </thead>
   <tbody>
   <tr>
-   <td>1</td>
-   <td>
-    <a href="https://huggingface.co/nlpconnect/vit-gpt2-image-captioning">VIT-GPT2</a>
- </td>
-   <td>2021</td>
-   <td>Image-to-text</td>
-   <td>ViT (Vision Transformer)</td>
-   <td>GPT-2</td>
-   <td>0.4B</td>
-   <td>~8GB</td>
-   <td>Local, Dries</td>
+  <td>1</td>
+  <td>
+   <a href="https://huggingface.co/nlpconnect/vit-gpt2-image-captioning">VIT-GPT2</a>
+</td>
+  <td>2021</td>
+  <td>Image-to-text</td>
+  <td>ViT (Vision Transformer)</td>
+  <td>GPT-2</td>
+  <td>0.4B</td>
+  <td>~8GB</td>
+  <td>Local, Dries</td>
 </tr>
   <tr>
-   <td>2</td>
-   <td>
-    <a href="https://huggingface.co/microsoft/git-base">Microsoft GIT</a>
- </td>
-   <td>2022</td>
-   <td>Image-to-text</td>
-   <td>Swin Transformer</td>
-   <td>Transformer Decoder</td>
-   <td>1.2B</td>
-   <td>~8GB</td>
-   <td>Local, Dries</td>
+  <td>2</td>
+  <td>
+   <a href="https://huggingface.co/microsoft/git-base">Microsoft GIT</a>
+</td>
+  <td>2022</td>
+  <td>Image-to-text</td>
+  <td>Swin Transformer</td>
+  <td>Transformer Decoder</td>
+  <td>1.2B</td>
+  <td>~8GB</td>
+  <td>Local, Dries</td>
 </tr>
   <tr>
-   <td>3</td>
-   <td>
-    <a href="https://huggingface.co/Salesforce/blip-image-captioning-large">BLIP Large</a>
- </td>
-   <td>2022</td>
-   <td>Image-to-text</td>
-   <td>ViT</td>
-   <td>BERT</td>
-   <td>0.5B</td>
-   <td>~8GB</td>
-   <td>Local, Dries</td>
+  <td>3</td>
+  <td>
+   <a href="https://huggingface.co/Salesforce/blip-image-captioning-large">BLIP Large</a>
+</td>
+  <td>2022</td>
+  <td>Image-to-text</td>
+  <td>ViT</td>
+  <td>BERT</td>
+  <td>0.5B</td>
+  <td>~8GB</td>
+  <td>Local, Dries</td>
 </tr>
   <tr>
-   <td>4</td>
-   <td>
-    <a href="https://huggingface.co/Salesforce/blip2-opt-2.7b">BLIP-2 OPT</a>
- </td>
-   <td>2023</td>
-   <td>Image-to-text</td>
-   <td>CLIP ViT</td>
-   <td>OPT</td>
-   <td>2.7B</td>
-   <td>~8GB</td>
-   <td>Local, Dries</td>
+  <td>4</td>
+  <td>
+   <a href="https://huggingface.co/Salesforce/blip2-opt-2.7b">BLIP-2 OPT</a>
+</td>
+  <td>2023</td>
+  <td>Image-to-text</td>
+  <td>CLIP ViT</td>
+  <td>OPT</td>
+  <td>2.7B</td>
+  <td>~8GB</td>
+  <td>Local, Dries</td>
 </tr>
   <tr>
-   <td>5</td>
-   <td>
-    <a href="https://huggingface.co/Salesforce/blip2-flan-t5-xl">BLIP-2 FLAN-T5</a>
- </td>
-   <td>2023</td>
-   <td>Image-to-text</td>
-   <td>CLIP ViT</td>
-   <td>FLAN-T5 XL</td>
-   <td>3B</td>
-   <td>~8GB</td>
-   <td>Local, Dries</td>
+  <td>5</td>
+  <td>
+   <a href="https://huggingface.co/Salesforce/blip2-flan-t5-xl">BLIP-2 FLAN-T5</a>
+</td>
+  <td>2023</td>
+  <td>Image-to-text</td>
+  <td>CLIP ViT</td>
+  <td>FLAN-T5 XL</td>
+  <td>3B</td>
+  <td>~8GB</td>
+  <td>Local, Dries</td>
 </tr>
   <tr>
-   <td>6</td>
-   <td>
-    <a href="https://ollama.com/library/minicpm-v">MiniCPM-V</a>
- </td>
-   <td>2024</td>
-   <td>Multi-modal</td>
-   <td>SigLip-400M</td>
-   <td>Qwen2-7B</td>
-   <td>8B</td>
-   <td>~16GB</td>
-   <td>Local, Dries</td>
+  <td>6</td>
+  <td>
+   <a href="https://ollama.com/library/minicpm-v">MiniCPM-V</a>
+</td>
+  <td>2024</td>
+  <td>Multi-modal</td>
+  <td>SigLip-400M</td>
+  <td>Qwen2-7B</td>
+  <td>8B</td>
+  <td>~16GB</td>
+  <td>Local, Dries</td>
 </tr>
   <tr>
-   <td>7</td>
-   <td>
-    <a href="https://ollama.com/library/llava">LLaVA 13B</a>
- </td>
-   <td>2024</td>
-   <td>Multi-modal</td>
-   <td>CLIP ViT</td>
-   <td>Vicuna 13B</td>
-   <td>13B</td>
-   <td>~16GB</td>
-   <td>Local, Dries</td>
+  <td>7</td>
+  <td>
+   <a href="https://ollama.com/library/llava">LLaVA 13B</a>
+</td>
+  <td>2024</td>
+  <td>Multi-modal</td>
+  <td>CLIP ViT</td>
+  <td>Vicuna 13B</td>
+  <td>13B</td>
+  <td>~16GB</td>
+  <td>Local, Dries</td>
 </tr>
   <tr>
-   <td>8</td>
-   <td>
-    <a href="https://ollama.com/library/llava">LLaVA 34B</a>
- </td>
-   <td>2024</td>
-   <td>Multi-modal</td>
-   <td>CLIP ViT</td>
-   <td>Vicuna 34B</td>
-   <td>34B</td>
-   <td>~32GB</td>
-   <td>Local, Dries</td>
+  <td>8</td>
+  <td>
+   <a href="https://ollama.com/library/llava">LLaVA 34B</a>
+</td>
+  <td>2024</td>
+  <td>Multi-modal</td>
+  <td>CLIP ViT</td>
+  <td>Vicuna 34B</td>
+  <td>34B</td>
+  <td>~32GB</td>
+  <td>Local, Dries</td>
 </tr>
   <tr>
-   <td>9</td>
-   <td>
-    <a href="https://ollama.com/library/llama3.2-vision">Llama 3.2 Vision 11B</a>
- </td>
-   <td>2024</td>
-   <td>Multi-modal</td>
-   <td>Custom Vision Encoder</td>
-   <td>Llama 3.2</td>
-   <td>11B</td>
-   <td>~20GB</td>
-   <td>Local, Dries</td>
+  <td>9</td>
+  <td>
+   <a href="https://ollama.com/library/llama3.2-vision">Llama 3.2 Vision 11B</a>
+</td>
+  <td>2024</td>
+  <td>Multi-modal</td>
+  <td>Custom Vision Encoder</td>
+  <td>Llama 3.2</td>
+  <td>11B</td>
+  <td>~20GB</td>
+  <td>Local, Dries</td>
 </tr>
   <tr>
-   <td>10</td>
-   <td>
-    <a href="https://ollama.com/library/llama3.2-vision">Llama 3.2 Vision 90B</a>
- </td>
-   <td>2024</td>
-   <td>Multi-modal</td>
-   <td>Custom Vision Encoder</td>
-   <td>Llama 3.2</td>
-   <td>90B</td>
-   <td>~128GB</td>
-   <td>Local, Jeremy</td>
+  <td>10</td>
+  <td>
+   <a href="https://ollama.com/library/llama3.2-vision">Llama 3.2 Vision 90B</a>
+</td>
+  <td>2024</td>
+  <td>Multi-modal</td>
+  <td>Custom Vision Encoder</td>
+  <td>Llama 3.2</td>
+  <td>90B</td>
+  <td>~128GB</td>
+  <td>Local, Jeremy</td>
 </tr>
   <tr>
-   <td>11</td>
-   <td>
-    <a href="https://chat.openai.com">OpenAI GPT-4o</a>
- </td>
-   <td>2023</td>
-   <td>Multi-modal</td>
-   <td>Custom Vision Encoder</td>
-   <td>GPT-4</td>
-   <td>&gt;150B</td>
-   <td>
- </td>
-   <td>Cloud</td>
+  <td>11</td>
+  <td>
+   <a href="https://chat.openai.com">OpenAI GPT-4o</a>
+</td>
+  <td>2023</td>
+  <td>Multi-modal</td>
+  <td>Custom Vision Encoder</td>
+  <td>GPT-4</td>
+  <td>&gt;150B</td>
+  <td>
+</td>
+  <td>Cloud</td>
 </tr>
   <tr>
-   <td>12</td>
-   <td>
-    <a href="https://claude.ai">Anthropic Claude 3.5 Sonnet</a>
- </td>
-   <td>2024</td>
-   <td>Multi-modal</td>
-   <td>Custom Vision Encoder</td>
-   <td>Claude 3.5</td>
-   <td>&gt;150B</td>
-   <td>
- </td>
-   <td>Cloud</td>
+  <td>12</td>
+  <td>
+   <a href="https://claude.ai">Anthropic Claude 3.5 Sonnet</a>
+</td>
+  <td>2024</td>
+  <td>Multi-modal</td>
+  <td>Custom Vision Encoder</td>
+  <td>Claude 3.5</td>
+  <td>&gt;150B</td>
+  <td>
+</td>
+  <td>Cloud</td>
 </tr>
 </tbody>
 </table>
@@ -399,13 +396,13 @@ Benchmark LLMs:
   <tr>
   <td>GPT-4o</td>
   <td>
-   <mark>Elegant</mark> wallpaper, an empty gold frame, candelabra, and framed painting in a classic room.</td>
-   <td>B</td>
+  <mark>Elegant</mark> wallpaper, an empty gold frame, candelabra, and framed painting in a classic room.</td>
+  <td>B</td>
 </tr>
   <tr>
-   <td>Claude</td>
-   <td>Ornate Victorian room with damask wallpaper, candelabra, and gold frames on wall.</td>
-   <td>B</td>
+  <td>Claude</td>
+  <td>Ornate Victorian room with damask wallpaper, candelabra, and gold frames on wall.</td>
+  <td>B</td>
 </tr>
 </tbody>
 </table>
@@ -535,40 +532,40 @@ Local LLMs:
   <tr>
   <td>BLIP-2 with OPT</td>
   <td>
-   <mark>Three young men</mark> sitting on the back of a boat.</td>
-   <td>D</td>
+  <mark>Three young men</mark> sitting on the back of a boat.</td>
+  <td>D</td>
 </tr>
   <tr>
-   <td>BLIP-2 with FLAN</td>
-   <td>
-    <mark>A group of people</mark> sitting on a boat watching a man ride a <mark>surfboard</mark> in the middle of the water.</td>
-    <td>C</td>
- </tr>
-   <tr>
-    <td>LLaVA (13B)</td>
-    <td>Two shirtless men on a boat, watching another man <mark>surfing</mark> in the water.</td>
-    <td>B</td>
- </tr>
-   <tr>
-    <td>LLaVA (34B)</td>
-    <td>Two shirtless men on a boat, watching another person <mark>water skiing</mark>.</td>
-    <td>B</td>
- </tr>
-   <tr>
-    <td>MiniCPM-V</td>
-    <td>Two shirtless men on a boat watch as another person <mark>water skis away from them</mark>, with trees and sky visible across the lake behind him.</td>
-    <td>B</td>
- </tr>
-   <tr>
-    <td>Llama 3.2 Vision (11B)</td>
-    <td>Two shirtless men on a boat watching <mark>people</mark> wakeboarding or <mark>surfing</mark> behind it.</td>
-    <td>B</td>
- </tr>
-   <tr>
-    <td>Llama 3.2 Vision (90B)</td>
-    <td>Two men on a boat watching another man wakeboarding.</td>
-    <td>A</td>
- </tr>
+  <td>BLIP-2 with FLAN</td>
+  <td>
+   <mark>A group of people</mark> sitting on a boat watching a man ride a <mark>surfboard</mark> in the middle of the water.</td>
+   <td>C</td>
+</tr>
+  <tr>
+   <td>LLaVA (13B)</td>
+   <td>Two shirtless men on a boat, watching another man <mark>surfing</mark> in the water.</td>
+   <td>B</td>
+</tr>
+  <tr>
+   <td>LLaVA (34B)</td>
+   <td>Two shirtless men on a boat, watching another person <mark>water skiing</mark>.</td>
+   <td>B</td>
+</tr>
+  <tr>
+   <td>MiniCPM-V</td>
+   <td>Two shirtless men on a boat watch as another person <mark>water skis away from them</mark>, with trees and sky visible across the lake behind him.</td>
+   <td>B</td>
+</tr>
+  <tr>
+   <td>Llama 3.2 Vision (11B)</td>
+   <td>Two shirtless men on a boat watching <mark>people</mark> wakeboarding or <mark>surfing</mark> behind it.</td>
+   <td>B</td>
+</tr>
+  <tr>
+   <td>Llama 3.2 Vision (90B)</td>
+   <td>Two men on a boat watching another man wakeboarding.</td>
+   <td>A</td>
+</tr>
 </tbody>
 </table>
 

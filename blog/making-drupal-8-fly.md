@@ -66,9 +66,6 @@ The traditional page serving model has not kept up with the increase of [highly 
 
 We've made significant improvements to [the way Drupal 8 renders pages](https://www.drupal.org/node/2373741) ([presentation](https://wimleers.com/talk/drupal-8-render-pipeline)). By default, Drupal 8 core still implements the traditional model of assembling these pieces into a complete page in a single server-side request, but the independence of each piece and the architecture of the new rendering pipeline enable different "render strategies" to be experimented with – different methods for dynamic content assembly, such as BigPipe, [Edge Side Includes](https://en.wikipedia.org/wiki/Edge_Side_Includes), or other ideas for making the most optimal use of client, server, content delivery networks and reverse proxies. In all those examples, the idea is that we can send the primary content first so the client can start rendering that. Then we send the remaining Drupal blocks, such as the navigation menu or a 'Related articles' block, and have the browser, content delivery network or reverse proxy assemble or combine these blocks into a page.
 
-![Diagram of the Drupal 8 render pipeline, showing steps for rendering content and where alternative strategies can be applied.](http://default/files/cache/drupal/drupal-8-render-pipeline-640w.jpg)
-*A snapshot of the Drupal 8 render pipeline diagram that highlights where alternative render strategies can be implemented.*
-
 Some early experiments by [Wim Leers](http://wimleers.com) in [Acquia's OCTO](https://www.acquia.com/blog/announcing-office-cto-acquia) show that [we can improve performance by a factor of about 2](https://www.drupal.org/node/2429617) compared to a recent Drupal 8 development snapshot. These breakthroughs are enabled by leveraging the various improvements we made to Drupal 8.
 
 ## And much more

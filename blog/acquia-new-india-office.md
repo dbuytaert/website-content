@@ -29,6 +29,5 @@ While I wasn't able to personally attend the opening of our new office, I'm look
 
 For now, here are a few pictures from our grand opening celebration:
 
-![A group of people in traditional Indian attire stand on stage, smiling and greeting with folded hands.](http://default/files/cache/acquia/pune-india-office-2019-1-640w.jpg)
 ![Five people posing in front of an "Acquia" sign with colorful balloons at the Pune, India office.](http://default/files/cache/acquia/pune-india-office-2019-2-640w.jpg)
 ![Two people light traditional brass lamps near a Ganesh idol during an office celebration in Pune, India.](http://default/files/cache/acquia/pune-india-office-2019-3-640w.jpg)

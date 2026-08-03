@@ -82,8 +82,4 @@ Another example is the [Drupal apprenticeship program in the UK](https://youtu.b
 
 I'd love to take programs like these global – they instill our values, culture and a sense of purpose to many new people. If you know of similar initiatives, or have ideas to share, please do so in the comments section.
 
-<div class="large">
-  ![A person stands releasing colorful balloons into a swirling sky, with the text "Collective purpose is what sets Drupal apart.](http://default/files/cache/blog/purpose-sets-drupal-apart-640w.jpg)
-</div>
-
-Based on my own introspection, and hearing from amazing Drupalists from around the world, I truly believe that Drupal is fueled by a collective sense of purpose that sets us apart from other open source software communities and organizations. We need to keep this purpose in mind when we make decisions, especially when the going gets tough. What is your sense of purpose? And how can we scale it around the world?
+Based on my own introspection, and hearing from amazing Drupalists from around the world, I truly believe that Drupal is fueled by a collective sense of purpose that sets us apart from other Open Source software communities and organizations. We need to keep this purpose in mind when we make decisions, especially when the going gets tough. What is your sense of purpose? And how can we scale it around the world?

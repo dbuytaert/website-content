@@ -28,11 +28,6 @@ Working on my site helps me relax, so it's not unusual for me to spend a few hou
 
 The past month, a collection of smaller updates have resulted in a new visual design for my site. If you are reading this post through an RSS aggregator or through my mailing list, consider checking out the new design on [dri.es](https://dri.es).
 
-<div class="large">
-  ![2018 dri.es redesign](http://default/files/cache/blog/dries-redesign-2018-640w.png)
-*Before \(left\) and after \(right\).*
-</div>
-
 The new dri.es may not win design awards, but will hopefully make it easier to consume the content. My design goals were the following:
 
 - Improve the readability of the content

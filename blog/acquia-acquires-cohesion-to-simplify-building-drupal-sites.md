@@ -32,9 +32,6 @@ Acquia's acquisition of Cohesion is a direct response to this trend, empowering 
 
 Here is a quick look at some of my favorite features:
 
-![An animated GIF showing how to edit styles with Cohesion.](http://default/files/cache/acquia/cohesion-editing-styles-640w.gif)
-*An easy-to-use “style builder” enables designers to create templates from within the browser. The image illustrates how easy it is to modify styles, in this case a button design.*
-
 ![An animated GIF showing how to edit a page with Cohesion.](http://default/files/cache/acquia/cohesion-editing-pages-640w.gif)
 *In-context editing makes it really easy to modify content on the page and even change the layout from one column to two columns and see the results immediately.*
 

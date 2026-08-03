@@ -55,10 +55,6 @@ I then covered some key dates for Drupal 9 and 10:
 
 ## Improving the site builder experience with a project browser
 
-<div class="large">
-  ![A Drupal robot staring in the distance along with a call to action to focus on the site builder experience](http://default/files/cache/drupalcon-north-america-2021/site-builders-experience-640w.png)
-</div>
-
 When I ask people why they fell in love with Drupal, most often they talk about feeling empowered to build [ambitious websites](https://dri.es/drupal-is-for-ambitious-digital-experiences) with little or no code. In fact, the journey of many Drupalists started with Drupal's low-code approach to site building. It's how they got involved with Drupal.
 
 This leads me to believe that we need to focus more on the site builder persona. With that in mind, I proposed a new [Project Browser initiative](https://www.drupal.org/project/ideas/issues/2940733). One of the first things site builders do when they start with Drupal is install a module. A Project Browser makes it easier to find and install modules.

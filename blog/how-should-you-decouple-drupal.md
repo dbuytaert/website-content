@@ -27,9 +27,7 @@ With [RESTful web services in Drupal 8 core](https://www.drupal.org/docs/8/core/
 
 There is a lot of hype around decoupled architectures, so before embarking on a project, it is important to make a balanced analysis. Your choice of architecture has implications on your budget, your team, time to launch, the flexibility for content creators, the ongoing maintenance of your website, and more. In this blog post, I'd like to share a flowchart that can help you decide when to use what technology.
 
-![Flowchart explaining different approaches to decoupling Drupal, from coupled to fully decoupled, based on functionality needs.](http://default/files/cache/drupal/how-to-decouple-drupal-in-2017-flowchart-full-640w.jpg)
-
-This flowchart shows three things:
+The flowchart above shows three things:
 
 First, using **coupled Drupal** is a perfectly valid option for those who don't need extensive client-side rendering and state management. In this case, you would use Drupal's built-in Twig templating system rather than heavily relying on a JavaScript framework. You would use jQuery to take advantage of limited JavaScript where necessary. Also, with [BigPipe in Drupal 8.1](https://dri.es/bigpipe-no-longer-just-for-the-top-50-websites), certain use cases that typically needed asynchronous JavaScript can now be done in PHP without slowing down the page (i.e. communication with an external web service delaying the display of user-specific real-time data). The advantage of this approach is that content marketers are not blocked by front-end developers as they assemble their user experiences, thus shortening time to market and reducing investment in ongoing developer support.
 

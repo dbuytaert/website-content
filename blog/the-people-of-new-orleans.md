@@ -27,10 +27,6 @@ I love street photography. Walking and shooting. Walking, talking and shooting. 
 ![A bearded man with blue eyes looks directly at the camera on a city street.](http://default/files/cache/new-orleans-2016/street-life-7-640w.jpg)
 ![A person balances on a wooden post by the water at sunrise, arms outstretched.](http://default/files/cache/new-orleans-2016/sunrise-3-640w.jpg)
 
-<div class="large">
-  ![A man wearing a New Orleans cap looks directly at the camera with a neutral expression.](http://default/files/cache/new-orleans-2016/street-life-2-640w.jpg)
-</div>
-
 Street photography is all fun and games until someone pulls out a handgun. The anarchy sign in the background makes these shots complete.
 
 <div class="side-by-side">

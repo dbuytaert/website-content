@@ -35,47 +35,45 @@ The [IndieWeb movement](https://indieweb.org) has provided two clever names for 
 1. **PESOS** or [Publish Elsewhere, Syndicate (to your) Own Site](https://indieweb.org/PESOS) is a model where publishing begins on third party services, such as Facebook, and then copies can be syndicated to your own site.
 2. **POSSE** or [Publish (on your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE) is a publishing model that begins with posting content on your own site first, then syndicating out copies to third party services.
 
-![](http://default/files/cache/blog/pesos-vs-posse-640w.jpg)
-
 Here is the potential impact of each approach:
 
 <table>
   <thead>
-   <tr>
-    <th>
-   </th>
-    <th>PESOS</th>
-    <th>POSSE</th>
-  </tr>
- </thead>
   <tr>
-   <td>
-    <em>Dependence</em>
-  </td>
-   <td>A 3rd party is a required intermediary within the PESOS approach. When the 3rd party platform is down or disappears completely, publishers lose their ability to post new content or retrieve old content.</td>
-   <td>No dependence, as the 3rd party service is an optional endpoint, not a required intermediary.</td>
+   <th>
+ </th>
+   <th>PESOS</th>
+   <th>POSSE</th>
  </tr>
+</thead>
   <tr>
-   <td>
-    <em>Canonical</em>
-  </td>
-   <td>Non-canonical: the data on the 3rd party is the original and copies on your domain may have to cite 3rd party URLs.</td>
-   <td>Canonical: you have full control over URLs and host the original data. The 3rd party could cite the original URL.</td>
- </tr>
+  <td>
+   <em>Dependence</em>
+ </td>
+  <td>A 3rd party is a required intermediary within the PESOS approach. When the 3rd party platform is down or disappears completely, publishers lose their ability to post new content or retrieve old content.</td>
+  <td>No dependence, as the 3rd party service is an optional endpoint, not a required intermediary.</td>
+</tr>
   <tr>
-   <td>
-    <em>Quality</em>
-  </td>
-   <td>Pulling data from 3rd parties services could reduce its quality. For example, images could be degraded or downsized.</td>
-   <td>Full control over the quality of assets on your own site.</td>
- </tr>
+  <td>
+   <em>Canonical</em>
+ </td>
+  <td>Non-canonical: the data on the 3rd party is the original and copies on your domain may have to cite 3rd party URLs.</td>
+  <td>Canonical: you have full control over URLs and host the original data. The 3rd party could cite the original URL.</td>
+</tr>
   <tr>
-   <td>
-    <em>Ease of use, implementation and maintenance</em>
-  </td>
-   <td>3rd party platforms make it really easy for users to publish content and you can still benefit from that. For example, you can easily upload images from your phone. The complexity inherent to the PESOS approach includes developing an infrastructure to curate archival copies to your own domain.</td>
-   <td>The POSSE strategy can be significantly more work for the site owner, especially if you want comparable ease of use to 3rd party platforms. A higher level of technical expertise and time investment is likely required.</td>
- </tr>
+  <td>
+   <em>Quality</em>
+ </td>
+  <td>Pulling data from 3rd parties services could reduce its quality. For example, images could be degraded or downsized.</td>
+  <td>Full control over the quality of assets on your own site.</td>
+</tr>
+  <tr>
+  <td>
+   <em>Ease of use, implementation and maintenance</em>
+ </td>
+  <td>3rd party platforms make it really easy for users to publish content and you can still benefit from that. For example, you can easily upload images from your phone. The complexity inherent to the PESOS approach includes developing an infrastructure to curate archival copies to your own domain.</td>
+  <td>The POSSE strategy can be significantly more work for the site owner, especially if you want comparable ease of use to 3rd party platforms. A higher level of technical expertise and time investment is likely required.</td>
+</tr>
 </table>
 
 The goal of this analysis was to understand the pros and cons of how I can own my own content on <https://dri.es>. While PESOS would be much easier to implement, I decided to go with POSSE. My next step is to figure out my "POSSE plan"; how to quickly and easily share status updates on my Drupal site, how to syndicate them to 3rd party services, how to re-organize [my mailing list](https://dri.es/subscribe) and [my RSS feed](https://dri.es/rss.xml), and more.

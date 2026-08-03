@@ -23,41 +23,39 @@ Seven months ago, [Matthew Grasmick](https://www.drupal.org/u/grasmash) publishe
 
 <table>
   <thead>
-   <tr>
-    <th>Platform</th>
-    <th>Clicks</th>
-    <th>Time</th>
-  </tr>
- </thead>
   <tr>
-   <td>Drupal</td>
-   <td>20+</td>
-   <td>15:00+</td>
+   <th>Platform</th>
+   <th>Clicks</th>
+   <th>Time</th>
  </tr>
+</thead>
   <tr>
-   <td>Symfony</td>
-   <td>3</td>
-   <td>1:55</td>
- </tr>
+  <td>Drupal</td>
+  <td>20+</td>
+  <td>15:00+</td>
+</tr>
   <tr>
-   <td>WordPress</td>
-   <td>7</td>
-   <td>7:51</td>
- </tr>
+  <td>Symfony</td>
+  <td>3</td>
+  <td>1:55</td>
+</tr>
   <tr>
-   <td>Laravel</td>
-   <td>3</td>
-   <td>17:28</td>
- </tr>
+  <td>WordPress</td>
+  <td>7</td>
+  <td>7:51</td>
+</tr>
+  <tr>
+  <td>Laravel</td>
+  <td>3</td>
+  <td>17:28</td>
+</tr>
 </table>
 
 The results from Matthew's blog were clear: Drupal is too hard to install. It required more than 15 minutes and 20 clicks to create a simple site.
 
 https://www.youtube.com/watch?v=9E34hSVFE94
 
-Seeing these results prompted me to launch a number of initiatives to improve the evaluator experience at DrupalCon Nashville. Here is the slide from [my DrupalCon Nashville presentation](https://dri.es/state-of-drupal-presentation-april-2018):
-
-![Slide listing improvements for the Drupal technical evaluation process, including better discovery, documentation, demos, and modern administration.](http://default/files/cache/drupal/improve-technical-evaluator-experience-2018-640w.jpg)
+Seeing these results prompted me to launch a number of initiatives to improve the evaluator experience at DrupalCon Nashville. The slide above is from [my DrupalCon Nashville presentation](https://dri.es/state-of-drupal-presentation-april-2018).
 
 A lot has happened between then and now:
 
@@ -75,32 +73,32 @@ Thanks to this progress, here is the updated table:
 
 <table>
   <thead>
-   <tr>
-    <th>Platform</th>
-    <th>Clicks</th>
-    <th>Time</th>
-  </tr>
- </thead>
   <tr>
-   <td>Drupal</td>
-   <td>3</td>
-   <td>1:27</td>
+   <th>Platform</th>
+   <th>Clicks</th>
+   <th>Time</th>
  </tr>
+</thead>
   <tr>
-   <td>Symfony</td>
-   <td>3</td>
-   <td>1:55</td>
- </tr>
+  <td>Drupal</td>
+  <td>3</td>
+  <td>1:27</td>
+</tr>
   <tr>
-   <td>WordPress</td>
-   <td>7</td>
-   <td>7:51</td>
- </tr>
+  <td>Symfony</td>
+  <td>3</td>
+  <td>1:55</td>
+</tr>
   <tr>
-   <td>Laravel</td>
-   <td>3</td>
-   <td>17:28</td>
- </tr>
+  <td>WordPress</td>
+  <td>7</td>
+  <td>7:51</td>
+</tr>
+  <tr>
+  <td>Laravel</td>
+  <td>3</td>
+  <td>17:28</td>
+</tr>
 </table>
 
 Drupal now requires the least time and is tied for least clicks! You can now install Drupal in less than two minutes. Moreover, the Drupal site that gets created isn't an "empty canvas" anymore; it's a beautifully designed and fully functional application with demo content.

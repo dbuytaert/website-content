@@ -12,19 +12,21 @@ tags:
   - Drupal
   - Acquia
   - Fundraising
+image: acquia/series-b-fundraising
 published: true
+featured: false
 id: 861
 ---
 
 # Acquia raises $8 million series B
+
+![A video call shows a business meeting where people discuss fundraising, with presentation slides visible on the screen.](http://default/files/cache/acquia/series-b-fundraising-640w.jpg)
 
 I'm very pleased to announce that [Acquia](https://www.acquia.com) has raised an additional 8 million USD in a Series B round of funding. As explained in our [press release](https://www.acquia.com/about-us/newsroom/press-releases/acquia-secures-8-million-series-b-financing-north-bridge-venture-pa), the investment was led by our existing investors, North Bridge Venture Partners and Sigma Partners. Combined with [our Series A funding](https://dri.es/acquia-raises-7-million-series-a), this brings our total funding to 15 million USD.
 
 The [Securities and Exchange Commission (SEC)](https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission) published our filing faster than expected and as a result, some of you may have already heard this news. That will teach us to coordinate things better – not a big deal, but another lesson learned. Interestingly, there is nothing like a scoop to generate coverage and the funding news was picked up by TechCrunch, Washington Post, The Boston Globe, Mass High Tech, Venture Beat, CMS Wire, Xconomy and many others.
 
 Raising this additional money is no small thing, especially in the current global economy. It is a testament to the hard work and dedication of all the Acquians and the momentum we have achieved.
-
-![A video call shows a business meeting where people discuss fundraising, with presentation slides visible on the screen.](http://default/files/cache/acquia/series-b-fundraising-640w.jpg)
 
 But how will the money of our series B funding be used, you ask?
 

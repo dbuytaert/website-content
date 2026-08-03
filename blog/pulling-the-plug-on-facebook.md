@@ -46,10 +46,6 @@ It's clear that Facebook can't be trusted. And for that reason, I'm out.
 
 I deleted my Facebook account twenty minutes ago.
 
-<div class="large">
-  ![An image of Facebook's account deletion confirmation screen](http://default/files/cache/blog/delete-facebook-640w.png)
-</div>
-
 ## Social media's dark side
 
 Social media, in general, have been enablers of community, transparency and positive change, but also of abuse, hate speech, bullying, misinformation, government manipulation and more. In just the past year, more and more users have woken up to the dark side of social media. Open Web and privacy advocates, on the other hand, have seen this coming for awhile.

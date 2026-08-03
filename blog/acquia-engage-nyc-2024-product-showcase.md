@@ -7,6 +7,7 @@ author:
 date: '2024-10-25T14:58:36-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Acquia Engage NYC 2024 brought updates across DAM, Drupal CMS, SEO, Optimize, analytics, and cloud, many powered by AI.'
 tags:
   - Drupal
   - Acquia
@@ -15,6 +16,7 @@ tags:
   - 'Acquia Search'
 image: acquia/product-portfolio-2024
 published: true
+featured: false
 id: 5706
 ---
 
@@ -29,9 +31,6 @@ At Acquia Engage NYC this week, our partner and customer conference, we shared h
 - **Insights:** Understand how people interact with your digital experiences, segment audiences based on their behavior and interests, and deliver personalized content that drives better engagement and conversion rates.
 
 Since our last Acquia Engage conference in May, roughly six months ago, we've made some great progress, and we announced some major innovations and updates across our platform.
-
-![A diagram showing Acquia's product portfolio organized into three sections: Content \(featuring Acquia CMS, Acquia PIM, Acquia DAM, Acquia Site Factory, and Acquia Cloud Platform\), Optimize \(featuring Acquia Optimize and Acquia SEO\), and Insight \(featuring Acquia Campaign Studio, Acquia Campaign Factory, Acquia CDP, and Acquia Convert\).](http://default/files/cache/acquia/product-portfolio-2024-640w.png)
-*The Acquia Open DXP platform consists of three pillars - Content, Optimize, and Insight - with specialized products in each category to help organizations create, improve, and personalize digital experiences.*
 
 ## Simplify video creation in Acquia DAM
 

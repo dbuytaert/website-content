@@ -25,9 +25,6 @@ Among the most important initiatives for Drupal 8's future is the "API-first ini
 
 In the five months since [my last update](https://dri.es/a-roadmap-for-making-drupal-more-api-first), web services in Drupal have moved forward substantially in functionality and ease of use. This blog post discusses the biggest improvements.
 
-![Diagram showing Drupal's web service building blocks, including HAL, REST, Serialization, JSON API, GraphQL, and Waterwheel dependencies.](http://default/files/cache/drupal/api-first-building-blocks-640w.jpg)
-*An overview of the key building blocks to create web services in Drupal. Out of the box, Drupal core can expose raw JSON structures reflecting its internal storage, or it can expose them in HAL. Note: Waterwheel has an optional dependency on JSON API if JSON API methods are invoked through Waterwheel.js.*
-
 ## Core REST improvements
 
 With the release of Drupal 8.2, the core REST API now supports important requirements for decoupled applications. First, you can now [retrieve configuration entities](https://www.drupal.org/node/2746015) (such as blocks and menus) as REST resources. You can also conduct [user registration](https://www.drupal.org/node/2752071) through the REST API. The developer experience of core REST has improved as well, with [simplified REST configuration](https://www.drupal.org/node/2747231) and better response messages and status codes for requests causing errors.

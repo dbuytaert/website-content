@@ -7,6 +7,7 @@ author:
 date: '2021-09-01T11:53:32-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'A personal check-in from September 2021: work is going well, we moved to Boston, and I visited Cape Cod and Iceland.'
 tags:
   - Travel
   - Photography
@@ -15,6 +16,7 @@ tags:
   - Iceland
 image: summer-in-boston-2021/dinner
 published: true
+featured: false
 id: 5226
 ---
 
@@ -45,8 +47,6 @@ Last but not least, we spent some time at Cape Cod this summer, and traveled to 
 
 ![An American flag waving in the light of the moon](http://default/files/cache/summer-in-boston-2021/red-moon-640w.jpg)
 *A red moon over the water in Cape Cod.*
-![Eating dinner outside overlooking the ocean](http://default/files/cache/summer-in-boston-2021/dinner-640w.jpg)
-*Dinner at Cape Cod.*
 ![A marshmallow roasting over a campfire.](http://default/files/cache/summer-in-boston-2021/smores-640w.jpg)
 *S'mores on the beach.*
 ![Three hikers walk along a rocky path beside hardened lava at Gerlingadalur volcano in Iceland.](http://default/files/cache/iceland-summer-2021/gerlingadalur-volcano-2-640w.jpg)

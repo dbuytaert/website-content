@@ -32,8 +32,6 @@ https://www.youtube.com/watch?v=fFBYqPn8C4E
 
 This project was easy to implement because the team took advantage of the <a hef="https://www.drupal.org/project/alexa">Alexa integration module</a>, which allows Drupal to respond to Alexa skill requests. Originally created by Jakub Suchy (Acquia) and maintained by Chris Hamper (Acquia), the Alexa integration module enables Drupal to respond to custom voice commands, otherwise known as "skills".
 
-![A diagram shows how Amazon Echo uses an Alexa skill to request and retrieve recipes from a Drupal website and database.](http://default/files/cache/acquia/cooking-with-alexa-640w.jpg)
-
 Once an Amazon Echo user provides a verbal query, known as an "utterance", this vocal input is converted into a text-based request (the "intent") that is sent to the Freshland Market website (the "endpoint"). From there, a combination of custom code and the Alexa module for Drupal 8 responds to the Amazon Echo with the requested information.
 
 Over the past year, it's been very exciting to see the Acquia Labs team build a connected customer journey using [chatbots](https://dri.es/think-beyond-with-acquia-labs), [augmented reality](https://dri.es/shopping-with-augmented-reality) and now, voice assistance. It's a great example of how organizations can build cross-channel customer experiences that take place both online and offline, in store and at home, and across multiple touch points. While Freshland Market is a fictional store, any organization could begin creating these user experiences today.

@@ -34,11 +34,6 @@ Scrambling means hiking up steep, rocky terrain using your hands, without the ne
 
 It took us five hours to make it to the top – and it's taking me four days to recover so far. After we reached the top, we descended a few hundred meters and found a patch of grass where we could set up our tent.
 
-<div class="large">
-  ![Our tent setup on a small ridge on Tryfan](http://default/files/cache/hiking-in-wales-2019/camping-on-tryfan-640w.jpg)
-*Our campsite on a ridge on the back of Tryfan. The views were spectacular.*
-</div>
-
 Carrying those heavy backpacks paid off not only because we were able to bring our camping supplies but also because Klaas carried up a steak dinner with cocktails – a late birthday surprise for [my 40th birthday](https://dri.es/forty). Yes, you read that correctly: a steak dinner with cocktails on top of a mountain! It was a real treat!
 
 <div class="side-by-side">

@@ -33,7 +33,7 @@ I'm happy to report that the 12,213 LEGO Drupalicon made it intact (just a few p
 ![A printed photo shows five people standing next to a Lego Druplicon sculpture, with handwritten event details around it.](http://default/files/cache/acquia/lego-druplicon-2-640w.jpg)
 ![A man opens a large wooden crate labeled "Fragile" while a group of people watches in an office.](http://default/files/cache/acquia/lego-druplicon-3-640w.jpg) 
 ![A man unwraps a large, black plastic-covered object from a wooden crate while others watch and take photos.](http://default/files/cache/acquia/lego-druplicon-4-640w.jpg) 
-![A man unwraps a large blue Lego Druplicon sculpture while a group of people watches in an office.](http://default/files/cache/acquia/lego-druplicon-5-640w.jpg) 
+
 ![A large Lego sculpture of the Drupal logo sits on a table while a person adds blue bricks.](http://default/files/cache/acquia/lego-druplicon-6-640w.jpg)
 
 A huge thanks goes out to [DataFlow](https://www.ausy.be/) who spent the time replicating the Druplicon in LEGOs, as well as shipping it over the Atlantic. We are in the process of finding a permanent spot for it in the Acquia office, so it's on display for everyone to see.

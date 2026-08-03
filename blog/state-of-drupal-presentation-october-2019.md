@@ -52,8 +52,6 @@ https://www.youtube.com/watch?v=9LUabe4MjLg
 
 ## Drupal 9 will be the easiest major update
 
-![A couple stares off into the distant sunrise, which has a '9' imposed on the rising sun.](http://default/files/cache/drupal/easy-update-to-drupal-9-sunrise-couple-640w.jpg)
-
 Next, I gave an update on Drupal 9, as we're just eight months from the target release date. We have been working hard to make Drupal 9 the easiest major update in the last decade. In [my keynote at 42:25](https://youtu.be/XX5oJVuapA0?t=2545), I showed how to upgrade your site to Drupal 9.0.0's development release.
 
 ## Drupal 9 product strategy

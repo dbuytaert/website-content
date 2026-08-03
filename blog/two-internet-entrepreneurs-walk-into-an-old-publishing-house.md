@@ -32,5 +32,3 @@ The old house, printing business, presses and lead types are the earliest witnes
 ![An old printing press at the Plantin Moretus Museum](http://default/files/cache/miscellaneous-2019/plantin-moretus-museum-printing-press-640w.jpg)
 
 ![Dries and Matt in front of the oldest printing presses in the world](http://default/files/cache/miscellaneous-2019/plantin-moretus-museum-matt-mullenweg-and-dries-buytaert-640w.jpg)
-
-![An old globe at the Plantin Moretus Museum](http://default/files/cache/miscellaneous-2019/plantin-moretus-museum-globe-640w.jpg)

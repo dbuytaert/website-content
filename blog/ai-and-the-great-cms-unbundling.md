@@ -62,9 +62,6 @@ Two simple questions can help decide how much you need a CMS:
 
 Put those questions on a grid, and four use cases emerge.
 
-![A two-by-two grid showing four scenarios: Assist, Relay, Delegate, and Orchestrate. The vertical axis moves from one person to many people and agents. The horizontal axis moves from one system to many systems and channels. AI tools may be enough for simple solo work, but a CMS becomes more important as content work involves more people and systems.](http://default/files/cache/blog/ai-cms-unbundling-grid-640w.png)
-*The more people, agents, systems, and channels involved, the more a CMS matters as the control layer.*
-
 When one person creates and publishes content, and no other systems depend on it, you may not need a CMS. A lightweight publishing tool or AI site builder may be enough.
 
 When multiple people or agents touch content, you need a CMS for coordination: roles, review, approvals, publishing states, and revision history. AI _inside the CMS_ can help teams create, review, and publish faster without losing control.

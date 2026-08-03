@@ -45,218 +45,218 @@ Despite the large number of individual contributors, a relatively small number d
   <table>
   <thead>
   <tr>
-   <th style="padding: 0.2em;">Rank</th>
-   <th style="padding: 0.2em;">Username</th>
-   <th style="padding: 0.2em;">Issues</th>
+  <th style="padding: 0.2em;">Rank</th>
+  <th style="padding: 0.2em;">Username</th>
+  <th style="padding: 0.2em;">Issues</th>
 </tr>
 </thead>
   <tr>
   <td style="padding: 0.2em;">1</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/99340">dawehner</a>
+  <a href="https://www.drupal.org/user/99340">dawehner</a>
 </td>
   <td style="padding: 0.2em;">560</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">2</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/108450">DamienMcKenna</a>
+  <a href="https://www.drupal.org/user/108450">DamienMcKenna</a>
 </td>
   <td style="padding: 0.2em;">448</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">3</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/157725">alexpott</a>
+  <a href="https://www.drupal.org/user/157725">alexpott</a>
 </td>
   <td style="padding: 0.2em;">409</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">4</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/214652">Berdir</a>
+  <a href="https://www.drupal.org/user/214652">Berdir</a>
 </td>
   <td style="padding: 0.2em;">383</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">5</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/99777">Wim Leers</a>
+  <a href="https://www.drupal.org/user/99777">Wim Leers</a>
 </td>
   <td style="padding: 0.2em;">382</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">6</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/155601">jhodgdon</a>
+  <a href="https://www.drupal.org/user/155601">jhodgdon</a>
 </td>
   <td style="padding: 0.2em;">381</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">7</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/160302">joelpittet</a>
+  <a href="https://www.drupal.org/user/160302">joelpittet</a>
 </td>
   <td style="padding: 0.2em;">294</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">8</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/2833651">heykarthikwithu</a>
+  <a href="https://www.drupal.org/user/2833651">heykarthikwithu</a>
 </td>
   <td style="padding: 0.2em;">293</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">9</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/2416470">mglaman</a>
+  <a href="https://www.drupal.org/user/2416470">mglaman</a>
 </td>
   <td style="padding: 0.2em;">292</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">10</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/205582">drunken monkey</a>
+  <a href="https://www.drupal.org/user/205582">drunken monkey</a>
 </td>
   <td style="padding: 0.2em;">248</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">11</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/1485048">Sam152</a>
+  <a href="https://www.drupal.org/user/1485048">Sam152</a>
 </td>
   <td style="padding: 0.2em;">237</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">12</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/2393360">borisson_</a>
+  <a href="https://www.drupal.org/user/2393360">borisson_</a>
 </td>
   <td style="padding: 0.2em;">207</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">13</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/1852732">benjy</a>
+  <a href="https://www.drupal.org/user/1852732">benjy</a>
 </td>
   <td style="padding: 0.2em;">206</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">14</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/3189199">edurenye</a>
+  <a href="https://www.drupal.org/user/3189199">edurenye</a>
 </td>
   <td style="padding: 0.2em;">184</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">15</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/35733">catch</a>
+  <a href="https://www.drupal.org/user/35733">catch</a>
 </td>
   <td style="padding: 0.2em;">180</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">16</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/744628">slashrsm</a>
+  <a href="https://www.drupal.org/user/744628">slashrsm</a>
 </td>
   <td style="padding: 0.2em;">179</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">17</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/205645">phenaproxima</a>
+  <a href="https://www.drupal.org/user/205645">phenaproxima</a>
 </td>
   <td style="padding: 0.2em;">177</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">18</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/3149657">mbovan</a>
+  <a href="https://www.drupal.org/user/3149657">mbovan</a>
 </td>
   <td style="padding: 0.2em;">174</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">19</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/241634">tim.plunkett</a>
+  <a href="https://www.drupal.org/user/241634">tim.plunkett</a>
 </td>
   <td style="padding: 0.2em;">168</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">20</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/1177822">rakesh.gectcr</a>
+  <a href="https://www.drupal.org/user/1177822">rakesh.gectcr</a>
 </td>
   <td style="padding: 0.2em;">163</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">21</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/2659379">martin107</a>
+  <a href="https://www.drupal.org/user/2659379">martin107</a>
 </td>
   <td style="padding: 0.2em;">163</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">22</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/266527">dsnopek</a>
+  <a href="https://www.drupal.org/user/266527">dsnopek</a>
 </td>
   <td style="padding: 0.2em;">152</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">23</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/4420">mikeryan</a>
+  <a href="https://www.drupal.org/user/4420">mikeryan</a>
 </td>
   <td style="padding: 0.2em;">150</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">24</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/208732">jhedstrom</a>
+  <a href="https://www.drupal.org/user/208732">jhedstrom</a>
 </td>
   <td style="padding: 0.2em;">149</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">25</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/65776">xjm</a>
+  <a href="https://www.drupal.org/user/65776">xjm</a>
 </td>
   <td style="padding: 0.2em;">147</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">26</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/314031">hussainweb</a>
+  <a href="https://www.drupal.org/user/314031">hussainweb</a>
 </td>
   <td style="padding: 0.2em;">147</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">27</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/551886">stefan.r</a>
+  <a href="https://www.drupal.org/user/551886">stefan.r</a>
 </td>
   <td style="padding: 0.2em;">146</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">28</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/86106">bojanz</a>
+  <a href="https://www.drupal.org/user/86106">bojanz</a>
 </td>
   <td style="padding: 0.2em;">145</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">29</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/959536">penyaskito</a>
+  <a href="https://www.drupal.org/user/959536">penyaskito</a>
 </td>
   <td style="padding: 0.2em;">141</td>
 </tr>
   <tr>
   <td style="padding: 0.2em;">30</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/395439">larowlan</a>
+  <a href="https://www.drupal.org/user/395439">larowlan</a>
 </td>
   <td style="padding: 0.2em;">135</td>
 </tr>
@@ -285,9 +285,7 @@ None of these methodologies are perfect, but they all point to a conclusion that
 
 ## Who is sponsoring the work?
 
-Because we established that most of the work on Drupal is sponsored, we know it is important to track and study what organizations contribute to Drupal. Despite 659 different organizations contributing to Drupal, approximately 50% of them got 4 credits or less. The top 30 organizations (roughly top 5%) account for about 29% of the total credits, which suggests that the top 30 companies play a crucial role in the health of the Drupal project. The graph below shows the top 30 organizations and the number of credits they received between July 1, 2015 and June 30, 2016:
-
-![Bar chart showing top organizations contributing to Drupal, with Acquia contributing the most, followed by MD Systems and Chapter Three.](http://default/files/cache/drupal/contributions-top-30-organizations-2016-640w.jpg)
+Because we established that most of the work on Drupal is sponsored, we know it is important to track and study what organizations contribute to Drupal. Despite 659 different organizations contributing to Drupal, approximately 50% of them got 4 credits or less. The top 30 organizations (roughly top 5%) account for about 29% of the total credits, which suggests that the top 30 companies play a crucial role in the health of the Drupal project. The graph above shows the top 30 organizations and the number of credits they received between July 1, 2015 and June 30, 2016.
 
 While not immediately obvious from the graph above, different types of companies are active in Drupal's ecosystem and we propose the following categorization below to discuss our ecosystem.
 
@@ -370,19 +368,19 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <table>
   <thead>
   <tr>
-   <th style="padding: 0.2em;">Rank</th>
-   <th style="padding: 0.2em;">Username</th>
-   <th style="padding: 0.2em;">Issues</th>
-   <th style="padding: 0.2em;">Volunteer</th>
-   <th style="padding: 0.2em;">Sponsored</th>
-   <th style="padding: 0.2em;">Not specified</th>
-   <th style="padding: 0.2em;">Sponsors</th>
+  <th style="padding: 0.2em;">Rank</th>
+  <th style="padding: 0.2em;">Username</th>
+  <th style="padding: 0.2em;">Issues</th>
+  <th style="padding: 0.2em;">Volunteer</th>
+  <th style="padding: 0.2em;">Sponsored</th>
+  <th style="padding: 0.2em;">Not specified</th>
+  <th style="padding: 0.2em;">Sponsors</th>
 </tr>
 </thead>
   <tr>
   <td style="padding: 0.2em;">1</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/99340">dawehner</a>
+  <a href="https://www.drupal.org/user/99340">dawehner</a>
 </td>
   <td style="padding: 0.2em;">560</td>
   <td style="padding: 0.2em;">84.1%</td>
@@ -393,7 +391,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">2</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/108450">DamienMcKenna</a>
+  <a href="https://www.drupal.org/user/108450">DamienMcKenna</a>
 </td>
   <td style="padding: 0.2em;">448</td>
   <td style="padding: 0.2em;">6.9%</td>
@@ -404,7 +402,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">3</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/157725">alexpott</a>
+  <a href="https://www.drupal.org/user/157725">alexpott</a>
 </td>
   <td style="padding: 0.2em;">409</td>
   <td style="padding: 0.2em;">0.2%</td>
@@ -415,7 +413,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">4</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/214652">Berdir</a>
+  <a href="https://www.drupal.org/user/214652">Berdir</a>
 </td>
   <td style="padding: 0.2em;">383</td>
   <td style="padding: 0.2em;">0.0%</td>
@@ -426,7 +424,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">5</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/99777">Wim Leers</a>
+  <a href="https://www.drupal.org/user/99777">Wim Leers</a>
 </td>
   <td style="padding: 0.2em;">382</td>
   <td style="padding: 0.2em;">31.7%</td>
@@ -437,7 +435,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">6</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/155601">jhodgdon</a>
+  <a href="https://www.drupal.org/user/155601">jhodgdon</a>
 </td>
   <td style="padding: 0.2em;">381</td>
   <td style="padding: 0.2em;">5.2%</td>
@@ -448,7 +446,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">7</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/160302">joelpittet</a>
+  <a href="https://www.drupal.org/user/160302">joelpittet</a>
 </td>
   <td style="padding: 0.2em;">294</td>
   <td style="padding: 0.2em;">23.8%</td>
@@ -459,7 +457,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">8</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/2833651">heykarthikwithu</a>
+  <a href="https://www.drupal.org/user/2833651">heykarthikwithu</a>
 </td>
   <td style="padding: 0.2em;">293</td>
   <td style="padding: 0.2em;">99.3%</td>
@@ -470,7 +468,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">9</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/2416470">mglaman</a>
+  <a href="https://www.drupal.org/user/2416470">mglaman</a>
 </td>
   <td style="padding: 0.2em;">292</td>
   <td style="padding: 0.2em;">9.6%</td>
@@ -481,7 +479,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">10</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/205582">drunken monkey</a>
+  <a href="https://www.drupal.org/user/205582">drunken monkey</a>
 </td>
   <td style="padding: 0.2em;">248</td>
   <td style="padding: 0.2em;">75.4%</td>
@@ -492,7 +490,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">11</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/1485048">Sam152</a>
+  <a href="https://www.drupal.org/user/1485048">Sam152</a>
 </td>
   <td style="padding: 0.2em;">237</td>
   <td style="padding: 0.2em;">75.9%</td>
@@ -503,7 +501,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">12</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/2393360">borisson_</a>
+  <a href="https://www.drupal.org/user/2393360">borisson_</a>
 </td>
   <td style="padding: 0.2em;">207</td>
   <td style="padding: 0.2em;">62.8%</td>
@@ -514,7 +512,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">13</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/1852732">benjy</a>
+  <a href="https://www.drupal.org/user/1852732">benjy</a>
 </td>
   <td style="padding: 0.2em;">206</td>
   <td style="padding: 0.2em;">0.0%</td>
@@ -525,7 +523,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">14</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/3189199">edurenye</a>
+  <a href="https://www.drupal.org/user/3189199">edurenye</a>
 </td>
   <td style="padding: 0.2em;">184</td>
   <td style="padding: 0.2em;">0.0%</td>
@@ -536,7 +534,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">15</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/35733">catch</a>
+  <a href="https://www.drupal.org/user/35733">catch</a>
 </td>
   <td style="padding: 0.2em;">180</td>
   <td style="padding: 0.2em;">3.3%</td>
@@ -547,7 +545,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">16</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/744628">slashrsm</a>
+  <a href="https://www.drupal.org/user/744628">slashrsm</a>
 </td>
   <td style="padding: 0.2em;">179</td>
   <td style="padding: 0.2em;">12.8%</td>
@@ -558,7 +556,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">17</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/205645">phenaproxima</a>
+  <a href="https://www.drupal.org/user/205645">phenaproxima</a>
 </td>
   <td style="padding: 0.2em;">177</td>
   <td style="padding: 0.2em;">0.0%</td>
@@ -569,7 +567,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">18</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/3149657">mbovan</a>
+  <a href="https://www.drupal.org/user/3149657">mbovan</a>
 </td>
   <td style="padding: 0.2em;">174</td>
   <td style="padding: 0.2em;">7.5%</td>
@@ -580,7 +578,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">19</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/241634">tim.plunkett</a>
+  <a href="https://www.drupal.org/user/241634">tim.plunkett</a>
 </td>
   <td style="padding: 0.2em;">168</td>
   <td style="padding: 0.2em;">14.3%</td>
@@ -591,7 +589,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">20</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/1177822">rakesh.gectcr</a>
+  <a href="https://www.drupal.org/user/1177822">rakesh.gectcr</a>
 </td>
   <td style="padding: 0.2em;">163</td>
   <td style="padding: 0.2em;">100.0%</td>
@@ -602,7 +600,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">21</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/2659379">martin107</a>
+  <a href="https://www.drupal.org/user/2659379">martin107</a>
 </td>
   <td style="padding: 0.2em;">163</td>
   <td style="padding: 0.2em;">4.9%</td>
@@ -614,7 +612,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">22</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/266527">dsnopek</a>
+  <a href="https://www.drupal.org/user/266527">dsnopek</a>
 </td>
   <td style="padding: 0.2em;">152</td>
   <td style="padding: 0.2em;">0.7%</td>
@@ -626,7 +624,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">23</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/4420">mikeryan</a>
+  <a href="https://www.drupal.org/user/4420">mikeryan</a>
 </td>
   <td style="padding: 0.2em;">150</td>
   <td style="padding: 0.2em;">0.0%</td>
@@ -637,7 +635,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">24</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/208732">jhedstrom</a>
+  <a href="https://www.drupal.org/user/208732">jhedstrom</a>
 </td>
   <td style="padding: 0.2em;">149</td>
   <td style="padding: 0.2em;">0.0%</td>
@@ -648,7 +646,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">25</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/65776">xjm</a>
+  <a href="https://www.drupal.org/user/65776">xjm</a>
 </td>
   <td style="padding: 0.2em;">147</td>
   <td style="padding: 0.2em;">0.0%</td>
@@ -659,7 +657,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">26</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/314031">hussainweb</a>
+  <a href="https://www.drupal.org/user/314031">hussainweb</a>
 </td>
   <td style="padding: 0.2em;">147</td>
   <td style="padding: 0.2em;">2.0%</td>
@@ -670,7 +668,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">27</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/551886">stefan.r</a>
+  <a href="https://www.drupal.org/user/551886">stefan.r</a>
 </td>
   <td style="padding: 0.2em;">146</td>
   <td style="padding: 0.2em;">0.7%</td>
@@ -681,7 +679,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">28</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/86106">bojanz</a>
+  <a href="https://www.drupal.org/user/86106">bojanz</a>
 </td>
   <td style="padding: 0.2em;">145</td>
   <td style="padding: 0.2em;">2.1%</td>
@@ -692,7 +690,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">29</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/959536">penyaskito</a>
+  <a href="https://www.drupal.org/user/959536">penyaskito</a>
 </td>
   <td style="padding: 0.2em;">141</td>
   <td style="padding: 0.2em;">6.4%</td>
@@ -703,7 +701,7 @@ In response to Acquia's high level of participation in the Drupal project, as we
   <tr>
   <td style="padding: 0.2em;">30</td>
   <td style="padding: 0.2em;">
-   <a href="https://www.drupal.org/user/395439">larowlan</a>
+  <a href="https://www.drupal.org/user/395439">larowlan</a>
 </td>
   <td style="padding: 0.2em;">135</td>
   <td style="padding: 0.2em;">34.1%</td>

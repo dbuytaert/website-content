@@ -20,7 +20,7 @@ id: 173
 
 ![Diagram comparing Drupal distributions, which share modules and collaborate, with forks, which do not collaborate and compete independently.](http://default/files/images/drupal/distributions.jpg)
 
-Drupal 5.0, the upcoming Drupal release, will have better support for *Drupal distributions*. Each distribution takes some set of Drupal themes and modules and packages them together with the Drupal core, along with custom installation steps, documentation, and so on. For example, one could create a distribution called "Drupal for Education"; it could have pre-configured roles and permissions for both teachers and students, and ship with additional modules that allow one to offer online courses and testing.
+Drupal 5.0, the upcoming Drupal release, will have better support for *Drupal distributions*. Each distribution takes some set of Drupal themes and modules and packages them together with the Drupal Core, along with custom installation steps, documentation, and so on. For example, one could create a distribution called "Drupal for Education"; it could have pre-configured roles and permissions for both teachers and students, and ship with additional modules that allow one to offer online courses and testing.
 
 ## New and different markets
 
@@ -34,7 +34,7 @@ While the possibilities are nearly unlimited, it does impose a number of challen
 
 It is important that Drupal distributions collaborate, and not compete. To do so, we have to provide Drupal distributions an environment that encourages collaboration, and that allows for specialization (such as custom documentation and support) without introducing incompatibilities that drive competition.
 
-The good news is that we know how to do this. We've been through this already with [CivicSpace](http://civicspacelabs.org/) (previously called "DeanSpace"), a Drupal distribution for online campaign management and grassroots activism. They were quick to realize that the success of the CivicSpace distribution depends on the success Drupal core, and vice versa. The decided they shouldn't fork core development. Instead, CivicSpace decided to do all its development on the drupal.org infrastructure, to synchronize releases, to submit all patches upstream, to centralize bug reports, and to share documentation where possible. Collaboration, not competition.
+The good news is that we know how to do this. We've been through this already with [CivicSpace](http://civicspacelabs.org/) (previously called "DeanSpace"), a Drupal distribution for online campaign management and grassroots activism. They were quick to realize that the success of the CivicSpace distribution depends on the success Drupal Core, and vice versa. The decided they shouldn't fork core development. Instead, CivicSpace decided to do all its development on the drupal.org infrastructure, to synchronize releases, to submit all patches upstream, to centralize bug reports, and to share documentation where possible. Collaboration, not competition.
 
 The bad news is that can be hard work. People will find that creating a distribution is fun and easy, but that being a [responsible maintainer](/responsible-maintainers) might be a lot less fun. Who wants to track changes, write documentation, maintain modules, provide upgrade paths, manage releases and provide support for years to come?
 
@@ -50,15 +50,13 @@ As a community we should disapprove Drupal distributions that do not intend to c
 
 ## Fragmentation and natural selection
 
-Things might be more subtle than that. Even if we collaborate and all Drupal distributions are built on the exact same Drupal core, there will still be incompatibilities in terms of documentation, support and vision. After all, most Drupal distributions will want to provide specialized documentation and support. Being able to create this kind of value is the very reason why distributions exist.
+Things might be more subtle than that. Even if we collaborate and all Drupal distributions are built on the exact same Drupal Core, there will still be incompatibilities in terms of documentation, support and vision. After all, most Drupal distributions will want to provide specialized documentation and support. Being able to create this kind of value is the very reason why distributions exist.
 
 These incompatibilities can create an incentive to compete. Just look at what is happening with Debian and Ubuntu. Ubuntu began as a fork of Debian with the aim of drawing from Debian's code regularly in order to allow for frequent releases. So Debian diverged and Ubuntu was created. Now, they are driven more and more apart by these incompatibilities, and as a result, Debian risks being superseded. The same is happening with Mambo and Joomla, with NetBSD and FreeBSD, already happened with Unices and Linux, and might happen with RedHat and Oracle.
 
 If we are not careful, Drupal risks suffering a similar fate: *splintering into multiple competing distributions*. It is a slow process and often takes many years (and is therefore often disregarded by the people who are too closely involved). The good news is that this isn't necessarily a bad thing because ultimately more people win. It is how nature works and it is called "mutation" and "natural selection".
 
 That said, we should disapprove distributions that are created out of frustration (eg. a "Drupal Pro" distribution or a "Drupal Lite" distribution whose main reason of existence is driven by frustration). The difference between a distribution and a fork can be a subtle. Listening to our users and changing the way things work should continue to be the preferred answer to user frustration. As Darwin said, it's not the strongest organisms that win, it's the most adaptable to change.
-
-![Diagram comparing Drupal distributions, which share modules and collaborate, with forks, which do not collaborate and compete independently.](http://default/files/images/drupal/distributions.jpg)
 
 ## Conclusions
 

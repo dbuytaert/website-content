@@ -84,9 +84,6 @@ We climbed Mount Pierce (4,310 ft) first, then continued toward the broad dome o
 
 Between Eisenhower and our destination, we crossed Mount Franklin, which looks like a summit and feels like a summit but does not officially count as one.
 
-![A wooden trail sign marks the Crawford Path and Appalachian Trail, with Mount Washington 5.4 miles away and Lakes of the Clouds 3.9 miles away.](http://default/files/cache/presidential-traverse-2026/mount-washington-trail-sign-640w.jpg)
-*The sign put Mount Washington 5.4 miles away. What it did not say was how difficult each of those miles would be.*
-
 By early afternoon, we reached Lakes of the Clouds, the highest and best-known of the Appalachian Mountain Club's huts. We dropped our packs, claimed our bunks, and set out for the summit of Mount Washington (6,288 ft). The climb added two and a half hours to an already long day, but with the summit just above us, we kept going.
 
 Mount Washington bills itself as the home of the world's worst weather. In 1934, observers at the summit recorded a wind gust of 231 miles per hour, a world record that stood until 1996. It remains the strongest gust ever measured at a staffed weather station. People die on and around Mount Washington nearly every year, often after the weather turns faster than they expect. We, somehow, got sunshine and crystal-clear air, with views that stretched for more than a hundred miles.

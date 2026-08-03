@@ -57,8 +57,6 @@ And what about contributed modules? The compatibility of contributed modules is 
 
 Historically, our policy has been to only support two major versions of Drupal; Drupal 7 would ordinarily reach end of life when Drupal 9 is released. Because a large number of sites might still be using Drupal 7 by 2020, we have decided to extend support of Drupal 7 until November 2021. Drupal 7 will receive community support for three whole more years.
 
-![An image that shows that Drupal 7 and Drupal 8 will be end-of-life in 2021](http://default/files/cache/drupal/drupal-7-will-be-supported-until-november-2021-640w.jpg)
-
 ### We'll launch a Drupal 7 commercial Long Term Support program
 
 In the past, commercial vendors have extended Drupal's security support. In 2015, a [Drupal 6 commercial Long Term Support program was launched](https://www.drupal.org/project/d6lts) and continues to run to this day. We plan a similar paid program for Drupal 7 to extend support beyond November 2021. The Drupal Security Team will announce the Drupal 7 commercial LTS program information by mid-2019. Just like with the [Drupal 6 LTS](https://www.drupal.org/drupal-security-team/drupal-6-long-term-support) program, there will be an application for vendors.

@@ -181,13 +181,9 @@ let lazyImageObserver = new IntersectionObserver(..., config);
 
 ## Lazy loading images drastically improves performance
 
-After making these changes to my site, I did a new <https://webpagetest.org> benchmark run:
+After making these changes to my site, I did a new <https://webpagetest.org> benchmark run.
 
-<div class="large">
-  ![A diagram that shows page load times for dri.es before making performance improvements](http://default/files/cache/blog/webpagetest-images-february-2019-after-640w.png)
-</div>
-
-You can clearly see that the page became a lot faster to render:
+The benchmark above shows that the page became a lot faster to render:
 
 - The document is complete after 0.35 seconds (blue vertical line) instead of the original 7.275 seconds.
 - No images are loaded before the document is complete, compared to 13 images being loaded before.

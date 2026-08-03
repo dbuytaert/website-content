@@ -39,11 +39,6 @@ For a week, we lived out of a van, wild camping along Scotland's empty roads. Ou
 
 Our daily routine was refreshingly simple: wake up to misty mornings, often slightly cold from sleeping in the van. Fuel up with coffee and breakfast, including the occasional [haggis](https://en.wikipedia.org/wiki/Haggis) breakfast roll, and tackle a hike. We'd usually skip lunch, but by the end of the day, we'd find a hearty meal or local pub. We even found ourselves having evening coding sessions in our mobile home; me working on my location tracking app and Klaas working on an AI assistant.
 
-<div class="large">
-  ![A person standing on a rock, arms wide open, overlooking a vast landscape.](http://default/files/cache/isle-of-skye-2024/exploring-the-quiraing-640w.jpg)
-*We hiked the Quiraing through mud and wind, with Highland cows watching us trudge by. My favorite part was wandering across the open highlands, letting the strong wind push me forward.*
-</div>
-
 Though we mostly embraced the camping lifestyle, we did surrender to civilization on day three, treating ourselves to a hotel room and much-needed shower. We also secretly washed our camping dishes in the bathroom sink.
 
 At one point, a kind park ranger had to kick us out of a parking lot, but decided to sprinkle some Scottish optimism our way. <q>The good news is that the weather will get better ...</q>, he said, watching our faces light up. Then came the punchline, delivered with the timing of a seasoned comedian: <q>... in April.</q>.

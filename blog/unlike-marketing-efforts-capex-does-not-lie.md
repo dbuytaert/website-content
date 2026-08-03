@@ -30,8 +30,6 @@ Building this analysis on CAPEX spending is far from perfect, as it includes inv
 
 The [Platformonomics analysis](http://www.platformonomics.com/2018/05/follow-the-capex-separating-the-clowns-from-the-clouds/) prompted me to do a bit of research on my own.
 
-![The evolution of Amazon, Alphabet, Google, IBM and Oracle's CAPEX between 2008 and 2018](http://default/files/cache/blog/capex-cloud-vendors-absolute-growth-2018-640w.jpg)
-
 The graph above shows the trailing twelve months (TTM) CAPEX spending for each of the five cloud vendors. CAPEX don't lie: cloud infrastructure services is clearly a three-player race. There are only three cloud infrastructure companies that are really growing: Amazon, Google (Alphabet) and Microsoft. Oracle and IBM are far behind and their spending is not enough to keep pace with Amazon, Microsoft or Google.
 
 Amazon's growth in CAPEX is the most impressive. This becomes really clear when you look at the percentage growth:

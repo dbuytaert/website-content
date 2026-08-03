@@ -52,8 +52,6 @@ Drupal 8 was released at the end of 2015, which means our community has had over
 
 In an effort to better understand the biggest hurdles facing Drupal adoption, we interviewed over 150 individuals around the world that hold different roles within the community. We talked to Drupal front-end and back-end developers, contributors, trainers, agency owners, vendors that sell Drupal to customers, end users, and more. Based on their feedback, we established four goals to help accelerate Drupal adoption.
 
-![Lets grow Drupal together](http://default/files/cache/drupalcon-nashville-2018/lets-grow-drupal-together-640w.jpg)
-
 ### Goal 1: Improve the technical evaluation process
 
 Matthew Grasmick recently completed an exercise in which he [assessed the technical evaluator experience of four different PHP frameworks](http://matthewgrasmick.com/compare-php-frameworks), and discovered that [Drupal required the most steps to install](https://www.youtube.com/watch?v=9E34hSVFE94). Having [a good technical evaluator experience is critical](https://dri.es/three-ways-we-can-improve-drupal-evaluator-experience), as it has a direct impact on adoption rates.
@@ -62,47 +60,47 @@ To improve the Drupal evaluation process, we've proposed the following initiativ
 
 <table>
   <thead>
-   <tr>
-    <td>Initiative</td>
-    <td>Issue link</td>
-    <td>Stakeholders</td>
-    <td>Initiative coordinator</td>
-    <td>Status</td>
-  </tr>
- </thead>
   <tr>
-   <td>Better discovery experience on Drupal.org</td>
-   <td>
-    <a href="https://www.drupal.org/drupalorg/roadmap">Drupal.org roadmap</a>
-  </td>
-   <td>Drupal Association</td>
-   <td>
-    <a href="https://www.drupal.org/u/hestenet">hestenet</a>
-  </td>
-   <td>Under active development</td>
+   <td>Initiative</td>
+   <td>Issue link</td>
+   <td>Stakeholders</td>
+   <td>Initiative coordinator</td>
+   <td>Status</td>
  </tr>
+</thead>
   <tr>
-   <td>Better "getting started" documentation</td>
-   <td>
-    <a href="https://www.drupal.org/node/2956879">#2956879</a>
-  </td>
-   <td>Documentation Working Group</td>
-   <td>
-    <a href="https://www.drupal.org/u/grasmash">grasmash</a>
-  </td>
-   <td>In planning</td>
- </tr>
+  <td>Better discovery experience on Drupal.org</td>
+  <td>
+   <a href="https://www.drupal.org/drupalorg/roadmap">Drupal.org roadmap</a>
+ </td>
+  <td>Drupal Association</td>
+  <td>
+   <a href="https://www.drupal.org/u/hestenet">hestenet</a>
+ </td>
+  <td>Under active development</td>
+</tr>
   <tr>
-   <td>More modern administration experience</td>
-   <td>
-    <a href="https://www.drupal.org/node/2957457">#2957457</a>
-  </td>
-   <td>Core contributors</td>
-   <td>
-    <a href="https://www.drupal.org/u/ckrina">ckrina</a> and <a href="https://www.drupal.org/u/yoroy">yoroy</a>
-  </td>
-   <td>Under active development</td>
- </tr>
+  <td>Better "getting started" documentation</td>
+  <td>
+   <a href="https://www.drupal.org/node/2956879">#2956879</a>
+ </td>
+  <td>Documentation Working Group</td>
+  <td>
+   <a href="https://www.drupal.org/u/grasmash">grasmash</a>
+ </td>
+  <td>In planning</td>
+</tr>
+  <tr>
+  <td>More modern administration experience</td>
+  <td>
+   <a href="https://www.drupal.org/node/2957457">#2957457</a>
+ </td>
+  <td>Core contributors</td>
+  <td>
+   <a href="https://www.drupal.org/u/ckrina">ckrina</a> and <a href="https://www.drupal.org/u/yoroy">yoroy</a>
+ </td>
+  <td>Under active development</td>
+</tr>
 </table>
 
 To become involved with one of these initiatives, click on its "Issue link" in the table above. This will take you to Drupal.org, where you can contribute by sharing your ideas or lending your expertise to move an initiative forward.
@@ -120,48 +118,48 @@ Most of these initiative teams meet weekly on [Drupal Slack](https://www.drupal.
 Our research also showed that to improve the site builder experience, we should focus on improving the three following areas:
 
 - The configuration management capabilities in core need to support more common use cases out-of-the-box.
-- Composer and Drupal core should be better integrated to empower site builders to manage dependencies and keep Drupal sites up-to-date.
+- Composer and Drupal Core should be better integrated to empower site builders to manage dependencies and keep Drupal sites up-to-date.
 - We should provide a longer grace period between required core updates so development teams have more time to prepare, test, and upgrade their Drupal sites after each new minor Drupal release.
 
 We plan to make all of these aspects easier for site builders through the following initiatives:
 
 <table>
   <thead>
-   <tr>
-    <td>Initiative</td>
-    <td>Issue link</td>
-    <td>Stakeholders</td>
-    <td>Initiative coordinator</td>
-    <td>Status</td>
-  </tr>
- </thead>
   <tr>
-   <td>Composer &amp; Core</td>
-   <td>
-    <a href="https://www.drupal.org/node/2958021">#2958021</a>
-  </td>
-   <td>Core contributors + Drupal Association</td>
-   <td>Coordinator needed!</td>
-   <td>Proposed</td>
+   <td>Initiative</td>
+   <td>Issue link</td>
+   <td>Stakeholders</td>
+   <td>Initiative coordinator</td>
+   <td>Status</td>
  </tr>
+</thead>
   <tr>
-   <td>Config Management 2.0</td>
-   <td>
-    <a href="https://www.drupal.org/node/2957423">#2957423</a>
-  </td>
-   <td>Core contributors</td>
-   <td>Coordinator needed!</td>
-   <td>Proposed</td>
- </tr>
+  <td>Composer &amp; Core</td>
+  <td>
+   <a href="https://www.drupal.org/node/2958021">#2958021</a>
+ </td>
+  <td>Core contributors + Drupal Association</td>
+  <td>Coordinator needed!</td>
+  <td>Proposed</td>
+</tr>
   <tr>
-   <td>Security LTS</td>
-   <td>
-    <a href="https://www.drupal.org/node/2909665">2909665</a>
-  </td>
-   <td>Core committers + Drupal Security Team + Drupal Association</td>
-   <td>Core committers and Security team</td>
-   <td>Proposed, under discussion</td>
- </tr>
+  <td>Config Management 2.0</td>
+  <td>
+   <a href="https://www.drupal.org/node/2957423">#2957423</a>
+ </td>
+  <td>Core contributors</td>
+  <td>Coordinator needed!</td>
+  <td>Proposed</td>
+</tr>
+  <tr>
+  <td>Security LTS</td>
+  <td>
+   <a href="https://www.drupal.org/node/2909665">2909665</a>
+ </td>
+  <td>Core committers + Drupal Security Team + Drupal Association</td>
+  <td>Core committers and Security team</td>
+  <td>Proposed, under discussion</td>
+</tr>
 </table>
 
 ### Goal 4: Promote Drupal to non-technical decision makers

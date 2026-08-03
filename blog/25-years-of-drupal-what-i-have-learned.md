@@ -32,11 +32,6 @@ Looking back, the most important things I learned weren't really about software.
 
 Twenty-five years, twenty-five lessons.
 
-<div class="large">
-![A speaker on stage hugs a large blue Drupal mascot holding large scissors while an audience takes photos.](http://default/files/cache/drupalcon-paris-2009/drupalcon-4-640w.jpg)
-*At DrupalCon Paris 2009, we cut a ribbon. Druplicon was holding rather large scissors. The photo was taken at exactly the wrong moment, but it's still one of my favorite Drupal photos.*
-</div>
-
 **1. You can do well and do good**
 
 I used to think I had to choose: build a sustainable business or build something generous. Drupal taught me that is a false choice. Growth and generosity can reinforce each other. The real challenge is making sure one does not crowd out the other.

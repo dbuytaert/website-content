@@ -73,11 +73,6 @@ That night we stayed at Skull Hollow Campground, a basic campground without hook
 
 It was cold, down to 37°F, but the van handled it well. We kept the heat at 60°F and slept soundly under a heavy duvet. When we woke up, the solar panels were already soaking up sunlight.
 
-<div class="large">
-  ![Tall rock cliffs surround a winding river and hiking trail at Smith Rock State Park in Oregon.](http://default/files/cache/oregon-2025/smith-rock-state-park-640w.jpg)
-*We hiked the Misery Ridge and River Trail in Smith Rock State Park. The steep switchbacks and rocky terrain made it a tough climb, but the panoramic views were worth it.*
-</div>
-
 Smith Rock State Park was just fifteen minutes away. Vanessa wanted to drive the van somewhere more rural, and this was the perfect chance. She handled the van like a boss.
 
 ## Day 6: Bend and our first HipCamp

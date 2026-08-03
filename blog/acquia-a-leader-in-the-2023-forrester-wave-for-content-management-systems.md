@@ -22,8 +22,6 @@ id: 5501
 
 [Acquia](https://www.acquia.com/) was named a leader in [The Forrester Wave™: Content Management Systems, Q3 2023](https://www.acquia.com/newsroom/press-releases/acquia-named-leader-forrester-cms-wave).
 
-![Acquia shown as a Leader together with Adobe and Optimizely.](http://default/files/cache/acquia/forrester-wave-for-content-management-systems-2023-640w.png)
-
 As I read the introduction to the report, I noted that Forrester described an important shift: <q>CMSes have moved beyond their last era of radical transformation – 'headless' (API-based) experience delivery. All CMSes evaluated have headless capabilities.</q>.
 
 I certainly agree. As I wrote in my [Composable Digital Experience Manifesto](https://dri.es/a-composable-digital-experience-manifesto): <q>Nearly all Traditional CMSes have evolved to be Hybrid CMSes. It's no longer relevant to talk about Traditional CMSes. Today, the choice is really between Headless and Hybrid.</q>.

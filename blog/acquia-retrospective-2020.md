@@ -49,11 +49,6 @@ The best way to learn about what Acquia has been working on is to [watch the rec
 
 Our product portfolio is organized in two lines of business: the Drupal Cloud and Marketing Could. *Content* is at the core of the Drupal Cloud, and *data* is at the core of the Marketing Cloud.
 
-<div class="large">
-  ![Shown on the left: Drupal Cloud. Shown on the right: Marketing Cloud.](http://default/files/cache/acquia/product-portfolio-2020-640w.png)
-*Acquia's product portfolio in 2020.*
-</div>
-
 Acquia's Drupal Cloud remains the number one Drupal platform in the enterprise with 40% of Fortune 100 companies as our customers. Acquia is the number one vendor in terms of performance, scalability, security and compliance. Across our customers, we served more than 500 billion HTTP requests in 2020.
 
 Acquia's Marketing Cloud managed over 3 billion customer profiles, 20 billion e-commerce transactions, and over 100 billion customer interactions in 2020. We made nearly 1.5 billion machine learning predictions every day.

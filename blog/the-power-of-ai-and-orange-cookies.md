@@ -7,19 +7,18 @@ author:
 date: '2022-12-23T08:30:38-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'I asked OpenAI for an orange cookie recipe and baked the results 24 hours later.'
 tags:
   - Humor
   - 'Artificial Intelligence'
-image: miscellaneous-2022/orange-cookies
 published: true
+featured: false
 id: 5411
 ---
 
 # The power of artificial intelligence (and orange cookies)
 
-![A baking sheet holds freshly baked orange cookies.](http://default/files/cache/miscellaneous-2022/orange-cookies-640w.jpg)
-
-Navigated to [OpenAI](https://chat.openai.com/), an artificial intelligence (AI) research platform:
+I navigated to [OpenAI](https://chat.openai.com/), an artificial intelligence (AI) research platform:
 
 ![I asked OpenAI to write a letter to my wife begging her to make orange cookies.](http://default/files/cache/blog/openai-orange-cookies-640w.png)
 

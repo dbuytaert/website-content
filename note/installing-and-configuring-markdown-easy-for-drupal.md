@@ -36,7 +36,6 @@ ddev drush updatedb
 
 As explained in [*Switching to Markdown after 20 years of HTML*](https://dri.es/switching-to-markdown-after-20-years-of-html), I want to use HTML and Markdown interchangeably. By default, *Markdown Easy* strips all HTML. This default approach is the safest option for most sites, but it also means you can't freely mix HTML tags and Markdown.
 
-
 To change that behavior, I needed to adjust two configuration settings. These settings are not exposed anywhere in Drupal's admin interface, which is intentional. *Markdown Easy* keeps its configuration surface small to stay true to its "easy" name, and it leads with a secure-by-default philosophy. If you choose to relax those defaults, you can do so using Drush.
 
 ```bash

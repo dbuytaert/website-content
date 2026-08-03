@@ -71,218 +71,218 @@ While the number of individual contributors rose, a relatively small number of i
   <table>
   <thead>
   <tr>
-   <th style="padding: 0.2em;">Rank</th>
-   <th style="padding: 0.2em;">Username</th>
-   <th style="padding: 0.2em;">Issues</th>
+  <th style="padding: 0.2em;">Rank</th>
+  <th style="padding: 0.2em;">Username</th>
+  <th style="padding: 0.2em;">Issues</th>
 </tr>
 </thead>
   <tr>
   <td>1</td>
   <td>
-   <a href="https://www.drupal.org/u/jrockowitz">jrockowitz</a>
+  <a href="https://www.drupal.org/u/jrockowitz">jrockowitz</a>
 </td>
   <td>537</td>
 </tr>
   <tr>
   <td>2</td>
   <td>
-   <a href="https://www.drupal.org/u/dawehner">dawehner</a>
+  <a href="https://www.drupal.org/u/dawehner">dawehner</a>
 </td>
   <td>421</td>
 </tr>
   <tr>
   <td>3</td>
   <td>
-   <a href="https://www.drupal.org/u/renatog">RenatoG</a>
+  <a href="https://www.drupal.org/u/renatog">RenatoG</a>
 </td>
   <td>408</td>
 </tr>
   <tr>
   <td>4</td>
   <td>
-   <a href="https://www.drupal.org/u/bojanz">bojanz</a>
+  <a href="https://www.drupal.org/u/bojanz">bojanz</a>
 </td>
   <td>351</td>
 </tr>
   <tr>
   <td>5</td>
   <td>
-   <a href="https://www.drupal.org/u/berdir">Berdir</a>
+  <a href="https://www.drupal.org/u/berdir">Berdir</a>
 </td>
   <td>335</td>
 </tr>
   <tr>
   <td>6</td>
   <td>
-   <a href="https://www.drupal.org/u/mglaman">mglaman</a>
+  <a href="https://www.drupal.org/u/mglaman">mglaman</a>
 </td>
   <td>334</td>
 </tr>
   <tr>
   <td>7</td>
   <td>
-   <a href="https://www.drupal.org/u/wim-leers">Wim Leers</a>
+  <a href="https://www.drupal.org/u/wim-leers">Wim Leers</a>
 </td>
   <td>332</td>
 </tr>
   <tr>
   <td>8</td>
   <td>
-   <a href="https://www.drupal.org/u/alexpott">alexpott</a>
+  <a href="https://www.drupal.org/u/alexpott">alexpott</a>
 </td>
   <td>329</td>
 </tr>
   <tr>
   <td>9</td>
   <td>
-   <a href="https://www.drupal.org/u/damienmckenna">DamienMcKenna</a>
+  <a href="https://www.drupal.org/u/damienmckenna">DamienMcKenna</a>
 </td>
   <td>245</td>
 </tr>
   <tr>
   <td>10</td>
   <td>
-   <a href="https://www.drupal.org/u/jhodgdon">jhodgdon</a>
+  <a href="https://www.drupal.org/u/jhodgdon">jhodgdon</a>
 </td>
   <td>242</td>
 </tr>
   <tr>
   <td>11</td>
   <td>
-   <a href="https://www.drupal.org/u/drunken-monkey">drunken monkey</a>
+  <a href="https://www.drupal.org/u/drunken-monkey">drunken monkey</a>
 </td>
   <td>238</td>
 </tr>
   <tr>
   <td>12</td>
   <td>
-   <a href="https://www.drupal.org/u/naveenvalecha">naveenvalecha</a>
+  <a href="https://www.drupal.org/u/naveenvalecha">naveenvalecha</a>
 </td>
   <td>196</td>
 </tr>
   <tr>
   <td>13</td>
   <td>
-   <a href="https://www.drupal.org/u/munavijayalakshmi">Munavijayalakshmi</a>
+  <a href="https://www.drupal.org/u/munavijayalakshmi">Munavijayalakshmi</a>
 </td>
   <td>192</td>
 </tr>
   <tr>
   <td>14</td>
   <td>
-   <a href="https://www.drupal.org/u/borisson_">borisson_</a>
+  <a href="https://www.drupal.org/u/borisson_">borisson_</a>
 </td>
   <td>191</td>
 </tr>
   <tr>
   <td>15</td>
   <td>
-   <a href="https://www.drupal.org/u/yongt9412">yongt9412</a>
+  <a href="https://www.drupal.org/u/yongt9412">yongt9412</a>
 </td>
   <td>189</td>
 </tr>
   <tr>
   <td>16</td>
   <td>
-   <a href="https://www.drupal.org/u/klausi">klausi</a>
+  <a href="https://www.drupal.org/u/klausi">klausi</a>
 </td>
   <td>185</td>
 </tr>
   <tr>
   <td>17</td>
   <td>
-   <a href="https://www.drupal.org/u/sam152">Sam152</a>
+  <a href="https://www.drupal.org/u/sam152">Sam152</a>
 </td>
   <td>184</td>
 </tr>
   <tr>
   <td>18</td>
   <td>
-   <a href="https://www.drupal.org/u/miro_dietiker">miro_dietiker</a>
+  <a href="https://www.drupal.org/u/miro_dietiker">miro_dietiker</a>
 </td>
   <td>182</td>
 </tr>
   <tr>
   <td>19</td>
   <td>
-   <a href="https://www.drupal.org/u/pavan-b-s">Pavan B S</a>
+  <a href="https://www.drupal.org/u/pavan-b-s">Pavan B S</a>
 </td>
   <td>180</td>
 </tr>
   <tr>
   <td>20</td>
   <td>
-   <a href="https://www.drupal.org/u/ajay_reddy">ajay_reddy</a>
+  <a href="https://www.drupal.org/u/ajay_reddy">ajay_reddy</a>
 </td>
   <td>176</td>
 </tr>
   <tr>
   <td>21</td>
   <td>
-   <a href="https://www.drupal.org/u/phenaproxima">phenaproxima</a>
+  <a href="https://www.drupal.org/u/phenaproxima">phenaproxima</a>
 </td>
   <td>172</td>
 </tr>
   <tr>
   <td>22</td>
   <td>
-   <a href="https://www.drupal.org/u/sanchiz">sanchiz</a>
+  <a href="https://www.drupal.org/u/sanchiz">sanchiz</a>
 </td>
   <td>162</td>
 </tr>
   <tr>
   <td>23</td>
   <td>
-   <a href="https://www.drupal.org/u/slashrsm">slashrsm</a>
+  <a href="https://www.drupal.org/u/slashrsm">slashrsm</a>
 </td>
   <td>161</td>
 </tr>
   <tr>
   <td>24</td>
   <td>
-   <a href="https://www.drupal.org/u/jhedstrom">jhedstrom</a>
+  <a href="https://www.drupal.org/u/jhedstrom">jhedstrom</a>
 </td>
   <td>155</td>
 </tr>
   <tr>
   <td>25</td>
   <td>
-   <a href="https://www.drupal.org/u/xjm">xjm</a>
+  <a href="https://www.drupal.org/u/xjm">xjm</a>
 </td>
   <td>151</td>
 </tr>
   <tr>
   <td>26</td>
   <td>
-   <a href="https://www.drupal.org/u/catch">catch</a>
+  <a href="https://www.drupal.org/u/catch">catch</a>
 </td>
   <td>147</td>
 </tr>
   <tr>
   <td>27</td>
   <td>
-   <a href="https://www.drupal.org/u/larowlan">larowlan</a>
+  <a href="https://www.drupal.org/u/larowlan">larowlan</a>
 </td>
   <td>145</td>
 </tr>
   <tr>
   <td>28</td>
   <td>
-   <a href="https://www.drupal.org/u/rakeshgectcr">rakesh.gectcr</a>
+  <a href="https://www.drupal.org/u/rakeshgectcr">rakesh.gectcr</a>
 </td>
   <td>141</td>
 </tr>
   <tr>
   <td>29</td>
   <td>
-   <a href="https://www.drupal.org/u/benjy">benjy</a>
+  <a href="https://www.drupal.org/u/benjy">benjy</a>
 </td>
   <td>139</td>
 </tr>
   <tr>
   <td>30</td>
   <td>
-   <a href="https://www.drupal.org/u/dhruveshdtripathi">dhruveshdtripathi</a>
+  <a href="https://www.drupal.org/u/dhruveshdtripathi">dhruveshdtripathi</a>
 </td>
   <td>138</td>
 </tr>
@@ -320,10 +320,7 @@ No data is perfect, but it feels safe to conclude that most of the work on Drupa
 
 ## Who is sponsoring the work?
 
-Now that we have established that most of the work on Drupal is sponsored, we want to study which organizations contribute to Drupal. While 889 different organizations contributed to Drupal, approximately 50% of them received four credits or fewer. The top 30 organizations (roughly the top 3%) account for about 48% of the total credits, which implies that the top 30 companies play a crucial role in the health of the Drupal project. The graph below shows the top 30 organizations and the number of credits they received between July 1, 2016 and June 30, 2017:
-
-![Top 30 organizations contributing to Drupal](http://default/files/cache/drupal/contributions-top-30-organizations-2017-640w.jpg)
-*The top 30 contributing organizations based on the number of Drupal.org commit credits.*
+Now that we have established that most of the work on Drupal is sponsored, we want to study which organizations contribute to Drupal. While 889 different organizations contributed to Drupal, approximately 50% of them received four credits or fewer. The top 30 organizations (roughly the top 3%) account for about 48% of the total credits, which implies that the top 30 companies play a crucial role in the health of the Drupal project. The graph above shows the top 30 organizations and the number of credits they received between July 1, 2016 and June 30, 2017.
 
 While not immediately obvious from the graph above, different types of companies are active in Drupal's ecosystem:
 
@@ -397,149 +394,149 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <table>
   <thead>
   <tr>
-   <th style="padding: 0.2em;">Rank</th>
-   <th style="padding: 0.2em;">Project name</th>
-   <th style="padding: 0.2em;">Issues</th>
+  <th style="padding: 0.2em;">Rank</th>
+  <th style="padding: 0.2em;">Project name</th>
+  <th style="padding: 0.2em;">Issues</th>
 </tr>
 </thead>
   <tr>
   <td>1</td>
   <td>
-   <a href="https://www.drupal.org/project/drupal">Drupal Core</a>
+  <a href="https://www.drupal.org/project/drupal">Drupal Core</a>
 </td>
   <td>4745</td>
 </tr>
   <tr>
   <td>2</td>
   <td>
-   <a href="https://www.drupal.org/project/commerce">Drupal Commerce</a> (distribution)</td>
-   <td>526</td>
+  <a href="https://www.drupal.org/project/commerce">Drupal Commerce</a> (distribution)</td>
+  <td>526</td>
 </tr>
   <tr>
-   <td>3</td>
-   <td>
-    <a href="https://www.drupal.org/project/webform">Webform</a>
- </td>
-   <td>361</td>
+  <td>3</td>
+  <td>
+   <a href="https://www.drupal.org/project/webform">Webform</a>
+</td>
+  <td>361</td>
 </tr>
   <tr>
-   <td>4</td>
+  <td>4</td>
+  <td>
+   <a href="https://www.drupal.org/project/openy">Open Y</a> (distribution)</td>
+   <td>324</td>
+</tr>
+  <tr>
+   <td>5</td>
    <td>
-    <a href="https://www.drupal.org/project/openy">Open Y</a> (distribution)</td>
-    <td>324</td>
+   <a href="https://www.drupal.org/project/paragraphs">Paragraphs</a>
+</td>
+   <td>231</td>
+</tr>
+  <tr>
+   <td>6</td>
+   <td>
+   <a href="https://www.drupal.org/project/inmail">Inmail</a>
+</td>
+   <td>223</td>
+</tr>
+  <tr>
+   <td>7</td>
+   <td>
+   <a href="https://www.drupal.org/project/user_guide">User guide</a>
+</td>
+   <td>218</td>
+</tr>
+  <tr>
+   <td>8</td>
+   <td>
+   <a href="https://www.drupal.org/project/jsonapi">JSON API</a>
+</td>
+   <td>204</td>
+</tr>
+  <tr>
+   <td>9</td>
+   <td>
+   <a href="https://www.drupal.org/project/paragraphs_collection">Paragraphs collection</a>
+</td>
+   <td>200</td>
+</tr>
+  <tr>
+   <td>10</td>
+   <td>
+   <a href="https://www.drupal.org/project/entity_browser">Entity browser</a>
+</td>
+   <td>196</td>
+</tr>
+  <tr>
+   <td>11</td>
+   <td>
+   <a href="https://www.drupal.org/project/diff">Diff</a>
+</td>
+   <td>190</td>
+</tr>
+  <tr>
+   <td>12</td>
+   <td>
+   <a href="https://www.drupal.org/project/group">Group</a>
+</td>
+   <td>170</td>
+</tr>
+  <tr>
+   <td>13</td>
+   <td>
+   <a href="https://www.drupal.org/project/metatag">Metatag</a>
+</td>
+   <td>157</td>
+</tr>
+  <tr>
+   <td>14</td>
+   <td>
+   <a href="https://www.drupal.org/project/facets">Facets</a>
+</td>
+   <td>155</td>
+</tr>
+  <tr>
+   <td>15</td>
+   <td>
+   <a href="https://www.drupal.org/project/commerce_pos">Commerce Point of Sale (PoS)</a>
+</td>
+   <td>147</td>
+</tr>
+  <tr>
+   <td>16</td>
+   <td>
+   <a href="https://www.drupal.org/project/search_api">Search API</a>
+</td>
+   <td>143</td>
+</tr>
+  <tr>
+   <td>17</td>
+   <td>
+   <a href="https://www.drupal.org/project/social">Open Social</a> (distribution)</td>
+   <td>133</td>
+</tr>
+   <tr>
+   <td>18</td>
+   <td>
+    <a href="https://www.drupal.org/project/dvg">Drupal voor Gemeenten</a> (distribution)</td>
+    <td>131</td>
  </tr>
    <tr>
-    <td>5</td>
+    <td>19</td>
     <td>
-    <a href="https://www.drupal.org/project/paragraphs">Paragraphs</a>
+    <a href="https://www.drupal.org/project/search_api_solr">Solr Search</a>
  </td>
-    <td>231</td>
+    <td>122</td>
  </tr>
    <tr>
-    <td>6</td>
+    <td>20</td>
     <td>
-    <a href="https://www.drupal.org/project/inmail">Inmail</a>
+    <a href="https://www.drupal.org/project/geolocation">Geolocation field</a>
  </td>
-    <td>223</td>
+    <td>118</td>
  </tr>
-   <tr>
-    <td>7</td>
-    <td>
-    <a href="https://www.drupal.org/project/user_guide">User guide</a>
- </td>
-    <td>218</td>
- </tr>
-   <tr>
-    <td>8</td>
-    <td>
-    <a href="https://www.drupal.org/project/jsonapi">JSON API</a>
- </td>
-    <td>204</td>
- </tr>
-   <tr>
-    <td>9</td>
-    <td>
-    <a href="https://www.drupal.org/project/paragraphs_collection">Paragraphs collection</a>
- </td>
-    <td>200</td>
- </tr>
-   <tr>
-    <td>10</td>
-    <td>
-    <a href="https://www.drupal.org/project/entity_browser">Entity browser</a>
- </td>
-    <td>196</td>
- </tr>
-   <tr>
-    <td>11</td>
-    <td>
-    <a href="https://www.drupal.org/project/diff">Diff</a>
- </td>
-    <td>190</td>
- </tr>
-   <tr>
-    <td>12</td>
-    <td>
-    <a href="https://www.drupal.org/project/group">Group</a>
- </td>
-    <td>170</td>
- </tr>
-   <tr>
-    <td>13</td>
-    <td>
-    <a href="https://www.drupal.org/project/metatag">Metatag</a>
- </td>
-    <td>157</td>
- </tr>
-   <tr>
-    <td>14</td>
-    <td>
-    <a href="https://www.drupal.org/project/facets">Facets</a>
- </td>
-    <td>155</td>
- </tr>
-   <tr>
-    <td>15</td>
-    <td>
-    <a href="https://www.drupal.org/project/commerce_pos">Commerce Point of Sale (PoS)</a>
- </td>
-    <td>147</td>
- </tr>
-   <tr>
-    <td>16</td>
-    <td>
-    <a href="https://www.drupal.org/project/search_api">Search API</a>
- </td>
-    <td>143</td>
- </tr>
-   <tr>
-    <td>17</td>
-    <td>
-    <a href="https://www.drupal.org/project/social">Open Social</a> (distribution)</td>
-    <td>133</td>
- </tr>
-    <tr>
-    <td>18</td>
-    <td>
-     <a href="https://www.drupal.org/project/dvg">Drupal voor Gemeenten</a> (distribution)</td>
-     <td>131</td>
-  </tr>
-    <tr>
-     <td>19</td>
-     <td>
-      <a href="https://www.drupal.org/project/search_api_solr">Solr Search</a>
-   </td>
-     <td>122</td>
-  </tr>
-    <tr>
-     <td>20</td>
-     <td>
-      <a href="https://www.drupal.org/project/geolocation">Geolocation field</a>
-   </td>
-     <td>118</td>
-  </tr>
- </table>
- </small>
+</table>
+</small>
 
 ## Who is sponsoring the top 30 contributors?
 
@@ -547,19 +544,19 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <table>
   <thead>
   <tr>
-   <th style="padding: 0.2em;">Rank</th>
-   <th style="padding: 0.2em;">Username</th>
-   <th style="padding: 0.2em;">Issues</th>
-   <th style="padding: 0.2em;">Volunteer</th>
-   <th style="padding: 0.2em;">Sponsored</th>
-   <th style="padding: 0.2em;">Not specified</th>
-   <th style="padding: 0.2em;">Sponsors</th>
+  <th style="padding: 0.2em;">Rank</th>
+  <th style="padding: 0.2em;">Username</th>
+  <th style="padding: 0.2em;">Issues</th>
+  <th style="padding: 0.2em;">Volunteer</th>
+  <th style="padding: 0.2em;">Sponsored</th>
+  <th style="padding: 0.2em;">Not specified</th>
+  <th style="padding: 0.2em;">Sponsors</th>
 </tr>
 </thead>
   <tr>
   <td>1</td>
   <td>
-   <a href="https://www.drupal.org/u/jrockowitz">jrockowitz</a>
+  <a href="https://www.drupal.org/u/jrockowitz">jrockowitz</a>
 </td>
   <td>537</td>
   <td>88%</td>
@@ -570,7 +567,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>2</td>
   <td>
-   <a href="https://www.drupal.org/u/dawehner">dawehner</a>
+  <a href="https://www.drupal.org/u/dawehner">dawehner</a>
 </td>
   <td>421</td>
   <td>67%</td>
@@ -581,7 +578,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>3</td>
   <td>
-   <a href="https://www.drupal.org/u/renatog">RenatoG</a>
+  <a href="https://www.drupal.org/u/renatog">RenatoG</a>
 </td>
   <td>408</td>
   <td>0%</td>
@@ -592,7 +589,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>4</td>
   <td>
-   <a href="https://www.drupal.org/u/bojanz">bojanz</a>
+  <a href="https://www.drupal.org/u/bojanz">bojanz</a>
 </td>
   <td>351</td>
   <td>0%</td>
@@ -603,7 +600,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>5</td>
   <td>
-   <a href="https://www.drupal.org/u/berdir">Berdir</a>
+  <a href="https://www.drupal.org/u/berdir">Berdir</a>
 </td>
   <td>335</td>
   <td>0%</td>
@@ -614,7 +611,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>6</td>
   <td>
-   <a href="https://www.drupal.org/u/mglaman">mglaman</a>
+  <a href="https://www.drupal.org/u/mglaman">mglaman</a>
 </td>
   <td>334</td>
   <td>3%</td>
@@ -625,7 +622,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>7</td>
   <td>
-   <a href="https://www.drupal.org/u/wim-leers">Wim Leers</a>
+  <a href="https://www.drupal.org/u/wim-leers">Wim Leers</a>
 </td>
   <td>332</td>
   <td>14%</td>
@@ -636,7 +633,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>8</td>
   <td>
-   <a href="https://www.drupal.org/u/alexpott">alexpott</a>
+  <a href="https://www.drupal.org/u/alexpott">alexpott</a>
 </td>
   <td>329</td>
   <td>7%</td>
@@ -647,7 +644,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>9</td>
   <td>
-   <a href="https://www.drupal.org/u/damienmckenna">DamienMcKenna</a>
+  <a href="https://www.drupal.org/u/damienmckenna">DamienMcKenna</a>
 </td>
   <td>245</td>
   <td>2%</td>
@@ -658,7 +655,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>10</td>
   <td>
-   <a href="https://www.drupal.org/u/jhodgdon">jhodgdon</a>
+  <a href="https://www.drupal.org/u/jhodgdon">jhodgdon</a>
 </td>
   <td>242</td>
   <td>0%</td>
@@ -669,7 +666,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>11</td>
   <td>
-   <a href="https://www.drupal.org/u/drunken-monkey">drunken monkey</a>
+  <a href="https://www.drupal.org/u/drunken-monkey">drunken monkey</a>
 </td>
   <td>238</td>
   <td>95%</td>
@@ -680,7 +677,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>12</td>
   <td>
-   <a href="https://www.drupal.org/u/naveenvalecha">naveenvalecha</a>
+  <a href="https://www.drupal.org/u/naveenvalecha">naveenvalecha</a>
 </td>
   <td>196</td>
   <td>74%</td>
@@ -691,7 +688,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>13</td>
   <td>
-   <a href="https://www.drupal.org/u/munavijayalakshmi">Munavijayalakshmi</a>
+  <a href="https://www.drupal.org/u/munavijayalakshmi">Munavijayalakshmi</a>
 </td>
   <td>192</td>
   <td>0%</td>
@@ -702,7 +699,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>14</td>
   <td>
-   <a href="https://www.drupal.org/u/borisson_">borisson_</a>
+  <a href="https://www.drupal.org/u/borisson_">borisson_</a>
 </td>
   <td>191</td>
   <td>66%</td>
@@ -713,7 +710,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>15</td>
   <td>
-   <a href="https://www.drupal.org/u/yongt9412">yongt9412</a>
+  <a href="https://www.drupal.org/u/yongt9412">yongt9412</a>
 </td>
   <td>189</td>
   <td>0%</td>
@@ -724,7 +721,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>16</td>
   <td>
-   <a href="https://www.drupal.org/u/klausi">klausi</a>
+  <a href="https://www.drupal.org/u/klausi">klausi</a>
 </td>
   <td>185</td>
   <td>9%</td>
@@ -735,7 +732,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>17</td>
   <td>
-   <a href="https://www.drupal.org/u/sam152">Sam152</a>
+  <a href="https://www.drupal.org/u/sam152">Sam152</a>
 </td>
   <td>184</td>
   <td>59%</td>
@@ -746,7 +743,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>18</td>
   <td>
-   <a href="https://www.drupal.org/u/miro_dietiker">miro_dietiker</a>
+  <a href="https://www.drupal.org/u/miro_dietiker">miro_dietiker</a>
 </td>
   <td>182</td>
   <td>0%</td>
@@ -757,7 +754,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>19</td>
   <td>
-   <a href="https://www.drupal.org/u/pavan-b-s">Pavan B S</a>
+  <a href="https://www.drupal.org/u/pavan-b-s">Pavan B S</a>
 </td>
   <td>180</td>
   <td>0%</td>
@@ -768,7 +765,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>20</td>
   <td>
-   <a href="https://www.drupal.org/u/ajay_reddy">ajay_reddy</a>
+  <a href="https://www.drupal.org/u/ajay_reddy">ajay_reddy</a>
 </td>
   <td>176</td>
   <td>100%</td>
@@ -779,7 +776,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>21</td>
   <td>
-   <a href="https://www.drupal.org/u/phenaproxima">phenaproxima</a>
+  <a href="https://www.drupal.org/u/phenaproxima">phenaproxima</a>
 </td>
   <td>172</td>
   <td>0%</td>
@@ -790,7 +787,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>22</td>
   <td>
-   <a href="https://www.drupal.org/u/sanchiz">sanchiz</a>
+  <a href="https://www.drupal.org/u/sanchiz">sanchiz</a>
 </td>
   <td>162</td>
   <td>0%</td>
@@ -801,7 +798,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>23</td>
   <td>
-   <a href="https://www.drupal.org/u/slashrsm">slashrsm</a>
+  <a href="https://www.drupal.org/u/slashrsm">slashrsm</a>
 </td>
   <td>161</td>
   <td>6%</td>
@@ -812,7 +809,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>24</td>
   <td>
-   <a href="https://www.drupal.org/u/jhedstrom">jhedstrom</a>
+  <a href="https://www.drupal.org/u/jhedstrom">jhedstrom</a>
 </td>
   <td>155</td>
   <td>4%</td>
@@ -823,7 +820,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>25</td>
   <td>
-   <a href="https://www.drupal.org/u/xjm">xjm</a>
+  <a href="https://www.drupal.org/u/xjm">xjm</a>
 </td>
   <td>151</td>
   <td>0%</td>
@@ -834,7 +831,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>26</td>
   <td>
-   <a href="https://www.drupal.org/u/catch">catch</a>
+  <a href="https://www.drupal.org/u/catch">catch</a>
 </td>
   <td>147</td>
   <td>3%</td>
@@ -845,7 +842,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>27</td>
   <td>
-   <a href="https://www.drupal.org/u/larowlan">larowlan</a>
+  <a href="https://www.drupal.org/u/larowlan">larowlan</a>
 </td>
   <td>145</td>
   <td>12%</td>
@@ -856,7 +853,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>28</td>
   <td>
-   <a href="https://www.drupal.org/u/rakeshgectcr">rakesh.gectcr</a>
+  <a href="https://www.drupal.org/u/rakeshgectcr">rakesh.gectcr</a>
 </td>
   <td>141</td>
   <td>100%</td>
@@ -867,7 +864,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>29</td>
   <td>
-   <a href="https://www.drupal.org/u/benjy">benjy</a>
+  <a href="https://www.drupal.org/u/benjy">benjy</a>
 </td>
   <td>139</td>
   <td>0%</td>
@@ -878,7 +875,7 @@ In total, the Drupal community worked on 3,183 different projects (modules, them
   <tr>
   <td>30</td>
   <td>
-   <a href="https://www.drupal.org/u/dhruveshdtripathi">dhruveshdtripathi</a>
+  <a href="https://www.drupal.org/u/dhruveshdtripathi">dhruveshdtripathi</a>
 </td>
   <td>138</td>
   <td>15%</td>

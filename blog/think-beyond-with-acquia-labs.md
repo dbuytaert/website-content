@@ -26,15 +26,13 @@ For most of the history of the web, the website has been the primary means of co
 
 Last year, we launched a new initiative called [Acquia Labs](https://www.acquia.com/resources/acquia-labs), our research and innovation lab, part of the Office of the CTO. Acquia Labs aims to link together the new realities in our market, our customers' needs in coming years, and the goals of Acquia's products and open-source efforts in the long term. In this blog post, I'll update you on what we're working on at the moment, what motivates our lab, and how to work with us.
 
-![Workers install and adjust Acquia Labs signage on office walls in a timelapse sequence.](http://default/files/cache/acquia/acquia-labs-space-timelapse-640w.gif)
-
 ## Alexa, ask GeorgiaGov
 
 One of the Acquia Labs' most exciting projects is our ongoing collaboration with [GeorgiaGov Interactive](https://digitalservices.georgia.gov/). Through an Amazon Echo integration with the [Georgia.gov Drupal website](https://georgia.gov/), citizens can ask their government questions. Georgia residents will be able to find out how to apply for a fishing license, transfer an out-of-state driver's license, and register to vote just by consulting Alexa, which will also respond with sample follow-up questions to help the user move forward. It's a good example of how conversational interfaces can change civic engagement. Our belief is that conversational content and commerce will come to define many of the interactions we have with brands.
 
 The state of Georgia has always been on the forefront of web accessibility. For example, from 2002 until 2006, Georgia piloted a time-limited text-to-speech telephony service which would allow website information and popular services like driver's license renewal to be offered to citizens. Today, it publishes [accessibility standards](https://digitalservices.georgia.gov/web-standards/12-website-accessibility-standards) and works hard to make all of its websites accessible for users of assistive devices. This Alexa integration for Georgia will [continue that legacy](https://digitalservices.georgia.gov/blog-post/2017-04-18/beyond-screen-futurism-meets-inclusion) by making important information about working with state government easy for anyone to access.
 
-And as a testament to the benefits of [innovation in open source](https://dri.es/sharing-innovation-with-your-competitors) and our commitment to open-source software, Acquia Labs backported the Drupal 8 [module for Amazon Echo](https://www.drupal.org/project/alexa) to Drupal 7.
+And as a testament to the benefits of [innovation in Open Source](https://dri.es/sharing-innovation-with-your-competitors) and our commitment to open-source software, Acquia Labs backported the Drupal 8 [module for Amazon Echo](https://www.drupal.org/project/alexa) to Drupal 7.
 
 Here is a demo video showing an initial prototype of the Alexa integration:
 

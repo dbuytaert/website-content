@@ -23,8 +23,6 @@ id: 5141
 
 For the second year, [Acquia](https://www.acquia.com) was named a Leader in [Gartner's Magic Quadrant for Digital Experience Platforms](https://www.acquia.com/resources/report/gartner-dxp-magic-quadrant) (DXPs).
 
-![A graph showing the state of the Digital Experience Platforms in 2021. Vendors are plotted on a grid based on their ability to execute and completeness of vision. Acquia is placed in the leader quadrant, indicating strong performance in both vision and execution.](http://default/files/cache/acquia/gartner-magic-quadrant-for-digital-experience-platforms-2021-1-640w.png)
-
 Our leadership position improved compared to last year. Acquia is now the clear number two behind Adobe. Market validation from Gartner on our vision is exciting and encouraging.
 
 In the report, the analysts note the [Drupal community](https://www.drupal.org/) as a powerful entity that sets Acquia apart from closed-monoliths. Closed monolithic stacks and martech silos are quickly becoming a thing of the past. Drupal's scale, modularity and openness is a real differentiator.

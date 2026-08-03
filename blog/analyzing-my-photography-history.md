@@ -68,12 +68,7 @@ SELECT camera, MIN(DATE(date)) AS first, MAX(DATE(date)) AS last, TIMESTAMPDIFF(
 +---------------------+------------+------------+-------+
 ```
 
-Finally, here is a chart that visualizes my camera history:
-
-<div class="large">
-  ![Chart that shows my cameras and when I used them](http://default/files/cache/blog/camera-history-2000-to-2022-640w.png)
-*The timeframe I used each camera for. The white numbers on the blue bars represent the number of photos I published on my website.*
-</div>
+Finally, the chart above visualizes my camera history.
 
 A few takeaways:
 

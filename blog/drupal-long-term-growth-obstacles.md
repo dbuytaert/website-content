@@ -36,11 +36,6 @@ In that blog post, I promised to share my thoughts around Drupal's own growth ba
 
 For those that have read my blog or watched [my DrupalCon keynote presentations](https://dri.es/tag/state-of-drupal), none of these will come as a surprise. Just like [Amazon's examples](https://dri.es/relentlessly-eliminating-barriers-to-growth), fixing these obstacles have been, and will be, multi-year efforts.
 
-<div class="large">
-  ![A mountain images with 5 product strategy tracks leading to the top](http://default/files/cache/drupal/product-strategy-mountain-december-2018-640w.jpg)
-*Drupal's five product strategy tracks. A number of current initiatives is shown on each track.*
-</div>
-
 ## 1. Make Drupal easy to evaluate and adopt
 
 We need to make it easy for more people to try Drupal. To help evaluators explore Drupal's possibilities, [we improved the download and installation experience, and included a demonstration site with core](https://dri.es/we-made-drupal-a-lot-easier-to-evaluate). We made fantastic progress on this in 2018.

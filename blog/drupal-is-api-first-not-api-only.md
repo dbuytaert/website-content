@@ -63,9 +63,6 @@ For me, the key takeaway of this discussion is: *Drupal is great for both editor
 
 ## Drupal for your site, headless Drupal for your apps
 
-![Diagram comparing two Drupal architectures: one as both a front end and content service, and another as an API-first backend.](http://default/files/images/drupal/drupal-is-api-first-drupal-site-and-content-service.jpg)
-*This diagram illustrates the ideal architecture for Drupal, which should be leveraged as both a front end in and of itself as well as a content service for other front ends.*
-
 In this day and age, having all channels served by a single source of truth for content is important. But what architecture is optimal for this approach? While reading this you might have also experienced some déjà-vu from a blog post I wrote last year about [how you should decouple Drupal](https://dri.es/how-should-you-decouple-drupal), which is still solid advice nearly a year after I first posted it.
 
 Ultimately, I recommend an architecture where Drupal is simultaneously coupled and decoupled; in short, Drupal shines when it's positioned both for editors and for application developers, because Drupal is great at both roles. In other words, your content repository should also be your public-facing website – a contiguous site with full editorial capabilities. At the same time, it should be the centerpiece for your collection of applications, which don't necessitate editorial tools but do offer your developers the experience they want. Keeping Drupal as a coupled website, while concurrently adding decoupled applications, isn't a limitation; it's an enhancement.

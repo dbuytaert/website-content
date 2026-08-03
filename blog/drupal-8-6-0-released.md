@@ -47,9 +47,6 @@ Prior to Drupal 8.6, [downloading and installing Drupal was a complex and length
 
 Now, you can install Drupal with the new "Umami demo profile". The Umami demo profile showcases some of Drupal's most powerful capabilities by providing a beautiful website filled with content right out of the box. A demo profile will not only help to onboard new users, but it can also be used by Drupal professionals and digital agencies to showcase Drupal to potential customers.
 
-![The experimental layout builder in Drupal 8.6 with the Umami demo profile](http://default/files/cache/drupal/drupal-8-6-layout-builder-640w.jpg)
-*The new Umami demo profile together with the Layout Builder.*
-
 In addition to a new installation profile, we added a "quick-start" command that allows you to launch a Drupal site in one command using only one dependency, PHP. If you want to try Drupal, you no longer have to setup a webserver, a database, containers, etc.
 
 Last but not least, the download experience and evaluator documentation on Drupal.org has been vastly improved.

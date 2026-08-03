@@ -35,11 +35,6 @@ It did require a deep dive into CO<sub>2</sub> sensors, which led me to the Sens
 
 > The SCD4x series is based on photoacoustic NDIR technology. The technology exploits the characteristic property of CO<sub>2</sub> molecules to strongly absorb infra-red (IR) light with wavelengths around 4.2 µm. When shining light of this wavelength through a gas sample, the CO<sub>2</sub> concentration can thus be calculated from the proportion of light that is absorbed.
 
-<div class="large">
-  ![An ESP32-S3 development board is linked to an SCD41 CO2 and temperature sensor. For scale, a coin and pen are included. The SCD41 sensor is roughly equivalent in size to the coin, and the ESP32-S3 board is about twice the coin's diameter.](http://default/files/cache/blog/esp32-s3-with-scd41-640w.jpg)
-*A development board with an ESP32-S3 chip \(left\) connected to a Sensirion SCD41 sensor on the right, which measures CO2 levels and temperature.*
-</div>
-
 My ESP32 device measures CO<sub>2</sub> levels every few minutes, connects to WiFi and sends this data to my web service endpoint at `https://dri.es/sensors`. This endpoint processes and visualizes the data. Unlike [our basement temperature](https://dri.es/sensors/basement-belgium), I've chosen to keep the CO<sub>2</sub> data private and not available to the public.
 
 After I updated the client code on the ESP32 development board to use the new sensor, I also had to make small adjustments to the backend code used for data visualization.

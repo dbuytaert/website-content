@@ -41,7 +41,4 @@ I featured a lot of interviews with Drupalists. If you're interested in viewing 
 - [Drew](https://youtu.be/chL91KcyDkQ)
 - [Ronan](https://youtu.be/3qa7oPRXGIQ)
 
-![A speaker on stage looks at a large screen displaying a video of a woman presenting while wearing headphones.](http://default/files/cache/drupalcon-dublin-2016/keynote-4-640w.jpg)
-*&copy; <a href="https://www.flickr.com/photos/68158920@N08/albums/72157674446600695">Paul Johnson</a>*
-
 *Special thanks to [Ash](https://twitter.com/burnashburn) for the amazing design work on my slides and helping with the interviews, and [Paul Johnson](https://twitter.com/pdjohnson) for the nice photo of me listening to Zsófi.*

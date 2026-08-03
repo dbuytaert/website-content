@@ -68,9 +68,7 @@ It was at an offsite in late 2007 where we determined our corporate values. I'm 
 
 ![A whiteboard displays handwritten notes outlining Acquia's mission, vision, and values, emphasizing collaboration, accessibility, and innovation.](http://default/files/cache/acquia/acquia-vision-2007-640w.jpg)
 
-In January 2008, we had six people on staff: Gábor Hojtsy (Principal Acquia engineer, Drupal 6 branch maintainer), Kieran Lal (Acquia product manager, key Drupal contributor), Barry Jaspan (Principal Acquia engineer, Drupal Core developer) and Jeff Whatcott (Vice President of Marketing). Because I was still living in Belgium at the time, many of our meetings took place screen-to-screen:
-
-![A video call with four participants; one takes a photo, another makes a playful gesture, and others engage.](http://default/files/cache/acquia/typical-work-day-640w.jpg)
+In January 2008, we had six people on staff: Gábor Hojtsy (Principal Acquia engineer, Drupal 6 branch maintainer), Kieran Lal (Acquia product manager, key Drupal contributor), Barry Jaspan (Principal Acquia engineer, Drupal Core developer) and Jeff Whatcott (Vice President of Marketing). Because I was still living in Belgium at the time, many of our meetings took place screen-to-screen.
 
 ## Opening our doors for business
 

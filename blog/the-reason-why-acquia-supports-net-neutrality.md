@@ -23,9 +23,7 @@ id: 3981
 
 ![A pop-up from Acquia advocates for net neutrality, urging users to join an internet-wide day of action.](http://default/files/cache/blog/acquia-supports-net-neutrality-640w.jpg)
 
-If you visit [Acquia's homepage](https://www.acquia.com) today, you will be greeted by this banner:
-
-![A pop-up from Acquia advocates for net neutrality, urging users to join an internet-wide day of action.](http://default/files/cache/blog/acquia-supports-net-neutrality-640w.jpg)
+If you visit [Acquia's homepage](https://www.acquia.com) today, you will be greeted by the banner above.
 
 We've published this banner in solidarity with the hundreds of companies who are voicing their [support of net neutrality](https://www.battleforthenet.com).
 

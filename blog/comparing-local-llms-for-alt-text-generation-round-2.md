@@ -13,15 +13,12 @@ tags:
   - Alt-text
   - Accessibility
   - Python
-image: japan-2024/shibuya-crossing
 published: true
 featured: false
 id: 5816
 ---
 
 # Comparing local LLMs for alt-text generation, round 2
-
-![Areal view of an intersection, capturing the evening commute with pedestrians, traffic and electronic billboards.](http://default/files/cache/japan-2024/shibuya-crossing-640w.jpg)
 
 Four months ago, I [tested 10 local vision LLMs](https://dri.es/comparing-local-llms-for-alt-text-generation) and compared them against the top cloud models. *Vision models* can analyze images and describe their content, making them useful for `alt`-text generation.
 

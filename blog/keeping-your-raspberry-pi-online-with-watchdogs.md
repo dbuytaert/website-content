@@ -33,9 +33,6 @@ The solar panel and battery aren't the problem either. In fact, [my solar dashbo
 
 Every time my Raspberry Pi goes offline, I have to go through the same frustrating ritual: get on the roof, open the waterproof enclosure, disconnect the Pi, pull the SD card, go to my office, reformat it, reinstall the OS and reconfigure everything. Then climb back up and put everything back together.
 
-![A Raspberry Pi 4 with an RS485 CAN HAT in a waterproof enclosure, surrounded by cables, screws and components.](http://default/files/cache/blog/raspberry-pi-4-enclosure-640w.jpg)
-*A Raspberry Pi 4 with an attached RS485 CAN HAT module is being installed in a waterproof enclosure.*
-
 A month ago, I was back on the roof deck, battling Boston winter. My fingers were numb, struggling with tiny screws and connectors. This had to stop.
 
 The Raspberry Pi Zero 2 W is a great device for IoT projects, but only if it can run unattended for years.

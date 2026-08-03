@@ -78,8 +78,6 @@ The current plan is to [release Drupal 9 in June of 2020](https://dri.es/plan-fo
 
 Contributed module maintainers are encouraged to remove the use of deprecated code by June of 2020 so everyone can upgrade to Drupal 9 the day it is released.
 
-![A timeline with important dates and future milestones](http://default/files/cache/drupal/drupal-8-timeline-april-2019-640w.png)
-
 Drupal.org project maintainers should keep [the extended security coverage policy](https://dri.es/extended-security-coverage-for-drupal-8-minor-releases) in mind, which means that Drupal 8.8 will still be supported until Drupal 9.1 is released. Contributed projects looking to support both Drupal 8.8 and Drupal 9.0 might need to use two branches.
 
 ## How ready are the contributed modules?

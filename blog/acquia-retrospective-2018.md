@@ -55,8 +55,6 @@ This year, Acquia [surpassed $200 million in annualized revenue](https://www.acq
 - [Adjusted EBITDA](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization) grew 78 percent
 - Free cash flow grew 84 percent
 
-![Acquia 2018 business metrics](http://default/files/cache/acquia/business-metrics-2018-640w.png)
-
 ### International growth and expansion
 
 In 2018, Acquia also witnessed unprecedented success in Europe and Asia, as new bookings in [EMEA](https://en.wikipedia.org/wiki/Europe,_the_Middle_East_and_Africa) were up more than 100 percent. This included expanding our European headquarters to a new and larger space with a ribbon-cutting ceremony with the mayor of Reading in the U.K.

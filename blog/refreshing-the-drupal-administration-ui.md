@@ -45,16 +45,13 @@ In the short term, we plan on updating the existing administration UI with the n
 
 As you can see on Drupal.org, [community feedback on the proposal is overwhelmingly positive](https://www.drupal.org/project/ideas/issues/3017785#comment-12880593) with comments like <q>Wow! Such an improvement!</q> and <q>Well done! High contrast and modern look.</q>.
 
-![A screenshot of the spacing guidelines of Drupal 8's Carlo theme](http://default/files/cache/drupal/carlo-spacing-640w.png)
-*Sample space sizing guidelines from the new design system.*
-
 I also ran the new design system by a few people who spend their days selling Drupal and they described it as "clean" with "good use of space" and a design they would be confident showing to prospective customers.
 
 Whether you are a Drupal end-user, or in the business of selling Drupal, I recommend you [check out the new design system](https://www.drupal.org/project/ideas/issues/3017785) and provide your feedback on Drupal.org.
 
 Special thanks to [Cristina Chumillas](https://www.drupal.org/u/ckrina), [Sascha Eggenberger](https://www.drupal.org/u/saschaeggi), [Roy Scholten](https://www.drupal.org/u/yoroy), [Archita Arora](https://www.drupal.org/u/archita-arora), [Dennis Cohn](https://www.drupal.org/u/dennis-cohn), [ Ricardo Marcelino](https://www.drupal.org/u/rfmarcelino), [Balazs Kantor](https://www.drupal.org/u/kiboman), [Lewis Nyman](https://www.drupal.org/u/lewisnyman),and [Antonella Severo](https://www.drupal.org/u/antonellasev) for all the work on the new design system so far!
 
-We have started implementing the new design system as [a contributed theme with the name Claro](https://www.drupal.org/project/claro). We are aiming to release a beta version for testing in the spring of 2019 and to include it in Drupal core as an experimental theme by Drupal 8.8.0 in December 2019. With more help, we might be able to get it done faster.
+We have started implementing the new design system as [a contributed theme with the name Claro](https://www.drupal.org/project/claro). We are aiming to release a beta version for testing in the spring of 2019 and to include it in Drupal Core as an experimental theme by Drupal 8.8.0 in December 2019. With more help, we might be able to get it done faster.
 
 Throughout the development of the refreshed administration theme, we will run usability studies to ensure that the new theme indeed is an improvement over the current experience, and we can iteratively improve it along the way.
 

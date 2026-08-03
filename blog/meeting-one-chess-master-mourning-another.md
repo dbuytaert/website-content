@@ -23,9 +23,6 @@ When I was about 10 years old, my uncle gave me a chess computer. It was the "Ka
 
 [Garry Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov) is one of the greatest chess players of all time. He was the number one chess player in the world for 21 years and became famous for his matches against [IBM's Deep Blue](https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov). Since retiring from chess, he has become a prominent advocate for democracy, even running against Putin in 2008.
 
-![Dries Buytaert and Garry Kasparov.](http://default/files/cache/miscellaneous-2025/garry-kasparov-dinner-640w.jpg)
-*With Garry Kasparov in Antwerp, October 2025*
-
 During our conversation, Garry broke the news that Grandmaster [Daniel Naroditsky](https://en.wikipedia.org/wiki/Daniel_Naroditsky) had passed away unexpectedly. He was only 29. The news stopped me cold. For a moment, I just sat there, trying to process it.
 
 I've probably watched every video Daniel Naroditsky published on [his YouTube channel](https://www.youtube.com/channel/UCHP9CdeguNUI-_nBv_UXBhw) over the past four years. His videos made me fall in love with [chess](https://dri.es/tag/chess) in a way I never had before. I was drawn not only to his mastery but to how generously he shared it. His real achievement wasn't his chess rating but how many people he made better.

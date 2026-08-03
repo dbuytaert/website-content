@@ -23,7 +23,7 @@ Now Drupal 8.4 is released, and Drupal 8.5 development is underway, it is a good
 
 ## 8.4: Stable versions of layout functionality
 
-Traditionally, site builders have used one of two layout solutions in Drupal: [Panelizer](https://www.drupal.org/project/panelizer) and [Panels](https://www.drupal.org/project/panels). Both are contributed modules outside of Drupal core, and both achieved stable releases in the middle of 2017. Given the popularity of these modules, having stable releases closed a major functionality gap that prevented people from building sites with Drupal 8.
+Traditionally, site builders have used one of two layout solutions in Drupal: [Panelizer](https://www.drupal.org/project/panelizer) and [Panels](https://www.drupal.org/project/panels). Both are contributed modules outside of Drupal Core, and both achieved stable releases in the middle of 2017. Given the popularity of these modules, having stable releases closed a major functionality gap that prevented people from building sites with Drupal 8.
 
 ## 8.4: A Layout API in core
 
@@ -31,7 +31,7 @@ The Layout Discovery module added in Drupal 8.3 core has now been marked stable.
 
 ## 8.5+: A Layout Builder in core
 
-Today, Drupal's layout management solutions exist as contributed modules. Because creating and building layouts is expected to be out-of-the-box functionality, we're working towards adding layout building capabilities to Drupal core.
+Today, Drupal's layout management solutions exist as contributed modules. Because creating and building layouts is expected to be out-of-the-box functionality, we're working towards adding layout building capabilities to Drupal Core.
 
 Using the Layout Builder, you start by selecting predefined layouts for different sections of the page, and then populate those layouts with one or more blocks. I showed the Layout Builder in [my DrupalCon Vienna keynote](https://dri.es/state-of-drupal-presentation-september-2017) and it was really well received:
 
@@ -41,9 +41,7 @@ https://www.youtube.com/watch?v=Hx4EEzI7aNE
 
 One of the nice improvements that went in Drupal 8.3 was the [Field Layout module](https://www.youtube.com/watch?v=mJBHQJFHqws), which provides the ability to apply pre-defined layouts to what we call "entity displays". Instead of applying layouts to individual pages, you can apply layouts to types of content regardless of what page they are displayed on. For example, you can create a content type 'Recipe' and visually lay out the different fields that make up a recipe. Because the layout is associated with the recipe rather than with a specific page, recipes will be laid out consistently across your website regardless of what page they are shown on.
 
-The basic functionality is already included in Drupal core as part of the experimental Fields Layout module. The goal for Drupal 8.5 is to stabilize the Fields Layout module, and to improve its user experience by using the new Layout Builder. Eventually, designing the layout for a recipe could look like this:
-
-![](http://default/files/cache/blog/drupal-8-5-field-layouts-prototype-640w.jpg)
+The basic functionality is already included in Drupal Core as part of the experimental Fields Layout module. The goal for Drupal 8.5 is to stabilize the Fields Layout module, and to improve its user experience by using the new Layout Builder. Eventually, designing the layout for a recipe could look like the prototype shown above.
 
 Layouts remains a strategic priority for Drupal 8 as it was the second most important site builder priority identified in my [2016 State of Drupal survey](https://dri.es/state-of-drupal-presentation-may-2016), right behind Migrations. I'm excited to see the work already accomplished by the Layout team, and look forward to seeing their progress in Drupal 8.5! If you want to help, check out the [Layout Initiative roadmap](https://www.drupal.org/node/2884601).
 

@@ -121,8 +121,6 @@ Spontaneous last minute decision on what to do today. We came up with a list of 
 
 ## Day 8
 
-![The Ponte Vecchio in Florence, a historic bridge with shops, spans the Arno River under a partly cloudy sky.](http://default/files/cache/tuscany-2016/ponte-vecchio-florence-640w.jpg)
-
 Last day of the vacation. We're all a bit sad to go home. The longer we stay, the happier we get. Happier not because of where we were, but about how we connected.
 
 Today, we're making the trek to Florence. One of the things Florence is known for is leather. Vanessa wanted to look for a leather jacket, and I wanted to look for a new duffel bag. We found a shop that was recommended to us; one of the shop owners is originally from the Greater Boston area. Enio, her husband, was very friendly and kind. He talked about swimming in Walden Pond, visiting the Thoreau's House, etc. The boys couldn't believe he had been to Concord, MA. Enio really opened up and gave us a private tour to his leather workshop. His workshop consisted of small rooms filled with piles and piles of leather and all sorts of machinery and tools.

@@ -69,9 +69,6 @@ For more details, read the full announcement on the [Drupal AI Initiative page o
 
 ## Founding members and early support
 
-![Screenshot of a Google Hangout video call with nine smiling participants, the founding members of the Drupal AI initiative.](http://default/files/cache/drupal/drupal-ai-founding-members-640w.png)
-*Some of the founding members of the Drupal AI initiative during our launch call on Google Hangouts.*
-
 Over the past few months, we've invested hundreds of hours shaping our AI strategy, defining structure, and taking the first steps.
 
 I want to thank the founding members of the Drupal AI Initiative. These individuals and organizations played a key role in getting things off the ground. The list is ordered alphabetically by last name to recognize all contributors equally:

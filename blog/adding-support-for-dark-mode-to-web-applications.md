@@ -40,8 +40,6 @@ I learned about the `prefers-color-scheme` media query on [Jeff Geerling's blog]
 }
 ```
 
-If you use MacOS Mojave, Safari 12.1 or later, and have Dark Mode enabled, my site will be shown in black:
-
-![An animated image of my site switching between dark mode and regular mode](http://default/files/cache/blog/dark-mode-dri-es-2018-640w.gif)
+If you use MacOS Mojave, Safari 12.1 or later, and have Dark Mode enabled, my site will be shown in black.
 
 It will be interesting to see if any of the large web applications, like Gmail or Google Docs will adopt Dark Mode. I bet they will, because it adds a level of polish that will be expected in the future.

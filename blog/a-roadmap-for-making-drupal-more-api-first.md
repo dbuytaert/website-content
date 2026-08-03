@@ -37,7 +37,6 @@ Here is a bird's-eye view of the plan for the next twelve months:
 </tbody>
 </table>
 
-
 ## New REST API capabilities
 
 [Wim Leers](https://www.drupal.org/u/wim-leers) (Acquia) and [Daniel Wehner](https://www.drupal.org/u/dawehner) (Chapter Three) have produced a comprehensive list of the [top priorities for the REST module](https://www.drupal.org/node/2721489). We're introducing [significant REST API advancements](https://www.drupal.org/list-changes/drupal/drupal/published?keywords_description=REST&to_branch=8.2.x&version=&created_op=%3E%3D&created%5Bvalue%5D=&created%5Bmin%5D=&created%5Bmax%5D=) in Drupal 8.2 and 8.3 in order to improve the developer experience and extend the capabilities of the REST API. We've been focused on configuration entity support, simplified REST configuration, translation and file upload support, pagination, and last but not least, support for user login, logout and registration. All this work starts to address differences between core's REST module and various contributed modules like [Services](https://www.drupal.org/project/services) and [RELAXed Web Services](https://www.drupal.org/project/relaxed). More details are available in [my previous blog post](https://dri.es/advancing-drupal-web-services).

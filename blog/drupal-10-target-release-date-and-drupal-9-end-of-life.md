@@ -21,8 +21,6 @@ id: 5046
 
 We are targeting to release Drupal 10 around June 2022. That is less than two years from the day of this post.
 
-![A timeline showing that Drupal 10 is targeted for June 2022 because Symfony 4 is end-of-life in November 2023.](http://default/files/cache/drupal/drupal-10-targeted-for-june-2022-640w.png)
-
 ## Why June 2022, you ask?
 
 Drupal 9's biggest dependency is Symfony 4, which has an end-of-life date in November 2023. This means that after November 2023, security bugs in Symfony 4 will not get fixed. Drupal has to adopt Symfony 5 (or later) and end-of-life Drupal 9 no later than November 2023.

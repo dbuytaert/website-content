@@ -30,10 +30,6 @@ I don't usually post tutorials on my blog, but decided to make an exception.
 
 The overall layout of the homepage for [dri.es](https://dri.es) is shown below. The page consists of two sections: a header and a main content area. For the header, I use CSS Flexbox to position the site name next to the navigation. For the main content area, I use CSS Grid Layout to lay out the article across 7 columns.
 
-<div class="large">
-  ![Diagram of a CSS page layout with a flexbox header and a grid-based main content area.](http://default/files/cache/blog/css-page-layout-640w.jpg)
-</div>
-
 ## Creating a basic responsive header with Flexbox
 
 Flexbox stands for the *Flexible Box Module* and allows you to manage "one-dimensional layouts". Let me further explain that by using an real example.

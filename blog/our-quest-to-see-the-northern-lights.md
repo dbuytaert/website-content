@@ -38,10 +38,7 @@ The trip was my gift to Vanessa for her 40th birthday! I reserved a private, sma
 
 One day we went dog sledding. As with all animals it seems, Vanessa quickly named them all; Marshmallow, Brownie, Snickers, Midnight, Blondie and Foxy. The dogs were [so excited to run](https://www.youtube.com/watch?v=A-nyIT87FN0)! After 3 hours of dog sledding in -30 C (-22 F) weather we stopped to warm up and eat; we made salmon soup in a small make-shift shelter that was similar to a tepee. The tepee had a small opening at the top and there was no heat or electricity.
 
-<div class="side-by-side">
-  ![Two people ride dog sleds through a snowy forest, led by teams of huskies pulling them forward.](http://default/files/cache/finland-2017/dog-sledding-7-640w.jpg)
-  ![A team of sled dogs pulls a sled through a snowy landscape, harnessed together on a winter trail.](http://default/files/cache/finland-2017/dog-sledding-8-640w.jpg)
-</div>
+![A team of sled dogs pulls a sled through a snowy landscape, harnessed together on a winter trail.](http://default/files/cache/finland-2017/dog-sledding-8-640w.jpg)
 
 The salmon soup was made over a fire, and we were skeptical at first how this would taste. The soup turned out to be delicious and even reminded us of the clam chowder that we have come to enjoy in Boston. We've since remade this soup at home and the boys also enjoy it. Not that this blog will turn into a recipe blog, but I plan to publish the recipe with photos at some point.
 

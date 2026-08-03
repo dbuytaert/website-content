@@ -84,8 +84,6 @@ Making Drupal updates easier is a huge, ongoing priority for the community. Than
 
 In my keynote, I talked about how site owners, Drupal developers and Drupal module maintainers can start preparing for Drupal 9 today. I showed several tools that make Drupal 9 preparation easier. Check out [my post on how to prepare for Drupal 9](https://dri.es/how-to-prepare-for-drupal-9) for details.
 
-![A timeline with important dates and future milestones](http://default/files/cache/drupal/drupal-8-timeline-april-2019-640w.png)
-
 ## Thank you
 
 I'm grateful to be a part of a community that takes such pride in its work. At each DrupalCon, we get to see the tireless efforts of many volunteers that add up to one amazing event. It makes me proud to showcase the work of so many people and organizations in my presentations.

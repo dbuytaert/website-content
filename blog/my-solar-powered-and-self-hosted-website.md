@@ -28,9 +28,6 @@ id: 5701
 
 I'm excited to share an experiment I've been working on: a solar-powered, self-hosted website running on a Raspberry Pi. The website at <https://solar.dri.es> is powered entirely by a solar panel and battery on our roof deck in Boston.
 
-![A solar panel on a rooftop during sunset with a city skyline in the background.](http://default/files/cache/miscellaneous-2024/solar-panel-on-roofdeck-640w.jpg)
-*My solar panel and Raspberry Pi Zero 2 are set up on our rooftop deck for testing.*
-
 By visiting <https://solar.dri.es>, you can dive into all the technical details and lessons learned – from hardware setup to networking configuration and custom monitoring.
 
 As the content on this solar-powered site is likely to evolve or might even disappear over time, I've included the full article below (with minor edits) to ensure that this information is preserved.

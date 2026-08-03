@@ -53,11 +53,6 @@ For this project, I bought:
 
 The total hardware cost was $32.35 USD. I like [Adafruit](https://www.adafruit.com/) a lot, but it's worth noting that their products often come at a higher cost. You can find comparable hardware for as little as $10-15 elsewhere. Adafruit's premium cost is understandable, considering how much valuable content they create for the maker community.
 
-<div class="large">
-  ![An ESP32-S3 development board is linked to an SHT41 temperature and humidity sensor and powered by a battery pack. For scale, a 2 Euro coin is included. The SHT41 sensor is roughly equivalent in size to the coin, and the ESP32-S3 board is about twice the coin's diameter.](http://default/files/cache/blog/esp32-s3-with-sht41-640w.jpg)
-*An ESP32-S3 development board \(middle\) linked to a Sensirion SHT41 temperature and humidity sensor \(left\) and powered by a battery pack \(right\).*
-</div>
-
 ## Client code for Adafruit ESP32-S3 Feather
 
 I developed the client code for the Adafruit ESP32-S3 Feather using the [Arduino IDE](https://www.arduino.cc/en/software), a widely used platform for developing and uploading code to Arduino-compatible boards.

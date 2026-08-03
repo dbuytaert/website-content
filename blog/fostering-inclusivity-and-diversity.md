@@ -7,10 +7,12 @@ author:
 date: '2014-07-02T14:16:51-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Reflections on how inclusivity is a mindset first, and how conflicting values make diversity a difficult but worthwhile goal.'
 tags:
   - Drupal
   - Diversity
 published: true
+featured: false
 id: 3176
 ---
 

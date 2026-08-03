@@ -82,11 +82,6 @@ Being "Open" means we actively promote integrations with third-party vendors. Wh
 
 However, our definition of "Open" extends far beyond mere integrations. It's also about creating an inclusive environment where everyone is empowered to participate and contribute to meaningful digital experiences in a safe and secure manner. Our updated strategy, while still focused on the DXP ecosystem, champions empowerment, inclusivity, accessibility, and safety.
 
-<div class="large">
-  ![A slide titled "The Open DXP" detailing its four core principles: integrations that support customization without vendor lock-in, empowerment for user-driven development, accessibility for all backgrounds and abilities, and a focus on safety with security and compliance.](http://default/files/cache/acquia/open-dxp-2023-640w.png)
-*A slide from our strategy presentation, summarizing our definition of an Open DXP. The definition is the cornerstone of Acquia's "Why"-statement.*
-</div>
-
 People who have followed me for a while know that I've long advocated for an [Open Web](https://dri.es/tag/open-web), promoting inclusivity, accessibility, and safety. It's inspiring to see Acquia fully embrace these principles, a move I hope will inspire not just me, but our employees, customers, and partners too. It's not just a strategy; it's a reflection of our core values.
 
 It probably doesn't come as a surprise that our updated strategy aligns with the trends I outlined above, many of which also point towards a safer, more responsible, and inclusive digital future. Our enthusiasm for the [Monsido acquisition](https://dri.es/acquia-to-acquire-monsido) is also driven by these core principles.

@@ -21,7 +21,7 @@ Post-Drupal 8's feature freeze, we find ourselves in a similar state as we did a
 - Others are mostly architecturally there, but still have some pretty big gaps.
 - Still others are either not yet architecturally complete, have a major amount of integration/conversion work left, and/or have many outstanding critical/major bugs.
 
-From here on out, we need to be more strategic about what patches we do and do not allow into Drupal core directly, and this means we have to make some tough decisions. Every patch we commit needs to not move Drupal 8 further from a "shippable state".
+From here on out, we need to be more strategic about what patches we do and do not allow into Drupal Core directly, and this means we have to make some tough decisions. Every patch we commit needs to not move Drupal 8 further from a "shippable state".
 
 There are essentially two categories of initiatives (both official and unofficial) that are incomplete:
 
@@ -42,13 +42,12 @@ If the patch is part of a larger, non-critical meta issue, but getting part of i
 
 1. First, we should see if the patch can be re-worked, or parts of it split off, into self-contained issues. Then those issues' patches can just be committed via the normal process.
 2. If there is no other option than completing the entire meta issue, then core maintainers will work with each individual team to determine a "cut-off date" for their work (which allows sufficient time prior to July 1 for integration), as well as the safest way for their work to continue without holding up the release. Possible strategies could include:
+
+- A larger patch containing the meta issue in its entirety, with no follow-ups, where it is still feasible to use a patch-based workflow (e.g. CSS re-organization).
+  - A branch off the Drupal Core repository that is merged in when deemed acceptable in the case of larger conversion efforts (e.g. Twig)
+  - A sandbox project where larger refactoring is still necessary (e.g. SCOTCH).
    
-   
-   - A larger patch containing the meta issue in its entirety, with no follow-ups, where it is still feasible to use a patch-based workflow (e.g. CSS re-organization).
-   - A branch off the Drupal core repository that is merged in when deemed acceptable in the case of larger conversion efforts (e.g. Twig)
-   - A sandbox project where larger refactoring is still necessary (e.g. SCOTCH).
-    
-   If the work is ready *in its entirety* (i.e. working upgrade path, passing all core gates) by the cut-off date, it will be eligible for Drupal 8. However, if not ready in time, it will have to be postponed to Drupal 9. While this is definitely painful for teams that have worked so hard but yet still miss the deadline, it is preferable to delaying the Drupal 8 release indefinitely.
+  If the work is ready *in its entirety* (i.e. working upgrade path, passing all core gates) by the cut-off date, it will be eligible for Drupal 8. However, if not ready in time, it will have to be postponed to Drupal 9. While this is definitely painful for teams that have worked so hard but yet still miss the deadline, it is preferable to delaying the Drupal 8 release indefinitely.
 
 ## Summary
 

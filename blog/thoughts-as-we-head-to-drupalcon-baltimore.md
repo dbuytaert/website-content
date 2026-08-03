@@ -7,10 +7,12 @@ author:
 date: '2017-04-20T22:20:42-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Ahead of DrupalCon Baltimore, a note on the community's struggles, evolving governance."
 tags:
   - Drupal
   - DrupalCon
 published: true
+featured: false
 id: 3911
 ---
 

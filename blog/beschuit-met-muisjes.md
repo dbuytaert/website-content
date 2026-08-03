@@ -7,11 +7,13 @@ author:
 date: '2010-05-16T14:40:47-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "Visiting newborn Sebas in Amsterdam and eating beschuit met muisjes, the Dutch treat that celebrates a baby's birth."
 tags:
   - Photography
   - 'The Netherlands'
 image: miscellaneous-2010/beschuit-met-muisjes
 published: true
+featured: false
 id: 1632
 ---
 
@@ -19,8 +21,8 @@ id: 1632
 
 ![A piece of Dutch rusk with butter and blue-and-white sugar sprinkles on a polka-dotted napkin.](http://default/files/cache/miscellaneous-2010/beschuit-met-muisjes-640w.jpg)
 
-We spent the afternoon in Amsterdam visiting [the newborn Sebas](https://dri.es/album/miscellaneous-2010/sebas-snijder). The above is what the Dutch serve to celebrate the birth of a baby. Can you imagine?
+We spent the afternoon in Amsterdam visiting [newborn Sebas](https://dri.es/album/miscellaneous-2010/sebas-snijder). The above is what the Dutch serve to celebrate the birth of a baby. Can you imagine?
 
-It's called *"beschuit met muisjes"* (pronunciation: bəˈsxœyt mɛt ˈmœyʃəs, literal: "biscuits with little mice"). It is toast with butter and sugared anise seeds – a tradition that goes back to the 17th century.
+It's called *"beschuit met muisjes"* (pronunciation: bəˈsxœyt mɛt ˈmœyʃəs; literal translation: "biscuits with little mice"). It is toast with butter and sugared anise seeds – a tradition that goes back to the 17th century.
 
-In Flanders we celebrate the arrival of a newborn with *"suikerbonen"* or sugar beans, which are almonds with dark Belgian chocolate coated with a thin, hard layer of sugar. M&amp;Ms on steroids, if you will.
+In Flanders, we celebrate the arrival of a newborn with *"suikerbonen"* or sugar beans, which are almonds covered in dark Belgian chocolate and coated with a thin, hard layer of sugar. M&amp;Ms on steroids, if you will.

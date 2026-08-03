@@ -24,6 +24,4 @@ id: 513
 
 Being [the sucker for statistics that I am](https://dri.es/tag/statistics), I asked Michael Meyers (CTO, NowPublic) to setup a special [NowPublic Drupal Channel](http://www.nowpublic.com/tags/drupal) so that we can have our very own [NowPublic Drupal Scan](http://www.nowpublic.com/tags/drupal/scan). Michael did, so check out the *Drupal Scan* at <http://www.nowpublic.com/tags/drupal/scan>. It is a great showcase of what can be done with activity streams or lifestreams, and with Twitter data specifically. *What is not to like?*
 
-![A webpage shows a real-time scan of Drupal-related posts, displaying locations, links, and recent activity on a world map.](http://default/files/cache/drupal/nowpublic-drupal-scan-640w.jpg)
-
 *(Disclosure: I am an advisor to NowPublic.)*

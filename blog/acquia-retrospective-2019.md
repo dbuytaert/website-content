@@ -23,8 +23,6 @@ id: 4961
 
 Wow, what a year 2019 was for Acquia!
 
-![Acquia 2018 business metrics](http://default/files/cache/acquia/business-metrics-2019-640w.png)
-
 At the beginning of every year, I like to publish a retrospective to look back and take stock of how far [Acquia](https://www.acquia.com/) has come over the past 12 months. I take the time to write these retrospectives because I want to keep a record of the changes we've gone through as a company and how my personal thinking is evolving from year to year.
 
 If you'd like to read my previous retrospectives, they can be found here: [2018](https://dri.es/acquia-retrospective-2018), [2017](https://dri.es/acquia-retrospective-2017), [2016](https://dri.es/acquia-retrospective-2016), [ 2015](https://dri.es/acquia-retrospective-2015), [2014](https://dri.es/acquia-retrospective-2014), [2013](https://dri.es/acquia-retrospective-2013), [2012](https://dri.es/acquia-retrospective-2012), [2011](https://dri.es/acquia-retrospective-2011), [2010](https://dri.es/acquia-retrospective-2010), [2009](https://dri.es/acquia-retrospective-2009). This year marks the publishing of my eleventh retrospective. When read together, these posts provide a comprehensive overview of Acquia's growth and trajectory.

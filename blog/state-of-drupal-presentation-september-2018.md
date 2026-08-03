@@ -32,9 +32,7 @@ I started my keynote by highlighting this month's [Drupal 8.6.0 release](https:/
 
 ![The number of stable modules for Drupal 8 is growing fast](http://default/files/cache/drupal-europe-darmstadt-2018/drupal-stable-modules-growing-september-2018-640w.jpg)
 
-Next, I gave an update on our strategic initiatives:
-
-![An overview of Drupal 8's strategic initaitives](http://default/files/cache/drupal-europe-darmstadt-2018/drupal-mountain-strategic-initiatives-640w.jpg)
+Next, I gave an update on our strategic initiatives.
 
 ## Make Drupal better for content creators
 
@@ -80,7 +78,7 @@ For those interested, I published [a blog post that further explains this](https
 
 ## Adopt GitLab on Drupal.org
 
-Finally, the Drupal Association is working to [integrate GitLab with Drupal.org](https://about.gitlab.com/2018/08/16/drupal-moves-to-gitlab/). GitLab will provide support for "merge requests", which means contributing to Drupal will feel more familiar to the broader audience of open source contributors who learned their skills in the post-patch era. Some of GitLab's tools, such as inline editing and web-based code review, will also lower the barrier to contribution, and should help us grow both [the number of contributions and contributors on Drupal.org](https://dri.es/who-sponsors-drupal-development-2018).
+Finally, the Drupal Association is working to [integrate GitLab with Drupal.org](https://about.gitlab.com/2018/08/16/drupal-moves-to-gitlab/). GitLab will provide support for "merge requests", which means contributing to Drupal will feel more familiar to the broader audience of Open Source contributors who learned their skills in the post-patch era. Some of GitLab's tools, such as inline editing and web-based code review, will also lower the barrier to contribution, and should help us grow both [the number of contributions and contributors on Drupal.org](https://dri.es/who-sponsors-drupal-development-2018).
 
 To see an exciting preview of Drupal.org's gitlab integration, watch the video below:
 

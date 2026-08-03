@@ -28,8 +28,6 @@ Today, organizations use various applications in their marketing stack: content 
 
 Imagine an e-commerce company that sells products both online and in physical stores. If they don't connect the data from these different systems, they won't always be able to recommend the best products to their customers. However, when all the data is connected, they can better understand their customers' behavior, which will improve their sales and marketing tactics.
 
-![A jigsaw puzzle with a human face.](http://default/files/cache/acquia/user-profile-puzzle-640w.png)
-
 Think of customer data like pieces of a jigsaw puzzle. If you only see one piece (data from a single marketing product or channel), you can't really understand how customers behave or what they want. But when you put all the pieces together (integrate data from all products or channels), you get a much better picture of their desires. This helps you create a better customer experience across all touchpoints.
 
 So the real challenge for most organizations is not to redesign their website with the latest and greatest JavaScript framework or headless technology – it lies in connecting all their data and content, and using their website and other channels to create highly relevant customer experiences.

@@ -22,9 +22,7 @@ id: 4241
 
 The goal of this tutorial is to show how to use [Drupal 8.5's new off-canvas dialog](https://dri.es/drupal-8-5-0-released) in your own Drupal modules.
 
-The term "off-canvas" refers to the ability for a dialog to slide in from the side of the page, in addition to resizing the page so that no part of it is obstructed by the dialog. You can see the off-canvas dialog in action in this animated GIF:
-
-![Animated GIF of Drupal off-canvas dialog tutorial](http://default/files/cache/drupal/drupal-off-canvas-dialog-tutorial-640w.gif)
+The term "off-canvas" refers to the ability for a dialog to slide in from the side of the page, in addition to resizing the page so that no part of it is obstructed by the dialog. The animated GIF above shows the off-canvas dialog in action.
 
 This new Drupal 8.5 feature allows us to improve the content authoring and site building experience by [turning Drupal outside-in](https://dri.es/tag/outside-in). We can use the off-canvas dialog to enable the content creator or site builder to seamlessly edit content or configuration in-place, and see any changes take effect immediately. There is no need to navigate to the administrative backend to make edits. As you'll see in this tutorial, it's easy to use the off-canvas dialog in your own Drupal modules.
 

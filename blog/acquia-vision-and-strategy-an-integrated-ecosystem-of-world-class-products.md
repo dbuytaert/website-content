@@ -24,11 +24,6 @@ In my previous blog post, I discussed [my vision for the future of marketing tec
 
 Acquia, [the company I co-founded](https://dri.es/acquia-my-drupal-startup), provides a Digital Experience Platform (DXP) to its customers. A DXP is a collection of products that helps you create relevant digital experiences. Acquia's DXP includes a Content Management System (CMS), Digital Asset Management (DAM) solution, Customer Data Platform (CDP), a Marketing Automation solution, and more.
 
-<div class="large">
-  ![Shown on the left are Acquia's marketing products: Campaign Studio, DAM and CDP. Shown on the right are Acquia's IT products: Cloud Platform, CMS and Site Factory.](http://default/files/cache/acquia/product-portfolio-2023-640w.png)
-*Acquia's product portfolio in 2023.*
-</div>
-
 In the world of DXPs, organizations usually don't purchase all the products in a DXP at once. Instead, it's more common to acquire one product at a time, and to acquire them as needed.
 
 If you're not very familiar with DXPs, think about how most people buy Apple products. Most individuals don't get an iPhone, iPad, Macbook, and Apple Watch all at once. Instead, they buy one device at a time and gradually add more over time. Likewise, Acquia's DXP customers expand gradually over time.

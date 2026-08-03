@@ -7,6 +7,7 @@ author:
 date: '2009-06-07T15:55:29-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Our second son, Stan, was born on Sunday, June 7th at 8:15am, weighing 3.6kg and measuring 52cm.'
 tags:
   - Photography
   - Karlijn
@@ -15,6 +16,7 @@ tags:
   - 'Life events'
 image: stan-2009/close-up
 published: true
+featured: false
 id: 670
 ---
 

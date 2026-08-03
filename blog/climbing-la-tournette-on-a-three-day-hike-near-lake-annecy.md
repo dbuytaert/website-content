@@ -83,11 +83,6 @@ Dinner was a freeze-dried chili con carne that turned out to be surprisingly goo
 
 After dinner we set up our tent and took stock of our water supply. We had carried five liters of water each, knowing we could only refill at tomorrow's refuge. By now we had already used three liters for the climb and dinner. I could have drunk more, but we set two liters aside for the morning and felt good about that plan.
 
-<div class="large">
-![A green pyramid tent stands on a grassy meadow below a steep rocky mountainside, with camping gear scattered nearby.](http://default/files/cache/la-tournette-2025/tent-in-the-meadows-640w.jpg)
-*Our tent pitched in the high meadows near the old Refuge de la Tournette.*
-</div>
-
 Later, as we settled into our sleeping bags, I realized how many firsts Axl had packed into a single day. He had taken his first private flight in a small Cessna, carried a heavy backpack up a mountain for the first time, figured out food and water supplies, and experienced wild camping for the first time.
 
 ## Day 2: Refuge de la Tournette → Refuge de Praz D'zeures

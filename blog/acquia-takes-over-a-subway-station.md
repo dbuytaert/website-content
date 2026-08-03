@@ -30,8 +30,6 @@ The Kendall Square station takeover will introduce Acquia to 272,000 daily commu
 
 In addition to posters on every wall of the station, the campaign includes Acquia branding on entry turnstiles, 75 digital live boards, and geo-targeted mobile ads that commuters may see while looking at their phones while waiting for the train. It will be hard *not* to be introduced to [Acquia](https://www.acquia.com/).
 
-![A woman in a black shirt smiles while standing next to a large Acquia-branded poster featuring her portrait.](http://default/files/cache/acquia/kendall-square-takeover-2019-sarah-640w.jpg)
-
 What makes this extra special is that all of the ads feature photographs of actual Acquia employees (*Acquians*, as we call ourselves), which is a nice way to introduce our company to people who may not know us.
 
 https://www.youtube.com/watch?v=bbXIv2wmHY0

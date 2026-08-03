@@ -28,11 +28,6 @@ It also watches the plant through a camera. Just earlier, it looked at Sol and o
 
 This plant seems to be living its best life. And Claude clearly seems pleased with itself.
 
-<div class="large">
-![Screenshot showing Sol the tomato plant with Claude's sensor readings and watering decision.](http://default/files/cache/blog/claude-tomato-plant-640w.png)
-*Claude monitoring Sol's environment and deciding to water 200ml after analyzing soil moisture across two probes.*
-</div>
-
 Most AI interactions are fast and fleeting. You prompt, it answers, and you close the session. Regular AI tools branching into the real world to control a slow, messy process feels like a glimpse of what is next. A tomato plant is innocent enough. But it's not hard to imagine what comes next.
 
 Either way, I'd love to experiment with similar, innocent ideas. If you have any, let me know.

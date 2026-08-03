@@ -22,8 +22,6 @@ id: 5156
 
 Acquia was named a Leader in [The Forrester Wave for Agile Content Management Systems, Q1 2021](https://www.acquia.com/blog/acquia-named-leader-2021-forrester-wave-agile-content-management-systems).
 
-![Acquia shown as a Leader together with Adobe and Optimizely.](http://default/files/cache/acquia/forrester-wave-for-agile-content-management-systems-2021-640w.png)
-
 This research replaces [Forrester's Wave on Web Content Management Systems](https://dri.es/acquia-a-leader-in-the-2018-forrester-wave-for-web-content-management-systems). The focus is now on "agile content management" instead of "web content management". This change makes sense given the way people consume content today. Because consumers shift between channels when researching a brand or product, organizations need a back end that can support different end points (e.g. web, mobile, kiosks, voice assistants, etc).
 
 The analysts note: <q>The \[Acquia\] platform shined in developer and practitioner tooling, with superior capabilities in front-end components and backend extensibility of the platform.</q>.

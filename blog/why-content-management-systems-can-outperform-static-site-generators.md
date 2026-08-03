@@ -30,11 +30,6 @@ Of course, if I wanted to use a static site, I could. Drupal is frequently used 
 
 The main reason I don't use a SSG is that I don't love their publishing workflow. It's slow. With Drupal, I can make edits, hit save, and immediately see the result. With a static site generator it becomes more complex. I have to commit Markdown to Git, rebuild my site, and push updates to a web server. I simply prefer the user-friendly authoring of Drupal.
 
-<div class="large">
-  ![A collage of screenshots displaying the websites of various static site generators, with prominent text emphasizing phrases such as 'fast page loads', 'peak performance', unparalleled speed', 'full speed', and more.](http://default/files/cache/blog/static-site-generators-are-fast-marketing-640w.png)
-*A collage of screenshots featuring different static site generators' websites, emphasizing their marketing messaging on performance.*
-</div>
-
 Proponents of static sites will be quick to point out that static sites are "much faster". Personally, I find that misleading. My Drupal-powered site, <https://dri.es/>, is faster than most static sites, including the official websites of leading static site generators.
 
 <table>
@@ -46,50 +41,50 @@ Proponents of static sites will be quick to point out that static sites are "muc
   <tr>
   <td>Drupal</td>
   <td>
-   <a href="https://dri.es/">https://dri.es/</a>
- </td>
+  <a href="https://dri.es/">https://dri.es/</a>
+</td>
   <td>0.3 seconds</td>
 </tr>
   <tr>
   <td>Gatsby.js</td>
   <td>
-   <a href="https://www.gatsbyjs.com/">https://www.gatsbyjs.com/</a>
- </td>
+  <a href="https://www.gatsbyjs.com/">https://www.gatsbyjs.com/</a>
+</td>
   <td>2.8 seconds</td>
 </tr>
   <tr>
   <td>Next.js</td>
   <td>
-   <a href="https://nextjs.org/">https://nextjs.org/</a>
- </td>
+  <a href="https://nextjs.org/">https://nextjs.org/</a>
+</td>
   <td>1.8 seconds</td>
 </tr>
   <tr>
   <td>Jekyll</td>
   <td>
-   <a href="https://jekyllrb.com/">https://jekyllrb.com/</a>
- </td>
+  <a href="https://jekyllrb.com/">https://jekyllrb.com/</a>
+</td>
   <td>0.8 seconds</td>
 </tr>
   <tr>
   <td>Elevently</td>
   <td>
-   <a href="https://www.11ty.dev/">https://www.11ty.dev/</a>
- </td>
+  <a href="https://www.11ty.dev/">https://www.11ty.dev/</a>
+</td>
   <td>0.5 seconds</td>
 </tr>
   <tr>
   <td>Docusaurus</td>
   <td>
-   <a href="https://docusaurus.io/">https://docusaurus.io/</a>
- </td>
+  <a href="https://docusaurus.io/">https://docusaurus.io/</a>
+</td>
   <td>1.8 seconds</td>
 </tr>
   <tr>
   <td>Svelte Kit</td>
   <td>
-   <a href="https://kit.svelte.dev/">https://kit.svelte.dev/</a>
- </td>
+  <a href="https://kit.svelte.dev/">https://kit.svelte.dev/</a>
+</td>
   <td>1.1 seconds</td>
 </tr>
 </table>

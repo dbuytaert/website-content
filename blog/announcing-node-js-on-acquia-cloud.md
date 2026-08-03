@@ -42,9 +42,6 @@ Previously, if an organization wanted to build a decoupled architecture with Nod
 
 To eliminate this inefficiency, Acquia Cloud can now support both Drupal and Node.js. Our goal is to offer the best platform for developing and running Drupal and Node.js applications. This means that organizations only need to rely on one vendor and one cloud infrastructure when using Drupal and Node.js. Customers can access Drupal and Node.js environments from a single user interface, in addition to tools that enable continuous delivery, continuous integration, monitoring, alerting and support across both Drupal and Node.js.
 
-![Acquia Cloud now supports Node.js for Headless Drupal](http://default/files/cache/drupal/node-js-on-acquia-cloud-640w.jpg)
-*On Acquia Cloud, customers can access Drupal and Node.js environments from a single user interface.*
-
 ## Delivering on Acquia's mission
 
 When reflecting on [Acquia's first decade](https://dri.es/acquia-first-decade-the-founding-story) this past summer, I shared that one of the original corporate values our small team dreamed up was to "empower everyone to rapidly assemble killer websites". After ten years, we've evolved our mission to "build the universal platform for the world's greatest digital experiences". While our focus has expanded as we've grown, Acquia's enduring aim is to provide our customers with the best tools available. Adding Node.js to Acquia Cloud is a natural evolution of our mission.

@@ -178,11 +178,6 @@ I never imagined that such a combination could work wonders, but it did. It felt
 
 As we soldiered on, the ridge connecting Mount Lafayette, Mount Lincoln, and Little Haystack Mountain, was nothing short of breathtaking. The views, the sheer drop-offs, and the rugged beauty made every step on this ridge a memorable one. It ended up being my favorite part of the entire Pemi Loop.
 
-<div class="large">
-  ![A hiker trekking on a ridge towards a mountain peak.](http://default/files/cache/pemi-loop-2023/franconia-ridge-640w.jpg)
-*Klaas hikes from Mount Lafayette to Mount Lincoln along Franconia Ridge, with one of our next peaks looming behind Mount Lincoln.*
-</div>
-
 With the daylight waning and the terrain being relatively easier, we even picked up our pace, determined to cover as much ground as possible. We also agreed that we'd be ready to sleep on the trail if necessary. Fortunately, we reached the tentsite by 7pm. We set up our tent in the dark with the help of headlamps, prepared dinner and turned in for the night at 8:30pm.
 
 As I layed in our tent, listening to the nocturnal sounds of the forest (read: Klaas gently snoring), I felt a mix of exhaustion and pride. I was glad we hadn't given up. The trail from Galehead Hut to Liberty Springs Tentsite wasn't just a hike; it was an experience, and proof that I could push my limits.
