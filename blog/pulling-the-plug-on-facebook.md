@@ -13,7 +13,7 @@ tags:
   - POSSE
   - Privacy
   - 'Social media'
-image: blog/delete-facebook
+image: blog/facebook-social-decay
 published: true
 featured: true
 id: 4741
@@ -21,10 +21,7 @@ id: 4741
 
 # Pulling the plug on Facebook
 
-![An image of Facebook's account deletion confirmation screen](http://default/files/cache/blog/delete-facebook-640w.png)
-
 ![Facebook social decay](http://default/files/cache/blog/facebook-social-decay-640w.jpg)
-*&copy; <a href="https://www.behance.net/andreilacatusu">Andrei Lacatusu</a>*
 
 Exactly one year ago, I decided to [use social media less and blog more](https://dri.es/taking-control-of-my-data-and-social-media). I uninstalled the Facebook application from my phone, but kept my Facebook account for the time being.
 
@@ -46,9 +43,11 @@ It's clear that Facebook can't be trusted. And for that reason, I'm out.
 
 I deleted my Facebook account twenty minutes ago.
 
+![An image of Facebook's account deletion confirmation screen](http://default/files/cache/blog/delete-facebook-640w.png)
+
 ## Social media's dark side
 
-Social media, in general, have been enablers of community, transparency and positive change, but also of abuse, hate speech, bullying, misinformation, government manipulation and more. In just the past year, more and more users have woken up to the dark side of social media. Open Web and privacy advocates, on the other hand, have seen this coming for awhile.
+Social media, in general, have been enablers of community, transparency, and positive change, but also of abuse, hate speech, bullying, misinformation, government manipulation, and more. In just the past year, more and more users have woken up to the dark side of social media. Open Web and privacy advocates, on the other hand, have seen this coming for a while.
 
 Technological change is a wonderful thing, as it can bring unprecedented improvements to billions around the globe. As a technologist, I believe in the power of the web to [improve the world for many](https://dri.es/fast-tracking-life-saving-innovations), but we also need to [make sure that technology disruption is positive for all of us](https://dri.es/algorithms-rule-our-lives-so-who-should-rule-them).
 

@@ -24,6 +24,8 @@ id: 6291
 
 ![A person and a robot stand before a giant floating sphere in a futuristic industrial landscape.](http://default/files/cache/blog/human-ai-shared-control-640w.jpg)
 
+The text is clean. I found only one minor issue: a double space.
+
 An AI model does not decide what data it can access, which tools it can use, or whether it can act without approval. People make those decisions at different points. Upstream, a model developer trains and tests the model and decides whether and how to release it. Downstream, a developer builds the model into a system, connects that system to data and tools, and decides whether a person must review its proposed actions before they take effect.
 
 Those choices determine whether harm is possible at all. So when harm occurs, responsibility should fall on those who controlled the relevant choices. That responsibility may be shared: model developers control training and release, product builders control permissions and deployment, and users control deliberate misuse.
@@ -80,7 +82,7 @@ If control and responsibility are distributed across several actors, government 
 
 More than a decade ago, when I argued for something like an FDA for software, I had drug approval in mind. I no longer think that is the right model. The FDA approves a drug for one or more intended uses, while a general-purpose model may be used for many different purposes.
 
-Cars are a better comparison. The government sets safety standards, and manufacturers certify that their vehicles meet them.  Separately, drivers must pass a test defined by the government before they are licensed to drive. 
+Cars are a better comparison. The government sets safety standards, and manufacturers certify that their vehicles meet them. Separately, drivers must pass a test defined by the government before they are licensed to drive.
 
 The layers extend beyond cars and drivers. States set legal blood-alcohol limits for drivers and require bars to have licenses they can lose. In many states, a bar can also be held liable for serving a visibly intoxicated person who later causes harm.
 

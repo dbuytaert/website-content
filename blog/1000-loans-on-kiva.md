@@ -19,7 +19,7 @@ id: 5641
 
 Two and a half years ago, I celebrated [reaching 500 loans on Kiva](https://dri.es/10-years-of-kiva), a platform dedicated to helping those without access to traditional banking.
 
-Today, I reached a 1,000 loans on [Kiva](https://www.kiva.org/). It took ten years to reach 500 loans, but only 2.5 years to double that, marking a 300% increase in lending speed.
+Today, I reached 1,000 loans on [Kiva](https://www.kiva.org/). It took ten years to reach 500 loans, but only 2.5 years to double that, marking a 300% increase in lending speed.
 
 To clarify, I do not offer these loans in full, nor do I profit from them. I contribute $20-$100 per loan, and they are interest-free. While I take on the risk, I don't make any money from these loans. Not all loans get paid back, but when they don't, I am content knowing I helped other entrepreneurs.
 

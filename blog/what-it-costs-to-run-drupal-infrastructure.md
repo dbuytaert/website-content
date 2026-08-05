@@ -32,11 +32,11 @@ Like most Open Source projects, Drupal runs on infrastructure that millions of p
 
 Drupal's infrastructure costs roughly $3 million per year, including servers, bandwidth, CDNs, software, and staff.
 
-Funding comes from a mix of donated infrastructure from [AWS](https://aws.amazon.com/) and the [OSU Open Source Lab](https://osuosl.org/), corporate memberships through our [Drupal Certified Partner program](https://www.drupal.org/drupal-services), in‑kind contribution from [Tag1](https://www.tag1.com/), revenue from DrupalCon, donations, and sponsorship on [Drupal.org](https://www.drupal.org).
+Funding comes from a mix of donated infrastructure from [AWS](https://aws.amazon.com/) and the [OSU Open Source Lab](https://osuosl.org/), corporate memberships through our [Drupal Certified Partner program](https://www.drupal.org/drupal-services), in-kind contribution from [Tag1](https://www.tag1.com/), revenue from DrupalCon, donations, and sponsorship on [Drupal.org](https://www.drupal.org).
 
 Last year, Drupal Association board member [Tiffany Farriss](https://www.drupal.org/u/farriss) and CTO [Tim Lehnen](https://www.drupal.org/u/hestenet) analyzed the project's infrastructure costs. Their estimate: infrastructure for Drupal 8+ sites costs about $10 per active website per year. 
 
-But the Drupal Association has only about $7.50 per site per year to work with. About $3 comes from DrupalCon and the Certified Partner program. The remaining $4.50 comes from in-kind support: donated hosting, Tag1's infrastructure partnership, volunteer contributions and more.
+But the Drupal Association has only about $7.50 per site per year to work with. About $3 comes from DrupalCon and the Certified Partner program. The remaining $4.50 comes from in-kind support: donated hosting, Tag1's infrastructure partnership, volunteer contributions, and more.
 
 The missing $2.50 per site shows up as technical debt: certain upgrades get deferred, legacy systems persist longer than they should, and the community sometimes wonders why infrastructure progress feels slow.
 
@@ -62,6 +62,6 @@ Any such mechanism requires changes to Drupal Core, which could take years to re
 
 I don't have a specific mechanism to propose yet. My goal here is to lay out the problem, explore potential solutions, and start the conversation. But we should start that conversation now, while we have the time and stability to get it right. Otherwise we may end up having this conversation later, under more pressure and with fewer options.
 
-*Thanks to [Tiffany Farriss](https://www.drupal.org/u/farriss), [Tim Lehnen](https://www.drupal.org/u/hestenet), [Gábor Hojtsy](https://www.drupal.org/u/gábor-hojtsy) and [Lauri Timmanee](https://www.drupal.org/u/lauriii) for reviewing my draft.*
+*Thanks to [Tiffany Farriss](https://www.drupal.org/u/farriss), [Tim Lehnen](https://www.drupal.org/u/hestenet), [Gábor Hojtsy](https://www.drupal.org/u/gábor-hojtsy), and [Lauri Timmanee](https://www.drupal.org/u/lauriii) for reviewing my draft.*
 
 PS: Follow the discussion on [LinkedIn](https://www.linkedin.com/posts/buytaert_what-does-it-cost-to-run-drupals-infrastructure-share-7437295844397125632-feut/).

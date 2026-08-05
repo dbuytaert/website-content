@@ -15,6 +15,7 @@ tags:
   - 'Drupal Association'
 image: drupalcon-nashville-2018/lets-grow-drupal-together
 published: true
+featured: false
 id: 4296
 ---
 
@@ -22,10 +23,10 @@ id: 4296
 
 ![Lets grow Drupal together](http://default/files/cache/drupalcon-nashville-2018/lets-grow-drupal-together-640w.jpg)
 
+Last week, I shared my [State of Drupal presentation](https://dri.es/tag/state-of-drupal) at DrupalCon Nashville. In addition to [sharing my slides](https://dri.es/files/state-of-drupal-april-2018.pdf), I wanted to provide more information on how you can participate in the various initiatives presented in my keynote, such as growing Drupal adoption or evolving our community values and principles.
+
 ![Cowboy Dries at DrupalCon Nashville](http://default/files/cache/drupalcon-nashville-2018/cowboy-dries-at-drupalcon-nashville-640w.jpg)
 *&copy; <a href="https://www.flickr.com/photos/155787132@N07/">Yes Moon</a>*
-
-Last week, I shared my [State of Drupal presentation](https://dri.es/tag/state-of-drupal) at Drupalcon Nashville. In addition to [sharing my slides](https://dri.es/files/state-of-drupal-april-2018.pdf), I wanted to provide more information on how you can participate in the various initiatives presented in my keynote, such as growing Drupal adoption or evolving our community values and principles.
 
 ## Drupal 8 update
 
@@ -50,7 +51,7 @@ As you can see from the [Drupal 8 roadmap](https://www.drupal.org/core/roadmap),
 
 Drupal 8 was released at the end of 2015, which means our community has had over two years of real-world experience with Drupal 8. It was time to take a step back and assess additional growth initiatives based on what we have learned so far.
 
-In an effort to better understand the biggest hurdles facing Drupal adoption, we interviewed over 150 individuals around the world that hold different roles within the community. We talked to Drupal front-end and back-end developers, contributors, trainers, agency owners, vendors that sell Drupal to customers, end users, and more. Based on their feedback, we established four goals to help accelerate Drupal adoption.
+In an effort to better understand the biggest hurdles facing Drupal adoption, we interviewed over 150 individuals around the world who hold different roles within the community. We talked to Drupal front-end and back-end developers, contributors, trainers, agency owners, vendors that sell Drupal to customers, end users, and more. Based on their feedback, we established four goals to help accelerate Drupal adoption.
 
 ### Goal 1: Improve the technical evaluation process
 
@@ -61,44 +62,44 @@ To improve the Drupal evaluation process, we've proposed the following initiativ
 <table>
   <thead>
   <tr>
-   <td>Initiative</td>
-   <td>Issue link</td>
-   <td>Stakeholders</td>
-   <td>Initiative coordinator</td>
-   <td>Status</td>
- </tr>
+  <td>Initiative</td>
+  <td>Issue link</td>
+  <td>Stakeholders</td>
+  <td>Initiative coordinator</td>
+  <td>Status</td>
+</tr>
 </thead>
   <tr>
   <td>Better discovery experience on Drupal.org</td>
   <td>
-   <a href="https://www.drupal.org/drupalorg/roadmap">Drupal.org roadmap</a>
- </td>
+  <a href="https://www.drupal.org/drupalorg/roadmap">Drupal.org roadmap</a>
+</td>
   <td>Drupal Association</td>
   <td>
-   <a href="https://www.drupal.org/u/hestenet">hestenet</a>
- </td>
+  <a href="https://www.drupal.org/u/hestenet">hestenet</a>
+</td>
   <td>Under active development</td>
 </tr>
   <tr>
   <td>Better "getting started" documentation</td>
   <td>
-   <a href="https://www.drupal.org/node/2956879">#2956879</a>
- </td>
+  <a href="https://www.drupal.org/node/2956879">#2956879</a>
+</td>
   <td>Documentation Working Group</td>
   <td>
-   <a href="https://www.drupal.org/u/grasmash">grasmash</a>
- </td>
+  <a href="https://www.drupal.org/u/grasmash">grasmash</a>
+</td>
   <td>In planning</td>
 </tr>
   <tr>
   <td>More modern administration experience</td>
   <td>
-   <a href="https://www.drupal.org/node/2957457">#2957457</a>
- </td>
+  <a href="https://www.drupal.org/node/2957457">#2957457</a>
+</td>
   <td>Core contributors</td>
   <td>
-   <a href="https://www.drupal.org/u/ckrina">ckrina</a> and <a href="https://www.drupal.org/u/yoroy">yoroy</a>
- </td>
+  <a href="https://www.drupal.org/u/ckrina">ckrina</a> and <a href="https://www.drupal.org/u/yoroy">yoroy</a>
+</td>
   <td>Under active development</td>
 </tr>
 </table>
@@ -126,18 +127,18 @@ We plan to make all of these aspects easier for site builders through the follow
 <table>
   <thead>
   <tr>
-   <td>Initiative</td>
-   <td>Issue link</td>
-   <td>Stakeholders</td>
-   <td>Initiative coordinator</td>
-   <td>Status</td>
- </tr>
+  <td>Initiative</td>
+  <td>Issue link</td>
+  <td>Stakeholders</td>
+  <td>Initiative coordinator</td>
+  <td>Status</td>
+</tr>
 </thead>
   <tr>
   <td>Composer &amp; Core</td>
   <td>
-   <a href="https://www.drupal.org/node/2958021">#2958021</a>
- </td>
+  <a href="https://www.drupal.org/node/2958021">#2958021</a>
+</td>
   <td>Core contributors + Drupal Association</td>
   <td>Coordinator needed!</td>
   <td>Proposed</td>
@@ -145,8 +146,8 @@ We plan to make all of these aspects easier for site builders through the follow
   <tr>
   <td>Config Management 2.0</td>
   <td>
-   <a href="https://www.drupal.org/node/2957423">#2957423</a>
- </td>
+  <a href="https://www.drupal.org/node/2957423">#2957423</a>
+</td>
   <td>Core contributors</td>
   <td>Coordinator needed!</td>
   <td>Proposed</td>
@@ -154,8 +155,8 @@ We plan to make all of these aspects easier for site builders through the follow
   <tr>
   <td>Security LTS</td>
   <td>
-   <a href="https://www.drupal.org/node/2909665">2909665</a>
- </td>
+  <a href="https://www.drupal.org/node/2909665">2909665</a>
+</td>
   <td>Core committers + Drupal Security Team + Drupal Association</td>
   <td>Core committers and Security team</td>
   <td>Proposed, under discussion</td>

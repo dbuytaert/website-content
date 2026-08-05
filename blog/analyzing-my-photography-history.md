@@ -11,17 +11,15 @@ summary: 'How I programmatically parse EXIF data to analyze my photography behav
 tags:
   - Photography
   - 'My site'
-image: blog/camera-history-2000-to-2022
+image: miscellaneous-2022/hello
 published: true
+featured: false
 id: 5341
 ---
 
 # Analyzing my photography history
 
-![Chart that shows my cameras and when I used them](http://default/files/cache/blog/camera-history-2000-to-2022-640w.png)
-
 ![A man with a camera taking a self-portrait.](http://default/files/cache/miscellaneous-2022/hello-640w.jpg)
-*Me using a Leica M10-R.*
 
 I have over 10,000 photos on my website. All these photos are managed by a custom [Drupal](https://www.drupal.org/) module. I wrote the first version of that module over 15 years ago, and continue to work on it from time to time. Like this weekend, when I added a new feature.
 
@@ -68,12 +66,15 @@ SELECT camera, MIN(DATE(date)) AS first, MAX(DATE(date)) AS last, TIMESTAMPDIFF(
 +---------------------+------------+------------+-------+
 ```
 
-Finally, the chart above visualizes my camera history.
+Put in a chart:
+
+![Chart that shows my cameras and when I used them](http://default/files/cache/blog/camera-history-2000-to-2022-640w.png)
+*The timeframe I used each camera for. The white numbers on the blue bars represent the number of photos I published on my website.*
 
 A few takeaways:
 
 - I used my Nikon D4 for 6 years and my Nikon D200 for 5 years. On average, I use a camera for 3.3 years.
-- I should dust of my drone (DJI Mavic Pro) as I haven't used it since early 2019.
+- I should dust off my drone (DJI Mavic Pro) as I haven't used it since early 2019.
 - In 2019, I bought a Nikon D850 and a Nikon Z 7. I liked the Nikon Z 7 better, and didn't use my Nikon D850 much.
 - Since the end of 2021, I've been exclusively using [my Leica](https://dri.es/photography-as-meditation).
 
