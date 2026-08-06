@@ -7,6 +7,7 @@ author:
 date: '2015-11-27T10:27:07-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: "LinkedIn adopted Facebook's BigPipe for faster page loads, the same technique Drupal 8 now ships with by default."
 tags:
   - Drupal
   - 'Web performance'

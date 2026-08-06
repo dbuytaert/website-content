@@ -7,6 +7,7 @@ author:
 date: '2025-12-12T03:17:43-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Nearly twenty years of blogging becomes an unintended autobiography, a time capsule I wish my great-grandparents had left me.'
 tags:
   - 'Digital preservation'
   - 'My site'
@@ -23,13 +24,13 @@ id: 5986
 
 ![A mother in bed holds a newborn baby, surrounded by three formally dressed adults in a hospital room.](http://default/files/cache/old-photos-without-date/greet-van-lerberghe-birth-640w.jpg)
 
-I never knew my great grandparents. They left no diary, no letters, only a handful of photographs. Sometimes I look at those photos and wonder what they cared about. What were their days like? What made them laugh? What problems were they working through?
+I never knew my great-grandparents. They left no diary, no letters, only a handful of photographs. Sometimes I look at those photos and wonder what they cared about. What were their days like? What made them laugh? What problems were they working through?
 
 Then I realize it could be different for my descendants. A long-running blog like mine is effectively an autobiography. 
 
 So far, it captures nearly twenty years of my life: my PhD work, the birth of my children, and the years of learning how to lead Drupal and build a community. It even captures the excitement of starting two companies, and the lessons I learned along the way.
 
-And in recent years, it captures the late night posts where I try to make sense of what AI might change. They are a snapshot of a world in transition. One day, it may be hard to remember AI was ever new.
+And in recent years, it captures the late-night posts where I try to make sense of what AI might change. They are a snapshot of a world in transition. One day, it may be hard to remember AI was ever new.
 
 In a way, a blog is a digital time capsule. It is the kind of record I wish my great grandparents had left behind.
 

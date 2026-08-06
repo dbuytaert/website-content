@@ -7,11 +7,11 @@ author:
 date: '2025-12-31T11:21:56-05:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'How a bet for a Duvel led to two decades of blogging, and what writing in public taught me.'
 tags:
   - 'My site'
   - Writing
   - Drupal
-image: miscellaneous-2023/afternoon-light-kitchen
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_20-years-of-blogging-activity-7412178951554580480-E7nz' }
 published: true
@@ -20,8 +20,6 @@ id: 6026
 ---
 
 # 20 years of blogging
-
-![Plants on a kitchen windowsill, basking in warm sunlight.](http://default/files/cache/miscellaneous-2023/afternoon-light-kitchen-640w.jpg)
 
 My blog turns 20 today!
 
@@ -35,7 +33,7 @@ The irony was that Drupal was powering personal blogs around the world, while my
 
 At DrupalCon Amsterdam in 2005, Steven Wittens called me out on it. Steven was the number two in Drupal at the time. He proposed a bet: if I did not launch a Drupal-powered site before January 1, 2006, I would owe him a [Duvel](https://en.wikipedia.org/wiki/Duvel_Moortgat_Brewery). If I did, he would owe me one.
 
-I wrote [my first post](https://dri.es/first-post) on December 31, 2005 with less than a day to spare. I don't remember if I ever collected that Duvel, but I haven't stopped writing.
+I wrote [my first post](https://dri.es/first-post) on December 31, 2005, with less than a day to spare. I don't remember if I ever collected that Duvel, but I haven't stopped writing.
 
 In the early years, I would post short thoughts on a whim. Social media did not exist yet, so there was almost nothing between a thought and my Publish button. Today, those quick thoughts often end up on social media instead, although I have mostly stepped away from it. More people read what I write now, so a new post can take me hours instead of minutes.
 
@@ -51,7 +49,7 @@ Blogging starts conversations with people I have never met. Blog posts become in
 
 My attention to this blog has gone up and down over the years. Work pulled me away. Travel pulled me away. But I always come back. Writing in public gives me something I do not get anywhere else.
 
-It is strange to think this all traces back to that Duvel bet. My site still runs Drupal of course, which must make it one of the oldest Drupal-powered sites.
+It is strange to think this all traces back to that Duvel bet. My site still runs Drupal, of course, which must make it one of the oldest Drupal-powered sites.
 
 Some of you have been reading since the beginning. Many found your way here much later. I am grateful for all of you. Thank you for making this feel like a conversation instead of a monologue.
 

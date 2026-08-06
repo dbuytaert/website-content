@@ -7,6 +7,7 @@ author:
 date: '2015-10-08T10:12:01-04:00'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
+summary: 'Drupal powers about 1 in 35 of the top million sites, reaching much of the web.'
 tags:
   - Drupal
 published: true
