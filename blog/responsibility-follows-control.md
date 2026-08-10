@@ -76,7 +76,7 @@ Permissions, isolation, audit logs, rate limits, human approval, and rollback ar
 
 ## Regulate AI at each point of control
 
-Deciding who should answer *after* harm is the easier half of this, even when the answer is not obvious. The harder half is deciding what government should require *before* any harm has happened.
+Deciding who should answer *after* harm is easier, even when the answer is not obvious. The harder question is what government should require *before* any harm has happened.
 
 If control and responsibility are distributed across several actors, government rules should be distributed across them too. This is not a new idea. We already regulate many technologies this way.
 
