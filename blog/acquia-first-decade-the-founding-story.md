@@ -34,8 +34,6 @@ Little did I know that at the same time, over 3,000 miles away, Jay Batson was s
 
 If you're curious as to how the Navajo Code Talker Dictionary fits into all of this, it's how Jay stumbled upon the name Acquia. Roughly translating as *"to spot or locate"*, Acquia was the closest concept in the dictionary that reinforced the ideals of information and content that are intrinsic to Drupal (it also didn't hurt that the letter A would rank first in alphabetical listings). Finally, the similarity to the world "Aqua" paid homage to the Drupal Drop; this would eventually provide direction for Acquia's logo.
 
-[newsletter blog]
-
 ## Breakfast in Sunnyvale
 
 In March of 2007, I flew from Belgium to California to attend [Yahoo's Open Source CMS Summit](https://dri.es/open-source-cms-summit-at-yahoo), where I also helped host DrupalCon Sunnyvale. It was at DrupalCon Sunnyvale where Jay first introduced himself to me. He explained that he was interested in building a company that could provide enterprise organizations supplementary services and support for a number of Open Source projects, including Drupal and Apache Solr. Initially, I was hesitant to meet with Jay. I was focused on getting Drupal 5 released, and I wasn't ready to start a company until I finished my PhD. Eventually I agreed to breakfast.
