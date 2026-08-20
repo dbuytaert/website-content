@@ -15,7 +15,7 @@ image: blog/cost-of-maintenance
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/posts/buytaert_not-all-open-source-is-the-same-some-is-activity-7481110706843496448-hije' }
 published: true
-featured: false
+featured: true
 id: 6256
 ---
 
