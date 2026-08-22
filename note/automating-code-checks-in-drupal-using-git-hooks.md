@@ -57,7 +57,7 @@ Drupal does *not* ship with `phpcbf` or `phpstan` out-of-the-box, so these tools
 $ composer require –dev squizlabs/php_codesniffer phpstan/phpstan
 ```
 
-However, my recommended way to install these tools for Drupal is by installing the 1 package. This package bundles a number of Drupal development tools and best practices, including `phpcbf` and `phpstan`.
+However, my recommended way to install these tools for Drupal is by installing the [`drupal/core-dev`](https://packagist.org/packages/drupal/core-dev) package. This package bundles a number of Drupal development tools and best practices, including `phpcbf` and `phpstan`.
 
 ```shell
 $ composer require drupal/core-dev –dev –update-with-all-dependencies

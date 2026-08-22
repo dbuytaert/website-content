@@ -64,7 +64,7 @@ The test lives in `docroot/modules/custom/my_module/tests/src/Functional/MyModul
 
 Drupal does *not* ship with PHPUnit out-of-the-box, so it needs to be installed.
 
-The best way to install PHPUnit on a Drupal site is by installing the 1 package. It can be installed using [Composer](https://getcomposer.org/):
+The best way to install PHPUnit on a Drupal site is by installing the [`drupal/core-dev`](https://packagist.org/packages/drupal/core-dev) package. It can be installed using [Composer](https://getcomposer.org/):
 
 ```shell
 $ composer require drupal/core-dev --dev --update-with-all-dependencies
@@ -86,6 +86,29 @@ $ ddev ssh
 $ export SIMPLETEST_BASE_URL="https://dri.es.ddev.site/"
 $ export SIMPLETEST_DB="mysql://db:db@db/db"
 ```
+
+The two variables are enough to run tests, but I also keep a `phpunit.xml.dist` file in my project root. It saves me from passing directories on every run, and it turns on the warnings I want to see:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/11.5/phpunit.xsd"
+    bootstrap="docroot/core/tests/bootstrap.php"
+    colors="true"
+    failOnWarning="true"
+    displayDetailsOnPhpunitDeprecations="true"
+    displayDetailsOnTestsThatTriggerDeprecations="true">
+  <testsuites>
+    <testsuite name="My custom code">
+      <directory>docroot/modules/custom/</directory>
+      <directory>docroot/themes/custom/</directory>
+    </testsuite>
+  </testsuites>
+</phpunit>
+```
+
+One thing that confused me for a while: PHPUnit reports deprecations in two separate categories. Deprecations triggered by your own code are covered by `displayDetailsOnTestsThatTriggerDeprecations`. Deprecations about how you use PHPUnit itself, like annotations in docblocks, need `displayDetailsOnPhpunitDeprecations`.
 
 ## Running PHPUnit test for Drupal
 
