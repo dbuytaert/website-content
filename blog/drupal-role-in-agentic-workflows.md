@@ -64,7 +64,7 @@ Depending on the task, these internal Drupal workflows can be deterministic, AI-
 
 An external agent should not have to manipulate Drupal from the outside, field by field or function by function. It should be able to ask Drupal to execute a Drupal-native workflow through a single external API call.
 
-That is the other half of what I showed in the [demo video](https://www.youtube.com/watch?v=UZDMIGJ8O9A) above. Drupal was not just exposing content to an external agent. It was exposing custom Drupal-native ECA workflows that an external automation tool called.
+The demo video above showed two things. Drupal was not just exposing content to an external agent; it was also exposing custom Drupal-native ECA workflows that an external automation tool can call.
 
 That was powerful last fall at DrupalCon Vienna, but as agentic workflows become more common, this pattern will only grow in importance.
 
