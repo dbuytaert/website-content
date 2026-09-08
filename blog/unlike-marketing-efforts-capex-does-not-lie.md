@@ -15,6 +15,7 @@ tags:
   - Google
 image: blog/capex-cloud-vendors-absolute-growth-2018
 published: true
+featured: false
 id: 4401
 ---
 
@@ -44,4 +45,4 @@ To put the significance of these investments in cloud services in perspective, i
 
 ![The CAPEX of Amazon, Alphabet, Google vs Coca-Cola between 2008 and 2018](http://default/files/cache/blog/capex-cloud-vendors-vs-coca-cola-2018-640w.jpg)
 
-*Disclaimers: As a public market investor, I'm long [Amazon](https://finance.yahoo.com/q?s=AMZN), [Google](https://finance.yahoo.com/q?s=GOOG) and [Microsoft](https://finance.yahoo.com/q?s=MSFT). Also, [Amazon is an investor in my company, Acquia](https://dri.es/amazon-invests-in-acquia).*
+*Disclaimers: As a public market investor, I'm long [Amazon](https://www.google.com/finance/beta/quote/AMZN:NASDAQ), [Google](https://www.google.com/finance/beta/quote/GOOGL:NASDAQ) and [Microsoft](https://www.google.com/finance/beta/quote/MSFT:NASDAQ). Also, [Amazon is an investor in my company, Acquia](https://dri.es/amazon-invests-in-acquia).*
