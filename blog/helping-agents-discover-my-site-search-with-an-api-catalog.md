@@ -30,7 +30,7 @@ That combination led me to add support for `/.well-known/api-catalog` to my site
 {
   "linkset": [
     {
-      "anchor": "https://dri.es/search/json",
+      "anchor": "https://dri.es/api/search",
       "service-desc": [
         {
           "href": "https://dri.es/openapi.json",
