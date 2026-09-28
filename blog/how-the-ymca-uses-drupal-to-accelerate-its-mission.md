@@ -21,6 +21,7 @@ id: 3891
 # How the YMCA uses Drupal to accelerate its mission
 
 ![A woman in workout clothes checks her smartwatch, with fitness stats overlaid on the image.](http://default/files/cache/drupal/ymca-using-drupal-640w.jpg)
+*© iStock.com/mediaphotos.*
 
 The YMCA is a leading nonprofit dedicated to strengthening communities through youth development, healthy living and social responsibility. Today, the YMCA serves more than 58 million people in 130 countries around the world. The YMCA is a loose federation, meaning that each association operates independently to best meet the needs of the local community. In the United States alone, there are 874 associations, each with their own CEO and board of directors. As associations vary in both size and scale, each YMCA is responsible for maintaining their own digital systems and tools at their own expense.
 

@@ -20,6 +20,7 @@ id: 5851
 # Why Drupal is built for the AI era
 
 ![An astronaut explores a surreal landscape beneath rainbow-colored planetary rings, symbolizing the journey into AI's transformative potential for Drupal.](http://default/files/cache/blog/drupal-ai-advantage-640w.jpg)
+*© Tithi Luadthong.*
 
 In my previous post, [The great digital agency unbundling](https://dri.es/ai-and-the-great-digital-agency-unbundling), I explored how AI is transforming the work of digital agencies. As AI automates more technical tasks, agencies will be shifting their focus toward orchestration, strategic thinking, and accountability. This shift also changes what they need from their tools.
 

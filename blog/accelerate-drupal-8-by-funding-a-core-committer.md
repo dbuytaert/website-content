@@ -18,6 +18,7 @@ id: 4096
 # Accelerate Drupal 8 by funding a Core Committer
 
 ![Hands typing on a keyboard with a computer screen displaying code in the background.](http://default/files/cache/blog/fingers-on-keyboard-640w.jpg)
+*© iStock.com/scyther5.*
 
 We have [ambitious goals for Drupal 8](https://www.drupal.org/about/strategic-initiatives), including new core features such as [Workspaces](https://dri.es/an-update-on-the-workflow-initiative-for-drupal-8-4-8-5) (content staging) and [Layout Builder](https://dri.es/an-update-on-the-layout-initiative-for-drupal-8-4-8-5) (drag-and-drop blocks), completing efforts such as the Migration path and [Media in core](https://dri.es/an-update-on-the-media-initiative-for-drupal-8-4-8-5), automated upgrades, and adoption of a JavaScript framework.
 

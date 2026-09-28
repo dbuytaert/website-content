@@ -19,6 +19,7 @@ id: 6011
 # Christmas lights, powered by Drupal
 
 ![Blue LED string lights, glowing against a dark background](http://default/files/cache/drupal/drupal-blue-led-christmas-lights-640w.jpg)
+*© Phil Norton.*
 
 It's Christmas Eve, and Phil Norton is [controlling his Christmas lights with Drupal](https://www.hashbangcode.com/article/drupal-11-controlling-led-lights-using-rest-service). You can visit his site, pick a color, and across the room, a strip of LEDs changes to match. That feels extra magical on Christmas Eve.
 

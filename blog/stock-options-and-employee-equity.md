@@ -20,6 +20,7 @@ id: 1996
 # Stock options and employee equity
 
 ![Close-up of a stock certificate with the word "SHARES" prominently displayed in bold, decorative lettering.](http://default/files/cache/blog/shares-640w.jpg)
+*© iStock.com/Bluberries.*
 
 To my surprise, a lot of people that I interview at [Acquia](https://www.acquia.com) don't understand stock options or have never heard of it. This blog post explains what stock options are about. It is a very technical topic but for the sake of this post, I am going to keep it really simple and make some over-simplifications.
 

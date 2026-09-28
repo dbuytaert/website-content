@@ -31,7 +31,7 @@ Over the course of our first decade, Acquia's website has seen a few iterations:
 The new site places a greater emphasis on taking advantage of our own products. We wanted to show (not tell), the power of the Acquia Platform. For example, [Acquia Lift](https://dri.es/personalization-takes-flight-with-the-new-acquia-lift) delivers visitors personalized content throughout the site. It was also important to take advantage of Acquia's own resources and partner ecosystem. We worked in partnership with digital agency [HUGE](https://www.hugeinc.com) to create the new design and navigation.
 
 ![A computer screen shows the Acquia website with a slogan about building and managing digital experiences.](http://default/files/cache/acquia/acquia-com-december-2017-computer-640w.jpg)
-*mock up black screen, Blue wall background*
+*mock up black screen, Blue wall background © iStock.com/RakicN.*
 
 ![A side-by-side comparison of the Acquia website before and after design changes, highlighting layout and visual updates.](http://default/files/cache/acquia/acquia-com-december-2017-before-and-after-640w.gif)
 

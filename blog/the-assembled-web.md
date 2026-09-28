@@ -20,6 +20,7 @@ id: 3086
 # The Assembled Web
 
 ![Chalk drawing of a cube made of smaller blue blocks, with some blocks floating apart, on a blackboard background.](http://default/files/cache/blog/assembled-web-640w.jpg)
+*© iStock.com/jbresco.*
 
 To "assemble" means to build. Assembling also means that we come together. Sometimes, both aspects are true. When that happens and we work together to build, we are better off for it.
 

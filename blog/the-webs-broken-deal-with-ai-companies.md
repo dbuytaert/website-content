@@ -22,6 +22,7 @@ id: 5836
 # The web's broken deal with AI companies
 
 ![An astronaut \(Cloudflare\) facing giant glowing structures \(crawlers\) drawing energy in an alien sunset landscape.](http://default/files/cache/blog/cloudflare-vs-crawlers-640w.jpg)
+*© Tithi Luadthong.*
 
 AI is rewriting the rules of how we work and create. Expert developers can now build faster, non-developers can build software, research is accelerating, and human communication is improving. In the next 10 years, we'll probably see a 1,000-fold increase in AI demand. That is why [Drupal is investing heavily in AI](https://dri.es/accelerating-ai-innovation-in-drupal).
 

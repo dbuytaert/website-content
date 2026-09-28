@@ -23,6 +23,7 @@ id: 6171
 # AI rewards strict APIs
 
 ![An astronaut explores a surreal landscape beneath rainbow-colored planetary rings, symbolizing the journey into AI's transformative potential for Drupal.](http://default/files/cache/blog/drupal-ai-advantage-640w.jpg)
+*© Tithi Luadthong.*
 
 Every framework's API surface sits on a spectrum, from strict (typed interfaces, schemas, service containers) to loose (string keys, naming conventions, untyped hooks). Strict APIs cost more upfront: more boilerplate, more to learn before writing code. Loose APIs shift that cost later: more ambiguity, more reliance on naming conventions, and more bugs that are harder to detect and fix.
 

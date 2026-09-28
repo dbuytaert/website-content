@@ -23,6 +23,7 @@ id: 6261
 # Tiffany Farriss to lead the Drupal Association
 
 ![A lone traveler with a staff follows glowing footprints toward a bright sunrise beneath a star-filled sky.](http://default/files/cache/blog/path-forward-640w.jpg)
+*© Tithi Luadthong.*
 
 The Drupal Association is entering a new chapter. Tim Doyle is stepping down as CEO, and the Board has appointed Tiffany Farriss as interim CEO.
 

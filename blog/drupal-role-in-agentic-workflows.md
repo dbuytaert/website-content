@@ -23,6 +23,7 @@ id: 6241
 # Drupal's role in agentic workflows
 
 ![A person stands before a large, glowing dark sphere filled with stars and surrounded by smaller orbiting nodes.](http://default/files/cache/blog/orchestrating-nodes-640w.jpg)
+*© Tithi Luadthong.*
 
 When we started working on the [Drupal AI initiative](https://dri.es/accelerating-ai-innovation-in-drupal) in June 2025, I assumed most AI features would live inside [Drupal](https://www.drupal.org). 
 

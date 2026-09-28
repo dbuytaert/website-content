@@ -23,6 +23,7 @@ id: 6291
 # Responsibility follows control
 
 ![A person and a robot stand before a giant floating sphere in a futuristic industrial landscape.](http://default/files/cache/blog/human-ai-shared-control-640w.jpg)
+*© Tithi Luadthong.*
 
 An AI model does not decide what data it can access, which tools it can use, or whether it can act without approval. People make those decisions at different points. Upstream, a model developer trains and tests the model and decides whether and how to release it. Downstream, a developer builds the model into a system, connects that system to data and tools, and decides whether a person must review its proposed actions before they take effect.
 

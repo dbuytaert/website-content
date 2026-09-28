@@ -25,6 +25,7 @@ id: 6251
 # The privilege of AI in Open Source
 
 ![Birds fly through a misty blue forest toward a tall column of bright light.](http://default/files/cache/blog/birds-toward-the-light-640w.jpg)
+*© Tithi Luadthong.*
 
 Back in 2019, I wrote that [Open Source is not a meritocracy](https://dri.es/the-privilege-of-free-time-in-open-source). Meritocracy says talent is the only thing that counts, but that is not true. To contribute, you also need time, a steady income, and a flexible schedule. Plenty of people lack one or more of these.
 

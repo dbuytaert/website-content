@@ -21,6 +21,7 @@ id: 4031
 # State of Drupal presentation (September 2017)
 
 ![A large group of people gathered indoors for a group photo at DrupalCon Vienna 2017, looking at the camera.](http://default/files/cache/drupalcon-vienna-2017/group-photo-640w.jpg)
+*© Dominik Kiss.*
 
 Yesterday, I shared my [State of Drupal presentation](https://dri.es/tag/state-of-drupal) at DrupalCon Vienna. In addition to sharing [my slides](https://dri.es/files/state-of-drupal-september-2017.pdf), I wanted to provide some more detail on how Drupal is evolving, who Drupal is for, and what I believe we should focus on.
 

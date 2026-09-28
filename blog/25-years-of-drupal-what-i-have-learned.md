@@ -133,7 +133,7 @@ Sometimes the path forward seems clear. An individual can see a direction, but a
 When I released Drupal 1.0.0, I knew almost nothing. For much of the journey, I felt out of my depth. I was often nervous, sometimes intimidated. I didn't know how to scale software, how to build a community, or how to lead. I kept shipping anyway. You don't become ready by waiting. You become ready by doing.
 
 ![Areal photo of DrupalCon Seattle 2019 attendees.](http://default/files/cache/drupalcon-seattle-2019/group-photo-640w.jpg)
-*A group photo taken at DrupalCon Seattle in 2019.*
+*A group photo taken at DrupalCon Seattle in 2019. © Robert C. Shea.*
 
 For those who have been here for years, these lessons will feel familiar. We learned them together, sometimes slowly, sometimes through debate, and often the hard way.
 

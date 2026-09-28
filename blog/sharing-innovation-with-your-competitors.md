@@ -22,6 +22,7 @@ id: 3871
 # Sharing innovation with your competitors
 
 ![Two chess knights, one white and one black, face each other on a board, symbolizing competition and collaboration.](http://default/files/cache/blog/sharing-innovation-with-competitors-640w.jpg)
+*© iStock.com/baona.*
 
 Some of the largest brands in the world are emerging as [leading sponsors and contributors to Drupal](https://dri.es/who-sponsors-drupal-development). Pfizer, for example, has been using Drupal to improve its internal content workflow processes. Not only is Pfizer a major user of Drupal, it is also [making its Drupal improvements available for everyone's benefit](https://dri.es/moving-the-drupal-8-workflow-initiative-along), including its competitors. This kind of innovation and collaboration is relatively unheard of, and less likely to happen with proprietary software.
 

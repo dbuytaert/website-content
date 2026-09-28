@@ -25,6 +25,7 @@ id: 6301
 # The software business after code scarcity
 
 ![A lone figure stands in a lush valley facing a waterfall beneath a large glowing ring.](http://default/files/cache/blog/enchanted-waterfall-640w.jpg)
+*© Tithi Luadthong.*
 
 If AI can generate an application from a description, is software still worth anything?
 

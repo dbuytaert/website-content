@@ -19,6 +19,7 @@ id: 3886
 # Making Drupal upgrades easy forever
 
 ![A Drupal logo appears in the sky above a green hill, with sunlight and a double rainbow behind it.](http://default/files/cache/drupal/the-promise-of-making-drupal-upgrades-easy-640w.jpg)
+*© iStock.com/crisserbug.*
 
 One of the key reasons that Drupal has been successful is because we always made big, forward-looking changes. As a result, Drupal is one of the very few CMSes that has stayed relevant for 15+ years. The downside is that with every major Drupal release, we've gone through [a lot of pain adjusting to these changes](https://dri.es/the-pain-before-the-payoff). The learning curve and difficult upgrade path from one major version of Drupal to the next (e.g. from Drupal 7 to Drupal 8) has also held back Drupal's momentum. In an ideal world, we'd be able to innovate fast yet provide a smooth learning curve and upgrade path from Drupal 8 to Drupal 9. We believe we've found a way to do both!
 

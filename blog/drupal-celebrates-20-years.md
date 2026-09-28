@@ -20,6 +20,7 @@ id: 5136
 # Drupal celebrates 20 years!
 
 ![Birthday cup cakes](http://default/files/cache/drupal/happy-twentieth-birthday-640w.jpg)
+*© Ruth Black.*
 
 On January 15, 2001, exactly 20 years ago, I released Drupal 1.0.0 into the world. I was 22 years old, and just finished college. At the time, I had no idea that Drupal would someday power 1 in 35 websites, and impact so many people globally.
 
@@ -83,6 +84,6 @@ In another decade, I predict Drupal's [incentive models for Makers](https://dri.
 ## Thank you
 
 ![Areal photo of DrupalCon Seattle 2019 attendees.](http://default/files/cache/drupalcon-seattle-2019/group-photo-640w.jpg)
-*A group photo taken at DrupalCon Seattle in 2019.*
+*A group photo taken at DrupalCon Seattle in 2019. © Robert C. Shea.*
 
 Drupal wouldn't be where it is today without the Drupal community. The community and its growth continues to energize and inspire me. I'd like to thank everyone who helped improve and build Drupal over the past two decades. I continue to learn from you all. Happy 20th birthday [Drupal](https://www.drupal.org/)!

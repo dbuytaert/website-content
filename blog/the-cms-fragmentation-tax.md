@@ -24,6 +24,7 @@ id: 6271
 # The CMS Fragmentation Tax
 
 ![A lone traveler walks along a path toward a massive floating cracked planet surrounded by vibrant colors and smaller celestial bodies.](http://default/files/cache/blog/platform-fragmentation-640w.jpg)
+*© iStock.com/Grandfailure.*
 
 In recent months, a number of [Acquia](https://www.acquia.com) customers have independently made the same strategic decision: to migrate hundreds of websites from [WordPress](https://wordpress.org) and other platforms to [Drupal](https://www.drupal.org).
 

@@ -18,6 +18,7 @@ id: 4906
 # Increasing Drupal speaker diversity
 
 ![A special bird flying in space has the spotlight while lots of identical birds sit on the ground \(lack of diversity\)](http://default/files/cache/blog/increasing-diversity-640w.jpg)
+*© iStock.com/Grandfailure.*
 
 At [Drupalcon Seattle](https://dri.es/state-of-drupal-presentation-april-2019), I spoke about some of the challenges Open Source communities like [Drupal](https://drupal.org/) often have with [increasing contributor diversity](https://dri.es/the-privilege-of-free-time-in-open-source). We want our contributor base to look like everyone in the world who uses Drupal's technology on the internet, and unfortunately, that is not quite the reality today.
 

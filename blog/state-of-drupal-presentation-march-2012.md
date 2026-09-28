@@ -24,6 +24,7 @@ https://www.youtube.com/watch?v=RddJvlbSY88
 
 ![View from a keynote speaker's podium with two laptops displaying DrupalCon Denver 2012 content in a large auditorium.](http://default/files/cache/drupalcon-denver-2012/drupalcon-denver-keynote-1-640w.jpg)
 ![A large audience watches a keynote speaker on stage at DrupalCon Denver 2012, with many using laptops.](http://default/files/cache/drupalcon-denver-2012/drupalcon-denver-keynote-2-640w.jpg)
+*© Michael Schmid.*
 
 https://www.youtube.com/watch?v=hoKUswQe0Xg
 

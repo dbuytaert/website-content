@@ -20,6 +20,7 @@ id: 3801
 # Nasdaq using Drupal 8 for new Investor Relations websites
 
 ![A Nasdaq building at night with bright digital signs displaying stock market information.](http://default/files/cache/drupal/nasdaq-using-drupal-640w.jpg)
+*© Christopher Galluzzo.*
 
 I wanted to share the exciting news that [Nasdaq Corporate Solutions](https://business.nasdaq.com/intel/corporate-solutions.html) has selected [Acquia](https://www.acquia.com) and Drupal 8 as the basis for its next generation Investor Relations Website Platform. About 3,000 of the largest companies in the world use Nasdaq's Corporate Solutions for their investor relations websites. This includes 78 of the Nasdaq 100 Index companies and 63% of the Fortune 500 companies.
 

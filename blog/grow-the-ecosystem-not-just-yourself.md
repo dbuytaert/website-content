@@ -23,6 +23,7 @@ id: 6196
 # Grow the ecosystem, not just yourself
 
 ![Two figures with walking sticks stand at the entrance of a glowing cave, looking toward a bright path ahead.](http://default/files/cache/blog/threshold-together-640w.jpg)
+*© Tithi Luadthong.*
 
 In Open Source software, competition works differently than in proprietary software. 
 

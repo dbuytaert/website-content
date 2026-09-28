@@ -23,6 +23,7 @@ id: 6186
 # The gap between Drupal and its reputation
 
 ![A figure in a red jacket walks up a hillside against a flow of glowing blue petals carried on the wind.](http://default/files/cache/blog/walking-upstream-640w.jpg)
+*© iStock.com/Grandfailure.*
 
 I saw two thoughtful posts in my LinkedIn feed over the last week that I wanted to reshare here before the LinkedIn feed buried them. Both were spot on, honest, and deserve a longer shelf life.
  

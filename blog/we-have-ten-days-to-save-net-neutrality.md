@@ -21,6 +21,7 @@ id: 4091
 # We have 10 days to save net neutrality
 
 ![](http://default/files/cache/blog/cable-squeeze-640w.jpg)
+*© iStock.com/BackyardProduction.*
 
 Last month, the Chairman of the Federal Communications Commission, Ajit Pai, released a draft order that would soften net neutrality regulations. He wants to overturn the restrictions that make paid prioritization, blocking or throttling of traffic unlawful. If approved, this order could drastically alter the way that people experience and access the web. Without net neutrality, Internet Service Providers could determine what sites you can or cannot see.
 

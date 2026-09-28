@@ -20,6 +20,7 @@ id: 3921
 # State of Drupal presentation (April 2017)
 
 ![A large group of Drupal community members gathers at DrupalCon Baltimore 2017, smiling and cheering.](http://default/files/cache/drupalcon-baltimore-2017/drupal-community-640w.jpg)
+*© Susanne Coates.*
 
 Last week, 3,271 people gathered at DrupalCon Baltimore to share ideas, to connect with friends and colleagues, and to collaborate on both code and community. It was a great event. One of my biggest takeaways from DrupalCon Baltimore is that Drupal 8's momentum is picking up more and more steam. There are now about 15,000 Drupal 8 sites launching every month.
 

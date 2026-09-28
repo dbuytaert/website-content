@@ -24,6 +24,7 @@ id: 5941
 # The product we should not have killed
 
 ![A lone astronaut stands on cracked ground as bright green energy sprouts upward, symbolizing a new beginning.](http://default/files/cache/acquia/acquia-source-sprout-640w.jpg)
+*© Tithi Luadthong.*
 
 Ten years ago, [Acquia](https://www.acquia.com/) shut down Drupal Gardens, a decision that I still regret.
 

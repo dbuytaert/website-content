@@ -113,6 +113,7 @@ Over the course of 2017, Acquia welcomed an impressive roster of new customers w
 This year was also an incredible growth period for our Asia Pacific business, which is growing ARR at a rate of 80% year over year. We have secured new business in Japan, Hong Kong, Singapore, Indonesia, Malaysia, the Philippines, and India. When we started our business in Australia in 2012, 70% of the pipeline came from [govCMS](https://dri.es/how-to-move-an-entire-government-to-a-new-digital-platform), the platform offered by the Australian government to all national, territorial, and local agencies. Today, our business is much more diverse, with 50% of the region's pipeline coming from outside of Australia.
 
 ![A woman smiles while holding a trophy and speaking at the Stevie Awards ceremony.](http://default/files/cache/acquia/jeannie-finks-at-the-stevies-awards-2017-640w.jpg)
+*© Nina Kruse.*
 
 Customer success continues to be the most important driver of the evolution of Acquia's strategy. This commitment was reflected in 2017 customer satisfaction levels, which remained extremely high at 94 percent. Acquia's global support team also received top honors from the American Business Awards and won a Gold Stevie for [Customer Service Team of the Year](https://www.acquia.com/about-us/newsroom/press-releases/acquia-customer-support-team-earns-gold-stevie-award-honors-2017).
 

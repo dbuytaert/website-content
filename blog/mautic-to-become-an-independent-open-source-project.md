@@ -23,6 +23,7 @@ id: 5446
 # Mautic to become an independent Open Source project
 
 ![A sketch of a bird taking flight from its nest.](http://default/files/images/acquia/mautic-to-become-independent.jpg)
+*© Library of Congress.*
 
 In 2019, [Acquia acquired Mautic](https://dri.es/acquia-acquires-mautic-to-create-the-open-digital-experience-platform), the company behind the Open Source marketing automation project by the same name.
 

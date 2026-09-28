@@ -23,6 +23,7 @@ id: 3291
 # Business model innovation beats technical innovation
 
 ![A person frames a view with their hands, overlaid with a city skyline, symbolizing vision and innovation.](http://default/files/cache/blog/business-model-innovation-640w.jpg)
+*© iStock.com/courtneyk.*
 
 Business model innovation is usually more powerful than technical innovation; it is more disruptive and harder to copy than technical innovation. And yet, so many companies are focused on technical innovation to compete.
 
