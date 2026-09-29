@@ -21,7 +21,7 @@ In 2004, the [Beastie Boys](http://www.beastieboys.com/) gave 50 video cameras t
 So ... we'll try do the exact same at [DrupalCon Brussels](/drupalcon-brussels). The upcoming conference holds the unique opportunity to capture a lot of sessions on video and [Norbert Fuerst](http://fuerstentum.net/) has offered his services to do post production on *all* footage through his video production company.
 
 ![A clapperboard with "DrupalCON Brussels" details next to a Drupal logo featuring the word "Bootlegging.](http://default/files/images/drupal/drupalcon-brussels-2006-bootleg.jpg)
-*&copy; Development Seed*
+*© Development Seed.*
 
 Norbert explains:
 

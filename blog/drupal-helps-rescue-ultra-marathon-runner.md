@@ -17,6 +17,7 @@ id: 4746
 # Drupal helps rescue ultra marathon runner
 
 ![A photo of a runner at the Ultra-trail Snowdonia ultramarathon](http://default/files/cache/drupal/ultra-trail-snowdonia-2018-1-640w.jpg)
+*© Ultra-trail Snowdonia and No Limits Photography.*
 
 I'm frequently sent examples of how Drupal has changed the lives of developers, business owners and end users. Recently, I received a very different story of how Drupal had helped in a rescue operation that saved a man's life.
 
@@ -36,7 +37,7 @@ Monitoring the system into the early hours of the morning, Rob noticed one runne
 
 <div class="large">
   ![A photo of a runner at the Ultra-trail Snowdonia ultramarathon](http://default/files/cache/drupal/ultra-trail-snowdonia-2018-2-640w.jpg)
-*&copy; Ultra-trail Snowdonia and No Limits Photography*
+*© Ultra-trail Snowdonia and No Limits Photography.*
 </div>
 
 Each runner carried a mobile phone with them for emergencies. Mike attempted to make contact with the runner via phone to ensure he was safe. However, this specific area was known for its poor signal and the connection was too weak to get through.

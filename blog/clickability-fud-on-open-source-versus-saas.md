@@ -25,7 +25,7 @@ id: 1706
 To give you a sample of their comparison, take Clickability's take on integration:
 
 ![Comparison of open-source and SaaS integration, highlighting risks of open-source and benefits of Clickability's vetted third-party connections.](http://default/files/images/drupal/clickability-integration.jpg)
-*Screenshot taken from <a href="http://www.clickability.com/SaaS\_versus\_Open\_Source.html">Clickability's SaaS vs Open Source comparison</a>.*
+*Screenshot taken from <a href="http://www.clickability.com/SaaS\_versus\_Open\_Source.html">Clickability's SaaS vs Open Source comparison</a>. © Clickability.*
 
 One of the biggest advantages of using Open Source software is that there are no limits on what services you are "allowed" to integrate it with. Given the number of [sites that Drupal powers](https://dri.es/tag/drupal-sites) and [the size and strength of the Drupal project](https://dri.es/state-of-drupal-presentation-april-2010), official integrations with other software and service vendors are abundant for [Drupal](https://www.drupal.org). If you need integration, for example, with a highly specialized, niche product or web service, it may already exist among the 6,000 contributed modules for Drupal. If it doesn't, you are free to create it yourself. The same is true for other Open Source projects. Good luck getting that into the development cycle of a proprietary SaaS platform.
 
@@ -34,7 +34,7 @@ In many ways, Open Source is actually less risky than putting all your eggs in a
 Or take their section on hosting and performance:
 
 ![Comparison of open-source and SaaS performance, highlighting uptime guarantees and reliability differences between self-hosting and Clickability's service.](http://default/files/images/drupal/clickability-performance.jpg)
-*Screenshot taken from <a href="http://www.clickability.com/SaaS\_versus\_Open\_Source.html">Clickability's SaaS vs Open Source comparison</a>.*
+*Screenshot taken from <a href="http://www.clickability.com/SaaS\_versus\_Open\_Source.html">Clickability's SaaS vs Open Source comparison</a>. © Clickability.*
 
 I won't even begin to debunk what they write on self-hosting – it doesn't have anything to do with being Open Source. Suffice to say that the great thing about FUD is that it validates our work in the Open Source community. They wouldn't have such a comparison page if they weren't worried about Open Source disrupting or slowing down their business.
 

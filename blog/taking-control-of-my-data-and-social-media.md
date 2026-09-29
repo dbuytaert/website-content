@@ -21,6 +21,7 @@ id: 4141
 # Taking control of my data and social media
 
 ![Facebook social decay](http://default/files/cache/blog/facebook-social-decay-640w.jpg)
+*© Andrei Lacatusu.*
 
 Earlier this month, I set a resolution to [blog more and use social media less](https://dri.es/more-blogging-and-less-social-media). While I still need to work on blogging more, I'm certainly spending less time on Facebook. I'm halfway there. So far, only my mom has complained about me spending less time on Facebook.
 

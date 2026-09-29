@@ -18,6 +18,7 @@ id: 801
 # Hundred million spam attempts blocked
 
 ![Bright green graphic celebrating Mollom reaching 10,000 active users and blocking 100 million spam messages.](http://default/files/images/mollom/100-million-milestone.jpg)
+*© Jamey Boje.*
 
 At [Mollom](https://mollom.com), our spam-filtering startup targeted toward eliminating comment and post spam, we've just reached two important milestones: we blocked our 100,000,000th spam message, and we're now actively protecting over 10,000 websites.
 

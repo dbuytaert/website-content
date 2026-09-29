@@ -20,7 +20,7 @@ id: 92
 André Gilain interviewed me about [Drupal](https://www.drupal.org/) for [Trends](http://www.trends.be/), a Belgian business magazine. You can find the article in the June 15 issue of Trends Tendances (French version), or you can read it in full by clicking the link below.
 
 ![A man with short blond hair is partially visible in the foreground, with an Apple logo in the background.](http://default/files/cache/drupal/trends06-interview-640w.jpg)
-*<a href="/files/trends06-interview.pdf">PDF version</a>, &copy; Trends.*
+*<a href="/files/trends06-interview.pdf">PDF version</a>. © Trends.*
 
 This is really good publicity for Drupal, and it is exciting to see our work getting so much recognition.
 

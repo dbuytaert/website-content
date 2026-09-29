@@ -18,6 +18,7 @@ id: 5801
 # Drupal called me
 
 ![Dries Buytaert speaking during a Q&A session at Drupal Dev Days Leuven, facing a large, engaged audience seated in a university lecture hall.](http://default/files/cache/press-photos/drupal-dev-days-leuven-640w.jpg)
+*© Paul Johnson.*
 
 One of the most surprising moments at Drupal Dev Days Leuven? Getting a phone call from [Drupal](https://www.drupal.org/). Yes, really.
 

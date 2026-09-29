@@ -26,7 +26,7 @@ id: 4296
 Last week, I shared my [State of Drupal presentation](https://dri.es/tag/state-of-drupal) at DrupalCon Nashville. In addition to [sharing my slides](https://dri.es/files/state-of-drupal-april-2018.pdf), I wanted to provide more information on how you can participate in the various initiatives presented in my keynote, such as growing Drupal adoption or evolving our community values and principles.
 
 ![Cowboy Dries at DrupalCon Nashville](http://default/files/cache/drupalcon-nashville-2018/cowboy-dries-at-drupalcon-nashville-640w.jpg)
-*&copy; <a href="https://www.flickr.com/photos/155787132@N07/">Yes Moon</a>*
+*© Yes Moon.*
 
 ## Drupal 8 update
 

@@ -37,7 +37,7 @@ Next, I gave an update on our strategic initiatives.
 ## Make Drupal better for content creators
 
 ![A photo from Drupal Europe in Darmstadt](http://default/files/cache/drupal-europe-darmstadt-2018/drupal-europe-2-640w.jpg)
-*&copy; Paul Johnson*
+*© Paul Johnson.*
 
 The expectations of content creators are changing. For Drupal to be successful, we have to continue to deliver on their needs by providing more powerful content management tools, in addition to delivering simplicity though drag-and-drop functionality, WYSIWYG, and more.
 

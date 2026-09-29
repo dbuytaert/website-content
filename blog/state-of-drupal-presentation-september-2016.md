@@ -20,6 +20,7 @@ id: 3791
 # State of Drupal presentation (September 2016)
 
 ![A speaker on stage looks at a large screen displaying a video of a woman presenting while wearing headphones.](http://default/files/cache/drupalcon-dublin-2016/keynote-4-640w.jpg)
+*© Paul Johnson.*
 
 DrupalCon Dublin marked my 28th DrupalCon and #Driesnote presentation. You can [watch a recording of my keynote](https://youtu.be/eQLzrlMeySU) (starting at 23:55) or [download a copy of my slides here](https://dri.es/files/state-of-drupal-september-2016.pdf) (185.4 MB).
 

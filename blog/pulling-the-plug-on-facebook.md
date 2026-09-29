@@ -22,6 +22,7 @@ id: 4741
 # Pulling the plug on Facebook
 
 ![Facebook social decay](http://default/files/cache/blog/facebook-social-decay-640w.jpg)
+*© Andrei Lacatusu.*
 
 Exactly one year ago, I decided to [use social media less and blog more](https://dri.es/taking-control-of-my-data-and-social-media). I uninstalled the Facebook application from my phone, but kept my Facebook account for the time being.
 

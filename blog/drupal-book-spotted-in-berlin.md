@@ -20,4 +20,4 @@ id: 71
 [Pieter Baert](http://pietel.be/) spotted the [German Drupal book](/german-addison-wesley-drupal-book) in a store in Berlin, Germany. He sent me the photo below. Thanks!
 
 ![A bookstore window display featuring a Drupal book, Linux software, Creative Commons T-shirts, and other tech-related items.](http://default/files/images/drupal/book-aw-spotted.jpg)
-*&copy; <a href="http://www.pieterbaert.be/">Pieter Baert</a> © Pieter Baert.*
+*© Pieter Baert.*
