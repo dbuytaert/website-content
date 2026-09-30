@@ -35,6 +35,7 @@ And to my surprise, the emails reveal they chose [Drupal](https://www.drupal.org
 The emails detail Satoshi's hands-on involvement, from installing Drupal themes, to configuring Drupal's `.htaccess` file, to exploring Drupal's multilingual capabilities.
 
 ![Email from Satoshi Nakamoto to Martti Malmi, dated November 2009, discussing Drupal themes installation and comparing Drupal and Joomla!.](http://default/files/cache/drupal/satoshi-martti-drupal-2-640w.png)
+*© Martti Malmi.*
 
 At some point in the conversation, Satoshi expressed reservations about Drupal's forum module.
 

@@ -43,6 +43,7 @@ One day we went dog sledding. As with all animals it seems, Vanessa quickly name
 The salmon soup was made over a fire, and we were skeptical at first how this would taste. The soup turned out to be delicious and even reminded us of the clam chowder that we have come to enjoy in Boston. We've since remade this soup at home and the boys also enjoy it. Not that this blog will turn into a recipe blog, but I plan to publish the recipe with photos at some point.
 
 ![A red teepee with a glowing interior stands in a snowy forest at night, surrounded by trees and scattered gear.](http://default/files/cache/finland-2017/tippy-by-night-640w.jpg)
+*© Jonathan Perret.*
 ![A group of people in winter clothing sit and stand around a campfire in the snow at night.](http://default/files/cache/finland-2017/campfire-in-the-snow-1-640w.jpg)
 
 At night we would go out on "aurora hunts". The first night by reindeer sled, the second night using snowshoes, and the third night by snowmobile. To stay warm, we built fires either in tepees or in the snow and drank warm berry juice.

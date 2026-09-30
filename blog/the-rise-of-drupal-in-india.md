@@ -22,6 +22,7 @@ id: 3586
 # The rise of Drupal in India
 
 ![A large group of people in an auditorium cheer and raise their hands, some wearing orange headbands.](http://default/files/cache/mumbai-2016/drupalcon-group-photo-640w.jpg)
+*© Josef Dabernig.*
 
 Earlier this week I returned from DrupalCon Asia, which took place at IIT Bombay, one of India's premier engineering universities. I wish I could have bottled up all the energy and excitement to take home with me. From dancing on stage, to posing for what felt like a million selfies, to a motorcycle giveaway, this DrupalCon was unlike any I've seen before.
 

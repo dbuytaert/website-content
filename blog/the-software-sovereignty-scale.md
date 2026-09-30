@@ -137,7 +137,7 @@ The [European Commission's Cloud Sovereignty Framework](https://commission.europ
 
 <div class="large">
 ![A table from the European Commission's Cloud Sovereignty Framework showing the four contributing factors for Technology Sovereignty \(SOV-6\): integration through open APIs and standards, software accessible under open licenses, visibility into design and architecture, and EU independence in high-performance computing.](http://default/files/cache/blog/eu-cloud-sovereignty-framework-sov6-640w.png)
-*The four contributing factors within Technology Sovereignty \(SOV-6\). Open licensing is one among four. Source: <a href="https://commission.europa.eu/document/download/09579818-64a6-4dd5-9577-446ab6219113\_en?filename=Cloud-Sovereignty-Framework.pdf">Cloud Sovereignty Framework</a>, version 1.2.1, October 2025.*
+*The four contributing factors within Technology Sovereignty \(SOV-6\). Open licensing is one among four. Source: <a href="https://commission.europa.eu/document/download/09579818-64a6-4dd5-9577-446ab6219113\_en?filename=Cloud-Sovereignty-Framework.pdf">Cloud Sovereignty Framework</a>, version 1.2.1, October 2025. © European Commission.*
 </div>
 
 This dramatically underweights what matters most: Open Source. Open standards, transparency, and computing independence are capabilities that proprietary software can also provide. They can change if a vendor is acquired or shifts strategy.
