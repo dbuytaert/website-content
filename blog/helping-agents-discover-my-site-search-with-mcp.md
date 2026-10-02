@@ -40,10 +40,10 @@ Until then, an easy way to talk to my site with an MCP client is Simon Willison'
 
 ```bash
 uvx mcp-explorer list https://dri.es/mcp
-uvx mcp-explorer call https://dri.es/mcp search -a q "open source"
+uvx mcp-explorer call https://dri.es/mcp find_posts -a query "open source"
 ```
 
-The first command prints the tool's name, description, and arguments. The second runs a search across my posts and returns up to twenty results.
+The first command prints each tool's name, description, and arguments. The second runs a search across my posts and returns up to twenty results.
 
 Alternatively, you can use the raw protocol by running this `curl` command from a terminal:
 
@@ -52,8 +52,8 @@ curl -s https://dri.es/mcp \
   -H "Content-Type: application/json" \
   -H "MCP-Protocol-Version: 2026-07-28" \
   -H "Mcp-Method: tools/call" \
-  -H "Mcp-Name: search" \
-  -d '{"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"search","arguments":{"q":"open source"},"_meta":{"io.modelcontextprotocol/protocolVersion":"2026-07-28"}}}' \
+  -H "Mcp-Name: find_posts" \
+  -d '{"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"find_posts","arguments":{"query":"open source"},"_meta":{"io.modelcontextprotocol/protocolVersion":"2026-07-28"}}}' \
   | jq .result.structuredContent
 ```
 

@@ -30,7 +30,7 @@ That combination led me to add support for `/.well-known/api-catalog` to my site
 {
   "linkset": [
     {
-      "anchor": "https://dri.es/api/search",
+      "anchor": "https://dri.es/api",
       "service-desc": [
         {
           "href": "https://dri.es/openapi.json",
@@ -46,7 +46,7 @@ That combination led me to add support for `/.well-known/api-catalog` to my site
 
 The catalog is a small JSON document written in the [Linkset](https://www.rfc-editor.org/rfc/rfc9264) format. It advertises my search endpoint and, in turn, links to an [OpenAPI](https://www.openapis.org/) document that tells software how to use it.
 
-The JSON endpoint at `/search/json` predates the catalog and powers my site's search. However, it was not documented or easy for software to discover. The catalog now makes it explicit.
+The JSON endpoint behind my site's search, now at `/api/find-posts`, predates the catalog. However, it was not documented or easy for software to discover. The catalog now makes it explicit.
 
 The OpenAPI document at [https://dri.es/openapi.json](https://dri.es/openapi.json) tells AI agents exactly how to call the endpoint and interpret the results. It removes the guesswork, reducing the time and tokens agents would otherwise spend [figuring out how the API works](https://dri.es/friction-abstraction-and-verification).
 
