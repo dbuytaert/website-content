@@ -33,7 +33,7 @@ On our first day we went on a 35 km (22 miles) bike ride out to [Chatham](https:
 While we were at the Chatham Pier Fish Market, we watched the local fisherman offload their daily catch with sea lions and seagulls hovering to get some lunch of their own. Once we arrived back at the Inn we were able to cool off in the pool and relax in the late afternoon sun.
 
 <div class="large">
-  ![A worker unloads freshly caught fish from a container at the Chatham Pier Fish Market.](http://default/files/cache/cape-cod-2018/chatham-pier-fish-market-2-640w.jpg)
+  ![Seen from above, a fisherman in a cap and orange overalls bends over a large black bin of fish.](http://default/files/cache/cape-cod-2018/chatham-pier-fish-market-2-640w.jpg)
 </div>
 
 Saturday we were up for a hike, so the Hogans sent us to the [Dune Shacks Trail](https://en.wikipedia.org/wiki/Dune_Shacks_of_Peaked_Hill_Bars_Historic_District) in [Provincetown](https://en.wikipedia.org/wiki/Provincetown,_Massachusetts). We were told to carry in whatever we would need as there weren't any facilities on the beach. So we stopped at an authentic French bakery in Wellfleet to get lunch to take on our hike – the baguette took me right back to being in France, and while I was tempted by the pain au chocolat and pain aux raisins, I didn't indulge. I had too much ice cream already.
@@ -48,7 +48,7 @@ After we picked up lunch, we continued up [Route 6](https://en.wikipedia.org/wik
 We rounded out the weekend with an afternoon sail of the [Nantucket Sound](https://en.wikipedia.org/wiki/Nantucket_Sound). It was a beautiful day and the conditions lent themselves to a very relaxing sailing experience.
 
 ![A close-up of a sailing winch with a rope wrapped around it, secured on a boat with water in view.](http://default/files/cache/cape-cod-2018/sailing-1-640w.jpg)
-![A woman wearing sunglasses smiles while sailing on a boat.](http://default/files/cache/cape-cod-2018/sailing-3-640w.jpg)
+![A smiling woman in sunglasses on a sailboat, with white sails, a blue cover and coiled ropes behind her.](http://default/files/cache/cape-cod-2018/sailing-3-640w.jpg)
 ![A person wearing a striped shirt grips the steering wheel of a sailboat while navigating on the water.](http://default/files/cache/cape-cod-2018/sailing-2-640w.jpg)
 
 It was a great weekend!
