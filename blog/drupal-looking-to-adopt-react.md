@@ -90,7 +90,7 @@ We created [an issue on the Drupal Core queue](https://www.drupal.org/node/29133
 
 ## Conclusion
 
-![Drupal supporting different JavaScript front ends](http://default/files/cache/blog/drupal-supporting-different-javascript-front-ends-640w.jpg)
+![Diagram comparing monolithic Drupal with a future Drupal where Angular, Ember, Vue.js, React and Twig sit on a React admin and content repository.](http://default/files/cache/blog/drupal-supporting-different-javascript-front-ends-640w.jpg)
 *Drupal should support a variety of JavaScript libraries on the user-facing front end while relying on a single shared framework as a standard across Drupal administrative interfaces.*
 
 In short, I continue to believe that adopting more JavaScript is important for the future of Drupal. My original recommendation to include a modern JavaScript framework (or JavaScript libraries) for Drupal's administrative user interfaces still stands. I believe we should allow developers to use their JavaScript framework of choice to build front-end applications on top of Drupal and that we can start small with one or two administrative user interfaces.

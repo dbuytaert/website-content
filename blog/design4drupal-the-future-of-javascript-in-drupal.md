@@ -19,7 +19,7 @@ id: 4431
 
 # Design 4 Drupal: The future of JavaScript in Drupal
 
-![Drupal is no longer the Drupal you used to know](http://default/files/cache/drupal/drupal-is-no-longer-the-drupal-you-used-to-know-640w.jpg)
+![Circuit board close-up behind a Drupal drop logo and the words "Drupal is no longer the Drupal you used to know".](http://default/files/cache/drupal/drupal-is-no-longer-the-drupal-you-used-to-know-640w.jpg)
 
 Today, I gave a keynote presentation at the 10th annual [Design 4 Drupal conference](https://www.design4drupal.org/) at [MIT](http://web.mit.edu/). I talked about the [past, present and future of JavaScript](https://dri.es/a-history-of-javascript-across-the-stack), and how this evolution reinforces Drupal's commitment to be [API-first, not API-only](https://dri.es/drupal-is-api-first-not-api-only). I also included behind-the-scene insights into the Drupal community's [administration UI and JavaScript modernization initiative](https://dri.es/working-toward-a-javascript-driven-drupal-administration-interface), and why this approach presents an exciting future for JavaScript in Drupal.
 

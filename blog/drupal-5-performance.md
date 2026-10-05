@@ -52,7 +52,7 @@ The figure above shows that generating a page in Drupal 5 is 3% slower than in D
 
 What does this mean when looking at the overall performance of a Drupal 5 website? Well, the effectiveness of Drupal's page cache depends on a number of parameters like your cache expiration time, the number of authenticated users, access patterns, etc. To emulate different Drupal configurations, we modified Drupal 4.7 and Drupal 5 so we could look at performance for a range of page cache miss rates.
 
-![Bar chart showing Drupal 5's performance improvement over Drupal 4.](http://default/files/images/drupal/drupal-5-performance-2.jpg)
+![Bar chart of speedup over Drupal 4.7 by page cache miss rate: 72% at a 0% miss rate, falling to roughly zero at miss rates above 50%.](http://default/files/images/drupal/drupal-5-performance-2.jpg)
 *The relative performance improvement of Drupal 5's normal database caching compared to Drupal 4.7's database caching. A miss rate of 0% means that all page requests result in a cache hit and that all pages can be served from the database cache. A miss rate of 100% means that all page requests result in a cache miss, and that we had to dynamically generate all pages.*
 
 The figure above shows the relative performance improvement of Drupal 5 compared to Drupal 4.7. We observe that Drupal sites with relatively few cache misses (typically static Drupal websites accessed by anonymous users) will be significantly faster with Drupal 5. However, Drupal sites where more than 1 out of 2 page requests results in a cache miss (typically dynamic Drupal websites with a lot of authenticated users) will be slightly slower compared to an identical Drupal 4.7 website.

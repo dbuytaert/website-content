@@ -23,7 +23,7 @@ As explained in [my DrupalCon DC keynote presentation](https://dri.es/state-of-d
 
 I asked my friends at [Development Seed](http://www.developmentseed.org) to create some mockups for a new drupal.com (see screenshot below). I really like the professional tone that such a site could create for many people who are experiencing Drupal for the first time. The header part will come with rotating images and captions, and other JavaScript goodness so don't blind stare at the copy on the screenshot.
 
-![Screenshot of Drupal.](http://default/files/cache/drupal/drupal-com-2009-640w.jpg)
+![Drupal.com homepage with a photo collage around a blue fixed gear bike, the tagline "Drupal gets everywhere by bike" and an About Drupal.com box.](http://default/files/cache/drupal/drupal-com-2009-640w.jpg)
 *Drupal.com as launched in 2009.*
 
 It is just a tiny little website but for now it shows how hot the Drupal project is and I'm looking forward to some ad revenue to help cover my Drupal trademark expenses. With the help of [Development Seed](http://www.developmentseed.org), I plan to get this up and running in the next couple of weeks. I still have to figure out how to best run the advertising part – suggestions welcome. At some point, I might turn drupal.com into something a little more useful, but for the time being, I think this marks a tremendous improvement! I'm confident that the new design will help promote the project.

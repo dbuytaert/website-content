@@ -19,7 +19,7 @@ id: 4361
 
 # My thoughts on Adobe buying Magento for $1.68 billion
 
-![Adobe acquires Magento for $1.68 billion](http://default/files/cache/blog/adobe-acquires-magento-640w.jpg)
+![Three yellow panels showing the Adobe logo, a computer screen with a shopping cart, and the Magento logo.](http://default/files/cache/blog/adobe-acquires-magento-640w.jpg)
 
 Yesterday, [Adobe](https://www.adobe.com) announced that it agreed to buy [Magento](https://magento.com) for $1.68 billion. When I woke up this morning, 14 different people had texted me asking for my thoughts on the acquisition.
 
@@ -57,7 +57,7 @@ Owning Magento gives Adobe a disadvantage, because commerce vendors will be less
 
 Today, there is an incredible amount of innovation taking place in the marketing technology landscape ([full-size image](https://dri.es/files/images/blog/marketing-technology-landscape-2018.jpg)), and it is impossible for a single vendor to have the most competitive product suite across all of these categories. The only way to keep up with this unfettered innovation is through integrations.
 
-![Marketing technology landscape 2018](http://default/files/cache/blog/marketing-technology-landscape-2018-640w.jpg)
+![The April 2018 "Martech 5000" supergraphic: thousands of tiny vendor logos packed into six colored categories, from advertising to management.](http://default/files/cache/blog/marketing-technology-landscape-2018-640w.jpg)
 *An image of the <a href="https://chiefmartec.com/2018/04/marketing-technology-landscape-supergraphic-2018/">Marketing Technology Landscape 2018</a>. For reference, here are the <a href="https://chiefmartec.com/2011/08/marketing-technology-landscape-infographic/" title="Marketing Technology Landscape 2011">2011</a>, <a href="https://chiefmartec.com/2012/09/marketing-technology-landscape-supergraphic-2012/" title="Marketing Technology Landscape 2012">2012</a>, <a href="https://chiefmartec.com/2014/01/marketing-technology-landscape-supergraphic-2014/" title="Marketing Technology Landscape 2014">2014</a>, <a href="https://chiefmartec.com/2015/01/marketing-technology-landscape-supergraphic-2015/" title="Marketing Technology Landscape 2015">2015</a>, <a href="https://chiefmartec.com/2016/03/marketing-technology-landscape-supergraphic-2016/" title="Marketing Technology Landscape 2016">2016</a> and <a href="https://chiefmartec.com/2017/05/marketing-techniology-landscape-supergraphic-2017/" title="Marketing Technology Landscape 2017">2017</a> versions of the landscape. It shows how fast the marketing technology industry is growing. © chiefmartec.com.*
 
 Most customers want an open platform that allows for open innovation and unlimited integrations. It's why Drupal and Acquia are winning, why the work on [Drupal's web services](https://dri.es/tag/web-services) is so important, and why [Acquia](https://www.acquia.com) remains committed to a best-of-breed strategy for commerce. It's also why Acquia has [strong conviction around Acquia Journey as a marketing integration platform](https://dri.es/the-evolution-of-acquia-product-strategy). It's all about innovation through integration, making those integrations easy, and removing friction from adopting preferred technologies.

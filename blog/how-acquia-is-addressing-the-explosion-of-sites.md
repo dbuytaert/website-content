@@ -33,7 +33,7 @@ I outlined this trend and its challenges almost five years ago in [Acquia produc
 
 Most larger organizations run many different types of websites. It's not unusual for a small organization to have ten websites and for a large organization to have hundreds. Some of Acquia's largest customers operate thousands of websites.
 
-![](http://default/files/cache/blog/acquia-cloud-site-factory-many-sites-640w.jpg)
+![Circles of different colors and sizes, one per kind of site an organization runs, from a corporate website to intranets, blogs and microsites.](http://default/files/cache/blog/acquia-cloud-site-factory-many-sites-640w.jpg)
 
 Most organizations struggle to manage their growing portfolios of digital properties. You'd be surprised how many organizations have more than 20 different content management systems in use. Often, this means that different teams are responsible for them and that they are hosted in different environments. This fragmentation is expensive, creates unnecessary security risks, poses governance challenges, leads to brand inconsistency, and makes it difficult to create a unified customer experience. It costs large organizations millions of dollars a year.
 
@@ -45,7 +45,7 @@ When managing many sites, Drupal has an unfair advantage because it scales easil
 
 This contrasts with many of Drupal's competitors, which are either point solutions, such as SharePoint for intranets, or do not lend themselves to managing many different types of sites because of their complexity or cost. Adobe Experience Manager and Sitecore, for example, are expensive solutions for a quick marketing campaign site, while WordPress can be challenging for building complex websites. The first thing organizations can do, therefore, is standardize on Drupal as a platform for all their site needs.
 
-![](http://default/files/cache/blog/acquia-cloud-site-factory-many-drupals-640w.jpg)
+![The same kinds of sites, from a corporate website to blogs and microsites, now all drawn as blue Drupal drops.](http://default/files/cache/blog/acquia-cloud-site-factory-many-drupals-640w.jpg)
 
 By standardizing on Drupal, organizations can simplify training, reduce maintenance costs, streamline security, and optimize internal resources, all without sacrificing quality or requirements. Standardizing on Drupal certainly doesn't mean that every single site needs to use Drupal. Transitioning from 20 different systems to three still translates into dramatic cost savings.
 

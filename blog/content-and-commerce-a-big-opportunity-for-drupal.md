@@ -30,7 +30,7 @@ At the same time, commerce platforms have not added many tools for rich content 
 
 To overcome the limitations that today's commerce platforms have with building content-rich shopping experiences, organizations want to integrate their commerce platform with a content management system (CMS). Depending on the situation, the combined solution is architected for either system to be "the glass", i.e. the driver of the shopping experience.
 
-![Lush.](http://default/files/cache/blog/content-and-commerce-2-640w.gif)
+![The Lush Kitchen web page, with a "Today's menu" perfume pop-up and a notice that Cardamom Coffee was added to the basket.](http://default/files/cache/blog/content-and-commerce-2-640w.gif)
 *Lush.com is a nice example of a content-rich shopping experience built with Drupal and Drupal Commerce.*
 
 ## Drupal's unique advantage for commerce

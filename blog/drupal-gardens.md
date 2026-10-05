@@ -27,10 +27,10 @@ For the same reason, I'd really like Drupal Gardens to stay close to what Drupal
 
 We also showed a demo of the current state of Drupal Gardens. The product is in pre-alpha, but we wanted to give you an update and show what we've been working on. The main feature that I demonstrated in my Acquia presentation is a tool we developed called the "theme builder". The theme builder makes it really easy to build a beautiful design for your Drupal site from within your browser without having to write any HTML, CSS or JavaScript. The theme builder is enabling technology, and certainly part of [my vision of what content management systems should enable users to do](https://dri.es/drupal-and-eliminating-middlemen): empowering them to quickly and easily assemble powerful websites without having to do any programming.
 
-![](http://default/files/images/acquia/drupal-gardens-theme-builder-2009-1.jpg)
-![](http://default/files/images/acquia/drupal-gardens-theme-builder-2009-2.jpg)
-![](http://default/files/images/acquia/drupal-gardens-theme-builder-2009-3.jpg)
+![Drupal Gardens theme builder over a sample "Chateau Drupal" wine site, offering themes such as Broadway, Minima, Kenwood and Sparks.](http://default/files/images/acquia/drupal-gardens-theme-builder-2009-1.jpg)
+![The theme builder's Layout tab, offering page layouts that arrange columns A, B and C in different orders and widths.](http://default/files/images/acquia/drupal-gardens-theme-builder-2009-2.jpg)
+![The theme builder's Styles tab with a color palette picker open, listing palettes such as Sunflower, Dijon, Sprout and Tropica.](http://default/files/images/acquia/drupal-gardens-theme-builder-2009-3.jpg)
 
 The current plan is to be in the market the beginning of 2010. Gardens is built on, and depends on, the release of Drupal 7. While we don't yet have the exact timing for this (*Drupal 7 is ready when it is ready*), we do plan to start inviting people to start alpha testing in the next couple of months. If you are interested in taking part in the alpha program, or if you'd like to get notified about the progress of the product, sign up at [drupalgardens.com](http://drupalgardens.com).
 
-![DrupalGardens.com signup form](http://default/files/cache/acquia/drupalgardens-com-signup-2009-640w.jpg)
+![A "Coming soon" Drupal Gardens page reading "Building powerful social websites is about to get easier", with an email signup field over grass and sky.](http://default/files/cache/acquia/drupalgardens-com-signup-2009-640w.jpg)

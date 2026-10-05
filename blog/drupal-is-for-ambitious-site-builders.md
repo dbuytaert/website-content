@@ -19,7 +19,7 @@ id: 5326
 
 # Drupal is for ambitious site builders
 
-![A futuristic scene with a person and a robot overlooking a city, featuring the text "Drupal is for ambitious site builders.](http://default/files/cache/drupalcon-portland-2022/drupal-is-for-ambitious-site-builders-640w.png)
+![A traveler and a robot overlook a city under a big planet, with the text "Today, we are updating the vision to Drupal is for ambitious site builders".](http://default/files/cache/drupalcon-portland-2022/drupal-is-for-ambitious-site-builders-640w.png)
 
 With [Drupal 10 around the corner](https://dri.es/state-of-drupal-presentation-april-2022), it's time to start laying out Drupal 11's development roadmap.
 
@@ -43,7 +43,7 @@ This shift also brings us back to our roots, which I've talked about [in several
 
 An ambitious site builder sits in between the developer hand-coding everything using a framework, and the content author using a SaaS solution. There is a gap between developers and content authors that Drupal fills really well.
 
-![Drupal's unique strength is the Ambitious Site Builder](http://default/files/cache/drupalcon-portland-2022/drupal-unique-strength-640w.png)
+![Slide comparing three users: developers write code and pick frameworks, ambitious site builders use the UI and pick Drupal, content authors pick SaaS.](http://default/files/cache/drupalcon-portland-2022/drupal-unique-strength-640w.png)
 
 An ambitious site builder can get a lot of things done by installing and configuring modules, and using Drupal through the UI. But when needed, they can use custom code to make their site exactly how they want it to be. Ambitious site builders are the reason why Drupal became so successful in the first place.
 

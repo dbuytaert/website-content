@@ -21,11 +21,11 @@ id: 4296
 
 # State of Drupal presentation (April 2018)
 
-![Lets grow Drupal together](http://default/files/cache/drupalcon-nashville-2018/lets-grow-drupal-together-640w.jpg)
+![A child in an orange jacket waters a glowing sapling with a red watering can, beside the words "Let's grow Drupal together".](http://default/files/cache/drupalcon-nashville-2018/lets-grow-drupal-together-640w.jpg)
 
 Last week, I shared my [State of Drupal presentation](https://dri.es/tag/state-of-drupal) at DrupalCon Nashville. In addition to [sharing my slides](https://dri.es/files/state-of-drupal-april-2018.pdf), I wanted to provide more information on how you can participate in the various initiatives presented in my keynote, such as growing Drupal adoption or evolving our community values and principles.
 
-![Cowboy Dries at DrupalCon Nashville](http://default/files/cache/drupalcon-nashville-2018/cowboy-dries-at-drupalcon-nashville-640w.jpg)
+![Dries in a cowboy hat speaks on a wide stage below a colorful Drupal logo on the screen, seen from behind a packed audience.](http://default/files/cache/drupalcon-nashville-2018/cowboy-dries-at-drupalcon-nashville-640w.jpg)
 *© Yes Moon.*
 
 ## Drupal 8 update
@@ -34,17 +34,17 @@ During the first portion of my presentation, I provided an overview of Drupal 8 
 
 Drupal 8 continues to gain momentum, as the number of Drupal 8 sites has grown 51 percent year-over-year:
 
-![Drupal 8 site growth](http://default/files/cache/drupalcon-nashville-2018/drupal-8-site-growth-640w.jpg)
+![Area chart titled "Drupal 8 sites have grown 51% in the last year", rising from Drupal 8's release in November 2015 to 241,000 sites.](http://default/files/cache/drupalcon-nashville-2018/drupal-8-site-growth-640w.jpg)
 *This graph depicts the number of Drupal 8 sites built since April 2015. Last year there were 159,000 sites and this year there are 241,000 sites, representing a 51% increase year-over-year.*
 
 Drupal 8's module ecosystem is also maturing quickly, as 81 percent more Drupal 8 modules have become stable in the past year:
 
-![Drupal 8 module readiness](http://default/files/cache/drupalcon-nashville-2018/drupal-8-module-readiness-640w.jpg)
+![Area chart titled "81% more Drupal 8 modules are now stable", climbing from January 2016 to April 2018, with 5,076 projects in development.](http://default/files/cache/drupalcon-nashville-2018/drupal-8-module-readiness-640w.jpg)
 *This graph depicts the number of modules now stable since January 2016. This time last year there were 1,028 stable projects and this year there are 1,860 stable projects, representing an 81% increase year-over-year.*
 
 As you can see from the [Drupal 8 roadmap](https://www.drupal.org/core/roadmap), improving the ease of use for content creators remains our top priority:
 
-![Drupal 8 roadmap](http://default/files/cache/drupalcon-nashville-2018/drupal-8-roadmap-640w.jpg)
+![Slide with columns for Drupal 8.5, 8.6, 8.7+ and a wishlist, listing features like content layouts, media library and automatic updates.](http://default/files/cache/drupalcon-nashville-2018/drupal-8-roadmap-640w.jpg)
 *This roadmap depicts Drupal 8.5, 8.6, and 8.7+, along with a column for "wishlist" items that are not yet formally slotted. The contents of this roadmap can be found at <a href="https://www.drupal.org/core/roadmap">https://www.drupal.org/core/roadmap</a>.*
 
 ## Four ways to grow Drupal adoption
@@ -169,7 +169,7 @@ The fourth initiative is unique as it will help our community to better communic
 
 With these challenges in mind, the [Drupal Association](https://www.drupal.org/association) has launched the [Promote Drupal Initiative](https://www.drupal.org/promotedrupal). This initiative will include building stronger marketing and branding, demos, events, and public relations resources that digital agencies and local associations can use to promote Drupal. The Drupal Association has set a goal of fundraising $100,000 to support this initiative, including the hiring of a marketing coordinator.
 
-![$54k raised for the Promote Drupal initiative](http://default/files/cache/drupalcon-nashville-2018/54k-raised-for-the-promote-drupal-initiative-640w.jpg)
+![Slide with a progress bar at $54,000 of a $100,000 goal, individual sponsors' names above it and company sponsors' logos below.](http://default/files/cache/drupalcon-nashville-2018/54k-raised-for-the-promote-drupal-initiative-640w.jpg)
 
 Megan Sanicki and her team have already raised $54,000 from over 30 agencies and 5 individual sponsors in only 4 days. Clearly this initiative resonates with Drupal agencies. Please consider how you or your organization can contribute.
 
@@ -179,7 +179,7 @@ This year at DrupalCon Nashville, over 3,000 people traveled to the Music City t
 
 Prompted by feedback from our community, I have spent the past five months trying to better establish the [Drupal community's principles and values](https://dri.es/defining-drupal-values-and-principles). I have shared an "alpha" version of Drupal's values and principles at <https://www.drupal.org/about/values-and-principles>. As a next step, I will be drafting a charter for a new working group that will be responsible for maintaining and improving our values and principles. In the meantime, I invite every community member to provide feedback in [the issue queue of the Drupal governance project](https://www.drupal.org/project/issues/governance).
 
-![Values and principles alpha](http://default/files/cache/drupal/values-and-principles-1-0-alpha-640w.jpg)
+![Slide of five values: prioritize impact, better together, strive for excellence, treat others with dignity and respect, and enjoy what you do.](http://default/files/cache/drupal/values-and-principles-1-0-alpha-640w.jpg)
 *An overview of Drupal's values with supporting principles.*
 
 I believe that taking time to highlight community members that exemplify each principle can make the proposed framework more accessible. That is why it was very meaningful for me to spotlight three Drupal community members that demonstrate these principles.

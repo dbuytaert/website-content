@@ -22,5 +22,5 @@ Furthermore, Mollom is currently protecting close to 50,000 active websites, tha
 
 It's sad that our websites get bombarded by idiots. But the fact that Mollom blocked half a billion of their attempts, actually makes me feel a lot better!
 
-![](http://default/files/images/mollom/statistics-august-2011.jpg)
+![Mollom stats: 49,366 sites protected, 99.96% efficiency, 500,373,282 spam messages caught, 619,308 yesterday, 84% of messages spam.](http://default/files/images/mollom/statistics-august-2011.jpg)
 *Screenshot of the scorecard section on Molom.com.*

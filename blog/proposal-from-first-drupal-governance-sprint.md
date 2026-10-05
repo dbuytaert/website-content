@@ -107,7 +107,7 @@ These groups act in support of the Drupal project and its community. The ultimat
 
 ## And what about Drupal.org?
 
-![Diagram outlining Drupal.](http://default/files/images/drupal/governance-sprint-2012-drupal-org.jpg)
+![Diagram with Dries Buytaert as Project Lead and the Drupal Association above Drupal.org's content, webmasters, website and infrastructure groups.](http://default/files/images/drupal/governance-sprint-2012-drupal-org.jpg)
 
 Next to Drupal core, this is probably where we spent the most time discussing. Drupal.org is special, in that it straddles both the community side of things, as well as the operations / support side of things. It functions through a combination of numerous volunteers as well as funding via the Drupal Association for support staff and development on major initiatives.
 

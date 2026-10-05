@@ -289,7 +289,7 @@ The money for rewards could come from various fundraising efforts, including mem
 
 One way to implement this is Drupal's credit system. Drupal's non-profit organization, the [Drupal Association](https://www.drupal.org/association) [monitors who contributes what](https://dri.es/a-method-for-giving-credit-to-organizations-that-contribute-code-to-open-source). Each contribution earns you credits and the credits are used to provide visibility to Makers. The more you contribute, the more visibility you get on [Drupal.org](https://www.drupal.org) (visited by 2 million people each month) or at Drupal conferences (called DrupalCons, visited by thousands of people each year).
 
-![A Drupal.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
+![A Drupal.org issue comment by jamadar with a Credit badge, a tooltip showing his attribution, an attached patch and a passing test.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
 *A screenshot of an issue comment on Drupal.org. You can see that jamadar worked on this patch as a volunteer, but also as part of his day job working for TATA Consultancy Services on behalf of their customer, Pfizer.*
 
 While there is a lot more the Drupal Association could and should do to balance its Makers and Takers and achieve a more optimal equilibrium for the Drupal project, it's an emerging example of how an Open Source non-profit organization can act as a regulator that monitors and maintains the balance of Makers and Takers.

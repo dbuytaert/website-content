@@ -20,7 +20,7 @@ As you might have read, we're in the process of electing next year's Board of Di
 
 The chart below depicts an overview of the Drupal Association's Board of Directors in 2007; the green positions were filled in 2007. The graph also shows what I think would be important positions for 2008; the green and the white graphs are positions that I'd like to see filled in 2008 (except for the President, the Treasurer and the Secretary who have terms of two years and who get to run for another year).
 
-![Drupal association board](http://default/files/images/drupal/drupal-association-board-2007.jpg)
+![Organization chart of the Drupal Association: board, directors and coordinators, marking positions filled in 2007 and those wanted in 2008.](http://default/files/images/drupal/drupal-association-board-2007.jpg)
 *See also: <a href="https://dri.es/files/images/drupal/drupal-association-board-2007-large.jpg">larger version of the organizational chart</a>.*
 
 Here is an overview of what would be the primary areas of responsibility for each of the Board of Directors positions that I envision:

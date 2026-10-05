@@ -18,7 +18,7 @@ id: 3941
 
 # Acquia's next phase
 
-![](http://default/files/cache/acquia/tom-and-dries-3-640w.jpg)
+![Tom Erickson, in an orange shirt, and Dries, in a light blue shirt, sit side by side on a green couch in an open office.](http://default/files/cache/acquia/tom-and-dries-3-640w.jpg)
 *© Nancy Carbonaro.*
 
 In 2007, [Jay Batson and I wanted to build a software company](https://dri.es/acquia-my-drupal-startup) based on Open Source and Drupal. I was 29 years old then, and eager to learn how to build a business that could change the world of software, strengthen the Drupal project and help drive the future of the web.

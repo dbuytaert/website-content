@@ -20,7 +20,7 @@ id: 1956
 
 # Acquia raises $8.5 million series C
 
-![](http://default/files/cache/acquia/series-c-1-640w.jpg)
+![About fifty Acquia employees pose in an office in front of a yellow wall, some holding champagne bottles, beside a table of red cups.](http://default/files/cache/acquia/series-c-1-640w.jpg)
 
 Exciting news today! We are announcing that [Acquia](https://www.acquia.com) closed $8.5 million in Series C funding. Combined with [our Series A funding](https://dri.es/acquia-raises-7-million-series-a) and [our Series B funding](https://dri.es/acquia-raises-8-million-series-b), this brings our total funding to $23.5 million.
 

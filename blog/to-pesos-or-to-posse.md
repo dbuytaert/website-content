@@ -21,7 +21,7 @@ id: 4146
 
 # To PESOS or to POSSE?
 
-![](http://default/files/cache/blog/pesos-vs-posse-640w.jpg)
+![PESOS: publish on Facebook, Twitter and Instagram, then copy to "My site". POSSE: publish on "My site" first, then send it out to all three.](http://default/files/cache/blog/pesos-vs-posse-640w.jpg)
 
 Yesterday I shared that [I uninstalled the Facebook application from my phone](https://dri.es/taking-control-of-my-data-and-social-media). My friend Simon Surtees was quick to text me: <q>I for one am pleased you have left Facebook. Less Cayman Island pictures!</q>. Not too fast Simon. I never said that I left Facebook or that I'd stop posting on Facebook. Plus, I'll have more Cayman Islands pictures to share soon. :)
 

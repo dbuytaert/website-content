@@ -23,5 +23,5 @@ This is a good example of why a hosted CAPTCHA service, like [Mollom](https://mo
 
 But, this raises an interesting question. For many people in some countries, $3 per hour is a good salary. What will happen as more of these people come online (sometimes with [free laptops](https://en.wikipedia.org/wiki/One_Laptop_per_Child))? Will more of these companies spring up overnight? I hope not!
 
-![](http://default/files/cache/blog/pixprofit-640w.jpg)
+![The PixProfit website, offering $1 per 1,000 retyped CAPTCHA pictures and claiming the work helps visually impaired people.](http://default/files/cache/blog/pixprofit-640w.jpg)
 ![Website promoting paid blog comments with pricing packages, testimonials, and a call-to-action for purchasing comment services.](http://default/files/cache/blog/buy-blog-comments-640w.jpg)

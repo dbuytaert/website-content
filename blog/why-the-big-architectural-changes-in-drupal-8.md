@@ -19,7 +19,7 @@ id: 3026
 
 # Why the big architectural changes in Drupal 8
 
-![Why the big architectural changes in Drupal 8?](http://default/files/cache/blog/why-the-big-architectural-changes-in-drupal-8-640w.jpg)
+![Four developer questions, such as "Will I have to learn Symfony?" and "Will Drupal 8 be performant?", around colorful geometric faces.](http://default/files/cache/blog/why-the-big-architectural-changes-in-drupal-8-640w.jpg)
 
 There has been a lot of chatter about Drupal 8. Will Drupal 8 be performant? Will Drupal 8 be easy to develop modules for? Will I have to learn Symfony? I want to address these concerns and explain why Drupal 8 introduces such big changes.
 

@@ -107,7 +107,7 @@ $ ipfs-upload-client --id xxx --secret yyy ./index.html
 <div class="large">
   ![The file upload form in Fleek](http://default/files/cache/blog/fleek-upload-form-640w.png)
 *Fleek conveniently allows you to upload files to IPFS from the browser.*
-  ![Pinata replication form](http://default/files/cache/blog/pinata-replication-640w.png)
+  ![Pinata's "Edit Pin Policy" dialog for a file's CID, with a slider setting replication on the FRA1 region to 1, on a scale of 0 to 2.](http://default/files/cache/blog/pinata-replication-640w.png)
 *Pinata allows you to upload files to IPFS from the browser. You can replicate content across multiple IPFS nodes run by Pinata.*
 </div>
 

@@ -17,6 +17,6 @@ id: 202
 
 I received an interesting little book on blogging from [Skynet Blogs](http://www.skynetblogs.be/), a hosted weblog service in Belgium. I especially liked the market research and the statistics about the Belgian blogosphere. *Well done [Skynet](http://www.skynet.be/) and thanks [Clo](http://www.bnox.be/)!*
 
-![](http://default/files/cache/blog/skynet-1-640w.jpg)
+![Cover of the book "De Skynet blogosfeer", printed with the note that DriesBuytaert.skynetblogs.be "is nog vrij", still available.](http://default/files/cache/blog/skynet-1-640w.jpg)
 *A personalized cover!*
-![](http://default/files/cache/blog/skynet-2-640w.jpg)
+![An inside page of the book, headed "Een woordje over virale marketing", a word about viral marketing.](http://default/files/cache/blog/skynet-2-640w.jpg)

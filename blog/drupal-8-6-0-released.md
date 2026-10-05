@@ -36,7 +36,7 @@ Content authors want Drupal to be easy to use. We made incredible progress on a 
 
 Each initiative related to content authoring is making disciplined and steady progress. These features not only solve for the most requested authoring improvements, but provide a solid foundation on which we can continue to innovate. This means we can provide better compatibility and upgradability for contributed modules.
 
-![Top requests for content authors](http://default/files/cache/drupal/top-requests-for-content-authors-2016-640w.jpg)
+![Bar chart led by richer image and media integration \(14%\), digital asset management \(13%\) and content approval workflows \(11%\).](http://default/files/cache/drupal/top-requests-for-content-authors-2016-640w.jpg)
 *The top 10 requested features for content creators according to the <a href="https://dri.es/state-of-drupal-2016-survey">2016 State of Drupal survey</a>.*
 
 ## What is new for evaluators?

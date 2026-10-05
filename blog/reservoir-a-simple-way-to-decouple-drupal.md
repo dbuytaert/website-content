@@ -21,7 +21,7 @@ id: 4006
 
 # Reservoir, a simple way to decouple Drupal
 
-![Reservoir API documentation](http://default/files/cache/drupal/reservoir-api-documentation-640w.jpg)
+![API reference for the File resource's "collection get" endpoint, listing filter, sort and page parameters beside a JSON response sample.](http://default/files/cache/drupal/reservoir-api-documentation-640w.jpg)
 
 Headless Drupal seems to be taking the world by storm. I'm currently in Sydney, and everyone I talked to so far, including the attendees at the Sydney Drupal User Group, is looking into [headless Drupal](https://dri.es/tag/headless-drupal). Digital agencies are experimenting with it on more projects, and there is even [a new Decoupled Dev Days conference](https://decoupleddevdays.com/) dedicated to the topic.
 
@@ -33,7 +33,7 @@ API-first distributions for Drupal like [Reservoir](https://github.com/acquia/re
 
 ## Headless Drupal for both editors and developers
 
-![Reservoir welcome screen](http://default/files/cache/drupal/reservoir-welcome-screen-640w.jpg)
+![Tour dialog reading "Welcome to Reservoir! Reservoir is a back end to power your front end." over the Content admin page.](http://default/files/cache/drupal/reservoir-welcome-screen-640w.jpg)
 *The welcome screen after installing Reservoir.*
 
 The reason headless Drupal is taking off is that organizations are now grappling with a multitude of channels, including mobile applications, single-page JavaScript applications, IoT applications, digital signage, and content driven by augmented and virtual reality. Increasingly, organizations need a single place to house content.
@@ -46,7 +46,7 @@ API-first distributions like Reservoir keep Drupal's workflows and editorial UI 
 
 ## Success is getting to developer productivity faster
 
-![Reservoir side by side previews of HMTL and JSON API](http://default/files/cache/drupal/reservoir-side-by-side-previews-640w.jpg)
+![A "Hello world!" article shown in two columns: its HTML rendering with an image on the left and its JSON API output on the right.](http://default/files/cache/drupal/reservoir-side-by-side-previews-640w.jpg)
 *Reservoir includes side-by-side previews of content in HTML and JSON API output.*
 
 The goal of a content repository should be to make it simple for developers to consume your content, including digital assets and translations, through a set of web service APIs. Success means that a developer can programmatically access your content within minutes.

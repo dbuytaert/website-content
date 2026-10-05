@@ -124,7 +124,7 @@ For a moment we feared we had nowhere to stay. Then we noticed another sign off 
 
 We decided to wait and settled onto the wooden deck outside. Our water supplies were gone, but Axl found an outdoor kitchen sink with a faucet, fed by a nearby stream, and filled a couple of our empty water bottles. I drank one almost in a single go.
 
-![Outdoor sink at Refuge de Praz D'zeures where a backpacker refills water bottles during a mountain hike.](http://default/files/cache/la-tournette-2025/refuge-outdoor-sink-640w.jpg)
+![A backpacker stands on a mountain trail beside an outdoor metal sink, surrounded by large leafy plants on a grassy slope.](http://default/files/cache/la-tournette-2025/refuge-outdoor-sink-640w.jpg)
 *The outdoor sink at Refuge de Praz D'zeures where Axl refilled our empty water bottles.*
 
 To pass the time we opened the small travel chess set I had received for Christmas. The game gave us something to focus on as the clouds thickened around the hut. A damp chill settled in, and we pulled on extra layers while we leaned over the tiny board.

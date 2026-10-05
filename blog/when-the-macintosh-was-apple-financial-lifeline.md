@@ -18,7 +18,7 @@ id: 4346
 
 # When the Macintosh was Apple's financial lifeline
 
-![How the iMac was Apple's financial lifeline](http://default/files/cache/blog/imac-financial-lifeline-640w.jpg)
+![Log-scale chart of computer, phone and tablet shipments from 1977 to 2017, with an arrow on the Mac line where the iMac shipped in 1998.](http://default/files/cache/blog/imac-financial-lifeline-640w.jpg)
 *© Asymco.*
 
 I love this graph. It shows that for some time, Apple's primary source of revenue was the sale of the [Macintosh computer](https://en.wikipedia.org/wiki/Macintosh). The Macintosh provided Apple with a bridge between the desktop era and the mobile era, represented by the two clusters on the graph. That bridge was a financial lifeline. Without it, Apple might not have survived.

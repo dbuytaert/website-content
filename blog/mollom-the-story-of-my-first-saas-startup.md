@@ -20,7 +20,7 @@ id: 4316
 
 # Mollom: The story of my first SaaS startup
 
-![Team december](http://default/files/cache/mollom/team-december-2011-640w.jpg)
+![Six people work on laptops around a long table covered with drinks and snacks, in a room with tall windows and plants.](http://default/files/cache/mollom/team-december-2011-640w.jpg)
 
 Last month, Acquia discontinued service and support for Mollom, the spam service I started more than ten years ago. As a goodbye, I want to share the untold story of how I founded Mollom.
 
@@ -50,7 +50,7 @@ By the end of 2012, [Ben and I agreed to sell Mollom to Acquia](https://dri.es/m
 
 Selling Mollom was a life-changing moment for me. It proved that I was able to bootstrap and grow a company, steer it to profitability and exit successfully.
 
-![Mollom closing](http://default/files/cache/mollom/mollom-closing-3-640w.jpg)
+![Dries smiles at a table stacked with paper and coffee flasks while Mary Jefts signs a document in the foreground.](http://default/files/cache/mollom/mollom-closing-3-640w.jpg)
 *Selling Mollom to Acquia involved signing a lot of documents. A photo of me signing the acquisition paperwork with Mary Jefts, Acquia's CFO at the time. It took three hours to sign all the paperwork.*
 
 ## Acquia retires Mollom
@@ -59,7 +59,7 @@ By 2017, five years after the acquisition, it became clear that Mollom was no lo
 
 While it was a rational decision, it's bittersweet. I still believe that Mollom could have continued to have a big impact on the [Open Web](https://dri.es/tag/open-web). Not only did that make the web better, it saved people millions of hours moderating their content. I also considered keeping Mollom running as part of Acquia's "Give back more" principle. However, [Acquia gives back a lot](https://dri.es/who-sponsors-drupal-development-2017), and I believe that giving back to Drupal should be our priority.
 
-![Mollom end of life announcement](http://default/files/cache/mollom/mollom-end-of-life-announcement-640w.jpg)
+![Mollom notice saying the service ended on 2 April 2018 after blocking more than 13.5 billion spam comments since 2008.](http://default/files/cache/mollom/mollom-end-of-life-announcement-640w.jpg)
 *Mollom's end-of-life announcement that replaced the old https://mollom.com.*
 
 Overall, Mollom was a success. While I never got my 4-hour work week, I enjoyed successfully creating a company from scratch, and seeing it evolve through every stage of its life. I learned how to build and run a SaaS service, I made some money in the process, and best of all, Mollom blocked over 15 billion spam comments across tens of thousands of websites. This translates to saving people around the world millions of hours, which would otherwise be devoted to content moderation. Mollom also helped to protect the websites of some of the world's most famous brands; from Harvard, to The Economist, Tesla, Twitter, Sony Music and more. Finally, we were able to offer Mollom for free to the vast majority of our users, which is something we took a lot of pride in.

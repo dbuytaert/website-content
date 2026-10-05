@@ -22,7 +22,7 @@ Back in the early days of Drupal, [Drupal.com](https://drupal.com) looked like t
 
 On August 14 2009, I relaunched [Drupal.com](https://drupal.com) to replace the oh-so-embarrassing placeholder page. The 2009 re-launch turned [Drupal.com](https://drupal.com) into a better spotlight for Drupal. It wasn't hard to beat the white page with a Druplicon logo.
 
-![Screenshot of Drupal.](http://default/files/cache/drupal/drupal-com-2009-640w.jpg)
+![Drupal.com homepage with a photo collage around a blue fixed gear bike, the tagline "Drupal gets everywhere by bike" and an About Drupal.com box.](http://default/files/cache/drupal/drupal-com-2009-640w.jpg)
 *Drupal.com as launched in 2009.*
 
 What was a good spotlight five years ago though is no longer a good spotlight today. Five years later, [Drupal.com](https://drupal.com) didn't do Drupal justice. It didn't really explain what Drupal is, what you can use Drupal for, and more. Along with sub-optimal content, the site wasn't optimized for mobile use either.

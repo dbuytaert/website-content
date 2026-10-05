@@ -27,7 +27,7 @@ Today, Drupal is going through another transition as its capabilities and applic
 Several years ago, [I began to emphasize](https://dri.es/advancing-drupal-web-services) the importance of [an API-first approach for Drupal](https://dri.es/a-roadmap-for-making-drupal-more-api-first) as part of the then-young phenomenon of decoupled Drupal. Now, Drupal developers can count on [JSON API](https://www.drupal.org/project/jsonapi), [GraphQL](https://www.drupal.org/project/graphql) and [CouchDB](https://www.drupal.org/project/relaxed), in addition to a range of surrounding tools for developing the decoupled applications described above. These decoupled Drupal advancements represent a pivotal point in Drupal's history.
 
 <div class="large">
-  ![Decoupled Drupal sites](http://default/files/cache/drupal/decoupled-drupal-sites-2018-640w.jpg)
+  ![A grid of 16 website tiles labeled with organization names, including Chupa Chups UK, Princess Cruises, The Weather Channel and Warner Music Group.](http://default/files/cache/drupal/decoupled-drupal-sites-2018-640w.jpg)
 *A few examples of organizations that use decoupled Drupal.*
 </div>
 

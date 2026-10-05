@@ -18,7 +18,7 @@ id: 4081
 
 # An update on the Workflow Initiative for Drupal 8.4/8.5
 
-![Drupal workspaces prototype](http://default/files/cache/drupal/drupal-8-workspaces-prototype-november-2017-640w.gif)
+![Animated demo of a Drupal site called "Awesome Product" with a workspace switcher in the toolbar showing "Product Microsite updates".](http://default/files/cache/drupal/drupal-8-workspaces-prototype-november-2017-640w.gif)
 
 Over the past weeks I have shared [an update on the Media Initiative](https://dri.es/an-update-on-the-media-initiative-for-drupal-8-4-8-5) and [an update on the Layout Initiative](https://dri.es/an-update-on-the-layout-initiative-for-drupal-8-4-8-5). Today I wanted to give an update on the Workflow Initiative.
 

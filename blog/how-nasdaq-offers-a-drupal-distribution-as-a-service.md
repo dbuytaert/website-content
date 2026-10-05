@@ -23,7 +23,7 @@ id: 3876
 
 # How Nasdaq offers a Drupal distribution as-a-service
 
-![Drupal on nasdaq billboard times square](http://default/files/cache/drupal/drupal-on-nasdaq-billboard-times-square-2016-640w.jpg)
+![A man speaks at a podium before a screen showing "Nasdaq leaps to Drupal 8" and the Drupal logo on a round Times Square billboard.](http://default/files/cache/drupal/drupal-on-nasdaq-billboard-times-square-2016-640w.jpg)
 
 Last October, I shared the news that [Nasdaq Corporate Solutions has selected Acquia and Drupal 8](https://dri.es/nasdaq-using-drupal-8-for-new-investor-relations-websites) for its next generation Investor Relations and Newsroom Website Platforms. 3,000 of the largest companies in the world, such as Apple, Amazon, Costco, ExxonMobil and Tesla are currently eligible to use Drupal 8 for their [investor relations websites](https://www.westuc.com/en-us/digital-media/webcasting-webhosting/webhosting).
 

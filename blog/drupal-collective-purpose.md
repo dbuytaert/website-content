@@ -17,7 +17,7 @@ id: 3786
 
 # Drupal's collective purpose
 
-![](http://default/files/cache/blog/purpose-reflecting-on-journey-640w.jpg)
+![A person stands beside a bicycle under a fiery painted sky, with the text "Reflecting on my journey".](http://default/files/cache/blog/purpose-reflecting-on-journey-640w.jpg)
 
 When I was [on vacation in Italy](https://dri.es/traveling-through-tuscany) this summer, I had no internet, which gave me a lot of time to think. Some of that time was spent reflecting on why I do what I do. I have been working on Drupal for over 15 years and on Acquia for almost 10 years. The question of what gives me meaning and purpose has changed drastically over that time.
 
@@ -26,7 +26,7 @@ When I was [on vacation in Italy](https://dri.es/traveling-through-tuscany) this
 I started Drupal because I wanted to build a website for myself and a few friends. In the early days of Drupal, I was obsessed with the code and architecture of Drupal.
 
 <div class="large">
-  ![](http://default/files/cache/blog/purpose-2016-blog-post-640w.jpg)
+  ![Dries's 2006 blog post on a laptop, quoted: "For long I focused, completely & utterly, on the aesthetics of Drupal's code."](http://default/files/cache/blog/purpose-2016-blog-post-640w.jpg)
 </div>
 
 As [I wrote in 2006](https://dri.es/occams-razor-principle-of-content-management-systems): *"I focused completely and utterly on creating fewer and fewer lines of more elegant code."*. I wanted Drupal to be pure. I wanted the code to be perfect. For Drupal to be architected in the right way, I had to rewrite it multiple times and strip away anything that wasn't necessary – I couldn't imagine [preserving backwards compatibility](https://dri.es/backward-compatibility) as it meant we had to drag along a lot of historical baggage. My mission in the early days was to keep the platform fast, clean, and on the leading edge of technology.
@@ -37,7 +37,7 @@ While I miss programming, [I have come to accept that I can't do everything](htt
 
 ## Meaningful moments: part I
 
-![A person writing on paper with a pen, with the text "Meaningful Moments Pt.](http://default/files/cache/blog/purpose-moments-part-1-640w.jpg)
+![A close-up of a hand writing on paper with a pen, overlaid with the text "Meaningful Moments Pt. I".](http://default/files/cache/blog/purpose-moments-part-1-640w.jpg)
 
 While in Italy, I decided to make a list of the moments in Drupal's history that stand out as particularly meaningful or purposeful. I started to discover some patterns in these moments, and ended up sorting them into two groups. Here is the first set:
 
@@ -46,7 +46,7 @@ While in Italy, I decided to make a list of the moments in Drupal's history that
 - Seeing how Drupal has made a meaningful impact on the Open Web movement. Over the last 10 years, millions of people have created Drupal sites that express their creative freedom and individuality. In recent years, I've become [concerned about the Open Web's future](https://dri.es/winning-back-the-open-web) and have spoken out on how the Drupal community is uniquely positioned to [help preserve the open web](https://dri.es/can-we-save-the-open-web). I believe it's an important mission that we should all embrace, so the original integrity and freedom of the Open Web remain intact for our children and grandchildren.
 
 <div class="large">
-  ![](http://default/files/cache/blog/purpose-radiating-circles-640w.jpg)
+  ![Watercolor circles radiating outward, labeled from the center: individual Drupalists, Drupal community, Drupal end-users, the open web.](http://default/files/cache/blog/purpose-radiating-circles-640w.jpg)
 </div>
 
 All of these moments suggest that my purpose is self-transcendent – I get meaning when my work matters more to others than it does to me. Organized into radiating circles, the impact on each of these groups gives me purpose: individual Drupalists, the Drupal community, Drupal end users, and the open web. This is why I've become so passionate about things like usability, internationalization, and accessibility over the years.
@@ -55,7 +55,7 @@ I know it's not just me; my team interviewed many other people that have the sam
 
 ## Meaningful moments: part II
 
-![A person writes on paper with a pen, with the text "Meaningful Moments Pt.](http://default/files/cache/blog/purpose-moments-part-2-640w.jpg)
+![A close-up of a hand writing on paper with a pen, overlaid with the text "Meaningful Moments Pt. II".](http://default/files/cache/blog/purpose-moments-part-2-640w.jpg)
 
 The second group of moments I wrote down weren't necessarily self-transcendent, but still gave me purpose. Here are a few examples:
 
@@ -63,11 +63,11 @@ The second group of moments I wrote down weren't necessarily self-transcendent, 
 - Having to ask individuals to leave the project or change their behavior because their values weren't aligned with the project. While providing critique or removing someone from the project has never been easy, I'm proud of the times we stand up for our values.
 - Getting Drupal 8 over the finish line after 4.5 years of hard work. At times, many people doubted our progress, questioned whether we were making the right decisions, and even left our project. While the development process wasn't always fun in the moment, when we did release parties around the world, [we all felt a real sense of accomplishment](https://youtu.be/vKJyMFzZ_-w). In the long run, we built something that will keep Drupal relevant for many years to come.
 
-![](http://default/files/cache/blog/purpose-not-just-positive-640w.jpg)
+![Painted figures leaping through clouds and debris, with the text "Meaningful work is not always positive. And that's ok."](http://default/files/cache/blog/purpose-not-just-positive-640w.jpg)
 
 Many of us find meaning when the hard and uncomfortable work results in life-changing outcomes for others. Not only does this type of work provide purpose, some people believe it is the recipe for success. For example, [Angela Lee Duckworth's TED talk on grit](https://youtu.be/tx2ZqqAsNHQ) applies directly to the work that is done by [Drupal's maintainers](https://dri.es/applaud-the-drupal-maintainers).
 
-![](http://default/files/cache/blog/purpose-applaud-the-maintainers-640w.jpg)
+![A lone figure above a field of cracked lava, with the text "Recognizing the maintainers, who do Drupal's most tedious and tiresome work."](http://default/files/cache/blog/purpose-applaud-the-maintainers-640w.jpg)
 
 ## How do we scale purpose?
 
@@ -81,4 +81,4 @@ I'd love to take programs like these global – they instill our values, culture
 
 Based on my own introspection, and hearing from amazing Drupalists from around the world, I truly believe that Drupal is fueled by a collective sense of purpose that sets us apart from other Open Source software communities and organizations. We need to keep this purpose in mind when we make decisions, especially when the going gets tough. What is your sense of purpose? And how can we scale it around the world?
 
-![A person stands releasing colorful balloons into a swirling sky, with the text "Collective purpose is what sets Drupal apart.](http://default/files/cache/blog/purpose-sets-drupal-apart-640w.jpg)
+![The text "Collective purpose is what sets Drupal apart" over a painting of a small figure releasing colorful balloons into a swirling sky.](http://default/files/cache/blog/purpose-sets-drupal-apart-640w.jpg)

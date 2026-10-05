@@ -38,7 +38,7 @@ Capturing our values and principles as accurately as I could was challenging wor
 I shared both the values and the principles on [Drupal.org as version 1.0-alpha](https://www.drupal.org/principles) ([archived PDF](https://dri.es/files/drupal-values-principles-1-0-alpha.pdf)). I labeled it alpha, because the principles and values aren't necessarily complete. While I have strong conviction in each of the Drupal principles and corresponding values, some of our values and principles are hard to capture in words, and by no means will I have described them perfectly. However, I arrived at a point where I wanted to share what I have drafted, open it up to the community for feedback, and move the draft forward more collaboratively.
 
 <div class="large">
-  ![Values and principles alpha](http://default/files/cache/drupal/values-and-principles-1-0-alpha-640w.jpg)
+  ![Slide of five values: prioritize impact, better together, strive for excellence, treat others with dignity and respect, and enjoy what you do.](http://default/files/cache/drupal/values-and-principles-1-0-alpha-640w.jpg)
 *An overview of Drupal's values with supporting principles.*
 </div>
 

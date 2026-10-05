@@ -30,7 +30,7 @@ But as a result, very few farmers sell straight to consumers, and a relatively s
 
 In the web's case, digital distributors are the grocery stores and farmers are content producers. Just like supermarket consumers, web users are flocking to the convenience and relevance of digital distributors.
 
-![](http://default/files/cache/blog/farmers-supermarkets-640w.jpg)
+![A bow tie shape: a narrow left side, a pinch point labeled "Chokepoint", and a much wider right side.](http://default/files/cache/blog/farmers-supermarkets-640w.jpg)
 *This graph illustrates the market power of supermarkets / digital distributors. A handful of supermarkets / digital distributors stand between thousands of farmers / publishers and millions of consumers.*
 
 ## Control of experience

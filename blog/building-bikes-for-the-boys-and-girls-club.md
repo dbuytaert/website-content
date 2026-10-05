@@ -22,7 +22,7 @@ id: 4136
 
 Throughout the years, the team at [Acquia](https://www.acquia.com) has heard me talk about [doing well and doing good](https://dri.es/do-well-do-good). We've embedded this philosophy into Acquia's culture since we started the company. As a result, one of Acquia's core values is to "give back more".
 
-![A blue wall features transparent plaques with motivational phrases like "DNA", "Inspire a little crazy", and "Give back more.](http://default/files/cache/acquia/acquia-dna-640w.jpg)
+![Acrylic plaques on a blue wall read DNA, Jump in and own it, Do the right thing, Committed to awesome, Inspire a little crazy and Give back more.](http://default/files/cache/acquia/acquia-dna-640w.jpg)
 
 The "give back more" principle recognizes that Acquia was born from community. We cherish our Open Source roots and contribute both time and talent to strengthen our communities. This means not only contributing to the Open Source communities that we are part of, but our local communities as well.
 

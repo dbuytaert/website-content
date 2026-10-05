@@ -34,7 +34,7 @@ Apache's [ab2](http://httpd.apache.org/docs/2.0/programs/ab.html) was used to co
 
 ## Requests per second
 
-![Bar chart comparing Drupal 4.](http://default/files/images/drupal/drupal-vs-joomla-rps.jpg)
+![Bar chart of requests per second: Drupal 4.7.3 serves 13.14 uncached versus Joomla 1.0.10's 18.96, and about 67 cached versus 21.](http://default/files/images/drupal/drupal-vs-joomla-rps.jpg)
 
 When caching is disabled Joomla can serve 19 pages per second, while Drupal can serve 13 pages per second. Hence, Joomla is 44% faster than Drupal.
 
@@ -48,7 +48,7 @@ Lastly, when serving gzip-compressed pages Drupal becomes slightly faster compar
 
 ## Document length
 
-![Bar chart comparing document length in bytes for Drupal 4.](http://default/files/images/drupal/drupal-vs-joomla-length.jpg)
+![Bar chart of page size in bytes: Drupal 4.7.3 at 6,298 and Joomla 1.0.10 at 8,311, or 2,489 versus 2,985 with cache and gzip.](http://default/files/images/drupal/drupal-vs-joomla-length.jpg)
 
 The first figure shows that the cost of compressing or uncompressing pages is negligible. The second picture shows that it can, however, have significant impact on the document length, and hence, on bandwidth usage.
 

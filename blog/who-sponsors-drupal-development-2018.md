@@ -47,7 +47,7 @@ In total, we captured 49,793 issue credits across all 24,447 issues. This marks 
 
 In the spring of 2015, after [proposing ideas for giving credit](https://dri.es/a-method-for-giving-credit-to-organizations-that-contribute-code-to-open-source) and [discussing various approaches at length](https://www.drupal.org/node/2288727), Drupal.org added the ability for people to [attribute their work](https://www.drupal.org/drupalorg/blog/a-guide-to-issue-credits-and-the-drupal.org-marketplace) to an organization or customer in the Drupal.org issue queues. Maintainers of Drupal modules, themes, and distributions can award issue credits to people who help resolve issues with code, translations, documentation, design and more.
 
-![A Drupal.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
+![A Drupal.org issue comment by jamadar with a Credit badge, a tooltip showing his attribution, an attached patch and a passing test.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
 *A screenshot of an issue comment on Drupal.org. You can see that jamadar worked on this patch as a volunteer, but also as part of his day job working for TATA Consultancy Services on behalf of their customer, Pfizer.*
 
 Credits are a powerful motivator for both individuals and organizations. Accumulating credits provides individuals with a way to showcase their expertise. Organizations can utilize credits to help recruit developers, to increase their visibility within the [Drupal.org marketplace](https://www.drupal.org/drupal-services), or to showcase their Drupal expertise.
@@ -292,13 +292,13 @@ To address this gender gap, in addition to advancing representation across vario
 
 It's important to reiterate that supporting diversity and inclusion within Drupal is essential to the health and success of the project. The people who work on Drupal should reflect the diversity of people who use and work with the software. While there is still a lot of work to do, I'm excited about the impact these various initiatives will have on future reports.
 
-![Contributions by gender](http://default/files/cache/drupal/contributions-by-gender-2018-640w.jpg)
+![Bar chart of contributions by gender over three years: male falls from 82% to 80%, female rises from 5% to 7%, and 13% stays not specified.](http://default/files/cache/drupal/contributions-by-gender-2018-640w.jpg)
 
 When measuring geographic diversity, we saw individual contributors from 6 different continents and 123 different countries:
 
 ![Pie chart showing Drupal contributions by continent.](http://default/files/cache/drupal/contributions-by-continent-2018-640w.jpg)
 
-![Contributions by country](http://default/files/cache/drupal/contributions-by-country-2018-640w.jpg)
+![Bar chart of the top 20 countries, led by the United States at 23% and India at 13%, then the United Kingdom at 7% and Canada at 6%.](http://default/files/cache/drupal/contributions-by-country-2018-640w.jpg)
 *The top 20 countries from which contributions originate. The data is compiled by aggregating the countries of all individual contributors behind each commit. Note that the geographical location of contributors doesn't always correspond with the origin of their sponsorship. Wim Leers, for example, works from Belgium, but his funding comes from Acquia, which has the majority of its customers in North America.*
 
 123 different countries is seven more compared to the 2017 report. The new countries include Rwanda, Namibia, Senegal, Sierra Leone, and Swaziland, Zambia. Seeing contributions from more African countries is certainly a highlight.

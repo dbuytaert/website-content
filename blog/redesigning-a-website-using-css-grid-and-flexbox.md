@@ -98,7 +98,7 @@ Finally, the `justify-content` property is used to horizontally align or distrib
 
 Thanks to Flexbox, making the navigation responsive is easy. We can change the flow of the items in the container using only a single line of CSS. To make the items flow differently, all we need to do is change or overwrite the `flex-direction` property.
 
-![](http://default/files/cache/blog/css-flexbox-direction-row-vs-column-640w.jpg)
+![Two boxes: "flex-direction: row" places three items side by side, "flex-direction: column" stacks them.](http://default/files/cache/blog/css-flexbox-direction-row-vs-column-640w.jpg)
 
 To stack the navigation below the site name on a smaller device, simply change the direction of the flex container using a media query:
 

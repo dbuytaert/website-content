@@ -31,7 +31,7 @@ However that approach is not feasible. We need to periodically remove deprecated
 
 Our biggest dependency in Drupal 8 is Symfony 3, and according to [Symfony's roadmap](https://symfony.com/roadmap), Symfony 3 has an end-of-life date in November 2021. This means that after November 2021, security bugs in Symfony 3 will not get fixed. To keep your Drupal sites secure, Drupal must adopt Symfony 4 or Symfony 5 before Symfony 3 goes end-of-life. A major Symfony upgrade will require us to release Drupal 9 (we don't want to fork Symfony 3 and have to backport Symfony 4 or Symfony 5 bug fixes). This means we have to end-of-life Drupal 8 no later than November 2021.
 
-![Drupal 8 will be end-of-life by November 2021](http://default/files/cache/drupal/drupal-8-will-be-end-of-life-by-november-2021-640w.jpg)
+![Slide reading "Drupal 8 will be end-of-life by November 2021" above a 2018 to 2021 timeline where Symfony 3 and Drupal 8 reach end-of-life.](http://default/files/cache/drupal/drupal-8-will-be-end-of-life-by-november-2021-640w.jpg)
 
 ## Drupal 9 will be released in 2020, and it will be an easy upgrade
 

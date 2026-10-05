@@ -18,7 +18,7 @@ id: 11
 
 # Robert's Drupal book in the mail
 
-![Book cover of "Building Online Communities with Drupal, phpBB, and WordPress" by Robert T.](http://default/files/images/drupal/book-cover.jpg)
+![The Apress cover of "Building Online Communities with Drupal, phpBB, and WordPress" by Robert T. Douglass, Mike Little and Jared W. Smith.](http://default/files/images/drupal/book-cover.jpg)
 
 Last year in February, I introduced Robert Douglass to Matt Wade, an editor at [Apress](http://www.apress.com). Yesterday, 11 months later, I received a copy of the book, [Building online communities with Drupal, phpBB and Wordpress](https://www.amazon.com/gp/product/1590595629/), as a result of that introduction.
 

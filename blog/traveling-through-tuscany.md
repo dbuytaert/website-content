@@ -31,7 +31,7 @@ Four weeks ago we went on a vacation in Tuscany. I finally had some time to proc
 
 ## Day 1
 
-![Ceramic house number sign reading "14" with an illustration of a man smoking a pipe, labeled "Al Magrini.](http://default/files/cache/tuscany-2016/al-magrini-farmhouse-1-640w.jpg)
+![Painted ceramic tile reading "Al Magrini 14, Via per Fubbiano, S. Gennaro \(LU\)" beside a man in a hat with a pipe and cane.](http://default/files/cache/tuscany-2016/al-magrini-farmhouse-1-640w.jpg)
 
 We booked a last-minute house in a vineyard called Fattoria di Fubbiano. The vineyard has been producing wine and olive oil since the 14th century. On the eastern edge of the estate, is [Al Magrini](https://dri.es/album/tuscany-2016/al-magrini-farmhouse-1), a Tuscan farmhouse surrounded by vines and olive trees.
 

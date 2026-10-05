@@ -19,7 +19,7 @@ id: 2621
 
 The number of active sites protected by Mollom grew from 28,000 at the end of 2010 to almost 45,000 at the end of 2011. Revenues grew by more than 50% with virtually no sales or marketing efforts.
 
-![Team december](http://default/files/cache/mollom/team-december-2011-640w.jpg)
+![Six people work on laptops around a long table covered with drinks and snacks, in a room with tall windows and plants.](http://default/files/cache/mollom/team-december-2011-640w.jpg)
 *A photo of the Mollom team at an offsite in 2011: it includes Daniel Kudwien, Benjamin Schrauwen, Cedric De Vleeschauwer, Thomas Meire, Johan Vos and Vicky Van Roeyen. Missing in the picture is Dries.*
 
 All our revenue is invested back into the company. In 2011, we used those funds to grow our team and to fund development on an entirely new product, which may end up rebooting or repositioning Mollom altogether.

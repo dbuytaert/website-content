@@ -20,7 +20,7 @@ id: 4926
 
 # Who sponsors Drupal development? (2018-2019 edition)
 
-![Top conytinuying organizations](http://default/files/cache/drupal/contributions-top-30-organizations-2019-640w.png)
+![Bar chart of the top 30 organizations, led by Acquia with 1,466 credits, Hook 42 with 991 and Centarro with 964, down to Skilld with 258.](http://default/files/cache/drupal/contributions-top-30-organizations-2019-640w.png)
 
 The past years, I've examined Drupal.org's contribution data to understand who develops Drupal, how diverse the Drupal community is, how much of Drupal's maintenance and innovation is sponsored, and where that sponsorship comes from.
 
@@ -45,7 +45,7 @@ For this report, we looked at all Drupal.org issues marked "closed" or "fixed" i
 
 In the spring of 2015, after [proposing initial ideas for giving credit](https://dri.es/a-method-for-giving-credit-to-organizations-that-contribute-code-to-open-source), Drupal.org added the ability for people to [attribute their work in the Drupal.org issues](https://www.drupal.org/drupalorg/blog/a-guide-to-issue-credits-and-the-drupal.org-marketplace) to an organization or customer, or mark it the result of volunteer efforts.
 
-![A Drupal.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
+![A Drupal.org issue comment by jamadar with a Credit badge, a tooltip showing his attribution, an attached patch and a passing test.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
 *A screenshot of an issue comment on Drupal.org. You can see that jamadar worked on this patch as a volunteer, but also as part of his day job working for TATA Consultancy Services on behalf of their customer, Pfizer.*
 
 Drupal.org's credit system is truly unique and groundbreaking in Open Source and provides unprecedented insights into the inner workings of a large Open Source project. There are a few limitations with this approach, which we'll address at the end of this report.

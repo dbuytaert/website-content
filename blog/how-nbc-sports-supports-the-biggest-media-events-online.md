@@ -22,7 +22,7 @@ id: 4646
 
 # How NBC Sports supports the biggest media events online
 
-![](http://default/files/cache/acquia/acquia-engage-2018-interview-with-eric-black-640w.jpg)
+![Two men talk in white armchairs on a stage beneath a large "Acquia Engage Innovation Showcase" screen, the audience in silhouette.](http://default/files/cache/acquia/acquia-engage-2018-interview-with-eric-black-640w.jpg)
 
 Many of Acquia's customers have hundreds or even thousands of sites, which vary in terms of scale, functionality, longevity and complexity.
 

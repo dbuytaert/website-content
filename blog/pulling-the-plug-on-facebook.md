@@ -21,7 +21,7 @@ id: 4741
 
 # Pulling the plug on Facebook
 
-![Facebook social decay](http://default/files/cache/blog/facebook-social-decay-640w.jpg)
+![A weathered, rusting Facebook logo sign on top of a crumbling concrete building against a blue sky.](http://default/files/cache/blog/facebook-social-decay-640w.jpg)
 *© Andrei Lacatusu.*
 
 Exactly one year ago, I decided to [use social media less and blog more](https://dri.es/taking-control-of-my-data-and-social-media). I uninstalled the Facebook application from my phone, but kept my Facebook account for the time being.
@@ -44,7 +44,7 @@ It's clear that Facebook can't be trusted. And for that reason, I'm out.
 
 I deleted my Facebook account twenty minutes ago.
 
-![An image of Facebook's account deletion confirmation screen](http://default/files/cache/blog/delete-facebook-640w.png)
+![Facebook's "Confirm Permanent Account Deletion" dialog, warning there are 30 days to cancel, with Cancel and Delete Account buttons.](http://default/files/cache/blog/delete-facebook-640w.png)
 
 ## Social media's dark side
 

@@ -73,7 +73,7 @@ To address these needs and solve the Maker-Taker problem in Drupal, I proposed a
 
 We've since implemented this system in partnership with the [Drupal Association](https://www.drupal.org/association), our non-profit organization. The Drupal Association transparently tracks contributions from both individuals and organizations. Each contribution earns credits, and the more you contribute, the more visibility you gain on [Drupal.org](https://www.drupal.org/) (visited by millions monthly) and at events like [DrupalCon](https://dri.es/tag/drupalcon) (attended by thousands). You can earn credits by contributing code, submitting case studies, organizing events, writing documentation, financially supporting the Drupal Association, and more.
 
-![A Drupal.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
+![A Drupal.org issue comment by jamadar with a Credit badge, a tooltip showing his attribution, an attached patch and a passing test.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
 *A screenshot of an issue comment on Drupal.org. You can see that jamadar worked on this patch as a volunteer, but also as part of his day job working for TATA Consultancy Services on behalf of their customer, Pfizer.*
 
 Drupal's credit system is unique and groundbreaking within the Open Source community. The Drupal contribution credit system serves two key purposes: it helps us identify who our Makers and Takers are, and it allows us to guide end users towards doing business with our Makers.

@@ -51,7 +51,7 @@ Unlike the Open Web, Walled Gardens collect data from users, often in exchange f
 
 On top of our personal information, these companies own large data sets ranging from traffic information to stock market information to social network data. They also possess the cloud infrastructure and computing power that enables them to plow through massive amounts of data and bring context to the web. It's not surprising that the combination of content plus data plus computing power enables these companies to build better user experiences. They leverage their data and technology to turn "dumb experiences" into [smart experiences](https://dri.es/the-big-reverse-of-the-web). Most users prefer smart contextual experiences because they simplify or automate mundane tasks.
 
-![](http://default/files/images/blog/walled-gardens-technology.jpg)
+![Table rating Twitter, LinkedIn, Amazon, Facebook, Apple and Google on control of desktop, mobile and content; only Apple fills all three.](http://default/files/images/blog/walled-gardens-technology.jpg)
 
 ## Can the Open Web win?
 
@@ -66,7 +66,7 @@ The obvious way to build contextual experiences is by combining different system
 
 To deliver the best user experience, you want *"loosely-coupled architectures with a highly integrated user experience"*. Loosely-coupled architectures so you can build better user experiences by combining your systems of choice (e.g. integrate your favorite CMS with your favorite CRM with your favorite commerce platform). Highly-integrated user experiences so can build seamless experiences, not just for end-users but also for content creators and site builders. Today's Open Web is fragmented. Integrating two platforms often remains difficult and the user experience is "mostly disjointed" instead of "highly integrated". As our respective industries mature, we must focus our attention to integrating the user experience as well as the data that drives that user experience. The following "marketecture" illustrates that shift:
 
-![](http://default/files/cache/blog/open-web-better-integration-640w.jpg)
+![Three boxes, CMS, Commerce and CRM, each holding user data, beneath a shared integration layer and a presentation layer on top.](http://default/files/cache/blog/open-web-better-integration-640w.jpg)
 *Instead of each platform having its own user experience, we have a shared integration and presentation layer. The central integration layer serves to unify data coming from distinctly different systems. Compatible with the "Big Reverse of the Web" theory, the presentation layers is not limited to a traditional web browser but could include push technology like a notification.*
 
 For the time being, we have to integrate with the big Walled Gardens. They need access to great content for their users. In return, they will send users to our sites. Content management platforms like Drupal have a big role to play, by pushing content to these platforms. This strategy may sound counterintuitive to many, since it fuels the growth of Walled Gardens. But we can't afford to ignore ecosystems where the majority of users are spending their time.

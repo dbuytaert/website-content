@@ -20,7 +20,7 @@ id: 4546
 
 # The 2018 redesign of dri.es
 
-![2018 dri.es redesign](http://default/files/cache/blog/dries-redesign-2018-640w.png)
+![Two versions of the same Acadia National Park post side by side: the old design with a blue header and avatar, the new one cleaner and lighter.](http://default/files/cache/blog/dries-redesign-2018-640w.png)
 
 In [1999](https://www.youtube.com/watch?v=rblt2EtFfC4), I decided to start dri.es (formally buytaert.net) as a place to blog, write, and deepen my thinking. While I ran other websites before dri.es, my blog is one of my longest running projects.
 

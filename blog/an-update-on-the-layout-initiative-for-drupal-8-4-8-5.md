@@ -17,7 +17,7 @@ id: 4076
 
 # An update on the Layout Initiative for Drupal 8.4/8.5
 
-![](http://default/files/cache/blog/drupal-8-5-field-layouts-prototype-640w.jpg)
+![Prototype of Drupal's Manage display screen: an article laid out in sections, with one, two and three column layouts in a sidebar.](http://default/files/cache/blog/drupal-8-5-field-layouts-prototype-640w.jpg)
 
 Now Drupal 8.4 is released, and Drupal 8.5 development is underway, it is a good time to give an update on what is happening with Drupal's Layout Initiative.
 

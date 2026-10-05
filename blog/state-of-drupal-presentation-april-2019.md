@@ -34,7 +34,7 @@ DrupalCon Seattle was not only the largest, but also had the most diverse speake
 
 I actually started my keynote by talking about how we can make Drupal more diverse and inclusive. As one of the largest and most thriving Open Source communities, I believe that Drupal has an obligation to set a positive example.
 
-![Free time to contribute is a privilege](http://default/files/cache/blog/free-time-to-contribute-is-a-privilege-640w.png)
+![The words "Free time to contribute is a privilege" over a painted landscape of a river under a beam of light.](http://default/files/cache/blog/free-time-to-contribute-is-a-privilege-640w.png)
 
 I talked about how Open Source communities often incorrectly believe that everyone can contribute. Unfortunately, not everyone has equal amounts of [free time to contribute](https://dri.es/the-privilege-of-free-time-in-open-source). In my keynote, I encouraged individuals and organizations in the Drupal community to strongly consider giving time to underrepresented groups.
 

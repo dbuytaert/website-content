@@ -30,11 +30,11 @@ New Relic requires a small 'agent' to be installed on your web server. The agent
 
 I've only used it on my personal site, which currently runs on a regular Drupal 6. However, I'm quite keen to unleash it on a Drupal 7 installation to see what we can learn. In the mean time, I'm including some screenshots of what my personal blog looks like according to New Relic. If you're interested in improving the performance of your site and are a profiling geek like me, you should give New Relic a try.
 
-![](http://default/files/images/new-relic/announcement-1.jpg)
+![New Relic graphs of Apdex score, mostly between 0.9 and 1 and rated Excellent at 0.98, and throughput between 15 and 35 requests per minute.](http://default/files/images/new-relic/announcement-1.jpg)
 *New Relic uses <a href="http://en.wikipedia.org/wiki/Apdex">Apdex</a>, an industry standard for measuring the satisfaction of a user of an application or service.*
-![](http://default/files/images/new-relic/announcement-2.jpg)
+![Stacked area chart of average response time: PHP stays under 100 ms while database time spikes push the total past 400 ms.](http://default/files/images/new-relic/announcement-2.jpg)
 *New Relic conveniently separates database performance from PHP performance. On a busy system, that makes it easy to pinpoint bottlenecks.*
-![](http://default/files/images/new-relic/announcement-3.jpg)
+![Table of Drupal callbacks by time consumed, led by /node\_page\_view at 56% and /taxonomy\_term\_page at 18%.](http://default/files/images/new-relic/announcement-3.jpg)
 *New Relic tries to annotate performance problems to 'controllers' rather than to specific URLs. Thus, it automatically extracts 'Drupal page callbacks'. This is nice because when an application has thousands of unique URLs \(<code>/article/11/19/why-mysql-is-cool</code> and <code>/article/11/19/postgres-is-cool</code> and so on\) that are all handled by the same controller \(e.g. <code>node\_page\_view\(\)</code>\).*
-![](http://default/files/images/new-relic/announcement-4.jpg)
+![Table of database operations by time consumed, led by accesslog SELECT at 24% and accesslog INSERT at 21%.](http://default/files/images/new-relic/announcement-4.jpg)
 *This graph shows that most of my database time is spent reading and writing to the <code>accesslog</code> MySQL table. By disabling the access log feature in Drupal, I could reduce my database load roughly in half.*

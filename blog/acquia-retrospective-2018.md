@@ -132,7 +132,7 @@ Acquia remains very committed to Drupal, and was [the largest contributor to the
 - **Layout Builder:** Layout Builder offers content authors an easy-to-use page building experience. It's shaping up to be [one of the most useful and pervasive features](https://dri.es/why-drupal-layout-builder-is-so-unique-and-powerful) ever added to Drupal because it redefines the how editors control the appearance of their content without having to rely on a developer.
 - **API First:** This initiative has given Drupal a true best-in-class web services API for using Drupal as a headless content management system. Headless Drupal is one of the fastest growing segments of Drupal implementations.
 
-![](http://default/files/cache/acquia/build-week-2018-640w.jpg)
+![A large group of Acquia employees gathers in an atrium and on a wide staircase, photographed from above.](http://default/files/cache/acquia/build-week-2018-640w.jpg)
 
 ### Content and Commerce
 

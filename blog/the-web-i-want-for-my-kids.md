@@ -20,7 +20,7 @@ id: 4896
 
 # The web I want for my kids
 
-![Coder Dojo](http://default/files/cache/miscellaneous-2017/coder-dojo-640w.jpg)
+![A young mentor and a blond boy look at a MacBook together at a table full of laptops and kids coding.](http://default/files/cache/miscellaneous-2017/coder-dojo-640w.jpg)
 
 Last week, I published [an opinion piece on CNN](https://www.cnn.com/2019/07/19/perspectives/internet-privacy-hate-speech/index.html) featuring my thoughts on what is wrong with the web and how we might fix it.
 

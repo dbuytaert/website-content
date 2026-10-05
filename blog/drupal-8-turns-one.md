@@ -59,7 +59,7 @@ The YMCA is one the leading non-profit organizations for youth development, heal
 
 ## 7. [Jack Daniels](https://www.jackdaniels.com/en-us)
 
-![Close-up of a Jack Daniel's Old No.](http://default/files/cache/drupal/drupal-8-jack-daniels-640w.gif)
+![Close-up of a Jack Daniel's bottle label reading "Old Time Old No. 7 Brand".](http://default/files/cache/drupal/drupal-8-jack-daniels-640w.gif)
 
 The one year anniversary of Drupal 8 is cause for celebration, so why not raise a glass? You might try Jack Daniels and their Drupal 8 website. Jack Daniels has been making whiskey for 150 years and you can get your fill with Drupal 8.
 

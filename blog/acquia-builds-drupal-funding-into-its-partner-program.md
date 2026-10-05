@@ -23,7 +23,7 @@ id: 6181
 
 # Acquia builds Drupal funding into its partner program
 
-![A blue heart](http://default/files/cache/drupal/blue-hearts-1-640w.jpg)
+![A blue watercolor heart with the white Drupal drop logo in its center.](http://default/files/cache/drupal/blue-hearts-1-640w.jpg)
 
 Today [Acquia](https://www.acquia.com/) announced something I'm really proud of. We're calling it the [Acquia Fair Trade Initiative](https://www.acquia.com/partners/fair-trade-initiative).
 

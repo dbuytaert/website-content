@@ -17,7 +17,7 @@ id: 5026
 
 # Mautic 3 released (and other important changes)
 
-![](http://default/files/cache/mautic/mautic-3-released-640w.png)
+![The Mautic logo on a blue background with a large "3" behind it.](http://default/files/cache/mautic/mautic-3-released-640w.png)
 
 A year ago, [Acquia acquired Mautic](https://dri.es/acquia-acquires-mautic-to-create-the-open-digital-experience-platform). [Mautic](https://www.mautic.org/) is an Open Source marketing automation and campaign management platform.
 

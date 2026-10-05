@@ -27,7 +27,7 @@ At the end of last week, Klaas (one of my best friends) and I drove from Belgium
 
 Scrambling means hiking up steep, rocky terrain using your hands, without the need for ropes or any other kind of protection. It's something between hiking and rock climbing.
 
-![Tryfan North Ridge](http://default/files/cache/hiking-in-wales-2019/tryfan-north-ridge-640w.jpg)
+![A rocky ridge rises steeply above grassy, boulder-strewn slopes, with a lake and distant hills to the left.](http://default/files/cache/hiking-in-wales-2019/tryfan-north-ridge-640w.jpg)
 *Tryfan's North Ridge silhouette next to lake Lyn Ogwen.*
 
 17 people died on Tryfan the past 30 years, and 516 parties had to be rescued. While the scrambling on Tryfan is rarely technically challenging, it can be [dangerous and difficult at times](https://youtu.be/OBGFUEEnqZo) (video of Klaas scrambling), especially when carrying heavy backpacks. Tryfan shouldn't be taken lightly.

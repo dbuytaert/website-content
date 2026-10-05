@@ -16,7 +16,7 @@ id: 4746
 
 # Drupal helps rescue ultra marathon runner
 
-![A photo of a runner at the Ultra-trail Snowdonia ultramarathon](http://default/files/cache/drupal/ultra-trail-snowdonia-2018-1-640w.jpg)
+![A runner in a blue cap and backpack descends a rocky mountain ridge, with lakes in the valley below.](http://default/files/cache/drupal/ultra-trail-snowdonia-2018-1-640w.jpg)
 *© Ultra-trail Snowdonia and No Limits Photography.*
 
 I'm frequently sent examples of how Drupal has changed the lives of developers, business owners and end users. Recently, I received a very different story of how Drupal had helped in a rescue operation that saved a man's life.
@@ -36,7 +36,7 @@ Rob attended the first day of Ultra-Trail Snowdonia to ensure the website ran sm
 Monitoring the system into the early hours of the morning, Rob noticed one runner, after successfully completing checkpoints one and two, hadn't passed through the third checkpoint.
 
 <div class="large">
-  ![A photo of a runner at the Ultra-trail Snowdonia ultramarathon](http://default/files/cache/drupal/ultra-trail-snowdonia-2018-2-640w.jpg)
+  ![A runner with a red and black backpack climbs a rocky trail past mossy boulders and sunlit trees.](http://default/files/cache/drupal/ultra-trail-snowdonia-2018-2-640w.jpg)
 *© Ultra-trail Snowdonia and No Limits Photography.*
 </div>
 

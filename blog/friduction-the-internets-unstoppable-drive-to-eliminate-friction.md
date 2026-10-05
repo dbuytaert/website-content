@@ -20,7 +20,7 @@ id: 3936
 
 # Friduction: the internet's unstoppable drive to eliminate friction
 
-![](http://default/files/cache/blog/friduction-640w.jpg)
+![A sports car in a wind tunnel, with glowing lines of air streaming over it from a giant fan.](http://default/files/cache/blog/friduction-640w.jpg)
 *© iStock.com/ktsimage.*
 
 Since the internet's commercial debut in the early '90s, it has captured success and upset the established order by [eliminating unnecessary middlemen](https://dri.es/drupal-and-eliminating-middlemen). Bookstores, photo shops, travel agents, stock brokers, bank tellers, and music stores are just a few examples of middlemen that have been displaced by their online counterparts.

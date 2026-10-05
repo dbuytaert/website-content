@@ -19,7 +19,7 @@ id: 5136
 
 # Drupal celebrates 20 years!
 
-![Birthday cup cakes](http://default/files/cache/drupal/happy-twentieth-birthday-640w.jpg)
+![Rows of cupcakes with white frosting, sprinkles and a lit candle on a light blue background, with a white Drupal logo in the center.](http://default/files/cache/drupal/happy-twentieth-birthday-640w.jpg)
 *© Ruth Black.*
 
 On January 15, 2001, exactly 20 years ago, I released Drupal 1.0.0 into the world. I was 22 years old, and just finished college. At the time, I had no idea that Drupal would someday power 1 in 35 websites, and impact so many people globally.
@@ -28,7 +28,7 @@ As with anything, there are things Drupal did right, and things we could have do
 
 ## Why I'm still working on Drupal after 20 years
 
-![Student room](http://default/files/cache/miscellaneous-2000/student-room-640w.jpg)
+![Young Dries in a red sombrero and sunglasses sits cross-legged in an orange chair next to a bookshelf and a radiator.](http://default/files/cache/miscellaneous-2000/student-room-640w.jpg)
 *Me, twenty years ago, in the dorm room where I started Drupal. I'd work on Drupal sitting in that chair.*
 
 I started Drupal to build something for myself. As Drupal grew, my "why", or reasons for working on Drupal, evolved. I began to care more about its impact on end users and even non-users of Drupal. Today, I care about everyone on the [Open Web](https://dri.es/tag/open-web).

@@ -25,5 +25,5 @@ As always, and as with any fresh launch of a new site, comments and suggestions 
 
 ![Screenshot of the Drupal.](http://default/files/images/drupal/drupal-com-2005.jpg)
 *Drupal.com as launched in 2005.*
-![Screenshot of Drupal.](http://default/files/cache/drupal/drupal-com-2009-640w.jpg)
+![Drupal.com homepage with a photo collage around a blue fixed gear bike, the tagline "Drupal gets everywhere by bike" and an About Drupal.com box.](http://default/files/cache/drupal/drupal-com-2009-640w.jpg)
 *Drupal.com as launched in 2009.*

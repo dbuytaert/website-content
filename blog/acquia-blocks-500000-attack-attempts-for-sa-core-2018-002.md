@@ -51,7 +51,7 @@ In addition to the Drupal Security Team's responsible disclosure policy, Acquia'
 
 To date, over 50 percent of the attempted attacks Acquia has witnessed originate from the Ukraine:
 
-![A donut chart shows the top IP origins of attacks, with Ukraine leading at 59.](http://default/files/cache/acquia/sa-core-2018-002-countries-640w.jpg)
+![Donut chart of attack origins: Ukraine 59.7%, Netherlands 14.0%, United Kingdom 6.1%, United States 5.0%, Poland 4.4%, Azerbaijan 3.0%, France 2.4%.](http://default/files/cache/acquia/sa-core-2018-002-countries-640w.jpg)
 
 At [Acquia](https://www.acquia.com), we provide customers with automatic security patching of both infrastructure and Drupal code, in addition to platform level fixes for security bugs. Our commitment to keeping our customers safe is reflected in our push to release a platform level fix one hour after the Drupal Security Team made SA-CORE-2018-002 available. This mitigation covered all customers with Acquia Cloud Free, Acquia Cloud Professional, Acquia Cloud Enterprise, and Acquia Cloud Site Factory applications; giving our customers peace of mind while they upgraded their Drupal sites, with or without our help. This means that when attempted exploits and attacks first appeared in the wild, Acquia's customers were safe. As a best practice, Acquia always recommends that customers upgrade to the latest secure version of Drupal Core, in addition to platform mitigations.
 

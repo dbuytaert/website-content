@@ -42,7 +42,7 @@ I can edit my images at:
 
 For example, <https://dri.es/album/niagara-on-the-lake-2017/niagara-falls-by-night-1> gives you the image of the Niagara Falls. If you have the right permissions you could edit the image at `https://dri.es/album/niagara-on-the-lake-2017/niagara-falls-by-night-1/edit` (you don't ?). Because you don't have the right permissions, I'll show you a screenshot of the edit form instead:
 
-![Drupal off-canvas dialog tutorial: regular Drupal form](http://default/files/cache/drupal/drupal-off-canvas-dialog-tutorial-form-640w.jpg)
+![Form with Title and Alt fields filled in about the Niagara Falls at night, an empty Caption field and a "Save image" button.](http://default/files/cache/drupal/drupal-off-canvas-dialog-tutorial-form-640w.jpg)
 
 I created those paths (or routes), using Drupal's routing system, and I created the form using Drupal's regular Drupal form API. I'm not going to explain how to create a Drupal form in this post, but you can read more about this at the [routing system documentation](https://www.drupal.org/docs/8/api/routing-system) and the [form API](https://www.drupal.org/docs/8/api/form-api). Here is the code for creating the form:
 
@@ -115,7 +115,7 @@ class ImageEditForm extends FormBase {
 
 First, I want to overlay an "Edit"-button over my image:
 
-![Drupal off-canvas dialog tutorial: "Edit"-link](http://default/files/cache/drupal/drupal-off-canvas-dialog-tutorial-edit-640w.jpg)
+![Drupal blog post "Niagara Falls by night" with a red arrow pointing to an "Edit" link in the corner of the photo.](http://default/files/cache/drupal/drupal-off-canvas-dialog-tutorial-edit-640w.jpg)
 
 If you were to look at the HTML code, the image link uses the following &lt;a href&gt; tag:
 
@@ -140,7 +140,7 @@ Next, we have to tell Drupal to open the form in the off-canvas dialog when the 
 
 Some extra HTML in the &lt;a href&gt; tag is all it took; it took my regular Drupal form, showed it in an off-canvas dialog, and even styled it! As I wrote above, it is easy to use the off-canvas dialog in your own modules. Hopefully you'll be inspired to take advantage of this new functionality.
 
-![Drupal off-canvas dialog tutorial: open dialog](http://default/files/cache/drupal/drupal-off-canvas-dialog-tutorial-open-640w.jpg)
+![The "Niagara Falls by night" post with an off-canvas dialog open on the right, holding the photo's Title, Alt and Caption fields.](http://default/files/cache/drupal/drupal-off-canvas-dialog-tutorial-open-640w.jpg)
 
 There are several things being added though, so let's break it down. First we add the a class called `use-ajax`:
 

@@ -22,4 +22,4 @@ Ashley Tisdale - an actress, singer and television producer - is using [Drupal](
 
 If you don't know who Ashley Tisdale is, it just means you're too old. Bear with me, as with this post, I'm trying to attract more young people to Drupal. ;-)
 
-![A website featuring Ashley Tisdale with news, music updates, and album promotions, including "Guilty Pleasure.](http://default/files/cache/drupal/ashley-tisdale-640w.jpg)
+![Ashley Tisdale's website, with a close-up of an eye as a backdrop and news items about her album "Guilty Pleasure" on a dark purple page.](http://default/files/cache/drupal/ashley-tisdale-640w.jpg)

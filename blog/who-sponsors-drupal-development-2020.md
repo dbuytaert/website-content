@@ -49,7 +49,7 @@ Each "Drupal.org issue" tracks an idea, feature request, bug report, task, or mo
 
 In the spring of 2015, [I proposed some ideas for how to give credit to Drupal contributors](https://dri.es/a-method-for-giving-credit-to-organizations-that-contribute-code-to-open-source). A year later, Drupal.org added the ability for contributors to [attribute their work](https://www.drupal.org/drupalorg/blog/a-guide-to-issue-credits-and-the-drupal.org-marketplace) to an organization or customer sponsor, or mark it the result of volunteer efforts.
 
-![A Drupal.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
+![A Drupal.org issue comment by jamadar with a Credit badge, a tooltip showing his attribution, an attached patch and a passing test.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
 *A screenshot of an issue comment on Drupal.org. You can see that jamadar worked on this patch as a volunteer, but also as part of his day job working for TATA Consultancy Services on behalf of their customer, Pfizer.*
 
 Drupal.org's credit system is unique and groundbreaking within the Open Source community. It provides unprecedented insights into the inner workings of a large Open Source project. There are a few limitations with this approach, which we'll address at the end of this report.

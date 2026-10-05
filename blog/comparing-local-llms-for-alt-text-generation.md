@@ -285,7 +285,7 @@ Next, I'll share the detailed results for each of the five photos. It's a lot to
 ### Test image 1: Shibuya Crossing, Tokyo
 
 <div class="large">
-  ![Areal view of an intersection, capturing the evening commute with pedestrians, traffic and electronic billboards.](http://default/files/cache/japan-2024/shibuya-crossing-640w.jpg)
+  ![Aerial view of an intersection, capturing the evening commute with pedestrians, traffic and electronic billboards.](http://default/files/cache/japan-2024/shibuya-crossing-640w.jpg)
 </div>
 
 Benchmark LLMs:
@@ -572,7 +572,7 @@ Local LLMs:
 ### Test image 4: hiking in the Dolomites, Italy
 
 <div class="large">
-  ![Santa maddalena church in funes](http://default/files/cache/italy-2022/santa-maddalena-church-in-funes-2-640w.jpg)
+  ![A wooden wayside shrine with a statue of Mary beside trail signs to St. Magdalena, with the Dolomites rising behind Val di Funes.](http://default/files/cache/italy-2022/santa-maddalena-church-in-funes-2-640w.jpg)
 </div>
 
 Benchmark LLMs:

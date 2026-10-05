@@ -27,7 +27,7 @@ id: 1831
 
 3\. Some spammers try to take advantage of other companies' positive brand and reputation. In the example below, the spammer tries to leverage Facebook's reputation to build a positive [Mollom](https://mollom.com) or [Akismet](http://akismet.com) reputation of its own.
 
-![](http://default/files/images/mollom/spam-techniques-facebook.jpg)
+![Spam comment from an anonymous author with empty fields and a body that is only a link to facebook.com with rel="follow".](http://default/files/images/mollom/spam-techniques-facebook.jpg)
 
 4\. In the example below, this spammer used a free site building service, [webs.com](http://webs.com), to build a spam site. If not a free website building service, [spammers will abuse incorrectly configured content management systems](https://dri.es/spammers-set-up-shop-at-ibm-com). Of course, there is some good old shouting too.
 

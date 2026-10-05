@@ -18,8 +18,8 @@ id: 475
 
 Each year around this time, I share the download statistics for Drupal core (see also: [2006 statistics](https://dri.es/drupal-download-statistics-2006) and [2007 statistics](https://dri.es/drupal-download-statistics-2007)). In other words, time for this year's update.
 
-![Bar chart showing download statistics for Drupal core versions 4.](http://default/files/images/drupal/absolute-download-statistics-2008.jpg)
-![Bar chart showing the percentage of Drupal core downloads over time, transitioning from Drupal 4.](http://default/files/images/drupal/relative-download-statistics-2008.jpg)
+![Stacked bar chart of monthly Drupal core downloads for versions 4.7, 5 and 6 from May 2006 to mid-2008, peaking near 225,000 in February 2008.](http://default/files/images/drupal/absolute-download-statistics-2008.jpg)
+![Stacked bar chart of monthly Drupal core downloads from May 2006 to mid-2008, as Drupal 4.7, then 5, then 6 take the lead.](http://default/files/images/drupal/relative-download-statistics-2008.jpg)
 
 The last 12 months, from July 2007 to June 2008, Drupal core was downloaded more than 1.4 million times. The year before, from July 2006 to June 2007, Drupal core was downloaded 620,000 times. The number of downloads doubled in one year's time! And while Drupal 5 continues to be popular, the Drupal 6 core download is already a lot more popular.
 

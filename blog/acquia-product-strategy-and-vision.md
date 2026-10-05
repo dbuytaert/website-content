@@ -26,7 +26,7 @@ In my [Acquia 2010 retrospective](https://dri.es/acquia-retrospective-2010), I p
 
 ## The web: it's currently a mess
 
-![](http://default/files/images/acquia/acquia-strategy-product-vision-2010-1.jpg)
+![Colored circles for separate sites, each on its own platform: main website on JSP, intranet on SharePoint, microsites on WordPress and Joomla.](http://default/files/images/acquia/acquia-strategy-product-vision-2010-1.jpg)
 
 Ten years ago, the average organization had one website. Since then, doing business through the web has become more complex and have introduced a diverse set of needs. If you're like most organizations the number of sites you have is large and continues to grow at a rapid clip.
 
@@ -34,13 +34,13 @@ For most organizations, one tool could not historically get the job done, so the
 
 ## Each site has unique needs
 
-![](http://default/files/images/acquia/acquia-strategy-product-vision-2010-2.jpg)
+![Colored circles for many sites, tangled in lines to the technologies under them: PHP, Java, MySQL, Oracle, Apache, IIS7, .NET, Linux and Windows.](http://default/files/images/acquia/acquia-strategy-product-vision-2010-2.jpg)
 
 Most of these sites are vastly different in terms of scale, functionality, complexity and longevity. Some sites are under continuous development while other sites are only around for a couple of weeks or months. Some of the websites are owned by the company's IT department and hosted internally, while other websites may be owned by their marketing department and hosted externally. As a result, the level of investment and the time to market requirements are usually very different.
 
 ## Standardize on Drupal to save costs
 
-![](http://default/files/images/acquia/acquia-strategy-product-vision-2010-3.jpg)
+![Every site drawn as a blue Drupal drop: main website, intranet, extranet, blog, forums, wiki, microsites and more.](http://default/files/images/acquia/acquia-strategy-product-vision-2010-3.jpg)
 
 CIOs – facing cost-cutting pressures and the need to streamline their resources – are now addressing the reality of running twenty different content management systems on twenty different stack configurations as an expensive, unnecessary burden for the organization. They have always known that there were cost savings to be made if they standardize on a single platform, but have never felt the confidence in a single platform to suit all of their needs across their organization.
 

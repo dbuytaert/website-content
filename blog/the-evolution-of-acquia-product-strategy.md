@@ -57,7 +57,7 @@ Many organizations lack a single source of truth when it comes to managing digit
 
 On top of Drupal's asset and media management capabilities, Acquia DAM provides various specialized functionality, such as automatic transcoding of assets upon download, image and video markup during approval workflows, and automated tagging for images using machine learning and image recognition.
 
-![](http://default/files/cache/acquia/acquia-dam-launch-2017-640w.jpg)
+![Acquia DAM screen with a search for "furniture" showing a grid of furniture photos, and the selected asset's approval and details on the right.](http://default/files/cache/acquia/acquia-dam-launch-2017-640w.jpg)
 
 Acquia DAM seamlessly integrates with both Drupal 7 and Drupal 8 (using Drupal's "media entities"). In addition to Drupal, Acquia DAM is built to integrate with the entirety of the Acquia Platform. This includes Acquia Lift and Acquia Journey, which means that any asset managed in the Acquia DAM repository can be utilized to create personalized experiences across multiple Drupal sites. Additionally, through a REST API, Acquia DAM can also be integrated with other marketing technologies. For example, Acquia DAM supports designers with a plug-in for Adobe Creative Cloud, which integrates with Photoshop, InDesign, and Illustrator.
 

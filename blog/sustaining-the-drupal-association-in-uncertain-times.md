@@ -19,7 +19,7 @@ id: 4981
 
 # Sustaining the Drupal Association in uncertain times
 
-![A blue heart](http://default/files/cache/drupal/blue-hearts-1-640w.jpg)
+![A blue watercolor heart with the white Drupal drop logo in its center.](http://default/files/cache/drupal/blue-hearts-1-640w.jpg)
 
 Today, I'm asking for your financial support for the [Drupal Association](https://www.drupal.org/association/). As we all know, we are living in unprecedented times, and the Drupal Association needs our help. With DrupalCon being postponed or potentially canceled, there will be a significant financial impact on our beloved non-profit.
 

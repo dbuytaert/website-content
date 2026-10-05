@@ -25,7 +25,7 @@ On a personal level, 2009 was a very busy Drupal year. I posted 3,269 comments o
 
 My two personal Drupal highlights for 2009 include [Whitehouse.gov switching to Drupal](https://dri.es/whitehouse-gov-using-drupal) and the [automated testing that we deployed on drupal.org](https://dri.es/drupal-7-testing-status-update-and-next-steps). In fact, having now experienced its benefits, I'm not sure how we ever developed without automated testing in the past. The current Drupal 7 development snapshot feels more stable than the initial Drupal 6.0 release (minus obvious exceptions like no working upgrade path). Automated testing improved our development velocity as we committed many more core patches than any previous year. Other highlights include [the many Drupal books that were published](https://dri.es/drupal-book-shelf-2009), and of course, [the first Drupal tattoo](https://dri.es/drupal-tattoo) – both strong proof that Drupal is here to stay (or, at least, that tattoo is ;-)).
 
-![A man in a suit types on a laptop, saying "Node/.](http://default/files/images/drupal/drupal-cartoon-2009.jpg)
+![Cartoon of a man in a suit typing on a laptop and saying "Node/... add/... jobs", next to the words "Meanwhile, the White House went Drupal".](http://default/files/images/drupal/drupal-cartoon-2009.jpg)
 *© Rob Cottingham.*
 
 My personal low for Drupal in 2009 is that we didn't get the Drupal.org redesign implemented – fortunately, we have that back on the fast lane.

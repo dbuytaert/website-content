@@ -19,7 +19,7 @@ id: 5791
 
 # Claude Code meets Drupal
 
-![](http://default/files/cache/blog/dries-using-claude-code-640w.jpg)
+![Claude Code in a terminal, editing a Drupal module's controller, with Dries on a webcam in the corner.](http://default/files/cache/blog/dries-using-claude-code-640w.jpg)
 
 Can AI actually help with real Drupal development? I wanted to find out.
 

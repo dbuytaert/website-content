@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=iXB0sNreSlM
 
 I started my keynote by highlighting this month's [Drupal 8.6.0 release](https://dri.es/drupal-8-6-0-released). Drupal 8.6 marks the sixth consecutive Drupal 8 release that has been delivered on time. Compared to one year ago, we have 46 percent more stable Drupal 8 modules. We also have 10 percent more contributors are working on Drupal 8 Core in comparison to last year. All of these milestones indicate that the Drupal 8 is healthy and growing.
 
-![The number of stable modules for Drupal 8 is growing fast](http://default/files/cache/drupal-europe-darmstadt-2018/drupal-stable-modules-growing-september-2018-640w.jpg)
+![Area chart of stable Drupal 8 modules, up 46% from 1,450 in September 2017 to 2,121 in September 2018.](http://default/files/cache/drupal-europe-darmstadt-2018/drupal-stable-modules-growing-september-2018-640w.jpg)
 
 Next, I gave an update on our strategic initiatives.
 

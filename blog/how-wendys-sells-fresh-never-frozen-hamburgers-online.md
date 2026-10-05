@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=OTeLjJoKQzU
 For the occasion, the team at Wendy's decided to target Acquia Engage attendees. If you visited Wendys.com from Acquia Engage, you got the following personalized banner. It's a nice example of what you can do with Acquia Lift.
 
 <div class="large">
-  ![](http://default/files/cache/acquia/acquia-engage-2018-wendys-com-banner-640w.jpg)
+  ![Wendy's homepage with a banner reading "Thanks for having us, Acquia Engage!" beside Frosty cups, above a "$1 Any Size Fry" offer.](http://default/files/cache/acquia/acquia-engage-2018-wendys-com-banner-640w.jpg)
 </div>
 
 As part of my keynote, we also demoed the next generation of Acquia Lift, which will be released in early 2019. In 2018, we decided that user experience always has to come first. We doubled our design and user experience team and changed our product development process to reflect this priority. The upcoming version of Acquia Lift is the first example of that. It offers more than just a fresh UI; it also ships with new features to simplify how marketers create campaigns. If you want a preview, have look at the 9-minute video below!

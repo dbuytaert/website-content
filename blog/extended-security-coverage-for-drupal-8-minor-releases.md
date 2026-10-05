@@ -18,13 +18,13 @@ id: 4516
 
 # Extended security coverage for Drupal 8 minor releases
 
-![New Drupal 8 security policy for minor releases](http://default/files/cache/drupal/new-drupal-8-security-policy-for-minor-releases-640w.jpg)
+![Timeline of Drupal 8.5 to 8.7 with long security bars, noting six months to upgrade and 12 months of security support per minor release.](http://default/files/cache/drupal/new-drupal-8-security-policy-for-minor-releases-640w.jpg)
 
 Since the launch of Drupal 8.0, we have successfully launched a new minor release on schedule every six months. I'm very proud of the community for this achievement. Prior to Drupal 8, most significant new features were only added in *major releases* like Drupal 6 or Drupal 7. Thanks to our new release cadence we now consistently and predictably ship great new features twice a year in *minor releases* (e.g. [Drupal 8.6 comes with many new features](https://dri.es/drupal-8-6-0-released)).
 
 However, only the most recent minor release has been actively supported for both bug fixes and security coverage. With the release of each new minor version, we gave a one-month window to upgrade to the new minor. In order to give site owners time to upgrade, we would not disclose security issues with the previous minor release during that one-month window.
 
-![Old Drupal 8 security policy for minor releases](http://default/files/cache/drupal/old-drupal-8-security-policy-for-minor-releases-640w.jpg)
+![Timeline of Drupal 8.5 to 8.7 with short security bars, noting that teams had one month to upgrade after a new minor release.](http://default/files/cache/drupal/old-drupal-8-security-policy-for-minor-releases-640w.jpg)
 *Illustration of the security policy since the launch of Drupal 8.0 for minor releases, demonstrating that previous minor releases receive one month of security coverage.Source: <a href="https://www.drupal.org/project/drupal/issues/2909665">Drupal.org issue #2909665: Extend security support to cover the previous minor version of Drupal</a> and Drupal Europe DriesNote.*
 
 Over the past three years, we have learned that users find it challenging to update to the latest minor in one month. Drupal's minor updates can include dependency updates, internal API changes, or features being transitioned from contributed modules to core. It takes time for site owners to prepare and test these types of changes, and a window of one month to upgrade isn't always enough.
