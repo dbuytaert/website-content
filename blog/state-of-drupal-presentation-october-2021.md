@@ -145,4 +145,4 @@ https://www.youtube.com/watch?v=3CTMdy4VNyU
 
 To wrap up I'd like to thank all of the people and organizations who have contributed to Drupal since the last DriesNote. It's pretty amazing to see the momentum on our core initiatives! As always, your contributions are inspiring to me!
 
-![Thank you for the many contribution](http://default/files/cache/drupalcon-europe-2021/thank-you-640w.png)
+![A figure rows a boat across glowing water under stars, beside text thanking "so many generous individuals and organizations" for their contributions.](http://default/files/cache/drupalcon-europe-2021/thank-you-640w.png)

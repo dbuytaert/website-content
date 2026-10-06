@@ -38,7 +38,7 @@ Mark and Leisa's work is being done in an open, collaborative, and transparent w
 
 Some of the activities to date have included some 'blue sky design workshops' with community members at DrupalCon DC, one-on-one interviews with members of the the Drupal community and potential future Drupal users, and more. As the work has progressed they have [shared work in progress on Flickr](https://www.flickr.com/groups/drupalredesign), conducted user testing on those prototypes, and much more.
 
-![A mockup of a potential new navigation menu for Drupal administrators and editors.](http://default/files/images/drupal/mbd-header-mockup.jpg)
+![A mockup of a potential new navigation menu for Drupal administrators and editors.](http://default/files/images/drupal/mark-boulton-header-mockup.jpg)
 *A Mark Boulton mockup of the "header" that we might see in Drupal 7.*
 
 In addition to paying Mark and Leisa, [Acquia](https://www.acquia.com) has contributed some of its own internal engineering resources. Jeff Noyes, Jason Reed (both senior designers) and myself traveled to meet with Mark and Leisa in London – we flew in [Yoroy](https://www.yoroy.com/), a key contributor to Drupal usability, to attend as well. We locked ourselves in a room for two days, and discussed and validated early design prototypes. You can read a [summary of the visit](http://www.jeffnoyes.com/content/d7ux-brainstorming-london) on Jeff Noyes's site. Returning home from London, I couldn't be happier, because the designs and prototypes started to live up my vision and expectations of how easy to use Drupal could be.

@@ -23,7 +23,7 @@ The new site design does just that. First, it serves as a spotlight for Drupal a
 
 As always, and as with any fresh launch of a new site, comments and suggestions are always welcome. Feel free to leave them here, attached to this post. I'll continue to add and tweak the the site over time, and I welcome your input.
 
-![Screenshot of the Drupal.](http://default/files/images/drupal/drupal-com-2005.jpg)
+![A large Druplicon above the line "The Drupal community can be reached at http://drupal.org. -- Dries" and a note about a better landing page.](http://default/files/images/drupal/drupal-com-2005.jpg)
 *Drupal.com as launched in 2005.*
 ![Drupal.com homepage with a photo collage around a blue fixed gear bike, the tagline "Drupal gets everywhere by bike" and an About Drupal.com box.](http://default/files/cache/drupal/drupal-com-2009-640w.jpg)
 *Drupal.com as launched in 2009.*

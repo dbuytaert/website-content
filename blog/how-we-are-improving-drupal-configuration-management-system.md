@@ -11,14 +11,14 @@ summary: "Next steps for Drupal's configuration management system."
 tags:
   - Drupal
   - Configuration
-image: drupal/configuraton-management-initiative
+image: drupal/configuration-management-initiative
 published: true
 id: 4586
 ---
 
 # How we are improving Drupal's configuration management system
 
-![Four arrows climbing a mountain, with the developer track split into API-first, JavaScript modernization, configuration management and Composer.](http://default/files/cache/drupal/configuraton-management-initiative-640w.jpg)
+![Four arrows climbing a mountain, with the developer track split into API-first, JavaScript modernization, configuration management and Composer.](http://default/files/cache/drupal/configuration-management-initiative-640w.jpg)
 
 Configuration management is an important feature of any modern content management system. Those following modern development best-practices use a development workflow that involves some sort of development and staging environment that is separate from the production environment.
 

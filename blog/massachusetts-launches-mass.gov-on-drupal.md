@@ -21,7 +21,7 @@ id: 4086
 
 # Massachusetts launches Mass.gov on Drupal
 
-![Animated comparison of the Boston.](http://default/files/cache/drupal/boston-gov-before-and-after-640w.gif)
+![Animation switching between the old City of Boston website, crowded with menus and links, and the new Boston.gov homepage with a large blue banner.](http://default/files/cache/drupal/boston-gov-before-and-after-640w.gif)
 
 This year at Acquia Engage, [the Commonwealth of Massachusetts launched Mass.gov on Drupal 8](https://www.mass.gov/news/baker-polito-administration-launches-the-new-massgov). Holly St. Clair, the Chief Digital Officer of the Commonwealth of Massachusetts, joined me during [my keynote](https://dri.es/acquia-engage-2017-keynote) to share how [Mass.gov](https://www.mass.gov) is making constituents' interactions with the state fast, easy, meaningful, and "wicked awesome".
 

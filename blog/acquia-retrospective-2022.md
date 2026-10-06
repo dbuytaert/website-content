@@ -99,7 +99,7 @@ At our customer and partner conference, Acquia Engage, we shared the stage with 
 
 <div class="large">
   ![Acquia customer logos in 2022, including Cigna, Novartis, Lowe's, Barnes & Noble, Best Buy, Panasonic and more.](http://default/files/cache/acquia/customer-logos-2022-640w.png)
-*Some of Acquia's customers in 2022: Cigna, Novartis, Lowe's, Barnes & Noble, Best Buy, Panasonic and more.*
+*Some of Acquia's customers in 2022: Cigna, Novartis, Lowe's, Barnes &amp; Noble, Best Buy, Panasonic and more.*
 </div>
 
 I'm also particularly proud of the fact that in 2022, our customers recognized us across two of the most popular B2B software review sites, TrustRadius and G2. Acquia earned [Top Rated designation on TrustRadius](https://www.acquia.com/newsroom/press-releases/acquia-widen-trustradius-awards) four times over, and was named a [Leader by G2](https://www.acquia.com/newsroom/press-releases/acquia-named-leader-g2) users in 20 areas.

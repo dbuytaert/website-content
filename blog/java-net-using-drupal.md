@@ -21,4 +21,4 @@ id: 991
 
 With the help of [Cognisync](http://cognisync.com), Sun Microsystems converted [Java.net](http://java.net), the website of the Java community, to [Drupal](https://www.drupal.org). The previous version of java.net, was custom built by [O'Reilly Media](http://oreilly.com). Interesting choice for a site devoted to Java, but needless to say, a great testimonial to Drupal.
 
-![A screenshot of the Java.](http://default/files/cache/drupal/java-net-640w.jpg)
+![The Java.net homepage, "The Source for Java Technology Collaboration", with Java Today news, weblogs and featured articles.](http://default/files/cache/drupal/java-net-640w.jpg)

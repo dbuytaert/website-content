@@ -17,7 +17,7 @@ id: 3196
 
 Back in the early days of Drupal, [Drupal.com](https://drupal.com) looked like this:
 
-![Screenshot of the Drupal.](http://default/files/images/drupal/drupal-com-2005.jpg)
+![A large Druplicon above the line "The Drupal community can be reached at http://drupal.org. -- Dries" and a note about a better landing page.](http://default/files/images/drupal/drupal-com-2005.jpg)
 *Drupal.com as launched in 2005.*
 
 On August 14 2009, I relaunched [Drupal.com](https://drupal.com) to replace the oh-so-embarrassing placeholder page. The 2009 re-launch turned [Drupal.com](https://drupal.com) into a better spotlight for Drupal. It wasn't hard to beat the white page with a Druplicon logo.

@@ -20,7 +20,7 @@ Last weekend, I attended [DrupalCamp Köln](https://dri.es/drupalcamp-koln-2008)
 
 ![A man in a maroon shirt reads from a paper while speaking into a microphone, with two others listening.](http://default/files/cache/drupalcamp-cologne-2009/welcome-note-640w.jpg)
 *The welcome note with Thomas Narres \(<a href="http://www.narres.com">Narres Open Web Solutions</a>\), <a href="http://robshouse.net">Robert Douglass</a> \(<a href="http://acquia.com">Acquia</a>\) and the main sponsor Mr. Hecker \(<a href="http://www.gfu.net/">GFU</a>\).*
-![A donation sign for the Drupal.](http://default/files/cache/drupalcamp-cologne-2009/fundraise-640w.jpg)
+![A handwritten sign reading "Donations Drupal.org Redesign" lies on a table next to a German Drupal 6 book and sticky notes.](http://default/files/cache/drupalcamp-cologne-2009/fundraise-640w.jpg)
 *We raised a good amount of money for the <a href="https://dri.es/drupal-org-redesign-code-sprints">Drupal.org redesign sprints</a>. Thank you Germany!*
 ![A speaker presents on Apache Solr and search technology at DrupalCamp Cologne 2009, with a projected slide behind him.](http://default/files/cache/drupalcamp-cologne-2009/robert-on-apache-solr-640w.jpg)
 *<a href="http://robshouse.net">Robert Douglass</a> talking about Apache Solr and <a href="https://dri.es/a-hosted-search-service-for-drupal">Acquia's upcoming hosted search offering</a>. The room was packed!*

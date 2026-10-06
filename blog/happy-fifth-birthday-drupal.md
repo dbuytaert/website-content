@@ -38,7 +38,7 @@ To celebrate the event, Karlijn and I made you a cake:
 ![A round cake with a triangular piece on top](http://default/files/images/drupal/cake-6.jpg)
 *Step 6: put the cake and the hair together.*
 ![A close-up of colorful m&m's](http://default/files/images/drupal/cake-7.jpg)
-*Step 7: unpack the m&m's. You'll want lots of those ...*
+*Step 7: unpack the m&amp;m's. You'll want lots of those ...*
 ![A close-up of blue m&m's only](http://default/files/images/drupal/cake-8.jpg)
 *Step 8: filter out all the blue ones \(by eating the other ones\).*
 ![Sugar, butter, cream, m&m's and white chocolate displayed in bowls](http://default/files/images/drupal/cake-9.jpg)
@@ -48,6 +48,6 @@ To celebrate the event, Karlijn and I made you a cake:
 ![Frosting being applied on a cake](http://default/files/images/drupal/cake-11.jpg)
 *Step 11: pour the frosting over the cake.*
 ![A hand decorating a cake with blue m&m's](http://default/files/images/drupal/cake-12.jpg)
-*Step 12: put the blue m&m's on the cake. We used a piece of paper to get the eyes right.*
+*Step 12: put the blue m&amp;m's on the cake. We used a piece of paper to get the eyes right.*
 ![A finished cake the shape of Druplicon](http://default/files/images/drupal/cake-13.jpg)
 *Step 13: that's it! Happy birthday Drupal!*

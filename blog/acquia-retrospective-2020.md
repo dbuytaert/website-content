@@ -74,7 +74,7 @@ One specific contribution that I'm extra proud of is that [Acquia](https://www.a
 
 <div class="large">
   ![Drupal.org advertising paid for by Acquia](http://default/files/cache/acquia/drupal-org-advertising-2020-640w.png)
-*The Acquia-paid banner that was on Drupal.org for most of 2020. It promotes Third and Gove, Acro Media, Mediacurrent, QED42, CI&T, FFW, Palantir.net, Lullabot, Four Kitchens, Phase2 and Srijan.*
+*The Acquia-paid banner that was on Drupal.org for most of 2020. It promotes Third and Gove, Acro Media, Mediacurrent, QED42, CI&amp;T, FFW, Palantir.net, Lullabot, Four Kitchens, Phase2 and Srijan.*
 </div>
 
 We also contributed to [Mautic](https://www.mautic.org/): we helped evolve Mautic's governance, release Mautic 3, and organize the first ever MautiCon. The Mautic project made 13 releases over the past year compared to only 3 releases in 2019 before [Acquia acquired Mautic](https://dri.es/acquia-acquires-mautic-to-create-the-open-digital-experience-platform). We're also seeing a steady growth in community members and active contributors.

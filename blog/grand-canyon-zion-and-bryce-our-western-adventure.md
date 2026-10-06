@@ -81,7 +81,7 @@ The following day was for rappelling, scrambling, and hiking. The boys were hype
 </div>
 
 <div class="side-by-side">
-  ![A woman wearing a helmet and sunglasses, smiling while rappelling in Zion National Park.](http://default/files/cache/grand-canyon-zion-bryce-2025/zion-rapelling-down-1-640w.jpg)
+  ![A woman wearing a helmet and sunglasses, smiling while rappelling in Zion National Park.](http://default/files/cache/grand-canyon-zion-bryce-2025/zion-rappelling-down-1-640w.jpg)
 *Getting ready to rappel in Zion, and enjoying every moment of it.*<br>
   ![A person carefully walking along a narrow sandstone slot canyon in Zion National Park.](http://default/files/cache/grand-canyon-zion-bryce-2025/zion-slot-canyon-hiking-640w.jpg)
 *Making our way through the narrow slots in Zion.*

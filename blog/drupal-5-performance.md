@@ -25,7 +25,7 @@ I setup a Drupal 4.7 site with 2,000 users, 5,000 nodes, 5,000 path aliases, 10,
 
 Next, I configured the main page to show 10 nodes, enabled some blocks in both the left and the right sidebar, setup some primary links, and added a search function at the top of the page. I also setup a contact page using Drupal's contact module. The image below depicts how my final main page was configured.
 
-![Drupal 7 main page showing blog posts, recent comments, user login form, and navigation links.](http://default/files/cache/drupal/drupal-4.7-main-page-640w.jpg)
+![Drupal 4.7 test site front page with blog nodes of placeholder Latin text, recent comments, a user login form and a Who's new block.](http://default/files/cache/drupal/drupal-4.7-main-page-640w.jpg)
 
 Furthermore, I made an exact copy of the Drupal 4.7 site and upgraded it to the latest Drupal 5 release. The result is two identical websites; one using Drupal 4.7 and one using Drupal 5.
 

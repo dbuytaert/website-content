@@ -180,7 +180,7 @@ While both JSON API and GraphQL are preferred over traditional REST due to their
 
 I believe that GraphQL and JSON API in core would be a big win for those building decoupled applications with Drupal, and these modules can use existing foundations in Drupal 8 such as the Serialization module. Furthermore, Drupal's own built-in JavaScript-driven UIs could benefit tremendously from GraphQL and JSON API. I'd love to see them in core rather than as contributed modules, as we could leverage them when building decoupled applications backed by Drupal or exchanging data with other server-side implementations. We could also "eat our own dog food" by using them to power JavaScript-driven UIs for block placement, media management, and other administrative interfaces. I can even see a future where Views and GraphQL are closely integrated.
 
-![Comparison of REST, JSON API, and GraphQL in Drupal 8, showing request structure and server responses with simplified payloads.](http://default/files/cache/blog/web-services-rest-json-grapql-640w.jpg)
+![Comparison of REST, JSON API, and GraphQL in Drupal 8, showing request structure and server responses with simplified payloads.](http://default/files/cache/blog/web-services-rest-json-graphql-640w.jpg)
 *A comparison of different API approaches for Drupal 8, with amended and simplified payloads for illustrative purposes.*
 
 ## SDKs to consume web services

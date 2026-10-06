@@ -21,7 +21,7 @@ id: 3741
 
 # City of Boston launches Boston.gov on Drupal
 
-![Animated comparison of the Boston.](http://default/files/cache/drupal/boston-gov-before-and-after-640w.gif)
+![Animation switching between the old City of Boston website, crowded with menus and links, and the new Boston.gov homepage with a large blue banner.](http://default/files/cache/drupal/boston-gov-before-and-after-640w.gif)
 
 Yesterday the City of Boston launched its new website, [Boston.gov](http://boston.gov), on Drupal. Not only is Boston a city well-known around the world, it has also become my home over the past 9 years. That makes it extra exciting to see the city of Boston use Drupal.
 
@@ -41,5 +41,5 @@ The new [Boston.gov](http://boston.gov) is absolutely beautiful, welcoming and u
 
 ![Panelists seated on stage discuss the Boston government launch event, with one speaker gesturing while others listen attentively.](http://default/files/cache/drupal/boston-gov-launch-event-1-640w.jpg)
 ![A man in a suit speaks into a microphone at the Boston Gov launch event.](http://default/files/cache/drupal/boston-gov-launch-event-2-640w.jpg)
-![Two people pose at the Boston.](http://default/files/cache/drupal/boston-gov-launch-event-3-640w.jpg)
+![Two men in suits shake hands beside a screen with the Boston.gov launch party schedule, listing remarks by Mayor Martin J. Walsh and Dries Buytaert.](http://default/files/cache/drupal/boston-gov-launch-event-3-640w.jpg)
 *Last night there was a launch party to celebrate the launch of Boston.gov. It was an honor to give some remarks about this project alongside Boston Mayor Marty Walsh \(pictured above\), as well as Lauren Lockwood \(Chief Digital Officer of the City of Boston\) and Jascha Franklin-Hodge \(Chief Information Officer of the City of Boston\).*

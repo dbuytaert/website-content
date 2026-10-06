@@ -25,7 +25,7 @@ I setup a Drupal 4.7 site with 2,000 users, 5,000 nodes, 5,000 path aliases, 10,
 
 Next, I configured the main page to show 10 nodes, enabled some blocks in both the left and the right sidebar, setup some primary links, and added a search function at the top of the page. I also setup a contact page using Drupal 4.7's contact module. The image below depicts how my final main page was configured.
 
-![Drupal 7 main page showing blog posts, recent comments, user login form, and navigation links.](http://default/files/cache/drupal/drupal-4.7-main-page-640w.jpg)
+![Drupal 4.7 test site front page with blog nodes of placeholder Latin text, recent comments, a user login form and a Who's new block.](http://default/files/cache/drupal/drupal-4.7-main-page-640w.jpg)
 
 Benchmarks were done on a 3 year old Pentium IV 3Ghz with 2 GB of RAM running Gentoo Linux. I used the following software: Apache 2.0.55, Lighttpd 1.3.16, PHP 4.4.2, PHP 5.1.4, and MySQL 4.1.4 without special configuration or tweaking other than strictly necessary to get things up an running.
 
@@ -69,7 +69,7 @@ When using `FastCGI`, the web applications can run under different privileges th
 
 So when choosing between `mod_php` or `FastCGI`, you are making a trade-off between security and performance. The figure below shows the relative performance of the two approaches, and can help you understand the trade-off. When switching from `mod_php` to `FastCGI` we observe a 63% slowdown for anonymous visitors, and a 18% slowdown for authenticated visitors.
 
-![Bar chart comparing request performance of mod\_php and FastCGI in Drupal 7 for different visitor types and page types.](http://default/files/images/drupal/drupal-4.7-fastcgi-vs-mod_php.jpg)
+![Drupal 4.7 bar chart on Apache with PHP4 and no APC: mod\_php serves about 19.5 anonymous requests per second, FastCGI about 12.](http://default/files/images/drupal/drupal-4.7-fastcgi-vs-mod_php.jpg)
 
 ## Apache or Lighttpd?
 
@@ -85,4 +85,4 @@ The fastest configuration using the more secure FastCGI method, on the other han
 
 If you are not on a shared host, you might not care about the security options provided by `FastCGI`. In that case, the next and last figure might be of interest. Turns out that for anonymous visitors my fastest Apache configuration is 3% faster than the fastest Lighttpd configuration.
 
-![Bar chart comparing request speeds for Drupal 7 using different server configurations and visitor types on various pages.](http://default/files/images/drupal/drupal-4.7-slow-vs-fast-2.jpg)
+![Drupal 4.7 bar chart: Apache with mod\_php and Lighttpd with FastCGI, both on PHP4 with APC, serve 71 to 75 anonymous requests per second.](http://default/files/images/drupal/drupal-4.7-slow-vs-fast-2.jpg)

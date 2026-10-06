@@ -18,7 +18,7 @@ id: 619
 
 As explained in [my DrupalCon DC keynote presentation](https://dri.es/state-of-drupal-presentation-march-2009), drupal.com has been getting way too much organic traffic (1,000 unique visits on a good day) to not look great and show off all the cool things that have been happening within the [Drupal community](https://www.drupal.org). I have had a pretty embarrassing place holder on this personal site for years that is just the Druplicon (see screenshot below).
 
-![Screenshot of the Drupal.](http://default/files/images/drupal/drupal-com-2005.jpg)
+![A large Druplicon above the line "The Drupal community can be reached at http://drupal.org. -- Dries" and a note about a better landing page.](http://default/files/images/drupal/drupal-com-2005.jpg)
 *Drupal.com as launched in 2005.*
 
 I asked my friends at [Development Seed](http://www.developmentseed.org) to create some mockups for a new drupal.com (see screenshot below). I really like the professional tone that such a site could create for many people who are experiencing Drupal for the first time. The header part will come with rotating images and captions, and other JavaScript goodness so don't blind stare at the copy on the screenshot.

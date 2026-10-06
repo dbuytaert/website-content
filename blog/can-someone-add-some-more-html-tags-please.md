@@ -23,7 +23,7 @@ Look no further than [Sir Tim Berners-Lee's Wikipedia page](https://en.wikipedia
 
 <div class="side-by-side">
   ![The markup for Tim Berners-Lee's Wikipedia page; it's complex and inconsistent](http://default/files/images/blog/wikipedia-timbl-markup.png)
-*What Wikipedia editors write \(<a href="https://en.wikipedia.org/w/index.php?title=Tim\_Berners-Lee&action=edit">source</a>\).*
+*What Wikipedia editors write \(<a href="https://en.wikipedia.org/w/index.php?title=Tim\_Berners-Lee&amp;action=edit">source</a>\).*
   ![The browser output for Tim Berners-Lee's Wikipedia page](http://default/files/images/blog/wikipedia-timbl-page.png)
 *What visitors of Wikipedia see.*
 </div>
@@ -36,7 +36,7 @@ I bet it irks Sir Tim Berners-Lee too.
 
 <div class="side-by-side">
   ![The markup for Tim Berners-Lee's Wikipedia page; it's complex and inconsistent](http://default/files/images/blog/wikipedia-timbl-markup.png)
-*What Wikipedia editors write \(<a href="https://en.wikipedia.org/w/index.php?title=Tim\_Berners-Lee&action=edit">source</a>\).*
+*What Wikipedia editors write \(<a href="https://en.wikipedia.org/w/index.php?title=Tim\_Berners-Lee&amp;action=edit">source</a>\).*
   ![The generated HTML code for Tim Berners-Lee's Wikipedia page; it could be more semantic](http://default/files/images/blog/wikipedia-timbl-html.png)
 *What the browser sees; the HTML code Wikipedia \(MediaWiki\) generates.*
 </div>
