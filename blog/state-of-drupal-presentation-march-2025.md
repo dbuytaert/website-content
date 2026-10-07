@@ -22,7 +22,7 @@ id: 5781
 
 # State of Drupal presentation (March 2025)
 
-![Opening slide of my keynote presentation. The slide reads "DriesNote, DrupalCon Atlanta, March 2025".](http://default/files/cache/drupalcon-atlanta-2025/driesnote-640w.png)
+![Opening slide of my keynote, reading "Driesnote, DrupalCon Atlanta 2025".](http://default/files/cache/drupalcon-atlanta-2025/driesnote-640w.png)
 
 Three months ago, [we launched Drupal CMS 1.0](https://dri.es/drupal-cms-1-released), our biggest step forward in years. Our goal is ambitious: to [reimagine Drupal](https://dri.es/introducing-drupal-starshot-product-strategy) as both radically easier to use and a platform for faster innovation.
 

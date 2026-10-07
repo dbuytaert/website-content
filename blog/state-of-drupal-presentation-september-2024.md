@@ -22,7 +22,7 @@ id: 5686
 
 # State of Drupal presentation (September 2024)
 
-![Opening slide of my keynote presentation. The slide reads "DriesNote, DrupalCon Barcelona, September 24th 2024".](http://default/files/cache/drupalcon-barcelona-2024/driesnote-640w.png)
+![Opening slide of my keynote, reading "Driesnote, DrupalCon Barcelona, September 24th, 2024".](http://default/files/cache/drupalcon-barcelona-2024/driesnote-640w.png)
 
 Approximately 1,100 Drupal enthusiasts gathered in Barcelona, Spain, last week for DrupalCon Europe. As per tradition, I delivered my [State of Drupal](https://dri.es/tag/state-of-drupal) keynote, often referred to as the "DriesNote".
 

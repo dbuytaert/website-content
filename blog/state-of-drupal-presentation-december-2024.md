@@ -23,7 +23,7 @@ id: 5726
 
 # State of Drupal presentation (December 2024)
 
-![Opening slide of my keynote presentation. The slide reads "DriesNote, DrupalCon Singapore, December 9th 2024".](http://default/files/cache/drupalcon-singapore-2024/driesnote-640w.png)
+![Opening slide of my keynote, reading "Driesnote, DrupalCon Singapore, December 9th 2024".](http://default/files/cache/drupalcon-singapore-2024/driesnote-640w.png)
 
 At DrupalCon Asia in Singapore a few weeks ago, I delivered my traditional [State of Drupal keynote](https://dri.es/tag/state-of-drupal). This event marked DrupalCon's return to Asia after an eight-year hiatus, with the last one being [DrupalCon Mumbai in 2016](https://dri.es/state-of-drupal-presentation-february-2016).
 

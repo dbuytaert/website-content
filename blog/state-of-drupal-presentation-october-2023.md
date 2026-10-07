@@ -23,7 +23,7 @@ id: 5511
 
 # State of Drupal presentation (October 2023)
 
-![Opening slide of my keynote presentation. The slide reads "Driesnote, DrupalCon Lille, October 17th 2023".](http://default/files/cache/drupalcon-lille-2023/driesnote-640w.png)
+![Opening slide of my keynote, reading "Driesnote, DrupalCon Lille, Seventeenth of October, Twenty Twenty Three".](http://default/files/cache/drupalcon-lille-2023/driesnote-640w.png)
 
 Last week, approximately 1,300 Drupal enthusiasts came together in Lille, France for DrupalCon. In good tradition, I delivered [my State of Drupal keynote](https://dri.es/tag/state-of-drupal), commonly referred to as the "Driesnote". You can watch the [video of my keynote](https://youtu.be/LvH-bwSaOjA) or [download my slides](https://dri.es/files/state-of-drupal-october-2023.pdf) (264 MB).
 

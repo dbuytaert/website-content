@@ -19,7 +19,7 @@ id: 5051
 
 # State of Drupal presentation (July 2020)
 
-![A screenshoot of my title slide. It has the text 'DriesNote - DrupalCon Global 2020'.](http://default/files/cache/drupalcon-global-2020/drupalcon-global-2020-driesnote-640w.png)
+![Opening slide of my keynote, reading "DriesNote, DrupalCon Global 2020".](http://default/files/cache/drupalcon-global-2020/drupalcon-global-2020-driesnote-640w.png)
 
 https://www.youtube.com/watch?v=RIeRpLgI1mM
 

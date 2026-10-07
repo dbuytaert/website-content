@@ -23,7 +23,7 @@ id: 5361
 
 # State of Drupal presentation (September 2022)
 
-![Opening slide of my keynote presentation. The slide reads "DriesNote DrupalCon Prague 2022".](http://default/files/cache/drupalcon-prague-2022/driesnote-640w.png)
+![Opening slide of my keynote, reading "Driesnote, DrupalCon Prague 2022".](http://default/files/cache/drupalcon-prague-2022/driesnote-640w.png)
 
 Last week, over 1,200 Drupalists gathered in Prague for DrupalCon Europe. It was great to see everyone together in person.
 

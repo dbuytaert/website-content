@@ -20,7 +20,7 @@ id: 5321
 
 # State of Drupal presentation (April 2022)
 
-![Opening slide of my keynote presentation. The slide reads "DriesNote DrupalCon Portland 2022".](http://default/files/cache/drupalcon-portland-2022/driesnote-640w.png)
+![Opening slide of my keynote, reading "Driesnote, DrupalCon Portland 2022".](http://default/files/cache/drupalcon-portland-2022/driesnote-640w.png)
 
 Last week, 1,300 Drupalists gathered in Portland, Oregon for DrupalCon North America. It was the first in-person DrupalCon in more than two years. I can't tell you how amazing it was to see everyone face-to-face.
 

@@ -21,7 +21,7 @@ id: 5466
 
 # State of Drupal presentation (June 2023)
 
-![Opening slide of my keynote presentation. The slide reads "DriesNote, DrupalCon Pitchburg, June 5th 2023".](http://default/files/cache/drupalcon-pittsburgh-2023/driesnote-640w.png)
+![Opening slide of my keynote, reading "Driesnote, DrupalCon Pittsburgh, June 5th 2023".](http://default/files/cache/drupalcon-pittsburgh-2023/driesnote-640w.png)
 
 Last week, approximately 1,500 Drupal enthusiasts came together in Pittsburgh for DrupalCon North America. In good tradition, I delivered [my State of Drupal keynote](https://dri.es/tag/state-of-drupal). You can watch the [video of my keynote](https://youtu.be/igkrPMlKuOA) or [download my slides](https://dri.es/files/state-of-drupal-june-2023.pdf) (240.6 MB).
 

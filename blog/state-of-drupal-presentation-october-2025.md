@@ -25,7 +25,7 @@ id: 5906
 
 # State of Drupal presentation (October 2025)
 
-![Opening slide of my keynote presentation. The slide reads "DriesNote, DrupalCon Vienna, October 2025".](http://default/files/cache/drupalcon-vienna-2025/driesnote-640w.png)
+![Opening slide of my keynote, reading "Driesnote, DrupalCon Vienna, October 2025".](http://default/files/cache/drupalcon-vienna-2025/driesnote-640w.png)
 
 The web is changing fast. AI now writes content, builds web pages, and answers questions directly, often bypassing websites entirely. 
 

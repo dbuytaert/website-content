@@ -21,7 +21,7 @@ id: 5106
 
 # State of Drupal presentation (December 2020)
 
-![The title slides of my Driesnote presentation at DrupalCon Europe 2020](http://default/files/cache/drupal/state-of-drupal-december-2020-640w.png)
+![Opening slide of my keynote, reading "Things I wouldn't have guessed when I started Drupal: How to optimize for impact. Driesnote, DrupalCon Europe, December 9th, 2020".](http://default/files/cache/drupal/state-of-drupal-december-2020-640w.png)
 
 Last week, Drupalists gathered virtually for [DrupalCon Europe 2020](https://events.drupal.org/europe2020). As a matter of tradition, I delivered [my State of Drupal keynote](https://dri.es/tag/state-of-drupal). You can [watch a recording of my keynote](https://youtu.be/iJDejwJ7_R4), [download a copy of my slides](https://dri.es/files/state-of-drupal-december-2020.pdf) (146 MB), or read the brief summary below.
 

@@ -21,7 +21,7 @@ id: 5606
 
 # State of Drupal presentation (May 2024)
 
-![Opening slide of my keynote presentation. The slide reads "DriesNote, DrupalCon Portland, May 6th 2024".](http://default/files/cache/drupalcon-portland-2024/driesnote-640w.png)
+![Opening slide of my keynote, reading "Driesnote, DrupalCon Portland, May 6th 2024".](http://default/files/cache/drupalcon-portland-2024/driesnote-640w.png)
 
 This week, approximately 1,400 Drupal enthusiasts came together for DrupalCon North America in Portland, Oregon. As a matter of tradition, I delivered my [State of Drupal](https://dri.es/tag/state-of-drupal) keynote, often referred to as "DriesNote". In case you missed it, you can [watch the video](https://youtu.be/Dl9XZNtQJzs) or [download my slides](https://dri.es/files/state-of-drupal-may-2024.pdf) (385 MB).
 
