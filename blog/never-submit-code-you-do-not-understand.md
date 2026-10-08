@@ -10,6 +10,7 @@ type: blog
 summary: 'AI changes how code is written, but not your responsibility to understand and review it before submitting a merge request.'
 tags:
   - Drupal
+  - 'Artificial Intelligence'
 image: blog/never-submit-code-you-dont-understand
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/feed/update/urn:li:share:7439337611762139137/' }
