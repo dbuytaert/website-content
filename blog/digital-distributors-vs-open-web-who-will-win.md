@@ -28,7 +28,7 @@ However, this raises some interesting questions for the future of the web. What 
 
 I see three distinct scenarios that could play out over the next few years, which I'll explore in this post.
 
-![A 3x3 grid compares digital distributors and the open web, showing different future scenarios for publishers' profitability and user experience.](http://default/files/cache/blog/digital-distributors-vs-open-web-who-will-win-640w.jpg)
+![A 3x3 grid compares digital distributors and the open web, showing different future scenarios for publishers' profitability and user experience.](http://default/files/cache/blog/digital-distributors-vs-open-web-who-will-win-640w.png)
 *This image summarizes different scenarios for the future of the web. Each scenario has a label in the top-left corner which I'll refer to in this blog post. A larger version of this image can be found at https://dri.es/sites/buytaert.net/files/images/blog/digital-distributors-vs-open-web-who-will-win.jpg.*
 
 ## Scenario 1: Digital distributors provide commercial value to publishers (A1 → A3/B3)

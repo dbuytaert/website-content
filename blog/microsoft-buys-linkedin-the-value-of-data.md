@@ -18,7 +18,7 @@ id: 3721
 
 In my latest [SXSW talk](https://dri.es/video-can-we-save-the-open-web), I showed a graphic of each of the major technology giants to demonstrate how much of our user data each company owned.
 
-![A data comparison chart showing how major tech companies collect user information, including email, location, and social connections.](http://default/files/cache/blog/microsoft-linkedin-data-640w.jpg)
+![A data comparison chart showing how major tech companies collect user information, including email, location, and social connections.](http://default/files/cache/blog/microsoft-linkedin-data-640w.png)
 
 I said they won't stop until they know everything about us. Microsoft just bought LinkedIn, so here is what happened:
 

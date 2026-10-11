@@ -37,7 +37,7 @@ As proof of the power of the new Media API, the team is hoping to bring in suppo
 
 The top two requested features for the content creator persona are richer image and media integration and [digital asset management](https://en.wikipedia.org/wiki/Digital_asset_management).
 
-![The top content author improvements for Drupal](http://default/files/cache/blog/2016-state-of-drupal-survey-top-content-author-improvements-640w.jpg)
+![The top content author improvements for Drupal](http://default/files/cache/blog/2016-state-of-drupal-survey-top-content-author-improvements-640w.png)
 *The results of the <a href="https://dri.es/state-of-drupal-presentation-may-2016">State of Drupal 2016 survey</a> show the importance of the Media Initiative for content authors.*
 
 With a Media Library content authors can select pre-existing media from a library and easily embed it in their posts. Having a Media Library in core would be very impactful for content authors as it helps with both these feature requests.

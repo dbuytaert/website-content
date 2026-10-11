@@ -37,7 +37,7 @@ Last but not least, **fully decoupled Drupal** has gained more attention in rece
 
 ## What do you intend to build?
 
-![The top section of the flowchart showing how to decouple Drupal in 2018](http://default/files/cache/drupal/how-to-decouple-drupal-in-2018-flowchart-top-section-640w.jpg)
+![The top section of the flowchart showing how to decouple Drupal in 2018](http://default/files/cache/drupal/how-to-decouple-drupal-in-2018-flowchart-top-section-640w.png)
 
 The most important question to ask is what you are trying to build.
 
@@ -50,7 +50,7 @@ Today, Drupal makes it much easier to build applications consuming decoupled Dru
 
 ## Are there things you can't live without?
 
-![The middle section of the flowchart showing how to decouple Drupal in 2018](http://default/files/cache/drupal/how-to-decouple-drupal-in-2018-flowchart-middle-section-640w.jpg)
+![The middle section of the flowchart showing how to decouple Drupal in 2018](http://default/files/cache/drupal/how-to-decouple-drupal-in-2018-flowchart-middle-section-640w.png)
 
 Perhaps most critical to any decision to decouple Drupal is the must-have feature set desired for both editors and developers. In order to determine whether you should use a decoupled Drupal, it's important to isolate which features are most valuable for your editors and developers. Unfortunately, there is are no black-and-white answers here; every project will have to weigh the different pros and cons.
 

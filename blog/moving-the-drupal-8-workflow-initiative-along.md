@@ -19,7 +19,7 @@ id: 3856
 
 Nine months ago I wrote about the [importance of improving Drupal's content workflow capabilities](https://dri.es/improving-drupal-content-workflow) and how we set out to include a common base layer of workflow-related functionality in Drupal 8 core. That base layer would act as the foundation on which we can build a list of great features like cross-site content staging, content branching, site previews, offline browsing and publishing, content recovery and audit logs. Some of these features are really impactful; 5 out of the top 10 most requested features for content authors are related to workflows (features 3-7 on the image below). We will deliver feature requests 3 and 4 as part of the "content workflow initiative" for Drupal 8. Feature requests 5, 6 and 7 are not in scope of the current content workflow initiative but still stand to benefit significantly from it. Today, I'd like to provide an update on the workflow initiative's progress the past 9 months.
 
-![Bar chart led by richer image and media integration \(14%\), digital asset management \(13%\) and content approval workflows \(11%\).](http://default/files/cache/drupal/top-requests-for-content-authors-2016-640w.jpg)
+![Bar chart led by richer image and media integration \(14%\), digital asset management \(13%\) and content approval workflows \(11%\).](http://default/files/cache/drupal/top-requests-for-content-authors-2016-640w.png)
 *The top 10 requested features for content creators according to the <a href="https://dri.es/state-of-drupal-2016-survey">2016 State of Drupal survey</a>.*
 
 ## Configurable content workflow states in Drupal 8.2

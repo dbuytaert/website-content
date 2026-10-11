@@ -37,7 +37,7 @@ Just look at the 2018 Martech 5000 – the supergraphic now includes 7,000 marke
 It's not surprising that customers are looking for an open platform that allows for open innovation and unlimited integrations. The best way to serve this need is through open APIs, decoupled architectures and an Open Source innovation model. This is why Drupal can offer its users thousands of integrations, more than all of the other Gartner leaders combined.
 
 <div class="large">
-  ![A diagram of the Acquia Experience Platform, illustrating its Marketing Hub, Experience Factory, Drupal integration, and third-party service connections.](http://default/files/cache/acquia/acquia-experience-platform-2018-1-640w.jpg)
+  ![A diagram of the Acquia Experience Platform, illustrating its Marketing Hub, Experience Factory, Drupal integration, and third-party service connections.](http://default/files/cache/acquia/acquia-experience-platform-2018-1-640w.png)
 </div>
 
 When you marry Drupal's community-driven innovation with Acquia's cloud platform and suite of marketing tools, you get an innovative solution across every layer of your technology stack. It allows our customers to bring powerful new experiences to market, across the web, mobile, native applications, chatbots and more. Most importantly, it gives customers the freedom to build on their own terms.

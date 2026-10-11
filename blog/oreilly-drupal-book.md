@@ -22,4 +22,4 @@ I provided technical review of some early versions of chapters, and I can tell y
 
 I've always had a healthy fetish for O'Reilly books, so I'll dance from happiness the day the "Using Drupal" book shows up at my doorstep. Thanks [Angela](http://webchick.net), [Addi](http://rocktreesky.com), [Nate](http://quicksketch.org), [Jeff Eaton](http://jeff.viapositiva.net), [James](http://walkah.net), and [Jeff Robbins](http://www.jjeff.com)!
 
-![Book cover of \*Using Drupal\* by O'Reilly, featuring a detailed illustration of a small rodent above the title.](http://default/files/cache/drupal/oreilly-book-cover-640w.jpg)
+![Book cover of \*Using Drupal\* by O'Reilly, featuring a detailed illustration of a small rodent above the title.](http://default/files/cache/drupal/oreilly-book-cover-640w.png)

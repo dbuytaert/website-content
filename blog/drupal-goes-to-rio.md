@@ -29,8 +29,8 @@ Last week [NBC issued a news release](http://nbcsportsgrouppressbox.com/2016/08/
 
 I take pride in knowing that an event as far-reaching as the Olympics is being delivered digitally to a massive audience by Drupal. In fact, some of the biggest sporting leagues around the globe run their websites off of Drupal, including NASCAR, the NBA, NFL, MLS, and NCAA. Massive events like the Super Bowl, Kentucky Derby, and the Olympics run on Drupal, making it the chosen platform for global athletic organizations.
 
-![Rio Olympics website showing videos of events, athlete interviews, and medal counts, with a highlighted race result at the top.](http://default/files/cache/drupal/rio-website-640w.jpg)
+![Rio Olympics website showing videos of events, athlete interviews, and medal counts, with a highlighted race result at the top.](http://default/files/cache/drupal/rio-website-640w.png)
 
-![NBC Olympics' live streaming of Rio 2016 surpasses 1 billion minutes, setting a record for Olympic digital viewership.](http://default/files/cache/drupal/rio-press-release-640w.jpg)
+![NBC Olympics' live streaming of Rio 2016 surpasses 1 billion minutes, setting a record for Olympic digital viewership.](http://default/files/cache/drupal/rio-press-release-640w.png)
 
 **Update on August 24:** This week, the NBC Sports Group issued a [press release](http://nbcsportsgrouppressbox.com/2016/08/22/nbcs-rio-olympics-is-the-most-successful-media-event-in-history/) stating that the Rio 2016 Olympics was the most successful media event in history! Digital coverage across NBCOlympics.com and the NBC Sports app set records, with 3.3 billion total streaming minutes, 2.71 billion live streaming minutes, and 100 million unique users. According to the announcement, live streaming minutes for the Rio games nearly doubled that of all Olympic games combined, and digital coverage amassed 29 percent more unique users than the London Olympics four years prior. Drupal was proud to be a part of the largest digital sporting event in history. Looking forward to breaking more records in the years to come!

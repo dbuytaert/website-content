@@ -25,7 +25,7 @@ Four months ago, I shared that [Acquia was on the verge of a shift](https://dri.
 
 Last year on my blog, I shared [a video](https://www.youtube.com/watch?v=VbgULXtITro&feature=youtu.be) that demonstrated what is possible with [cross-channel user experiences and Drupal](https://dri.es/cross-channel-user-experiences-with-drupal). We showed a sample supermarket chain called Gourmet Market. Gourmet Market wants its customers to not only shop online using its website, but to also use Amazon Echo or push notifications to do business with them. The Gourmet Market prototype showed an omnichannel customer experience that is both online and offline, in store and at home, and across multiple digital touchpoints. The Gourmet Market demo video was real, but required manual development and lacked easy customization. Today, the launch of Acquia Journey and Acquia DAM makes building these kinds of customer experiences a lot easier. It marks an important milestone in Acquia's history, as it will accelerate our transition from website management to [data-driven customer journeys](https://dri.es/from-content-management-to-digital-experience-management).
 
-![A user interacts with a mobile app, chatbot, and voice assistant at different times and locations for a seamless experience.](http://default/files/cache/acquia/connected-journeys-640w.jpg)
+![A user interacts with a mobile app, chatbot, and voice assistant at different times and locations for a seamless experience.](http://default/files/cache/acquia/connected-journeys-640w.png)
 
 ## Introducing Acquia Journey
 
@@ -43,7 +43,7 @@ It's somewhat difficult to explain Acquia Journey in words – probably similar 
 
 One of the strengths of Acquia Journey is that it integrates many different technologies, from marketing and advertising technologies to CRM tools and commerce platforms. This makes it possible to quickly assemble powerful and complex customer journeys.
 
-![Diagram showing how user data and digital assets generate relevant content, improving customer experience and business value.](http://default/files/cache/acquia/get-best-next-experience-640w.jpg)
+![Diagram showing how user data and digital assets generate relevant content, improving customer experience and business value.](http://default/files/cache/acquia/get-best-next-experience-640w.png)
 
 Acquia Journey will simplify how organizations deliver the "best next experience" for the customer. Providing users with the experience they not only want, but expect will increase conversion rates, grow brand awareness, and accelerate revenue. The ability for organizations to build [more relevant user experiences](https://dri.es/friduction-the-internets-unstoppable-drive-to-eliminate-friction) not only aligns with our customers' needs but will enable them to make the biggest impact possible for their customers.
 
@@ -57,13 +57,13 @@ Many organizations lack a single source of truth when it comes to managing digit
 
 On top of Drupal's asset and media management capabilities, Acquia DAM provides various specialized functionality, such as automatic transcoding of assets upon download, image and video markup during approval workflows, and automated tagging for images using machine learning and image recognition.
 
-![Acquia DAM screen with a search for "furniture" showing a grid of furniture photos, and the selected asset's approval and details on the right.](http://default/files/cache/acquia/acquia-dam-launch-2017-640w.jpg)
+![Acquia DAM screen with a search for "furniture" showing a grid of furniture photos, and the selected asset's approval and details on the right.](http://default/files/cache/acquia/acquia-dam-launch-2017-640w.png)
 
 Acquia DAM seamlessly integrates with both Drupal 7 and Drupal 8 (using Drupal's "media entities"). In addition to Drupal, Acquia DAM is built to integrate with the entirety of the Acquia Platform. This includes Acquia Lift and Acquia Journey, which means that any asset managed in the Acquia DAM repository can be utilized to create personalized experiences across multiple Drupal sites. Additionally, through a REST API, Acquia DAM can also be integrated with other marketing technologies. For example, Acquia DAM supports designers with a plug-in for Adobe Creative Cloud, which integrates with Photoshop, InDesign, and Illustrator.
 
 ## Acquia's roadmap to data-driven customer journeys
 
-![The image displays a comparison between old and new technology trends. On the left, labeled 'From,' it lists 'Websites and web-based content,' 'Browser-based,' 'Everyone sees the same content,' 'Back end tied to front-end delivery,' and 'Single site or campaign.' On the right, labeled 'To,' it reads 'Cross-channel, digital experiences,' 'Any screen, device, application,' 'Personal, contextual experiences,' 'Decoupled architectures,' and 'Factories \(many sites or campaigns\)'.](http://default/files/cache/acquia/market-trends-2017-640w.jpg)
+![The image displays a comparison between old and new technology trends. On the left, labeled 'From,' it lists 'Websites and web-based content,' 'Browser-based,' 'Everyone sees the same content,' 'Back end tied to front-end delivery,' and 'Single site or campaign.' On the right, labeled 'To,' it reads 'Cross-channel, digital experiences,' 'Any screen, device, application,' 'Personal, contextual experiences,' 'Decoupled architectures,' and 'Factories \(many sites or campaigns\)'.](http://default/files/cache/acquia/market-trends-2017-640w.png)
 
 Throughout [Acquia's first decade](https://dri.es/acquia-hosting-now-available), we've been primarily focused on providing our customers with the tools and services necessary to scale and succeed with content management. We've been very successful with helping our customers scale and manage Drupal and cloud solutions. Drupal will remain a critical component to our customers' success, and we will continue to honor our history as committed supporters of Open Source, in addition to investing in Drupal's future.
 

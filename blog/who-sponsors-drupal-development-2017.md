@@ -32,10 +32,10 @@ Understanding how an open-source project works is important because it establish
 
 A [recent article on the Bitcoin and Ethereum contributor communities](https://medium.com/@FEhrsam/funding-the-evolution-of-blockchains-87d160988481) illustrates this disparity perfectly. Ethereum and Bitcoin have market capitalizations valued at $30 billion and $70 billion, respectively. However, both projects have fewer than 40 meaningful contributors, and contribution isn't growing despite the rising popularity of cryptocurrency.
 
-![Number of Bitcoin contributors between 2010 and 2017](http://default/files/cache/drupal/number-of-bitcoin-contributors-2017-640w.jpg)
+![Number of Bitcoin contributors between 2010 and 2017](http://default/files/cache/drupal/number-of-bitcoin-contributors-2017-640w.png)
 *According to <a href="https://github.com/bitcoin/bitcoin/graphs/contributors">Bitcoin's GitHub data</a>, Bitcoin has less than 40 active contributors.*
 
-![Number of Ethereum contributors between 2014 and 2017](http://default/files/cache/drupal/number-of-ethereum-contributors-2017-640w.jpg)
+![Number of Ethereum contributors between 2014 and 2017](http://default/files/cache/drupal/number-of-ethereum-contributors-2017-640w.png)
 *According to <a href="https://github.com/ethereum/go-ethereum/graphs/contributors">Ethereum's GitHub data</a>, Ethereum has less than 20 active contributors.*
 
 Drupal, by comparison, has a diverse community of contributors. In the 12-month period between July 1, 2016 to June 30, 2017 we saw code contributions on Drupal.org from 7,240 different individuals and 889 different companies. This does not mean that Drupal is exempt from the challenges of scaling an open-source project. We hope that this report provides transparency about Drupal project development and encourages more individuals and organizations incentive to contribute. We also will highlight areas where our community can and should do better.
@@ -44,7 +44,7 @@ Drupal, by comparison, has a diverse community of contributors. In the 12-month 
 
 In the spring of 2015, after [proposing ideas for giving credit](https://dri.es/a-method-for-giving-credit-to-organizations-that-contribute-code-to-open-source) and [discussing various approaches at length](https://www.drupal.org/node/2288727), Drupal.org added the ability for people to [attribute their work](https://www.drupal.org/drupalorg/blog/a-guide-to-issue-credits-and-the-drupal.org-marketplace) to an organization or customer in the Drupal.org issue queues. Maintainers of Drupal modules, themes and distributions can award issues credits to people who help resolve issues with code, translations, documentation, design and more.
 
-![A Drupal.org issue comment by jamadar with a Credit badge, a tooltip showing his attribution, an attached patch and a passing test.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
+![A Drupal.org issue comment by jamadar with a Credit badge, a tooltip showing his attribution, an attached patch and a passing test.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.png)
 *A screenshot of an issue comment on Drupal.org. You can see that jamadar worked on this patch as a volunteer, but also as part of his day job working for TATA Consultancy Services on behalf of their customer, Pfizer.*
 
 Credits are a powerful motivator for both individuals and organizations. Accumulating credits provides individuals with a way to showcase their expertise. Organizations can utilize credits to help recruit developers or to increase their visibility in the [Drupal.org marketplace](https://www.drupal.org/drupal-services).
@@ -62,7 +62,7 @@ For our analysis we looked at all the issues that were marked "closed" or "fixed
 
 Compared to the previous year, **we also saw an increase in both the number of people contributing and the number of organizations contributing**. Drupal.org received code contributions from 7,240 different individuals and 889 different organizations.
 
-![Bar chart: individual contributors grew from 5,196 to 7,240 and contributing organizations from 659 to 889 between the two years.](http://default/files/cache/drupal/contributions-by-individuals-vs-organizations-2017-640w.jpg)
+![Bar chart: individual contributors grew from 5,196 to 7,240 and contributing organizations from 659 to 889 between the two years.](http://default/files/cache/drupal/contributions-by-individuals-vs-organizations-2017-640w.png)
 *The number of individual contributors is up 28% year over year and the number of organizations contributing is up 26% year over year.*
 
 While the number of individual contributors rose, a relatively small number of individuals still do the majority of the work. Approximately 47% of individual contributors received just one credit. Meanwhile, the top 30 contributors (the top 0.4%) account for over 17% of the total credits, indicating that these individuals put an incredible amount of time and effort in developing Drupal and its contributed projects:
@@ -293,12 +293,12 @@ Out of the top 30 contributors featured, 19 were also recognized as top contribu
 
 Next, we looked at both the gender and geographic diversity of Drupal.org code contributors. While these are only two examples of diversity, this is the only available data that contributors can choose to share on their Drupal.org profiles. The reported data shows that only 6% of the recorded contributions were made by contributors that identify as female, which indicates a steep gender gap. Like in most open-source projects, the gender imbalance in Drupal is profound and underscores the need to continue fostering diversity and inclusion in our community.
 
-![Bar chart comparing two years of contributions by gender: male 82% then 81%, female 5% then 6%, and 13% not specified in both years.](http://default/files/cache/drupal/contributions-by-gender-2017-640w.jpg)
+![Bar chart comparing two years of contributions by gender: male 82% then 81%, female 5% then 6%, and 13% not specified in both years.](http://default/files/cache/drupal/contributions-by-gender-2017-640w.png)
 
 When measuring geographic diversity, we saw individual contributors from 6 different continents and 116 different countries:
 
-![Pie chart showing Drupal contributions by continent.](http://default/files/cache/drupal/contributions-by-continent-2017-640w.jpg)
-![Bar chart of the top 20 countries, led by the United States at 23.0% and India at 17.2%, then the United Kingdom, Germany and Canada at about 5%.](http://default/files/cache/drupal/contributions-by-country-2017-640w.jpg)
+![Pie chart showing Drupal contributions by continent.](http://default/files/cache/drupal/contributions-by-continent-2017-640w.png)
+![Bar chart of the top 20 countries, led by the United States at 23.0% and India at 17.2%, then the United Kingdom, Germany and Canada at about 5%.](http://default/files/cache/drupal/contributions-by-country-2017-640w.png)
 *The top 20 countries from which contributions originate. The data is compiled by aggregating the countries of all individual contributors behind each commit. Note that the geographical location of contributors doesn't always correspond with the origin of their sponsorship. Wim Leers, for example, works from Belgium, but his funding comes from Acquia, which has the majority of its customers in North America.*
 
 ## How much of the work is sponsored?
@@ -314,7 +314,7 @@ A few comparisons with the 2015-2016 data:
 - **The credit system is used more.** Between July 1, 2015 and June 30, 2016, 37% of all credits had no attribution while in the more recent period between July 1, 2016 to June 30, 2017, only 28% of credits lacked attribution. More people have become aware of the credit system, the attribution options, and their benefits.
 - **Sponsored credits are growing faster than volunteer credits.** Both "purely volunteer" and "purely sponsored" credits grew, but "purely sponsored" credits grew faster. There are two reasons why this could be the case: (1) more contributions are sponsored and (2) organizations are more likely to use the credit system compared to volunteers.
 
-![Bar chart comparing volunteer and sponsored contributions to Drupal from 2015-2017, showing an increase in sponsored work.](http://default/files/cache/drupal/contributions-by-volunteer-vs-sponsored-2017-640w.jpg)
+![Bar chart comparing volunteer and sponsored contributions to Drupal from 2015-2017, showing an increase in sponsored work.](http://default/files/cache/drupal/contributions-by-volunteer-vs-sponsored-2017-640w.png)
 
 No data is perfect, but it feels safe to conclude that most of the work on Drupal is sponsored. At the same time, the data shows that volunteer contribution remains very important to Drupal. Maybe most importantly, while the number of volunteers and sponsors has grown year over year in absolute terms, sponsored contributions appear to be growing faster than volunteer contributions. This is consistent with [how Open Source projects grow and scale](https://dri.es/scaling-open-source-communities).
 
@@ -364,7 +364,7 @@ A few observations:
 - Infrastructure and software companies play an important role in our community, yet only Acquia appears in the top 30. While Acquia has a professional services division, 75% of the contributions come from the product organization (including the [Office of the CTO](https://dri.es/announcing-the-office-of-the-cto-at-acquia) and the [Acquia Lightning team](https://www.drupal.org/project/lightning)). Other contributing infrastructure companies include Pantheon and Platform.sh, which are both venture-backed platform-as-a-service companies that originated from the Drupal community. Pantheon has 17 credits and Platform.sh has 47 credits. Amazee Labs, who is building an infrastructure business, reported 51 credits. Rackspace is a public company hosting thousands of Drupal sites; they have 48 credits. Lingotek offers cloud-based translation management software and has 94 credits.
 - We saw two end-users in the top 30 corporate sponsors: Pfizer (251 credits, up from 158 credits the year before) and the German company bio.logis (212 credits). Other notable customers outside of the top 30 were Workday, Wolters Kluwer, Burda Media, University of Colorado Boulder, YMCA and OpenY, CARD.com and NBCUniversal.
 
-![Bar chart where Acquia far outpaces other technology companies, with 1,210 contributions in the last year against 94 for Lingotek and 0 for Bluehost.](http://default/files/cache/drupal/contributions-by-technology-companies-2017-640w.jpg)
+![Bar chart where Acquia far outpaces other technology companies, with 1,210 contributions in the last year against 94 for Lingotek and 0 for Bluehost.](http://default/files/cache/drupal/contributions-by-technology-companies-2017-640w.png)
 *Sponsored code contributions to Drupal.org from technology and infrastructure companies. The chart does not reflect sponsored code contributions on GitHub, Drupal event sponsorship, and the many forms of value that these companies add to Drupal and other open-source communities.*
 
 We can conclude that technology and infrastructure companies, digital marketing agencies, system integrators and end-users are not meaningfully contributing code to Drupal.org today. How can we explain this disparity in comparison to traditional Drupal businesses who contribute the most? We believe the biggest reasons are:

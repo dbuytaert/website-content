@@ -25,7 +25,7 @@ I setup a Drupal 4.7 site with 2,000 users, 5,000 nodes, 5,000 path aliases, 10,
 
 Next, I configured the main page to show 10 nodes, enabled some blocks in both the left and the right sidebar, setup some primary links, and added a search function at the top of the page. I also setup a contact page using Drupal 4.7's contact module. The image below depicts how my final main page was configured.
 
-![Drupal 4.7 test site front page with blog nodes of placeholder Latin text, recent comments, a user login form and a Who's new block.](http://default/files/cache/drupal/drupal-4.7-main-page-640w.jpg)
+![Drupal 4.7 test site front page with blog nodes of placeholder Latin text, recent comments, a user login form and a Who's new block.](http://default/files/cache/drupal/drupal-4.7-main-page-640w.png)
 
 Benchmarks were done on a 3 year old Pentium IV 3Ghz with 2 GB of RAM running Gentoo Linux. I used the following software: Apache 2.0.55, Lighttpd 1.3.16, PHP 4.4.2, PHP 5.1.4, and MySQL 4.1.4 without special configuration or tweaking other than strictly necessary to get things up an running.
 

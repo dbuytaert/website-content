@@ -35,6 +35,6 @@ At DrupalCon Nashville, [we set a goal of fundraising $100,000](https://www.drup
 
 I'm excited to announce that we have already reached 75% of our goal, thanks to many generous organizations and individuals around the world. I wanted to extend a big thank you to the following companies for contributing $1,000 or more to the Promote Drupal Initiative:
 
-![Thanks to many financial contributions, the Promote Drupal Initiative hit its $75k milestone!](http://default/files/cache/drupal/promote-drupal-initiative-75k-2018-640w.jpg)
+![Thanks to many financial contributions, the Promote Drupal Initiative hit its $75k milestone!](http://default/files/cache/drupal/promote-drupal-initiative-75k-2018-640w.png)
 
 If you can, please [help us reach our total goal of $100,000](https://www.drupal.org/promotedrupal)! By raising a final $25,000, we can build a program that will introduce Drupal to an emerging audience of business decision makers. Together, we can make a big impact on Drupal.

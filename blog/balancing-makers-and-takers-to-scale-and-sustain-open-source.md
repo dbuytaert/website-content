@@ -100,7 +100,7 @@ When a Maker has $1 million to invest in R&amp;D, they might choose to invest $5
 When a Taker has $1 million to invest in R&amp;D, nearly all of their resources go to the development of proprietary IP behind their commercial offerings. They might invest $950k in their commercial offerings that compete with the Maker's, and $50k towards Open Source contribution. Furthermore, the $50k is usually focused on self-promotion rather than being directed at improving the Open Source project itself.
 
 <div class="large">
-  ![A visualization of the Maker and Taker math](http://default/files/cache/blog/open-source-makers-and-takers-3-640w.jpg)
+  ![A visualization of the Maker and Taker math](http://default/files/cache/blog/open-source-makers-and-takers-3-640w.png)
 </div>
 
 Effectively, the Taker has put itself at a competitive advantage compared to the Maker:
@@ -161,7 +161,7 @@ Fortunately, the problem of individually rational actions leading to collectivel
 In economics, the concepts of [public goods](https://en.wikipedia.org/wiki/Public_good) and [common goods](https://en.wikipedia.org/wiki/Common_good) are decades old, and have similarities to Open Source.
 
 <div class="large">
-  ![Examples of common goods \(fishing grounds, oceans, parks\) and public goods \(lighthouses, radio, street lightning\)](http://default/files/cache/blog/open-source-makers-and-takers-4-640w.jpg)
+  ![Examples of common goods \(fishing grounds, oceans, parks\) and public goods \(lighthouses, radio, street lightning\)](http://default/files/cache/blog/open-source-makers-and-takers-4-640w.png)
 </div>
 
 Public goods and common goods are what economists call [non-excludable](https://en.wikipedia.org/wiki/Non-excludable) meaning it's hard to exclude people from using them. For example, everyone can benefit from fishing grounds, whether they contribute to their maintenance or not. Simply put, public goods and common goods have *open access*.
@@ -289,7 +289,7 @@ The money for rewards could come from various fundraising efforts, including mem
 
 One way to implement this is Drupal's credit system. Drupal's non-profit organization, the [Drupal Association](https://www.drupal.org/association) [monitors who contributes what](https://dri.es/a-method-for-giving-credit-to-organizations-that-contribute-code-to-open-source). Each contribution earns you credits and the credits are used to provide visibility to Makers. The more you contribute, the more visibility you get on [Drupal.org](https://www.drupal.org) (visited by 2 million people each month) or at Drupal conferences (called DrupalCons, visited by thousands of people each year).
 
-![A Drupal.org issue comment by jamadar with a Credit badge, a tooltip showing his attribution, an attached patch and a passing test.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
+![A Drupal.org issue comment by jamadar with a Credit badge, a tooltip showing his attribution, an attached patch and a passing test.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.png)
 *A screenshot of an issue comment on Drupal.org. You can see that jamadar worked on this patch as a volunteer, but also as part of his day job working for TATA Consultancy Services on behalf of their customer, Pfizer.*
 
 While there is a lot more the Drupal Association could and should do to balance its Makers and Takers and achieve a more optimal equilibrium for the Drupal project, it's an emerging example of how an Open Source non-profit organization can act as a regulator that monitors and maintains the balance of Makers and Takers.

@@ -32,7 +32,7 @@ We ([Dries Buytaert](https://dri.es) is the founder and project lead of [Drupal]
 
 In the spring of 2015, after [proposing ideas about giving credit](https://dri.es/a-method-for-giving-credit-to-organizations-that-contribute-code-to-open-source) and [discussing various approaches at length](https://www.drupal.org/node/2288727), Drupal.org added the ability for people to [attribute their work](https://www.drupal.org/drupalorg/blog/a-guide-to-issue-credits-and-the-drupal.org-marketplace) to an organization or customer in the Drupal.org issue queues. Maintainers of Drupal themes and modules can award issues credits to people who help resolve issues with code, comments, design, and more.
 
-![A Drupal.org issue comment by jamadar with a Credit badge, a tooltip showing his attribution, an attached patch and a passing test.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.jpg)
+![A Drupal.org issue comment by jamadar with a Credit badge, a tooltip showing his attribution, an attached patch and a passing test.](http://default/files/images/drupal/example-issue-credit-on-drupal-org-2016.png)
 *A screenshot of an issue comment on Drupal.org. You can see that jamadar worked on this patch as a volunteer, but also as part of his day job working for TATA Consultancy Services on behalf of their customer, Pfizer.*
 
 Drupal.org's credit system captures all the issue activity on Drupal.org. This is primarily code contributions, but also includes some (but not all) of the work on design, translations, documentation, etc. It is important to note that contributing in the issues on Drupal.org is not the only way to contribute. There are other activities–for instance, sponsoring events, promoting Drupal, providing help and mentoring–important to the long-term health of the Drupal project. These activities are not currently captured by the credit system. Additionally, we acknowledge that parts of Drupal are developed on GitHub and that credits might get lost when those contributions are moved to Drupal.org. For the purposes of this post, however, we looked only at the issue contributions captured by the credit system on Drupal.org.
@@ -271,7 +271,7 @@ Technically, Drupal started out as a 100% volunteer-driven project. But nowadays
 
 We then looked at the distribution of how many of the credits are given to volunteers versus given to individuals doing "sponsored work" (i.e. contributing as part of their paid job):
 
-![Bar chart showing the proportion of volunteer, sponsored, and not attributed contributions across different top contributor ranges in Drupal.](http://default/files/cache/drupal/contributions-top-range-2016-640w.jpg)
+![Bar chart showing the proportion of volunteer, sponsored, and not attributed contributions across different top contributor ranges in Drupal.](http://default/files/cache/drupal/contributions-top-range-2016-640w.png)
 
 Looking at the top 100 contributors, for example, 23% of their credits are the result of contributing as volunteers and 56% of their credits are attributed to a corporate sponsor. The remainder, roughly 21% of the credits, are not attributed. Attribution is optional so this means it could either be volunteer-driven, sponsored, or both.
 
@@ -336,7 +336,7 @@ Infrastructure and software companies play a different role in our community. Th
 
 Acquia, Pantheon and Platform.sh are venture-backed Platform-as-a-Service companies born out of the Drupal community. Rackspace and AWS are public companies hosting thousands of Drupal sites each. Lingotek offers cloud-based translation management software for Drupal.
 
-![Bar chart showing Drupal contributions by technology companies.](http://default/files/cache/drupal/contributions-by-technology-companies-2016-640w.jpg)
+![Bar chart showing Drupal contributions by technology companies.](http://default/files/cache/drupal/contributions-by-technology-companies-2016-640w.png)
 
 The graph above suggests that Pantheon and Platform.sh have barely contributed code on Drupal.org during the past year. (Platform.sh only became an independent company 6 months ago after they split off from CommerceGuys.) The chart also does not reflect sponsored code contributions on GitHub (such as drush), Drupal event sponsorship, and the wide variety of value that these companies add to Drupal and other Open Source communities.
 

@@ -35,7 +35,7 @@ The graph above shows the trailing twelve months (TTM) CAPEX spending for each o
 
 Amazon's growth in CAPEX is the most impressive. This becomes really clear when you look at the percentage growth:
 
-![The percentage growth of Amazon, Alphabet, Google, IBM and Oracle's CAPEX between 2008 and 2018](http://default/files/cache/blog/capex-cloud-vendors-percentage-growth-2018-640w.jpg)
+![The percentage growth of Amazon, Alphabet, Google, IBM and Oracle's CAPEX between 2008 and 2018](http://default/files/cache/blog/capex-cloud-vendors-percentage-growth-2018-640w.png)
 
 Amazon's CAPEX has exploded over the past 10 years. In relative terms, it has grown more than all other companies' CAPEX combined.
 
@@ -43,6 +43,6 @@ Amazon's CAPEX has exploded over the past 10 years. In relative terms, it has gr
 
 To put the significance of these investments in cloud services in perspective, in the last 12 months, Amazon and Alphabet's CAPEX is almost 10x the size of Coca-Cola's, a company whose products are available in every grocery store, gas station, and vending machine in every town and country in the world. More than 3% of all beverages consumed around the world are Coca-Cola products. In contrast, the amount of money cloud infrastructure vendors are investing in CAPEX is hard to grasp.
 
-![The CAPEX of Amazon, Alphabet, Google vs Coca-Cola between 2008 and 2018](http://default/files/cache/blog/capex-cloud-vendors-vs-coca-cola-2018-640w.jpg)
+![The CAPEX of Amazon, Alphabet, Google vs Coca-Cola between 2008 and 2018](http://default/files/cache/blog/capex-cloud-vendors-vs-coca-cola-2018-640w.png)
 
 *Disclaimers: As a public market investor, I'm long [Amazon](https://www.google.com/finance/beta/quote/AMZN:NASDAQ), [Google](https://www.google.com/finance/beta/quote/GOOGL:NASDAQ) and [Microsoft](https://www.google.com/finance/beta/quote/MSFT:NASDAQ). Also, [Amazon is an investor in my company, Acquia](https://dri.es/amazon-invests-in-acquia).*

@@ -20,7 +20,7 @@ About a week ago the new [Pro Drupal Development book](http://drupalbook.com/) s
 
 ![Amazon sales rank of a Drupal-related book is #87 in the Books category.](http://default/files/images/drupal/drupal-pro-amazon-rank-1.jpg)
 
-![Amazon listing for "Pro Drupal Development" book, showing price, discount, rating, and pre-order options.](http://default/files/cache/drupal/drupal-pro-amazon-rank-2-640w.jpg)
+![Amazon listing for "Pro Drupal Development" book, showing price, discount, rating, and pre-order options.](http://default/files/cache/drupal/drupal-pro-amazon-rank-2-640w.png)
 
 I'm still waiting for my copy to arrive, and rumor has it that [Apress](https://www.apress.com/), the publisher, already started making arrangements for a reprint.
 

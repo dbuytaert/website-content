@@ -74,7 +74,7 @@ Lastly, 2016 was the first full year of Drupal 8 availability (it was [formally 
 
 ## Product milestones
 
-![A diagram showing Acquia's product overview, including experience assembly, content, orchestration, insights, profile, and experience delivery solutions.](http://default/files/cache/acquia/product-overview-2016-640w.jpg)
+![A diagram showing Acquia's product overview, including experience assembly, content, orchestration, insights, profile, and experience delivery solutions.](http://default/files/cache/acquia/product-overview-2016-640w.png)
 
 Acquia remains an amazing place for engineers who want to build great products. We achieved some big milestones over the course of the year.
 

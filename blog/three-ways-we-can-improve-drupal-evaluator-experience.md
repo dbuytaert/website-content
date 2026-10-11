@@ -28,7 +28,7 @@ So how can we make some very necessary improvements to Drupal's evaluator experi
 
 I like to think of the evaluator experience as a *conversion funnel*, similar to the [purchase funnel](https://en.wikipedia.org/wiki/Purchase_funnel) developed in 1898 by E. St. Elmo Lewis. It maps an end-user journey from the moment a product attracts the user's attention to the point of use. It's useful to visualize the process as a funnel, because it helps us better understand where the roadblocks are and where to focus our efforts. For example, we know that more than 13 million people visited Drupal.org in 2017 (top of the funnel) and that approximately 75,000 new Drupal 8 websites launched in production (bottom of the funnel). A very large number of evaluators were lost as they moved down the conversion funnel. It would be good to better understand what goes on in between.
 
-![An example Drupal conversion funnel and the primary stakeholders for each level.](http://default/files/cache/drupal/evaluator-conversion-funnel-640w.jpg)
+![An example Drupal conversion funnel and the primary stakeholders for each level.](http://default/files/cache/drupal/evaluator-conversion-funnel-640w.png)
 
 As you can see from the image above, the **Drupal Association** plays an important role at the top of the funnel; from educating people about Drupal, to providing a streamlined download experience on Drupal.org, to helping users find themes and modules, and much more.
 

@@ -31,19 +31,19 @@ I started my keynote by explaining that Drupal is growing. Over the past year, w
 
 This is supported by the [2017 Drupal Business Survey](https://www.drupal.org/association/blog/drupal-business-survey-2017); after surveying 239 executives from Drupal agencies, we can see that Drupal 8 has become the defacto release for them and that most of the Drupal businesses report to be growing.
 
-![Drupal agencies report that most Drupal projects are using Drupal 8 now](http://default/files/cache/drupalcon-vienna-2017/drupal-8-agency-adoption-640w.jpg)
+![Drupal agencies report that most Drupal projects are using Drupal 8 now](http://default/files/cache/drupalcon-vienna-2017/drupal-8-agency-adoption-640w.png)
 
-![Most Drupal agencies have growing businesses](http://default/files/cache/drupalcon-vienna-2017/drupal-agency-growth-640w.jpg)
+![Most Drupal agencies have growing businesses](http://default/files/cache/drupalcon-vienna-2017/drupal-agency-growth-640w.png)
 
 While the transition from Drupal 7 to Drupal 8 is not complete, Drupal 8's innovation continues to accelerate. We've seen the contributed modules ecosystem mature; in the past year, the number of stable modules has more than doubled. Additionally, there are over 4,000 modules in development.
 
-![We saw a 2x increase in stable contributed modules](http://default/files/cache/drupalcon-vienna-2017/drupal-8-module-readiness-640w.jpg)
+![We saw a 2x increase in stable contributed modules](http://default/files/cache/drupalcon-vienna-2017/drupal-8-module-readiness-640w.png)
 
 In addition to growth, both the vendor and technology landscapes around Drupal are changing. In my keynote, I noted three primary shifts in the vendor landscape. Single blogs, portfolio sites and brochure sites, which represent the low end of the market, are best served by SaaS tools. On the other side of the spectrum, a majority of enterprise vendors are moving beyond content management into larger marketing suites. Finally, the [headless CMS](https://dri.es/tag/headless-drupal) market segment is growing rapidly, with some vendors growing at a rate of 500% year over year.
 
 There are also significant changes in the technology landscape surrounding Drupal, as a rising number of Drupal agencies have also started using modern JavaScript technologies. For example, more than 50% of Drupal agencies are also using Node.js to support the needs of their customers.
 
-![What other technologies do Drupal agencies use?](http://default/files/cache/drupalcon-vienna-2017/changing-technology-stack-640w.jpg)
+![What other technologies do Drupal agencies use?](http://default/files/cache/drupalcon-vienna-2017/changing-technology-stack-640w.png)
 
 While evolving vendor and technology landscapes present many opportunities for Drupal, it can also introduce uncertainty. After listening to many people in the Drupal community, it's clear that all these market and technology trends, combined with the long development and adoption cycle of Drupal 8, has left some wondering what this all means for Drupal, and by extension also for them.
 
@@ -53,7 +53,7 @@ Over the past year, I've explained why I believe Drupal is for [ambitious digita
 
 Today, I believe that Drupal is no longer for simple sites. Instead, Drupal's sweetspot is sites or digital experiences that require a certain level of customization or flexibility – something I refer to as "richness".
 
-![Drupal is no longer for simple sites, but for sites with medium-to-high richness](http://default/files/cache/drupalcon-vienna-2017/who-is-drupal-for-640w.jpg)
+![Drupal is no longer for simple sites, but for sites with medium-to-high richness](http://default/files/cache/drupalcon-vienna-2017/who-is-drupal-for-640w.png)
 
 ## Ambitious is much more than just enterprise
 

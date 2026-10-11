@@ -35,7 +35,7 @@ As Drupal continues to power the websites that have long been its bread and butt
 
 ## Headless CMSes are leaving editors behind
 
-![Diagram comparing a coupled Drupal website with a headless CMS, showing how content is delivered to multiple front ends.](http://default/files/cache/drupal/drupal-is-api-first-coupled-drupal-vs-headless-cms-640w.jpg)
+![Diagram comparing a coupled Drupal website with a headless CMS, showing how content is delivered to multiple front ends.](http://default/files/cache/drupal/drupal-is-api-first-coupled-drupal-vs-headless-cms-640w.png)
 *This diagram illustrates the differences between a traditional Drupal website and a headless CMS with various front ends receiving content.*
 
 Some claim that headless CMSes will replace traditional CMSes like Drupal and WordPress when it comes to content editors and marketers. I'm not so sure.
@@ -52,7 +52,7 @@ Features like in-place editing, in-context administration, layout manipulation, 
 
 ## Drupal empowers both editors and application developers
 
-![Diagram comparing a coupled Drupal website with a headless CMS, showing content delivery through APIs to multiple front ends.](http://default/files/images/drupal/drupal-is-api-first-api-first-drupal-vs-headless-cms.jpg)
+![Diagram comparing a coupled Drupal website with a headless CMS, showing content delivery through APIs to multiple front ends.](http://default/files/images/drupal/drupal-is-api-first-api-first-drupal-vs-headless-cms.png)
 *This diagram illustrates the differences between a coupled – but headless-enabled – Drupal website and a headless CMS with various front ends receiving content.*
 
 All of this isn't to say that headless isn't important. Headless is important, but supporting both headless and traditional approaches is one of the biggest advantages of Drupal. After all, content management systems need to serve content beyond editor-focused websites to single-page applications, native applications, and even emerging devices such as wearables, conversational interfaces, and IoT devices.

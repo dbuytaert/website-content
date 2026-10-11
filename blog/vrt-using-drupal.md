@@ -27,5 +27,5 @@ The [Flemish Radio- and Television Network](http://vrt.be) (VRT) uses [Drupal](h
 
 Development of the website was coordinated by the [Interdisciplinary institute for BroadBand Technology](https://www.iminds.be/en) (IBBT), a research institute founded by the Flemish government. Next week I'll meet some of the people behind 16+ and IBBT as I committed to giving them a short Drupal presentation.
 
-![A screenshot of the 16+ website homepage, showing user-generated content like images, videos, and text entries.](http://default/files/cache/drupal/16plus-screenshot-640w.jpg)
+![A screenshot of the 16+ website homepage, showing user-generated content like images, videos, and text entries.](http://default/files/cache/drupal/16plus-screenshot-640w.png)
 *A screenshot of the <a href="http://16plus.be/">16+ website</a>.*

@@ -29,7 +29,7 @@ The demo video above features how a shopper named Alex can interact with an augm
 
 What is exciting about this demo is that the Acquia Labs team built the Freshland Market application with Drupal 8 and augmented reality technology that is commercially available today.
 
-![An augmented reality architecture using Drupal and Vuforia](http://default/files/cache/blog/shopping-with-augmented-reality-architecture-2017-640w.jpg)
+![An augmented reality architecture using Drupal and Vuforia](http://default/files/cache/blog/shopping-with-augmented-reality-architecture-2017-640w.png)
 
 The first step in developing the application was to use an augmented reality library, [Vuforia](https://www.vuforia.com), which identifies pre-configured targets. In our demo, these targets are images of product labels, such as the tomato sauce and cereal labels shown in the video. Each target is given a unique ID. This ID is used to query the Freshland Market Drupal site for content related to that target.
 

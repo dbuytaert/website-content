@@ -179,7 +179,7 @@ This year at DrupalCon Nashville, over 3,000 people traveled to the Music City t
 
 Prompted by feedback from our community, I have spent the past five months trying to better establish the [Drupal community's principles and values](https://dri.es/defining-drupal-values-and-principles). I have shared an "alpha" version of Drupal's values and principles at <https://www.drupal.org/about/values-and-principles>. As a next step, I will be drafting a charter for a new working group that will be responsible for maintaining and improving our values and principles. In the meantime, I invite every community member to provide feedback in [the issue queue of the Drupal governance project](https://www.drupal.org/project/issues/governance).
 
-![Slide of five values: prioritize impact, better together, strive for excellence, treat others with dignity and respect, and enjoy what you do.](http://default/files/cache/drupal/values-and-principles-1-0-alpha-640w.jpg)
+![Slide of five values: prioritize impact, better together, strive for excellence, treat others with dignity and respect, and enjoy what you do.](http://default/files/cache/drupal/values-and-principles-1-0-alpha-640w.png)
 *An overview of Drupal's values with supporting principles.*
 
 I believe that taking time to highlight community members that exemplify each principle can make the proposed framework more accessible. That is why it was very meaningful for me to spotlight three Drupal community members that demonstrate these principles.

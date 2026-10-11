@@ -41,4 +41,4 @@ From a technical point of view, we've had to teach Drupal how to respond to a vo
 
 It's exciting to think about how new user experiences and distribution platforms will change the way we build the [web in the future](https://dri.es/the-post-browser-era-of-the-web-is-coming). As I referenced in [Drupalcon New Orleans keynote](https://dri.es/state-of-drupal-presentation-may-2016), the Drupal community needs to put some thought into how to design and build multichannel customer experiences. Voice assistance, chatbots or notifications are just one part of the greater equation. If you have any further thoughts on this topic, please share them in the comments.
 
-![A comparison chart showing the shift from traditional web content to personalized, flexible, and multi-channel digital experiences.](http://default/files/cache/blog/digital-trends-2016-640w.jpg)
+![A comparison chart showing the shift from traditional web content to personalized, flexible, and multi-channel digital experiences.](http://default/files/cache/blog/digital-trends-2016-640w.png)

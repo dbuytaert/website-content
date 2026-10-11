@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=iXB0sNreSlM
 
 I started my keynote by highlighting this month's [Drupal 8.6.0 release](https://dri.es/drupal-8-6-0-released). Drupal 8.6 marks the sixth consecutive Drupal 8 release that has been delivered on time. Compared to one year ago, we have 46 percent more stable Drupal 8 modules. We also have 10 percent more contributors are working on Drupal 8 Core in comparison to last year. All of these milestones indicate that the Drupal 8 is healthy and growing.
 
-![Area chart of stable Drupal 8 modules, up 46% from 1,450 in September 2017 to 2,121 in September 2018.](http://default/files/cache/drupal-europe-darmstadt-2018/drupal-stable-modules-growing-september-2018-640w.jpg)
+![Area chart of stable Drupal 8 modules, up 46% from 1,450 in September 2017 to 2,121 in September 2018.](http://default/files/cache/drupal-europe-darmstadt-2018/drupal-stable-modules-growing-september-2018-640w.png)
 
 Next, I gave an update on our strategic initiatives.
 
@@ -88,4 +88,4 @@ https://www.youtube.com/watch?v=xwK9Gdde1cg
 
 Our community has a lot to be proud of, and this progress is the result of thousands of people collaborating and working together. It's pretty amazing! The power of our community isn't just visible in minor releases or a number of stable modules. It was also felt at this very conference, as many volunteers gave their weekends and evenings to help organize Drupal Europe in the absence of a DrupalCon Europe organized by the Drupal Association. From code to community, the Drupal project is making an incredible impact. I look forward to celebrating our community's work and friendships at future Drupal conferences.
 
-![A summary of our recent progress](http://default/files/cache/drupal-europe-darmstadt-2018/drupal-mountain-recent-progress-640w.jpg)
+![A summary of our recent progress](http://default/files/cache/drupal-europe-darmstadt-2018/drupal-mountain-recent-progress-640w.png)

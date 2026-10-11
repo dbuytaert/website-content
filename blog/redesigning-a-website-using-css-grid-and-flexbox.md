@@ -55,7 +55,7 @@ To turn this in to a Flexbox layout, simply give the container the following CSS
 
 By setting the `display` property to `flex`, the `#header` element becomes a *flex container*, and its direct children become *flex items*.
 
-![Comparison of a CSS flex container and flex items, showing their structure and arrangement within a layout.](http://default/files/cache/blog/css-flexbox-container-vs-items-640w.jpg)
+![Comparison of a CSS flex container and flex items, showing their structure and arrangement within a layout.](http://default/files/cache/blog/css-flexbox-container-vs-items-640w.png)
 
 ### Setting the flex container's flow
 
@@ -70,11 +70,11 @@ The flex container can now determine how the items are laid out:
 
 `flex-direction: row;` will place all the elements in a single row:
 
-![A website header using CSS Flexbox with "flex-direction: row" to align site name and navigation horizontally.](http://default/files/cache/blog/css-flexbox-direction-row-640w.jpg)
+![A website header using CSS Flexbox with "flex-direction: row" to align site name and navigation horizontally.](http://default/files/cache/blog/css-flexbox-direction-row-640w.png)
 
 And `flex-direction: column;` will place all the elements in a single column:
 
-![Diagram showing CSS Flexbox with "flex-direction: column", stacking "Site name" and "Navigation" vertically.](http://default/files/cache/blog/css-flexbox-direction-column-640w.jpg)
+![Diagram showing CSS Flexbox with "flex-direction: column", stacking "Site name" and "Navigation" vertically.](http://default/files/cache/blog/css-flexbox-direction-column-640w.png)
 
 This is what we mean with a "one-dimensional layout". We can lay things out horizontally (row) or vertically (column), but not both at the same time.
 
@@ -91,14 +91,14 @@ This is what we mean with a "one-dimensional layout". We can lay things out hori
 Finally, the `justify-content` property is used to horizontally align or distribute the Flexbox items in their flex container. Different values exist but `justify-content: space-between` will maximize the space between the site name and navigation. Different values exist such as `flex-start`, `space-between`, `center`, and more.
 
 <div class="large">
-  ![Diagram showing different CSS Flexbox justify-content properties: flex-start, center, flex-end, and space-between, with aligned boxes.](http://default/files/cache/blog/css-flexbox-justify-content-640w.jpg)
+  ![Diagram showing different CSS Flexbox justify-content properties: flex-start, center, flex-end, and space-between, with aligned boxes.](http://default/files/cache/blog/css-flexbox-justify-content-640w.png)
 </div>
 
 ### Making a Flexbox container responsive
 
 Thanks to Flexbox, making the navigation responsive is easy. We can change the flow of the items in the container using only a single line of CSS. To make the items flow differently, all we need to do is change or overwrite the `flex-direction` property.
 
-![Two boxes: "flex-direction: row" places three items side by side, "flex-direction: column" stacks them.](http://default/files/cache/blog/css-flexbox-direction-row-vs-column-640w.jpg)
+![Two boxes: "flex-direction: row" places three items side by side, "flex-direction: column" stacks them.](http://default/files/cache/blog/css-flexbox-direction-row-vs-column-640w.png)
 
 To stack the navigation below the site name on a smaller device, simply change the direction of the flex container using a media query:
 
@@ -112,7 +112,7 @@ To stack the navigation below the site name on a smaller device, simply change t
 
 On devices that are less than 900 pixels wide, the menu will be rendered as follows:
 
-![Diagram showing CSS Flexbox with "flex-direction: column", stacking "Site name" and "Navigation" vertically.](http://default/files/cache/blog/css-flexbox-direction-column-640w.jpg)
+![Diagram showing CSS Flexbox with "flex-direction: column", stacking "Site name" and "Navigation" vertically.](http://default/files/cache/blog/css-flexbox-direction-column-640w.png)
 
 Flexbox make it really easy to build responsive layouts. I hope you can see why I prefer using it over floats.
 
@@ -120,7 +120,7 @@ Flexbox make it really easy to build responsive layouts. I hope you can see why 
 
 Flexbox deals with layouts in one dimension at the time ― either as a row or as a column. This is in contrast to CSS Grid Layout, which allows you to use rows and columns at the same time. In this next section, I'll explain how I use CSS Grid to make the layout of my articles more interesting.
 
-![Diagram of a CSS grid layout with seven columns, showing an "Article" section placed within the grid.](http://default/files/cache/blog/css-grid-layout-640w.jpg)
+![Diagram of a CSS grid layout with seven columns, showing an "Article" section placed within the grid.](http://default/files/cache/blog/css-grid-layout-640w.png)
 
 For our example, we'll use the following HTML code:
 
@@ -161,11 +161,11 @@ On each side of the main content section there are three columns. Column 3 and c
 
 The outer columns are defined as `1fr`, and act as margins as well. `1fr` stands for *fraction* or *fractional unit*. The width of the factional units is computed by the browser. The browser will take the space that is left after what is taken by the fixed-width columns and divide it by the number of fractional units. In this case we defined two fractional units, one for each of the two outer columns. The two outer columns will be equal in size and make sure that the article is centered on the page. If the browser is 1440 pixels wide, the fixed columns will take up 1020 pixels (640 + 10 + 10 + 180 + 180). This means there is 420 pixels left (1440 - 1020). Because we defined two fractional units, column 1 and column 2 should be 210 pixels wide each (420 divided by 2).
 
-![A CSS grid layout diagram showing multiple columns with different widths, spacing, and labeled content areas.](http://default/files/cache/blog/css-grid-layout-columns-640w.jpg)
+![A CSS grid layout diagram showing multiple columns with different widths, spacing, and labeled content areas.](http://default/files/cache/blog/css-grid-layout-columns-640w.png)
 
 While we have to explicitly declare the columns, we don't have to define the rows. The CSS Grid Layout system will automatically create a row for each *direct* child of our grid container `article`.
 
-![A CSS grid layout with multiple rows and columns, displaying text elements and an image in structured sections.](http://default/files/cache/blog/css-grid-layout-rows-640w.jpg)
+![A CSS grid layout with multiple rows and columns, displaying text elements and an image in structured sections.](http://default/files/cache/blog/css-grid-layout-rows-640w.png)
 
 Now we have the grid defined, we have to assign content elements to their location in the grid. By default, the CSS Grid Layout system has a *flow model*; it will automatically assign content to the next open grid cell. Most likely, you'll want to explicitly define where the content goes:
 
@@ -177,7 +177,7 @@ article > * {
 
 The code snippet above makes sure that all elements that are a direct child of `article` start at the 4th column line of the grid and end at the 4th column line from the end. To understand that syntax, I have to explain you the concept of *column lines* or *grid lines*:
 
-![A CSS grid layout diagram showing column lines labeled with numbers and arrows indicating their positions.](http://default/files/cache/blog/css-grid-layout-column-lines-640w.jpg)
+![A CSS grid layout diagram showing column lines labeled with numbers and arrows indicating their positions.](http://default/files/cache/blog/css-grid-layout-column-lines-640w.png)
 
 By using `grid-column: 4 / -4`, all elements will be displayed in the "main column" between column line 4 and -4.
 
@@ -198,6 +198,6 @@ To put the metadata left from the main content, we write:
 }
 ```
 
-![Diagram illustrating CSS Grid layout with labeled row and column lines, showing content placement within the grid structure.](http://default/files/cache/blog/css-grid-layout-placement-640w.jpg)
+![Diagram illustrating CSS Grid layout with labeled row and column lines, showing content placement within the grid structure.](http://default/files/cache/blog/css-grid-layout-placement-640w.png)
 
 I hope you enjoyed reading this tutorial and that you are encouraged to give Flexbox and Grid Layouts a try in your next project.
