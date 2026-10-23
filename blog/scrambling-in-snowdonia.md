@@ -45,7 +45,7 @@ During dinner, the weather started to turn; dark clouds came in and it started t
 
 <div class="large">
   ![Klaas wearing multiple layers of clothing when the night sets on Tryfan](http://default/files/cache/hiking-in-wales-2019/klaas-getting-cold-on-tryfan-640w.jpg)
-*The temperatures swung from 20ºC \(68ºF\) during the day time to 2ºC \(35ºF\) during night time. In the evenings, we were forced to put on warm clothes and layer up.*
+*The temperatures swung from 20ºC (68ºF) during the day time to 2ºC (35ºF) during night time. In the evenings, we were forced to put on warm clothes and layer up.*
 </div>
 
 What didn't go so well was that my brand new sleeping pad had a leak and I didn't bring a repair kit. Although, sleeping on the ground wasn't so bad. The next morning, when we opened our tent, we were greeted not only by an amazing view, but also by friendly sheep.

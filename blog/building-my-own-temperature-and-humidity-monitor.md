@@ -36,7 +36,7 @@ The basic idea is this: track the temperature and humidity of our basement every
 I launched this monitoring system around Christmas last year, so it's been running for nearly three months now. You can view the live temperature and historical data trends at <https://dri.es/sensors>. Yes, publishing our basement's temperature online is a bit quirky, but it's all in good fun.
 
 ![A webpage displaying temperature and humidity readings for a basement in Belgium.](http://default/files/cache/blog/temperature-monitor-640w.png)
-*A screenshot of <a href="https://dri.es/sensors/3ce1d">my basement temperature dashboard</a>.*
+*A screenshot of [my basement temperature dashboard](https://dri.es/sensors/3ce1d).*
 
 So far, [the temperature in our basement](https://dri.es/sensors/basement-belgium) has been ideal for storing wine. However, I expect it will change during the summer months.
 

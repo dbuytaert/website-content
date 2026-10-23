@@ -45,7 +45,7 @@ Drupal 8's module ecosystem is also maturing quickly, as 81 percent more Drupal 
 As you can see from the [Drupal 8 roadmap](https://www.drupal.org/core/roadmap), improving the ease of use for content creators remains our top priority:
 
 ![Slide with columns for Drupal 8.5, 8.6, 8.7+ and a wishlist, listing features like content layouts, media library and automatic updates.](http://default/files/cache/drupalcon-nashville-2018/drupal-8-roadmap-640w.jpg)
-*This roadmap depicts Drupal 8.5, 8.6, and 8.7+, along with a column for "wishlist" items that are not yet formally slotted. The contents of this roadmap can be found at <a href="https://www.drupal.org/core/roadmap">https://www.drupal.org/core/roadmap</a>.*
+*This roadmap depicts Drupal 8.5, 8.6, and 8.7+, along with a column for "wishlist" items that are not yet formally slotted. The contents of this roadmap can be found at [https://www.drupal.org/core/roadmap](https://www.drupal.org/core/roadmap).*
 
 ## Four ways to grow Drupal adoption
 

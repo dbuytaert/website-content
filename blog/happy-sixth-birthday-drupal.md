@@ -33,7 +33,7 @@ To celebrate the event, Karlijn and I made you some cookies:
 *Step 3: mix all the ingredients as you would normally do.*
 ![Hands rolling out cookie dough with a wooden rolling pin on a floured countertop.](http://default/files/cache/drupal/cookies-4-640w.jpg)
 ![A metal ring is bent into the shape of the Drupal logo, with pliers resting nearby.](http://default/files/cache/drupal/cookies-5-640w.jpg)
-*Step 5: bend a metal ring so it takes the shape of Druplicon \(the Drupal logo\).*
+*Step 5: bend a metal ring so it takes the shape of Druplicon (the Drupal logo).*
 ![A round cookie cutter is pressed into rolled-out dough on a floured surface.](http://default/files/cache/drupal/cookies-6-640w.jpg)
 *Step 6: cut Druplicons in dough using our Druplicon cookie cutter.*
 ![A person carefully lifts a small piece of cookie dough from a larger sheet on a floured surface.](http://default/files/cache/drupal/cookies-7-640w.jpg)

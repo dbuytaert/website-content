@@ -19,8 +19,8 @@ id: 3856
 
 Nine months ago I wrote about the [importance of improving Drupal's content workflow capabilities](https://dri.es/improving-drupal-content-workflow) and how we set out to include a common base layer of workflow-related functionality in Drupal 8 core. That base layer would act as the foundation on which we can build a list of great features like cross-site content staging, content branching, site previews, offline browsing and publishing, content recovery and audit logs. Some of these features are really impactful; 5 out of the top 10 most requested features for content authors are related to workflows (features 3-7 on the image below). We will deliver feature requests 3 and 4 as part of the "content workflow initiative" for Drupal 8. Feature requests 5, 6 and 7 are not in scope of the current content workflow initiative but still stand to benefit significantly from it. Today, I'd like to provide an update on the workflow initiative's progress the past 9 months.
 
-![Bar chart led by richer image and media integration \(14%\), digital asset management \(13%\) and content approval workflows \(11%\).](http://default/files/cache/drupal/top-requests-for-content-authors-2016-640w.png)
-*The top 10 requested features for content creators according to the <a href="https://dri.es/state-of-drupal-2016-survey">2016 State of Drupal survey</a>.*
+![Bar chart led by richer image and media integration (14%), digital asset management (13%) and content approval workflows (11%).](http://default/files/cache/drupal/top-requests-for-content-authors-2016-640w.png)
+*The top 10 requested features for content creators according to the [2016 State of Drupal survey](https://dri.es/state-of-drupal-2016-survey).*
 
 ## Configurable content workflow states in Drupal 8.2
 
@@ -48,7 +48,7 @@ While workflows for individual content items is very powerful, many sites want t
 We are still in the early stages of building out the workspace functionality. Work is being done to [introduce the concept of workspaces in the developer API](https://www.drupal.org/node/2784921) and on [designing the user interface](https://www.drupal.org/node/2732081#comment-11836237). A lot remains to be figured out and implemented, but we hope to introduce this feature in Drupal 8.5 (planned to be released in Q2 of 2018). In the mean time, other Drupal 8 solutions are available as contributed modules.
 
 ![Animated mockup of a "News Company" site with a Production workspace switcher in the toolbar, above a list of placeholder articles.](http://default/files/cache/drupal/drupal-8-workspaces-prototype-january-2017-640w.gif)
-*An <a href="https://dri.es/tag/outside-in">outside-in design</a> that shows how content creators could work in different workspaces. When you're building out a new section on your site, you want to preview your entire site, and publish all the changes at once. Designed by <a href="https://www.drupal.org/u/jojototh">Jozef Toth</a> at Pfizer.*
+*An [outside-in design](https://dri.es/tag/outside-in) that shows how content creators could work in different workspaces. When you're building out a new section on your site, you want to preview your entire site, and publish all the changes at once. Designed by [Jozef Toth](https://www.drupal.org/u/jojototh) at Pfizer.*
 
 ## Closing thoughts
 

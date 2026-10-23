@@ -19,7 +19,7 @@ id: 2726
 
 *(This blog post is jointly written by [Angela Byron](https://www.drupal.org/user/24967), [Randy Fay](https://www.drupal.org/user/30906/), [Greg Dunlap](https://www.drupal.org/user/128537), [David Strauss](https://www.drupal.org/user/93254) and [Dries Buytaert](https://www.drupal.org/user/1).)*
 
-As mentioned [last month](https://dri.es/drupal-governance-sprint), on July 16 - 17, 2012, several community leaders in the Drupal project sat down with several community leaders from other open source projects and tried to hash out a governance structure to support the Drupal community's continued growth. "Governance" in this case, encompassing all the things we do to organize ourselves, make plans and decisions together, get things done, and resolve conflicts.
+As mentioned [last month](https://dri.es/drupal-governance-sprint), on July 16 - 17, 2012, several community leaders in the Drupal project sat down with several community leaders from other Open Source projects and tried to hash out a governance structure to support the Drupal community's continued growth. "Governance" in this case, encompassing all the things we do to organize ourselves, make plans and decisions together, get things done, and resolve conflicts.
 
 Here are the proposals we came up with, and we are actively seeking community feedback on the ideas within.
 
@@ -37,17 +37,17 @@ Over the course of two days, Drupal community members Dries Buytaert, Angela Byr
 
 ## Overview of proposed changes
 
-We propose the creation of a number of "working groups" that essentially make more explicit community structures that already exist. Each working group would consist of ~5 people, appointed by Dries, in charge of collaborating with the community in order to establish effective policy. Each working group will have one "lead" member (chair) who communicates major items and works with Dries. Some working groups will have a set duration (e.g. life cycle of a Drupal core release), others may have terms. Dries, as project lead, also reserves the ability to terminate a group at any time if it feels like they are overstepping their scope (charter).
+We propose the creation of a number of "working groups" that essentially make more explicit community structures that already exist. Each working group would consist of ~5 people, appointed by Dries, in charge of collaborating with the community in order to establish effective policy. Each working group will have one "lead" member (chair) who communicates major items and works with Dries. Some working groups will have a set duration (e.g. life cycle of a Drupal Core release), others may have terms. Dries, as project lead, also reserves the ability to terminate a group at any time if it feels like they are overstepping their scope (charter).
 
 The summary, in essence:
 
 - Establish clearly chartered working groups where currently loosely defined individuals are taking on things that are community-shaping in their scope.
 - Empower these working groups to make decisions, so important community governance decisions do not get stalemated. Keep the groups small enough that decision-making can take place efficiently, but large enough that a diversity of opinions are represented.
-- Make it more transparent and obvious, to newcomers and community insiders alike, where "the buck stops" with decision-making in our community in various areas, what the structure of the community is, What is expected of them, and who to turn to for help.
+- Make it more transparent and obvious, to newcomers and community insiders alike, where "the buck stops" with decision-making in our community in various areas, what the structure of the community is, what is expected of them, and who to turn to for help.
 
 ## "Drupal" groups
 
-The "Drupal" groups encompass areas that touch Drupal core or contrib, or the Drupal community itself. The ultimate "buck stops here" with these groups is with Dries Buytaert, the Drupal project lead.
+The "Drupal" groups encompass areas that touch Drupal Core or contrib, or the Drupal community itself. The ultimate "buck stops here" with these groups is with Dries Buytaert, the Drupal project lead.
 
 ![A governance structure diagram for the Drupal community, showing working groups, core teams, and leadership roles.](http://default/files/images/drupal/governance-sprint-2012-community.jpg)
 
@@ -68,9 +68,9 @@ In other words, this working group tries to make sure the "people" side of our c
 A corollary to the [Community Working Group](#community), this group would set and maintain policies around the technical aspects of our community, including:
 
 - Develop and maintain policies around things such as: 
-   - [Git repository usage](https://www.drupal.org/node/1001544)
-   - [Full-project approval](https://www.drupal.org/node/1011698)
-   - [Coding standards](https://www.drupal.org/coding-standards)
+  - [Git repository usage](https://www.drupal.org/node/1001544)
+  - [Full-project approval](https://www.drupal.org/node/1011698)
+  - [Coding standards](https://www.drupal.org/coding-standards)
 - Establishing best practices and recommendations around bug/issue workflows; for example, strongly encouraging a workflow of idea -&gt; architecture review -&gt; implementation -&gt; code style/clean-up.
 - Recommending to the Drupal Association tool changes that will help accelerate contribution.
 - Intervening as mediators in cases of technical conflict (where the conflict cannot be worked out among individuals first).
@@ -85,7 +85,7 @@ The recommendation from the Governance Sprint is something like the following, w
 
 #### Drupal Core Initiative Working Group
 
-This group works with Dries Buytaert, the Drupal project lead, in order to tackle strategically vital initiatives within Drupal core. Membership includes the initiative leads. This would entail a bit more formalized structure, including milestones and progress tracking, bi-weekly meetings among the various initiatives, and so on.
+This group works with Dries Buytaert, the Drupal project lead, in order to tackle strategically vital initiatives within Drupal Core. Membership includes the initiative leads. This would entail a bit more formalized structure, including milestones and progress tracking, bi-weekly meetings among the various initiatives, and so on.
 
 This would be essentially formalizing what already exists today with the Drupal 8 initiatives and initiative leads.
 
@@ -109,7 +109,7 @@ These groups act in support of the Drupal project and its community. The ultimat
 
 ![Diagram with Dries Buytaert as Project Lead and the Drupal Association above Drupal.org's content, webmasters, website and infrastructure groups.](http://default/files/images/drupal/governance-sprint-2012-drupal-org.jpg)
 
-Next to Drupal core, this is probably where we spent the most time discussing. Drupal.org is special, in that it straddles both the community side of things, as well as the operations / support side of things. It functions through a combination of numerous volunteers as well as funding via the Drupal Association for support staff and development on major initiatives.
+Next to Drupal Core, this is probably where we spent the most time discussing. Drupal.org is special, in that it straddles both the community side of things, as well as the operations / support side of things. It functions through a combination of numerous volunteers as well as funding via the Drupal Association for support staff and development on major initiatives.
 
 At the moment, the best place to put Drupal.org seems like it's at a halfway point between the "Drupal" and "Operations" sides of things, and for the charter of this working group to include the necessity to work with the Drupal Association and community members alike. Though eventually, for both legal and simplicity reasons, it would be better for this to be located under the purview of the Drupal Association board.
 

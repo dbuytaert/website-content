@@ -25,7 +25,7 @@ Last week was crazy. Six airplanes, three time zones, four different hotels, two
 
 ![A heavily modified, rusted vehicle is parked near a "Foo Camp" check-in sign outside a building.](http://default/files/cache/foocamp-2008/foocamp-9-640w.jpg)
 ![A person in a black hoodie is sitting on the floor, holding a camera and taking a photo in a group discussion.](http://default/files/cache/foocamp-2008/foocamp-3-640w.jpg)
-*Joi Ito took <a href="http://www.flickr.com/photos/joi/2660877655/in/set-72157606108716088/">this picture of me</a> so I had to take one of him. Joi is CEO of Creative Commons, and is \(or was\) on the board of Technorati, ICANN, Mozilla Foundation, the Open Source Initiative \(OSI\) and much more. He is also an early stage investor in Six Apart, Technorati, Flickr, SocialText, Dopplr, Last.fm, and other internet companies.*
+*Joi Ito took [this picture of me](http://www.flickr.com/photos/joi/2660877655/in/set-72157606108716088/) so I had to take one of him. Joi is CEO of Creative Commons, and is (or was) on the board of Technorati, ICANN, Mozilla Foundation, the Open Source Initiative (OSI) and much more. He is also an early stage investor in Six Apart, Technorati, Flickr, SocialText, Dopplr, Last.fm, and other internet companies.*
 
 Just like [last year](https://dri.es/foocamp-was-mindblowing), I was pleasantly surprised by how many of the *Foos* are using [Drupal](https://www.drupal.org), planning to use Drupal, or even evangelizing Drupal. *More good stuff comin'!*
 

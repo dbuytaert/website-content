@@ -106,7 +106,7 @@ I'm also particularly proud of the fact that in 2022, our customers recognized u
 
 <div class="large">
   ![G2 and TrustRadius badges recognize Acquia products based on functionality and market presence.](http://default/files/cache/acquia/customer-ratings-2022-640w.png)
-*Customers and partners rated our products very highly on <a href="https://www.g2.com/">G2</a> and <a href="https://www.trustradius.com/">TrustRadius</a>.*
+*Customers and partners rated our products very highly on [G2](https://www.g2.com/) and [TrustRadius](https://www.trustradius.com/).*
 </div>
 
 The results prove that customers want what we're building, which is a great feeling. I'm proud of what our team has accomplished.

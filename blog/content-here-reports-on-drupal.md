@@ -16,7 +16,7 @@ id: 771
 
 # Content Here reports on Drupal
 
-[Content Here](https://www.contenthere.net/), a strategic research company founded by [Seth Gottlieb](https://www.contenthere.net/about/biography), recently released its report called [Drupal for Publishers](https://www.contenthere.net/products-page/web-technologies-for-publishers/drupal-for-publishers), a twenty-four page "vendor neutral analysis" of how Drupal succeeds in meeting the unique needs of newspaper, magazine and radio/television sites. The report is available at Content Here is website, in return for a $100 fee via PayPal.
+[Content Here](https://www.contenthere.net/), a strategic research company founded by [Seth Gottlieb](https://www.contenthere.net/about/biography), recently released its report called [Drupal for Publishers](https://www.contenthere.net/products-page/web-technologies-for-publishers/drupal-for-publishers), a twenty-four page "vendor neutral analysis" of how Drupal succeeds in meeting the unique needs of newspaper, magazine and radio/television sites. The report is available at the Content Here website, in return for a $100 fee via PayPal.
 
 Drupal has had a lot of success in this market, and as the report notes:
 

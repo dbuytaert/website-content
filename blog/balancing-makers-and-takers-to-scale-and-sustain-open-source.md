@@ -161,7 +161,7 @@ Fortunately, the problem of individually rational actions leading to collectivel
 In economics, the concepts of [public goods](https://en.wikipedia.org/wiki/Public_good) and [common goods](https://en.wikipedia.org/wiki/Common_good) are decades old, and have similarities to Open Source.
 
 <div class="large">
-  ![Examples of common goods \(fishing grounds, oceans, parks\) and public goods \(lighthouses, radio, street lightning\)](http://default/files/cache/blog/open-source-makers-and-takers-4-640w.png)
+  ![Examples of common goods (fishing grounds, oceans, parks) and public goods (lighthouses, radio, street lightning)](http://default/files/cache/blog/open-source-makers-and-takers-4-640w.png)
 </div>
 
 Public goods and common goods are what economists call [non-excludable](https://en.wikipedia.org/wiki/Non-excludable) meaning it's hard to exclude people from using them. For example, everyone can benefit from fishing grounds, whether they contribute to their maintenance or not. Simply put, public goods and common goods have *open access*.

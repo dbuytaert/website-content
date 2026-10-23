@@ -22,7 +22,7 @@ id: 5706
 
 # Acquia Engage NYC 2024 product showcase
 
-![A diagram showing Acquia's product portfolio organized into three sections: Content \(featuring Acquia CMS, Acquia PIM, Acquia DAM, Acquia Site Factory, and Acquia Cloud Platform\), Optimize \(featuring Acquia Optimize and Acquia SEO\), and Insight \(featuring Acquia Campaign Studio, Acquia Campaign Factory, Acquia CDP, and Acquia Convert\).](http://default/files/cache/acquia/product-portfolio-2024-640w.png)
+![A diagram showing Acquia's product portfolio organized into three sections: Content (featuring Acquia CMS, Acquia PIM, Acquia DAM, Acquia Site Factory, and Acquia Cloud Platform), Optimize (featuring Acquia Optimize and Acquia SEO), and Insight (featuring Acquia Campaign Studio, Acquia Campaign Factory, Acquia CDP, and Acquia Convert).](http://default/files/cache/acquia/product-portfolio-2024-640w.png)
 
 At Acquia Engage NYC this week, our partner and customer conference, we shared how [Acquia's Digital Experience Platform](https://www.acquia.com/dxp) (DXP) helps organizations deliver digital experiences through three key capabilities:
 

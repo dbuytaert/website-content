@@ -63,7 +63,7 @@ Acquia DAM seamlessly integrates with both Drupal 7 and Drupal 8 (using Drupal's
 
 ## Acquia's roadmap to data-driven customer journeys
 
-![The image displays a comparison between old and new technology trends. On the left, labeled 'From,' it lists 'Websites and web-based content,' 'Browser-based,' 'Everyone sees the same content,' 'Back end tied to front-end delivery,' and 'Single site or campaign.' On the right, labeled 'To,' it reads 'Cross-channel, digital experiences,' 'Any screen, device, application,' 'Personal, contextual experiences,' 'Decoupled architectures,' and 'Factories \(many sites or campaigns\)'.](http://default/files/cache/acquia/market-trends-2017-640w.png)
+![The image displays a comparison between old and new technology trends. On the left, labeled 'From,' it lists 'Websites and web-based content,' 'Browser-based,' 'Everyone sees the same content,' 'Back end tied to front-end delivery,' and 'Single site or campaign.' On the right, labeled 'To,' it reads 'Cross-channel, digital experiences,' 'Any screen, device, application,' 'Personal, contextual experiences,' 'Decoupled architectures,' and 'Factories (many sites or campaigns)'.](http://default/files/cache/acquia/market-trends-2017-640w.png)
 
 Throughout [Acquia's first decade](https://dri.es/acquia-hosting-now-available), we've been primarily focused on providing our customers with the tools and services necessary to scale and succeed with content management. We've been very successful with helping our customers scale and manage Drupal and cloud solutions. Drupal will remain a critical component to our customers' success, and we will continue to honor our history as committed supporters of Open Source, in addition to investing in Drupal's future.
 

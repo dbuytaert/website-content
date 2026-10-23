@@ -34,13 +34,13 @@ To celebrate the event, Karlijn and I made you a cake:
 ![A hand taking the top of the cake off](http://default/files/images/drupal/cake-4.jpg)
 *Step 4: take off the top.*
 ![A close up of a triangular piece of cake](http://default/files/images/drupal/cake-5.jpg)
-*Step 5: create Druplicon-hair out of the top \(you know, the thingy that sticks out of his head\).*
+*Step 5: create Druplicon-hair out of the top (you know, the thingy that sticks out of his head).*
 ![A round cake with a triangular piece on top](http://default/files/images/drupal/cake-6.jpg)
 *Step 6: put the cake and the hair together.*
 ![A close-up of colorful m&m's](http://default/files/images/drupal/cake-7.jpg)
 *Step 7: unpack the m&m's. You'll want lots of those ...*
 ![A close-up of blue m&m's only](http://default/files/images/drupal/cake-8.jpg)
-*Step 8: filter out all the blue ones \(by eating the other ones\).*
+*Step 8: filter out all the blue ones (by eating the other ones).*
 ![Sugar, butter, cream, m&m's and white chocolate displayed in bowls](http://default/files/images/drupal/cake-9.jpg)
 *Step 9: take sugar, butter, cream, and genuine Belgian white chocolate to make frosting.*
 ![Butter and white chocolate being melted on a stove](http://default/files/images/drupal/cake-10.jpg)

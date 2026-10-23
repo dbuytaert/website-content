@@ -22,22 +22,22 @@ id: 298
 ## Drupal
 
 ![A graph showing the growth of Drupal's code, comments, and blank lines from 2000 to 2007.](http://default/files/images/drupal/code-history-drupal.jpg)
-*<a href="http://www.ohloh.net/projects/3189/analyses/latest">Drupal statistics at Ohloh</a>. © Ohloh.*
+*[Drupal statistics at Ohloh](http://www.ohloh.net/projects/3189/analyses/latest). © Ohloh.*
 
 ## Joomla!
 
 ![A graph showing the growth of Joomla! code, comments, and blank lines from 2000 to 2007.](http://default/files/images/drupal/code-history-joomla.jpg)
-*<a href="http://www.ohloh.net/projects/20/analyses/latest">Joomla! statistics at Ohloh</a>. © Ohloh.*
+*[Joomla! statistics at Ohloh](http://www.ohloh.net/projects/20/analyses/latest). © Ohloh.*
 
 ## Wordpress
 
 ![A graph showing the growth of WordPress code, comments, and blank lines from 2000 to 2007.](http://default/files/images/drupal/code-history-wordpress.jpg)
-*<a href="http://www.ohloh.net/projects/3192/analyses/latest">Wordpress statistics at Ohloh</a>. © Ohloh.*
+*[Wordpress statistics at Ohloh](http://www.ohloh.net/projects/3192/analyses/latest). © Ohloh.*
 
 ## Plone
 
 ![A stacked area chart showing the growth of Plone's code, comments, and blank lines from 2000 to 2007.](http://default/files/images/drupal/code-history-plone.jpg)
-*<a href="http://www.ohloh.net/projects/70">Plone statistics at Ohloh</a>. © Ohloh.*
+*[Plone statistics at Ohloh](http://www.ohloh.net/projects/70). © Ohloh.*
 
 (These graphs depict statistics for the core of each project, and do not include contributed modules, extensions or third-party plugins.)
 

@@ -96,7 +96,7 @@ For example, the Drupal Association engineering team started building zip files 
 Separately, we also introduced new ways to install Drupal Core via Composer, such as using a new `drupal/core-recommended` project template. This template specifies the exact dependencies used to test a particular version of Drupal Core. Drupal Core is only released when all tests pass, so using `drupal/core-recommended` helps to prevent any problems caused by using different versions of the dependencies.
 
 ![A timeline that shows the progression from manual updates to automatic updates, with Drush updates, Update Manager and Composer as key milestones.](http://default/files/cache/drupalcon-vienna-2017/automatic-updates-timeline-640w.png)
-*A slide from <a href="https://dri.es/state-of-drupal-presentation-september-2017">my keynote at DrupalCon Vienna 2017</a> where I introduced the Automatic Updates initiative. My speaker notes read: "Maybe Composer can be used under the hood to develop an automatic updates feature?".*
+*A slide from [my keynote at DrupalCon Vienna 2017](https://dri.es/state-of-drupal-presentation-september-2017) where I introduced the Automatic Updates initiative. My speaker notes read: "Maybe Composer can be used under the hood to develop an automatic updates feature?".*
 
 Lastly, in my [DrupalCon Vienna keynote](https://dri.es/state-of-drupal-presentation-september-2017), I declared the need for automatic updates, and made it a top priority for the Drupal community based on community surveys and interviews. This led to the formation of the Automatic Updates Initiative. The basic idea was to make updating Drupal sites easier by making Composer invisible to most users, thus empowering more people, regardless of their technical expertise.
 
@@ -133,7 +133,7 @@ We finally updated Drupal.org to [enable semantic versioning for contributed mod
 Composer Façade continued to support modules that had not adopted semantic versioning.
 
 ![The Automativ Updates initiative requires integrity checks for Drupal core, Composer 2, package signing and a custom bootloader.](http://default/files/cache/drupalcon-global-2020/drupal-10-automated-updates-640w.png)
-*A slide from <a href="https://dri.es/state-of-drupal-presentation-july-2020">my keynote at DrupalCon Global 2020</a> where I gave an update on the Automatic Updates initiative. The slide shows the four major architectural building blocks of the Automatic Updates initiative.*
+*A slide from [my keynote at DrupalCon Global 2020](https://dri.es/state-of-drupal-presentation-july-2020) where I gave an update on the Automatic Updates initiative. The slide shows the four major architectural building blocks of the Automatic Updates initiative.*
 
 Meanwhile, work on Automatic Updates continued. Because we had already embraced Composer, it seemed obvious that we would use Composer under the hood to power Automatic Updates. However, there was one feature we identified as missing from the existing Composer/Packagist ecosystem: package signing.
 

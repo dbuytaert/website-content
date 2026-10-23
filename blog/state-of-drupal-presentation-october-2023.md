@@ -88,7 +88,7 @@ Hope arrives in the form of a visit from Fairy Godfather [Tim Berners-Lee](https
 
 <div class="large">
   ![Three wise sorcerers in robes and pointy hats, symbolizing members of the Drupal Marketing Committee.](http://default/files/cache/drupalcon-lille-2023/three-sorcerers-640w.png)
-*Drupal seeks the assistance of three sorcerers with magical \(marketing\) powers.*
+*Drupal seeks the assistance of three sorcerers with magical (marketing) powers.*
 </div>
 
 Sadly, the Open Web Manifesto alone can't clear away the dark clouds created by the Closed Web advocates. As the dark clouds creep closer and obscure the village, Drupal seeks help from three powerful sorcerers. The sorcerers use their magic to dispel the dark clouds, unveiling the remarkable work occurring in Drupal Village to the entire world.

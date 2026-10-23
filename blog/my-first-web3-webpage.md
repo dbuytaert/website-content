@@ -64,7 +64,7 @@ In the spirit of helping to build a decentralized web, running your own IPFS nod
 
 <div class="large">
   ![The files overview screen of my local IPFS node](http://default/files/cache/blog/local-ipfs-node-1-640w.png)
-*A "Files" overview screen showing that my local IPFS node is hosting <code>index.html</code>.*
+*A "Files" overview screen showing that my local IPFS node is hosting `index.html`.*
   ![The status screen of my local IPFS node showing bandwidth usage](http://default/files/cache/blog/local-ipfs-node-2-640w.png)
 *A dashboard showing my local IPFS node's bandwidth usage.*
 </div>
@@ -134,7 +134,7 @@ This is where ENS comes in. I just had to set the *Content Resolver* record of `
 
 <div class="large">
   ![Updating the Content Resolver record of an ENS domain](http://default/files/cache/blog/ens-content-resolver-640w.png)
-*Mapping the IPFS hash to <code>dries.eth</code> is done by updating the <i>Content Resolver</i> record of the ENS domain on the <a href="https://ens.domains/">ENS Domains website</a>.*
+*Mapping the IPFS hash to `dries.eth` is done by updating the *Content Resolver* record of the ENS domain on the [ENS Domains website](https://ens.domains/).*
 </div>
 
 Updating an ENS record permanently updates the state of the Ethereum blockchain. This means you have to pay a "gas fee", or a network transaction fee. As you can see on [Etherscan](https://etherscan.io), it cost me [0.004369 Ether](https://etherscan.io/tx/0x5d72594efe7b3cca99304ea9c01f3cc2ed2ed21f8f2915932b5bb53abce5bc77) ($11.69 at the time) to update my ENS record.
@@ -142,7 +142,7 @@ Updating an ENS record permanently updates the state of the Ethereum blockchain.
 You can now use an ENS and IPFS compatible browser to visit <https://dries.eth>. Voila, a *truly* decentralized website!
 
 ![Google Chrome showing dries.eth using the Metamask extension](http://default/files/cache/blog/google-chrome-with-metamask-640w.png)
-*<code>dries.eth</code> rendered in Google Chrome with the <a href="https://metamask.io/">Metamask</a> extension.*
+*`dries.eth` rendered in Google Chrome with the [Metamask](https://metamask.io/) extension.*
 
 ## Are ENS and IPFS the future of the web?
 

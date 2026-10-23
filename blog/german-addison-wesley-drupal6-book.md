@@ -24,6 +24,6 @@ Hagen Graf has written his second German Drupal book: [Drupal 6: Websites entwic
 ![A handwritten note with a business card attached, mentioning a book and video tutorial on Drupal 6.](http://default/files/cache/drupal/book-drupal6-aw-de-2-640w.jpg)
 ![A person flips through a book about Drupal 6, with blurred pages showing text and a screenshot.](http://default/files/cache/drupal/book-drupal6-aw-de-3-640w.jpg)
 ![A book page displays a screenshot of a website featuring a black-and-white photo of three people posing together.](http://default/files/cache/drupal/book-drupal6-aw-de-4-640w.jpg)
-*@Hagen, next time take a picture of your book on my website? ;-\)*
+*@Hagen, next time take a picture of your book on my website? ;-)*
 ![A book page discussing spam prevention in Drupal, highlighting the Mollom service as an effective solution.](http://default/files/cache/drupal/book-drupal6-aw-de-5-640w.jpg)
-*The book talks about <a href="http://mollom.com">Mollom</a>!*
+*The book talks about [Mollom](http://mollom.com)!*

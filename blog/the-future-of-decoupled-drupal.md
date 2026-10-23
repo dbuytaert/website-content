@@ -21,8 +21,8 @@ id: 3436
 
 Of all the trends in the web community, few are spreading more rapidly than decoupled (or "headless") content management systems (CMS). The evolution from websites to more interactive web applications and the need for multi-channel publishing suggest that moving to a decoupled architecture that leverages client-side frameworks is a logical next step for Drupal. For the purposes of this blog post, the term *decoupled* refers to a separation between the back end and one or more front ends instead of the traditional notion of service-oriented architecture.
 
-![Diagram comparing traditional \(monolithic\) and decoupled \(headless\) Drupal architectures, showing front end separation in decoupled approach.](http://default/files/images/drupal/future-decoupled-drupal-traditional-vs-decoupled.jpg)
-*Traditional \("monolithic"\) versus fully decoupled \("headless"\) architectural paradigm.*
+![Diagram comparing traditional (monolithic) and decoupled (headless) Drupal architectures, showing front end separation in decoupled approach.](http://default/files/images/drupal/future-decoupled-drupal-traditional-vs-decoupled.jpg)
+*Traditional ("monolithic") versus fully decoupled ("headless") architectural paradigm.*
 
 Decoupling your content management system enables front-end developers to fully control an application or site's rendered markup and user experience. Furthermore, the use of client-side frameworks helps developers give websites application-like behavior with smoother interactivity (there is never a need to hit refresh, because new data appears automatically), optimistic feedback (a response appears before the server has processed a user's query), and [non-blocking user interfaces](http://www.callumhart.com/blog/non-blocking-uis-with-interface-previews) (the user can continue to interact with the application while portions are still loading).
 

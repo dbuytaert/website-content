@@ -33,10 +33,10 @@ Understanding how an open-source project works is important because it establish
 A [recent article on the Bitcoin and Ethereum contributor communities](https://medium.com/@FEhrsam/funding-the-evolution-of-blockchains-87d160988481) illustrates this disparity perfectly. Ethereum and Bitcoin have market capitalizations valued at $30 billion and $70 billion, respectively. However, both projects have fewer than 40 meaningful contributors, and contribution isn't growing despite the rising popularity of cryptocurrency.
 
 ![Number of Bitcoin contributors between 2010 and 2017](http://default/files/cache/drupal/number-of-bitcoin-contributors-2017-640w.png)
-*According to <a href="https://github.com/bitcoin/bitcoin/graphs/contributors">Bitcoin's GitHub data</a>, Bitcoin has less than 40 active contributors.*
+*According to [Bitcoin's GitHub data](https://github.com/bitcoin/bitcoin/graphs/contributors), Bitcoin has less than 40 active contributors.*
 
 ![Number of Ethereum contributors between 2014 and 2017](http://default/files/cache/drupal/number-of-ethereum-contributors-2017-640w.png)
-*According to <a href="https://github.com/ethereum/go-ethereum/graphs/contributors">Ethereum's GitHub data</a>, Ethereum has less than 20 active contributors.*
+*According to [Ethereum's GitHub data](https://github.com/ethereum/go-ethereum/graphs/contributors), Ethereum has less than 20 active contributors.*
 
 Drupal, by comparison, has a diverse community of contributors. In the 12-month period between July 1, 2016 to June 30, 2017 we saw code contributions on Drupal.org from 7,240 different individuals and 889 different companies. This does not mean that Drupal is exempt from the challenges of scaling an open-source project. We hope that this report provides transparency about Drupal project development and encourages more individuals and organizations incentive to contribute. We also will highlight areas where our community can and should do better.
 

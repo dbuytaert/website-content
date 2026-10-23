@@ -147,7 +147,7 @@ Leaving the comfort of Galehead Hut, we set course to Mount Garfield. About two 
   ![A hiker with a large backpack ascending a trail with large rocks in between trees.](http://default/files/cache/pemi-loop-2023/garfield-ridge-trail-640w.jpg)
 *Making our way up to Garfield Ridge Trail toward Garfield Mountain. Because the trail can be steep and requires careful footing, it slowed down our pace.*
   ![A hiker filling a water bottle from a small stream.](http://default/files/cache/pemi-loop-2023/refilling-water-on-garfield-ridge-trail-640w.jpg)
-*Refilling our water supplies at a stream on Garfield Ridge Trail. On many stretches, you won't find fresh water for miles, so you have to plan ahead and carry 2 or 3 liters of water \(4-6 pounds\).*
+*Refilling our water supplies at a stream on Garfield Ridge Trail. On many stretches, you won't find fresh water for miles, so you have to plan ahead and carry 2 or 3 liters of water (4-6 pounds).*
 </div>
 
 As we ate a snack at the summit, we gazed at our next obstacle, Mount Lafayette, which stood prominently before us. From our vantage point, it appeared both distant and daunting. And that is precisely what it was: a 3.9 mile hike with a hefty 1,200 foot elevation gain.
@@ -160,7 +160,7 @@ It was a sobering moment because we also realized that, after 7 hours of hiking,
 
 <div class="large">
   ![A hiker seated on the ground, looking deflated, eating some food to regain energy.](http://default/files/cache/pemi-loop-2023/resting-near-mount-lafayette-640w.jpg)
-*On the edge of giving up, just half a mile shy of Mount Lafayette's peak \(shown in background\).*
+*On the edge of giving up, just half a mile shy of Mount Lafayette's peak (shown in background).*
 </div>
 
 We had only covered 6.6 miles in those 7 hours. The rugged terrain had slowed our pace to less than a mile an hour. It was already 3:30pm and with another 3.8 miles to go, the math was against us; if we continued at this pace, we'd be setting up camp in the dark.

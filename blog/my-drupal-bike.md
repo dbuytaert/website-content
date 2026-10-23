@@ -29,11 +29,11 @@ I ordered one instantly, and a couple of weeks later, a bike showed up at my fro
 ![A blue and white cycling jersey with the Drupal logo and branding, laid flat on a black surface.](http://default/files/cache/mission-bicycle-2009/drupal-bike-3-640w.jpg);
 ![Partially assembled blue bicycle frame with protective padding, handlebars, and seat post laid out on a wooden floor.](http://default/files/cache/mission-bicycle-2009/drupal-bike-4-640w.jpg)
 ![A young child in a white shirt and jeans holds a large bicycle wheel while standing indoors.](http://default/files/cache/mission-bicycle-2009/drupal-bike-5-640w.jpg)
-*<a href="http://www.missionbicycle.com/">Mission Bikes</a> come with an <a href="http://en.wikipedia.org/wiki/Oompa-Loompa">Oompa-Loompa</a> that will assemble your bike.*
+*[Mission Bikes](http://www.missionbicycle.com/) come with an [Oompa-Loompa](http://en.wikipedia.org/wiki/Oompa-Loompa) that will assemble your bike.*
 ![A child in a white shirt removes protective wrapping from a partially assembled blue bicycle on a wooden floor.](http://default/files/cache/mission-bicycle-2009/drupal-bike-6-640w.jpg)
 *The Oompa-Loompa assembled the front wheel and steering column, and is now working to remove the protective cover from the bike.*
 ![Close-up of a bicycle crankset with "Bulletproof" printed on the crank arm, set against a dark background.](http://default/files/cache/mission-bicycle-2009/drupal-bike-7-640w.jpg)
-*Real men ride bulletproof bikes \(with no brakes\).*
+*Real men ride bulletproof bikes (with no brakes).*
 ![Close-up of a bicycle's rear wheel hub, showing a flip-flop hub for switching between fixed gear and single speed.](http://default/files/cache/mission-bicycle-2009/drupal-bike-8-640w.jpg)
-*Flipping the back wheel allows me to switch between <a href="http://en.wikipedia.org/wiki/Fixed-gear\_bicycle">fixed gear</a> and <a href="http://en.wikipedia.org/wiki/Single-speed\_bicycle">single speed</a>. Crazy hot!*
+*Flipping the back wheel allows me to switch between [fixed gear](http://en.wikipedia.org/wiki/Fixed-gear_bicycle) and [single speed](http://en.wikipedia.org/wiki/Single-speed_bicycle). Crazy hot!*
 ![A blue road bike with white handlebars and wheels leans against a plain wall indoors.](http://default/files/cache/mission-bicycle-2009/drupal-bike-10-640w.jpg)

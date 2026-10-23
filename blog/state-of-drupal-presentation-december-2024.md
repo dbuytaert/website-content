@@ -43,7 +43,7 @@ For more background on Drupal CMS, I recommend reading our [three-year strategy 
 
 <div class="large">
   ![A slide showing a grid of 19 projects, each labeled with the name of the individual and their organization responsible for building the corresponding recipe.](http://default/files/cache/drupalcon-singapore-2024/certified-partner-contributions-640w.png)
-*A slide from my recent <a href="https://dri.es/state-of-drupal-presentation-december-2024">DrupalCon Singapore State of Drupal keynote</a> showcasing key contributors to Drupal CMS. This slide showcases how we recognize and celebrate Makers in our community, encouraging active participation in the project.*
+*A slide from my recent [DrupalCon Singapore State of Drupal keynote](https://dri.es/state-of-drupal-presentation-december-2024) showcasing key contributors to Drupal CMS. This slide showcases how we recognize and celebrate Makers in our community, encouraging active participation in the project.*
 </div>
 
 Below are some of the key improvements I showcased in my keynote, highlighted in short video segments. These videos demonstrate just 7 recipes, but we have nearly 20 in development.

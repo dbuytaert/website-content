@@ -25,13 +25,13 @@ We also love camping, but obviously, lugging our espresso machine into the great
 Ultimately, we've come to really like the [moka pot](https://en.wikipedia.org/wiki/Moka_pot), also known as a *percolator*, for camping. It delivers a strong, rich coffee that is somewhat close to an espresso due to its pressure-based brewing method.
 
 ![A moka pot brewing coffee on a portable camping stove in a forest setting.](http://default/files/cache/hermit-island-2020/coffee-and-eggs-for-breakfast-1-640w.jpg)
-*A moka pot \(or percolator\) brewing coffee during a camping trip in Maine, USA.*
+*A moka pot (or percolator) brewing coffee during a camping trip in Maine, USA.*
 
 Using the moka pot can be a bit tricky. Making good coffee requires getting the details right, which we tend to forget between trips. On our first morning camping, the coffee is often okay but not great. Each time, it takes a few mornings of trial and error to turn okay coffee into great coffee.
 
 So, I've finally decided to document our steps, hoping it will help us brew the perfect cup from the first morning. I wrote down these steps for our own reference, but I'll keep tweaking them as we refine our technique.
 
-![Cooking eggs and brewing coffee in the van’s kitchen, with apples from a nearby tree visible outside the window.](http://default/files/cache/heidenburg-2022/coffee-and-eggs-for-breakfast-640w.jpg)
+![Cooking eggs and brewing coffee in the van's kitchen, with apples from a nearby tree visible outside the window.](http://default/files/cache/heidenburg-2022/coffee-and-eggs-for-breakfast-640w.jpg)
 *Preparing eggs and coffee in our van at a campsite in Heidenburg, Germany.*
 
 ## What you need

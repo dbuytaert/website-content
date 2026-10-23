@@ -61,7 +61,7 @@ I'll never forget the first time I plugged in the solar panel – it felt like p
 
 <div class="large">
   ![A large battery, the size of a loaf of bread, with a solar panel in the background.](http://default/files/cache/blog/18ah-battery-640w.jpg)
-*A 18Ah LFP battery from Voltaic, featuring a waterproof design and integrated MPPT charge controller. The battery is large and heavy, weighing 3kg \(6.6lbs\), but it can power a Raspberry Pi for days.*
+*A 18Ah LFP battery from Voltaic, featuring a waterproof design and integrated MPPT charge controller. The battery is large and heavy, weighing 3kg (6.6lbs), but it can power a Raspberry Pi for days.*
 </div>
 
 Voltaic's battery system includes a built-in charge controller with Maximum Power Point Tracking (MPPT) technology, which regulates the solar panel's output to optimize battery charging. In addition, the MPPT controller protects the battery from overcharging, extreme temperatures, and short circuits.
@@ -102,7 +102,7 @@ The Raspberry Pi uses [Caddy](https://caddyserver.com/) as its web server, which
 ## Monitoring and dashboard
 
 ![A Raspberry Pi 4 and an RS485 CAN HAT next to each other.](http://default/files/cache/blog/raspberry-pi-4-and-rs485-can-hat-640w.jpg)
-*The Raspberry Pi 4 \(on the left\) can run a website, while the RS485 CAN HAT \(on the right\) will communicate with the charge controller for the solar panel and battery.*
+*The Raspberry Pi 4 (on the left) can run a website, while the RS485 CAN HAT (on the right) will communicate with the charge controller for the solar panel and battery.*
 
 One key feature that influenced my decision to go with the Voltaic battery is its [RS485 interface](https://en.wikipedia.org/wiki/RS-485) for the charge controller. This allowed me to add an RS485 CAN HAT (Hardware Attached on Top) to the Raspberry Pi, enabling communication with the charge controller using the [Modbus protocol](https://en.wikipedia.org/wiki/Modbus). In turn, this enabled me to programmatically gather real-time data on the solar panel's output and battery's status.
 

@@ -22,7 +22,7 @@ id: 4586
 
 Configuration management is an important feature of any modern content management system. Those following modern development best-practices use a development workflow that involves some sort of development and staging environment that is separate from the production environment.
 
-![A diagram showing a configuration workflow moving from development \(dev\) to staging \(stage\) to production \(prod\) with arrows.](http://default/files/cache/drupal/configuration-management-example-1-640w.jpg)
+![A diagram showing a configuration workflow moving from development (dev) to staging (stage) to production (prod) with arrows.](http://default/files/cache/drupal/configuration-management-example-1-640w.jpg)
 
 Given such a development workflow, you need to push configuration changes from development to production (similar to how you need to push code or content between environments). Drupal's configuration management system helps you do that in a powerful yet elegant way.
 

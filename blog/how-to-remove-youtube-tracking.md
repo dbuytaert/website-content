@@ -40,12 +40,12 @@ Before:
 
 <div class="large">
   ![A waterfall diagram that shows requests and load times before replacing youtube.com with youtube-nocookie.com](http://default/files/cache/blog/webpagetest-youtube-embed-2019-before-640w.png)
-*When embedding a video using <code>youtube.com</code>, Google uses DoubleClick to track your users \(yellow bar\). A total of 22 files were loaded, and the total time to load the page was 4.4 seconds \(vertical blue line\). YouTube makes your pages slow, as the vast majority of requests and load time is spent on loading the YouTube video.*
+*When embedding a video using `youtube.com`, Google uses DoubleClick to track your users (yellow bar). A total of 22 files were loaded, and the total time to load the page was 4.4 seconds (vertical blue line). YouTube makes your pages slow, as the vast majority of requests and load time is spent on loading the YouTube video.*
 </div>
 
 After:
 
 <div class="large">
   ![A waterfall diagram that shows requests and load times after replacing youtube.com with youtube-nocookie.com](http://default/files/cache/blog/webpagetest-youtube-embed-2019-after-640w.png)
-*When using <code>youtube-nocookie.com</code>, Google no longer uses DoubleClick to track your users. No HTTP cookie was sent, "only" 18 files were loaded, and the total page load time was significantly faster at 2.9 seconds \(vertical blue line\). Most of the load time is still the result of embedding a single YouTube video.*
+*When using `youtube-nocookie.com`, Google no longer uses DoubleClick to track your users. No HTTP cookie was sent, "only" 18 files were loaded, and the total page load time was significantly faster at 2.9 seconds (vertical blue line). Most of the load time is still the result of embedding a single YouTube video.*
 </div>

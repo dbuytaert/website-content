@@ -22,6 +22,6 @@ It's not every day that you get to meet [so many great people](https://dri.es/fo
 ![A grassy area filled with tents in front of a large house, with people gathered near tables under umbrellas.](http://default/files/cache/foocamp-2007/camping-640w.jpg)
 ![A whiteboard filled with handwritten session topics and notes from FooCamp 2007, organized in a grid format.](http://default/files/cache/foocamp-2007/sessions-640w.jpg)
 ![Three men stand together, smiling and talking.](http://default/files/cache/foocamp-2007/jeff-robbins-larry-page-and-evan-williams-640w.jpg)
-*Jeff Robbins \(co-founder Lullabot + former rockstar\), Larry Page \(co-founder Google\) and Evan Williams \(co-founder Blogger.com, co-founder Twitter\) at FooCamp 2007.*
+*Jeff Robbins (co-founder Lullabot + former rockstar), Larry Page (co-founder Google) and Evan Williams (co-founder Blogger.com, co-founder Twitter) at FooCamp 2007.*
 
 More photos in [my FooCamp gallery](https://dri.es/album/foocamp-2007/).

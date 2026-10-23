@@ -42,7 +42,7 @@ Over the past months we studied maps, gathered supplies, and prepared for the hi
 </div>
 <div class="large">
 ![View from a small plane cockpit approaching Annecy, with Lake Annecy and surrounding mountains ahead.](http://default/files/cache/la-tournette-2025/approach-annecy-view-tournette-640w.jpg)
-*As we approached Annecy and prepared to land, La Tournette \(left\) rose above the other peaks, showing the climb that lay ahead.*
+*As we approached Annecy and prepared to land, La Tournette (left) rose above the other peaks, showing the climb that lay ahead.*
 </div>
 
 Axl thought the trip would begin with a nine-hour drive south to Annecy. What he didn't know was that one of my best friends, Ben, who owns a Cessna, would be flying us instead. It felt like the perfect surprise to begin our trip.
@@ -93,7 +93,7 @@ When we unzipped the tent around 6:00 in the morning, a "bouquetin" (ibex) with 
 
 <div class="large">
 ![From inside a tent, an ibex with large horns stands a few meters away in the grass, looking toward the campers.](http://default/files/cache/la-tournette-2025/ibex-at-dawn-640w.jpg)
-*When we opened the tent in the morning, a bouquetin \(ibex\) was standing right outside, watching us.*
+*When we opened the tent in the morning, a bouquetin (ibex) was standing right outside, watching us.*
 </div>
 
 By 7:00 a shepherd appeared out of nowhere while we were making coffee. He told us wild camping here was not permitted. He spoke with quiet firmness. We were startled and embarrassed, having missed the sign lower down the trail. We apologized, promised to leave no trace, and packed up to be on our way. 

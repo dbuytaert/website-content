@@ -38,7 +38,7 @@ Drupal has always been known for its low-code capabilities. However, many compet
 Twenty-three years after Drupal's inception, we are preparing to launch a second official version of Drupal. For the time being, we're calling this second version "Drupal CMS". It will be built on top of Drupal Core and common contributed modules, and available as a separate download alongside Drupal Core.
 
 ![Wireframe for Drupal download page displaying two options: "Drupal CMS" for general use and "Drupal Core" for custom CMS development.](http://default/files/cache/drupalcon-portland-2024/drupal-starshot-download-wireframe-640w.png)
-*Wireframe of the Drupal.org download page featuring two options: Drupal CMS \(Drupal Starshot\) and Drupal Core, with Drupal CMS being promoted as the preferred starting point for most.*
+*Wireframe of the Drupal.org download page featuring two options: Drupal CMS (Drupal Starshot) and Drupal Core, with Drupal CMS being promoted as the preferred starting point for most.*
 
 Drupal Starshot will be designed to have a great out-of-the-box experience. It will enable [Ambitious Site Builders](https://dri.es/drupal-is-for-ambitious-site-builders) without Drupal experience to easily create a new Drupal site and extend it with pre-packaged recipes, all using their browser.
 

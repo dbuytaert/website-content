@@ -86,7 +86,7 @@ Here is how we accomplish this:
 
 <div class="large">
   ![A slide showing a grid of 14 projects, each labeled with the name of the individual and their organization responsible for building the corresponding recipe.](http://default/files/cache/drupalcon-barcelona-2024/certified-partner-contributions-640w.png)
-*A slide from my recent <a href="https://dri.es/state-of-drupal-presentation-september-2024">DrupalCon Barcelona State of Drupal keynote</a> showcasing key contributors to Drupal Starshot. This slide showcases how we recognize and celebrate Makers in our community, encouraging active participation in the project.*
+*A slide from my recent [DrupalCon Barcelona State of Drupal keynote](https://dri.es/state-of-drupal-presentation-september-2024) showcasing key contributors to Drupal Starshot. This slide showcases how we recognize and celebrate Makers in our community, encouraging active participation in the project.*
 </div>
 
 ## Governance and fairness

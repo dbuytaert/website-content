@@ -116,7 +116,7 @@ More of the work on a site happens outside Drupal every year: in AI assistants, 
 Drupal has entities, fields, permissions, revisions, workflows, content moderation and tens of thousands of contributed modules. But making a module's capabilities available to an assistant, a workflow or a front end still too often requires some integration work.
 
 ![Keynote slide titled "The capabilities are here, but access is still too hard".](http://default/files/cache/drupalcon-rotterdam-2026/drupal-capabilities-access-still-too-hard-640w.png)
-*A slide from <a href="https://dri.es/state-of-drupal-presentation-september-2026">my DrupalCon Rotterdam 2026 keynote</a>: Drupal has the capabilities, but making them available to other software is still too hard.*
+*A slide from [my DrupalCon Rotterdam 2026 keynote](https://dri.es/state-of-drupal-presentation-september-2026): Drupal has the capabilities, but making them available to other software is still too hard.*
 
 Installing a Drupal module should make its capabilities available to software already connected to a site: new tools for assistants, new operations for workflows, and new capabilities for front-end developers.
 
@@ -174,7 +174,7 @@ The attributes also explain what each property means. In PHP, a title, a caption
 
 <div class="large">
 ![Keynote slide titled "Three strings can mean three different things".](http://default/files/cache/drupalcon-rotterdam-2026/image-class-tool-attributes-640w.png)
-*A slide from <a href="https://dri.es/state-of-drupal-presentation-september-2026">my DrupalCon Rotterdam 2026 keynote</a>: all three values have PHP's <code>string</code> type, but <code>#\[ToolProperty\]</code> attributes describe the title as plain text, the caption as HTML and the URL as a URI.*
+*A slide from [my DrupalCon Rotterdam 2026 keynote](https://dri.es/state-of-drupal-presentation-september-2026): all three values have PHP's `string` type, but `#[ToolProperty]` attributes describe the title as plain text, the caption as HTML and the URL as a URI.*
 </div>
 
 Tool API only includes the photo properties I explicitly describe with `#[ToolProperty]`. The attribute can go on a public class property or a getter method. On `getUrl()`, it exposes the returned value as a photo property named `url`; it doesn't make the getter a callable tool.

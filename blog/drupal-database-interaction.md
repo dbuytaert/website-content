@@ -32,7 +32,7 @@ We observe that more than 45% (14.37% + 14.18% + 8.9% + 5.54% + 2.9% + ...) of t
 The figure above depicts that PHP's `mysql_query()` function is called 1401 times. This means that we need 14 SQL queries to serve a cached page. This is where these SQL queries come from:
 
 ![Table showing Drupal functions querying the database for 100 cached pages, with execution time, query count, and function names.](http://default/files/images/drupal/queries-cache.jpg)
-*This figure shows the Drupal functions responsible for querying the database when serving 100 cached pages. The first column shows how much time is spent in the calls to <code>db\_query\(\)</code>. The second column shows how many times each function queried the database and the last column shows the functions' names and source files.*
+*This figure shows the Drupal functions responsible for querying the database when serving 100 cached pages. The first column shows how much time is spent in the calls to `db_query()`. The second column shows how many times each function queried the database and the last column shows the functions' names and source files.*
 
 ## Without page caching
 
@@ -42,4 +42,4 @@ The figure above depicts that PHP's `mysql_query()` function is called 1401 time
 When the page cache is disabled, we see that on average we need 144 SQL queries to generate the main page.  That is a lot.  We also observe that 25% of the total execution time is spent in database related functions: 13% of the total execution time is spent executing queries, and 12% of the total execution time is spent preparing the queries.  This is where the SQL queries come from:
 
 ![Table showing Drupal functions querying the database, with execution time, query count, and function names from source files.](http://default/files/images/drupal/queries-nocache.jpg)
-*This figure shows the Drupal functions responsible for querying the database when serving 100 pages. The first column shows how much time is spent in the calls to <code>db\_query\(\)</code>. The second column shows how many times each function queried the database and the last column shows the functions' names and source files.*
+*This figure shows the Drupal functions responsible for querying the database when serving 100 pages. The first column shows how much time is spent in the calls to `db_query()`. The second column shows how many times each function queried the database and the last column shows the functions' names and source files.*

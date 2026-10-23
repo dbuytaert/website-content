@@ -43,7 +43,7 @@ It's possible that we're reaching the point where we need oversight for consumer
 
 ## Gaining control of our personal data
 
-But algorithmic oversight is not enough. In numbers by the billions, people are using free and convenient services, often without a clear understanding of how and where their data is being used. Many times, this data is shared and exchanged between services, to the point where people don't know What is safe anymore. It's an unfair trade-off.
+But algorithmic oversight is not enough. In numbers by the billions, people are using free and convenient services, often without a clear understanding of how and where their data is being used. Many times, this data is shared and exchanged between services, to the point where people don't know what is safe anymore. It's an unfair trade-off.
 
 I believe that consumers should have some level of [control over how their data is shared](https://dri.es/winning-back-the-open-web) with external sites and services; in fact, they should be able to opt into nearly everything they share if they want to. If a consumer wants to share her shoe size and color preferences with every shopping website, her experience with the web could become more personal, with her consent. Imagine a way to manage how our information is used across the entire web, not just within a single platform. That sort of power in the hands of the people could help the Open Web gain an edge on the hyper-personalized, easy-to-use "closed" web.
 

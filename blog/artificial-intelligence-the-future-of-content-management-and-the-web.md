@@ -92,7 +92,7 @@ Right now, in AI search engines, attribution is a problem. It's often impossible
 I also expect that more websites will explicitly license their content, and specify the ways that search engines, crawlers, and chatbots can use, remix, and adopt their content.
 
 ![Schema org image license markup](http://default/files/cache/blog/schema-org-image-license-markup-640w.png)
-*The HTML code for an image on my blog. Schema.org metadata is used to programmatically specify that my photo is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</a>. This license encourages others to copy, remix, and redistribute my photos, as long it is for noncommercial purposes and appropriate credit is given.*
+*The HTML code for an image on my blog. Schema.org metadata is used to programmatically specify that my photo is licensed under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). This license encourages others to copy, remix, and redistribute my photos, as long it is for noncommercial purposes and appropriate credit is given.*
 
 As can be seen from the screenshot above, I specify a license for [all 10,000+ photos on my site](https://dri.es/photos). I make them available under [Creative Commons](https://creativecommons.org/). The license is specified in the HTML code, and can be programmatically extracted by a crawler. I do something very similar for my blog posts.
 

@@ -20,7 +20,7 @@ id: 5236
 
 # State of Drupal presentation (October 2021)
 
-![Opening slide with the text 'DriesNote — DrupalCon Europe 2021'.](http://default/files/cache/drupalcon-europe-2021/opening-slide-640w.png)
+![Opening slide with the text 'DriesNote – DrupalCon Europe 2021'.](http://default/files/cache/drupalcon-europe-2021/opening-slide-640w.png)
 
 Last week, Drupalists around the world gathered virtually for DrupalCon Europe 2021.
 

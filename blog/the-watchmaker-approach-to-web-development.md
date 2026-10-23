@@ -32,7 +32,7 @@ When working on my website, I often make small tweaks and improvements. Much lik
 This holiday, I improved the [lazy loading of images](https://web.dev/articles/browser-level-image-lazy-loading) in [my blog posts](https://dri.es/blog), leading to a perfect [Lighthouse score](https://pagespeed.web.dev/). A perfect score isn't necessary, but it shows the effort and care I put into my website.
 
 ![A screenshot of dri.es' Lighthouse scores showing 100% scores in performance, accessibility, best practices, and SEO.](http://default/files/cache/blog/perfect-lighthouse-score-2024-640w.png)
-*Screenshot of Lighthouse scores via <a href="https://pagespeed.web.dev/">https://pagespeed.web.dev/</a>.*
+*Screenshot of Lighthouse scores via [https://pagespeed.web.dev/](https://pagespeed.web.dev/).*
 
 I also [validated my RSS feeds](https://validator.w3.org/feed/), uncovering a few opportunities for improvement. Like a good Belgian school boy, I promptly implemented these improvements, added new [PHPUnit tests](https://dri.es/phpunit-tests-for-drupal) *and* integrated these into [my CI/CD pipeline](https://dri.es/my-drupal-deployment-workflow). Some might consider this overkill for a personal site, but for me, it's about mastering the craft, adhering to high standards, and building something that is durable.
 

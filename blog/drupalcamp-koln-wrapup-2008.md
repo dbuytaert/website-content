@@ -19,8 +19,8 @@ id: 578
 Last weekend, I attended [DrupalCamp Köln](https://dri.es/drupalcamp-koln-2008) in Germany. It was great to put my feelers out in the German Drupal community and to talk with so many Drupal users and developers. Executive summary: the German Drupal community is going strong. *Thank you for your hospitality!*
 
 ![A man in a maroon shirt reads from a paper while speaking into a microphone, with two others listening.](http://default/files/cache/drupalcamp-cologne-2009/welcome-note-640w.jpg)
-*The welcome note with Thomas Narres \(<a href="http://www.narres.com">Narres Open Web Solutions</a>\), <a href="http://robshouse.net">Robert Douglass</a> \(<a href="http://acquia.com">Acquia</a>\) and the main sponsor Mr. Hecker \(<a href="http://www.gfu.net/">GFU</a>\).*
+*The welcome note with Thomas Narres ([Narres Open Web Solutions](http://www.narres.com)), [Robert Douglass](http://robshouse.net) ([Acquia](http://acquia.com)) and the main sponsor Mr. Hecker ([GFU](http://www.gfu.net/)).*
 ![A handwritten sign reading "Donations Drupal.org Redesign" lies on a table next to a German Drupal 6 book and sticky notes.](http://default/files/cache/drupalcamp-cologne-2009/fundraise-640w.jpg)
-*We raised a good amount of money for the <a href="https://dri.es/drupal-org-redesign-code-sprints">Drupal.org redesign sprints</a>. Thank you Germany!*
+*We raised a good amount of money for the [Drupal.org redesign sprints](https://dri.es/drupal-org-redesign-code-sprints). Thank you Germany!*
 ![A speaker presents on Apache Solr and search technology at DrupalCamp Cologne 2009, with a projected slide behind him.](http://default/files/cache/drupalcamp-cologne-2009/robert-on-apache-solr-640w.jpg)
-*<a href="http://robshouse.net">Robert Douglass</a> talking about Apache Solr and <a href="https://dri.es/a-hosted-search-service-for-drupal">Acquia's upcoming hosted search offering</a>. The room was packed!*
+*[Robert Douglass](http://robshouse.net) talking about Apache Solr and [Acquia's upcoming hosted search offering](https://dri.es/a-hosted-search-service-for-drupal). The room was packed!*

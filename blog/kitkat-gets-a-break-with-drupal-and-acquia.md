@@ -35,7 +35,7 @@ KitKat partnered with Wunderman Thompson to standardize all of the brand's globa
 If you've ever seen a matcha green tea KitKat in Japan, you know that KitKats don't look the same around the world. While standardization and governance are important, each region also needs the flexibility to make content changes at a local level.
 
 <div class="large">
-  ![A slide from KitKat's presentation highlighting the importance of Open Source to Nestlé. It lists four reasons: \(1\) budget, \(2\) community, \(3\) flexibility and transparency, and \(4\) global standards.](http://default/files/cache/acquia/engage-london-2023-kitkat-2-640w.png)
+  ![A slide from KitKat's presentation highlighting the importance of Open Source to Nestlé. It lists four reasons: (1) budget, (2) community, (3) flexibility and transparency, and (4) global standards.](http://default/files/cache/acquia/engage-london-2023-kitkat-2-640w.png)
 *A slide from KitKat's presentation at Acquia Engage 2023.*
 </div>
 

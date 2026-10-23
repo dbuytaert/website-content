@@ -23,7 +23,7 @@ In a world where innovation is only accelerating, shackling employees with non-c
 >
 > Acquians,
 >
-> We have an amazing team, it's the thing I am personally proudest about. When asked by others What is the best thing about our company, I don't hesitate to answer "our team".
+> We have an amazing team, it's the thing I am personally proudest about. When asked by others what is the best thing about our company, I don't hesitate to answer "our team".
 >
 > There are many things to value in each of you, from your commitment, your integrity and certainly your passion!
 >

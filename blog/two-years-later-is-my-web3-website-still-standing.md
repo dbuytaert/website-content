@@ -169,7 +169,7 @@ $ ipfs name publish /ipfs/bafybeibbkhmln7o4ud6an4qk6bukcpri7nhiwv6pz6ygslgtsrey2
 ```
 
 ![A screenshot of the IPFS Desktop application displaying an HTML file with a drop-down menu option to 'Publish to IPNS'.](http://default/files/cache/blog/publish-to-ipns-from-ipfs-desktop-640w.png)
-*The IPFS Desktop application showing my <code>index.html</code> file with an option to 'Publish to IPNS'.*
+*The IPFS Desktop application showing my `index.html` file with an option to 'Publish to IPNS'.*
 
 After generating the IPNS hash, I was able to visit my site in Brave using the IPFS protocol at `ipfs://bafybeibbkhmln7o4ud6an4qk6bukcpri7nhiwv6pz6ygslgtsrey2c3o3q`, or via the IPNS protocol at `ipns://k51qzi5uqu5dgy8mzjtcqvgr388xjc58fwprededbb1fisq1kvl34sy4h2qu1a`.
 
@@ -179,7 +179,7 @@ After generating the IPNS hash, I was able to visit my site in Brave using the I
 Next, I updated the ENS record for `dries.eth` to link to my IPNS hash. This change cost me 0.0011 ETH (currently $4.08 USD), as shown in the [Etherscan transaction](https://etherscan.io/tx/0xfc8be3add432e7440478897726eced850087cb8a1f79dcdeb926e575c31e3f8c). Once the transaction was processed, `dries.eth` began directing to the new IPNS address.
 
 ![A screen confirming an updated content hash for 'dries.eth' on the Ethereum Name Service, with a link to view the transaction on Etherscan.](http://default/files/cache/blog/ipns-record-on-ethereum-name-service-640w.png)
-*A transaction confirmation on the <a href="https://ens.domains/">ENS website</a>, showing a successful update for <code>dries.eth</code>.*
+*A transaction confirmation on the [ENS website](https://ens.domains/), showing a successful update for `dries.eth`.*
 
 ## Rolling back my IPNS record in ENS
 

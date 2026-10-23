@@ -43,11 +43,11 @@ Building Drupal 8 with all of you has been a wild ride. I thought it would be fu
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="en" dir="ltr">
-   <a href="https://twitter.com/Dries">@dries</a> branching D8 <a href="https://twitter.com/hashtag/drupalcon?src=hash">#drupalcon</a>
-   <a href="https://twitter.com/hashtag/drupalchi?src=hash">#drupalchi</a>
-   <a href="http://t.co/kW6TvUZ">http://t.co/kW6TvUZ</a>
-   <a href="https://twitter.com/hashtag/drupal?src=hash">#drupal</a>
- </p>
+  <a href="https://twitter.com/Dries">@dries</a> branching D8 <a href="https://twitter.com/hashtag/drupalcon?src=hash">#drupalcon</a>
+  <a href="https://twitter.com/hashtag/drupalchi?src=hash">#drupalchi</a>
+  <a href="http://t.co/kW6TvUZ">http://t.co/kW6TvUZ</a>
+  <a href="https://twitter.com/hashtag/drupal?src=hash">#drupal</a>
+</p>
   <p>– Jeff Geerling (@geerlingguy) <a href="https://twitter.com/geerlingguy/status/45940079734161408">March 10, 2011</a>
 </p>
 </blockquote>
@@ -79,7 +79,7 @@ Building Drupal 8 with all of you has been a wild ride. I thought it would be fu
 ## We had issues ... but the queue steadily declined
 
 <blockquote class="twitter-tweet" lang="en">
-  <p lang="en" dir="ltr">Today there are zero <a href="https://twitter.com/hashtag/Drupal?src=hash">#Drupal</a> 8 beta blockers! Here is What is next: <a href="https://t.co/yq9eOhEgLW">https://t.co/yq9eOhEgLW</a> Of note: finish beta deadline issues by Sept. 28.</p>
+  <p lang="en" dir="ltr">Today there are zero <a href="https://twitter.com/hashtag/Drupal?src=hash">#Drupal</a> 8 beta blockers! Here is what is next: <a href="https://t.co/yq9eOhEgLW">https://t.co/yq9eOhEgLW</a> Of note: finish beta deadline issues by Sept. 28.</p>
   <p>– xjm (@xjmdrupal) <a href="https://twitter.com/xjmdrupal/status/513014180085911552">September 19, 2014</a>
 </p>
 </blockquote>
@@ -135,9 +135,9 @@ Building Drupal 8 with all of you has been a wild ride. I thought it would be fu
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="en" dir="ltr">
-   <a href="https://twitter.com/hashtag/Drupal?src=hash">#Drupal</a> 8 now ships with page caching enabled! Anon users: &lt;10 ms response time, yet instant updates! <a href="https://twitter.com/hashtag/FastByDefault?src=hash">#FastByDefault</a>
-   <a href="https://t.co/7vbPxFGVoK">https://t.co/7vbPxFGVoK</a>
- </p>
+  <a href="https://twitter.com/hashtag/Drupal?src=hash">#Drupal</a> 8 now ships with page caching enabled! Anon users: &lt;10 ms response time, yet instant updates! <a href="https://twitter.com/hashtag/FastByDefault?src=hash">#FastByDefault</a>
+  <a href="https://t.co/7vbPxFGVoK">https://t.co/7vbPxFGVoK</a>
+</p>
   <p>– Wim Leers (@wimleers) <a href="https://twitter.com/wimleers/status/585779086250901504">April 8, 2015</a>
 </p>
 </blockquote>
@@ -280,12 +280,12 @@ Download - Let's build something to celebrate! <a href="https://twitter.com/hash
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="en" dir="ltr">
-   <a href="https://twitter.com/hashtag/Drupal8?src=hash">#Drupal8</a> release party in <a href="https://twitter.com/hashtag/Lahore?src=hash">#Lahore</a>
-   <a href="https://twitter.com/hashtag/Pakistan?src=hash">#Pakistan</a> with <a href="https://twitter.com/JibranIjaz">@JibranIjaz</a>
-   <a href="https://twitter.com/NaveedSukhera">@NaveedSukhera</a>
-   <a href="https://twitter.com/hashtag/Celebr8D8?src=hash">#Celebr8D8</a>
-   <a href="https://t.co/GOcbRKJsGS">pic.twitter.com/GOcbRKJsGS</a>
- </p>
+  <a href="https://twitter.com/hashtag/Drupal8?src=hash">#Drupal8</a> release party in <a href="https://twitter.com/hashtag/Lahore?src=hash">#Lahore</a>
+  <a href="https://twitter.com/hashtag/Pakistan?src=hash">#Pakistan</a> with <a href="https://twitter.com/JibranIjaz">@JibranIjaz</a>
+  <a href="https://twitter.com/NaveedSukhera">@NaveedSukhera</a>
+  <a href="https://twitter.com/hashtag/Celebr8D8?src=hash">#Celebr8D8</a>
+  <a href="https://t.co/GOcbRKJsGS">pic.twitter.com/GOcbRKJsGS</a>
+</p>
   <p>– Shakeel Tariq (@shakeeltariq) <a href="https://twitter.com/shakeeltariq/status/667382654917038080">November 19, 2015</a>
 </p>
 </blockquote>
@@ -350,8 +350,8 @@ Download - Let's build something to celebrate! <a href="https://twitter.com/hash
 
 <blockquote class="twitter-tweet" lang="en">
   <p lang="en" dir="ltr">
-   <a href="https://twitter.com/hashtag/drupal8?src=hash">#drupal8</a> is (finally) available! Bye bye Drupal 6 and thank you for all these years... <a href="https://t.co/XUL9hkjj3n">pic.twitter.com/XUL9hkjj3n</a>
- </p>
+  <a href="https://twitter.com/hashtag/drupal8?src=hash">#drupal8</a> is (finally) available! Bye bye Drupal 6 and thank you for all these years... <a href="https://t.co/XUL9hkjj3n">pic.twitter.com/XUL9hkjj3n</a>
+</p>
   <p>– Peter Decuyper (@sgrame) <a href="https://twitter.com/sgrame/status/668734007153172480">November 23, 2015</a>
 </p>
 </blockquote>

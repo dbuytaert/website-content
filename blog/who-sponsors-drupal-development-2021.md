@@ -161,7 +161,7 @@ The Drupal Super Cycle is a recognition that Drupal's development cycle ebbs and
 Major Drupal releases only happen every 2 or 3 years. When a major release is close, contributors work on making their projects compatible. This requires extra development work, such as adopting new APIs, subsystems, libraries, and more. Once projects are compatible, the work often shifts from active development to maintenance work.
 
 ![A visual representation of the Drupal Super Cycle; contribution accelerates just before a major release and slows down after.](http://default/files/cache/drupal/drupal-super-cycle-2021-640w.png)
-*A slide from the <a href="https://dri.es/state-of-drupal-presentation-october-2021">my DrupalCon Europe 2021 keynote</a> where I explain the Drupal Super Cycle theory.*
+*A slide from the [my DrupalCon Europe 2021 keynote](https://dri.es/state-of-drupal-presentation-october-2021) where I explain the Drupal Super Cycle theory.*
 
 The last major Drupal release was Drupal 9, [released in June of 2020](https://dri.es/drupal-9-released). Last year's report analyzed contribution activity between July 1, 2019 and June 30, 2020. This period includes the 11-month period leading up to the Drupal 9 release, the Drupal 9 release itself, and 1 month after the Drupal 9 release. It's the "busy period" of the Super Cycle because the Drupal community is getting thousands of contributed modules ready for Drupal 9.
 

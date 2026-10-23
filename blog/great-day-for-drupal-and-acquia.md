@@ -28,11 +28,11 @@ Last but not least, today also marks the official "launch" of Acquia. That is, A
 
 [Carbon](https://www.acquia.com/projects/wiki/carbon) will be Acquia's first Drupal distribution. [Spokes](https://www.acquia.com/projects/wiki/spokes) will be an intelligent update notification service. This service will supply detailed compatibility and interdependency information to Acquia subscribers about updates to supported distributions.
 
-In a model similar to established commercial open source vendors like Red Hat, MySQL and Ubuntu, the update notification service will be available to customers who purchase Acquia subscriptions, while the distribution will be made available freely.
+In a model similar to established commercial Open Source vendors like Red Hat, MySQL and Ubuntu, the update notification service will be available to customers who purchase Acquia subscriptions, while the distribution will be made available freely.
 
 We believe quite strongly in fostering an open product development environment at Acquia – enabling you to voice your opinions about what Acquia should build. In fact, Ubuntu is already doing this today with [Ubuntu Brainstorm](http://brainstorm.ubuntu.com) – using Drupal to invite their community to submit and vote on product ideas.
 
-I encourage each of you to learn more about Carbon and Spokes and look forward to hearing your input and suggestions. I founded Acquia with Jay with the goal of growing Drupal by a factor of 10, creating opportunities for all of us to grow as individuals, as community members and as organizations. We will only achieve this by working together with you to do What is best for Drupal overall.
+I encourage each of you to learn more about Carbon and Spokes and look forward to hearing your input and suggestions. I founded Acquia with Jay with the goal of growing Drupal by a factor of 10, creating opportunities for all of us to grow as individuals, as community members and as organizations. We will only achieve this by working together with you to do what is best for Drupal overall.
 
 Thank you – for your enthusiasm, for your contributions, and your continued support.
 
