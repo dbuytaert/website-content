@@ -11,7 +11,7 @@ tags:
   - Drupal
   - 'Web performance'
   - Joomla
-  - Typo3
+  - TYPO3
   - WordPress
   - Plone
 published: true

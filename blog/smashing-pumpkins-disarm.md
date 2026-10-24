@@ -1,5 +1,5 @@
 ---
-url: 'https://dri.es/smashing-pumkins-disarm'
+url: 'https://dri.es/smashing-pumpkins-disarm'
 title: 'Smashing Pumpkins - Disarm'
 author:
   name: 'Dries Buytaert'

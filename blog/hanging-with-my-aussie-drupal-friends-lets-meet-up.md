@@ -18,7 +18,7 @@ id: 2116
 
 # Hanging with my Aussie Drupal friends: let's meet up
 
-To celebrate [Drupal's tenth anniversary](https://dri.es/happy-tenth-birtday-drupal) and [the release of Drupal 7](https://dri.es/drupal-7-released), I have decided to go on a Drupal tour, to celebrate, educate and spread the word on all things [Drupal](https://www.drupal.org). I'm kicking-off my Drupal tour with a trip to Australia.
+To celebrate [Drupal's tenth anniversary](https://dri.es/happy-tenth-birthday-drupal) and [the release of Drupal 7](https://dri.es/drupal-7-released), I have decided to go on a Drupal tour, to celebrate, educate and spread the word on all things [Drupal](https://www.drupal.org). I'm kicking-off my Drupal tour with a trip to Australia.
 
 It's important for me to meet with other community leaders around the globe and promote Drupal. While down under I will be meeting with Drupalistas and non-Drupalistas, Acquia customers and partners, press and analysts. My goal is three-fold: (1) to promote Drupal, (2) to gain insight from users and prospects on the choices they make when it comes to choosing a web platform and building websites, and (3) to figure out how to further improve Drupal.
 

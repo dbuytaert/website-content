@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/foocamp-2008'
-title: FooCamp
+title: 'Foo Camp'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -14,14 +14,14 @@ published: true
 id: 476
 ---
 
-# FooCamp
+# Foo Camp
 
-Last week was crazy. Six airplanes, three time zones, four different hotels, two rental cars, an Acquia Board meeting, two nights in a tent and ultimately, my mind blown at FooCamp.
+Last week was crazy. Six airplanes, three time zones, four different hotels, two rental cars, an Acquia Board meeting, two nights in a tent and ultimately, my mind blown at Foo Camp.
 
 ![View from inside a small airplane cockpit, following a larger plane on the taxiway, with a pilot in the foreground.](http://default/files/cache/foocamp-2008/foocamp-1-640w.jpg)
 *Off to a meeting in a tiny little airplane. In line behind the big guys. Taken with my iPhone.*
 
-[FooCamp](https://en.wikipedia.org/wiki/Foo_Camp) is the annual invitation-only conference organized by [Tim O'Reilly](https://en.wikipedia.org/wiki/Tim_O%27Reilly). It is the mother of [BarCamp](https://en.wikipedia.org/wiki/BarCamp), if you will. The people you get to meet at FooCamp are impressive, and the format (including the nightly campfires) really sets people up to talk, brainstorm and geek out. The result? A fire hose of new ideas and a lot of new friends. *Thanks Tim!*
+[Foo Camp](https://en.wikipedia.org/wiki/Foo_Camp) is the annual invitation-only conference organized by [Tim O'Reilly](https://en.wikipedia.org/wiki/Tim_O%27Reilly). It is the mother of [BarCamp](https://en.wikipedia.org/wiki/BarCamp), if you will. The people you get to meet at Foo Camp are impressive, and the format (including the nightly campfires) really sets people up to talk, brainstorm and geek out. The result? A fire hose of new ideas and a lot of new friends. *Thanks Tim!*
 
 ![A heavily modified, rusted vehicle is parked near a "Foo Camp" check-in sign outside a building.](http://default/files/cache/foocamp-2008/foocamp-9-640w.jpg)
 ![A person in a black hoodie is sitting on the floor, holding a camera and taking a photo in a group discussion.](http://default/files/cache/foocamp-2008/foocamp-3-640w.jpg)
@@ -29,4 +29,4 @@ Last week was crazy. Six airplanes, three time zones, four different hotels, two
 
 Just like [last year](https://dri.es/foocamp-was-mindblowing), I was pleasantly surprised by how many of the *Foos* are using [Drupal](https://www.drupal.org), planning to use Drupal, or even evangelizing Drupal. *More good stuff comin'!*
 
-More photos in [my FooCamp gallery](https://dri.es/album/foocamp-2008).
+More photos in [my Foo Camp gallery](https://dri.es/album/foocamp-2008).

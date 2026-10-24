@@ -1,5 +1,5 @@
 ---
-url: 'https://dri.es/donna-usnig-drupal'
+url: 'https://dri.es/donna-using-drupal'
 title: 'Donna using Drupal'
 author:
   name: 'Dries Buytaert'

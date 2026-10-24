@@ -22,7 +22,7 @@ id: 6091
 
 # The Software Sovereignty Scale
 
-![A five-level digital sovereignty scale ranked from A to E. A represents copyleft open source with no relicensing risk, B copyleft open source with relicensing risk, C permissive open source, D European proprietary software, and E foreign proprietary software. Higher grades indicate greater control and sovereignty.](http://default/files/cache/blog/software-sovereignty-scale-640w.png)
+![A five-level digital sovereignty scale ranked from A to E. A represents copyleft Open Source with no relicensing risk, B copyleft Open Source with relicensing risk, C permissive Open Source, D European proprietary software, and E foreign proprietary software. Higher grades indicate greater control and sovereignty.](http://default/files/cache/blog/software-sovereignty-scale-640w.png)
 
 "Buy European" is becoming Europe's rallying cry for digital sovereignty. The logic is intuitive: if you want independence from American technology, buy from European companies instead.
 

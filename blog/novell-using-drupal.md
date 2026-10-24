@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/novell-using-drupal'
-title: 'Novell using  Drupal'
+title: 'Novell using Drupal'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -14,7 +14,7 @@ published: true
 id: 367
 ---
 
-# Novell using  Drupal
+# Novell using Drupal
 
 Novell recently announced the launch of a number of community websites built with Drupal: <http://www.novell.com/communities/>.
 

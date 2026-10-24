@@ -23,8 +23,8 @@ In that time, we've managed to commit a number of compelling features to Drupal 
 
 The momentum within the Drupal core queue right now is truly staggering, as embodied by this graph:
 
-![Graph showing a rise in Drupal core patch contributions from 400 in March 2011 to over 4,000 in October 2012.](http://default/files/images/drupal/drupal-8-core-monthly-patch-volume.jpg)
-*Momentum around Drupal core has increased from around 400 patch contributions per month in March of 2011 to over 4,000 in October of 2012.*
+![Graph showing a rise in Drupal Core patch contributions from 400 in March 2011 to over 4,000 in October 2012.](http://default/files/images/drupal/drupal-8-core-monthly-patch-volume.jpg)
+*Momentum around Drupal Core has increased from around 400 patch contributions per month in March of 2011 to over 4,000 in October of 2012.*
 
 There are still incredible features for Drupal 8 that are heavily in progress, but not quite there yet, including blocks and layouts, WYSIWYG and inline editing, several more "contributed module to core" projects such as Date, Pathauto, Profile2, and Entity Reference, native web services support, improvements to the entity and field systems, and much. I'm truly impressed by all of the great efforts I see happening in the queue right now.
 

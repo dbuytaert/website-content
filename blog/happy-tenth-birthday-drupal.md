@@ -1,5 +1,5 @@
 ---
-url: 'https://dri.es/happy-tenth-birtday-drupal'
+url: 'https://dri.es/happy-tenth-birthday-drupal'
 title: 'Happy tenth birthday Drupal'
 author:
   name: 'Dries Buytaert'

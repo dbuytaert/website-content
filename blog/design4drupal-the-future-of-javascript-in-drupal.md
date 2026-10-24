@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/design4drupal-the-future-of-javascript-in-drupal'
-title: 'Design 4 Drupal: The future of JavaScript in Drupal'
+title: 'Design 4 Drupal: the future of JavaScript in Drupal'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -17,7 +17,7 @@ published: true
 id: 4431
 ---
 
-# Design 4 Drupal: The future of JavaScript in Drupal
+# Design 4 Drupal: the future of JavaScript in Drupal
 
 ![Circuit board close-up behind a Drupal drop logo and the words "Drupal is no longer the Drupal you used to know".](http://default/files/cache/drupal/drupal-is-no-longer-the-drupal-you-used-to-know-640w.jpg)
 

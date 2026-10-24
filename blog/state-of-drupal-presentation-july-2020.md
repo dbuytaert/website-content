@@ -86,7 +86,7 @@ Fortunately, it's something we have been working on for some time. Our first mil
 
 Beyond security, automated updates help us work towards our long-term vision of building a composable – or [Assembed Web](https://dri.es/the-assembled-web) – architecture for Drupal.
 
-![The Automativ Updates initiative requires integrity checks for Drupal core, Composer 2, package signing and a custom bootloader.](http://default/files/cache/drupalcon-global-2020/drupal-10-automated-updates-640w.png)
+![The Automativ Updates initiative requires integrity checks for Drupal Core, Composer 2, package signing and a custom bootloader.](http://default/files/cache/drupalcon-global-2020/drupal-10-automated-updates-640w.png)
 *A slide from [my keynote at DrupalCon Global 2020](https://dri.es/state-of-drupal-presentation-july-2020) where I gave an update on the Automatic Updates initiative. The slide shows the four major architectural building blocks of the Automatic Updates initiative.*
 
 ## 5. JavaScript menu component

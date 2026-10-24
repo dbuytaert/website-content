@@ -1,5 +1,5 @@
 ---
-url: 'https://dri.es/toris-amos-using-drupal'
+url: 'https://dri.es/tori-amos-using-drupal'
 title: 'Tori Amos using Drupal'
 author:
   name: 'Dries Buytaert'

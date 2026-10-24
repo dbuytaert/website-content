@@ -1,5 +1,5 @@
 ---
-url: 'https://dri.es/evalutaing-my-drupal-predictions-for-2006'
+url: 'https://dri.es/evaluating-my-drupal-predictions-for-2006'
 title: 'Evaluating my Drupal predictions for 2006'
 author:
   name: 'Dries Buytaert'

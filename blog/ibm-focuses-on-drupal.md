@@ -16,9 +16,9 @@ id: 106
 
 # IBM focuses on Drupal
 
-[IBM developerWorks](https://www.ibm.com/developerworks/) has started a new series entitled [Using open source software to design, develop, and deploy a collaborative website](http://www-128.ibm.com/developerworks/ibm/osource/implement.html).
+[IBM developerWorks](https://www.ibm.com/developerworks/) has started a new series entitled [Using Open Source software to design, develop, and deploy a collaborative website](http://www-128.ibm.com/developerworks/ibm/osource/implement.html).
 
-In the series, IBM's Internet Technology Group team describes a fictitious organization that requires a website that includes document storage, discussion groups, specialized workgroups, conference scheduling, etc. Because no turnkey solution is available they are faced with the task to extend and customize one of the available Open Source content management systems. After reviewing numerous Open Source packages such as Typo3, Mambo, Ruby on Rails, Movable Type and Wordpress, [IBM decided to use Drupal](http://www-128.ibm.com/developerworks/ibm/library/i-osource1/#N10245) to illustrate the creation of this website:
+In the series, IBM's Internet Technology Group team describes a fictitious organization that requires a website that includes document storage, discussion groups, specialized workgroups, conference scheduling, etc. Because no turnkey solution is available they are faced with the task to extend and customize one of the available Open Source content management systems. After reviewing numerous Open Source packages such as TYPO3, Mambo, Ruby on Rails, Movable Type and Wordpress, [IBM decided to use Drupal](http://www-128.ibm.com/developerworks/ibm/library/i-osource1/#N10245) to illustrate the creation of this website:
 
 > Drupal is a relative youngster compared to other content management systems. However, we got the impression the framework was well written, robust, very extensible, and seemed to have a thriving development community that was generating a lot of adoption and support ...
 

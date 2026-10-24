@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/beyonce-using-drupal'
-title: 'Beyonce using Drupal'
+title: 'Beyoncé using Drupal'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -16,8 +16,8 @@ published: true
 id: 533
 ---
 
-# Beyonce using Drupal
+# Beyoncé using Drupal
 
-[Beyonce's official website](http://www.beyonceonline.com/) is now using [Drupal](https://www.drupal.org). *Oh oh oh!*
+[Beyoncé's official website](http://www.beyonceonline.com/) is now using [Drupal](https://www.drupal.org). *Oh oh oh!*
 
 ![Beyoncé's black-and-white website promoting her album "I Am... Sasha Fierce", with her photo in a leather jacket and a news and blog section.](http://default/files/cache/drupal/beyonce-640w.jpg)

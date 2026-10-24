@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/acquia-fastest-growing-software-company-in-us'
-title: 'Acquia fastest growing software company in US'
+title: 'Acquia fastest growing software company in the US'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -15,7 +15,7 @@ featured: true
 id: 2761
 ---
 
-# Acquia fastest growing software company in US
+# Acquia fastest growing software company in the US
 
 Wow!
 

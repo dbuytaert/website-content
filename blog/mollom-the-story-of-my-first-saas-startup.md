@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/mollom-the-story-of-my-first-saas-startup'
-title: 'Mollom: The story of my first SaaS startup'
+title: 'Mollom: the story of my first SaaS startup'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -18,7 +18,7 @@ published: true
 id: 4316
 ---
 
-# Mollom: The story of my first SaaS startup
+# Mollom: the story of my first SaaS startup
 
 ![Six people work on laptops around a long table covered with drinks and snacks, in a room with tall windows and plants.](http://default/files/cache/mollom/team-december-2011-640w.jpg)
 

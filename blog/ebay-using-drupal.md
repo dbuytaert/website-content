@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/ebay-using-drupal'
-title: 'Ebay using Drupal'
+title: 'eBay using Drupal'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -15,8 +15,8 @@ published: true
 id: 1981
 ---
 
-# Ebay using Drupal
+# eBay using Drupal
 
 ![EBay Classifieds Group homepage with a welcome message highlighting its global online classifieds network and local community connections.](http://default/files/cache/drupal/ebay-classifieds-group-640w.jpg)
 
-Ebay is using [Drupal](https://www.drupal.org) for <http://www.ebayclassifiedsgroup.com>. *Cool!*
+eBay is using [Drupal](https://www.drupal.org) for <http://www.ebayclassifiedsgroup.com>. *Cool!*

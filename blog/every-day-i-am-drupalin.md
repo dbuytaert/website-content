@@ -1,5 +1,5 @@
 ---
-url: 'https://dri.es/every-day-I-am-drupalin'
+url: 'https://dri.es/every-day-i-am-drupalin'
 title: "Every day I'm Drupalin'"
 author:
   name: 'Dries Buytaert'

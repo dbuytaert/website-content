@@ -1,6 +1,6 @@
 ---
-url: 'https://dri.es/brocolli-cream-soup'
-title: 'Brocolli cream soup'
+url: 'https://dri.es/broccoli-cream-soup'
+title: 'Broccoli cream soup'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -14,7 +14,7 @@ published: true
 id: 567
 ---
 
-# Brocolli cream soup
+# Broccoli cream soup
 
 I have never done much cooking in my life. I prepare the occasional spaghetti bolognese, but that is about it. And when I say "prepare", I mean that I heat up pre-cooked bolognese sauce.
 

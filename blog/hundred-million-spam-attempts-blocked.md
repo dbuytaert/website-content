@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/hundred-million-spam-attempts-blocked'
-title: 'Hundred million spam attempts blocked'
+title: 'One hundred million spam attempts blocked'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -15,7 +15,7 @@ published: true
 id: 801
 ---
 
-# Hundred million spam attempts blocked
+# One hundred million spam attempts blocked
 
 ![Bright green graphic celebrating Mollom reaching 10,000 active users and blocking 100 million spam messages.](http://default/files/images/mollom/100-million-milestone.jpg)
 *© Jamey Boje.*

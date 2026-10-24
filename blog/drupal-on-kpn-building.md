@@ -1,5 +1,5 @@
 ---
-url: 'https://dri.es/drupal-on-kpn-buiding'
+url: 'https://dri.es/drupal-on-kpn-building'
 title: 'Drupal on KPN building'
 author:
   name: 'Dries Buytaert'

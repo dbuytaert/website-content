@@ -38,7 +38,7 @@ The more you give away, the more you get back, and because of this, working on D
 
 We are still in a young market: there are [hundreds of Open Source CMSes](https://www.opensourcecms.com/), there is no real competition amongst them (*"We're all colleagues and friends!"*), not to mention we all benefit from what seems unwieldy growth. (Note that I'm talking about the Open Source CMS market, not the proprietary CMS market.)
 
-However, near the end of 2008, we'll see the first signs of consolidation in the Open Source CMS market. The Open Source CMS space will become less fragmented; the "big three" (i.e. Wordpress, Joomla! and Drupal) will continue to grow but the growth of many other systems (i.e. Plone, Typo3, Xoops, e107, ezPublish, dotNetNuke, etc) will slow down significantly.
+However, near the end of 2008, we'll see the first signs of consolidation in the Open Source CMS market. The Open Source CMS space will become less fragmented; the "big three" (i.e. Wordpress, Joomla! and Drupal) will continue to grow but the growth of many other systems (i.e. Plone, TYPO3, Xoops, e107, ezPublish, dotNetNuke, etc) will slow down significantly.
 
 The good news is that the Open Source CMS market becomes easier to shop in. The bad news is that there will be a competitive edge.
 

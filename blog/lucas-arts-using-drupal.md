@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/lucas-arts-using-drupal'
-title: 'Lucas Arts using Drupal'
+title: 'LucasArts using Drupal'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -15,9 +15,9 @@ published: true
 id: 1136
 ---
 
-# Lucas Arts using Drupal
+# LucasArts using Drupal
 
-Lucas Arts, the video game company of George Lucas, launched a stunning [Drupal](https://www.drupal.org) site for its upcoming MMORPG: *Star Wars, The Old Republic*. Check out the website at: <http://www.swtor.com>. *The Force is strong with Drupal!*
+LucasArts, the video game company of George Lucas, launched a stunning [Drupal](https://www.drupal.org) site for its upcoming MMORPG: *Star Wars, The Old Republic*. Check out the website at: <http://www.swtor.com>. *The Force is strong with Drupal!*
 
 ![Homepage of "Star Wars: The Old Republic" featuring a developer walkthrough announcement, news updates, and signup options for testing.](http://default/files/cache/drupal/star-wars-game-640w.jpg)
 

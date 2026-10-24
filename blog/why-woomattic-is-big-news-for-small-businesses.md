@@ -1,5 +1,5 @@
 ---
-url: 'https://dri.es/why-woonattic-is-big-news-for-small-businesses'
+url: 'https://dri.es/why-woomattic-is-big-news-for-small-businesses'
 title: 'Why WooMattic is big news for small businesses'
 author:
   name: 'Dries Buytaert'

@@ -1,5 +1,5 @@
 ---
-url: 'https://dri.es/mollom-for-silverStripe'
+url: 'https://dri.es/mollom-for-silverstripe'
 title: 'Mollom for SilverStripe'
 author:
   name: 'Dries Buytaert'

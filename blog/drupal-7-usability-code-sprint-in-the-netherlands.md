@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/drupal-7-usability-code-sprint-in-the-netherlands'
-title: 'Drupal 7 usability code sprint in The Netherlands'
+title: 'Drupal 7 usability code sprint in the Netherlands'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -15,7 +15,7 @@ published: true
 id: 681
 ---
 
-# Drupal 7 usability code sprint in The Netherlands
+# Drupal 7 usability code sprint in the Netherlands
 
 On Friday, there is a [Drupal meetup happening in Utrecht](https://drupal.be/evenement/drupaljam-v-utrecht), The Netherlands. I'm planning to attend so looking forward to meet some of you there.
 

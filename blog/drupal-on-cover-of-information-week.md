@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/drupal-on-cover-of-information-week'
-title: 'Drupal on cover of Information Week'
+title: 'Drupal on cover of InformationWeek'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -13,8 +13,8 @@ published: true
 id: 539
 ---
 
-# Drupal on cover of Information Week
+# Drupal on cover of InformationWeek
 
-Drupal was featured on the cover of last week's [Information Week](http://www.informationweek.com/), a weekly technology magazine with 440,000 subscribers. The accompanying article is also available online: [Collaboration is at the heart of Open Source content management](http://www.informationweek.com/news/software/open_source/showArticle.jhtml?articleID=212002359). (Hat tip: [John VanDyk](https://www.sysarchitects.com/node/86) and [The Worx Company](https://worxco.com/blog/drupal-front-informationweek-magazine))
+Drupal was featured on the cover of last week's [InformationWeek](http://www.informationweek.com/), a weekly technology magazine with 440,000 subscribers. The accompanying article is also available online: [Collaboration is at the heart of Open Source content management](http://www.informationweek.com/news/software/open_source/showArticle.jhtml?articleID=212002359). (Hat tip: [John VanDyk](https://www.sysarchitects.com/node/86) and [The Worx Company](https://worxco.com/blog/drupal-front-informationweek-magazine))
 
 ![Magazine cover of InformationWeek featuring flags of open-source technologies like Drupal, Linux, and Nagios against a glass building.](http://default/files/images/drupal/information-week.jpg)

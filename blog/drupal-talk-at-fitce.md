@@ -1,5 +1,5 @@
 ---
-url: 'https://dri.es/drupal-talk-at-fitche'
+url: 'https://dri.es/drupal-talk-at-fitce'
 title: 'Drupal talk at FITCE'
 author:
   name: 'Dries Buytaert'

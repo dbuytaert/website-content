@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/menshealth-using-drupal'
-title: 'MensHealth using Drupal'
+title: "Men's Health using Drupal"
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -15,8 +15,8 @@ published: true
 id: 273
 ---
 
-# MensHealth using Drupal
+# Men's Health using Drupal
 
-[MensHealth](http://www.menshealth.com), the publisher of one of the largest men's lifestyle magazines in the world, is now using [Drupal](https://www.drupal.org/) for their German community website. Check it out at <http://community.menshealth.de/>. *Brings health and dating tips closer to male Drupal developers! ;-)*
+[Men's Health](http://www.menshealth.com), the publisher of one of the largest men's lifestyle magazines in the world, is now using [Drupal](https://www.drupal.org/) for their German community website. Check it out at <http://community.menshealth.de/>. *Brings health and dating tips closer to male Drupal developers! ;-)*
 
 ![A German Men's Health website page featuring articles on fitness, health, diet, and lifestyle, with a focus on jet lag remedies.](http://default/files/images/drupal/menshealth.jpg)

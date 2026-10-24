@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/sony-ericsson-using-drupal'
-title: 'Sony Ericsson Using Drupal'
+title: 'Sony Ericsson using Drupal'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -15,7 +15,7 @@ published: true
 id: 666
 ---
 
-# Sony Ericsson Using Drupal
+# Sony Ericsson using Drupal
 
 Sony Ericsson's first [Drupal](https://www.drupal.org) web site was officially launched yesterday at the [JavaOne conference](http://java.sun.com/javaone/). The site, called [Sony Ericsson Labs](http://labs.sonyericsson.com/), is a community website to shares application concepts with everyone who is interested in mobile applications and where new ideas can begin to take shape.
 

@@ -24,4 +24,4 @@ Met a bunch of interesting (non-Drupal) people at the Northern Voice conference.
 ![A man wearing a hat and a lanyard stands indoors, looking slightly to the side with a neutral expression.](http://default/files/cache/vancouver-2006/tim-bray-640w.jpg)
 *Tim Bray, Sun Microsystems employee, W3C member and co-inventor of XML. Tim made Sun Microsystems donate a Sun Fire V20z server to the Drupal project. I finally got to say "thank you" in person.*
 ![A man with short, light brown hair wearing a black Technorati T-shirt, smiling slightly while looking at the camera.](http://default/files/cache/vancouver-2006/matt-mullenweg-640w.jpg)
-*Matt Mullenweg, lead developer of WordPress and co-founder of Automattic, the company behind WordPress.com and Akismet. We talked about web technologies and open source development on more than one occasion this week. Really nice guy to hang out with!*
+*Matt Mullenweg, lead developer of WordPress and co-founder of Automattic, the company behind WordPress.com and Akismet. We talked about web technologies and Open Source development on more than one occasion this week. Really nice guy to hang out with!*

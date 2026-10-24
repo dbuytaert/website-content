@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/mollom-in-datanews'
-title: 'Mollom in Datanews'
+title: 'Mollom in Data News'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -14,8 +14,8 @@ published: true
 id: 554
 ---
 
-# Mollom in Datanews
+# Mollom in Data News
 
-Koen Vervloesem interviewed me about [Mollom](https://mollom.com) for [Datanews](http://datanews.knack.be/ict/?origin=datanews.be&destination=/), a weekly Belgian IT magazine. We're featured as the "start-up of the week" in the December 5 issue. If you understand Dutch, you can [read the article online](http://www.datanews.be/nl/news/90-112-21395/mollom-beschermt-internet-tegen-rommel.html).
+Koen Vervloesem interviewed me about [Mollom](https://mollom.com) for [Data News](http://datanews.knack.be/ict/?origin=datanews.be&destination=/), a weekly Belgian IT magazine. We're featured as the "start-up of the week" in the December 5 issue. If you understand Dutch, you can [read the article online](http://www.datanews.be/nl/news/90-112-21395/mollom-beschermt-internet-tegen-rommel.html).
 
 ![A newspaper article about Mollom, a startup that protects the internet from spam and unwanted content.](http://default/files/cache/mollom/datanews-2008-1-640w.jpg)

@@ -17,6 +17,7 @@ tags:
 image: drupalcon-rotterdam-2026/driesnote
 discussions:
   - { platform: LinkedIn, url: 'https://www.linkedin.com/feed/update/urn:li:activity:7513516254889058304/' }
+  - { platform: 'Hacker News', url: 'https://news.ycombinator.com/item?id=50158408' }
 published: true
 featured: false
 id: 6336
@@ -122,4 +123,4 @@ My ask is simple: talk louder about Drupal, especially to people outside our com
 
 *I want to extend my gratitude to everyone who contributed to making my presentation and demos a success. A special thank you to [Bálint Kléri](https://www.drupal.org/u/balintbrews), [Christoph Breidert](https://www.drupal.org/u/breidert), [Gábor Hojtsy](https://www.drupal.org/u/gábor-hojtsy), [Lauri Timmanee](https://www.drupal.org/u/lauriii), [Matt Glaman](https://www.drupal.org/u/mglaman), [Michael Lander](https://www.drupal.org/u/michaellander), [Pamela Barone](https://www.drupal.org/u/pameeela), [Shibin Das](https://www.drupal.org/u/d34dman), and the [Drupal AI partners](https://www.drupal.org/ai/partners). Many others contributed indirectly to make this possible. If I've inadvertently omitted anyone, please reach out.*
 
-PS: Follow the discussion on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7513516254889058304/).
+PS: Follow the discussion on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7513516254889058304/) or [Hacker News](https://news.ycombinator.com/item?id=50158408).

@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/digital-distributors-the-supermarkets-of-the-web'
-title: 'Digital Distributors: The Supermarkets of the Web'
+title: 'Digital Distributors: the supermarkets of the web'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -16,7 +16,7 @@ featured: false
 id: 3411
 ---
 
-# Digital Distributors: The Supermarkets of the Web
+# Digital Distributors: the supermarkets of the web
 
 It's hard to ignore the strong force of digital distributors on the open web. In a previous post, I focused on [three different scenarios for the future of the open web](https://dri.es/digital-distributors-vs-open-web-who-will-win). In two of the three scenarios, the digital distributors are the primary way for people to discover news, giving them an extraordinary amount of control.
 

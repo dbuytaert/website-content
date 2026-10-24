@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/podcast-talking-digital-sovereignty-with-james-kanter'
-title: 'Podcast: Talking digital sovereignty with James Kanter'
+title: 'Podcast: talking digital sovereignty with James Kanter'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -20,7 +20,7 @@ featured: false
 id: 6236
 ---
 
-# Podcast: Talking digital sovereignty with James Kanter
+# Podcast: talking digital sovereignty with James Kanter
 
 Open Source won the technical argument a long time ago. But it still hasn't solved the funding and sustainability problem, one I've spent much of my career chipping away at.
 

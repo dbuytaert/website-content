@@ -47,7 +47,7 @@ Free time is a mark of privilege, rather than an equal right. Instead of chasing
 
 This fallacy of "free time" makes Open Source communities suffer from a lack of diversity. The demographics are even worse than the technology industry overall: while 22.6% of [professional computer programmers](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/) in the workforce identify as women (Bureau of Labor Statistics), less than 5% of contributors do in Open Source (GitHub). And while 34% of programmers identify as ethnic or national minorities (Bureau of Labor Statistics), only 16% do in Open Source (GitHub).
 
-![Table: 22.6% of US tech programmers aren't male versus 5% in open source, and 34% aren't white versus 16%, with question marks for Drupal.](http://default/files/cache/blog/diversity-in-technology-vs-open-source-640w.png)
+![Table: 22.6% of US tech programmers aren't male versus 5% in Open Source, and 34% aren't white versus 16%, with question marks for Drupal.](http://default/files/cache/blog/diversity-in-technology-vs-open-source-640w.png)
 
 It's important to note that time isn't the only factor; sometimes a hostile culture or unconscious bias play a part in limiting diversity. According to the same GitHub survey cited above, 21% of people who experienced negative behavior stopped contributing to Open Source projects altogether. Other recent research showed that [women's pull requests were more likely to get accepted if they had a gender-neutral username](https://www.theguardian.com/technology/2016/feb/12/women-considered-better-coders-hide-gender-github). Unfortunately, examples like these are common.
 

@@ -1,6 +1,6 @@
 ---
 url: 'https://dri.es/ahold-using-drupal'
-title: 'AHOLD using Drupal'
+title: 'Ahold using Drupal'
 author:
   name: 'Dries Buytaert'
   url: 'https://dri.es/about'
@@ -16,8 +16,8 @@ published: true
 id: 582
 ---
 
-# AHOLD using Drupal
+# Ahold using Drupal
 
-[AHOLD](http://www.ahold.com), the holding of [Albert Heijn](https://www.ah.nl/), a major Dutch retailer with 100.000 employees worldwide, is using [Drupal](https://www.drupal.org) for their main website: <http://ahold.com>. *(Hat tip: George Moses and [Bert Boerland](http://willy.boerland.com/myblog/ahold_using_drupal))*
+[Ahold](http://www.ahold.com), the holding of [Albert Heijn](https://www.ah.nl/), a major Dutch retailer with 100.000 employees worldwide, is using [Drupal](https://www.drupal.org) for their main website: <http://ahold.com>. *(Hat tip: George Moses and [Bert Boerland](http://willy.boerland.com/myblog/ahold_using_drupal))*
 
 ![A woman in a beige blazer stands next to the text "Financial Overview" on a corporate webpage for Ahold.](http://default/files/cache/drupal/ahold-640w.jpg)

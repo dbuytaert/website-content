@@ -132,7 +132,7 @@ We finally updated Drupal.org to [enable semantic versioning for contributed mod
 
 Composer Façade continued to support modules that had not adopted semantic versioning.
 
-![The Automativ Updates initiative requires integrity checks for Drupal core, Composer 2, package signing and a custom bootloader.](http://default/files/cache/drupalcon-global-2020/drupal-10-automated-updates-640w.png)
+![The Automativ Updates initiative requires integrity checks for Drupal Core, Composer 2, package signing and a custom bootloader.](http://default/files/cache/drupalcon-global-2020/drupal-10-automated-updates-640w.png)
 *A slide from [my keynote at DrupalCon Global 2020](https://dri.es/state-of-drupal-presentation-july-2020) where I gave an update on the Automatic Updates initiative. The slide shows the four major architectural building blocks of the Automatic Updates initiative.*
 
 Meanwhile, work on Automatic Updates continued. Because we had already embraced Composer, it seemed obvious that we would use Composer under the hood to power Automatic Updates. However, there was one feature we identified as missing from the existing Composer/Packagist ecosystem: package signing.

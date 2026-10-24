@@ -9,7 +9,7 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 type: blog
 tags:
   - Drupal
-  - Barcamp
+  - BarCamp
   - Schwag
 published: true
 id: 78
