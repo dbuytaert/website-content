@@ -49,7 +49,7 @@ id: 3486
   <td>2024</td>
   <td><a href="https://techwolf.com/">TechWolf</a></td>
   <td>AI-powered skills intelligence (Series B)</td>
-  <td></td>
+  <td>Sold to SAP</td>
 </tr>
   <tr>
   <td>2023</td>
