@@ -21,8 +21,14 @@ id: 3486
   <th>Description</th>
   <th>Status</th>
 </tr>
-  <tr>
+<tr>
   <td>2026</td>
+  <td><a href="https://www.flumefabric.com/">Flume Fabric</a></td>
+  <td>Turning existing buildings into AI infrastructure (Series A)</td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
   <td><a href="https://arcnc.com/">ArcNC</a></td>
   <td>Automated programming for welding robots (Pre-seed)</td>
   <td></td>
