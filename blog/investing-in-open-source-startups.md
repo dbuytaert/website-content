@@ -24,7 +24,7 @@ From [the day we started Acquia](https://dri.es/acquia-my-drupal-startup), we ha
 
 I'm very passionate about Open Source and startups and want to see more Open Source startups succeed. In my role as the syndicate lead for the Open Source \_Core, I can help other Open Source entrepreneurs raise money, get started and scale their companies and Open Source projects.
 
-Does that mean I'll be leaving Drupal or Acquia? No. I'll continue as the lead of the Drupal project and the CTO of Acquia. Drupal and Acquia continue to be my full-time focus. I have been advising entrepreneurs and startups for the last 5+ years and have been a [moderately active angel investor](https://dri.es/angel-investments) for the past two years. Not much, if anything, will change about my day-to-day. \_Underscore.VC gives me a better platform to advise and invest, give back and help others succeed with Open Source startups. It's a chance to amplify the "[do well and do good](https://dri.es/do-well-do-good)" mantra that drives me.
+Does that mean I'll be leaving Drupal or Acquia? No. I'll continue as the lead of the Drupal project and the CTO of Acquia. Drupal and Acquia continue to be my full-time focus. I have been advising entrepreneurs and startups for the last 5+ years and have been a [moderately active angel investor](https://dri.es/investments) for the past two years. Not much, if anything, will change about my day-to-day. \_Underscore.VC gives me a better platform to advise and invest, give back and help others succeed with Open Source startups. It's a chance to amplify the "[do well and do good](https://dri.es/do-well-do-good)" mantra that drives me.
 
 ## Mautic and the power of syndicates
 

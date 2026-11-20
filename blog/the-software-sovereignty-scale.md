@@ -89,7 +89,7 @@ The most important distinction in the scale is between Open Source and proprieta
 
 At the bottom, **grade E**, is foreign proprietary software: no source code, no right to modify, and no alternative if the vendor changes terms. Your vendor is subject to its home government's jurisdiction, and by extension, so is your data.
 
-**Grade D** is European proprietary software, which is where "Buy European" usually comes in. It has real benefits: European jurisdiction, GDPR alignment, local accountability, and it keeps investment circulating in the European ecosystem. As someone who has started companies and [invests in startups](https://dri.es/angel-investments), I want more technology companies to succeed, not fewer. But "European" can be a temporary property of a company: it can change with a single board meeting.
+**Grade D** is European proprietary software, which is where "Buy European" usually comes in. It has real benefits: European jurisdiction, GDPR alignment, local accountability, and it keeps investment circulating in the European ecosystem. As someone who has started companies and [invests in startups](https://dri.es/investments), I want more technology companies to succeed, not fewer. But "European" can be a temporary property of a company: it can change with a single board meeting.
 
 [Skype](https://en.wikipedia.org/wiki/Skype) was founded by a Swede and a Dane, built by Estonian engineers, and headquartered in Luxembourg. eBay acquired it in 2005, and Microsoft acquired it in 2011. The eBay transaction turned a world-leading European technology into an American one, and it was cemented with the Microsoft deal.
 

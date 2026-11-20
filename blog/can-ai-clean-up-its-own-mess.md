@@ -39,6 +39,6 @@ AI risks adding to that burden. It makes it easier for people to generate code a
 
 And just like with energy discovery, AI might also be the solution. There already exist AI-powered review tools that can scan pull requests, enforce project standards and surface issues before a human even looks at them.  If you believe AI-generated code is here to stay (I do), AI-assisted review might not be optional. 
 
-I'm no Fred Wilson, but as [an occasional angel investor](https://dri.es/angel-investments), such review tools look like a good way to go long on vibe coding.  And as Drupal's Project Lead, I'd love to collaborate with the providers of these tools. If we can make Open Source maintenance more scalable and sustainable, everyone benefits.
+I'm no Fred Wilson, but as [an occasional angel investor](https://dri.es/investments), such review tools look like a good way to go long on vibe coding.  And as Drupal's Project Lead, I'd love to collaborate with the providers of these tools. If we can make Open Source maintenance more scalable and sustainable, everyone benefits.
 
 So yes, the technology making a situation worse might also be capable of helping to solve it. That is rare enough to pay attention to.

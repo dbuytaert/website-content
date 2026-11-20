@@ -80,7 +80,7 @@ I also love travel and adventure, especially hiking and skiing. And no matter wh
   <div class="title">Angel investor</div>
   <div class="date">2013 - current</div>
   <p>
-  I make <a href="/angel-investments">angel investments</a> in startups, with a focus on technology. Notable investments include Toast (IPO), Circle (IPO), and Oqton (acquired by 3D Systems).
+  I make <a href="/investments">angel investments</a> in startups, with a focus on technology. Notable investments include Toast (IPO), Circle (IPO), and Oqton (acquired by 3D Systems).
 </p>
 </li>
   <li>
